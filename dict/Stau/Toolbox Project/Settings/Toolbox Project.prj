@@ -1,0 +1,215 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.5.9 Apr 2011
+\ProjectPath C:\Users\Anton\Documents\Dropbox\DicoRgyalrong\resnyeskad\Toolbox Project\Toolbox Project\Settings\Toolbox Project.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstCorpus Text
+\WordLstLimitCount
+\WordLstMaxCount 10
+\ConcordanceCorpus Text
+\ConcordanceSearch \et
+\ConcordanceSearchType 3
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput Concordance.db
+\+Corpus Free translation
+\FilesList C:\Users\Anton\Documents\Dropbox\DicoRgyalrong\resnyeskad\Toolbox Project\Toolbox Project\Texts.txt
+\lng English
+\WordMarkers \ft
+\BookMarker \ref
+\WordIndex C:\Users\Anton\Documents\Dropbox\DicoRgyalrong\resnyeskad\Toolbox Project\Toolbox Project\Freetran.wi
+\WordListOutput wordlistft.db
+\-Corpus
+\+Corpus Text
+\FilesList C:\Users\Anton\Documents\Dropbox\DicoRgyalrong\resnyeskad\Toolbox Project\Toolbox Project\Texts.txt
+\lng vernacular
+\WordMarkers \tx
+\BookMarker \ref
+\WordIndex C:\Users\Anton\Documents\Dropbox\DicoRgyalrong\resnyeskad\Toolbox Project\Toolbox Project\Text.wi
+\WordListOutput wordlist.db
+\-Corpus
+\-CorpusSet
+\NoAutoWrap
+\LangCtrlHeight 24
+\DontValidateOnEdit
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain normal -1 -1 -1 -1 180 12 1080 571
+\+dblst 
+
+\+db C:\Users\Anton\Documents\Dropbox\DicoRgyalrong\resnyeskad\Toolbox Project\Toolbox Project\Dictionary.txt
+\+wndlst 
+\+wnd 
+\placement normal -1 -1 -1 -1 358 -1 1573 863
+\z 0
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 177
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 1189
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey abcde
+\mkrSecKey ps
+\-ind
+\+rec 
+\fldPriKey se
+\fldSecKey vi
+\-rec
+\+keySearch 
+\fldPri se
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri nor
+\MatchWhole
+\match_char p
+\-keyInsert
+\CaretLine 0
+\CaretLineScroll 0
+\CaretChar 0
+\-wnd
+\+wnd 
+\placement normal 0 857 -8 -30 -1 -1 313 911
+\z 1
+\ViewMarkers
+\ViewFieldNames
+\widthMarkerArea 121
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr lx
+\width 271
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey lx
+\srtPriKey abcde
+\mkrSecKey ps
+\-ind
+\+rec 
+\fldPriKey se
+\fldSecKey vi
+\-rec
+\+keySearch 
+\fldPri tsʰõ
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri parma
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\SingleField
+\Field lx
+\match_char p
+\+ftxlst 
+\+ftx 
+\text zdor
+\lng vernacular
+\-ftx
+\+ftx 
+\text ftsa
+\lng vernacular
+\-ftx
+\+ftx 
+\text dɔr
+\lng vernacular
+\-ftx
+\+ftx 
+\text qʰi
+\lng vernacular
+\-ftx
+\+ftx 
+\text ʂaˠʂaˠ
+\lng vernacular
+\-ftx
+\+ftx 
+\text learn
+\lng English
+\-ftx
+\+ftx 
+\text kʰembo
+\lng vernacular
+\-ftx
+\+ftx 
+\text ndʑe
+\lng vernacular
+\-ftx
+\+ftx 
+\text et
+\lng vernacular
+\-ftx
+\+ftx 
+\text ŋgra
+\lng vernacular
+\-ftx
+\+ftx 
+\text chez
+\lng English
+\-ftx
+\+ftx 
+\text ɣde
+\lng vernacular
+\-ftx
+\+ftx 
+\text e-zbə
+\lng vernacular
+\-ftx
+\+ftx 
+\text \et
+\lng vernacular
+\-ftx
+\+ftx 
+\text [...]
+\lng vernacular
+\-ftx
+\+ftx 
+\text tɕʰi
+\lng vernacular
+\-ftx
+\+ftx 
+\text 睡
+\lng national
+\-ftx
+\+ftx 
+\text ɬev
+\lng vernacular
+\-ftx
+\+ftx 
+\text ntʰev
+\lng vernacular
+\-ftx
+\+ftx 
+\text məzdi
+\lng vernacular
+\-ftx
+\-ftxlst
+\-Find
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
+\-ShProjectSettings

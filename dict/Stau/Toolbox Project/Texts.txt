@@ -1,0 +1,22 @@
+\_sh v3.0  621  Text
+
+\id
+\ref
+\tx ŋa  meʁe  de   tə-spo
+\mb ŋa  meʁe  de   tə-   spo
+\ge 1_sg poplar _dem _pfv-  move.1_sg
+\ps pro  noun   pro  vpref- vt
+
+\tx ɲi  ŋa-ɲə-gi      spɔ-ʁɔ  ə-ʁɔ
+\mb ɲi  ŋa  -ɲə -gi   spɔ -ʁɔ ə-     ʁɔ
+\ge 2_sg 1_sg -_pl  -_dat move -_all _inter- help
+\ps pro  pro  -suff -suff vt   -suff part-   vtf
+\tx ŋa ɲi
+\mb ŋa ɲi
+\ge *** ***
+\ps *** ***
+
+
+\id ə-
+\ref
+\tx

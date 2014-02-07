@@ -1,0 +1,8578 @@
+\_sh v3.0  231  MDF 4.0
+\_DateStampHasFourDigitYear
+
+\lx ada
+\ps n
+\ge father
+\gn 爸爸
+\dt 26/Nov/2013
+
+\lx aɣəda
+\ps n
+\ge south
+\gn 南
+\dt 09/Apr/2013
+
+\lx akəta
+\ps n
+\ge north
+\gn 北
+\dt 09/Apr/2013
+
+\lx amə
+\ps n
+\ge elder sibling (feamle speaking)
+\gn 姐姐
+\dt 17/Dec/2013
+
+\lx anəda
+\ps n
+\ge west
+\gn 西
+\dt 09/Apr/2013
+
+\lx arəda
+\ps n
+\ge east
+\gn 东
+\xv arəda durɔ
+\xe jusqu'en haut
+\dt 18/Nov/2013
+
+\lx a-ʁi
+\ps cl
+\ge one (person)
+\gn 一个（人）
+\xv aʁiʁi
+\xe each person
+\xn 每个人
+
+\lx atɕəpi
+\ps adv.interro
+\ge how
+\gn 怎么
+\dt 11/Apr/2013
+
+\lx avaqʰi
+\ps vi
+\ge bad
+\gn 坏的
+\dt 18/Apr/2013
+
+\lx bə (sa)
+\ps vi
+\ge leave for good
+\gn
+\xv sa tə-bə-sə
+\dt 30/Sep/2013
+
+\lx bəbə
+\ps vi
+\ge thin
+\gn 薄
+
+\rgy mba
+\dt 18/Nov/2013
+
+\lx bəlʚ
+\ps n
+\ge cheek
+\gn 面颊
+
+\lx bərje
+\ps vi
+\ge burn
+\gn 烧
+\mr tə-
+\3s tə-bərje-sə
+\dt 15/Oct/2013
+
+\lx bev
+\a pev
+\ps vi
+\ge go down
+\gn 下去
+\mr nə
+\1s nə-bã
+\2s nə-bev
+\3s nə-bev
+\1p nə-bã
+\xv tə jɔʁɔ jəkʰa ɲəvə nə-bev-sə
+\xe Il est descendu du haut de la maison au rez de chaussée.
+\xv ŋa tə pev tɕʰa vdow.
+\xe I saw him fall down.
+\xn 我看到他下来了。
+\et bab
+\dt 18/Nov/2013
+
+\lx bja
+\ps vi
+\ge crack
+\gn 裂开
+\mr tə
+\1s tə-bjã
+\2s tə-bja
+\3s tə-bja
+\1p tə-bjã
+\xv leʂə mə tə-bja rə zgʚrɟu de ɣə-xcʰi.
+\xe Open the window when dawn breaks.
+\dt 18/Nov/2013
+
+\lx bre
+\a pre
+\ps vt
+\mr tə-
+\ge want
+\1s tə-bre
+\2s ə-bre-rə
+\3s tə-bre-sə
+\xv ŋa tɕa tʰi-sɲə pre-rə
+\xe I want to drink some tea
+\xv ŋa zama ŋgə-sɲə tə-bre
+\xe I wanted to eat
+\dt 18/Dec/2012
+
+\lx bre
+\ps vi
+\ge (thread, flexible objects) break
+\gn 断（线，有弹性物）
+\mr tə
+\1s tə-brã
+\2s tə-bre
+\3s tə-bre
+\1p tə-brã
+\rgy mbrɤt
+\dt 18/Nov/2013
+
+\lx brə
+\ps vi
+\ge get up
+\gn 起床
+\mr tə
+\1s tə-brõ
+\2s tə-brə
+\3s tə-brə
+\1p tə-brõ
+\xv pəɕi ŋa prə ma-vzu dʑə, liska nə taˠtaˠ maɮdã.
+\xe This morning I was too sleepy to get up, so I didn't arrive at work on time.
+\xn 今天早上我起不来 ，所以没能按时上班。
+\rgy rɤru?
+\dt 18/Nov/2013
+
+\lx caˠ
+\ps vi
+\ge good
+\gn 好
+\xv ni caˠ!
+\xe Good morning!
+\xn 你好！（早上）
+\xv ka caˠ!
+\xe Good night!
+\xn 晚安！
+\mr nə
+\ge appropriate
+\gn 合适的
+\xv ŋa tɕʰəge fɕou tə-ntsʰu rəgu, fɕe ve nə-ma-caˠ.
+\xe I wanted to say something but it is not very appropriate.
+\xn 我想说一件事，但这不太合适。
+\mr tə
+\ge fuck
+\gn 肏
+\xv ŋa smi de ʁa tə-caˠ.
+\xe I fucked the woman.
+\xn 我干了这个女人。
+\dt 30/Apr/2013
+
+\lx cʰa
+\ps vi
+\ge win
+\gn 胜利
+\mr tə
+\1s tə-cʰã
+\2s tə-cʰa
+\3s tə-cʰa
+\1p tə-cʰã
+\xv ŋa tə-gi tə-cʰã.
+\xe I beat him
+\xn 我赢了他。
+\xv tu ŋa-gi mi-cʰa rə.
+\xe I can't beat me.
+\xn 他打不过我。
+\rgy cʰa
+\dt 18/Nov/2013
+
+\lx cʰawa
+\ps n
+\ge aîné
+\gn 老大（兄弟）
+\dt 30/Sep/2013
+
+\lx cʰe
+\ps vi
+\ge big
+\gn 大
+\mr
+\1s cʰã
+\2s cʰe
+\3s cʰe
+\1p cʰã
+\xv jʚ de kõ ke cʰe gə ŋərə.
+\xe The house is very expensive.
+\xn 这房子很贵。
+\dt 18/Apr/2013
+
+\lx cʰe
+\ps vi
+\ge have time to
+\gn 来得及
+\xv ŋi pəsɲə zama ŋgə mi-cʰe-rə
+\xe Today I don't have time to eat.
+\dt 30/Sep/2013
+
+\lx cʰə
+\ps vt
+\ge weigh
+\gn 称
+\mr rə
+\1s rə-cʰu
+\2s rə-cʰi
+\3s rə-f-cʰə
+\1p rə-cʰõ
+\xv rɟama nə ɕʰa rə-cʰu.
+\xe I weighed the barley on the scales.
+\xn 我在秤上称了大麦。
+\dt 30/Apr/2013
+
+\lx cʰə
+\ps vt
+\ge lift up
+\gn 支起，抬起
+\mr rə
+\1s rə-cʰu
+\2s rə-cʰi
+\3s rə-f-cʰə
+\1p rə-cʰã
+\dt 09/Apr/2013
+
+\lx cəɟa
+\ps vi
+\ge lean
+\gn 靠
+\mr kə
+\1s kə-ɟəɟã
+\2s kə-ɟəɟa
+\3s kə-ɟəɟa
+\1p kə-ɟəɟã
+\xv zdi ʁa kə-ɟəɟa
+\xe lean against the wall
+\xn 靠在墙上
+\xv smi de ʁa kə-ɟəɟã
+\xe I groped the woman.
+\xn 我摸了这个女人。
+
+\lx cʰemicʰe
+\ps n
+\ge in a hurry
+\gn 着急
+\xv ŋa cʰemicʰe ŋõ.
+\xe 我很着急。
+\dt 01/Jul/2013
+
+\lx cʰəmtsʰõ
+\ps n
+\ge family
+\gn 家庭
+\dt 01/Jul/2013
+
+\lx cʰi
+\ps n
+\ge fond
+\gn 底部
+\dt 18/Nov/2013
+
+\lx cʰu
+\ps vi
+\ge be.hot
+\gn 热
+\xv ŋa jə cʰu-rə
+\xe I feel hot too.
+\dt 21/May/2013
+
+\lx ɕa
+\ps vt
+\ge look for
+\gn 寻找
+\mr tə
+\1s tə-ɕow
+\2s tə-ɕej
+\3s tə-f-ɕa
+\1p tə-ɕã
+\xv tu ŋa tə-f-ɕã sə.
+\xe He looked for me.
+\xn 他找了我。
+\rgy ɕar
+\dt 18/Nov/2013
+
+\lx ɕa
+\ps n
+\ge barley
+\gn 大麦
+\dt 30/Apr/2013
+
+\lx ɕa vɟaˠ
+\ps vi
+\ge fat
+\gn 胖
+\xv ŋa ɕa ke vɟaˠ gə ŋo ve.
+\xe I am very fat.
+\dt 24/Apr/2013
+
+\lx ɕatsa
+\ps adv
+\ge many
+\gn 很多
+\dt 30/Sep/2013
+
+\lx ɕə
+\ps vi
+\ge go
+\gn 去
+\mr _
+\1s tə-ɕã
+\2s
+\3s
+\1p
+\xv ŋa tə-ɕã ə-ŋgrə?
+\xe Can I go?
+\rgy ɕe
+\dt 18/Nov/2013
+
+\lx ɕəɕe
+\ps vt
+\ng v
+\mr nə-
+\ge rub
+\1s nə-ɕəɕow
+\1p nə-ɕəɕã
+\2s nə-ɕəɕej
+\3s nə-f-ɕə-f-ɕe
+\dt 19/Dec/2012
+
+\lx ɕəɕe
+\ps adv
+\ge only
+\gn 仅仅
+\dt 11/Apr/2013
+
+\lx ɕəɕʚ
+\ps vt
+\ge collect
+\gn 收集
+\mr rə
+\1s rə-ɕəɕow
+\2s rə-ɕəɕej
+\3s rə-fɕəfɕʚ
+\xv təɲu pʰjodzə rə-fɕəfɕʚ.
+\xe They collect money.
+\xn 他们收集钱财。
+\dt 12/Dec/2013
+
+\lx ɕeni
+\ps n
+\ge younger brother (male speaker)
+\gn 弟弟（男称）
+\dt 30/Apr/2013
+
+\lx ɕeɲi
+\ps n
+\ge younger brother (male speaking)
+\dt 17/Dec/2013
+
+\lx ɕer
+\ps vi
+\ge appear (celestial body)
+\gn 出现（天体）
+\xv skerma ɕer-sə ci rə.
+\xe The stars appear.
+\xn 星星出来了。
+\xv ɣbə ɕer-sə ci rə.
+\xe The sun appears.
+\xn 太阳出来了。
+\et ɕar
+\dt 18/Nov/2013
+
+\lx ɕəretɕe
+\ps n
+\ge road
+\gn 街
+\dt 01/Jul/2013
+
+\lx ɕev
+\ps vt
+\ge take out (a sheet out of a pile)
+\1s rə-ɕow
+\2s rə-ɕev
+\3s rə-ɕev
+\dt 24/Sep/2013
+
+\lx ɕezgʚ
+\ps n
+\ge mirror
+\gn 镜子
+\et ɕel.sgo
+\dt 18/Nov/2013
+
+\lx ɕi
+\ps Vt
+\mr _
+\ge take with oneself (living being)
+\gn 带上、带走
+\1s tə-ɕu
+\xv qʰana ɕi-re
+\xn
+\xv ŋa ŋi rji de rɟu le-re nə kə-ɕu
+\xn 我把马带到赛场去了
+\dt 02/Dec/2013
+
+\lx ɕõ
+\ps n
+\ge tree
+\gn 树
+\mr
+\dt 10/Apr/2013
+
+\lx ɕu
+\ps n
+\ge louse
+\gn 虱子
+\dt 21/Oct/2013
+
+\lx ɕu
+\ps adv
+\ge after
+\dt 21/Oct/2013
+
+\lx ɕutɕʰewa
+\ps adv
+\ge most
+\gn 大部分
+\dt 01/Jul/2013
+
+\lx ɕʚ
+\ps vt
+\ge gather, assemble
+\gn 集中，收集
+\mr rə
+\1s rə-ɕow
+\2s rə-ɕej
+\3s rə-f-ɕʚ
+\1p rə-ɕõ
+\dt 18/Nov/2013
+
+\lx ɕʚɣru
+\ps n
+\ge river
+\gn 河流
+\dt 14/Oct/2013
+
+\lx ɕʚʁʚ
+\ps vt
+\ge pick up
+\gn 捡起
+\mr rə
+\1s rə-ɕʚʁow
+\2s rə-ɕʚʁej
+\3s rə-f-ɕʚʁʚ
+\1p rə-ɕʚʁõ
+
+
+\dt 18/Nov/2013
+
+\lx dar
+\ps vi
+\ge old (age), get old
+\gn 老，变老
+\mr kə
+\1s kə-dã
+\2s kə-dar
+\3s kə-dar
+\1p kə-dã
+\xv ŋa kə-dã-sə
+\xe I am old now.
+\xn 我老了。
+\et dar
+\dt 18/Nov/2013
+
+\lx de
+\ps pro
+\ge _dem
+\gn 这个
+\dt 13/Nov/2012
+
+\lx de
+\ps vt
+\ge do
+\gn 做
+\mr -
+\1s dou
+\2s dei
+\3s v-de
+\1p dã
+\xv liska de nə-dei!
+\xe Do this work!
+\xn 做吧！
+
+\lx demdi
+\ps adv
+\ge only
+\gn 只，仅仅
+\xv tu tə gi  demdi mi-kʰʚ.
+\xe He only gives it to her.
+\xn 他只给她。
+\dt 22/Apr/2013
+
+\lx dev
+\ps adj
+\ge little
+\gn 小
+\dt 09/Sep/2013
+
+\lx dõ
+\ps vi
+\ge clear, limpid
+\gn 清澈
+\xv ɣrə de ke-dõ ŋgə ŋərə.
+\xe The water is very limpid.
+\xn 水很清澈。
+\xv ɕa kʰa ke-dõ.
+\xe The face is bright coloured.
+\xn 脸很白。
+\cf dwaŋs
+\dt 18/Nov/2013
+
+\lx dɔr
+\ps vi
+\ge burn
+\gn 燃起来
+\mr tə-
+\xv ɣmə ɣə-ntʰɔ ve, ɣme tɔr ŋərə
+\dt 15/Oct/2013
+
+\lx dzar
+\ps vi
+\mr _
+\ge fall
+\1s kə-dzã
+\xv ŋa ŋi ʁe nə jəkʰa təɲɟi zgɔrɟu nə kə-dzã.
+\xe Je suis tombé de ma porte jusqu'à sa fenêtre.
+\dt 18/Nov/2013
+
+\lx dzʚ
+\ps vi
+\ge accomodate
+\gn 合适
+\xv ɲəqʰe jʚ nõ vdzi χeʑə-ʁi tsʚ rə?
+\xe How many people can your house accomodate?
+\xn 你的房子能容纳多少人？
+\dt 14/May/2013
+
+\lx dʐa
+\ps vt
+\ge cut
+\gn 剪
+\ge saw
+\gn 锯掉
+\mr nə
+\1s nə-dʐow
+\2s nə-dʐej
+\3s nə-v-dʐa
+\1p nə-dʐã
+\xv <jianzi> kʰa nə-v-dʐa
+\xe cut with scissors
+\xn 用剪子剪
+\dt 18/Nov/2013
+
+\lx dʑə
+\ps vi
+\ge meet
+\gn 遇见
+\mr kə
+\1s kə-dʑõ
+\2s kə-dʑə
+\3s kə-dʑə
+\1p kə-dʑõ
+\xv ŋa esɲəsɲəma mí-dʑõ rə.
+\xe I don't meet him every day.
+\xn 我不是每天见到他。
+\dt 12/Dec/2013
+
+\lx dʑə
+\ps vi
+\ge melt
+\gn 融化
+\xv kʰawa kə-dʑə-sə.
+\xe The snow melted.
+\xn 雪化了。
+\rgy ndʐi
+\dt 18/Nov/2013
+
+\lx dʑi
+\ps lnk
+\ge then
+\gn 就
+\xv qəsji dʑi ɕə ŋə-rə
+\xn 他明天就走
+\dt 18/Oct/2013
+
+\lx ə-
+\ps part
+\ge @inter
+\gn 疑问
+\dt 18/Dec/2012
+
+\lx ecʰe
+\ps cl
+\ge nothing
+\xv ecʰe nə-ma-vu
+\gn 我什么也没有做
+\dt 18/Nov/2013
+
+\lx e-cʰe
+\ps cl
+\ge nothing
+\gn 什么（也没有）
+\dt 01/Jul/2013
+
+\lx e-ɣər
+\ps cl
+\ge
+\gn 一背
+\dt 02/May/2013
+
+\lx əlʚlʚ
+\ps n
+\ge every single
+\gn 每个
+\dt 23/Apr/2013
+
+\lx emdɔ
+\ps adv
+\ge a little
+\gn 一点
+\dt 09/Sep/2013
+
+\lx emtɕʰɔ
+\ps adv
+\ge a little
+\gn 一点
+\dt 09/Sep/2013
+
+\lx e-ndə
+\ps cl
+\ge un coup (de couteau)
+\gn 一戳
+\dt 21/Oct/2013
+
+\lx endʐendʐə
+\ps n
+\ge every time
+\gn 每次
+\dt 23/Apr/2013
+
+\lx eqhe
+\ps cl
+\ge
+\gn 一棵、一条
+\xv skəlɔ eqʰe
+\xn 一条绳子
+\xv ɮda eqʰe
+\xn 一只手
+\dt 15/Oct/2013
+
+\lx erba
+\ps cl
+\ge a page
+\gn 页
+\dt 10/Apr/2013
+
+\lx ərbarba
+\ps n
+\ge every page
+\gn 每页
+\dt 23/Apr/2013
+
+\lx ərgə
+\ps cl
+\ge one (a solid one), same
+\gn 一个，一样
+\dt 16/Apr/2013
+
+\lx e-ʁe
+\ps cl
+\ge one family
+\gn 一户、一家
+\dt 01/Jul/2013
+
+\lx escə
+\ps cl
+\ge
+\gn 一驮
+\dt 02/May/2013
+
+\lx e-skʰə
+\ps Cl
+\ge ration complète
+\xv e-skʰə nə-ŋgi
+\xn 你吃饱吧！
+\dt 26/Nov/2013
+
+\lx əsɲəsɲəma
+\ps n
+\ge everyday
+\gn 每天
+\dt 23/Apr/2013
+
+\lx esper
+\ps cl
+\ge a handful
+\gn 一手
+\dt 02/May/2013
+
+\lx ətɕəgə
+\ps pron
+\ge what
+\gn 什么
+\xv jasɲə ətɕəgə nə-vi?
+\xe What did you do yesterday?
+\xn 昨天你做了什么？
+\dt 09/Apr/2013
+
+\lx e-zbə
+\ps cl
+\ge one heap
+\gn 一堆
+\dt 18/Nov/2013
+
+\lx əʑe
+\ps n
+\ge a while
+\gn 一会儿
+\dt 23/Apr/2013
+
+\lx fcəde
+\ps n
+\ge mouse
+\gn 老鼠
+\dt 11/Apr/2013
+
+\lx fɕi
+\ps vi
+\ge be going to, have to
+\gn 要（做）
+\dt 30/Apr/2013
+
+\lx fɕupə
+\ps adj
+\ge wealthy
+\gn 富有
+\et pʰʲug.po
+\dt 09/Sep/2013
+
+\lx fkaˠ
+\ps vt
+\ge block
+\gn 堵住
+\mr tə-
+\et bkag
+\dt 18/Nov/2013
+
+\lx fkə
+\ps vi
+\ge be full
+\gn 饱
+\mr tə
+\1s tə-fkõ
+\2s tə-fkə
+\3s tə-fkə
+\1p tə-fkõ
+\xv tí-fkə?
+\xe Are you full?
+\xn 吃饱了吗？
+\nt wobzi vɣì
+\rgy fka
+\dt 18/Nov/2013
+
+\lx fkʰe
+\ps vt
+\ge cut
+\gn 砍
+\mr nə
+\1s nə-fkʰow
+\2s nə-fkʰej
+\3s nə-fkʰe
+\1p nə-fkʰõ
+\xv ɕõdõ əqʰe nə-fkʰou.
+\xe I cut down a tree.
+\xn 我砍下了一棵树。
+\cf vge
+\dt 18/Oct/2013
+
+\lx fɬe
+\ps n
+\ge dust, dirt
+\gn 尘土
+\dt 14/Oct/2013
+
+\lx fɬə
+\ps n
+\ge seed
+\gn 种子
+\dt 30/Apr/2013
+
+\lx fɬefɬə
+\ps vi
+\ge second hand
+\gn 二手的
+\dt 02/May/2013
+
+\lx fqʚ
+\ps n
+\ge plough
+\dt 01/Jul/2013
+
+\lx fsare
+\ps n
+\ge ploughland
+\gn 耕地
+\dt 18/Apr/2013
+
+\lx fsu
+\ps vi
+\ge bright
+\gn 亮
+\xv jʚ de ke fsu gə ŋərə.
+\xe The room is well lighted.
+\rgy fsoʁ
+\dt 18/Nov/2013
+
+\lx fsunu
+\ps n
+\ge moon
+\gn 月亮
+\dt 14/Oct/2013
+
+\lx ftɕə
+\ps vt
+\ge melt
+\gn 融
+\mr
+\1s ftɕu
+\2s ftɕi
+\3s ftɕə
+\1p ftɕõ
+\xv mala ftɕə dʑə rkʰʚ xtʂʰə fɕi ŋərə.
+\xe After melting the butter, one should let it cool down.
+\xn 融了牛油以后，要让它冷却一下。
+\rgy ftʂi
+\dt 18/Nov/2013
+
+\lx ftɕi
+\ps vi
+\ge castrated
+\gn 阉了的
+\mr nə
+\1s nə-ftɕã
+\2s nə-ftɕi
+\3s nə-ftɕi
+\1p nə-ftɕã
+\xv va ntɕʰə lə de ftɕi fɕi ŋərə.
+\xe The pig to be killed must be castrated first.
+\xn 送去屠宰的猪必须先被阉割。
+\rgy ftɕɤz
+\dt 18/Nov/2013
+
+\lx ftsa
+\ps n
+\ge rust
+\gn 锈
+\dt 14/Oct/2013
+
+\lx ftsa və
+\ps vt
+\ge avoid (certain food, clothes)
+\gn 忌（食物，衣服）
+\xv ze ftsa və
+\xe be on a diet
+\xn 忌口
+\xv tsəgə ftsa və
+\xe avoid certain clothes
+\xn 忌穿某种衣服
+\dt 16/Apr/2013
+
+\lx ftsʰe
+\ps vt
+\ge to dry, to heat
+\gn 烘干，加热
+\mr kə
+\1s kə-ftsʰou
+\2s kə-ftsʰei
+\3s kə-ftsʰe
+\1p kə-ftsʰã
+\xv ŋə tsəgə kə-ftsʰou.
+\xe I dried the clothes.
+\xn 我弄干了衣服。
+\xv zama rkʰərkʰʚ de ɣmə kʰa kə-ftsʰou.
+\xe I heated the dish on the fire.
+\xn 我把饭菜在火上烤了。
+\dt 09/Apr/2013
+
+\lx ftsu
+\ps vt
+\ge put
+\gn 放置
+\mr -
+\1s ftsu
+\2s ftsu
+\3s ftsu
+\1p ftsu
+\xv zɟəbə ftsu
+\xe put three stones to make a stove.
+\xn 起一个炉灶
+\xv zɟəbə tɕʰa tʂʰaχʚ ftsu.
+\xe put a teapot on the stove
+\xn 在炉子上放一个茶壶
+\se ŋgɔ ftsu
+\ge begin
+\gn 开始
+\xv ŋa zɮdə-lə ŋgɔ kə-ftsu
+\xe I started reading the book.
+\et btsugs
+\dt 18/Nov/2013
+
+\lx ftʂə
+\ps vt
+\ge wake sb. up
+\gn 叫醒
+\mr rə
+\1s rə-ftʂu
+\2s rə-ftʂi
+\3s rə-ftʂə
+\1p rə-ftʂõ
+\cf brə
+\dt 18/Nov/2013
+
+\lx ftʂə
+\ps vt
+\ge transform
+\gn 变形
+\mr nə
+\1s nə-ftʂu
+\2s nə-ftʂi
+\3s nə-ftʂə
+\1p nə-ftʂõ
+\xv ɬau vdzi ʁa nə-ftʂəftʂə mi-fsi lə tə-kʰi-sə.
+\xe The god transformed into a man so that no one can recognize him.
+\xn 神仙变成了人的样子没有人认得出。 
+\et sprul
+\dt 18/Nov/2013
+
+\lx ɣbə
+\ps n
+\ge sun
+\gn 太阳
+\dt 02/May/2013
+
+\lx ɣderŋa
+\ps n
+\ge bastard
+\gn 私生子
+\dt 24/May/2013
+
+\lx ɣdəzə
+\ps n
+\ge milk bucket
+\gn 装奶的桶
+\dt 21/May/2013
+
+\lx ɣdʐõ
+\ps n
+\ge story
+\gn 故事
+\dt 11/Apr/2013
+
+\lx ɣdʑʚ
+\ps vt
+\mr nə-
+\ge grind
+\gn 磨
+\1s nə-ɣdʑou
+\2s nə-ɣdʑei
+\3s nə-ɣdʑʚ
+\1p nə-ɣdʑõ
+\xv wu-nə ɣdʑʚ nə-ɣdʑõ
+\xe We ground tsampa in the mill.
+\rgy ɣndʑɯr
+\dt 18/Nov/2013
+
+\lx ɣdʑʚ
+\ps n
+\ge tsampa
+\gn 糌粑
+\dt 11/Dec/2012
+
+\lx ɣdʚ
+\ps n
+\ge water container that one carries on the shoulder
+\gn 扛在肩上的水容器
+\dt 21/May/2013
+
+\lx gə
+\ps vt
+\ge wear, put on
+\gn 穿
+\mr rə
+\1s rə-gu
+\2s rə-v-gə
+\3s rə-gi
+\1p rə-gõ
+\xv tsəgə rə-ma-ku ve, ŋa rkʰõ ŋõ rə.
+\xe I didn't wear any clothes, so I feel very cold.
+\xn 我没穿衣服，所以感到很冷。
+\rgy ŋga
+\dt 18/Nov/2013
+
+\lx gəga
+\ps vt
+\ge wear
+\gn 穿
+\mr rə
+\1s rə-gəgou
+\2s rə-gəgei
+\3s rə-v-gə-v-ga
+\1p rə-gəgõ
+\2p rə-gəgə
+\xv pəsɲə rkʰʚ sə ci rə, tsəgə ke ɣri rə-gəgei.
+\xe It is cold today, wear more clothes.
+\xn 今天很冷，多穿点衣服。
+\xv ɲiɲə tsəgə rə-gəgə.
+\xe You all put on clothes.
+\xn 你们都穿了衣服。
+\dt 16/Apr/2013
+
+\lx gəmdi
+\ps adv
+\ge only
+\gn 仅仅
+\xv ɲi tə-χi gəmdi fɕe-lə mi ri ŋʚ.
+\xe You are only able to say this.
+\xn 你只会说这些。
+\dt 24/Apr/2013
+
+\lx ɣəra
+\ps n
+\ge chicken
+\gn 鸡
+\dt 27/May/2013
+
+\lx ɣəzə
+\ps n
+\ge bird
+\gn 鸟
+\dt 19/Apr/2013
+
+\lx -gi
+\ps suff
+\ge @dat
+\gn 于格
+\dt 18/Dec/2012
+
+\lx ɣja
+\ps vi
+\ge light (weight)
+\gn 轻
+\rgy ʑo
+\dt 18/Nov/2013
+
+\lx ɣɟəva
+\ps n
+\ge hole (on walls)
+\gn 墙洞
+
+\lx ɣlɔtʰɔ
+\ps n
+\ge ground
+\gn 地
+\dt 14/Oct/2013
+
+\lx ɣɮda
+\ps vi
+\ge thick
+\gn 厚
+\xv tɕədʑa ke-ɣɮda gə ɱərə.
+\xe The skin is very thick.
+\xn 皮很厚。
+\xv tə rŋadʑə ke-ɣɮda gə ŋərə.
+\xe He is shameless.
+\xn 他脸皮很厚（很浩练）。
+\rgy jaʁ
+\dt 18/Nov/2013
+
+\lx ɣɮdaɣɮda
+\ps vi.s
+\ge thick
+\gn 厚
+\rgy jaʁ
+\dt 18/Nov/2013
+
+\lx ɣɮdeɣlʚ
+\ps n
+\ge stump
+\gn 残肢
+\dt 01/Jul/2013
+
+\lx ɣme
+\ps n
+\ge wound
+\gn 伤口
+\dt 02/May/2013
+
+\lx ɣme
+\ps vt
+\ge blow
+\gn 吹
+\mr nə-
+\1s nə-ɣmow
+\2s nə-ɣmej
+\3s nə-ɣme
+\1p nə-ɣmã
+\xv kʰərmu-kʰa ɣmə-nə nə-ɣme
+\xe Blow on the fire with bellows.
+\rgy ɣɤmɯt
+\dt 18/Nov/2013
+
+\lx ɣmə
+\ps n
+\ge fire
+\gn 火
+\xv ɣmə rə-ntʰow
+\xe I made a fire.
+\dt 14/Oct/2013
+
+\lx ɣməsnə
+\ps n
+\ge torch
+\gn 火把
+\dt 21/Oct/2013
+
+\lx ɣrə
+\ps n
+\ge water
+\gn 水
+\dt 14/Oct/2013
+
+\lx ɣrəɣra
+\ps vi
+\ge watery, thin
+\gn 稀
+\rgy ŋgri
+\dt 18/Nov/2013
+
+\lx ɣremə
+\ps n
+\ge source
+\gn 泉水
+\dt 14/Oct/2013
+
+\lx ɣrəva
+\ps n
+\ge
+\gn 河边
+\dt 11/Oct/2013
+
+\lx ɣri
+\ps vi
+\ge a lot
+\gn 很多
+\dt 21/Oct/2013
+
+\lx ɣrʚɣrʚ
+\ps vi
+\ge dry
+\gn 干
+\rgy rom
+\dt 18/Nov/2013
+
+\lx ɣzəɣzə
+\ps Vi
+\ge peu
+\gn 少
+\dt 18/Nov/2013
+
+\lx ɣzəɣzə və
+\ps vi
+\ge reduce
+\gn 减少
+\xv tə-ɣri sə! ɣzəɣzə nə-vi.
+\xe That's too many! Reduce the amount.
+\xn 太多了，减少一点。
+\dt 17/Apr/2013
+
+\lx ɣʑa
+\ps vt
+\ge speak
+\gn 讲
+\mr nə
+\1s nə-ɣʑã
+\2s nə-ɣʑa
+\3s nə-ɣʑa
+\1p nə-ɣʑã
+\xv ŋi sʰəm misəcərə ge, ŋa tə-gi ɣʑa mi-vzu rə
+\xe As I was not available, I could not talk with him.
+\xe 因为我当时没空，因此我没能跟他说话。
+\dt 23/Apr/2013
+
+\lx ɣʑe
+\ps vt
+\ge peel
+\gn 去皮
+\mr nə
+\1s nə-ɣʑow
+\2s nə-ɣʑej
+\3s nə-ɣʑe
+\1p nə-ɣʑã
+\xv ŋa <qingcai> rə-re nə
+rɟazu kə-ru sə de nə-ɣʑow
+\xe I peeled the vegetable I bought in the market.
+\xn 我把市场买回来的青菜去了皮。
+\xv smi du ʑələ de nə-ɣʑe-sə.
+\xe This woman exploited the guy.
+\xn 这女人剥削了那男人。
+\dt 18/Nov/2013
+
+\lx ɣʑi
+\ps vt
+\ge teach
+\gn 教
+\mr kə
+\1s kə-ɣʑu
+\2s kə-ɣʑi
+\3s kə-ɣʑi
+\1p kə-ɣʑã
+\xv tu ŋaɲə gi kə-ɣʑã.
+\xe He taught us.
+\xn 他教了我们。
+\cf ndʑi
+\dt 18/Nov/2013
+
+\lx ɦwa
+\ps v
+\ge hug
+\gn 抱
+\mr rə
+\mr kə
+\1s rə-ɦwou
+\2s rə-ɦwei
+\3s rə-ɦwa
+\1p rə-ɦwã
+\xv ŋa de kə-ɦwã.
+\xe Hug me.
+\xn 抱抱我。
+\dt 19/Apr/2013
+
+\lx ɦwə
+\ps n
+\ge oat
+\gn 燕麦
+\dt 30/Apr/2013
+
+\lx java
+\ps N
+\ge kind of
+\dt 26/Nov/2013
+
+\lx javə
+\ps n
+\ge last year
+\gn 去年
+\dt 19/Apr/2013
+
+\lx je
+\ps vi
+\ge be drunk
+\gn 醉
+\mr tə
+\1s tə-jã
+\2s tə-je
+\3s tə-je
+\1p tə-jã
+\xv ŋa vʚ kʰa tə-jã sə.
+\xe I am drunk.
+\xn 我醉了。
+\dt 12/Apr/2013
+
+\lx je
+\ps vi
+\ge beat
+\gn 战胜
+\mr kə
+\1s kə-jã
+\2s kə-je
+\3s kə-je
+\1p kə-jã
+\xv təɲu ʁma kí-je sə?
+\xe Did they beat the other army?
+\xn 他们战斗赢了吗？
+\xv rɟen kə-jã.
+\xe I won the card game.
+\xn 我打牌赢了。
+
+\lx jə
+\ps vt
+\ge say
+\gn 说
+\mr tə
+\1s tə-jã
+\2s tə-ji
+\3s tə-jə
+\1p tə-jã
+\xv ŋa ɲəɲɟi adagi ɲide ŋagi təfkʰõ tə-jã.
+\xe I asked your father if I could marry you.
+\xe 我向你父亲请求跟你结婚。
+\xv ŋa təgi kəɮde təjã
+\xe I aked him to come.
+\xe 我让他过来。
+\dt 10/Apr/2013
+
+\lx jə tɕʰe mi-tɕʰe
+\ps vi
+\ge doubt
+\gn 怀疑
+\mr
+\1s mi-tɕʰã
+\2s mi-tɕʰi
+\3s mi-tɕʰe
+\1p mi-tɕʰã
+\xv ŋa ɲi-gi jə mi-tɕʰã rə, ətɕəŋʚmʚ təjə ve, ɲi ləla cʰi rə.
+\xe I am doubting you because you lied.
+\xn 我怀疑你，因为你说谎了。
+\dt 09/Apr/2013
+
+\lx jeʁer
+\ps n
+\ge birch
+\gn 桦树
+\dt 11/Apr/2013
+
+\lx jitʰa
+\ps n
+\ge house
+\gn 房子
+\dt 10/Apr/2013
+
+\lx jɔ
+\ps adv
+\ge again
+\gn 又
+\dt 15/Oct/2013
+
+\lx jõca
+\ps adv
+\ge again
+\gn 再次
+\dt 10/Apr/2013
+
+\lx jõjõrtsartsa
+\ps Adv
+\ge easily
+\gn 轻而易举地
+\dt 02/Dec/2013
+
+\lx jɔqɔ
+\ps n
+\ge east of the house
+\dt 15/Oct/2013
+
+\lx jɔskʰɔ
+\ps n
+\ge north of the house
+\dt 15/Oct/2013
+
+\lx jɔvə
+\ps n
+\ge west of the house
+\dt 15/Oct/2013
+
+\lx jɔvə
+\ps N
+\ge propriétaire
+\gn 主人
+\dt 02/Dec/2013
+
+\lx jɔzɣə
+\ps n
+\ge south of the house
+\dt 15/Oct/2013
+
+\lx ju
+\ps vi
+\ge grow
+\gn 长大
+\mr rə
+\xv ŋa rə-ju-sə.
+\xe I grew up.
+\xn 我长大了。
+
+\lx jʚ
+\ps n
+\ge house
+\gn 房子，家
+
+\lx -kʰa
+\ps suff
+\ge @instr
+\dt 18/Dec/2012
+
+\lx kʰakʰa və
+\ps vi
+\ge divorce
+\gn 分开，离婚
+\dt 11/Jun/2013
+
+\lx kʰakʰaɲə
+\ps n
+\ge others
+\gn 其他人
+\dt 11/Jun/2013
+
+\lx kʰanda
+\ps n
+\ge candy
+\gn 糖
+\dt 16/Apr/2013
+
+\lx kʰapʰʚri və
+\ps vi
+\ge be jealous
+\gn 嫉妒
+\xv ŋi vdʑə du kʰapʰʚri ke-rcʚ və-ŋkʰə gə ŋʚ.
+\xe My friend is a very jealous one.
+\xn 我的朋友是一个嫉妒心非常强的人。
+\dt 01/Jul/2013
+
+\lx kʰarma
+\ps n
+\ge domestic animal
+\gn 家畜
+
+\lx kʰawa
+\ps n
+\ge snow
+\gn 雪
+\dt 14/Oct/2013
+
+\lx kʰaχcə
+\ps Post
+\ge next to
+\dt 18/Nov/2013
+
+\lx kʰaχpi
+\ps n
+\ge story
+\gn 故事
+\dt 17/Apr/2013
+
+\lx ke
+\ps adv
+\ge very
+\gn 十分
+\dt 11/Apr/2013
+
+\lx kə
+\ps n
+\ge pan
+\gn 平底锅
+\dt 14/May/2013
+
+\lx kʰemboˠ
+\ps n
+\ge bag
+\gn 包，袋子
+\dt 01/Jul/2013
+
+\lx kərba
+\ps n
+\ge board
+\gn 木板
+\dt 10/Apr/2013
+
+\lx kʰərcaˠ
+\ps n
+\ge dog faeces
+\gn 狗屎
+\dt 10/Jun/2013
+
+\lx kʰərma
+\ps n
+\ge solitaire
+\dt 26/Nov/2013
+
+\lx kʰespə
+\ps n
+\ge moustache
+\gn 胡须
+\dt 18/Apr/2013
+
+\lx kʰev
+\ps vt
+\ge spoon up
+\gn 舀
+\mr rə
+\1s rə-kʰow
+\2s rə-kʰev
+\3s rə-kʰev
+\1p rə-kʰã
+\xv ŋa scoˠ kʰa ɣremə nə ɣrə de rə-kʰev.
+\xe I spooned water from the well with a spoon
+\xn 我用勺子在井里舀了水
+\nt
+\rgy kaβ
+\dt 18/Nov/2013
+
+\lx kəzə
+\ps n
+\ge evening
+\gn 晚上
+\dt 19/Apr/2013
+
+\lx kʰi
+\ps vi
+\ge come
+\gn 来
+\mr -
+\1s kʰã
+\2s kʰi
+\3s kʰi
+\1p kʰã
+\xv ɲi ŋaqʰi ɣi-kʰi?
+\xe Do you come to my home?
+\xn 你来我家吗？ 
+\xv ɲəqʰe jʚ de ke-caˠ gə tí-kʰi-sə?
+\xe Is your house well constructed?
+\xn 你的房子建得好吗？
+\xv ŋi ɲɟev kə-kʰi-sə.
+\xe I am sleepy.
+\xn 我困了。
+\xv ske le nə-kʰi rə.
+\xe I want to cry.
+\xn 我想哭。
+\xv qʰe nə-kʰi-sə.
+\xe I want to laugh.
+\xn 我想笑。
+\ge give birth (sheep, goat)
+\gn 生育（绵羊，山羊等）
+\xv ləʁa kʰi dʐə ləɣə vɮde-sə.
+\xe The sheep gives birth to little sheep.
+\xn 绵羊生小羊。
+\dt 27/May/2013
+
+\lx kʰile və
+\ps vt
+\ge quit
+\gn 戒掉
+\xv vɔ kʰile nə-vu
+\xn 我戒了酒
+\dt 26/Nov/2013
+
+\lx kilikili
+\ps adv
+\ge sometimes
+\gn 有时
+\dt 08/Apr/2013
+
+\lx kʰji
+\ps vt
+\ge dry in the sun
+\gn 晒干
+\mr ɣə
+\1s ɣə-kʰju
+\2s ɣə-kʰji
+\3s ɣə-f-kʰji
+\1p ɣə-kʰjã
+\xv tsəgə de ɣbə nə ɣə-kʰju.
+\xe I dried the clothes in the sun.
+\xn 我把衣服在太阳底下晒了。
+\rgy ɕkʰo
+\dt 18/Nov/2013
+
+\lx kõ ke-je
+\ps vi
+\ge cheap
+\gn 便宜
+\et goŋ
+\dt 18/Nov/2013
+
+\lx kõ ke-kʰi
+\ps vi
+\ge cheap
+\gn 便宜
+\dt 18/Apr/2013
+
+\lx krə
+\ps n
+\ge kind of canoe
+\gn 圆形的皮划艇
+\dt 09/Apr/2013
+
+\lx krə
+\ps n
+\ge donkey
+\gn 驴
+\dt 09/Apr/2013
+
+\lx krə
+\ps n
+\ge tent
+\gn 一种帐篷，顶棚为牛皮，其余部分为布
+\dt 14/May/2013
+
+\lx kʰrə
+\ps vt
+\ge hold, pick
+\gn 拿，夹
+\mr tə
+\1s tə-kʰru
+\2s tə-kʰri
+\3s tə-f-kʰrə
+\1p tə-kʰrõ
+\xv tu ŋa ʁa tə-f-kʰrõ.
+\xe He held me.
+\xn 他握住我。
+\xv tu ŋa tə-f-kʰrõ.
+\xe He caught me.
+\xn 他捉住了我。
+\dt 17/Apr/2013
+
+\lx kʰrəm
+\ps n
+\ge habit???
+\et kʰrims
+\dt 18/Nov/2013
+
+\lx kʰri
+\ps n
+\ge stool (granular)
+\gn 粪便（颗粒状）
+\dt 10/Jun/2013
+
+\lx kʰʚ
+\ps vt
+\ng v
+\mr tə-
+\ge give
+\1s tə-kʰow
+\1p tə-kʰõ
+\2s tə-kʰej
+\3s tə-f-kʰʚ
+\1s>2s tə-kʰʚ
+\2s>1s tə-f-kʰõ
+\3s>1s tə-f-kʰõ
+\rgy kʰo
+\dt 18/Nov/2013
+
+\lx kʚfɬə
+\ps n
+\ge ash
+\gn 灰尘
+
+\lx la
+\ps n
+\ge slope
+\gn 山坡
+\dt 14/Oct/2013
+
+\lx laˠrtsa
+\ps n
+\ge pulse
+\gn 脉搏
+\dt 22/May/2013
+
+\lx laˠrtsa scəqi
+\ps vi
+\ge measure the pulse
+\gn 把脉
+\et lag.rtsa
+\dt 18/Nov/2013
+
+\lx le
+\ps vt
+\ng v
+\mr rə-
+\ge put
+\1s rə-lou
+\2s rə-lei
+\3s rə-v-le
+\1p rə-lã
+\xv ŋa qəzə de tʂodzə-tɕʰa rə-lo
+\xe I put the bowl on the table.
+\xv ŋa-ɲə ʁe rə-lã
+\xe We installed a door
+\dt 18/Dec/2012
+
+\lx le
+\ps vt
+\ge release, loosen
+\gn 松开，放开
+\mr tə
+\1s tə-lou
+\2s tə-lei
+\3s tə-v-le
+\1p tə-lã
+\xv tu ɲi tí-v-le?
+\xe Did he let you go?
+\xn 他放了你了吗？
+\dt 17/Apr/2013
+
+\lx lə
+\ps vi
+\ge boil
+\gn 开（水）
+\mr tə-
+\rgy ala
+\dt 18/Nov/2013
+
+\lx lə
+\ps n
+\ge tree
+\gn 树
+\dt 18/Nov/2013
+
+\lx ləɣə
+\ps n
+\ge baby sheep
+\gn 小绵羊
+\dt 27/May/2013
+
+\lx ləkʰi
+\ps n
+\ge bread
+\gn 面包
+\dt 30/Apr/2013
+
+\lx ləla
+\ps n
+\ge lie
+\gn 谎言
+\dt 18/Apr/2013
+
+\lx ləla cʰə
+\ps vi
+\ge tell a lie
+\gn 说谎
+\mr nə
+\1s ləla nə-cʰu
+\2s ləla nə-cʰi
+\3s ləla nə-f-cʰə
+\1p ləla nə-cʰõ
+\xv tu ŋagi ləla gə nə-f-cʰə.
+\xe He lied to me.
+\xn 他骗了我。
+\dt 18/Apr/2013
+
+\lx lepu
+\ps n
+\ge radish root
+\gn 萝卜（根部）
+\dt 21/Oct/2013
+
+\lx ləqɔ
+\ps vi
+\ge boil
+\gn 沸腾
+\dt 21/Oct/2013
+
+\lx ləʁa
+\ps n
+\ge sheep
+\gn 绵羊
+\dt 09/Apr/2013
+
+\lx lili
+\ps n
+\ge cat
+\gn 猫咪
+\dt 10/Apr/2013
+
+\lx lõba
+\ps n
+\ge valley
+\gn 山谷
+
+\lx loˠloˠ
+\ps n
+\ge ball
+\gn 球
+\dt 11/Apr/2013
+
+\lx lyrsʚ
+\ps n
+\ge civilisation
+\gn 文化
+\dt 01/Jul/2013
+
+\lx lʚ
+\ps n
+\ge handle
+\gn 把子
+\dt 01/Jul/2013
+
+\lx lʚtɕõ
+\ps vi
+\ge young
+\gn 年轻
+\xv ŋa χavʑi lʚtɕõ ŋõ.
+\dt 01/Jul/2013
+
+\lx ɬaˠ
+\ps Vi
+\ge forget (something), leave somwhere
+\gn 落在
+\mr ɣə-
+\et rlag
+\xv ti ɕoʁdu tə-ɬaˠ-sə
+\xe Il a oublié son parapluie
+\xv ŋa feiji ma-ntʰev-dʑə tə-ɬaˠ
+\xe j'ai raté mon avion
+\dt 18/Nov/2013
+
+\lx ɬaˠmə
+\ps Adv
+\ge en plus
+\dt 02/Dec/2013
+
+\lx ɮde
+\ps vt
+\ge have.child
+\de have a child
+\gn 生（孩子）
+\1s ɮdou
+\2s ə́-ɮdei
+\3s vɮde
+\1p ɮdã
+\xv ŋa qʰana ɮdo
+\xe I had a child.
+\dt 10/Apr/2013
+
+\lx ɮde
+\ps vi
+\ge come (non past)
+\gn 来（非过去）
+\mr -
+\1s ɮdã
+\2s ɮde
+\3s ɮde
+\1p ɮdã
+\se ɮdi
+\ps vi
+\ge come (past)
+\gn 来（过去）
+\dt 18/Oct/2013
+
+\lx ɮde
+\ps vt
+\ge bring
+\gn 带
+\mr -
+\1s ɮdow
+\2s ɮdej
+\3s v-ɮde
+\1p ɮdã
+\xv tu ŋi pʰembe gə v-ɮde.
+\xe He brought me a gift.
+\xn 他给我带来了礼物。
+\dt 26/Nov/2013
+
+\lx ɮde
+\ps vt
+\ge obtain
+\gn 得到
+\mr -
+\1s ɮdou
+\2s ɮdei
+\3s v-ɮde
+\1p ɮdã
+\xv ŋi tɕədə gə v-ɮde.
+\xe I received a letter.
+\xn 我收到了一封信。
+\dt 18/Oct/2013
+
+\lx ɮdə
+\ps n
+\ge arrow
+\gn 箭
+\cf ʁɮdə
+\dt 21/Oct/2013
+
+\lx ɮdi
+\ps n
+\ge field
+\gn 田地
+\dt 14/Oct/2013
+
+\lx ɮdi
+\ps vt
+\ge plant
+\gn 栽种
+\mr kə
+\xv tɕe ɦwa meʁe ke-ɣri kə-v-ɮdi ve tɕe ʁa pʰẽ ŋərə.
+\xe If we plant trees on both sides of the street, we will do good to the street.
+\xn 如果在路边种满柏树，路会很好的。
+\dt 18/Oct/2013
+
+\lx ɬe ɲcʰə
+\ps vi
+\ge dissolve
+\gn 溶，掺杂
+\mr nə
+\1s ɬe nə-ɲcʰõ
+\2s ɬe nə-ɲcʰi
+\3s ɬe nə-ɲcʰə
+\1p ɬe nə-ɲcʰõ
+\xv tsʰʚ ɬe nə-ɲcʰu.
+\xe I coloured sth.
+\xn 我为某物染了色。
+\dt 10/Apr/2013
+
+\lx ɬəɬə
+\ps vi
+\ge wet
+\gn 湿
+\rgy ɣɤla
+\dt 18/Nov/2013
+
+\lx ɬepɬep
+\ps adj ideophone
+\ge the status of floating and hanging, flexible
+\gn 松弛的状态
+\xv vdzi de ʚrʚrʚ ɬepɬepɬep nʚrʚrʚ ɬepɬepɬep ɕə rə.
+\xe The man is walking as if he were floating(?)
+\xn 此人飘忽不定地行走。
+\xv smidi nene ɬepɬepɬep mbəɕe-sə ci rə.
+\xe The woman's breasts are swaying as they are saggy.
+\xn 该女人松弛的乳房垂吊着。
+\dt 23/Apr/2013
+
+\lx ɬiɬi
+\ps
+\ge Take your time.
+\gn 慢慢。
+
+\lx ɬu
+\ps Vt
+\ge surveiller (et suivre)
+\gn
+\1s kə-ɬu
+\3d kə-fɬu
+\dt 18/Nov/2013
+
+\lx ɬuɬu
+\ps vi
+\ge loose
+\gn 松的
+\xv tu tsəgə de ɬuɬu gə rə-v-gə-sə ci rə.
+\xe He is in very loose clothes.
+\xn 他穿了一件宽松的衣服。 
+\dt 24/Apr/2013
+
+\lx ɬʚ
+\ps n
+\ge South
+\gn 南方
+\dt 19/Apr/2013
+
+\lx ma
+\ps vt
+\ge applicate (oil, cream, medicine)
+\gn 搽
+\mr kə
+\1s kə-mow
+\2s kə-mej
+\3s kə-ma
+\1p kə-mã
+\rgy mar
+\dt 18/Nov/2013
+
+\lx mala
+\ps n
+\ge butter
+\gn 酥油
+\dt 18/Nov/2013
+
+\lx ma-ŋkʰə kʰi
+\ps vi
+\ge die out
+\gn 灭绝
+\xv <dinosaur> ʁna rou vdʚ-lə ma-ŋkʰə tə-kʰi-sə ŋərə.
+\xe Dinosaurs died out long ago.
+\xn 恐龙在很久以前就灭绝了。
+\nq ???
+
+\lx mbarji
+\ps vi
+\ge stride over
+\gn 跨过
+\mr kə
+\1s kə-mbarjã
+\2s kə-mbarji
+\3s kə-mbarji
+\1p kə-mbarjã
+\xv ŋa tɕe nə pʰərmi de kə-mbarjã.
+\xe I strode over the beggar in the street.
+\xn 我在街上跨过了一个乞丐。
+\dt 11/Jun/2013
+
+\lx mbəɕe
+\ps vi
+\mr nə-
+\ge move
+\1s nə-mbəɕã
+\2s nə-mbəɕe
+\3s nə-mbəɕe
+\xv ɬepɬep mbəɕe
+\xe Move slowly
+\dt 15/Apr/2013
+
+\lx mbəɕeŋkʰə ɮdi
+\ps vi
+\ge earthquake
+\gn 地震
+\dt 16/Apr/2013
+
+\lx mbəmbə
+\ps vi
+\ge flexible, soft
+\gn 松弛的
+\xv ləkʰi mbəmbə gə ŋərə.
+\xe The bread is very soft.
+\xn 面包很松。
+\rgy mpɯ
+\dt 18/Nov/2013
+
+\lx mbi
+\ps vt
+\ge take away and bring back
+\gn 带
+\mr -
+\1s mbu
+\2s mbi
+\3s mbi
+\1p mbã
+\xv tu ŋa <qiche> kʰa nə-mbã.
+\xe He took me there by car.
+\xn 他载我过去。
+\dt 26/Nov/2013
+
+\lx mbjə
+\ps vt
+\ge exchange
+\gn 交换
+\mr nə
+\1s nə-mbju
+\2s nə-mbji
+\3s nə-mbjə
+\1p nə-mbjõ
+\xv ŋaɲə vəda nə-mbjõ.
+\xe We exchanged our wives.
+\xn 我们交换了妻子。
+\dt 12/Apr/2013
+
+\lx mbjer
+\ps vi
+\ge sticky
+\gn 黏糊糊的
+\dt 18/Nov/2013
+\et ɴbʲar
+
+\lx mbjoˠ
+\ps vi
+\ge fast
+\gn 快
+\xv kəta de ke mbjoˠ gə ŋərə.
+\xe The dog runs very fast.
+\xn 这只狗跑得很快。
+\rgy mbɣom
+\dt 18/Nov/2013
+
+\lx mbjʚ rta
+\ps n
+\ge ceiling
+\gn 天花板
+\dt 10/Apr/2013
+
+\lx mbroˠcʰə
+\ps n
+\ge Tibetan Mastiff
+\gn 藏獒
+
+\lx mbroŋwa
+\ps n
+\ge puîné
+\gn 老二
+\dt 30/Sep/2013
+
+\lx mbʚ
+\ps vi
+\ge shy
+\gn 害羞，尴尬
+\mr tə
+\1s mbõ
+\2s mbʚ
+\3s mbʚ
+\1p mbõ
+\xv kamə ŋa təmbõ.
+\xe I was embarassed just now.
+\xn 刚刚我有点尴尬。
+\xv ŋi amu ŋagi sketɕʰa ke mbʚ fɕe rə.
+\xe My elder sister said something very embarassing to me.
+\xn 我姐姐刚刚跟我讲了一些十分让人尴尬的话。
+\xv jasɲə ŋa vdzi ke ɣri χcəqu sketɕʰa fɕeba tə kʰã rəge, tə-mbõ dʑə rŋa-ɲə nana tə-kʰã.
+\xe As I had to speak in the middle of a crowd, I was embarassed and flushed.
+\xn 昨天我要在人群中讲话，我很害羞并且脸红了。
+\dt 08/Apr/2013
+
+\lx mbʚ zɮdʚ
+\ps vi
+\ge consolate
+\gn 安慰
+\mr nə
+\1s nə-zɮdow
+\2s nə-zɮdej
+\3s nə-zɮdʚ
+\1p nə-zɮdõ
+\dt 18/Nov/2013
+
+\lx mdõŋẽ
+\ps vi
+\ge ugly (male)
+\gn 丑（男）
+\et mdog.ŋan
+\dt 18/Nov/2013
+
+\lx mdze
+\ps vt
+\ge fill
+\gn 装满
+\mr rə
+\1s rə-mdzow
+\2s rə-mdzej
+\3s rə-mdze
+\1p rə-mdzã
+\xv ŋa qʰwa nə ɕa rə-mdzou
+\xe I filled this bag with barley.
+\xn 我把这个袋袋装满了麦子。
+\xv ŋa ɣdʚ nə ɣrə rə-mdzou
+\xe I filled this bucket with water.
+\xn 我把这个水桶装满了水。
+\rgy mtsʰɤt
+\dt 18/Nov/2013
+
+\lx mdzimdzi və
+\ps vi
+\ge not dare eat
+\gn 不敢吃
+\xv ŋa vdzi mi-fsi-lə gə pʰa zama nəŋgə rəge, mdzimdzi və ba tə-kʰã.
+\xe I had lunch with a stranger, so I didn't dare eat what I wanted.
+\xn 我跟一个不认识的吃饭，所以我不敢吃想吃的。
+\xv mdzimdzi nə-di-vi!
+\xe Don't be shy (eat what you like).
+\xn 别客气随便吃。
+\dt 16/Apr/2013
+
+\lx mdʑʚr
+\ps vi
+\ge be hungry
+\gn 饿
+\mr tə
+\1s mdʑʚr
+\2s mdʑʚr
+\3s mdʑʚr
+\1p mdʑʚr
+\xv ə-mdʑʚr rə?
+\xe Are you hungry?
+\xn 你饿了吗？
+\rgy mtsɯr
+\dt 18/Nov/2013
+
+\lx me
+\ps n
+\ge mother
+\gn 妈妈
+\dt 16/Apr/2013
+
+\lx mə
+\ps n
+\ge younger brother (male speaking)
+\gn 弟弟（女称）
+\dt 17/Dec/2013
+
+\lx məgʚ
+\ps n
+\ge sky
+\gn 天
+\xv mə rŋa caˠ rə.
+\xe The weather is fine.
+\xn 天气很好。
+\dt 21/May/2013
+
+\lx məgʚ mdoˠ
+\ps n
+\ge blue
+\gn 蓝
+\dt 19/Apr/2013
+
+\lx melʚ
+\ps n
+\ge mother
+\gn 妈妈
+\dt 01/Jul/2013
+
+\lx məqʰi
+\ps n
+\ge rain
+\gn 雨
+\dt 14/Oct/2013
+
+\lx meʁe
+\a meʁer
+\ps n
+\ge poplar?
+\gn 杨树
+\dt 30/Sep/2013
+
+\lx məsnʚ
+\ps n
+\ge brothers and sisters
+\gn 兄弟姐妹
+\dt 16/Apr/2013
+
+\lx mətsʰi
+\ps N
+\ge life
+\gn 一辈子
+\et mi.tsʰe
+\dt 09/Sep/2013
+
+\lx məzdi
+\ps N
+\ge autre
+\gn 另一个
+\dt 02/Dec/2013
+
+\lx mgɔr
+\ps vt-i
+\ge blow away
+\mr tə-
+\3s>1s tə-mgõ
+\dt 21/Oct/2013
+
+\lx migugu
+\ps Adv
+\ge immediately
+\gn 马上
+\dt 01/Jul/2013
+
+\lx mitsəm ɲcʰə
+\ps vi
+\ge wink
+\gn 使眼色
+
+\lx mɟəɟə re
+\ps n
+\ge playground
+\gn 玩耍的地方
+\dt 16/Apr/2013
+
+\lx mɟʚla
+\ps vt
+\mr nə-
+\ge wrap
+\1s nə-mɟʚlow
+\1p nə-mɟʚlã
+\2s nə-mɟʚlej
+\3s nə-mɟʚla
+\dt 18/Nov/2013
+
+\lx mkʰə
+\ps n
+\ge smoke
+\gn 烟
+\dt 18/Apr/2013
+
+\lx mkʰə rdu
+\ps vi
+\ge fumigate
+\gn 熏
+\xv vegʚ de mkʰə tɕʰa sŋoˠ dʑə mkʰə rdu fɕi ŋərə.
+\xe We should hang the pig above a fire and fumigate it.
+\xn 猪肉要吊在火上熏。
+
+\lx mkʰi
+\va mkʰwi
+\ps vt
+\ge put on (shoes, socks)
+\gn 穿（鞋袜）
+\mr rə
+\1s rə-mkʰu
+\2s rə-mkʰi
+\3s rə-mkʰi
+\1p rə-mkʰã
+
+\lx mnʚ
+\ps vt
+\ge confide
+\gn 委托，托付
+\mr kə
+\1s kə-mnow
+\2s kə-mnej
+\3s kə-mnʚ
+\1p kə-mnõ
+\xv ŋa ŋi kʰemboˠ de rɣəvə qʰi kə kə-mnou.
+\xe I confided my bag in my neighbour's house.
+\xn 我把包寄放在邻居家了。
+\dt 18/Nov/2013
+
+\lx mɲa
+\ps v
+\ge negation verb
+\gn 不是
+\1s mɲa
+\2s mɲa
+\3s mɲa
+\1p mɲã
+\xv tu ŋa fsi ŋərə ge, rmi jə mɲa rə.
+\xe As he knew me well, he doesn't call me by my name.
+\xe 因为他跟我很熟，所以他不叫我的名字。
+\dt 08/Apr/2013
+
+\lx mɲã fɬə
+\ps n
+\ge baby
+\gn 婴儿
+
+\lx mɲərcõ
+\ps n
+\ge lonely man
+\gn 单身汉
+\et mi.rkʲaŋ
+\dt 01/Jul/2013
+
+\lx mɲərep
+\ps n
+\ge generation
+\gn 代
+\et mi.rabs
+\dt 30/Sep/2013
+
+\lx mpʰe
+\ps vt
+\ge lose (thing)
+\gn 丢
+\mr tə
+\1s tə-mpʰow
+\2s tə-mpʰej
+\3s tə-mpʰe
+\1p tə-mpʰã
+\xv tu ti pʰjodzə tə-mpʰe sə.
+\xe He lost his money.
+\xn 他丢了钱。
+\xv ŋi poupou-nəjə kʰa pʰjʚdzə tə-ʂfwa dʑə nə-mpʰow-sə.
+\xe I lost my money when I took it out from my pocket.
+\xn 我把钱拿从口袋里拿出来的时候发现钱丢了
+\xv tu ti pʰjodzə tə-mpʰe-sə
+\xe He lost his money.
+\xv ŋaɲə ŋaɲɟi kəta tə-mpʰã
+\xe We lost our dog.
+\xv ŋa ŋi lili tə-mpʰou
+\xe I lost my cat.
+\dt 18/Nov/2013
+
+\lx mpʰə
+\ps vt
+\ge have sex
+\gn 性交
+\mr rə
+\1s rə-mpʰu
+\2s rə-mpʰi
+\3s rə-mpʰə
+\1p rə-mpʰõ
+\xv ŋaɲə mpʰəmpʰõ.
+\xe We have sex.
+\xn 我们享受床笫之欢。
+\xv ŋa ɣni mpʰõ.
+\xe We two have sex.
+\xn 我们俩进行床笫之欢。
+\nt wobzi. ʁ-mpʰəmpʰə
+\dt 29/Apr/2013
+
+\lx mpʰjə
+\ps vi
+\ge be late
+\gn 迟
+\mr tə
+\1s tə-mpʰjõ
+\2s tə-mpʰjə
+\3s tə-mpʰjə
+\1p tə-mpʰjõ
+\dt 02/May/2013
+
+\lx mpʰre
+\ps vi
+\ge être d'accord
+\gn 同意
+\mr tə-
+\et ɴpʰrad
+\xv ɲəɲə tə-kʰi ə-mpʰre?
+\xe est-ce que vous êtes d'accord pour venir?
+\ge suffire
+\gn 足够
+\xv təɲu ʁɔ-lə nə-və-sə kʰa əmpʰre rə? ma-mpʰre-ve, ŋa tə-kʰã.
+\xe Est-ce que ceux qui vont partir les aider ont assez (de gens, de provisions). Sinon, j'y vais (aussi).
+\dt 26/Nov/2013
+
+\lx mpʰru
+\ps Vt
+\ge attach to 
+\gn 拴
+\dt 02/Dec/2013
+
+\lx mtʰa
+\ps vt
+\mr nə-
+\ge step_on
+\1s nə-mtʰou
+\1p nə-mtʰã
+\2s nə-mtʰei
+\3s nə-mtʰa
+\xv ŋa lili-tɕʰa nə-mtʰou
+\xe I stepped on the cat.
+\dt 19/Dec/2012
+
+\lx mtʰaɕe ɲcʰə
+\ps vi
+\ge embroider
+\gn 绣
+\mr nə
+\xv smi du tsəgə ʁa mtʰaɕe ɲcʰə sə ci rə.
+\xe The woman is embroiding on the clothes.
+\xn 这个女人在衣服上刺绣。
+\dt 10/Jun/2013
+
+\lx mtʰi
+\ps vt
+\mr rə-
+\ge pull
+\de pull out, pluck
+\mr nə-
+\ge weave
+\1s rə-mtʰu
+\3s rə-mtʰi
+\1p rə-mtʰã
+\xv ŋa tsõ rə-mtʰu
+\xe I pulled out a radish (?).
+\xv ŋa ɮi-nə ɦwə rə-mtʰu
+\xe I pulled out the oat grass in the field. 
+\xv ɲi rzaqə nə-mthi
+\xe You weaved a basket.
+\dt 19/Dec/2012
+
+\lx mtsʰaˠ ɲcʰə
+\ps vi
+\ge winnow
+\gn 簸扬
+\xv ŋgʚtʂʰə du liskaŋkʰəɲə mtsʰaˠ-rə
+\xe The employer chooses the best employees.
+\xn 老板选最好的员工。
+\xv smi du qraˠ mtsʰaˠ ɲcʰə-rə.
+\xe The woman winnows gravels (She is an experienced and excellent love-maker). 
+\xn 这个女人很能扬选沙砾（她的性爱经验丰富）。
+
+\lx mtsʰə
+\ps vt
+\ge to colour
+\gn 上色
+\dt 14/May/2013
+
+\lx mtsʰer
+\ps vi
+\ge surprising
+\gn 不可思议的
+\xv zi-mtsʰer
+\xe strange
+\xn 奇怪的
+\xv vdzi de zi-mtsʰer ke-mtsʰer gə ŋərə.
+\xe The man is very strange.
+\xn 这个人非常奇异。
+\xv məqʰi zi-mtsʰer gə ɮde-sə ci rə.
+\xe It is raining cats and dogs.
+\xn 下着倾盆大雨。
+\et mtsʰar
+\dt 18/Nov/2013
+
+\lx mtsʰi
+\ps vt
+\ge imitate
+\gn 模仿
+\mr nə
+\1s nə-mtsʰu
+\2s nə-mtsʰi
+\3s nə-mtsʰi
+\1p nə-mtsʰã
+\xv tu ŋa mtsʰi sə ci rə.
+\xe He is imitating me.
+\xn 他在模仿我。
+\xv ŋa ɲi de nə-mtsʰu ʑəgu mtsʰi lə ma-ru.
+\xe I tried to imitate you but I didn't succeed.
+\xn 我试着模仿你但没有成功。
+\rgy fse?
+\dt 18/Nov/2013
+
+\lx mtsʰi
+\ps vt
+\ge lead
+\gn 引,带
+\mr -
+\1s mtsʰu
+\2s mtsʰi
+\3s mtsʰi
+\1p mtsʰã
+\xv tɕe rə-mtsʰi
+\xe lead the way
+\xn 带路
+\rgy mtsʰi
+\dt 18/Nov/2013
+
+\lx mtsʰi
+\ps n
+\ge make fun of
+\xv ŋa ʁa mtsʰi nə-di-le
+\xe Ne te moque pas de moi
+\dt 18/Nov/2013
+
+\lx mtsʰɔ
+\ps n
+\ge lake
+\gn 湖
+\dt 14/Oct/2013
+
+\lx mtsʰɔzɮdə
+\ps n
+\ge a type of game 
+\dt 21/Oct/2013
+
+\lx mu li
+\ps vi
+\ge open eye
+\gn 睁眼，开眼
+\mr rə
+\1s mu rə-lu
+\2s mu rə-li
+\3s mu rə-v-li
+\1p mu rə-lã
+\xv tu ŋi mu rə-v-li-sə.
+\xe He opened my eyes.
+\xn 他打开了我的眼睛。
+\dt 23/Apr/2013
+
+\lx mubli
+\ps n
+\ge tear
+\gn 眼泪
+\xv mubli nə-di-le.
+\xe 别哭
+\dt 09/Apr/2013
+
+\lx mʚser
+\ps n
+\ge young lady
+\gn 少女
+\dt 24/May/2013
+
+\lx naˠ
+\ps n
+\ge forest
+\gn 森林
+\xv naˠ mi-xi-ŋkʰə rəŋgo
+\xe mountain without forest
+\xn 没有森林的山
+\dt 18/Apr/2013
+
+\lx ndə
+\ps vt
+\ge prick
+\gn 戳
+\mr -
+\1s ndu
+\2s ndi
+\3s ndə
+\1p ndõ
+\xv pərzə kʰa vucʰi rə-ndə ve vdzi se ŋərə.
+\xe He killed the man by pricking his lower abdomen with a knife.
+\xn 他用刀子刺伤这个人的下腹部导致其死亡。
+\dt 14/May/2013
+
+\lx ndə
+\ps vt
+\ge to pad
+\gn 垫
+\mr kə
+\1s kə-ndu
+\2s kə-ndi
+\3s kə-ndə
+\1p kə-ndõ
+\xv ɣlʚtʰʚ ndzʚ tɕʰa rendə ndə fɕi ŋərə.
+\xe When sitting on the ground,  you need a cushion.
+\xn 坐在地上的时候要一个垫子垫着。
+\dt 14/May/2013
+
+\lx ndərcʰi və
+\ps vi
+\ge fasten, tie
+\gn 系上
+\xv ŋa kʰərcõ tɕʰa ndərcʰi kə-vu.
+\xe I tied my Chuba with my belt..
+\xn 我把藏袍用腰带系好了。
+\dt 24/May/2013
+
+\lx ndərja
+\ps vt
+\ge sweep
+\gn 扫
+\mr nə
+\1s nə-ndərjow
+\2s nə-ndərjej
+\3s nə-ndərja
+\1p nə-ndərjã
+\dt 18/Nov/2013
+
+\lx ndoˠ
+\ps vi
+\ge be enough
+\gn 足够
+\mr
+\1s ndoˠ
+\2s ndoˠ
+\3s ndoˠ
+\1p ndoˠ
+\xv ŋi pʰjodzə kʰa ndoˠ rə.
+\xe I have got enough money.
+\xn 我有足够的钱。
+\xv ŋi pʰoˠ de kʰa ə-sɬə nə mi-ndoˠ.
+\xe My salary is not enough for a month.
+\xn 我的工资不够用一个月。
+\dt 16/Apr/2013
+
+\lx ndɔ
+\ps n
+\ge wish
+\gn 愿望
+\xv ŋi tə-pʰa stɔrmə le ndɔ ma.
+\xe I don't want to marry him.
+\dt 30/Sep/2013
+
+\lx ndɔ
+\ps Posp
+\ge at ... home
+\gn 在……家
+\xv ŋa ndɔ kə-ɮde
+\xn 来我家吧
+\dt 02/Dec/2013
+
+\lx ndzə tsə qʚlʚ kʰi
+\ps vi
+\ge itch
+\gn 痒痒
+\mr kə
+\mr nə
+\xv wendzu ŋa-ʁa tə-rcʰe-dʑə ndzə tsə qʚlʚ kə-kʰi rə.
+\xe A mosquito stung me and I felt itchy.
+\dt 01/Jul/2013
+
+\lx ndzəpə
+\ps n
+\ge leprosy
+\gn 麻风病
+\dt 12/Apr/2013
+
+\lx ndzʚ
+\ps vi
+\ge sit
+\gn 坐
+\mr ɣə
+\1s ɣə-ndzõ
+\2s ɣə-ndzʚ
+\3s ɣə-ndzʚ
+\1p ɣə-ndzõ
+\rgy mdzɯ
+\dt 18/Nov/2013
+
+\lx ndzʚre
+\ps n
+\ge seat,dwelling place
+\gn 座位, 住处
+\dt 30/Apr/2013
+
+\lx ndʐeme
+\ps n
+\ge tree trunk
+\gn 树干
+\de tree trunk whose skin is already removed
+\dn 树皮被剥落的树干
+\dt 18/Oct/2013
+
+\lx ndʐəndʐa
+\ps vt
+\ge distribute
+\gn 分发
+\mr nə
+\1s nə-ndʐəndʐow
+\2s nə-ndʐəndʐej
+\3s nə-ndʐəndʐa
+\1p nə-ndʐəndʐã
+\xv ŋa qʰana ɲə gi kʰanda nəndʐəndʐou.
+\xe I distributed candies to the children.
+\xn 我给孩子们发了糖。
+\dt 12/Dec/2013
+
+\lx ndʐəŋʚvə
+\ps n
+\ge three years ago
+\gn 大前年
+\dt 23/Apr/2013
+
+\lx ndʐəvə
+\ps n
+\ge the year before last year
+\gn 前年
+\dt 19/Apr/2013
+
+\lx ndʑa
+\ps n
+\ge rainbow
+\gn 彩虹
+\dt 14/Oct/2013
+
+\lx ndʑaˠ
+\ps vi
+\ge s'entendre
+\gn 合得来
+\xv ŋaɲə ndʑəndʑaˠ
+\xv təɣni ndʑaˠ-rə
+\xv ŋa tʂaɕi-pʰa mi-ndʑaˠ-rə
+\et
+\dt 18/Nov/2013
+
+\lx ndʑədʑe
+\ps Vt
+\mr _
+\ge pull
+\xv ŋi ɮda-ʁa gə rə-ndʑədʑe
+\ge Tire-moi par la main!
+\dt 18/Nov/2013
+
+\lx ndʑeli dʑə ɕə
+\ps vi
+\ge climb
+\gn 匍匐，蛇行
+\dt 10/Apr/2013
+
+\lx ndʑem
+\ps vi
+\ge smooth
+\gn 光滑
+\xv ɕezgʚ de ke-ndʑem gə ŋərə.
+\xe The mirror is very smooth.
+\et ɴdʑam
+\dt 18/Nov/2013
+
+\lx ndʑi
+\ps vt
+\ge learn
+\gn 学
+\mr kə
+\1s kə-ndʑu
+\2s kə-ndʑi
+\3s kə-ndʑi
+\1p kə-ndʑã
+\xv ŋa qəsji ndʑindʑa kə-vi fɕi.
+\xe I have to go to study tomorrow.
+\xn 我明天必须去学习。
+\dt 11/Apr/2013
+
+\lx ndʑi
+\ps vi
+\ge be used to
+\gn 习惯
+\mr kə
+\1s kə-ndʑã
+\2s kə-ndʑi
+\3s kə-ndʑi
+\1p kə-ndʑã
+\xv ŋa esɲəsɲəma kofi tʰi-lə kə-ndʑã-sə.
+\xe I am used to drink coffee everyday.
+\xn 我习惯于每天喝咖啡。
+\dt 14/May/2013
+
+\lx ndʑu
+\ps vi
+\ge kind-hearted
+\gn 心地善良
+\xv vdzi de ke-ndʑu gə ŋʚrə.
+\xe This person is very good.
+\xn 这人很好。
+\dt 18/Apr/2013
+
+\lx ne
+\ps n
+\ge illness
+\gn 病
+
+\lx nə
+\ps vi
+\ge have a rest
+\gn 休息
+\mr kə
+\1s kə-nõ
+\2s kə-nə
+\3s kə-nə
+\1p kə-nõ
+\xv ŋa esɲə de kə-nə dʑə ɣə-dzõ.
+\xe I have been sitting and relaxing all day.
+\xn 我一天都坐着休息。
+\rgy nɯna
+\dt 18/Nov/2013
+
+\lx nə
+\ps vi
+\ge burn
+\mr tə-
+\xv dian tə-nə
+\xv ɣmə nə-sə ci-rə
+\xe The fire is burning.
+\cf snə
+\rgy nɯt
+\dt 18/Nov/2013
+
+\lx nembi
+\ps adv
+\ge anyway
+\gn 无论如何
+\dt 15/Oct/2013
+
+\lx nənʚ
+\ps vi
+\ge smell
+\gn 闻，散发气味
+\mr kə
+\1s kə-nənõ
+\2s kə-nənʚ
+\3s kə-nənʚ
+\1p kə-nənõ
+\xv pjenʚ ʁa tʂəma ke-rcʚ gə nə-nʚ-rə.
+\xe The meat smells really bad.
+\xn 肉上有股难闻的气味。
+\rgy mnɤm
+\dt 18/Nov/2013
+
+\lx nepa
+\ps n
+\ge patient
+\gn 病人
+\dt 12/Apr/2013
+
+\lx nõ
+\ps postp
+\ge inner side
+\gn 里边
+\dt 16/Apr/2013
+
+\lx ntʰarsja
+\ps vi
+\ge sway
+\gn 摇摆不定
+\mr tə
+\1s tə-ntʰasjã
+\2s tə-ntʰasja
+\3s tə-ntʰasjã
+\1p tə-ntʰasja
+\xv vdzi de vʚ kʰa tə-je dʑə ntʰarsja sə ci rə.
+\xe The drunk man is swaying.
+\xn 醉酒男摇摇晃晃。
+\dt 10/Apr/2013
+
+\lx ntɕʰə
+\ps vt
+\ge cut
+\gn 切
+\mr nə
+\1s nə-ntɕʰu
+\2s nə-ntɕʰi
+\3s nə-ntɕʰə
+\1p nə-ntɕʰõ
+\xv pərzə kʰa ɣəzə de nə-ntɕʰə dʑə rzə kʰa nə-ndərje.
+\xe While cutting this bird with a knife, sweep (the feathers) with a broom.
+\xn 用刀切这只鸟的同时用扫帚扫一下地。 
+\dt 24/Apr/2013
+
+\lx ntɕʰem
+\ps vi
+\ge dance
+\gn 跳舞
+\mr nə
+\1s nə-ntɕʰem
+\2s nə-ntɕʰem
+\3s nə-ntɕʰem
+\1p nə-ntɕʰã
+\xv ŋgrə ntɕʰem
+\xe traditional dancing
+\xn 跳传统舞
+\xv ʑidʐʚ ntɕʰem
+\xe modern dancing
+\xn 跳现代舞
+\xv rɟa ntɕʰem
+\xe postmodern dancing
+\xn 跳潮舞
+\et ɴtɕʰams
+\dt 18/Nov/2013
+
+\lx ntɕʰəvər
+\ps n
+\ge blister
+\gn 水疱
+\xv ŋi ɮda ʁa ɣmə kʰa tə-cʰu dʑəm ntɕʰəvər gə tə-rfa.
+\xe My hand got burnt by the fire, so a blister grew there.
+
+\lx ntɕʰi
+\ps vt
+\ge hear, understand
+\gn 听见，理解
+\mr tə
+\1s tə-ntɕʰu
+\2s tə-ntɕʰi
+\3s tə-ntɕʰi
+\1p tə-ntɕʰã
+\xv tu ŋi ske de tə-ntɕʰi.
+\xe He understood what I said.
+\xn 他听懂了我所说的话。
+\dt 09/Apr/2013
+
+\lx ntɕʰʚ
+\ps vt
+\ge bring (take a certain opportunity to bring, bring sth. in passing)
+\gn 顺便带来
+\mr nə
+\1s nə-ntɕʰou
+\2s nə-ntɕʰei
+\3s nə-ntɕʰʚ
+\1p nə-ntɕʰõ
+\xv ŋa esɲəsɲə ma tɕa ke-ɮdʚ ntɕʰʚ-lə rmu rə.
+\xe Everyday, I forget to bring good tea here.
+\xn 我每天都忘记把好茶带过来。
+\dt 23/Apr/2013
+
+\lx ntʰə
+\ps vi
+\ge jump
+\gn 跳
+\mr -
+\1s rə-ntʰõ
+\2s rə-ntʰə
+\3s rə-ntʰə
+\1p rə-ntʰõ
+\xv jʚʁʚ jəkʰa nə-ntʰõ.
+\xe I jumped from the roof.
+\xn 我从屋顶跳下。
+\xv rju zditɕʰa jəkʰa pʰju kə-ntʰə-sə.
+\xe The horse jumped over the wall.
+\xn 马越过高墙。
+\xv spəɲcʰer kí-ntʰə kí-ntʰə ɲcʰə dʑə ɕə ŋərə.
+\xe The frog jumps here and there.
+\xn 青蛙跳着走。
+
+\lx ntʰev
+\a nɬev
+\ps Vi
+\mr _
+\ge catch
+\gn 追上
+\xv ŋa jasɲə <huoche> de kə-ma-ntʰev
+\xe I did not catch the train yesterday.
+\xv ŋa liska ɣni mí-nɬev-rə
+\xe je n'ai pas le temps de faire deux choses à fois.
+\xv ŋa rkəmə de kə-ntʰã
+\xn 我追上了小偷
+\dt 26/Nov/2013
+
+\lx ntʰɔ
+\ps vt
+\mr rə-
+\ge make (fire)
+\1s rə-ntʰow
+\3s rə-ntʰɔ
+\xv zɟəbə nə ɣmə rə-ntʰow
+\xe I made a fire on the three stones hearth.
+\dt 14/Oct/2013
+
+\lx ntsʰə
+\ps vt
+\ge want, would like to, think
+\gn 想要,想
+\mr ɣə
+\1s ntsʰu
+\2s ntsʰə
+\3s ntsʰi
+\1p ntsʰõ
+\xv tu ŋagi pʰjodzə tə-f-kʰõ ve ntsʰu rə.
+\xe I want him to give me some money.
+\xn 我想让他给我点钱。
+\dt 12/Apr/2013
+
+\lx ntsʰərva
+\ps vt
+\ge suck
+\gn 吮吸
+\mr ɣə
+\1s ɣə-ntsʰərvou
+\2s ɣə-ntsʰərvei
+\3s ɣə-ntsʰərva
+\1p ɣə-ntsʰərvã
+\xv ŋa ja nə kʰanda gə ntsʰərva-sə cã.
+\xe I am sucking a candy in my mouth.
+\xn 我嘴里含着一颗糖。
+\dt 24/May/2013
+
+\lx ntsʰəsɲi
+\ps vi
+\ge meditate
+\gn 思考
+\mr ɣə
+\1s ɣə-ntsʰəsɲã
+\2s ɣə-ntsʰəsɲi
+\3s ɣə-ntsʰəsɲi
+\1p ɣə-ntsʰəsɲã
+\xv ɣə-ntsʰəsɲi!
+\xe Think about it!
+\xn 仔细想想！
+
+\lx ntsʰoˠ
+\ps vi
+\ge gather
+\gn 聚集，集中
+\mr kə
+\1s kə-ntsʰoˠ
+\2s kə-ntsʰoˠ
+\3s kə-ntsʰoˠ
+\1p kə-ntsʰoˠ
+\xv ŋaɲə χsəmbə lʚser tɕʰa kə-ntsʰoˠ.
+\xe We get together every new year.
+\xn 每年新年我们都聚在一起。
+\xv lamaɲə ntsʰoˠ kə-ntsʰoˠ sə ci rə.
+\xe The Lamas are getting together (for religious purpose).
+\xn 喇嘛们聚集在一起。
+\et ɴtsʰog
+\dt 18/Nov/2013
+
+\lx ntʂʰere
+\ps vt
+\ge cut
+\gn 剜
+\mr nə
+\1s nə-ntʂʰerow
+\2s nə-ntʂʰerej
+\3s nə-ntʂʰere
+\1p nə-ntʂʰerã
+\xv vdzi du pərzə kʰa ədəqʰe ɮda ʁa ntʂʰere sə ci.
+\xe The man is cutting his own hand with a knife.
+\xn 这人在用刀割自己的手。
+\dt 18/Nov/2013
+
+\lx nʚr
+\ps vi
+\ge make a mistake
+\gn 搞错
+\mr tə
+\1s tə-nʚr
+\2s tə-nʚr
+\3s tə-nʚr
+\1p tə-nʚr
+\xv ŋa tə-nʚr sə.
+\xe I made a mistake.
+\xn 我搞错了。
+\et nor
+\dt 18/Nov/2013
+
+\lx ɲaɲa
+\ps vi
+\ge black
+\gn 黑
+\rgy ɲaʁ
+\dt 18/Nov/2013
+
+\lx ɲcʰara ʂfa
+\ps vi
+\ge go on a picnic
+\gn 去野餐
+\dt 27/May/2013
+
+\lx ɲcʰə
+\ps vt
+\ge hit
+\gn 打
+\mr nə
+\1s nə-ɲcʰu
+\2s nə-ɲcʰi
+\3s nə-ɲcʰə
+\1p nə-ɲcʰõ
+\2s>1s nə-ɲcʰi
+\xv ŋa ʁa nə-di-ɲcʰi!
+\xe Don't hit me!
+\xn 别打我！
+\xv ŋaɲə ʁa nə-di-ɲcʰõ!
+\xe Don't hit us!
+\xn 别打我们！
+\xv ɲi tɕʰefkõ nə rə-vi tɕʰa, tɕa tí-lə-sə e-scəqi kə-ɲcʰi!
+\xe When you go to the toilet, keep an eye on the teapot!
+\xn 你上厕所的时候看一眼茶开了没有。
+\xv <dianhua> e-ɲcʰə tə-ɲcʰi!
+\xe Phone him!
+\xn 打一下电话！
+\xv e-snʚsnʚ kə-ɲcʰi!
+\xe Sniff it!
+\xn 闻一下！
+\xv laɕəp nə-ɲcʰə
+\xe put on gloves
+\xn 戴手套
+\dt 24/May/2013
+
+\lx ɲcʰə
+\ps vt
+\ge speak a language
+\gn 讲（语言）
+\mr nə
+\1s nə-ɲcʰu
+\2s nə-ɲcʰi
+\3s nə-ɲcʰə
+\1p nə-ɲcʰã
+\xv ske kʰakʰa nə-ɲcʰi.
+\xe Speak another language.
+\xn 讲另外一种语言。
+\xv təɲu ske mi-ntɕʰi-lə ske de nə-ɲcʰi.
+\xe Speak a language that they don't understand.
+\xn 讲一种他们都听不懂的语言。
+\dt 09/Apr/2013
+
+\lx ɲcʰəca
+\ps vt
+\ge ride
+\gn 骑
+\mr rə
+\1s rə-ɲcʰəcow
+\2s rə-ɲcʰəcej
+\3s rə-ɲcʰəca
+\1p rə-ɲcʰəcã
+\xv ŋa rji rə-ɲcʰəcow.
+\xe I ride a horse.
+\xn 我骑马。
+\dt 15/Oct/2013
+
+\lx ɲcʰəcə
+\ps vi
+\ge fight
+\gn 打架
+\mr tə
+\1s
+\2s
+\3s
+\1p tə-ɲcʰəcõ
+\dt 12/Apr/2013
+
+\lx ɲcʰer
+\ps vi
+\ge hide
+\gn 藏
+\mr kə
+\1s kə-ɲcʰã
+\2s kə-ɲcʰer
+\3s kə-ɲcʰer
+\1p kə-ɲcʰã
+\xv kə-ɕʰə-dʑə kə-ɲcʰer!
+\xe Hide yourself!
+\xn 藏起来！
+\dt 08/Apr/2013
+
+\lx ɲcʰoˠ
+\ps vi
+\ge curved
+\gn 弯
+\mr -
+\xv rə-ɲcʰoˠ nə-ɲcʰoˠ
+\xe in twists and turns
+\xn 弯弯曲曲
+\ge broken
+\gn 断了
+\xv ti tɕu de tə-ɲcʰoˠ-sə gə ŋərə.
+\xe His back is injured.
+\xn 他的背受伤了。
+\dt 21/May/2013
+
+\lx -ɲə
+\ps suff
+\ge @pl
+\gn 复数
+\dt 18/Dec/2012
+
+\lx ɲə stʰi
+\ps vi
+\ge stop ear
+\gn 堵住耳朵
+\mr kə
+\1s kə-stʰu
+\2s kə-stʰi
+\3s kə-stʰi
+\1p kə-stʰã
+\dt 10/Apr/2013
+
+\lx ɲəɲʚ
+\ps adv
+\ge counterclockwise
+\gn 逆时针
+\dt 10/Apr/2013
+
+\lx ɲer
+\ps vt
+\mr kə-
+\ge taste
+\1s kə-ɲã
+\1p kə-ɲã
+\2s kə-ɲer
+\3s kə-ɲer
+\xv tu tɕərə, kə-di-ɲer
+\xe It's poisoned, don't taste it!
+\xn 有毒，别尝！
+\rgy rɲo
+\dt 18/Nov/2013
+
+\lx ɲi
+\ps pro
+\ge 2@sg
+\gn 你
+\dt 18/Dec/2012
+
+\lx ɲɟaˠbaˠ
+\ps n
+\ge mud
+\gn 泥巴
+\dt 14/Oct/2013
+
+\lx ɲɟala
+\ps vt
+\ge lick
+\gn 舔
+\mr rə
+\1s rə-ɲɟalou
+\2s rə-ɲɟalei
+\3s rə-ɲɟala
+\1p rə-ɲɟalã
+\xv kətou ti ɮda ɲɟala-sə ci rə.
+\xe The dog is licking his hand.
+\xn 狗在舔他的手。
+\xv ʑələ du smi de ɲɟala rə.
+\xe The guy is flattering the girl.
+\xn 小伙子在讨好女孩。
+\dt 21/May/2013
+
+\lx ɲɟər
+\ps vi
+\ge change
+\gn 变
+\mr tə
+\1s tə-ɲɟõ
+\2s tə-ɲɟər
+\3s tə-ɲɟər
+\1p tə-ɲɟõ
+\xv jʚi mdoˠ de məqʰi kʰa tə-ɲɟər-sə.
+\xe The colour of the house changed because of the rain.
+\xn 房子的颜色因为下雨变了。
+\xv vdzi de tə-ɲɟər-dʑə mi-fsi-lə tə-kʰi-sə.
+\xe The man has totally changed that one cannot recognize him.
+\xn 这人变了，变得认不出了。
+\dt 14/May/2013
+
+\lx ɲɟəra
+\ps vi
+\ge run
+\gn 跑
+\mr -
+\1s ɲɟərã
+\2s ɲɟəra
+\3s ɲɟəra
+\1p ɲɟərã
+\xv ŋa ke-mbjoˠ ɲɟəra ŋkʰə gə ŋõ.
+\xe I run very fast.
+\xn 我跑得很快。
+\dt 24/Apr/2013
+
+\lx ɲɟərloˠ
+\ps vi
+\ge return
+\gn 返回
+\mr -
+\1s ɲɟərloˠ
+\2s ɲɟərloˠ
+\3s ɲɟərloˠ
+\1p ɲɟərloˠ
+\dt 08/Apr/2013
+
+\lx ɲɟev
+\ps vi
+\ge sleep
+\gn 睡
+\mr tə
+\1s tə-ɲɟã
+\2s tə-ɲɟev
+\3s tə-ɲɟev
+\1p tə-ɲɟã
+\xv kamə ɲi kí-ɲɟev.
+\xe Did you sleep just now?
+\xn 你刚刚睡了吗？
+\rgy nɯʑɯβ
+\dt 18/Nov/2013
+
+\lx ɲɟevji
+\ps vi
+\ge doze
+\gn 打瞌睡
+\mr tə
+\1s ɲɟevjã
+\2s ɲɟevji
+\3s ɲɟevji
+\1p ɲɟevjã
+\xv ŋa emtɕʰʚ təɲɟevjã.
+\xe I dozed a little bit.
+\xn 我打了会儿瞌睡。
+\dt 12/Apr/2013
+
+\lx ɲɟʚpa səci
+\ps vi
+\ge regret
+\gn 后悔
+\mr tə
+\1s tə-səcã
+\2s tə-səci
+\3s tə-səci
+\1p tə-səcã
+\xv javə ŋa liska ke caˠ gə təruge, na-ma-vu. χavdə ŋa ɲɟʚpa səcã rə.
+\xe Last year I found a very good job but I didn't take it. I regret now.
+\xn 去年我找了一个很好的工作但没有去做，现在很后悔。
+\et ɴgʲod.pa
+\dt 18/Nov/2013
+
+\lx ɲɔpɕa
+\ps N
+\ge shopping
+\gn 购物
+\et ɲo.ptɕa
+\dt 09/Sep/2013
+
+\lx ɲʚŋəvə
+\ps n
+\ge four years later
+\gn 大大后年
+\dt 19/Apr/2013
+
+\lx ɲʚvə
+\ps n
+\ge three years later
+\gn 大后年
+\dt 19/Apr/2013
+
+\lx ŋa
+\ps pro
+\ge 1@sg
+\gn 我
+\dt 13/Nov/2012
+
+\lx ŋamdi
+\ps adv
+\ge only
+\gn 仅仅
+\xv xsʚ-ʁi ŋamdi mi cã rə.
+\xe We are only three.
+\xn 我们只有三人。
+\dt 14/May/2013
+
+\lx ŋə
+\ps vi
+\ge be
+\1s ŋõ
+\3s ŋə
+\rgy ŋu
+\dt 18/Nov/2013
+
+\lx ŋərə
+\ps postp
+\ge in front of
+\gn 在……之前
+\dt 18/Apr/2013
+
+\lx ŋərtsʰʚ
+\ps n
+\ge tree stump
+\gn 树桩
+\dt 01/Jul/2013
+
+\lx ŋgə
+\ps vi
+\ge solid
+\gn 固体的
+\dt 24/Apr/2013
+
+\lx ŋgə
+\ps vt
+\ge eat
+\gn 吃
+\mr nə
+\1s nə-ŋgu
+\2s nə-ŋgi
+\3s nə-ŋgə
+\1p nə-ŋgõ
+\rgy nɤŋka
+\dt 18/Nov/2013
+
+\lx ɴɢəder
+\ps vi
+\ge ring
+\gn 响
+\xv ɲəqʰe dianhua ɴɢəder-sə ci-rə.
+\xe Your phone is ringing.
+\dt 10/Jun/2013
+
+\lx ŋgeŋgə
+\ps vi
+\ge move
+\gn 移动
+\mr -
+\1s ŋgeŋgõ
+\2s ŋgeŋgə
+\3s ŋgeŋgə
+\1p ŋgeŋgõ
+\xv nə-ŋgeŋgə!
+\xe Hurry up!
+\xn 快点！
+\dt 27/May/2013
+
+\lx ŋgi
+\ps vt
+\mr rə
+\ge move
+\de move (one's camp)
+\gn 搬走
+\xv mbroχpa-ɲu rə tə-ŋgi-sə
+\xe The nomads moved their camp.
+\xn 牧民翻山迁徙。
+\rgy ɴgul
+\dt 18/Nov/2013
+
+\lx ɴɢoˠlə
+\ps n
+\ge wok
+\gn 锅
+\dt 14/May/2013
+
+\lx ŋgɔrpaˠ
+\ps n
+\ge point faible des chien (nuque)
+\dt 18/Nov/2013
+
+\lx ŋgra
+\ps Post
+\ge chez
+\xv ŋaɲə ŋgra
+\dt 18/Nov/2013
+
+\lx ŋgrə
+\ps vi
+\ge be allowed
+\gn 允许
+\xv ti nõ rə-ɕʰə mi-ŋgrə ŋkʰə tɕədə kə-v-ra sə tə rə.
+\xe It is written that no one can enter.
+\xn 写着禁止进入。
+\xv ŋa tə-ɕʰã ə́-ŋgrə?
+\xe May I go?
+\xn 我可以走吗？
+\rgy ŋgrɤl?
+\dt 18/Nov/2013
+
+\lx ŋgrəv
+\ps vi
+\mr nə-
+\ge succeed
+\gn 成功
+\xv ŋi liska de nə-ŋgrəv.
+\xe My work was successful.
+\xv ɲəqʰe liska və-lə de ní-ŋgrəv
+\xe Was your work successful?
+\et ɴgrub
+\dt 18/Nov/2013
+
+\lx ŋguŋgu
+\ps vi
+\ge curved
+\gn 弯曲的
+\mr -
+\1s ŋguŋgu
+\2s ŋguŋgu
+\3s ŋguŋgu
+\1p ŋguŋgu
+\rgy ŋgɤɣ
+\dt 18/Nov/2013
+
+\lx ŋgʚ
+\ps vt
+\mr rə-
+\ge carry
+\de carry on one's back
+\1s rə-ŋgow
+\1p rə-ŋgõ
+\2s rə-ŋgej
+\3s rə-ŋgʚ
+\rgy fkur?
+\dt 18/Nov/2013
+
+\lx ŋgʚji ŋkʰʚr
+\ps vi
+\ge faint
+\gn 晕
+\mr tə
+\xv ŋa ke-mtʰʚ tɕʰa rə-ɕã ve ŋgʚji ŋkʰʚr rə.
+\xe If I go to a high place, I will feel dizzy.
+\xn 如果我到高处，我就会头晕。
+\dt 11/Jun/2013
+
+\lx ŋgʚjoˠ
+\ps vt
+\ge coax
+\gn 安慰
+\mr kə
+\1s kə-ŋgʚjoˠ
+\2s kə-ŋgojoˠ
+\3s kə-ŋgʚjoˠ
+\1p kə-ŋgʚjoˠ
+\xv ŋa qʰana de kə-ŋgʚjoˠ.
+\xe I coaxed the child.
+\xn 我安慰了孩子。
+\dt 01/Jul/2013
+
+\lx ŋi
+\ps vi
+\ge good, well
+\gn 好，可以
+\mr tə
+\xv tə-ŋi.
+\xe It's OK.
+\xn 还行。
+\xv mi-ŋi.
+\xe It's not good.
+\xn 不太好。
+\dt 18/Apr/2013
+
+\lx ŋkʰre
+\ps vi
+\mr rə-
+\ge vibrate, shiver
+\gn 震动、发抖
+\1s rə-ŋkʰrã
+\xv ɲəqʰe dianhua ŋkʰre-sə ci-rə
+\xe Your phone is vibrating.
+\xv ŋa tə-rkʰõ-dʑə rə-ŋkʰrã.
+\xe I felt cold so I shivered.
+\dt 18/Dec/2012
+
+\lx ɴqʰəder
+\ps vt
+\ge knock
+\gn 敲
+\mr nə
+\1s nə-ɴqʰədou
+\2s nə-ɴqʰədei
+\3s nə-ɴqʰəder
+\1p nə-ɴqʰədõ
+\xv rtəɴqʰʚ nõ tɕa de nə-ɴqʰədou.
+\xe I ground the tea leaves in a mortar.
+\xn 我在臼里研磨茶叶。
+
+\lx ɴqʰi
+\ps vi
+\ge maigrir
+\gn 变瘦
+\1s tə-ɴqʰã
+\3s tə-ɴqʰi-sə
+\dt 09/Sep/2013
+
+\lx ɴqʰrə
+\ps vt
+\ge fetch
+\gn 去找，去接
+\mr -
+\1s ɴqʰru
+\2s ɴqʰri
+\3s ɴqʰrə
+\1p ɴqʰõ
+\xv tu ŋa de rə-ɴqʰrõ
+\xe He went to fetch me.
+\xn 他来接我了
+
+\dt 02/Dec/2013
+
+\lx ɴqʰʚra
+\ps vt
+\ge dig a hole
+\gn 挖洞
+\mr rə
+\1s rə-ɴqʰʚrou
+\2s rə-ɴqʰʚrei
+\3s rə-ɴqʰʚra
+\1p rə-ɴqʰʚrã
+\dt 01/Jul/2013
+
+\lx ŋu
+\ps adv
+\ge before
+\dt 21/Oct/2013
+
+\lx ŋʚ
+\ps vi
+\mr nə-
+\ge be.ill
+\gn 生病
+\1s nə-ŋõ
+\1p nə-ŋõ
+\2s nə-ŋʚ
+\3s nə-ŋʚ
+\rgy ngo
+\dt 18/Nov/2013
+
+\lx pa
+\ps n
+\ge step
+\gn 步伐
+\xv qʰana du pa spʚ rə.
+\xe The child begins to walk.
+\xn 孩子开始走路了。
+\dt 10/Apr/2013
+
+\lx pa
+\ps pro
+\ge groupe de
+\xv a-ʁi pa
+\xe solitaire
+\dt 26/Nov/2013
+
+\lx pa spʚ
+\ps vi
+\ge walk
+\gn 走路
+\xv ŋa pa spʚ dʑə ɕə sə cã.
+\xe I am walking.
+\xn 我在走路。
+\et spo
+\dt 18/Nov/2013
+
+\lx pʰacʰava
+\ps adv
+\ge most
+\gn 大部分
+\dt 01/Jul/2013
+
+\lx pala
+\ps vi
+\ge old (house, bowl)
+\gn 旧（房子，碗）
+\xv qʰə-bala
+\xe old bowl
+\xn 旧碗
+\dt 18/Apr/2013
+
+\lx pʰapʰa
+\ps Pro
+\ge some
+\xv ŋa pʰapʰa-tɕʰa rcõ, pʰapʰa-tɕʰa mí-rcõ
+\xn Je sui méchant avec certains et pas avec d'autres
+\dt 26/Nov/2013
+
+\lx parma
+\ps Post
+\ge between
+\xv ŋa ɣni parma
+\xe between us
+\dt 18/Nov/2013
+
+\lx pʰẽ
+\ps vi
+\ge beneficial
+\gn 有利的
+\xv vdzi de ŋaʁa ke-pʰẽ gə ŋərə.
+\xe The man is very beneficial to me.
+\xn 这个人对我很有利。
+\et pʰan
+\dt 18/Nov/2013
+
+\lx pəcʰa
+\ps n
+\ge stick
+\gn 棍棒
+\dt 12/Apr/2013
+
+\lx pejə
+\ps adv
+\ge very
+\gn 非常
+\dt 11/Apr/2013
+
+\lx pʰembe
+\ps N
+\ge gift
+\gn 礼物
+\dt 09/Sep/2013
+
+\lx pemə
+\ps n
+\ge dew
+\gn 露水
+\dt 24/May/2013
+
+\lx pəqi
+\ps n
+\ge bull
+\gn 牛
+\dt 11/Apr/2013
+
+\lx pʰər
+\ps vt
+\ge dedicate
+\gn 献
+\mr rə
+\1s rə-pʰu
+\2s rə-pʰi
+\3s rə-pʰər
+\1p rə-pʰõ
+\xv ŋa rɟalbə gi kʰeder rə-pʰu.
+\xe I dedicated a Kadar to the king.
+\xn 我给国王献上了哈达。
+\et pʰul
+\dt 18/Nov/2013
+
+\lx pərɟə
+\ps n
+\ge later generations
+\gn 后代
+\dt 30/Sep/2013
+
+\lx pʰerɟe
+\ps postp
+\ge behind
+\gn 在……之后
+\dt 18/Apr/2013
+
+\lx pərzə
+\ps n
+\ge knife
+\gn 刀子
+\dt 24/Apr/2013
+
+\lx pəvə
+\ps n
+\ge this year
+\gn 今年
+\dt 19/Apr/2013
+
+\lx pi
+\ps n
+\ge boule de tsampa
+\gn 糌粑坨坨
+\dt 18/Nov/2013
+
+\lx pʰin
+\ps n
+\ge pen
+\gn 笔
+\dt 02/May/2013
+
+\lx pʰjaˠ mtsʰe
+\ps v
+\mr rə-
+\ge pray
+\gn 祈祷
+\1s rə-mtsʰou
+\1p rə-mtsʰã
+\2s rə-mtsʰei
+\3s rə-mtsʰe
+\xv ŋa pʰjaˠ rə-mtsʰou
+\xe I join hands in worship.
+\xn 我祷告了。
+\dt 19/Dec/2012
+
+\lx pjə̃
+\ps vi
+\ge set (sun)
+\gn （太阳）下山
+\xv ɣbə pjə̃-sə ci rə.
+\xe The sun is setting.
+\xn 太阳正在下山。
+\dt 21/May/2013
+
+\lx pjenʚ
+\ps n
+\ge meat
+\gn 肉
+\dt 12/Apr/2013
+
+\lx pʰji
+\ps vi
+\mr tə-
+\ge run_away
+\1s tə-pʰjã
+\1p tə-pʰjã
+\2s tə-pʰji
+\3s tə-pʰji
+\rgy pʰɣo
+\dt 18/Nov/2013
+
+\lx praˠ
+\ps vt
+\ge cut
+\gn 剪
+\mr nə
+\1s nə-praˠ
+\2s nə-praˠ
+\3s nə-praˠ
+\1p nə-praˠ
+\xv ʁəpra praˠ ŋõ.
+\xe I going to cut my hair.
+\xn 我要去剪头发。
+\xv ŋa ti ʁəpra de nə-praˠ.
+\xe I cut his hair.
+\xn 我帮他剪了头发。
+\et breg
+\dt 18/Nov/2013
+
+\lx pʰre
+\ps vt
+\ge break (thread, flexible objects)
+\gn 弄断（线，弹性物）
+\mr nə
+\1s nə-pʰrou
+\2s nə-pʰrei
+\3s nə-pʰre
+\1p nə-pʰrã
+\cf bre
+\rgy prɤt
+\dt 18/Nov/2013
+
+\lx pru
+\ps n
+\ge saussage
+\gn 肠儿（食用）
+\dt 15/Oct/2013
+
+\lx pʰru
+\ps vt
+\ge tie
+\gn 拴
+\mr kə
+\1s kə-pʰru
+\2s kə-pʰru
+\3s kə-pʰru
+\1p kə-pʰru
+\xv rji de təɲɟi ʁetɕʰi kə-pʰru
+\xe They tied the horse outside.
+\xn 他们把马拴在门外。
+\dt 17/Apr/2013
+
+\lx pʰrʚ ʁambe
+\ps n
+\ge full moon
+\gn 满月
+\xv pʰrʚ ʁambe kəzə
+\xe full moon night
+\xn 满月之夜
+
+\lx pʰu
+\ps vt
+\mr kə-
+\ge open 
+\gn 撑开
+\1s kə-pʰu
+\3s kə-pʰu
+\xv ŋa məqʰi ɮde-sə ci-rəge, ɕʰodu de kə-pʰu.
+\xe As it was raining, I opened my umbrella.
+\dt 13/Dec/2012
+
+\lx pʰva
+\ps n
+\ge stomach
+\gn 胃
+
+\lx pʰʚ
+\ps vt
+\ge cover (not completely)
+\gn 遮住
+\mr nə
+\3s nə-pʰʚ
+\xv ɕɔʁdu-kʰa qʰana de kə-pʰej
+\xn
+\dt 21/Oct/2013
+
+\lx pʚ
+\ps n
+\ge gun
+\gn 枪
+\dt 01/Jul/2013
+
+\lx pʚ stə
+\ps vi
+\ge kiss
+\gn 亲，吻
+\mr kə
+\1s pʚ kə-stu
+\2s pʚ kə-sti
+\3s pʚ kə-stə
+\1p pʚ kə-stõ
+\xv ŋa-ʁa pʚ kə-sti.
+\xe Kiss me.
+\xn 亲我。
+
+\lx pʰʚser
+\ps n
+\ge young man
+\gn 小伙子
+\dt 24/May/2013
+
+\lx qʰana
+\ps n
+\ge child
+\gn 孩子
+\dt 11/Apr/2013
+
+\lx qʰana ndzʚ
+\ps vi
+\ge pregnant
+\gn 怀孕
+\mr ɣə
+\1s -
+\2s -
+\3s qʰana ɣə-ndzʚ
+\1p -
+\xv ŋa ʁa qʰana ɣə-ma-ndzʚ ve, ŋi rə ntsʰu rə.
+\xe I hope I am not pregnant.
+\xn 希望我别怀孕。
+\dt 15/Apr/2013
+
+\lx qaʁə
+\ps
+\ge in a rural area
+\gn 在山旮旯的地方
+\dt 12/Apr/2013
+
+\lx qe
+\ps vt
+\ge goad
+\gn 赶
+\mr ɣə
+\1s ɣə-qow
+\2s ɣə-qej
+\3s ɣə-f-qe
+\1p ɣə-qã
+\dt 18/Nov/2013
+
+\lx qe
+\ps vt
+\ge throw
+\gn 扔
+\mr -
+\1s qow
+\2s qej
+\3s qe
+\1p qã
+\xv ŋa rgəme gə nə-qow.
+\xe I threw a stone.
+\xn 我扔了一个石头。
+\dt 15/Oct/2013
+
+\lx qə
+\ps vi
+\mr tə-
+\ge go out
+\gn 灭
+\3s tə-qə-sə
+\xv ɣmə tə-qə-sə
+\xe The fire has gone out.
+\cf sqʰə
+\dt 11/Dec/2012
+
+\lx qʰe
+\ps vi
+\ge laugh
+\gn 笑
+\mr nə
+\1s nə-qʰã
+\2s nə-qʰe
+\3s nə-qʰe
+\1p nə-qʰã
+\xv e-qʰe nə-ɲcʰi!
+\xe Smile a little!
+\xn 笑一下！
+\xv qʰe ske f-tʰe rə.
+\xe He forces himself to smile.
+\xn 他皮笑肉不笑。
+\dt 12/Apr/2013
+
+\lx qəjev
+\ps n
+\ge city
+\gn 城市
+\dt 01/Jul/2013
+
+\lx qəjev
+\ps vi
+\ge shout
+\gn 喊叫
+\mr rə-
+\1s rə-qəjã
+\xv ŋa qəjev nə rə-qəjã
+\xe I shouted in the city.
+\xn
+
+\dt 01/Jul/2013
+
+\lx qəsji
+\ps n
+\ge tomorrow
+\gn 明天
+
+\lx qev
+\ps vi
+\ge numb, paralysed
+\gn 麻木，麻痹
+\mr kə
+\1s kə-qã
+\2s kə-qev
+\3s kə-qev
+\1p kə-qã
+\xv ŋi ɮda kə-qev sə.
+\xe My hands feel numb.
+\xn 我的手很麻。
+\dt 10/Apr/2013
+
+\lx qʰəzə
+\ps n
+\ge bowl
+\gn 碗
+\dt 12/Apr/2013
+
+\lx qʰi
+\ps adj
+\ge mauvais, violent
+\gn 坏
+\xv vdzi de ke qʰi aʁi ŋə-rə
+\xe This man is very violent.
+\dt 09/Sep/2013
+
+\lx qʰi
+\ps adv
+\ge near
+\dt 15/Oct/2013
+
+\lx qre
+\ps vt
+\ge tear
+\gn 撕
+\mr tə
+\1s tə-qrow
+\2s tə-qrej
+\3s tə-qre
+\1p tə-qrã
+\xv ŋi tsəgə de kə-rɲõ dʑə tə-qre sə.
+\xe My clothes got torn.
+\xn 我的衣服被撕烂了。
+\rgy qraʁ?
+\dt 18/Nov/2013
+
+\lx qrə
+\ps n
+\ge female yak
+\gn 母牦牛
+\dt 21/Oct/2013
+
+\lx qʰre
+\ps vt
+\ge tear
+\gn 撕
+\mr nə
+\1s nə-qʰrou
+\2s nə-qʰrei
+\3s nə-qʰre
+\1p nə-qʰrã
+\xv tu tsʰupa tə-za dʑə ti tɕədəɲə χsəmbə nə-qʰre sə.
+\xe He was so angry that he tore his books.
+\xn 他特别生气，还撕了他的书。
+\dt 12/Apr/2013
+
+\lx qʰwa
+\ps n
+\ge big leather bag
+\gn 大皮口袋
+\dt 21/May/2013
+
+\lx qʰʚr
+\ps n
+\ge hole
+\gn 洞
+\dt 18/Apr/2013
+
+\lx ra
+\ps vt
+\mr kə
+\ge write
+\gn 写
+\1s kə-rou
+\1s kə-rei
+\3s kə-v-ra
+\1p kə-rã
+\xv ŋa esɲəsɲəma tɕədə ra sɲə mi-bre rə.
+\xe Everyday I have no intention to write.
+\xn 我每天都不想写东西。
+\xv ŋa pʚju ra lə tə-ru ve, pʚju kʰa tɕədə gə rou tsʰu rə.
+\xe If I could write in Tibetan, I would write a book.
+\xn 如果我会写藏文的话，我会写一本书。
+\dt 10/Jun/2013
+
+\lx ra
+\ps n
+\ge cliff
+\gn 悬崖
+\dt 14/Oct/2013
+
+\lx raˠ
+\ps n
+\ge brass
+\gn 黄铜
+\dt 14/Oct/2013
+
+\lx raca
+\ps n
+\ge horseman
+\gn 骑士
+\dt 11/Oct/2013
+
+\lx rãkʰõ
+\ps n
+\ge duration
+\dt 14/Oct/2013
+
+\lx raˠlaˠ
+\ps n
+\ge branch
+\gn 树枝
+\dt 30/Sep/2013
+
+\lx ramda ɕə
+\ps Vi
+\ge run after
+\xv rkəmə ramda tə-ɕã
+\dt 26/Nov/2013
+
+\lx raʁə
+\ps n
+\ge white radish (leaves)
+\gn 白萝卜
+\ge snotty-nosed children
+\dt 21/Oct/2013
+
+\lx ravɔ
+\ps n
+\ge cave
+\gn 山洞
+\dt 14/Oct/2013
+
+\lx raˠzɟi
+\ps n
+\ge drunkard
+\gn 酒鬼
+\dt 12/Apr/2013
+
+\lx rbala
+\ps n
+\ge leaf
+\gn 叶子
+\dt 06/May/2013
+
+\lx rbaɴɢa
+\ps n
+\ge dung beetle
+\gn 蜣螂
+\dt 21/Oct/2013
+
+\lx rbu
+\ps n
+\ge sand
+\gn 沙子
+
+\lx rcaˠpa
+\ps n
+\ge stool
+\gn 粪便
+\dt 10/Jun/2013
+
+\lx rcʰe
+\ps vt
+\ge bite
+\gn 咬
+\mr tə
+\1s tə-rcʰow
+\2s tə-rcʰej
+\3s tə-rcʰe
+\1p tə-rcʰã
+\xv kəta du rcʰe ŋərə, ʁzeʁze nə-vi
+\xe This dog bites, be careful.
+\xn 这狗咬人,要小心。
+\dt 18/Nov/2013
+
+\lx rcʰəla
+\ps vt
+\mr kə-
+\ge tie up
+\gn 绑
+\1s kə-rcʰəlow
+\2s kə-rcʰəlej
+\3s kə-rcʰəla
+\1p kə-rcʰəlõ
+\xv vdzi de sʰamaradza-kʰa kə-rcʰəla-sə tə-rə
+\xe This man has been tied up with a rope.
+\dt 18/Nov/2013
+
+\lx rcʰele kʰi
+\ps vi
+\ge itchy
+\gn 痒痒
+\mr kə
+\dt 22/May/2013
+
+\lx rcʰerku
+\ps n
+\ge bark
+\gn 树皮
+\dt 11/Apr/2013
+
+\lx rcʚ
+\ps adj
+\ge bad
+\gn 差劲
+\xv ŋa ke rcʚ gə nə-vu.
+\xe I did it badly.
+\xn 我做得很差
+\xv tɕe ke rcɔ gə ŋə-rə
+\xe The road is bad.
+\xv ɲi vdzi ə-rcɔ?
+\xn 你是不是好汉子？
+\dt 02/Dec/2013
+
+\lx rcʰʚrqʚ
+\ps n
+\ge pigeon
+\gn 鸽子
+\dt 11/Jun/2013
+
+\lx rdərda
+\ps n
+\ge rubbish
+\gn 垃圾
+\dt 22/May/2013
+
+\lx rdzʚ
+\ps vt
+\ge swing
+\gn 摇
+\mr -
+\1s rdzow
+\2s rdzej
+\3s rdzʚ
+\1p rdzõ
+\xv smi du ədəqʰe qʰana de ɮda kʰa rdzʚ sə ci.
+\xe The woman is swinging her child in her arms.
+\xn 女人把孩子抱在手里摇。
+\dt 18/Nov/2013
+
+\lx rdʑəva
+\ps n
+\ge flea
+\gn 跳蚤
+\dt 21/Oct/2013
+
+\lx rə
+\ng v
+\ps vt
+\mr tə-
+\ge find
+\gn 找到
+\1s tə-ru
+\1p tə-rõ
+\2s tə-ri
+\3s tə-v-rə
+\xv ŋa skərjʚ de rə-ɴqʰou rə ge rɟənʚr gə tə-ru
+\xe I found a treasure while digging in the orchard.
+\xv ɲi ɕʰaɕə-lə de ɕʰa-lə tí-ri
+\xe Did you find what you were looking for?
+\ge buy
+\gn 买
+\mr kə
+\1s kə-ru
+\2s kə-ri
+\3s kə-rə
+\1p kə-rõ
+\xv tɕʰəgə k-í-ri?
+\xe Did you buy anything?
+\xn 你买了什么吗？
+\rgy χtɯ
+\dt 18/Nov/2013
+
+\lx rə
+\ps vt
+\ge be able to
+\gn 会
+\mr kə
+\1s kə-ru
+\2s kə-ri
+\3s kə-v-rə
+\1p kə-rõ
+\xv ŋa internet nə ftɕaka rə-lə mí-ru.
+\xe I don't know how to find things online.
+\xn 我不知道怎么在网上找东西。
+\dt 16/Apr/2013
+
+\lx rədaˠ
+\ps n
+\ge animal
+\gn 动物
+\dt 12/Apr/2013
+
+\lx refki
+\ps n
+\ge foal
+\gn 马驹
+\dt 27/May/2013
+
+\lx rəŋgʚ
+\ps n
+\ge mountain
+\gn 山
+\dt 18/Apr/2013
+
+\lx rərtʰəka
+\ps vi
+\ge straight
+\gn 直
+\xv tɕe de rərtʰəka ŋərə.
+\xe The street is straight.
+\xn 街很直。
+\xv tə qʰi rərtʰəkʰa rə-ɕə ve <metro> qʰi ɮde.
+\xe Go straight down the street and you will arrive at the metro station.
+\xn 直走就可以走到地铁。
+\dt 14/May/2013
+
+\lx rev
+\ps Adv
+\ge assez
+\xv rev gə ɣə-tʰu ge, χavʑi pʰa gə ɣə-ɬaˠ-sə
+\xe J'en ai bu pas mal, mais il en reste encore la moitié.
+\dt 18/Nov/2013
+
+\lx rəvə
+\ps N
+\ge village
+\dt 02/Dec/2013
+
+\lx rəvire
+\ps n
+\ge lift
+\gn 垂直电梯
+\dt 18/Apr/2013
+
+\lx rga
+\ps vt
+\mr tə-
+\ge love
+\de love like
+\1s rgã
+\3s rga
+\xv tu ŋa-gi rga-rə
+\xe He loves me
+\xv ɲi ŋa-gi ə-rga-rə?
+\xe Do you love me?
+\xv ŋa tə-gi rgã-rə
+\xe I love him
+\xv ŋa rɟazu ŋgə-lə (gi) rgã
+\xe I like eating potatoes
+\xv ŋa tə-gi tə-rgã
+\xe I fell in love with him
+\xv tu ŋa-gi tə-rga-sə
+\xe He fell in love with me.
+\xv ɲi ŋa-gi ti-rga?
+\xe Have you ever loved me?
+\xv ɲi ŋa-gi ə-rga?
+\xe Do you love me?
+\et dga
+\dt 18/Nov/2013
+
+\lx rgali
+\ps n
+\ge girlfriend
+\gn 女朋友
+\dt 24/May/2013
+
+\lx rgə
+\ps vi
+\ge sleep
+\gn 睡觉
+\mr kə
+\mr tə
+\1s kə-rgõ
+\2s kə-rgə
+\3s kí-rgə
+\1p kə-rgõ
+\rgy rŋgɯ
+\dt 18/Nov/2013
+
+\lx rgəme
+\ps n
+\ge stone
+\gn 石头
+\dt 12/Apr/2013
+
+\lx rɣəvə
+\ps n
+\ge neighbour
+\gn 邻居
+\dt 15/Oct/2013
+
+\lx rgəzɮdi
+\ps vi
+\ge toss and turn
+\gn 辗转反侧
+
+\lx rgi
+\ps vi
+\ge hard
+\gn 硬
+\rgy rko
+\dt 18/Nov/2013
+
+\lx rgweŋa
+\ps n
+\ge calf
+\gn 牛犊
+\dt 27/May/2013
+
+\lx rgʚli dʑə ɕə
+\ps vi
+\ge move (four legs)
+\gn 移动（四腿）
+\dt 10/Apr/2013
+
+\lx ri
+\ps n
+\ge tissue
+\gn 布
+
+\lx rja
+\ps vi
+\ge arrive
+\gn 到
+\ng only third person past
+\xv tə-rja-sə
+\dt 21/Oct/2013
+
+\lx rje
+\ps vi
+\ge ask
+\gn 问、请求
+\mr kə
+\1s kə-rjow
+\2s kə-rjej
+\3s kə-rje
+\1p kə-rjã
+\xv ɲi təgi ʁʚ ə́vzi təjədʑə kərje.
+\xe Ask him if he can help you.
+\xe 问他是否可以帮助你。
+\xv ŋa təgi sketɕʰagə kərjã.
+\xe I asked him a question.
+\xe 我问了他一个问题。
+\rgy tʰu?
+\dt 18/Nov/2013
+
+\lx rje
+\ps vi
+\ge stand
+\gn 站
+\ge get up
+\gn 起床
+\mr tə
+\1s tə-rjã
+\2s tə-rje
+\3s tə-rje
+\1p tə-rjã
+\rgy situ rjap
+\dt 18/Nov/2013
+
+\lx rji
+\ps n
+\ge horse
+\gn 马
+\dt 11/Oct/2013
+
+\lx rji kɔmbatɕẽ
+\ps n
+\ge cheval d'endurance
+\dt 21/Oct/2013
+
+\lx rjɔ
+\ps vt
+\ge surround, fence in
+\gn 围起来
+\xv ɣmə de ɣməsə-kʰa kə-rjɔ-dʑə kə-pʰej
+\xn
+\dt 21/Oct/2013
+
+\lx rɟaqəra
+\ps n
+\ge beard
+\gn 胡须
+\dt 18/Apr/2013
+
+\lx rɟara
+\ps n
+\ge courtyard
+\gn 天井
+\dt 08/Apr/2013
+
+\lx rɟatɕʰaˠ
+\ps n
+\ge city
+\gn 城市
+\dt 14/May/2013
+
+\lx rɟənʚr
+\ps n
+\ge treasure
+\gn 宝物
+\dt 26/Nov/2013
+
+\lx rɟeski
+\ps n
+\ge ladder
+\gn 梯子
+\dt 17/Apr/2013
+
+\lx rɟev
+\ps vt
+\ge graze
+\gn 放养
+\mr tə
+\1s tə-rɟow
+\2s tə-rɟev
+\3s tə-rɟev
+\1p tə-rɟã
+\dt 18/Nov/2013
+
+\lx rɟi
+\ps vi
+\ge grow, spread
+\gn 增长
+\mr tə-
+\xv meʁer ʁa raˠlaˠ ke ɣri tə-rɟi-sə
+\xe The poplar grew many branches.
+\dt 30/Sep/2013
+
+\lx rɟwi
+\ps n
+\ge drum
+\gn 鼓
+
+\lx rka
+\ps vi
+\mr tə-
+\ge ???
+\gn 辛苦
+\3s tə-rka
+\et dka
+\dt 18/Nov/2013
+
+\lx rkə
+\ps vt
+\ge steal
+\gn 偷
+\mr tə
+\1s tə-rku
+\2s tə-rki
+\3s tə-rkə
+\1p tə-rkõ
+\rgy mɯrkɯ
+\dt 18/Nov/2013
+
+\lx rkʰe
+\ps vi
+\ge good at
+\xv ŋa ʁɮdə qe mi-rkʰã
+\xe I am not good at shooting with a bow.
+\1s rkʰã
+\dt 08/Oct/2013
+
+\lx rkʰə
+\ps vt
+\mr nə-
+\ge insert
+\1s nə-rkʰu
+\1p nə-rkʰõ
+\2s nə-rkʰi
+\3s nə-rkʰə
+\xv ŋa kʰemboˠ nõ tɕədə de nə-rkʰə ʑəgu mi dzʚ rə.
+\xe I tried to insert the book in to the bag, but it didn't fit in.
+\xn 我把书装进袋子里，但装不下。
+\rgy rku
+\dt 18/Nov/2013
+
+\lx rkə (tsu)
+\ps Vt
+\ge accuser
+\gn 告状
+\mr kə-ftsu
+\xv tu ŋa-tɕʰa rkə ftsu-rə
+\xn 他告我的状
+\dt 02/Dec/2013
+
+\lx rkʰətsu
+\ps vt
+\ge push
+\gn 推
+\mr kə
+\1s kə-rkʰətsu
+\2s kə-rkʰətsu
+\3s kə-rkʰətsu
+\1p kə-rkʰətsu
+\xv ŋa smi de kə-rkʰətsu dʑə nə-səlou
+\xe 我把这个女孩推倒了。
+\xv ŋi rtɕaˠrta de ŋkʰərlʚ tə-bja dʑə rkʰətsu ba tə-kʰã
+\xe The tire of my bike blew out so I had to push it.
+\xn 我的单车爆胎了，所以我必须推着来。
+\dt 02/Dec/2013
+
+\lx rkɔɲcʰoˠ
+\ps n
+\ge boiteux, qui a les jambes tordues
+\dt 26/Nov/2013
+
+\lx rkõtʰõ ɕə
+\ps vi
+\ge walk
+\gn 走路
+\et rkaŋ.tʰaŋ
+\dt 18/Nov/2013
+
+\lx rkʰʚ
+\ps vi
+\ge cold
+\gn 冷
+\mr tə
+\1s tə-rkʰõ
+\2s tə-rkʰʚ
+\3s tə-rkʰʚ
+\1p tə-rkʰõ
+\xv ɲi rkʰʚ rə-ŋʚ?
+\xe Do you feel cold?
+\xn 冷吗？
+\dt 17/Apr/2013
+
+\lx rɬa
+\ps vi
+\ge supple, fragile
+\gn 松弛，弱
+\xv ɕezgʚ de ke-rɬa gə ŋərə.
+\xe The glass is very fragile.
+\xn 玻璃是很脆的。
+
+\lx rme
+\ps vi
+\ge mature, ripe
+\gn 成熟
+\mr ɣə
+\xv kʰəmbə ɣə-ma-rme sə.
+\xe The plums are not yet ripe.
+\xn 李子还没有成熟。
+\rgy smi
+\dt 18/Nov/2013
+
+\lx rmə
+\ps vt
+\ge forget
+\gn 忘记
+\mr tə
+\1s tə-rmu
+\2s tə-rmi
+\3s tə-rmə
+\1p tə-rmõ
+\xv ɲi ŋa tə-rmi sə.
+\xe You forget me.
+\xn 你忘记了我。
+\xv ŋa ɲi mi-rmu.
+\xe I will not forget you.
+\xn 我不会忘记你。
+\xv ətɕəχi və-lə ŋʚ tə-di-rmi
+\xe Don't forget how to...
+\xn 别忘了……怎么做
+\rgy jmɯt
+\dt 18/Nov/2013
+
+\lx rmə
+\ps n
+\ge hail
+\gn 冰雹
+\dt 17/Apr/2013
+
+\lx rmi
+\ps n
+\ge name
+\gn 名字
+\xv ŋi rmi luvzõ jə.
+\xe My name is Blobzang.
+\xn 我的名字是洛荣。
+\dt 19/Apr/2013
+
+\lx rmu
+\ps n
+\ge mushroom
+\gn 蘑菇
+
+\lx rnemɕi
+\ps n
+\ge weather
+\gn 天气
+\dt 14/Oct/2013
+
+\lx rni
+\ps Vt
+\mr kə-
+\ge knead
+\gn 揉
+\1s kə-rnu
+\dt 18/Nov/2013
+
+\lx rɲə
+\ps vt
+\ge dream
+\gn 梦见
+\1s nə-rɲu
+\xv ŋa ɲi de rɲəlem-nə nə-rɲu
+\xe I dreamt of you.
+\rgy tɯ-jmŋo
+\dt 18/Nov/2013
+
+\lx rɲəlem
+\ps N
+\ge dream
+\gn 梦
+\dt 09/Sep/2013
+
+\lx rɲerɲə
+\ps vi
+\ge wilted
+\gn 枯萎
+\mr tə
+\xv rɟazu tə-rɲerɲə-sə.
+\xe The potato is wilted.
+\xn 土豆坏了。
+\rgy rŋil
+\dt 18/Nov/2013
+
+\lx rɲi
+\ps vt
+\ge wait for
+\gn 等
+\mr ɣə
+\1s ɣə-rɲu
+\2s ɣə-rɲi
+\3s ɣə-rɲi
+\1p ɣə-rɲã
+\xv ŋa de ɣə-rɲã.
+\xe Wait for me.
+\xn 等我。
+\rgy nɤjo
+\dt 18/Nov/2013
+
+\lx rɲi
+\ps n
+\ge corpse
+\gn 尸体
+\dt 02/May/2013
+
+\lx rɲõba
+\ps vi
+\ge old
+\gn 旧
+\et rɲiŋ.ba
+\dt 18/Nov/2013
+
+\lx rŋa
+\ps vt
+\ge hunt
+\gn 猎杀
+\mr kə
+\1s kə-rŋow
+\2s kə-rŋej
+\3s kə-rŋa
+\1p kə-rŋã
+\xv ŋaɲə zɮdə kə-rŋã.
+\xe We hunted does.
+\xn 我们猎杀了母鹿。
+\rgy ɣɤrʁaʁ
+\dt 18/Nov/2013
+
+\lx rŋə
+\ps vt
+\mr kə-
+\ge parch
+\gn 干炒
+\1s kə-rŋu
+\2s kí-rŋi
+\3s kə-rŋə
+\1p kə-rŋõ
+\cf rŋərŋa
+\rgy rŋu
+\dt 18/Nov/2013
+
+\lx rŋə
+\ps n
+\ge silver
+\gn 白银
+\dt 14/Oct/2013
+
+\lx rŋə və
+\ps vi
+\ge swear
+\gn 发誓
+\rgy kɯjŋu
+\dt 18/Nov/2013
+
+\lx rŋərŋa
+\ps vt
+\mr kə-
+\ge stir-fry
+\gn 炒（菜）
+\1s kə-rŋərŋou
+\2s kə-rŋərŋei
+\3s kə-rŋərŋa
+\1p kə-rŋərŋã
+\xv ŋa pjeno-rəge tsʰi ɣni snəm-kʰa kə-rŋərŋou
+\xe I fried meat and vegetables with oil.
+\cf rŋə
+\dt 18/Dec/2012
+
+\lx rŋərŋə
+\ps vi
+\ge blue
+\gn 蓝色
+\xv pəqʰe ndzʚre de rŋərŋə gə ŋərə.
+\xe Your seat is blue.
+\xn 你的座位是蓝色的。
+\rgy arŋi
+\dt 18/Nov/2013
+
+\lx rŋi
+\ps vi
+\ge listen
+\gn 听
+\mr ɣə
+\1s ɣə-rŋã
+\2s ɣə-rŋi
+\3s ɣə-rŋi
+\1p ɣə-rŋã
+\xv tə ʁa ɣə-rŋã.
+\xe I listened to him.
+\xn 我听了他说。
+\xv ŋi ja ʁa ɣə-rŋi.
+\xe Listen to me.
+\xn 听我说。
+\rgy sɤŋo
+\dt 18/Nov/2013
+
+\lx rŋi
+\ps vt
+\ge borrow
+\gn 借入
+\mr ɣə
+\1s ɣə-rŋu
+\2s ɣə-rŋi
+\3s ɣə-rŋi
+\1p ɣə-rŋã
+\xv tə gi ɣə-rŋu
+\xe I borrowed from him
+\xn 我从他那儿借
+\rgy rŋo
+\dt 18/Nov/2013
+
+\lx -rɔ
+\ps Post
+\ge until
+\dt 18/Nov/2013
+
+\lx rõsa
+\ps adv
+\ge at once
+\gn 马上
+\dt 11/Apr/2013
+
+\lx rɔʑi
+\ps adv
+\ge sans raison spéciale, comme ça
+\xv rɔʑi ɣə-ɮdã
+\xe Je suis venu comme ça.
+\xv rɔʑi mɲa mɲa, cõ gə nə-ɲcʰu.
+\xe J'ai perdu juste comme ça (par erreur).
+\dt 26/Nov/2013
+
+\lx rʁəbə
+\ps vi
+\ge thin
+\gn 瘦
+\xv vdzi de rʁəbə gə ŋərə.
+\xe The man is thin.
+\xn 这个人很瘦。
+\dt 19/Apr/2013
+
+\lx rʁi
+\ps vt
+\ge wash
+\gn 洗
+\mr nə-
+\xv ɲi rŋa nə-rʁi
+\xe wash your face!
+\xn 你洗脸吧
+\rgy χtɕi?
+\dt 18/Nov/2013
+
+\lx rʁi
+\ps n
+\ge blague
+\gn 开玩笑
+\dt 30/Sep/2013
+
+\lx rʁi və
+\ps vi
+\ge to joke
+\gn 开玩笑
+\1s rʁi nə-vu
+\dt 09/Sep/2013
+
+\lx rʁirʁa
+\ps vt
+\ge wash
+\gn 洗
+\mr nə-
+\1s nə-rʁirʁow
+\dt 09/Sep/2013
+
+\lx rʁʚvda
+\ps vi
+\ge childish, naive
+\gn 幼稚
+\xv vdzi de lʚ mbesqʰa nə ɮdi ve χavʑi rʁʚvda gə ŋərə.
+\xe The man is fifty years old but still very childish.
+\xn 这人已经五十岁了但仍旧很幼稚。
+\dt 14/May/2013
+
+\lx rtɕaˠtʰaˠ
+\ps n
+\ge chain
+\et ltɕag.tʰag
+\dt 18/Nov/2013
+
+\lx rtʰə
+\ps vt
+\ge gore, hit
+\gn 顶，撞
+\mr -
+\1s rtʰõ
+\2s rtʰə
+\3s rtʰə
+\1p rtʰõ
+\xv <qiche> de zdi ʁa rə-rtʰə-sə.
+\xe The car crashed on the wall.
+\xn 汽车撞到了墙上。
+\xv ŋa ʁe ʁa ə-rtʰə tə-ɲcʰu.
+\xe The door hit me a bit.
+\xn 我撞了一下门。
+\dt 23/Apr/2013
+
+\lx rtəɴqʰʚ
+\ps n
+\ge mortar
+\gn 臼
+\dt 10/Jun/2013
+
+\lx rti
+\ps vi
+\ge give birth (horse)
+\gn 生育（马）
+\mr ɣə
+\xv rji ɣə-rti dʑə refki pʰrʚpʰrʚ gə v-ɮde-sə.
+\xe The horse gave birth to a white baby horse.
+\xn 马生了一只白白的马驹儿。
+\rgy ɯ-rti?
+\dt 18/Nov/2013
+
+\lx rtsʰa
+\ps vt
+\ge sort
+\gn 筛选
+\mr ɣə-
+\1s ɣə-rtsʰow
+\3s ɣə-rtsʰa
+\dt 24/Sep/2013
+
+\lx rtsarge
+\ps vi
+\ge lewd
+\gn 淫荡的
+\xv vdzi de rtsarge gə ŋərə.
+\xe This man is a playboy.
+\xn 这个男人是个花花公子。
+
+\lx rtsʰu
+\ps n
+\ge joint
+\gn 关节
+\xv ŋa jʚʁʚ jə kʰa nə-dzã dʑə zɮde rtsʰu nə-tʰou.
+\xe I fell down from the roof and my arm was dislocated.
+\xn 我从屋顶摔下来，手臂脱臼了。
+\dt 14/May/2013
+
+\lx rtsʰʚ
+\ps vt
+\ge kick
+\gn 踢
+\mr rə
+\1s rə-rtsʰow
+\2s rə-rtsʰej
+\3s rə-rtsʰʚ
+\1p rə-rtsʰõ
+\xv ŋa ʁe ʁa rə-rtsʰou.
+\xe I kicked the door.
+\xn 我踢了门。
+\rgy tɯ-qartsɯ
+\dt 18/Nov/2013
+
+\lx rtsʚkʰa
+\ps n
+\ge winter
+\gn 冬天
+\dt 12/Apr/2013
+
+\lx rtʚ
+\ps vt
+\ge go cross
+\gn 穿过（河流）
+\mr -
+\1s rtow
+\2s rtej
+\3s rtʚ
+\1p rtõ
+\xv ŋa ɕɔɣru nə-rtow.
+\xe I went across the river.
+\xn 我过了河。
+\xv nə-dʑəvadʑə nə-rtow.
+\xe swim across (the river)
+\xn 游泳过（河）
+\dt 18/Nov/2013
+
+\lx rtʚ
+\ps vt
+\ge tie (a horse with a long rope so that it can go around)
+\gn 拴（使用长绳让其自由活动）
+\mr nə
+\1s rtow
+\2s rtej
+\3s rtʚ
+\1p rtõ
+\xv rji nə-rtow
+\xe tie a horse
+\xn 拴马
+\dt 18/Nov/2013
+
+\lx rtʚ
+\ps vt
+\ge cut
+\gn 切开
+\mr nə
+\1s rtow
+\2s rtej
+\3s rtʚ
+\1p rtõ
+\dt 18/Nov/2013
+
+\lx ru
+\ps vt
+\ge shave
+\gn 剃
+\mr nə
+\1s nə-ru
+\2s nə-ru
+\3s nə-v-ru
+\1p nə-ru
+\xv ŋa ŋaqʰe ʁə de ru.
+\xe I cut my hair.
+\xn 我自己剪头发。
+\dt 16/Apr/2013
+
+\lx rudeɲə
+\ps n
+\ge others
+\gn 其他人
+\dt 11/Jun/2013
+
+\lx rva
+\ps n
+\ge tent made of bull skin
+\gn 牛皮帐篷
+\dt 14/May/2013
+
+\lx rvatɕa
+\ps vt
+\ge to carry on the shoulder
+\gn 扛
+\mr rə
+\1s rə-rvatɕow
+\2s rə-rvatɕej
+\3s rə-rvatɕa
+\1p rə-rvatɕã
+\xv ɣrə rvatɕou.
+\xe I carry water.
+\rgy mɤrpaʁ
+\ng incorporation?
+\dt 18/Nov/2013
+
+\lx rvɔrvɔ
+\ps vi.s
+\ge thick
+\gn 粗
+\rgy jpum
+\dt 18/Nov/2013
+
+\lx rvu zgaˠ
+\ps vi
+\ge inhale
+\gn 吸气
+\mr kə
+\1s kə-zgaˠ
+\2s kə-zgaˠ
+\3s kə-zgaˠ
+\1p kə-zgã
+\dt 21/May/2013
+
+\lx rvʚ
+\ps n
+\ge ice
+\gn 冰
+\dt 21/May/2013
+
+\lx rzə
+\ps n
+\ge broom
+\gn 扫把
+\dt 24/Apr/2013
+
+\lx rzʚ
+\ps vt
+\ge hold
+\gn 握
+\mr rə
+\1s rə-rzow
+\2s rə-rzej
+\3s rə-rzʚ
+\1p rə-rzõ
+\xv ŋa ra sce de lɮda nə rə-rzʚ sə cã.
+\xe I am holding a pen in my hand.
+\xn 我手中握着一支笔。
+\dt 18/Nov/2013
+
+\lx rʚ
+\ps n
+\ge tumour
+\gn 肿
+\dt 10/Jun/2013
+
+\lx rʚ f-tʰe
+\ps vi
+\ge reduce the swelling
+\gn 消肿
+
+\lx rʚ ndʑem
+\ps vi
+\ge reduce the swelling
+\xv ərtʰə rə-ɲcʰu dʑə, rʚ gə tə-ʂfa, smẽ kə-ma dʑə, rʚ de ndʑem tə-xtʂʰu.
+\xe When one gets knocked, it would be swollen. Put some medicine on the swollen area, and it can be reduced.
+\xn 被打了一下，会肿。抹上点药，就可以消肿。
+\dt 10/Jun/2013
+
+\lx ʁalʚ
+\ps n
+\ge torso
+\gn 上半身
+\dt 21/Oct/2013
+
+\lx ʁdemba
+\ps adv
+\ge never
+\gn 永不
+
+\lx ʁdu
+\ps vi
+\ge annoying
+\gn 烦人
+\mr kə
+\1s kə-ʁdu
+\2s kə-ʁdu
+\3s kə-ʁdu
+\1p kə-ʁdu
+\xv vdzi de ŋa ʁa ʁdu rə.
+\xe This person is annoying.
+\xn 这人真烦。
+\et gdug
+\dt 18/Nov/2013
+
+\lx ʁe
+\ps n
+\ge door
+\gn 门
+
+\lx ʁə
+\ps n
+\ge head
+\gn 头
+\dt 12/Apr/2013
+
+\lx ʁəgə ɲcʰə
+\ps vi
+\ge tell a lie
+\gn 骗
+\xv səmne nə-di-vi, ŋa ɲi ʁəgə mi-ɲcʰu.
+\xe Don't worry, I won't lie to you.
+\xn 别担心，我不会骗你的。
+\dt 17/Apr/2013
+
+\lx ʁərʁər
+\ps n
+\ge circle
+\gn 圆圈
+\dt 15/Oct/2013
+
+\lx ʁetɕʰi
+\ps loc
+\ge outside
+\gn 门外
+
+\lx ʁje
+\ps vi
+\ge kind
+\gn 和蔼
+\xv ɲəqʰe vdʑə de ke ʁje gə ŋərə.
+\xe Your friend is very kind.
+\xn 你的朋友挺好的。
+\dt 24/May/2013
+
+\lx ʁjʚrgẽ
+\ps n
+\ge lazy person
+\gn 懒家伙
+\et gjo.rgan
+\dt 01/Jul/2013
+
+\lx ʁla
+\ps n
+\ge salary
+\gn 工资
+\xv ŋi ʁla χaʑi ma-vɮde
+\xn 我还没有收到工资
+\dt 26/Nov/2013
+
+\lx ʁləmba
+\ps vi
+\ge be scanty of words
+\gn 沉默寡言
+\et glen.ba
+\dt 18/Nov/2013
+
+\lx ʁɮdə
+\ps n
+\ge bamboo
+\gn 竹子
+\dt 21/Oct/2013
+
+\lx ʁɮdələ
+\ps n
+\ge pestle
+\gn 杵
+\ge fool
+\gn 蠢材
+\dt 10/Jun/2013
+
+\lx ʁma
+\ps n
+\ge army
+\gn 军队
+\dt 12/Apr/2013
+
+\lx ʁneʁne
+\ps vi
+\ge dark (room)
+\gn 阴暗
+\dt 19/Apr/2013
+
+\lx ʁnõ
+\ps vi
+\ge beautiful
+\gn 美丽
+\xv smi de ʁzu ke-ʁnõ gə ŋərə.
+\xe The girl is very beautiful.
+\xn 这个女孩非常美丽。
+\xv smi de ʁa rŋa ke-ʁnõ gə xi rə.
+\xe The girl has a lovely face.
+\xn 这个女孩有漂亮的脸蛋。
+\dt 21/May/2013
+
+\lx ʁɲa
+\ps n
+\ge cow dung
+\gn 牛粪
+\dt 10/Jun/2013
+
+\lx ʁɲəm
+\ps n
+\ge noise
+\gn 噪音
+\xv ʁɲəm kʰa mbjimə stã rə.
+\xe I will go deaf with this loudness.
+\xn 这么大声，我会聋的。
+\xv tɕe de nõ <qiche> ke-ɣri ɕe-sə ci rə ge zimtsʰer gə ʁɲəm ndʑə
+\xe There are many cars on the street which are very noisy.
+\xn 街上很多车，很吵。
+\dt 21/May/2013
+
+\lx ʁɲõra
+\ps vi
+\ge have diarrhoea
+\gn 拉稀
+\mr nə
+\1s ʁɲõrã
+\2s ʁɲõra
+\3s ʁɲõra
+\1p ʁɲõrã
+\xv ŋi siŋʚ rəge ʁɲõrã sə cã.
+\xe My stomach aches and I'm having a diarrhoea.
+\xn 我肚子疼，在拉稀。
+\dt 07/Jan/2014
+
+\lx ʁzõ
+\ps n
+\ge copper
+\gn 红铜
+\dt 14/Oct/2013
+
+\lx ʁʑu
+\ps n
+\ge valley bottom
+\gn 谷底
+\xv rtsokʰa rədaɲə ʁʑu nə-kʰi və.
+\xe In the winter, the wild animals go to the valley bottom.
+\xn 冬天，野生动物都到谷底去了。
+\dt 12/Apr/2013
+
+\lx ʁʚ
+\wav 877
+\ps vt
+\mr kə
+\ge help
+\gn 帮助
+\1s kəʁow
+\2s kəʁej
+\3s kəʁʚ
+\xv ŋa ɲigi kəʁʚ
+\xe I helped you
+\xv ɲi ŋa-gi (jʚ) spʚ-ʁʚ ə́-ʁʚ?
+\xe Will you help me move?
+\xv ŋa ɲi-gi va-ɲə rɟev-ʁʚ ʁʚ
+\xe I will help you take out the pigs
+\xv tu ŋa-gi tɕədə de zɮda-ʁʚ kə-ʁʚ (tɕədə de poju kə-v-ra-sə tə-rə)
+\xe He helped me reading this book (this book was written in Tibetan).
+\rgy qur
+\dt 18/Nov/2013
+
+\lx -ʁʚ
+\ps suff
+\ge @purp
+\dt 18/Dec/2012
+
+\lx ʁʚrme
+\ps n
+\ge tree sp.
+\gn 树的一种
+\dt 01/Jul/2013
+
+\lx sa
+\ps vt
+\ng v
+\mr kə-
+\ge plough
+\gn 耕地
+\1s kə-sow
+\2s kə-sej
+\3s kə-fsa
+\1p kə-sã
+\xv ŋa fqʚ-kʰa ŋi ɮdi de kə-sow
+\xe I ploughed my field with a plough
+\xn 我使用犁铧来耕地。
+\dt 18/Nov/2013
+
+\lx samaradza
+\ps n
+\ge urtica
+\gn 荨麻
+\dt 24/May/2013
+
+\lx samlɔ
+\ps n
+\ge thought
+\et bsam.blo
+\dt 11/Oct/2013
+
+\lx sare
+\ps n
+\ge farm cattle, farm animal (that ploughs)
+\gn 耕作的动物
+
+\lx scaˠ
+\ps vt
+\ge increase
+\gn 增加
+\xv ŋi ʁla de scaˠ ə-vzi
+\xe Could you increase my salary?
+\xn 可以给我加工资吗？
+\dt 24/May/2013
+
+\lx scaˠ
+\ps n
+\ge shelf
+\gn 书架
+\dt 10/Apr/2013
+
+\lx scaˠloˠ
+\ps n
+\ge thunder
+\gn 雷
+\xv scaˠloˠ və-sə ci rə.
+\xe It is thundering.
+\xn 在打雷。
+\dt 17/Apr/2013
+
+\lx scasca
+\ps vi
+\ge grey
+\gn 灰色
+\dt 19/Apr/2013
+
+\lx scə
+\ps vi
+\ge happy, comfortable
+\gn 快乐，安逸
+\mr
+\1s scõ
+\2s scə
+\3s scə
+\1p scõ
+\xv ŋa scõ rə.
+\xe I am happy.
+\xn 我很高兴。
+\xv ndzʚre de ɲə ke scə ɕəɕe ŋərə.
+\xe The chairs are mostly very comfortable.
+\xn 这些椅子大部分很舒服。
+\et skʲid
+\dt 18/Nov/2013
+
+\lx scer
+\ps vi
+\ge be afraid of
+\gn 害怕
+\mr tə
+\1s tə-scã
+\2s tə-scer
+\3s tə-scer
+\1p tə-scã
+\xv aʁu ɲi gi scer rə.
+\xe Someone is afraid of you.
+\xn 有个人怕你。
+\rgy nɤscɤr
+\dt 18/Nov/2013
+
+\lx scʰɔcɔ
+\ps Vt
+\mr tə-
+\ge run after
+\gn 追
+\xv ŋa kətow tə-scʰɔcõ
+\dt 18/Nov/2013
+
+\lx scon ftaˠ
+\ps Vi
+\ge trouver des défauts aux autres
+\xv tu ŋa-ʁa scon ftaˠ-rə
+\dt 26/Nov/2013
+
+\lx scʰu
+\ps vt
+\ge cook, roast
+\gn 烧
+\mr kə-
+\1s kə-scʰu
+\xv ŋa pjenʚ de ɣmə-nə kə-scʰu
+\xe I roasted the meat on the fire.
+\xn 我在火上烤肉。
+\cf cʰu
+\dt 09/Apr/2013
+
+\lx scwa
+\ps vt
+\ge crack sth.
+\gn 使……裂开
+\mr nə
+\1s nə-scwow
+\2s nə-scwej
+\3s nə-scwa
+\1p nə-scwã
+\dt 18/Nov/2013
+
+\lx scʰʚ
+\ps n
+\ge ploughshare
+\gn 犁铧
+\dt 09/Apr/2013
+
+\lx scʰʚ
+\ps vt
+\ge row (boat)
+\gn 划船
+\mr nə
+\1s nə-scʰow
+\2s nə-scʰej
+\3s nə-scʰʚ
+\1p nə-scʰã
+\xv ŋa krə de nə-scʰow.
+\xe I rowed the boat.
+\xn 我划了船。
+\dt 18/Nov/2013
+
+\lx scʰʚbja
+\ps n
+\ge quant
+\gn 船桨
+\dt 09/Apr/2013
+
+\lx scʚr
+\ps vt
+\mr rə-
+\ge support
+\gn 支撑
+\mr all
+\1s rə-scow
+\2s rə-scej
+\3s rə-scɔr
+\1s rə-scõ
+\xv ŋa tɕədə escɔrrəzʚ sə cã.
+\xe I have a ream of paper.
+\xe 我有一沓纸。
+\xv ŋa ɣdzəvə de tə-scɔr dʑə smẽkʰõ nə rə-mbu.
+\xe I took this old man to the hospital (supporting him).
+\xe 我扶着这个老爷爷去了医院。
+\rgy ɣɯscur
+\dt 18/Nov/2013
+
+\lx se
+\ps vt
+\ng v
+\mr nə-
+\ge kill
+\1s nə-sow
+\2s nə-sej
+\3s nə-f-se
+\1p nə-sã
+\3s>1s nə-f-sã
+\2s>1s nə-f-sã
+\1s>2s nə-sɔ
+\xv ŋa nə́-di-fsã
+\xe Don't kill me!
+\xv nə́-di-sej
+\xe Don't kill him!
+\xn 别杀他！
+\xv ŋa tə tə-su-ve, ŋa tə sow
+\xe If I recognize him, I'll kill him.
+\xn 如果我认出他，我会杀了他。
+\rgy sat
+\dt 18/Nov/2013
+
+\lx se
+\ps vi
+\mr tə-
+\ge die
+\1s tə-sã
+\1p tə-sã
+\2s tə-se
+\3s tə-se
+\xv tə-se-sə
+\xe He died.
+\xv ŋa rka-kʰa tə-sã
+\xe I am dead tired.
+\xn 我都累死了。
+\dt 26/Nov/2013
+
+\lx sə
+\ps adv
+\ge certainly
+\xv feiji nə tə-ɕe ve sə, ke mbjoˠ ɮde ŋɔ-rə
+\xe If you go on a plane you will certainly arrive quickly.
+\dt 21/Oct/2013
+
+\lx sədə
+\ps
+\ge when
+\gn 什么时候
+\dt 16/Apr/2013
+
+\lx səla
+\ps vt
+\ge let... fall down
+\gn 使倒
+\mr nə
+\1s nə-səlow
+\2s nə-səlej
+\3s nə-f-səla
+\1p nə-səlã
+\xv ŋa tə nə-səlou.
+\xe I pushed him down.
+\xn 我把他推倒了。
+\cf zəla
+\dt 18/Nov/2013
+
+\lx səm ɮde
+\ps vi
+\ge love
+\gn 喜欢
+\mr nə
+\dt 14/May/2013
+
+\lx səm ʁa xi
+\ps vt
+\ge love
+\gn 喜欢
+\mr nə
+\dt 14/May/2013
+
+\lx sentʰi nə-ɕə
+\ps vi
+\ge cave in
+\gn 下陷
+\dt 21/May/2013
+
+\lx seŋgi ɮdi
+\ps vi
+\ge earthquake
+\gn 地震
+\et sa.ɴgul
+\dt 18/Nov/2013
+
+\lx sevə
+\ps n
+\ge next year
+\gn 明年
+\dt 19/Apr/2013
+
+\lx si
+\ps vt
+\ng v
+\mr no prefix
+\ge know
+\1s sʰu
+\2s sʰi
+\3s f-si
+\1p sʰã
+\1s>2s
+\2s>1s si
+\3s>1s f-si
+\xv ŋa-ɲə si-si ŋɔ
+\xe We know each other.
+\xv tə-ɲə si-si ŋə-rə
+\xe They know each other.
+\xv ɲi ŋa ə-si
+\xe Do you know me?
+\xv tu ŋa fsi
+\xe He knows me.
+\xv mi-fsi-lə-gu ŋi rkʚ-tɕʰa nə-mtha
+\xe A stranger stepped on my foot.
+\rgy sɯz
+\dt 18/Nov/2013
+
+\lx si
+\ps n
+\ge blood
+\gn 血
+\dt 12/Apr/2013
+
+\lx siŋʚ
+\ps vi
+\ge have a stomachache
+\gn 肚子疼
+\dt 01/Jul/2013
+
+\lx sjala
+\ps vi
+\ge be suspended
+\gn 吊着，倒挂
+\mr nə
+\1s nə-sjalã
+\2s nə-sjala
+\3s nə-sjalã
+\1p nə-sjalã
+\xv smi di nene de nə-sjala sə ci rə.
+\xe This woman's breasts are hanging in front of her chest.
+\xn 该女性之乳房吊在胸前。
+\dt 10/Apr/2013
+
+\lx sje
+\ps vt
+\ge lift
+\gn 抬高
+\mr rə
+\1s rə-sjow
+\2s rə-sjej
+\3s rə-sje
+\1p rə-sjã
+\xv varva rə-sje sə.
+\xe He lifted it up slowly.
+\xn 他慢慢把它抬高了。
+\xv smi du ŋi xtsə sje-rə.
+\xe The girl makes me erect.
+\xn 这个女孩使我扯旗。
+\dt 18/Nov/2013
+
+\lx skamba
+\ps N
+\ge barren (animal)
+\dt 26/Nov/2013
+
+\lx skarva
+\ps N
+\ge share
+\gn 份
+\et skar.ba
+\dt 02/Dec/2013
+
+\lx skʰə
+\ps vi
+\ge quick
+\gn 迅速
+\xv smi de ja ke skʰə gə ŋərə.
+\xe The girl is sharp-tongued.
+\xn 这女孩牙尖嘴利。
+\xn 只个煮娘仔嘴尖舌仔利。
+\dt 19/Apr/2013
+
+\lx ske v-le
+\ps vi
+\ge cry
+\gn 哭喊
+\mr nə
+\1s ske nə-lou
+\2s ske nə-lei
+\3s ske nə-v-lei
+\1p ske nə-lã
+\xv qʰana du ske ke-rcʚ v-le rəge, ŋa kə-ŋgʚjoˠ.
+\xe The child was crying very loudly, so I consolated him.
+\xn 孩子哭得太大声，我去安慰了他。
+\dt 09/Apr/2013
+
+\lx skəlʚ
+\ps n
+\ge leather rope
+\gn 牛皮绳
+\dt 10/Apr/2013
+
+\lx skemɬa
+\ps n
+\ge lightning
+\gn 闪电
+\xv skemɬa ɲcʰər rə.
+\xe Lightening strikes.
+\xn 闪电了。
+\dt 14/Oct/2013
+
+\lx skʰəri
+\ps vi
+\ge call
+\gn 呼叫
+\mr tə
+\mr nə
+\mr rə
+\1s skʰərã
+\2s skʰəri
+\3s skʰəri
+\1p skʰərã
+\xv jasɲə ŋa ɲi-gi tə-skʰərã rəgu, ɲi mi-ntɕʰi rə.
+\xe I called you yesterday but you did not hear me.
+\xn 昨天我叫了你，你没有听见。
+\dt 08/Apr/2013
+
+\lx skərjʚ
+\ps n
+\ge orchard
+\gn 果园
+\dt 17/Apr/2013
+
+\lx skerma
+\ps n
+\ge star
+\gn 星星
+\dt 21/May/2013
+
+\lx skərva
+\ps vt
+\ge turn
+\gn 转
+\mr ɣə
+\1s ɣə-skərvow
+\2s ɣə-skərvej
+\3s ɣə-skərva
+\1p ɣə-skərvã
+\xv tõŋkʰor de ɲəɲʚ ɣə-di-skərvej!
+\xe Don't turn the mill counterclock-wise!
+\dt 18/Nov/2013
+
+\lx sketɕʰa
+\va sketɕa
+\ps n
+\ge discourse, speech
+\gn 话语
+\dt 12/Apr/2013
+
+\lx skroˠ
+\ps vt
+\ge scare away
+\gn 吓跑
+\mr nə
+\1s nə-skroˠ
+\2s nə-skroˠ
+\3s nə-skroˠ
+\1p nə-skroˠ
+\xv ŋa ɣəzə ɲə nə-skroˠ.
+\xe I scared the birds away.
+\xn 我吓跑了鸟。
+\et dkrog
+\dt 18/Nov/2013
+
+\lx skʰwi
+\ps vt
+\ge help sb. put on (shoes, socks)
+\gn 帮别人穿（鞋袜）
+\mr rə
+\1s rə-skʰu
+\2s rə-skʰwi
+\3s rə-skʰwi
+\1p rə-skʰwã
+\xv ŋa qʰana de gi χi de rə-skʰu.
+\xe I helped the child put on his shoes.
+\xn 我给孩子穿上了鞋。
+\dt 09/Apr/2013
+
+\lx skʚ
+\ps vi
+\ge manage to
+\gn 可以做…
+\mr -
+\1s
+\2s
+\3s skʚ
+\1p
+\xv ŋa ra mi-skʚ rə.
+\xe I cannot manage to write.
+\xn 我写不了。
+\xv liska və ə́-skʚ rə?
+\xe Are you able to work on?
+\xn 这工作还做得来吧？
+\dt 16/Apr/2013
+
+\lx sɬə
+\ps n
+\ge stairs made of a trunk
+\dt 18/Nov/2013
+
+\lx sɬu
+\wav 877
+\ps vt
+\ge lose
+\de lose; miss (a bus)
+\mr tə
+\1s tə-sɬu
+\2s tə-sɬu
+\3s tə-sɬu
+\1p tə-sɬu
+\xv ŋa kəta de tə-sɬu
+\xe I lost my cat.
+\xv ŋa ŋi χotʂe tə-sɬu
+\xe I missed my train.
+\xv ŋa rɟeŋ rə-lo-dʑə tə-sɬu
+\xe I gambled (?) and lost.
+\xv ŋa ŋi pʰjodzə-rkʰə-re de rkəmə-gi tə-sɬu
+\xe A thief robbed me of my wallet. (I lost my wallet to a thief)
+\rgy ɕlɯɣ
+\dt 18/Nov/2013
+
+\lx sɬu
+\ps vt
+\ge cannot help doing
+\gn 情不自禁地做
+\mr tə
+\xv qʰe sɬu
+\xe cannot help laughing
+\xn 忍俊不禁
+\xv rbi sɬu
+\xe irretention of urine
+\xn 小便失禁
+\dt 14/May/2013
+
+\lx sme
+\ps vt
+\mr kə-
+\ge close
+\de close one's eyes
+\1s kə-smow
+\1p kə-smã
+\2s kə-smej
+\3s kə-sme
+\xv ŋa mu kə-smow
+\xe I closed my eyes.
+\dt 18/Nov/2013
+
+\lx smemba
+\ps n
+\ge doctor
+\gn 医生
+\dt 30/Apr/2013
+
+\lx smərsi
+\ps n
+\ge nose blood
+\gn 鼻血
+\dt 12/Apr/2013
+
+\lx smi
+\ps vt
+\mr kə-
+\ge roast in ashes
+\gn 煨
+\1s kə-smu
+\3s kə-smi-sə
+\xv ŋa ləkʰi de kofɬe-nə kə-smu
+\xe I roasted the bread in the heath.
+\rgy ɣɤsmi
+\dt 18/Nov/2013
+
+\lx smi
+\ps vt
+\ge hurt
+\gn 伤害、伤人
+\3s kə-smi-sə
+\xv vdzi de pʚ-kʰa kə-smi-sə
+\xe This man was hurt by a gun.
+\xv tu ŋa kə-smã
+\xe He hurt me.
+\rgy nɯɣmaz
+\dt 18/Nov/2013
+
+\lx smi
+\ps vt
+\mr kə-
+\ge give a name
+\gn 命名
+\3s>1s kə-smã
+\xv tu ŋa rmiɬaˠ kə-smã.
+\xe He gave me a nickname.
+\rgy sɤrmi
+\dt 18/Nov/2013
+
+\lx smi
+\ps n
+\ge woman
+\ue young?
+\dt 18/Dec/2012
+
+\lx smu
+\ps n
+\ge wool
+\gn 羊毛
+\dt 21/Oct/2013
+
+\lx smurdə
+\ps n
+\ge débris de laine
+\dt 21/Oct/2013
+
+\lx snə
+\ps vt
+\ge dare
+\gn 敢
+\mr tə
+\1s snu
+\2s sni
+\3s snə
+\1p snõ
+\xv ŋa kʰərma kəzə ɕə misnu rə.
+\xe I don't dare to go around at night.
+\xn 我夜里不敢独自外出。
+\rgy nɤz
+\dt 18/Nov/2013
+
+\lx snə
+\ps vt
+\ge burn
+\gn 烧
+\cf nə
+\dt 18/Nov/2013
+
+\lx snefsə
+\ps n
+\ge cold
+\gn 感冒
+\dt 12/Apr/2013
+
+\lx snəɣɟi
+\ps n
+\ge nostril
+\gn 鼻孔
+\dt 12/Apr/2013
+
+\lx snertɕʰə
+\ps N
+\ge
+\gn 鼻环
+\dt 02/Dec/2013
+
+\lx snəsnʚ
+\ps vt
+\ge sniff
+\gn 嗅
+\mr kə
+\1s kə-snəsnow
+\2s kə-snəsnej
+\3s kə-snəsnʚ
+\1p kə-snəsnõ
+\xv ŋa χtɕʰərva de ʁa kə-ca kə-snəsnou rəgu, tʂəme mí-nənʚ rə.
+\xe I tried hard to sniff the cheese but I didn't smell anything.
+\xn 我把这块芝士闻了一闻，却没闻到任何气味。
+\xv tu mitoˠ ʁa nənʚ sə ci rə.
+\xe He is smelling the flower.
+\xn 他在闻花。
+\rgy ɕɯmnɤm
+\dt 18/Nov/2013
+
+\lx snetaˠ
+\ps N
+\ge
+\gn 鼻绳
+\dt 02/Dec/2013
+
+\lx snev
+\ps n
+\ge nasal mucus
+\gn 鼻涕
+
+\lx sni
+\ps vt
+\ge show
+\gn 给……看
+\mr kə
+\1s kə-snu
+\2s kə-sni
+\3s kə-sni
+\1p kə-snã
+\xv ŋa tə-gi ŋi per-de kə-snu.
+\xe I showed him my photo.
+\xe 我给他看了我的照片。
+\xv tu kə-v-ra sə de ŋa ɲi-gi kə-sni-ve.
+\xe I showed you that he wrote it.
+\xe 我已经给你看他写了。
+\xv ɲi liska nə-vi sə de tə-gi kə-sni.
+\xe Show him the work that you did.
+\xe 给他看你所做的工作。
+\dt 08/Apr/2013
+
+\lx snʚ
+\ps n
+\ge younger sister (MS)
+\gn 妹妹
+\dt 16/Apr/2013
+
+\lx sɲarsɲar
+\ps vi
+\ge bitter
+\gn 苦
+\xv smẽ ke-ʁje de sɲarsɲar ŋʚ ŋərə.
+\xe Good medicine tastes bitter.
+\xn 良药苦口。
+\dt 24/May/2013
+
+\lx sɲele
+\ps adv
+\ge during the day
+\gn 白天
+\dt 18/Oct/2013
+
+\lx sɲəpʰa
+\ps n
+\ge half a day
+\gn 半天
+\dt 10/Apr/2013
+
+\lx sŋa
+\ps vi
+\ge early
+\gn 早
+\mr tə
+\xv ŋa tə-sŋa dʑə tə-rjã.
+\xe I got up early.
+\xn 我早早地起来了。
+\et sŋa
+\dt 18/Nov/2013
+
+\lx sŋi
+\ps vt
+\ge lend
+\gn 借出
+\mr ɣə
+\1s ɣə-sŋu
+\2s ɣə-sŋi
+\3s ɣə-sŋi
+\1p ɣə-sŋã
+\xv tu ŋa gi ɣə-sŋi.
+\xe He lent me sth.
+\xn 他借给我。
+\rgy ɕɯrŋo
+\dt 18/Nov/2013
+
+\lx sŋoˠ
+\ps vt
+\ge hang
+\gn 挂，吊
+\mr rə
+\1s rə-sŋoˠ
+\2s rə-sŋoˠ
+\3s rə-sŋoˠ
+\1p rə-sŋoˠ
+\xv ŋa tsəgə de rə-sŋoˠ.
+\xe I hung the clothes.
+\xn 我挂好了衣服
+\nt wobzi. sŋa
+\dt 09/Apr/2013
+
+\lx sɔ
+\ps adv
+\ge encore plus
+\gn 更加
+\xv sɔ ke ʁnõ gə ŋə-rə
+\dt 26/Nov/2013
+
+\lx spar
+\ps vi
+\ge be thirsty
+\gn 口渴
+\mr tə
+\1s tə-spã
+\2s tə-spar
+\3s tə-spar
+\1p tə-spã
+\xv tə tə-spar sə ci rə.
+\xe He is thirsty.
+\xn 他很口渴。
+\rgy ɕpaʁ
+\dt 18/Nov/2013
+
+\lx spəɲcʰer
+\ps n
+\ge frog
+\gn 青蛙
+\dt 08/Apr/2013
+
+\lx spərje
+\ps vt
+\ge burn
+\gn 烧
+\mr rə
+\1s rə-spərjow
+\2s rə-spərjej
+\3s rə-spərje
+\1p rə-spərjã
+\xv jasɲə pʚ nə vdzi aʁi ɣmə kʰə tə-spərje-sə.
+\xe A man in Tibet self-immolated yesterday.
+\xn 昨天西藏一个人自焚了。
+\cf bərje
+\dt 15/Oct/2013
+
+\lx spərɲõ
+\ps n
+\ge moulted skin
+\gn 蜕下的皮
+\dt 03/Jun/2013
+
+\lx spi
+\ps n
+\ge marmot
+\gn 旱獭
+\dt 06/May/2013
+
+\lx spʰʚ
+\ps vt
+\ge bury, cover
+\gn 掩埋，掩盖
+\mr nə
+\1s nə-spʰow
+\2s nə-spʰej
+\3s nə-spʰʚ
+\1p nə-spʰõ
+\dt 18/Nov/2013
+
+\lx spʚ
+\ps vt
+\ge move
+\mr _
+\1s tə-spow
+\2s tə-spej
+\3s tə-spʚ
+\1p tə-spã
+\xv tu ti tɕʰətʂʰe le-re de tə-spʚ-sə
+\xe He moved his parking slot.
+\xv ŋa  meʁe  de  tə-spou.
+\xe I replanted the poplar.
+\xv tʂodzə de ɣʚrʚ ɣə-spei
+\xe Move the table!
+\xv ɲi ŋa-gi jʚ spʚ-ʁʚ ə́-ʁʚ?
+\xe Will you help me to move?
+\et spo
+\dt 18/Nov/2013
+
+\lx spʚ
+\ps n
+\ge incense
+\gn 香
+\dt 27/May/2013
+
+\lx spʚrgʚ
+\ps n
+\ge wasteland
+\gn 荒地
+\dt 19/Apr/2013
+
+\lx spʰʚspʰʚ
+\ps vi
+\ge dense
+\gn 浓
+\dt 24/May/2013
+
+\lx sqʰara
+\ps vi
+\ge scattered hair
+\xv ti ʁəpra de sqʰiri-sqʰara gəmdi mi-xi-rə.
+\xe He only has a little hair.
+\xn 他只有几根头发。
+\dt 24/Apr/2013
+
+\lx sqʰe
+\ps vt
+\ge laugh at
+\gn 嘲笑
+\mr nə-
+\1s nə-sqʰow
+\2s nə-sqʰej
+\3s nə-sqʰe
+\1p nə-sqʰã
+\xv nə-di-sqʰã
+\xe Don't laugh at me!
+\xn 别笑我。
+\cf qʰe
+\dt 18/Nov/2013
+
+\lx sqʰə
+\ps vt
+\mr nə-
+\ge extinguish, put out
+\gn 熄灭
+\1s nə-sqʰu
+\2s nə-sqʰi
+\3s nə-sqʰə
+\xv ɣmə su nə-sqʰə?
+\xe Who put out the fire?
+\xv ɣmə sqʰi-dʑə ətɕə ŋʚ?
+\xe Why did you put out the fire?
+\cf qə
+\dt 11/Dec/2012
+
+\lx sqəde
+\ps vt
+\ge knock
+\gn 敲
+\mr nə
+\mr tə
+\1s nə-sqədow
+\2s nə-sqədej
+\3s nə-sqəde
+\1p nə-sqədã
+\xv ke rcʚ nə-di-sqəde demdi, rɣəvə ftʂə ŋərə.
+\xe Don't knock too hard or you will wake the neighbours up.
+\xn 别敲太大力不然会吵醒邻居的。
+\xv tɕədə tə-zja ŋkʰə du ʁe sqəde se ci rə.
+\xe The postman is knocking at the door.
+\xn 邮递员在敲门。
+\dt 18/Nov/2013
+
+\lx sqi
+\ps n
+\ge younger sister (female speaking)
+\dt 17/Dec/2013
+
+\lx sqʰʚ
+\ps vt
+\ge spill, turn over
+\gn 打翻
+\mr nə
+\1s nə-sqʰow
+\2s nə-sqʰej
+\3s nə-sqʰʚ
+\1p nə-sqʰõ
+\dt 18/Nov/2013
+
+\lx stʰa
+\ps vt
+\ge earn
+\gn 赚
+\mr tə-
+\1s tə-stʰow
+\xv ʁla ke ɣri stʰa sə cã
+\xe I earn a good salary.
+\dt 18/Oct/2013
+
+\lx starga
+\ps n
+\ge walnut
+\gn 胡桃
+\dt 10/Apr/2013
+
+\lx ste
+\ps vt
+\ge finish
+\gn 完成
+\mr no prefix
+\1s stow
+\2s stej
+\3s ste
+\1p stã
+\xv ə́-ste?
+\xe Did you finish?
+\xn 做完了吗？
+\rgy stʰɯt
+\dt 18/Nov/2013
+
+\lx stʰə
+\ps vi
+\ge existential verb (unfixed)
+\gn 有，在(可移动物体)
+\mr -
+\xv <luyinji> ə́-stʰə-rə?
+\xe Is the radio there?
+\xn 录音机在吗？
+\dt 23/Apr/2013
+
+\lx stʰezɮdə
+\ps vt
+\ge mix
+\gn 混合
+\mr nə
+\1s nə-stʰezɮdu
+\2s nə-stʰezɮdi
+\3s nə-stʰezɮdə
+\1p nə-stʰezɮdõ
+\xv ɣrə rəge ɬə ɣni nə-stʰezɮdə ve, χa-mi-gʚ.
+\xe No one would know if you add some water into the milk.
+\xn 把水兑进牛奶里，没人会知道的。
+\xv rɟeske poske nə-di-stʰezɮdi
+\xe Don't mix up Chinese and Tibetan.
+\xn 别混用汉语和藏语。
+\dt 10/Apr/2013
+
+\lx stʰəzɮdə
+\ps vi
+\ge gather, assemble
+\gn 收集，集中
+\mr kə
+\xv pəsɲə lʚser ŋərə ge əvdzi ke-ɣri kə-stʰəzɮdə sə ci rə.
+\xe It was new year's day yesterday, people got together.
+\xn 昨天是新年，人们欢聚一堂。
+
+\lx stʰi
+\ps vt
+\ge infect
+\gn 传染
+\mr kə
+\1s stʰu
+\2s stʰi
+\3s stʰi
+\1p stʰã
+\xv tu ŋa ʁa snefsə kəstʰã.
+\xe He spread a cold to me.
+\xn 他传染了感冒给我。
+\rgy ɕte
+\dt 18/Nov/2013
+
+\lx stʰi
+\ps vt
+\ge block
+\gn 堵塞
+\mr nə
+\1s nə-stʰu
+\2s nə-stʰi
+\3s nə-stʰi
+\1p nə-stʰã
+\rgy sti
+\dt 18/Nov/2013
+
+\lx stʰi
+\ps vt
+\ge make sb. drink
+\gn 使……喝
+\mr ɣə
+\1s ɣə-stʰu
+\2s ɣə-stʰi
+\3s ɣə-stʰi
+\1p ɣə-stʰã
+\rgy jtsʰi
+\dt 18/Nov/2013
+
+\lx stõba
+\ps vi
+\ge empty
+\gn 空
+\xv ti ʁə stõba ŋərə.
+\xe His head is empty.
+\xn 他头脑空空。
+\et stoŋ.ba
+\dt 18/Nov/2013
+
+\lx stʰwa
+\ps vt
+\mr nə-
+\ge press
+\1s nə-stʰwow
+\2s nə-stʰwej
+\3s nə-stʰwa
+\1p nə-stʰwã
+\xv ɲəvə ɮi-rə stʰwa-re-tɕʰa nə-stʰwej
+\xe Press the button when you arrive at the front door!
+\xn 到楼下的时候记得按按钮。
+\xv ŋa rkʚ-kʰa ɣməsə de nə-stʰwow
+\xe I put my foot on the block of wood so it wouldn't budge.
+\xn 我踩在柴火上固定它们。
+\xv zdi-ʁa ɣə-stʰwej
+\xe Put your hands on the wall!
+\xn 双手扶墙！
+\dt 18/Nov/2013
+
+\lx stʰʚ
+\ps vt
+\ge stop
+\gn 停止
+\mr nə
+\1s nə-stʰow
+\2s nə-stʰej
+\3s nə-stʰʚ
+\1p nə-stʰõ
+\xv ŋa liska nə-stʰow.
+\xe I stopped working.
+\xn 我停下了工作。
+\xv ŋa vdzi nə-stʰʚ dʑə rə-ɕã.
+\xe I surpassed this man. 
+\xv ŋa sketɕʰa fɕe lə nə-stʰow.
+\xe I stopped talking.
+\xn 我停止了说话。
+\xv ŋa vəda de nə-stʰow.
+\xe I divorced.
+\xn 我离婚了。
+\dt 18/Nov/2013
+
+\lx stʰʚ
+\ps n
+\ge trap
+\gn 陷阱
+
+\lx stʚr
+\ps vt
+\ge rob
+\gn 抢
+\mr nə
+\1s nə-stow
+\2s nə-stej
+\3s nə-stʚr
+\1p nə-stõ
+\xv tu ŋa gi kʰemboˠ de tə-stõ.
+\xe He robbed my bag.
+\xn 他抢了我的包。
+\dt 18/Nov/2013
+
+\lx stʚra ftõ (və)
+\ps vi
+\ge praise
+\gn 称赞
+\mr rə
+\1s stʚra rə-ftõ
+\2s stʚra rə-ftõ
+\3s stʚra rə-ftõ
+\1p stʚra rə-ftõ
+\xv tu ŋi zə de stora ftõ və.
+\xe He praised my child.
+\xn 他称赞了我的孩子。
+\xv ŋa stora rə-ftõ.
+\xe I praised.
+\xn 我称赞了（某人）。
+\dt 24/May/2013
+
+\lx sʚɣri
+\ps adv
+\ge even more, further
+\dt 24/May/2013
+
+\lx sʚɣzə
+\ps adv
+\ge less
+
+\lx ʂaˠʂaˠ
+\ps adv
+\ge certainly
+\gn 一定
+\dt 18/Oct/2013
+
+\lx ʂfa
+\ps vi
+\ge go out
+\gn 出去
+\mr tə
+\1s tə-ʂfã
+\2s tə-ʂfa
+\3s tə-ʂfa
+\1p tə-ʂfã
+\xv ŋa pʰju tə-ʂfã.
+\xe I went out.
+\xn 我出去了。
+\dt 17/Apr/2013
+
+\lx tada
+\ps n
+\ge elder brother
+\gn 哥哥
+\dt 16/Apr/2013
+
+\lx tada
+\ps n
+\ge elder sibling (male speaking)
+\dt 17/Dec/2013
+
+\lx tʰaˠdʑi
+\ps adv
+\ge from far away
+\gn 从很远的地方来……
+\xv ŋa tʰaˠdʑi jəkʰa ɮdã ŋo
+\xe I come from afar.
+\xn 我从远方来。
+\dt 11/Apr/2013
+
+\lx tavri
+\ps adv
+\ge this time
+\dt 08/Oct/2013
+
+\lx tawa
+\ps n
+\ge cadet
+\gn 最小的（兄弟）
+\dt 30/Sep/2013
+
+\lx tɕʰa
+\ps postp
+\ge on
+\gn 在……之上
+
+\lx tɕʰatsõ
+\ps n
+\ge entire, all
+\dt 15/Oct/2013
+
+\lx tɕe
+\ps n
+\ge path
+\gn 路
+\dt 14/Oct/2013
+
+\lx tɕə
+\ps vi
+\ge be inside
+\dt 21/Oct/2013
+
+\lx tɕədə
+\ps n
+\ge letter, book
+\gn 信，书，字
+
+\lx tɕədə tə-zja ŋkʰə
+\ps n
+\ge postman
+\gn 邮递员
+\dt 29/Apr/2013
+
+\lx tɕədʑa
+\ps n
+\ge skin
+\gn 皮
+\dt 11/Apr/2013
+
+\lx tɕədʑa zɟənɟə
+\ps vi
+\ge moult
+\gn 蜕皮
+\dt 24/May/2013
+
+\lx tɕʰəmindəmi
+\ps adv
+\ge really
+\xv liska ətɕə gə nə-vi-ve, tɕʰəmindəmi ʁzeʁze nə-vi
+\xn 无论做什么工作，要格外小心
+\dt 26/Nov/2013
+
+\lx tɕʰəra
+\ps n
+\ge
+\gn 堤坝
+\dt 14/Oct/2013
+
+\lx tɕʰərdev
+\ps n
+\ge wave
+\gn 波浪
+\dt 14/Oct/2013
+
+\lx tɕəva
+\ps vi
+\ge swim
+\gn 游泳
+\mr nə
+\1s nə-tɕəvã
+\2s nə-tɕəva
+\3s nə-tɕəva
+\1p nə-tɕəvã
+\xv ɕoˠru de nə tɕəva mi-ŋgrə ŋərə.
+\xe It is prohibited to swim in the river.
+\xn 河里禁止游泳。
+\dt 11/Jun/2013
+
+\lx tɕi
+\ps n
+\ge hat
+\gn 帽子
+
+\lx tɕi
+\ps vt
+\ge put on (hat)
+\gn 戴（帽子）
+\mr rə
+\1s rə-tɕu
+\2s rə-tɕi
+\3s rə-tɕi
+\1p rə-tɕõ
+\xv tɕi rə-tɕu.
+\xe I put on my hat.
+\xn 我戴了帽子。
+
+\lx tɕʰitɕʰõ
+\ps N
+\ge size
+\et tɕʰe.tɕʰuŋ
+\dt 26/Nov/2013
+
+\lx tɕɔ
+\ps n
+\ge iron
+\gn 铁
+\nq tɕow?
+\dt 14/Oct/2013
+
+\lx tɕʰou
+\ps adv
+\ge above
+\gn 以上
+\dt 24/May/2013
+
+\lx tɕu
+\ps n
+\ge waist
+\gn 腰部
+\xv tɕu tɕʰa <pidai> kə-ɲcʰu.
+\xe I put on a belt on the waist.
+\xn 我腰上系了皮带。
+\dt 24/May/2013
+
+\lx tə-
+\ps vpref
+\ge @pfv
+\dt 18/Dec/2012
+
+\lx tʰe
+\ps vt
+\ge take off, take out
+\gn 脱下，取出
+\mr ɣə
+\1s ɣə-tʰow
+\2s ɣə-tʰej
+\3s ɣə-f-tʰe
+\1p ɣə-tʰã
+\xv ti tsəgə tʰe fɕi ŋərə.
+\xe He will take off his clothes.
+\xn 他要脱衣服。
+\xv <qiche> ʁa ŋkʰərlʚ de ɣə-tʰej.
+\xe Remove the tire from the vehicle.
+\xn 把轮子从车上卸下。
+\xv <yinhang> n-e pʰjodzə ɣə-tʰej.
+\xe Draw some money from the bank.
+\xn 到银行取点钱吧。
+\dt 15/Oct/2013
+
+\lx təbi
+\ps adv
+\ge like this
+\dt 01/Jul/2013
+
+\lx teɣde
+\ps vi
+\ge small
+\gn 小
+\se teɣdeŋa
+\dt 18/Nov/2013
+
+\lx teɣdev
+\ps adj
+\ge little
+\gn 小
+\cf dev
+\dt 09/Sep/2013
+
+\lx tembə
+\ps n
+\ge bottle
+\gn 瓶子
+\dt 18/Apr/2013
+
+\lx tʰeptɕaˠ
+\ps adv
+\ge without value
+\gn 简陋
+\et tʰebs.tɕʰag
+\dt 18/Oct/2013
+
+\lx tʰerŋa
+\ps n
+\ge baby goat
+\gn 小山羊
+\dt 27/May/2013
+
+\lx tərsa
+\ps n
+\ge tomb
+\gn 坟墓
+\dt 22/May/2013
+
+\lx tʰertʰer
+\ps vi
+\ge tight (thread)
+\gn 紧绷的
+\xv kərtʰaˠ de tʰertʰer ndʑədʑe fɕi ŋərə.
+\xe It is necessary to pull the tent's strings tight.
+\xn 要拉紧帐篷的绳子。
+\dt 24/May/2013
+
+\lx tʰətʰə
+\ps vi
+\ge sweet
+\gn 甜
+\rgy cʰi
+\dt 18/Nov/2013
+
+\lx təʑi
+\ps Adv
+\ge not very
+\dt 18/Nov/2013
+
+\lx tʰi
+\ps vt
+\ng v
+\mr ɣə-
+\ge drink
+\1s ɣə-thu
+\3s ɣə-f-tʰi
+\1p ɣə-tʰã
+\xv tu vʚ ɣə-ftʰi-dʑə nə-ntɕʰem-sə
+\xe He drank alcohol and then danced.
+\xv ki-ŋu ki-ŋu ɣə-f-tʰi
+\xe He kept on drinking.
+\xn 他一口又一口地喝。
+\rgy tsʰi
+\dt 18/Nov/2013
+
+\lx tʰi
+\ps vi
+\ge correct
+\gn 正确
+\mr kə
+\xv ɲəqʰe lẽ de kə-tʰi.
+\xe You answer is right.
+\xn 你的答案是对的。
+
+\lx toˠpa za
+\ps vi
+\ge doubt
+\gn 怀疑
+\xv ŋa tə-gi toˠpa tə-zã
+\xe I doubted him.
+\et dog.pa za
+\dt 18/Nov/2013
+
+\lx tɔr
+\ps Vi
+\ge happen
+\gn 发生
+\mr tə-
+\1s tə-dõ
+\xv ɲcʰəcə tə-dɔr-sə
+\xn 他们打起来了
+\xv ɣmə tɔr ci-rə
+\gn 火在烧
+\xv rdʑi tə-dɔr-sə
+\xn 有脚印
+\xv ndʑa tə-dɔr-sə
+\xn 彩虹出现了
+\dt 02/Dec/2013
+
+\lx tsʰa
+\ps adv
+\ge almost
+
+\lx tsʰaˠ
+\ps vi
+\ge flow
+\gn 流动
+\mr -
+\xv ɣrə tsʰaˠ sə ci rə.
+\xe The water is flowing.
+\xn 水在流
+
+\dt 12/Apr/2013
+
+\lx tsʰawa
+\ps n
+\ge fever
+\gn 烧（名）
+\xv ŋa tsʰawa tə-rə.
+\xe I have got a fever.
+\xn 我发烧了。
+\dt 17/Apr/2013
+
+\lx tsə
+\ps vi
+\ge be rotten
+\gn 腐败了的
+\mr tə
+\xv ɬə tə-tsə-sə kʰa ʑʚ vu ŋõ.
+\xe I will use fermented milk to make yogurt.
+\xn 我要用发酵的牛奶来做酸奶。
+\rgy tsɣi
+\dt 18/Nov/2013
+
+\lx tsə
+\ps N
+\ge fodder
+\gn
+\xv vedzə
+\xn 猪食
+\xv rgɔdzə
+\xn
+\dt 09/Sep/2013
+
+\lx tsʰə
+\ps vi
+\ge fat
+\gn 肥
+\xv va de ke-tsʰə gə ŋərə.
+\xe The pig is very fat.
+\xn 这只猪很肥。
+\et tsʰo
+\dt 18/Nov/2013
+
+\lx tsʰe (ɕe)
+\ps vt
+\ge pratiquer la lutte
+\gn 摔跤
+\1s ɕe kə-tsʰow
+\3s ɕe kə-ftsʰe
+\dt 30/Sep/2013
+
+\lx tseptsep
+\ps vi
+\ge dense
+\gn 稠
+\xv xtse de ke-tsep gə ŋərə.
+\xe The porridge is very dense.
+\xn 粥很稠。
+\rgy ndzɤβ
+\dt 18/Nov/2013
+
+\lx tsʰəqa
+\ps vi
+\ge salty
+\gn 咸
+\xv tsʰəqa mber naˠ
+\xe extremely salty
+\xn 十分咸
+
+\lx tsʰi
+\ps n
+\ge salt
+\gn 盐
+\dt 11/Apr/2013
+
+\lx tsʰispa
+\ps n
+\ge date
+\gn 日子
+\dt 18/Oct/2013
+
+\lx tsʰõ
+\ps vt
+\ge sell
+\gn 卖
+\mr tə
+\xv ŋa ptɕəka de tə-tsʰõ.
+\xe I sell goods.
+\xn 我卖东西。
+\et tsʰoŋ
+\dt 18/Nov/2013
+
+\lx tsʰõ
+\ps vi
+\ge give birth (dogs, cats, pigs)
+\gn 生育（猫狗猪）
+\mr kə
+\xv kətou kə-tsʰõ dʑə kʰəzə mbe v-ɮde-sə.
+\xe The dog gave birth two five puppies.
+\xn 狗生了五个狗崽儿。
+
+\lx tsʰõ ɲcʰə
+\ps vi
+\ge exchange
+\gn 交易
+\mr nə
+\1s tsʰõ nə-ɲcʰu
+\2s tsʰõ nə-ɲcʰi
+\3s tsʰõ nə-ɲcʰə
+\1p tsʰõ nə-ɲcʰõ
+\xv ŋa ɣni rji tsʰõ nə-ɲcʰõ.
+\xe We exchanged our horses.
+\xn 我们交换了马。
+\dt 09/Apr/2013
+
+\lx tsu
+\ps vt
+\ge cut (meat)
+\gn 切（肉）
+\mr nə
+\1s nə-tsu
+\2s nə-tsu
+\3s nə-f-tsu
+\1p nə-tsu
+\xv tu pjenʚ nə-f-tsu.
+\xe He cut meat.
+\xn 他切了肉。
+\dt 29/Apr/2013
+
+\lx tsu
+\ps vi
+\ge rise (sun)
+\gn （太阳）升起
+\xv ɣnə tsu-sə ci rə.
+\xe The sun is rising.
+\xn 太阳正在升起。
+\dt 21/May/2013
+
+\lx tsupa za
+\ps vi
+\ge be angry
+\gn 生气
+\mr tə
+\1s tə-zã
+\2s tə-za
+\3s tə-za
+\1p tə-zã
+\xv ŋa ɲi tɕʰa tsʰupa tə-zã.
+\xe I am angry with you.
+\xn 我生你气了。
+\dt 17/Apr/2013
+
+\lx tsʰupa za
+\ps vi
+\ge hate
+\gn 讨厌
+\mr tə
+\1s tsʰu pa tə-zã
+\2s tsʰu pa tə-za
+\3s tsʰu pa tə-za
+\1p tsʰu pa tə-zã
+\xv tu ŋa-tɕʰa tsʰu pa tə-za rə.
+\xe He hates me.
+\xn 他讨厌我。
+
+\lx tsʚ
+\ps n
+\ge bridge
+\gn 桥
+\dt 14/May/2013
+
+\lx tʂẽ
+\ps vt
+\ge remember
+\gn 记得
+\mr tə
+\1s tʂẽ
+\2s tʂẽ
+\3s tʂẽ
+\1p tʂẽ
+\xv ŋa fɕe-lə de χavʑi tʂẽ dʐə/rə.
+\xe I still remember what I said.
+\xn 我还记得我说过的话。
+\et dran
+\dt 18/Nov/2013
+
+\lx tʂʰəm ŋger liska və
+\ps vi
+\ge violate
+\gn 违反
+\et khrims ɴgal las.ka
+\dt 18/Nov/2013
+
+\lx tʂəmaˠ
+\ps n
+\ge smell
+\gn 味
+\dt 24/May/2013
+
+\lx tʂõ
+\ps vi
+\ge straight
+\gn 直
+\xv pəcʰa de ke tʂõ gə ŋərə.
+\xe The stick is very straight.
+\xn 这棍子非常直。
+\et draŋ
+\dt 18/Nov/2013
+
+\lx tʂõdʐõ
+\ps vi
+\ge stand straight
+\gn 直立
+\xv meʁe de tʂõdʐõ gə ŋərə.
+\xe The poplar stands straight.
+\xn 这棵杨树很直。
+\dt 19/Apr/2013
+
+\lx tʰu
+\ps vi
+\ge depend on
+\gn 视乎情况而定
+\mr -
+\1s -
+\2s -
+\3s tʰu
+\1p -
+\xv ɲi ʁa demdi mi-tʰu rə
+\xe It only depends on you.
+\xn 就只看你的了。
+\dt 10/Apr/2013
+
+\lx tʰʚ
+\ps vt
+\ge prepare
+\gn 准备
+\mr nə
+\mr kə
+\1s nə-tʰow
+\2s nə-tʰej
+\3s nə-f-tʰʚ
+\1p nə-tʰõ
+\xv ndzʚre kə-f-tʰʚ
+\xe prepare a seat
+\xn 准备一个座位
+\xv rgre kə-f-tʰʚ
+\xe make the bed
+\xn 铺床
+\xv qʰeqʰe tʰõ
+\xe on va faire des blagues
+\dt 18/Nov/2013
+
+\lx va
+\ps n
+\erg vou
+\ge pig
+\xv vou vʚ ɣə-ftʰi-sə
+\xe The pig drank the alcohol
+\dt 18/Dec/2012
+
+\lx valdʑaˠ
+\ps n
+\ge a kind of chewing gum
+\gn 一种香口胶
+\dt 24/May/2013
+
+\lx varva
+\ps adv
+\ge slowly
+\gn 慢慢地
+\xv varva varva tə-dã
+\xe do it slowly
+\xe 慢慢来
+\dt 08/Apr/2013
+
+\lx vavə
+\ps n
+\ge instestine
+\gn 肠子
+\dt 23/Apr/2013
+
+\lx vdẽ
+\ps vt
+\ge choose
+\gn 选择
+\mr ɣə
+\1s ɣə-vdow
+\2s ɣə-vdej
+\3s ɣə-vdẽ
+\1p ɣə-vdã
+\xv ŋa fɬə de ɣə vdow.
+\xe I am choosing the seeds.
+\xn 我在挑选种子。
+\xv ŋa rəsɲə rə ge <chengdu> ɣni <chengdu> vdẽ
+\xe I prefer Chengdu to Resnye.
+\xn 成都和道孚我喜欢成都。
+\et bdams
+\dt 22/Nov/2013
+
+\lx vdze
+\ps vt
+\ge make sth. dirty
+\gn 弄脏
+\mr tə
+\1s tə-vdzow
+\2s tə-vdzej
+\3s tə-vdze
+\1p tə-vdzã
+\xv ŋa ŋi tsəɡə de tə-vdzow.
+\xe I got my clothes dirty.
+\xn 我把衣服弄脏了。
+\dt 18/Nov/2013
+
+\lx vdzi
+\ps n
+\erg vdzu
+\ge man
+\de man, husband
+\dt 18/Dec/2012
+
+\lx vdʐə
+\ps n
+\ge willow
+\gn 柳树
+\dt 01/Jul/2013
+
+\lx vdʑə -və
+\ps vi
+\ge help
+\gn 帮助
+\mr nə
+\1s vdʑə nə-vu
+\2s vdʑə nə-vi
+\3s vdʑə nə-və
+\1p vdʑə nə-võ
+\xv ŋa tə-gi vdʑə nə-vu.
+\xe I helped him.
+\xe 我帮了他一把。
+\dt 08/Apr/2013
+
+\lx vdʚ
+\ps vt
+\ge see
+\gn 看见
+\mr no prefix
+\mr -
+\1s vdow
+\2s vdej
+\3s vdʚ
+\1p vdõ
+\xv ŋa tə vdow
+\xe I see him
+\xn 我看见他。
+\rgy mto
+\dt 18/Nov/2013
+
+\lx və
+\ps vt
+\ge do
+\1s nəvu
+\2s nəvi
+\3s nəvə
+\1p nə-võ
+\rgy pa
+\dt 18/Nov/2013
+
+\lx və
+\ps adv
+\ge under
+\gn 以下
+\xv ɣɮdə sqa və
+\xe under forty
+\xn 40以下
+\dt 24/May/2013
+
+\lx vəda
+\ps n
+\erg vədow
+\ge wife
+\dt 12/Dec/2013
+
+\lx vegʚ
+\ps n
+\ge flesh and lard
+\gn 猪肉猪膘
+\dt 11/Apr/2013
+
+\lx vəjepa
+\ps n
+\ge drunkard
+\gn 酒鬼
+\dt 12/Apr/2013
+
+\lx veme
+\ps n
+\ge sow
+\gn 母猪
+\dt 11/Apr/2013
+
+\lx vəŋi
+\ps postp
+\ge under
+\gn 在……之下
+\dt 18/Apr/2013
+
+\lx vercaˠ
+\ps n
+\ge swine faeces
+\gn 猪屎
+\dt 10/Jun/2013
+
+\lx verŋa
+\ps n
+\ge calf
+\gn 小牛
+\dt 24/May/2013
+
+\lx və-sɲə pre
+\ps vi
+\ge want to do something
+\gn 想做某事
+\xv ŋa ɕə-sɲə pre rə.
+\xe I want to go.
+\xn 我想走了。
+\dt 11/Jun/2013
+
+\lx vezə
+\ps n
+\ge piglet
+\gn 小猪
+\dt 11/Apr/2013
+
+\lx vge
+\ps vi
+\ge break away, be detached
+\gn 脱落
+\mr tə
+\3s tə-vge
+\xv rbala rə-vge.
+\xe The leaf fell down.
+\xn 树叶落下来了。
+\xv <pingguo> tə-vge dʑə ti ʁə tɕʰa nə-dzar-sə.
+\xe The apple fell onto his head.
+\xn 苹果落在了他的头上。
+\xv ŋi ɮda kə-vzə dʑə tə-vge.
+\xe I can't feel my arm.
+\xn 我感觉不到我手的存在。
+\cf fkʰe
+\dt 18/Nov/2013
+
+\lx vɟə mpʰe
+\ps vi
+\ge spit
+\gn 吐痰
+\mr nə
+\rgy mɯjpʰɤt
+\dt 18/Nov/2013
+
+\lx vlʚ
+\ps n
+\ge solution
+\gn 办法
+
+\lx vlʚ kʰi
+\ps vi
+\ge believe
+\gn 相信
+\xv vdzi de gi vlʚ tə-kʰã.
+\xe I believe the man.
+\xn 我相信这个人。
+\xv vdzi vlʚ kʰi re
+\xe a reliable person
+\xn 可信任的人
+\et blo
+\dt 18/Nov/2013
+
+\lx vɮde
+\ps n
+\ge tongue
+\gn 舌头
+\dt 10/Apr/2013
+
+\lx vɮdi
+\ps n
+\ge neck
+\gn 脖子
+\dt 23/Apr/2013
+
+\lx vu
+\ps n
+\ge abdomen
+\gn 肚子
+\xv vu cʰi
+\xe lower abdomen
+\xn 下腹部
+\dt 15/Oct/2013
+
+\lx vu
+\ps n
+\ge mill
+\gn 磨房
+\dt 11/Dec/2012
+
+\lx vuca
+\ps n
+\ge navel
+\gn 肚脐
+\dt 15/Oct/2013
+
+\lx vucʰi
+\ps n
+\ge lower abdomen
+\gn 下腹部
+\dt 15/Oct/2013
+
+\lx vzar
+\ps vi
+\ge rough, coarse
+\gn 粗糙
+\dt 24/Apr/2013
+
+\lx vzə
+\ps vi
+\ge numb
+\gn 麻痹
+\mr kə
+\1s vzõ
+\2s vzə
+\3s vzə
+\1p vzõ
+\xv ŋi rkʚ kə-vzə sə.
+\xe My legs feel numb.
+\xn 我的腿很麻。
+\et bzi
+\dt 18/Nov/2013
+
+\lx vzə
+\ps vt
+\ge can
+\gn 可以
+\mr kə
+\1s kə-vzu
+\2s kə-vzi
+\3s kə-vzə
+\1p kə-vzõ
+\xv ŋa fransə ske fɕe vzu.
+\xe I can speek French.
+\rgy spa
+\xn 我会说法语。
+\dt 18/Nov/2013
+
+\lx vzertɕaˠ
+\ps n
+\ge whip
+\gn 鞭子
+
+\lx vzəsme
+\ps n
+\ge anaesthesia
+\gn 麻痹
+
+\lx vzõ fɕe
+\ps vi
+\ge praise
+\gn 称赞
+\et bzaŋ.bɕad
+\dt 18/Nov/2013
+
+\lx vʚ
+\ps n
+\ge alcohol
+\dt 18/Dec/2012
+
+\lx wirŋa
+\ps n
+\ge orphan
+\gn 孤儿
+
+\lx χa gʚ
+\ps vi
+\ge know
+\gn 知道
+\mr *
+\1s χa gõ
+\2s χa gʚ
+\3s χa gʚ
+\1p χa gõ
+\xv ətɕəgə ŋʚ χa ə-gʚ?
+\xe Do you know what this is?
+\xn 你知道这是什么吗？
+\et ha.go
+\dt 18/Nov/2013
+
+\lx χavdə
+\ps adv
+\ge at once
+\gn 马上
+\dt 14/May/2013
+
+\lx χavʑi
+\ps adv
+\ge still
+\gn 还
+
+\lx χaʑi
+\ps adv
+\ge still
+\gn 还
+\dt 18/Oct/2013
+
+\lx xcʰi
+\ps vt
+\ge open
+\gn 开
+\mr ɣə
+\mr rə
+\1s ɣə-xcʰu
+\2s ɣə-xcʰi
+\3s ɣə-xcʰi
+\1p ɣə-xcʰã
+\xv ɕerdem kʰa ɣə-xcʰu.
+\xe I opened a bottle.
+\xn 我开了瓶。
+\rgy cɯ
+\dt 18/Nov/2013
+
+\lx χcoˠ
+\ps vt
+\ge curve, bend
+\gn 使弯曲
+\mr nə
+\1s nə-χcoˠ
+\2s nə-χcoˠ
+\3s nə-χcoˠ
+\1p nə-χcoˠ
+\xv pəcʰa ʁɮdə nə-χcoˠ
+\xe Bend the bamboo stick!
+\xn 把竹棍弄弯！
+\dt 19/Apr/2013
+
+\lx χɕərɲe
+\ps vi
+\ge slide
+\gn 滑
+\mr nə
+\1s nə-χɕərɲã
+\2s nə-χɕərɲe
+\3s nə-χɕərɲe
+\1p nə-χɕərɲã
+\xv ŋa nə-χɕərɲã dʑə nə-zəlã.
+\xe I slid down.
+\xn 我滑倒了。
+\dt 24/May/2013
+
+\lx χɕev
+\ps n
+\ge tent
+\gn 帐篷
+\dt 14/May/2013
+
+\lx χɕi
+\ps vt
+\ge break (solid objects)
+\gn 打烂（硬物）
+\mr nə
+\1s nə-χɕu
+\2s nə-χɕi
+\3s nə-χɕi
+\1p nə-χɕã
+\xv ŋi qʰəzə de kərvʚ dʑə tə-χɕi sə.
+\xe My bowl was frozen and broke.
+\xn 我的碗结冰了，就坏了。
+\xv ŋa ɕʰerdem de rgəme ʁa nə-ɲcʰə dʑə nə-χɕu.
+\xe 我的瓶子在石头上打碎了。
+\dt 12/Apr/2013
+
+\lx χɕi
+\ps n
+\ge manure
+\gn 肥料
+\xv smi de χɕi-tsə gə ŋərə.
+\xe The woman is promiscuous.
+\xn 这是一个人尽可夫的女人。
+\dt 10/Jun/2013
+
+\lx χɕoˠvə
+\ps n
+\ge paper
+\gn 纸
+\dt 15/Oct/2013
+
+\lx xɕʚ
+\ps vt
+\ge send
+\gn 寄
+\mr -
+\1s xɕow
+\2s xɕej
+\3s xɕʚ
+\1p xɕõ
+\xv ŋaɲə lʚŋʚ ɣnəsqʰa fku tɕədə xɕʚre nə-tʰõ.
+\xe We have been sending each other letters for twenty years.
+\xv tu ŋa gi tɕədə gə ɣə-xɕõ.
+\xe He asked me to take this letter to someone.
+\xn 他让我捎个信。
+\dt 18/Nov/2013
+
+\lx xə
+\ps n
+\ge yak (male)
+\gn 公牦牛
+\dt 12/Jun/2013
+
+\lx χeʑə
+\ps pro
+\ge how.much
+\gn 几
+\xv tɕʰətsʚ χeʑə kʰi-sə?
+\xe What time is it?
+\xn 几点了
+\xv ɲi χeʑə fku ŋʚ?
+\xe How old are you?
+\xn 你多少岁了？
+\dt 16/Apr/2013
+\dt 13/Dec/2012
+
+\lx xi
+\ps vi
+\ge existential verb (fixed)
+\gn 有，在（固定物体）
+\mr -
+\xv ɕõdõ de ʁa kʰəmbə ke ɣri xi rə.
+\xe There are a lot of plums on the tree.
+\xn 树上有很多布冧。
+\dt 23/Apr/2013
+
+\lx xɬu
+\ps n
+\ge testicle
+\gn 睾丸
+
+\lx xpʰeli
+\ps vt
+\mr nə-
+\ge patch
+\1s nə-xpʰelu
+\2s nə-xpʰeli
+\3s nə-xpʰeli
+\1p nə-xpʰelõ
+\dt 19/Dec/2012
+
+\lx χpərju
+\ps n
+\ge wind
+\gn 风
+\dt 10/Apr/2013
+
+\lx χpərnaˠ
+\ps n
+\erg χpərnoˠ
+\ge wind (a strong one)
+\gn 狂风
+\dt 16/Apr/2013
+
+\lx χsə
+\ps vt
+\ge tighten
+\gn 勒紧
+\mr kə
+\1s kə-χsu
+\2s kə-χsi
+\3s kə-χsə
+\1p kə-χsõ
+\xv rtɕʰʚ de kə-χsi!
+\xe Tighten this node!
+\xn 把这个绳结弄紧。 
+\rgy sɤsɯɣ?
+\dt 18/Nov/2013
+
+\lx xsəmɲʚ və
+\ps vi
+\ge swallow without chewing
+\gn 不加咀嚼而吞下
+\mr nə
+\xv zama ŋgə tɕʰa xsəmɲʚ nə-di-vi.
+\xe When eating, don't swallow without chewing.
+\xn 吃饭的时候，不要不加咀嚼就吞下。
+\dt 24/May/2013
+
+\lx χsər
+\ps n
+\ge gold
+\gn 黄金
+\dt 14/Oct/2013
+
+\lx χserba
+\ps vi
+\ge new
+\gn 新
+\dt 14/Oct/2013
+
+\lx xsev
+\ps vt
+\ge return, give/pay back
+\gn 偿还
+\mr kə
+\1s xsow
+\2s xsev
+\3s xsev
+\1p xsã
+\xv ɲi ŋa-gi pʰjodzə ɣə-sŋã sə de, qəsji ŋa ɲi-gi xsev.
+\xe I will return the money you lent me tomorrow.
+\xn 我明天还你借我的钱。
+\xv jasɲə ɲi-gi scʰʚ ɣə-sŋi sə de, ŋa-gi kə-xsã.
+\xe Pay for the ploughshare to me I lent you yesterday (because you broke it).
+\xn 赔我昨天借给你那个犁！
+\xv ŋa-gi pʰjodzə de kə-xsã.
+\xe Return the money to me.
+\xn 还我钱。
+\xv təɲu ŋaɲə gi kə-xsã.
+\xe They return the money to us.
+\xn 他们还我们钱。
+\nt 这个动词跟exp一致
+\dt 18/Nov/2013
+
+\lx xsev
+\ps vi
+\ge ressemble
+\gn 相像
+\mr nə
+\1s nə-xsã
+\2s nə-xsev
+\3s nə-xsev
+\1p nə-xsã
+\xv te ɣni ke-rcʚ nə-xsəxsev sə.
+\xe These two look very much alike.
+\xn 这两人长得非常相像。
+\dt 12/Jun/2013
+
+\lx xsev
+\ps vi
+\ge full
+\gn 满
+\xv vu tə-xsev
+\xe be full
+\xn 饱
+\dt 12/Jun/2013
+
+\lx xsəxsə
+\ps vi
+\ge alive, raw
+\gn 活的，生的
+\xv va pjenʚ xsəxsə nə-di-ŋgi.
+\xe Don't eat raw pork!
+\xn 别吃生猪肉！
+\rgy sɯsu
+\dt 18/Nov/2013
+
+\lx χsi
+\ps vi
+\ge clear, bright
+\gn 清楚，清澈
+\xv fsu de ke-χsi gə ŋərə.
+\xe The light is very bright.
+\xn 光很亮。
+\xv vdzi de ke-χsi gə ŋərə.
+\xe The man is very out-going.
+\xn 这个人很开朗。
+\et gsal
+\dt 26/Nov/2013
+
+\lx χsitɕʰaˠ
+\ps vi
+\ge clear (abstract) 
+\gn 清晰、清楚
+\dt 26/Nov/2013
+
+\lx xsu
+\ps vi
+\ge new
+\gn 新
+\xv <zhuozi> de xsu ŋərə.
+\xe The table is new.
+\xn 桌子很新。
+\xv ŋa jʚ xsu gə rə fɕi.
+\xe I need to buy a new house.
+\xn 我想买个新房子。
+\dt 18/Nov/2013
+
+\lx χsʚ
+\ps vt
+\ge feed
+\gn 喂养
+\mr rə
+\1s rə-χsow
+\2s rə-χsej
+\3s rə-χsʚ
+\1p rə-χsõ
+\et gso
+\dt 18/Nov/2013
+
+\lx χʂaˠ
+\ps n
+\ge room
+\gn 房间
+\xv pʚba jʚ-ɲɟi χʂaˠ-ɲə ke-cʰe ŋərə.
+\xe Rooms in Tibetan houses are very big.
+\xn 藏族房子的房间很大。
+\dt 18/Apr/2013
+
+\lx χtɕala
+\ps vt
+\ge chop
+\gn 砍
+\mr nə
+\1s nə-χtɕalou
+\2s nə-χtɕalei
+\3s nə-χtɕala
+\1p nə-χtɕalã
+\xv rəra ʁa tsʰintʰʚ kʰa nə-di-χtɕalei demdi ɕə tɕʰaˠtsõ f-kʰe ŋərə.
+\xe Don't chop the bone with the hay cutter, otherwise the sawteeth will all break.
+\xn 不要用铡刀来砍骨头不然锯齿都会断的。
+\dt 14/May/2013
+
+\lx χtɕʰə
+\ps n
+\ge spine
+\gn 刺儿
+\dt 16/Apr/2013
+
+\lx χtɕer
+\ps vi
+\ge step aside
+\gn 让开
+\mr tə
+\1s tə-χtɕã
+\2s tə-χtɕer
+\3s tə-χtɕer
+\1p tə-χtɕã
+\xv tə-χtɕer!
+\xe Step aside!
+\xn 让开！
+\xv skeskʰɔ kə-χtɕer
+\xe move over there
+\dt 08/Oct/2013
+
+\lx χtɕər
+\ps vt
+\ge squeeze
+\gn 挤
+\mr nə
+\1s nə-χtɕu
+\2s nə-χtɕi
+\3s nə-χtɕər
+\1p nə-χtɕõ
+\xv ŋa χtɕʰə de nə-χtɕər-dʑə ɣə-tʰou.
+\xe I squeezed the spine out.
+\xn 我把刺儿挤了出来。
+\xv rkəmə de <gong'anju>ɲu nə-χtɕər-sə.
+\xe The thief was interrogated by the police.
+\xn 小偷被警察审问了。
+\dt 16/Apr/2013
+
+\lx χtɕʰər
+\ps vi
+\ge sour
+\gn 酸
+\xv <zhuozi> tɕʰa pjenʚ de χtɕʰərχtɕʰər tə-kʰi-sə.
+\xe The meat on the table became sour.
+\xn 桌子上的肉变酸了。
+\rgy tɕur
+\dt 18/Nov/2013
+
+\lx xte
+\ps n
+\ge mule
+\gn 骡子
+\dt 24/Sep/2013
+
+\lx χte
+\ps vt
+\ge return
+\gn 归还
+\mr tə
+\1s tə-χtow
+\2s tə-χtej
+\3s tə-χte
+\1p tə-χtã
+\xv tə-χtã.
+\xe Give it back to me.
+\xn 还给我。
+\xv ŋa scʰʚ ɲi-gi χte.
+\xe I give the ploughshare back to you.
+\xn 我还你犁铧。
+\dt 18/Nov/2013
+
+\lx χtʰə
+\ps n
+\ge bottom
+\gn 臀部
+\dt 08/Jan/2014
+
+\lx χtʰəɕʚ
+\ps vi
+\ge move forward with legs kept straight
+\gn 伸直脚前进
+\dt 24/May/2013
+
+\lx χtʰənə
+\ps vi
+\ge move backwards, sitting on the ground
+\gn 坐在地上后退
+\dt 24/May/2013
+
+\lx xtse
+\ps vi
+\ge hot (soup)
+\gn 烫
+\dt 02/May/2013
+
+\lx χtsʰə
+\ps n
+\ge ground
+\gn 地
+\dt 02/May/2013
+
+\lx χtsõχtsa
+\ps vt
+\ge clean
+\gn 弄干净
+\mr nə
+\1s nə-χtsõχtsou
+\2s nə-χtsõχtsei
+\3s nə-χtsõχtsa
+\1p nə-χtsõχtsã
+\xv pʚba-ɲu lʚser kʰi-re ɮdi rə, jʚ-ɲə χtsõχtsa ŋərə.
+\xe When new year comes, Tibetans clean their houses up.
+\xn 新年到的时候，藏族人做大扫除。
+\dt 27/May/2013
+
+\lx xtsʰʚ
+\ps vi
+\ge thin
+\gn 细
+\rgy xtsʰɯm
+\dt 18/Nov/2013
+
+\lx xtʂʰə
+\ps vi
+\ge let
+\gn 让…做
+\mr tə
+\1s tə-xtʂʰu
+\2s tə-xtʂʰi
+\3s tə-xtʂʰə
+\1p tə-xtʂʰõ
+\xv ŋa-gi liska de və ə-xtʂʰõ
+\xe May I do this work?
+\xn 我可以做这个工作吗？
+\dt 10/Jun/2013
+
+\lx xtʰʚ
+\ps n
+\ge plain
+\gn 平地
+\dt 24/Apr/2013
+
+\lx χʚnembi
+\ps n
+\ge anyway
+\gn 反正
+\dt 01/Jul/2013
+
+\lx zbəcʰa
+\ps vt
+\ge beat
+\gn 打
+\mr nə
+\mr tə
+\1s nə-zbəcʰou
+\2s nə-zbəcʰei
+\3s nə-zbəcʰa
+\1p nə-zbəcʰã
+\xv tu ŋa tə-zbəcʰã.
+\xe He hit me.
+\xn 他揍了我。
+\dt 12/Apr/2013
+
+\lx zbev
+\ps vi
+\ge soak
+\gn 变湿
+\mr nə
+\mr tə
+\1s zbã
+\2s zbev
+\3s zbev
+\1p zbã
+\xv smi de ŋi zbev-re ŋərə.
+\xe It is the woman that makes me wet.
+\xn 这就是让我浑身湿透的女人。
+\xv ní-zbev?
+\xe Did you fuck him?
+\xn 你干了他吗？
+\xv tí-zbev?
+\xe Were you fucked?
+\xn 你被干了吗？
+\dt 18/Nov/2013
+
+\lx zbevji
+\ps vi
+\ge spill
+\gn 溢
+\mr tə
+\xv ɴɢʚlə nə xtse de tə-lə dʑə tə-zbevji-sə ci rə.
+\xe The soup in the wok boiled and it spillt over.
+\xn 锅里的汤煮开了，溢了出来。
+\dt 11/Jun/2013
+
+\lx zdar
+\ps vi
+\ge have the experience of doing sth.
+\gn 曾
+\xv ɲi rɟeji nə-ɕə ə-zdar?
+\xe Have you ever been to China?
+\xn 你去过中国吗？
+\xv ɲi mɲərgɔ kə-vdej ə-zdar?
+\ge Have you seen a yeti before?
+\dt 18/Nov/2013
+
+\lx zdə
+\ps vt
+\ge pick up, obtain
+\gn 赚得
+\mr kə
+\1s kə-zdu
+\2s kə-zdi
+\3s kə-zdə
+\1p kə-zdõ
+\xv kõ ke cʰe kə-zdu.
+\xe I got a good price.
+\xn 我得到了一个好的价格。
+\xv tə kʰa pʰjodzə ə́-zdə?
+\xe Is this valuable?
+\xn 这个值钱吗？
+\rgy sdud
+\dt 18/Nov/2013
+
+\lx zdəfsoˠ
+\ps vt
+\ge collect
+\xv ŋa rtsep kə-zdəfsoˠ
+\xe I collected the crops.
+
+\lx zdəm
+\ps vt
+\ge close (mouth, anus, etc)
+\gn 闭上（嘴、肛门等）
+\mr kə
+\1s kə-zdəm
+\2s kə-zdəm
+\3s kə-zdəm
+\1p kə-zdəm
+\xv kí-zdəm kí-zdəm kə-ɲcʰi
+\rgy ?
+\dt 18/Nov/2013
+
+\lx zdiqi
+\ps n
+\ge wall surface
+\gn 墙面
+\dt 21/May/2013
+
+\lx zduɟõ
+\ps n
+\ge tant pis pour
+\xv ŋi zduɟõ ŋɔ
+\dt 21/Oct/2013
+
+\lx zdʚr
+\ps vi
+\ge cloudy
+\gn 多云
+\xv məgʚ tə-zdʚr-sə.
+\xe It is cloudy.
+\xn 天气多云。
+\rgy zdɯm
+\dt 18/Nov/2013
+
+\lx zdʚr
+\ps n
+\ge cloud
+\gn 云
+\dt 14/Oct/2013
+
+\lx zdʚrmə
+\ps n
+\ge fog
+\gn 雾
+\dt 24/May/2013
+
+\lx zə
+\ps vt
+\ge put, install
+\gn 安放，安装
+\mr kə
+\1s kə-zu
+\2s kə-zi
+\3s kə-v-zə
+\1p kə-zõ
+\xv rkʚma ʁa lʚ kə-zi!
+\xe Install a handle on the pickaxe.
+\xn 在这个锄头上装个手柄。
+\dt 02/May/2013
+
+\lx zəla
+\ps vi
+\ge fall
+\gn 倒下
+\mr nə
+\1s nə-zəlã
+\2s nə-zəla
+\3s nə-zəla
+\1p nə-zəlã
+\xv ɲi zəla tsʰa və sə ci rə ge ŋa ɲi ʁa tə-kʰru.
+\xe As you were going to fall, I handed you up.
+\xn 你快摔倒了，我过来扶了你一把。
+\dt 17/Apr/2013
+
+\lx zəŋʚ
+\ps adv
+\ge first
+\gn 最先
+\dt 01/Jul/2013
+
+\lx zəzʚ
+\ps n
+\ge button
+\gn 扣子
+\xv ɲi χsər kʰa zəzʚ kə-vdei ə́-zdar?
+\xe Have you ever seen a button made of gold?
+\xn 你有见过金做的扣子吗？
+
+\lx zəzʚ ɲcʰə
+\ps vi
+\ge buckle
+\gn 扣上
+
+\lx zgə
+\ps vt
+\ge dress
+\gn 给……穿衣服
+\mr rə
+\1s rə-zgu
+\2s rə-zgə
+\3s rə-zgi
+\1p rə-zgõ
+\xv ŋi mou ŋa-gi tsəgə rə-zgõ.
+\xe My mother dressed me up.
+\xn 我妈妈帮我穿衣服。
+\rgy ʑŋga
+\dt 18/Nov/2013
+
+\lx zgezgə
+\ps vt
+\ge move
+\gn 动
+\mr -
+\1s zgezgou
+\2s zgezgə
+\3s zgezgə
+\1p zgezgõ
+\xv zgʚder de χpərju kʰa zgezgə sə ci rə.
+\xe The flag is waving in the wind.
+\xn 旗帜在空中飘扬。
+\dt 27/May/2013
+
+\lx zgrə
+\ps vt
+\ge close, fold
+\gn 关上，合上
+\mr nə
+\1s zgru
+\2s zgri
+\3s zgrə
+\1p zgrõ
+\xv tɕədə kʰa nə-zgri.
+\xe Close the book.
+\xn 合上书。
+\xv rɟara ʁe nə-zgri.
+\xe Close the door of the courtyard.
+\xn 关上天井的门。
+\dt 18/Apr/2013
+
+\lx zgrəv
+\ps vt
+\ge accomplish
+\gn 完成
+\mr nə
+\1s nə-zgru
+\2s nə-zgriv
+\3s nə-zgrəv
+\1p nə-zgrõ
+\xv ŋi liska gə zgrəv-lə tə
+\xe I have some work to do.
+\et sgrub
+\dt 18/Nov/2013
+
+\lx zgruzgra
+\ps vt
+\mr ɣə-
+\ge tidy up
+\gn 摆整齐
+\1s ɣə-zgruzgrou
+\2s ɣə-zgruzgrei
+\3s ɣə-zgruzgra
+\1p ɣə-zgruzgrã
+\xv ŋa-ɲə ptɕaka-ɲə ɣə-zgruzgrã
+\xe We tidied up.
+\xn 我们摆整齐了。
+\dt 18/Dec/2012
+
+\lx zɣʚ
+\ps vt
+\mr kə-
+\ge tell sb to do sth (used between two persons who know each other)
+\gn 请求（熟人间用）
+\1s kə-zɣow
+\1p kə-zɣõ
+\2s kə-zɣej
+\3s kə-zɣʚ
+\xv ŋa tə-gi kə-zɣow
+\xe I told him to (do sth).
+\xv ŋa ɲi-gi ptɕaka kə-zɣʚ-sə de kí-ri?
+\xe Did you buy what I told you buy?
+\xn 你买了我让你买的东西了吗？
+\cf zʁʚ
+\dt 18/Nov/2013
+
+\lx zgʚder
+\ps n
+\ge flag
+\gn 旗
+\dt 10/Apr/2013
+
+\lx zgʚrɟu
+\ps n
+\ge window
+\gn 窗户
+
+\lx zgʚrva
+\ps vi
+\ge slow
+\gn 慢
+\xv ŋi vdʑə du zama ke-zgʚrva gə ŋgə rə.
+\xe My friend eats very slowly.
+\xn 我的朋友吃饭吃得很慢。
+\dt 02/May/2013
+
+\lx zi
+\ps adv
+\ge most
+\gn 最
+\dt 09/Sep/2013
+
+\lx zimtsʰer
+\ps adv
+\ge extremely
+\gn 极度
+\dt 16/Apr/2013
+
+\lx zizi
+\ps Adv
+\ge not too much
+\gn
+\dt 26/Nov/2013
+
+\lx zja
+\ps Vt
+\ge take away
+\gn 带走
+\xv ɣrə-kʰa tə-zja
+\xn 水把他带走了
+\xv tu ŋi vla tə-zja
+\xn "il a emporté mon esprit"
+\xv ŋaɣni kʰakʰa nə-võ rəge, tu ŋi qhana de tə-zja
+\dt 26/Nov/2013
+
+\lx zjə
+\ps vt
+\ge sell
+\gn 卖
+\mr tə
+\1s tə-zju
+\2s tə-zji
+\3s tə-zjə
+\1p tə-zjõ
+\xv ŋa ŋi va de tə-zju.
+\xe I sold my pigs.
+\xn 我卖了我养的猪。
+\xv ɲi ɲəqʰe rji tə-zji.
+\xe Sell your horse!
+\xn 卖了你的马！
+\rgy ntsɣe
+\dt 18/Nov/2013
+
+\lx zjeməzjentʰʚ de
+\ps vi
+\ge swing
+\gn 荡秋千
+\mr nə
+\1s zjeməzjentʰʚ nə-dou
+\2s zjeməzjentʰʚ nə-dei
+\3s zjeməzjentʰʚ nə-v-de
+\1p zjeməzjentʰʚ nə-dã
+\xv ŋa zjeməzjentʰʚ nə-dou.
+\xe I played on the swing.
+\xn 我荡了秋千。
+\dt 16/Apr/2013
+
+\lx zɟəbə
+\ps n
+\ge hearth with three stones
+\gn 火塘
+\dt 14/Oct/2013
+
+\lx zɟəmɟə
+\ps vt
+\ge exchange, confound
+\gn 交换，混淆
+\mr nə
+\1s nə-zɟəmɟu
+\2s nə-zɟəmɟi
+\3s nə-zɟəmɟə
+\1p nə-zɟəmɟõ
+\xv kʰakʰa ɲəpʰa tsəgə nə-di-zɟəmɟi de mdi. ne vɮde ŋərə.
+\xe Don't swap your clothes with others, or you would get ill.
+\xn 不要跟别人交换衣服穿，不然你会得病的。
+
+\lx zɟwer
+\ps vt
+\ge paste
+\gn 粘
+\mr kə
+\1s kə-zɟou
+\2s kə-zɟwer
+\3s kə-zɟwer
+\1p kə-zɟwã
+\xv ŋa zdi ʁa χɕovə kə-zɟou.
+\xe I pasted a paper on the wall.
+\xn 我贴了一张纸在墙上。
+\et sbʲar
+\dt 18/Nov/2013
+
+\lx zɟwi
+\ps vt
+\ge see ... off
+\gn 送
+\mr -
+\1s zɟu
+\2s zɟwi
+\3s zɟwi
+\1p zɟwã
+\xv ŋi vdʑə du ŋa rə-zɟwã.
+\xe My friend saw me off.
+\xn 我的同伴送我。
+\rgy sco
+\dt 18/Nov/2013
+
+\lx zɟwõ
+\ps vt
+\ge excrete
+\gn 排泄
+\mr nə
+\xv ŋa si nə-zɟwõ.
+\xe I passed blood in my stool.
+\xn 我便血了。
+\dt 10/Jun/2013
+
+\lx zɮda
+\ps vt
+\ge read
+\gn 读
+\mr nə
+\1s nə-zɮdow
+\2s nə-zɮdej
+\3s nə-zɮda
+\1p nə-zɮdã
+\xv ɲi rɟeju ke-mbjoˠ zɮda lə ə́-ri?
+\xe Do you read Chinese fast?
+\xn 你读中文快吗？
+\dt 18/Nov/2013
+
+\lx zɮdə
+\ps vt
+\ge boil
+\gn 烧（水）
+\mr rə
+\1s rə-zɮdu
+\2s rə-zɮdi
+\3s rə-zɮdə
+\1p rə-zɮdõ
+\rgy sɤla
+\dt 18/Nov/2013
+
+\lx zɮdəqɔ
+\ps vt
+\ge boil
+\gn 使沸腾
+\dt 21/Oct/2013
+
+\lx zɮdoˠ
+\ps vt
+\mr rə-
+\ge dig
+\gn 挖
+\de dig up earth (said of a pig)
+\1s rə-zɮdoˠ
+\3s rə-zɮdoˠ
+\1p rə-zɮdoˠ
+\xv vou ŋaɲɟi ɮdi de tɕʰatsʰõ rə-zɮdoˠ-sə
+\xe The pig has dug up all of our field
+\xn 猪挖坏了我们整块地。
+\dt 18/Dec/2012
+
+\lx zɔ
+\ps n
+\ge hybrid of yak and cow
+\gn 母犏牛
+\dt 21/Oct/2013
+
+\lx zʁa
+\ps num
+\ge ten
+\gn 十
+\xv pəsɲə tsʰispa zʁa ŋə-rə
+\xn 今天是十号
+\dt 18/Oct/2013
+
+\lx zʁe
+\ps vt
+\ge open (mouth)
+\gn 张嘴
+\mr rə
+\1s rə-zʁow
+\2s rə-zʁej
+\3s rə-zʁe
+\1p rə-zʁõ
+\xv ŋa-gi ja rə-di-zʁei!
+\xe Don't ask me for any favours!
+\xn 别指着我会帮你！
+\dt 18/Nov/2013
+
+\lx zʁəvə
+\ps n
+\ge the year after next year
+\gn 后年
+\dt 19/Apr/2013
+
+\lx zʁi
+\ps vt
+\mr kə-
+\ge cook
+\de cook rice
+\1s kə-zʁu
+\3s kə-zʁi
+\1p kə-zʁã
+\xv ŋa mbri kə-zʁu
+\xe I cooked some rice
+\dt 18/Dec/2012
+
+\lx zʁʚ
+\ps vt
+\mr kə-
+\ge order
+\gn 请求，命令
+\1s kə-zʁow
+\2s kə-zʁej
+\3s kə-zʁʚ
+\1p kə-zʁõ
+\xv tu ŋa de esɲəsɲəma liska zʁʚrə.
+\xe He gives me a lot of work everyday.
+\xe 他每天都让我干活。
+\dt 18/Nov/2013
+
+\lx zʁʚ
+\ps vi
+\ge stare open-mouthed
+\gn 目瞪口呆
+\mr tə
+\1s tə-zʁã
+\2s tə-zʁʚ
+\3s tə-zʁʚ
+\1p tə-zʁã
+\xv ŋa javə <toulouse> <feiji> kə-cʰe-me de vdou tɕʰa ŋa pejə tə-zʁã.
+\xe I stared open-mouthed when I saw the huge aeroplain in Toulouse last year.
+\xn 去年我在图卢兹看到这么大的飞机时完全惊呆了。
+
+\lx zʁʚra
+\ps vi
+\ge yawn
+\gn 打呵欠
+\mr nə
+\1s nə-zʁʚrã
+\2s nə-zʁʚra
+\3s nə-zʁʚra
+\1p nə-zʁʚrã 
+\xv zʁʚra lə ʁa, stʰi lə tə ŋərə.
+\xe Yawning spreads around.
+\xn 打呵欠是会传染的。
+\dt 11/Jun/2013
+
+\lx zʚ
+\ps vt
+\ge sew
+\gn 缝
+\mr kə
+\mr rə
+\1s kə-zow
+\2s kə-zej
+\3s kə-v-zʚ
+\1p kə-zõ
+\xv ŋi mou ŋi tsəgə de kə-v-zʚ.
+\xe My mother sewed my clothes.
+\xn 我妈帮我缝衣服。
+\dt 18/Nov/2013
+
+\lx zʚ
+\ps vt
+\ge shut, close
+\gn 闭上
+\mr kə
+\1s kə-zow
+\2s kə-zej
+\3s kə-v-zʚ
+\1p kə-zõ
+\xv ja kə-zei!
+\xe Shut up!
+\xn 闭嘴！
+\dt 18/Nov/2013
+
+\lx ʑara
+\ps n
+\ge borgne, aveugle
+\xv mu-pʰa de ʑara
+\xe borgne
+\dv mu-kʰa mi-vdɔ-ŋkʰə
+\dt 26/Nov/2013
+
+\lx ʑəgu
+\ps conj
+\ge but
+\gn 但是
+\xv ŋa mɲa ʑəgu ŋa ɲi-gi ʁʚ.
+\xe I am not, but I can help you.
+\xn 我不是，但我可以帮你。
+\dt 16/Apr/2013
+
+\lx ʑərʑa
+\ps vi
+\ge digest
+\gn 消化
+\xv ŋa zama nə-ŋgu-sə de χavʑi tə-ma-ʑərʑa-sə.
+\xe The things I ate has not yet been digested.
+\xn 我吃了的饭还没消化。
+\et ʑu
+\dt 18/Nov/2013
+
+\lx ʑev
+\ps n
+\ge boiteux
+\dt 26/Nov/2013
+
+\lx ʑəvʑə
+\ps n
+\ge little pieces
+\dt 21/Oct/2013
