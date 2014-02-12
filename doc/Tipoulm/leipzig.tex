@@ -1,0 +1,228 @@
+\documentclass[xcolor=table]{beamer}
+\usepackage{fontspec}
+\usepackage{natbib}
+\usepackage[table]{xcolor}
+\usepackage{gb4e} 
+\usepackage{multicol,multirow}
+\usepackage{color}
+%\usepackage{colortbl}
+\usepackage{graphicx}
+
+ \setmainfont[Mapping=tex-text]{Charis SIL}
+\let\sfdefault\rmdefault
+\newcommand{\racine}[1]{\begin{math}\sqrt{#1}\end{math}} 
+\newcommand{\grise}[1]{\cellcolor{lightgray}\textbf{#1}} 
+
+   \newcommand{\ra}{$\Sigma_1$} 
+\newcommand{\rc}{$\Sigma_3$} 
+\newcommand{\ro}{$\Sigma$} 
+
+ \begin{document}
+\begin{frame} 
+ \title{The decay of direct-inverse systems}
+ \author{Guillaume Jacques, CNRS-CRLAO \\ Anton Antonov, INALCO-CRLAO}
+ \maketitle
+ \end{frame} 
+
+
+\begin{frame}
+ \frametitle{Hierarchical systems in Sino-Tibetan}
+ 
+ \begin{itemize}[<+->]
+\item Most languages with direct-inverse systems are either isolates or belong to very small families.
+\item Only two large language families with such systems: Algic and Sino-Tibetan.
+\item In Algic, direct-inverse is reconstructible to proto-Algonquian, but comparison with Wiyot and Yurok is inconclusive.
+\item Sino-Tibetan languages  offer a tremendous diversity in their hierarchical systems, and allow us to gain important insights from a typological point of view on the origin and evolution of these systems.
+
+
+\end{itemize}
+ \end{frame}  
+ 
+ 
+ 
+\begin{frame}
+\frametitle{What is a direct-inverse system?}
+
+\begin{table}[h]  \caption{Idealized proto-typical inverse} \label{tab:inverse-proto2}
+\centering \label{tab:inv-proto2}
+\begin{tabular}{l|lllll}
+\toprule
+&1 & 2 &3&3'\\
+\hline
+1 &\grise{} &1>2 \cellcolor[wave]{400}& 1>3\cellcolor[wave]{400}&\cellcolor[wave]{400} \\
+2&2>1\cellcolor[wave]{500}&\grise{}&2>3 \cellcolor[wave]{400}&\cellcolor[wave]{400}\\
+3&3>1\cellcolor[wave]{500}&3>2\cellcolor[wave]{500}&\grise{}&3>3'\cellcolor[wave]{400}\\
+3'&\cellcolor[wave]{500}&\cellcolor[wave]{500}&3'>3\cellcolor[wave]{500}&\grise{}\\
+\hline
+\textsc{intr}&1&2&3\\
+\bottomrule
+\end{tabular}
+\end{table}
+\end{frame}
+\begin{frame}
+\frametitle{Example of a quasi-prototypical system: Zbu Rgyalrong}
+\begin{table}[h]
+\caption{Zbu Rgyalrong transitive and intransitive paradigms (adapted from \citealt{gongxun12})}\label{tab:zbu.tr}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{l|l|l|l|l|l|l|l|l|l|l|}
+\textsc{} & 	\textsc{1sg} & 	  \textsc{1du} & 	\textsc{1pl} & 	\textsc{2sg} & 	\textsc{2du} & 	\textsc{2pl} & 	\textsc{3sg} & 	\textsc{3du} & 	\textsc{3pl} & 	\textsc{3'} \\ 	
+\hline
+\textsc{1sg} & \multicolumn{3}{c|}{\grise{}} &	\ipa{} & 	\ipa{} & 	\ipa{} &  	\ipa{\rc{}-ŋ}   & 	  \ipa{\rc{}-ŋ-ndʑə} & 	  \ipa{\rc{}-ŋ-ɲə} & 	\grise{} \\	
+\cline{8-10}
+\textsc{1du} & 	\multicolumn{3}{c|}{\grise{}} &	\ipa{tɐ-\ra{}} & 	\ipa{tɐ-\ra{}-ndʑə} & 	\ipa{tɐ-\ra{}-ɲə} & 	\multicolumn{3}{c|}{ \ipa{\ra{}-tɕə}}  & 	\grise{} \\	
+\cline{8-10}
+\textsc{1pl} & 	\multicolumn{3}{c|}{\grise{}} & 	  & 	&  & 	\multicolumn{3}{c|}{ \ipa{\ra{}-jə}}  & 	\grise{} \\	
+\cline{1-10}
+\textsc{2sg} & 	\cellcolor[wave]{500}\ipa{tə-wə-\ra{}-ŋ} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\multicolumn{3}{c|}{\grise{}}&	\multicolumn{3}{c|}{\ipa{tə-\rc{}}} & 	\grise{} \\	
+\cline{2-2}
+\cline{8-10}
+\textsc{2du} & \cellcolor[wave]{500}	\ipa{tə-wə-\ra{}-ŋ-ndʑə} & \cellcolor[wave]{500}	\ipa{tə-wə-\ra{}-tɕə} & 	\cellcolor[wave]{500}\ipa{tə-wə-\ra{}-jə} & 	\multicolumn{3}{c|}{\grise{}} &	\multicolumn{3}{c|}{\ipa{tə-\ra{}-ndʑə}} & 	\grise{} \\	
+\cline{2-2}
+\cline{8-10}
+\textsc{2pl} &\cellcolor[wave]{500} 	\ipa{tə-wə-\ra{}-ŋ-ɲə} & 	\cellcolor[wave]{500} & \cellcolor[wave]{500} & 	\multicolumn{3}{c|}{\grise{}}&	\multicolumn{3}{c|}{\ipa{tə-\ra{}-ɲə}} & 	\grise{} \\	
+\hline
+\textsc{3sg} & \cellcolor[wave]{500} 	\ipa{wə-\ra{}-ŋ} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & \multicolumn{3}{c|}{\grise{}} &	\rc{} \\ 	
+\cline{2-2}
+\cline{11-11}
+\textsc{3du} &  \cellcolor[wave]{500}	\ipa{wə-\ra{}-ŋ-ndʑə} & 	\cellcolor[wave]{500} \ipa{wə-\ra{}-tɕə} & \cellcolor[wave]{500}		\ipa{wə-\ra{}-jə} & \cellcolor[wave]{500}	\ipa{tə-wə-\ra{}} &\cellcolor[wave]{500}	\ipa{tə-wə-\ra{}-ndʑə} & 	\cellcolor[wave]{500}\ipa{tə-wə-\ra{}-ɲə} & 	\multicolumn{3}{c|}{\grise{}} &	\ipa{\ra{}-ndʑə} \\ 
+\cline{2-2}	
+\cline{11-11}
+\textsc{3pl} &  \cellcolor[wave]{500}	\ipa{wə-\ra{}-ŋ-ɲə} & 	\cellcolor[wave]{500} & \cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & \multicolumn{3}{c|}{\grise{}} &	\ipa{\ra{}-ɲə} \\ 	
+\hline
+\textsc{3'} & 	\multicolumn{6}{c|}{\grise{}} &\cellcolor[wave]{500}	\ipa{wə-\ra{}} & 	\cellcolor[wave]{500}\ipa{wə-\ra{}-ndʑə} & \cellcolor[wave]{500}	\ipa{wə-\ra{}-ɲə} & 	\grise{} \\	
+	\hline	\hline
+\textsc{intr}&\ipa{\ra{}-ŋ}&\ipa{\ra{}-tɕə}&\ipa{\ra{}-jə}&\ipa{tə-\ra{}}&\ipa{tə-\ra{}-ndʑə}&\ipa{tə-\ra{}-ɲə}&\ipa{\ra{}}&\ra{}-\ipa{ndʑə} &\ipa{\ra{}-ɲə}& 	\grise{} \\	
+	\hline
+\end{tabular}}
+\end{table}
+\end{frame} 
+ 
+ \begin{frame} 
+ \frametitle{Example of an opaque hierarchical system: Bantawa (\citealt[145-8]{doornenbal09})}
+
+\begin{table}[h]
+%\caption{(\citealt[145-8]{doornenbal09})}\label{tab:bantawa}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{l|l|l|l|l|l|l|l|l|l|l|l|l}
+\cline{1-12}
+\textsc{} & 	\textsc{1sg} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2sg} & 	\textsc{2du} & 	\textsc{2pl} & 	\textsc{3sg} & 	\textsc{3du} & \textsc{3pl}	\\
+\cline{1-1}
+\cline{7-12}
+\textsc{1sg} &  \multicolumn{5}{c}{\grise{}}	 	&	\ipa{\ro{}-na} & 	\ipa{\ro{}-naci} & 	\ipa{\ro{}-nanin} & 	\ipa{\ro{}-uŋ} & 	\multicolumn{2}{c}{\ipa{\ro{}-uŋcɨŋ}} 	\vline\\
+\textsc{1di} & \multicolumn{8}{c}{\grise{}}	 		&	\ipa{\ro{}-cu} & 	\multicolumn{2}{c}{\ipa{\ro{}-cuci}} \vline	\\
+\textsc{1de} & 	 \multicolumn{5}{c}{\grise{}}	&	 	 \multicolumn{3}{c}{\ipa{\ro{}-ni}}     & 	\ipa{\ro{}-cuʔa} & 	\multicolumn{2}{c}{\ipa{\ro{}-cuciʔa}} 	\vline\\
+\textsc{1pi} & 	 \multicolumn{8}{c}{\grise{}}	&	\ipa{\ro{}-um} & \multicolumn{2}{c}{	\ipa{\ro{}-umcɨm}} \vline	\\
+\textsc{1pe} & 	 \multicolumn{5}{c}{\grise{}}&		 \multicolumn{3}{c}{\ipa{\ro{}-ni}} & 	\ipa{\ro{}-umka} & 	\multicolumn{2}{c}{\ipa{\ro{}-umcɨmka}} 	\vline\\
+\cline{10-12}
+\textsc{2sg} & 	\ipa{tɨ-\ro{}-ŋa} & 	\grise{}&	\ipa{} & \grise{}	&	\ipa{} & 	 \multicolumn{3}{c}{\grise{}}	&	\ipa{tɨ-\ro{}-u} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-uci}} \vline 	\\
+\textsc{2du} & 	\ipa{tɨ-\ro{}-ŋaŋcɨŋ} & \grise{}&	\ipa{tɨ-\ro{}-ni(n)} & \grise{}	&	\ipa{tɨ-\ro{}-ni(n)} & 	 \multicolumn{3}{c}{\grise{}}	&	\ipa{tɨ-\ro{}-cu} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-cuci}} \vline 	\\
+\textsc{2pl} & 	\ipa{tɨ-\ro{}-ŋaŋnɨŋ} & \grise{}	&	\ipa{} & \grise{}	&	\ipa{} & 	 \multicolumn{3}{c}{\grise{}}&	\ipa{tɨ-\ro{}-um} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-umcum}} \vline 	\\
+\cline{2-12}
+\textsc{3sg} &\cellcolor[wave]{500}	 	\ipa{ɨ-\ro{}-ŋa} & 	 \cellcolor[wave]{700}	 & 	\cellcolor[wave]{700}	\ipa{(n)ɨ-\ro{}-aciʔa} &    \cellcolor[wave]{600}	& \cellcolor[wave]{700}		\ipa{(n)ɨ-\ro{}-inka} & 	\cellcolor[wave]{700}	 & 	\cellcolor[wave]{700}	& 	\cellcolor[wave]{700}	& 	\ipa{\ro{}-u} & 	\multicolumn{2}{c}{\ipa{\ro{}-uci}} \vline	\\
+\textsc{3du} &\cellcolor[wave]{500}	 	\ipa{ɨ-\ro{}-ŋaŋcɨŋ} & \cellcolor[wave]{700}	  \ipa{nɨ-\ro{}-ci} 	& 	 \ipa{nɨ-\ro{}-aciʔa}\cellcolor[wave]{700}	 & 	 \ipa{mɨ-\ro{}} 	\cellcolor[wave]{600} & 	 \cellcolor[wave]{700}		\ipa{nɨ-\ro{}-inka} & 	\cellcolor[wave]{700}	\ipa{nɨ-\ro{}} & \cellcolor[wave]{700}		\ipa{nɨ-\ro{}-ci} & \cellcolor[wave]{700}		\ipa{nɨ-\ro{}-in} & \ipa{ɨ-\ro{}-cu} \cellcolor[wave]{500}& \multicolumn{2}{c}{\cellcolor[wave]{500}	\ipa{ɨ-\ro{}-cuci}} \vline 	\\
+\textsc{3pl} &\cellcolor[wave]{700}	 	\ipa{nɨ-\ro{}-ŋa} &  	 \cellcolor[wave]{700}	 & \cellcolor[wave]{700}	 	  & 	\cellcolor[wave]{600} &  \cellcolor[wave]{700}	 &   \cellcolor[wave]{700}		  & 	 \cellcolor[wave]{700}	  & \cellcolor[wave]{700}	   & 	\ipa{ɨ-\ro{}} \cellcolor[wave]{500}	& \multicolumn{2}{c}{\ipa{mɨ-\ro{}-uci}\cellcolor[wave]{600}} \vline 	\\
+\cline{1-12}
+\textsc{intr}	&\ipa{\ro{}-ŋa}&\ipa{\ro{}-ci}&\ipa{\ro{}-ca}&\ipa{\ro{}-in}&\ipa{\ro{}-inka}&\ipa{tɨ-\ro{}}& \ipa{tɨ-\ro{}-ci}& \ipa{tɨ-\ro{}-in}& \ro{}  & \ro{}-\ipa{ci} &\cellcolor[wave]{600}\ipa{mɨ-\ro{}} \\
+\cline{1-12}
+\end{tabular}}
+\end{table}
+
+
+
+
+ \begin{itemize}[<+->]
+ \item  \ipa{ɨ}-- prefix (corresponds to the Zbu \ipa{wə}-- prefix, inverse-like but restricted to \textsc{3sg,du$\rightarrow$1sg} and \textsc{3du$\rightarrow$3}, \textsc{3pl$\rightarrow$3sg}; absence of proximate/obviative constrast)
+  \item  \ipa{nɨ}-- prefix (\textsc{3pl$\rightarrow$1sg}, \textsc{3$\rightarrow$1du,1pe,2}; plural marker spread to the \textsc{3sg}? Should it be analyzed as \ipa{nɨ+ɨ}?)
+   \item  \ipa{mɨ}-- prefix (\textsc{3pl.intr}, \textsc{3pl$\rightarrow$3ns}, 3$\rightarrow$1\textsc{pi}; plural marker used as a generic?)
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+
+\begin{table}
+\caption{Bantawa non-local scenarios}
+\begin{tabular}{l|l|l|l|l}
+&\textsc{3sg}&\textsc{3du}&\textsc{3pl}&\\
+\textsc{3sg}&	\ipa{\ro{}-u} & 	\multicolumn{2}{c}{\ipa{\ro{}-uci}} \vline	\\
+\textsc{3du}& \ipa{ɨ-\ro{}-cu} \cellcolor[wave]{500}& \multicolumn{2}{c}{\cellcolor[wave]{500}	\ipa{ɨ-\ro{}-cuci}} \vline 	\\
+\textsc{3pl}&	\ipa{ɨ-\ro{}} \cellcolor[wave]{500}	& \multicolumn{2}{c}{\ipa{mɨ-\ro{}-uci}\cellcolor[wave]{600}} \vline 	\\
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Zbu non-local scenarios}
+\begin{tabular}{llllllll}
+&\textsc{3sg}&\textsc{3du}&\textsc{3pl}&3'\\
+\textsc{3sg}&\multicolumn{3}{c}{\grise{}}&\rc{}\\
+\textsc{3du}&\multicolumn{3}{c}{\grise{}}&\ra{}-\ipa{ndʑə}\\
+\textsc{3pl}&\multicolumn{3}{c}{\grise{}}&\ra{}-\ipa{ɲə}\\
+3'& \cellcolor[wave]{500}\ipa{wə}-\ra{} & \cellcolor[wave]{500}\ipa{wə}-\ra{}-\ipa{ndʑə} & \cellcolor[wave]{500}\ipa{wə}-\ra{}-\ipa{ɲə} &\grise{} \\
+\end{tabular}
+\end{table}
+\end{frame}
+%\begin{frame}
+%\citet{jacques12khaling}
+%\begin{table}[H]  \caption{Khaling verbal system (singular forms only)} 
+%\centering \label{tab:khaling}
+%\begin{tabular}{l|lllll}
+%\toprule
+%&1 & 2 &3\\
+%\hline
+%1 &\grise{} &\ro{}-\ipa{nɛ} & \ro{}-\ipa{u} \\
+%2&\cellcolor[wave]{500}\ipa{ʔi--}\ro{}-\ipa{ŋʌ}&\grise{}&\ipa{ʔi--}\ro{}-\ipa{ʉ} \cellcolor[wave]{500}\\
+%3&\cellcolor[wave]{500}\ipa{ʔi--}\ro{}-\ipa{ŋʌ}&\ipa{ʔi--}\ro{}\cellcolor[wave]{500}&\ro{}-\ipa{ʉ}\\
+%\hline
+%\textsc{intr}&\ro{}-\ipa{ŋʌ}&\cellcolor[wave]{500}\ipa{ʔi--}\ro{}&\ro{}\\
+%\bottomrule
+%\end{tabular}
+%\end{table}
+%
+%
+%\end{frame} 
+ 
+\begin{frame} 
+\frametitle{One step further}
+
+\citet{jacques14rtau}
+  \begin{table}[h]
+\caption{Rtau transitive and intransitive paradigms}
+\centering \label{tab:align}
+\begin{tabular}{|c|c|c|c|c|}  
+ \cline{1-4}
+\backslashbox{A}{P} &1    &  2  &  	3  \\  
+\cline{1-4} 1s  &   \cellcolor{lightgray}        &  	\multirow{2}{*}{\ro{}}  &  	\ro{}-\ipa{w}  \\  
+\cline{4-4}1p  &   \cellcolor{lightgray} 	     &   &  	\ro{}-\ipa{ã}  \\  
+%\hline
+\cline{4-4}2 &   \multirow{2}{*}{\ipa{v}-\ro{}-\ipa{ã}}     &   \grise{ }	  &  	\ro{}-\ipa{j}  \\  
+\cline{3-4}3 &    &  	\multicolumn{2}{c}{ \ipa{v}-\ro{}}   	 \vline  \\  
+\hline
+\textsc{intr}&\ro{}-\ipa{ã}  &\multicolumn{2}{c}{  \ro{}}     	 \vline  \\  
+\hline
+\end{tabular}
+\end{table}
+ \begin{itemize}[<+->]
+ \item The \ipa{v--} prefix corresponds to the Zbu inverse \ipa{wə}--.
+ \item In non-local scenarios, as in Bantawa, there is no contrast between proximate 3>3' vs obviative 3'>3 agent.
+ \item The inverse form has been been generalized to all non-local scenarios.
+ \item Nevertheless it cannot be analyzed as an third person agent marker since it occurs in 2>1 scenarios.
+\end{itemize} 
+\end{frame} 
+
+ \begin{frame} 
+ \frametitle{Conclusion}
+  \begin{itemize}[<+->]
+  \item Opaque hierarchical-like systems can be shown to originate from prototypical or near prototypical direct-inverse systems.
+  \item When the proximative-obviative constrast in non-local scenarios is lost, we observe either generalization of 3'$\rightarrow$3 (Rtau, Lavrung), of 3$\rightarrow$3' (Khaling, Limbu) or a mixture thereof (Bantawa, Puma). 
+  \item The animacy/saliency hierarchy governing the proximate/obviative contrast can be reanalyzed as a number hierarchy (\textsc{sg} > \textsc{du/pl})
+  \end{itemize} 
+  \end{frame} 
+  
+  
+ \begin{frame} 
+ \frametitle{References}
+ \tiny
+ \bibliographystyle{plainnat}
+\bibliography{bibliogj}
+ \end{frame}
+\end{document}
