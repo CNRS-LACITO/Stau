@@ -1,0 +1,587 @@
+\documentclass[xcolor=table]{beamer}
+\usepackage{polyglossia}
+%\usepackage{fontspec}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{xltxtra} 
+\usepackage[table]{xcolor}
+%\usepackage{tangutex2} 
+%\usepackage{tangutex4} 
+ \usepackage{geometry}
+\usepackage{multirow,slashbox}
+\usepackage{gb4e} 
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{hyperref} 
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue}
+\usepackage{memhfixc}
+\usepackage{lscape}
+\usepackage[footnotesize,bf]{caption}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Junicode} 
+%\setsansfont[Mapping=tex-text,Ligatures=Common,Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Ubuntu} 
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Charis SIL} 
+%\newfontfamily\phondroit[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Doulos SIL} 
+\newfontfamily\greek[Mapping=tex-text,Scale=MatchLowercase]{Galatia SIL} 
+\newcommand{\ipa}[1]{{\phon\textit{#1}}} 
+\newcommand{\ipab}[1]{{\phon #1}}
+\newcommand{\ipapl}[1]{{\phondroit #1}}
+\newcommand{\Σ}{\greek{Σ}}
+\newcommand{\captionft}[1]{{\captionfont #1}} 
+%\newfontfamily\cn[Mapping=tex-text,Scale=MatchUppercase]{IPAGothic}%pour le chinois
+%\newcommand{\zh}[1]{{\cn #1}}
+\newcommand{\tgf}[1]{\mo{#1}}
+%\newfontfamily\mleccha[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Galatia SIL}%pour le grec
+\newcommand{\grec}[1]{{\mleccha #1}}
+%\newcommand{\ra}{$\Sigma_1$} 
+%\newcommand{\rc}{$\Sigma_3$} 
+\newcommand{\ro}{$\Sigma$} 
+
+ 
+\newcommand{\racine}[1]{\begin{math}\sqrt{#1}\end{math}} 
+\newcommand{\grise}[1]{\cellcolor{lightgray}\textbf{#1}} 
+\newcommand{\ra}{$\Sigma_1$} 
+\newcommand{\rc}{$\Sigma_3$} 
+\newcommand{\abs}{\textsc{abs}}
+\newcommand{\acc}{\textsc{acc}}
+\newcommand{\adess}{\textsc{adess}}
+\newcommand{\agent}{\textsc{a}}
+\newcommand{\antierg}{\textsc{antierg}}
+\newcommand{\allat}{\textsc{all}}
+\newcommand{\aor}{\textsc{aor}}
+\newcommand{\assert}{\textsc{assert}}
+\newcommand{\assoc}{\textsc{assoc}}
+\newcommand{\auto}{\textsc{auto}}
+\newcommand{\caus}{\textsc{caus}}
+\newcommand{\cis}{\textsc{cis}}
+\newcommand{\classif}{\textsc{class}}
+\newcommand{\concessif}{\textsc{concsf}}
+\newcommand{\comit}{\textsc{comit}}
+\newcommand{\conj}{\textsc{conj}}
+\newcommand{\const}{\textsc{const}}
+\newcommand{\conv}{\textsc{conv}}
+\newcommand{\cop}{\textsc{cop}}
+\newcommand{\dat}{\textsc{dat}}
+\newcommand{\dem}{\textsc{dem}}
+\newcommand{\detm}{\textsc{det}}
+\newcommand{\dir}{\textsc{dir1}}
+\newcommand{\du}{\textsc{du}}
+\newcommand{\duposs}{\textsc{du.poss}}
+\newcommand{\dur}{\textsc{dur}}
+\newcommand{\dyn}{\textsc{dyn}}
+\newcommand{\erg}{\textsc{erg}}
+\newcommand{\excl}{\textsc{excl}}
+\newcommand{\fut}{\textsc{fut}}
+\newcommand{\gen}{\textsc{gen}}
+\newcommand{\hypot}{\textsc{hyp}}
+\newcommand{\ideo}{\textsc{ideo}}
+\newcommand{\imp}{\textsc{imp}}
+\newcommand{\incl}{\textsc{incl}}
+\newcommand{\infin}{\textsc{inf}}
+\newcommand{\ipf}{\textsc{ipfv}}
+\newcommand{\instr}{\textsc{instr}}
+\newcommand{\intens}{\textsc{intens}}
+\newcommand{\intrg}{\textsc{intrg}}
+\newcommand{\inv}{\textsc{inv}}
+\newcommand{\irreel}{\textsc{irr}}
+\newcommand{\loc}{\textsc{loc}}
+\newcommand{\masc}{\textsc{m}}
+\newcommand{\med}{\textsc{med}}
+\newcommand{\negat}{\textsc{neg}}
+\newcommand{\neu}{\textsc{neu}}
+\newcommand{\nmlz}{\textsc{nmlz}}
+\newcommand{\nom}{\textsc{nom}}
+\newcommand{\nonps}{\textsc{n.pst}}
+\newcommand{\obj}{\textsc{o}}
+\newcommand{\obv}{\textsc{obv}}
+\newcommand{\opt}{\textsc{dir2}}
+\newcommand{\perf}{\textsc{pfv}}
+\newcommand{\pl}{\textsc{pl}}
+\newcommand{\plposs}{\textsc{pl.poss}}
+\newcommand{\poss}{\textsc{poss}}
+\newcommand{\pot}{\textsc{pot}}
+\newcommand{\pret}{\textsc{pret}}
+\newcommand{\prohib}{\textsc{prohib}}
+\newcommand{ \prox}{\textsc{prox}}
+\newcommand{\prs}{\textsc{prs}}
+\newcommand{\pst}{\textsc{pst}}
+\newcommand{\recip}{\textsc{recip}}
+\newcommand{\redp}{\textsc{redp}}
+\newcommand{\refl}{\textsc{refl}}
+\newcommand{\sg}{\textsc{sg}}
+\newcommand{\sgposs}{\textsc{sg.poss}}
+\newcommand{\stat}{\textsc{stat}}
+\newcommand{\subj}{\textsc{s}}
+\newcommand{\topic}{\textsc{top}}
+\newcommand{\volit}{\textsc{vol}}
+
+\let\eachwordone=\textbf
+
+\begin{document}
+
+\begin{frame}
+\frametitle{The Bantawa paradigm} 
+ 
+\begin{table}[H]
+\caption{The Bantawa non-past affirmative transitive paradigm (\citealt[145-8]{doornenbal09})}\label{tab:bantawapos}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{llllllllllll}
+%\cline{1-12}
+\toprule
+\backslashbox{A}{P}  & 	\textsc{1sg} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2sg} & 	\textsc{2du} & 	\textsc{2pl} & 	\textsc{3sg} & 	\textsc{3du} & \textsc{3pl}\\
+% \cline{1-1}
+% \cline{7-12}
+\midrule
+\textsc{1sg} &  \multicolumn{5}{c}{\grise{}}	 	&	\ipa{\ro{}-na} & 	\ipa{\ro{}-naci} & 	\ipa{\ro{}-nanin}& 	\ipa{\ro{}-uŋ}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{\ro{}-uŋcɨŋ}\cellcolor[wave]{450}} 	\\
+\textsc{1di} & \multicolumn{8}{c}{\grise{}}	 		&	\ipa{\ro{}-cu}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{\ro{}-cuci}\cellcolor[wave]{450}}	\\
+\textsc{1de} & 	 \multicolumn{5}{c}{\grise{}}	&	 	 \multicolumn{3}{c}{\ipa{\ro{}-ni}}     & 	\ipa{\ro{}-cuʔa}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{\ro{}-cuciʔa}\cellcolor[wave]{450}} 	\\
+\textsc{1pi} & 	 \multicolumn{8}{c}{\grise{}}	&	\ipa{\ro{}-um}\cellcolor[wave]{450} & \multicolumn{2}{c}{	\ipa{\ro{}-umcɨm}\cellcolor[wave]{450}} 	\\
+\textsc{1pe} & 	 \multicolumn{5}{c}{\grise{}}&		 \multicolumn{3}{c}{\ipa{\ro{}-ni}} & 	\ipa{\ro{}-umka}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{\ro{}-umcɨmka}\cellcolor[wave]{450}} 	\\
+%\cline{10-12}
+\textsc{2sg} & 	\ipa{tɨ-\ro{}-ŋa} & 	\grise{}&	\ipa{} & \grise{}	&	\ipa{} & 	 \multicolumn{3}{c}{\grise{}}	&	\ipa{tɨ-\ro{}-u}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-uci}\cellcolor[wave]{450}} \\
+\textsc{2du} & 	\ipa{tɨ-\ro{}-ŋaŋcɨŋ} & \grise{}&	\ipa{tɨ-\ro{}-ni(n)} & \grise{}	&	\ipa{tɨ-\ro{}-ni(n)} & 	 \multicolumn{3}{c}{\grise{}}	&	\ipa{tɨ-\ro{}-cu}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-cuci}\cellcolor[wave]{450}}\\
+\textsc{2pl} & 	\ipa{tɨ-\ro{}-ŋaŋnɨŋ} & \grise{}	&	\ipa{} & \grise{}	&	\ipa{} & 	 \multicolumn{3}{c}{\grise{}}&	\ipa{tɨ-\ro{}-um}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-umcum}\cellcolor[wave]{450}} \\
+%\cline{2-12}
+\textsc{3sg} &\cellcolor[wave]{650}	 	\ipa{ɨ-\ro{}-ŋa} & 	 \cellcolor[wave]{650}	 & 	\cellcolor[wave]{650}	\ipa{(n)ɨ-\ro{}-aciʔa} &    \cellcolor{red}	& \cellcolor[wave]{650}		\ipa{(n)ɨ-\ro{}-inka} & 	\cellcolor[wave]{650}	 & 	\cellcolor[wave]{650}	& 	\cellcolor[wave]{650}	& 	\ipa{\ro{}-u}\cellcolor[wave]{450} & 	\multicolumn{2}{c}{\ipa{\ro{}-uci}\cellcolor[wave]{450}} \\
+\textsc{3du} &\ipa{ɨ-\ro{}-ŋaŋcɨŋ}\cellcolor[wave]{650} & 	  \ipa{nɨ-\ro{}-ci}\cellcolor[wave]{650} 	& 	\cellcolor[wave]{650}{\multirow{2}{*}{\ipa{nɨ-\ro{}-aciʔa}}}	 & 	 \ipa{mɨ-\ro{}}\cellcolor{red} 	 & \multirow{2}{*}{\ipa{nɨ-\ro{}-inka}\cellcolor[wave]{650}} & 	\cellcolor[wave]{650}	\ipa{nɨ-\ro{}} & \ipa{nɨ-\ro{}-ci}\cellcolor[wave]{650} & 	\ipa{nɨ-\ro{}-in}\cellcolor[wave]{650} & \ipa{ɨ-\ro{}-cu} \cellcolor[wave]{650}& \multicolumn{2}{c}{\ipa{ɨ-\ro{}-cuci}\cellcolor[wave]{650}}	\\
+\textsc{3pl} &	 \ipa{nɨ-\ro{}-ŋa}\cellcolor[wave]{650} & \cellcolor[wave]{650}	 &  \multirow{-2}{*}{\ipa{nɨ-\ro{}-aciʔa}\cellcolor[wave]{650}}	  & 	\cellcolor{red} &  \multirow{-2}{*}{\ipa{nɨ-\ro{}-inka}\cellcolor[wave]{650}}	 &   \cellcolor[wave]{650}		  & 	 \cellcolor[wave]{650}	  & \cellcolor[wave]{650}	   & 	\ipa{ɨ-\ro{}} \cellcolor[wave]{650}	& \multicolumn{2}{c}{\ipa{mɨ-\ro{}-uci}\cellcolor[wave]{650}} 	\\
+%\cline{1-12}
+\bottomrule
+\textsc{intr}	&\ipa{\ro{}-ŋa}&\ipa{\ro{}-ci}&\ipa{\ro{}-ca}&\ipa{\ro{}-in}&\ipa{\ro{}-inka}&\ipa{tɨ-\ro{}}& \ipa{tɨ-\ro{}-ci}& \ipa{tɨ-\ro{}-in}& \ipa{\ro{}}  & \ipa{\ro{}-ci} &\ipa{mɨ-\ro{}} \\
+
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+
+\begin{frame}
+\frametitle{The Bantawa paradigm} 
+\begin{table}[H]
+\caption{The Bantawa non-past negative transitive paradigm (\citealt[145-8]{doornenbal09})}\label{tab:bantawaneg}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{llllllllllll}
+\toprule
+\backslashbox{A}{P}  & 	\textsc{1sg} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2sg} & 	\textsc{2du} & 	\textsc{2pl} & 	\textsc{3sg} & 	\textsc{3du} & \textsc{3pl}	\\
+%\cline{1-1}
+%\cline{7-12}
+\midrule
+\textsc{1sg} &  \multicolumn{5}{c}{\grise{}}	 	&	{\ipa{ɨ-\ro{}-nan}} & 	\ipa{ɨ-\ro{}-nancin} & 	\ipa{ɨ-\ro{}-naminin}& 	\cellcolor{red}\ipa{ɨ-\ro{}-nɨŋ}& 	\multicolumn{2}{c}{\ipa{ɨ-\ro{}-nɨŋcɨŋ}\cellcolor{red}} 	\\
+\textsc{1di} & \multicolumn{8}{c}{\grise{}}	 		&	\cellcolor{red}\ipa{ɨ-\ro{}-cun} & 	\multicolumn{2}{c}{\ipa{ɨ-\ro{}-cuncin}\cellcolor{red}}	\\
+\textsc{1de} & 	 \multicolumn{5}{c}{\grise{}}	&	 	 \multicolumn{3}{c}{\ipa{ɨ-\ro{}-nin}}     & 	\cellcolor{red}\ipa{ɨ-\ro{}-cunka}& 	\multicolumn{2}{c}{\ipa{ɨ-\ro{}-cuncinka}\cellcolor{red}} 	\\
+\textsc{1pi} & 	 \multicolumn{8}{c}{\grise{}}	&	\cellcolor{red}\ipa{ɨ-\ro{}-imin}& \multicolumn{2}{c}{\ipa{ɨ-\ro{}-imincin}\cellcolor{red}} 	\\
+\textsc{1pe} & 	 \multicolumn{5}{c}{\grise{}}&		 \multicolumn{3}{c}{\ipa{ɨ-\ro{}-nin}} & 	\cellcolor{red}\ipa{ɨ-\ro{}-iminka} & 	\multicolumn{2}{c}{\ipa{ɨ-\ro{}-imincinka}\cellcolor{red}} 	\\
+%\cline{10-12}
+\textsc{2sg} & 	\ipa{tɨ-\ro{}-nɨŋ} & 	\grise{}&	\ipa{} & \grise{}	&	\ipa{} & 	 \multicolumn{3}{c}{\grise{}}	&	\ipa{tɨ-\ro{}-nan} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-nancin}} \\
+\textsc{2du} & 	\ipa{tɨ-\ro{}-ŋɨŋcɨŋ} & \grise{}&	\ipa{tɨ-\ro{}-niminin} & \grise{}	&	\ipa{tɨ-\ro{}-niminin} & 	 \multicolumn{3}{c}{\grise{}}	&	\ipa{tɨ-\ro{}-nancin} & 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-nancinan}}\\
+\textsc{2pl} & 	\ipa{tɨ-\ro{}-ŋɨŋmɨnɨŋ} & \grise{}	&	\ipa{} & \grise{}	&	\ipa{} & 	 \multicolumn{3}{c}{\grise{}}&	\ipa{tɨ-\ro{}-naminin}& 	\multicolumn{2}{c}{\ipa{tɨ-\ro{}-nannimincin}} \\
+%\cline{2-12}
+\textsc{3sg} & \ipa{ɨ-\ro{}-nɨŋ} & 	& &  &  & & & & \ipa{ɨ-\ro{}-un} & 	\multicolumn{2}{c}{\ipa{ɨ-\ro{}-uncin}} \\
+\textsc{3du} & \ipa{ɨ-\ro{}-ŋɨŋcɨŋ} &   \ipa{nɨ-\ro{}-cin} 	& 	 \ipa{nɨ-\ro{}-cinka}	 & 	 \ipa{mɨ-\ro{}-nin} 	 &	\ipa{nɨ-\ro{}-iminka} & 	\ipa{nɨ-\ro{}-nan} & 	\ipa{nɨ-\ro{}-nancin} & 		\ipa{nɨ-\ro{}-naminin} & \ipa{ɨ-\ro{}-cun}& \multicolumn{2}{c}{\ipa{ɨ-\ro{}-cuncin}}	\\
+\textsc{3pl} & 	\ipa{nɨ-\ro{}-nɨŋ} &  	  & 	  & 	 & 	 & 	  & 	 	  & 	   & 	\ipa{nɨ-\ro{}-un} 	& \multicolumn{2}{c}{\ipa{nɨ-\ro{}-uncin}} 	\\
+%\cline{1-12}
+\bottomrule
+\textsc{intr}	&\cellcolor{red}\ipa{ɨ-\ro{}-nɨŋ}&\cellcolor{red}\ipa{ɨ-\ro{}-cin}&\cellcolor{red}\ipa{ɨ-\ro{}-cinka}&\cellcolor{red}\ipa{ɨ-\ro{}-imin}&\cellcolor{red}\ipa{ɨ-\ro{}-iminka}&\ipa{tɨ-\ro{}-nan}& \ipa{tɨ-\ro{}-nanci}& \ipa{tɨ-\ro{}-naminin}& \cellcolor{red}\ipa{ɨ-\ro{}-nin}  & \cellcolor{red}\ipa{ɨ-\ro{}-cin} &\ipa{nɨ-\ro{}-nin} \\
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+%
+\begin{frame}
+\frametitle{The Khaling paradigm} 
+ 
+\begin{table}[H]
+\caption{Khaling transitive paradigm}\label{tab:jpg.tr}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{l|l|l|l|l|l|l|l|l|l|l|l|}
+\textsc{} & 	\textsc{1s} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2s} & 	\textsc{2d} & 	\textsc{2p} & 	\textsc{3s} & 	\textsc{3d} & 	\textsc{3p} \\ 
+\hline	
+\textsc{1s} & 	\multicolumn{5}{c|}{\grise{}} &	\ipa{R-nɛ}   &	\ipa{R-su}   &	\ipa{R-nu}   &	\ipa{R-u}   &	\ipa{R-u-su}   &	\ipa{R-u-nu}   \\	
+\cline{7-12}
+\textsc{1di} & \multicolumn{8}{c|}{\grise{}} &	\multicolumn{3}{c|}{	\ipa{R-i} }	   \\	
+\cline{7-12}
+\textsc{1de} & 	\multicolumn{5}{c|}{\grise{}} &	\ipa{ʔi-R}   &	\ipa{ʔi-R-i}   &	\ipa{ʔi-R-ni}   &	 \multicolumn{3}{c|}{	\ipa{R-u} }	   \\	
+\cline{7-12}
+\textsc{1pi} & 	\multicolumn{8}{c|}{\grise{}} &	 \multicolumn{3}{c|}{\ipa{R-ki}}   \\	
+\cline{7-12}
+\textsc{1pe} & 	\multicolumn{5}{c|}{\grise{}} &	\ipa{ʔi-R}   &	\ipa{ʔi-R-i}   &	\ipa{ʔi-R-ni}   &\multicolumn{3}{c|}{\ipa{R-kʌ} }	   \\	
+\cline{2-2}
+\cline{4-4}
+\cline{6-12}
+\textsc{2s} & 	\ipa{ʔi-R-ŋʌ}   &	\grise{} &	   &	\grise{} &	   &	\grise{} &	\grise{} &	\grise{} &	\ipa{ʔi-R-ʉ}   &	\ipa{ʔi-R-su}   &	\ipa{ʔi-R-nu}   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2d} & 	\ipa{ʔi-R-ŋʌ-su}   &	\grise{} &	   &	\grise{} &	   &	\grise{} &	\grise{} &	\grise{} &	 \multicolumn{3}{c|}{\ipa{ʔi-R-i} }	   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2p} & 	\ipa{ʔi-R-ŋʌ-nu}   &	\grise{} &	   &	\grise{} &	   &	\grise{} &	\grise{} &	\grise{} &	\multicolumn{3}{c|}{\ipa{ʔi-R-ni}}	   \\	
+\cline{2-3}	
+\cline{5-5}	
+\cline{7-12}
+\textsc{3s} & 	\ipa{ʔi-R-ŋʌ}   &	   &	   &	   &	   &	   &	   &	   &	\ipa{R-ʉ}   &	   &	   \\	
+\cline{2-2}	
+\cline{10-10}
+\textsc{3d} & 	\ipa{ʔi-R-ŋʌ-su}   &	\ipa{ʔi-R-i}   &	\ipa{ʔi-R-u}   &	\ipa{ʔi-R-ki}   &	\ipa{ʔi-R-kʌ}   &	\ipa{ʔi-R}   &	\ipa{ʔi-R-i}   &	\ipa{ʔi-R-ni}   &	  \multicolumn{2}{r|}{\ipa{R-su}}   &	   \\	
+\cline{2-2}	
+\cline{10-11}
+\textsc{3p} & 	\ipa{ʔi-R-ŋʌ-nu}   &	   &	   &	   &	   &	   &	   &	   &	   \multicolumn{3}{r|}{\ipa{R-nu}   } \\	
+\hline
+\end{tabular}}
+\end{table}
+\end{frame} 
+ 
+\begin{frame}
+\frametitle{The Zbu paradigm} 
+\begin{table}[h]
+\caption{Zbu Rgyalrong transitive paradigm (data adapted from \citealt{gongxun12})}\label{tab:zbu.tr}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{l|l|l|l|l|l|l|l|l|l|l}
+\textsc{} & 	\textsc{1sg} & 	  \textsc{1du} & 	\textsc{1pl} & 	\textsc{2sg} & 	\textsc{2du} & 	\textsc{2pl} & 	\textsc{3sg} & 	\textsc{3du} & 	\textsc{3pl} & 	\textsc{3'} \\ 	
+\hline
+\textsc{1sg} & \multicolumn{3}{c|}{\grise{}} &	\ipa{} & 	\ipa{} & 	\ipa{} &\cellcolor[wave]{600} 	\ipa{\rc{}-ŋ}   & 	\cellcolor[wave]{600} \ipa{\rc{}-ŋ-ndʑə} & 	\cellcolor[wave]{600} \ipa{\rc{}-ŋ-ɲə} & 	\grise{} \\	
+\cline{8-10}
+\textsc{1du} & 	\multicolumn{3}{c|}{\grise{}} &	\ipa{tɐ-\ra{}} & 	\ipa{tɐ-\ra{}-ndʑə} & 	\ipa{tɐ-\ra{}-ɲə} & 	\multicolumn{3}{c|}{ \ipa{\ra{}-tɕə}}  & 	\grise{} \\	
+\cline{8-10}
+\textsc{1pl} & 	\multicolumn{3}{c|}{\grise{}} & 	  & 	&  & 	\multicolumn{3}{c|}{ \ipa{\ra{}-jə}}  & 	\grise{} \\	
+\cline{1-10}
+\textsc{2sg} & 	\cellcolor[wave]{500}\ipa{tə-wə-\ra{}-ŋ} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\multicolumn{3}{c|}{\grise{}}&	\multicolumn{3}{c|}{\cellcolor[wave]{600}\ipa{tə-\rc{}}} & 	\grise{} \\	
+\cline{2-2}
+\cline{8-10}
+\textsc{2du} & \cellcolor[wave]{500}	\ipa{tə-wə-\ra{}-ŋ-ndʑə} & \cellcolor[wave]{500}	\ipa{tə-wə-\ra{}-tɕə} & 	\cellcolor[wave]{500}\ipa{tə-wə-\ra{}-jə} & 	\multicolumn{3}{c|}{\grise{}} &	\multicolumn{3}{c|}{\ipa{tə-\ra{}-ndʑə}} & 	\grise{} \\	
+\cline{2-2}
+\cline{8-10}
+\textsc{2pl} &\cellcolor[wave]{500} 	\ipa{tə-wə-\ra{}-ŋ-ɲə} & 	\cellcolor[wave]{500} & \cellcolor[wave]{500} & 	\multicolumn{3}{c|}{\grise{}}&	\multicolumn{3}{c|}{\ipa{tə-\ra{}-ɲə}} & 	\grise{} \\	
+\hline
+\textsc{3sg} & \cellcolor[wave]{500} 	\ipa{wə-\ra{}-ŋ} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & \multicolumn{3}{c|}{\grise{}} &	\cellcolor[wave]{600}\ipa{\rc{}} \\ 	
+\cline{2-2}
+\cline{11-11}
+\textsc{3du} &  \cellcolor[wave]{500}	\ipa{wə-\ra{}-ŋ-ndʑə} & 	\cellcolor[wave]{500} \ipa{wə-\ra{}-tɕə} & \cellcolor[wave]{500}		\ipa{wə-\ra{}-jə} & \cellcolor[wave]{500}	\ipa{tə-wə-\ra{}} &\cellcolor[wave]{500}	\ipa{tə-wə-\ra{}-ndʑə} & 	\cellcolor[wave]{500}\ipa{tə-wə-\ra{}-ɲə} & 	\multicolumn{3}{c|}{\grise{}} &	\ipa{\ra{}-ndʑə} \\ 
+\cline{2-2}	
+\cline{11-11}
+\textsc{3pl} &  \cellcolor[wave]{500}	\ipa{wə-\ra{}-ŋ-ɲə} & 	\cellcolor[wave]{500} & \cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & 	\cellcolor[wave]{500} & \multicolumn{3}{c|}{\grise{}} &	\ipa{\ra{}-ɲə} \\ 	
+\hline
+\textsc{3'} & 	\multicolumn{6}{c|}{\grise{}} &\cellcolor[wave]{500}	\ipa{wə-\ra{}} & 	\cellcolor[wave]{500}\ipa{wə-\ra{}-ndʑə} & \cellcolor[wave]{500}	\ipa{wə-\ra{}-ɲə} & 	\grise{} \\	
+	\hline	\hline
+\textsc{intr}&\ipa{\ra{}-ŋ}&\ipa{\ra{}-tɕə}&\ipa{\ra{}-jə}&\ipa{tə-\ra{}}&\ipa{tə-\ra{}-ndʑə}&\ipa{tə-\ra{}-ɲə}&\ipa{\ra{}}&\ipa{\ra{}-ndʑə} &\ipa{\ra{}-ɲə}& 	\grise{} \\	
+	\hline
+\end{tabular}}
+\end{table}
+\end{frame} 
+%
+\begin{frame}
+\frametitle{The Cree paradigm} 
+\begin{table}[h]
+\caption{Plains Cree present paradigms. TA \ipa{wâpam--} ``see" and IA \ipa{pimipahtâ--}``run" (\citealp{wolfart73})}\label{tab:cree.tr} \centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{lllllllll}
+\toprule
+ \backslashbox{A}{P}  & 	1\sg  & 1\textsc{pi} & 1\textsc{pe} &  2\sg & 2\pl  &  3\sg & 3\pl &	3' \\ 
+\midrule
+1\sg   & 	\grise{}   & 	\grise{} &  \grise{} &	\ipa{kiwâpamitin}  & \ipa{kiwâpamitinâwâw}	& \cellcolor[wave]{450}\ipa{niwâpamâw}   & 	\cellcolor[wave]{450}\ipa{niwâpamâwak}  & \cellcolor[wave]{450}	\ipa{niwâpamimâwa}   \\ 
+1\textsc{pi} & \grise{}   &\grise{} & \grise{} & \multicolumn{2}{c}{\grise{}}  & \cellcolor[wave]{450}\ipa{kiwâpamânaw} & \cellcolor[wave]{450}\ipa{kiwâpamânawak}  & \cellcolor[wave]{450}	\ipa{kiwâpamimânawa}   \\ 
+1\textsc{pe} & \grise{}   &\grise{} & \grise{} & \multicolumn{2}{c}{\ipa{kiwâpamitinân}}   & \cellcolor[wave]{450}\ipa{niwâpamânân} & \cellcolor[wave]{450}\ipa{niwâpamânânak}  & \cellcolor[wave]{450}	\ipa{niwâpamimânâna}   \\ 
+
+%\hline
+2\sg   & 	\ipa{kiwâpamin}   & \grise{}& \multirow{2}{*}{\ipa{kiwâpaminân}}	&	\grise{}   &  \grise{} & \cellcolor[wave]{450}\ipa{kiwâpamâw}  & \cellcolor[wave]{450}\ipa{kiwâpamâwak} &\cellcolor[wave]{450} 	\ipa{kiwâpamimâwa}   \\ 
+2\pl  & 	\ipa{kiwâpaminâwâw} & \grise{}& \multirow{-2}{*}{ } & \grise{}  & 	\grise{}   & 	\cellcolor[wave]{450}\ipa{kiwâpamâwâw}  & \cellcolor[wave]{450}\ipa{kiwâpamâwâwak} &\cellcolor[wave]{450} 	\ipa{kiwâpamimâwâwa}   \\
+   %\hline
+3\sg   & 	\cellcolor[wave]{650}\ipa{niwâpamik}   & \cellcolor[wave]{650}\ipa{kiwâpamikonaw} & \cellcolor[wave]{650}\ipa{niwâpamikonân} & \cellcolor[wave]{650}	\ipa{kiwâpamik}  & \cellcolor[wave]{650}	\ipa{kiwâpamikowâw} & \cellcolor[wave]{450}	\grise{}  & \grise{}	 & \cellcolor[wave]{450}	\ipa{wâpam(im)êw}   \\ 
+  % \hline
+3\pl   & 	\cellcolor[wave]{650}\ipa{niwâpamikwak}&  \cellcolor[wave]{650}\ipa{kiwâpamikonawak} & \cellcolor[wave]{650}\ipa{niwâpamikonânak}   & \cellcolor[wave]{650}	\ipa{kiwâpamikwak}   & \cellcolor[wave]{650}	\ipa{kiwâpamikowâwak} & \cellcolor[wave]{450}	\grise{} &	\grise{}  & \cellcolor[wave]{450}	\ipa{wâpam(im)êwak}   \\ 
+  % \hline
+\multirow{2}{*}{3'}   & \multirow{2}{*}{\cellcolor[wave]{650}}  &  \multirow{2}{*}{\cellcolor[wave]{650}}  & \multirow{2}{*}{\cellcolor[wave]{650}} &\cellcolor[wave]{650} &  \multirow{2}{*}{\cellcolor[wave]{650}}  &\multirow{2}{*}{\cellcolor[wave]{650}}   & \multirow{2}{*}{\cellcolor[wave]{650}} & \cellcolor[wave]{450} \ipa{wâpamêyiwa} \\ 
+ \multirow{-2}{*}{} & \multirow{-2}{*}{\cellcolor[wave]{650}\ipa{niwâpamikoyiwa}} & \multirow{-2}{*}{\cellcolor[wave]{650}\ipa{kiwâpamikonawa}}   &  \multirow{-2}{*}{\cellcolor[wave]{650}\ipa{niwâpamikonâna}} &  \multirow{-2}{*}{\cellcolor[wave]{650}\ipa{kiwâpamikoyiwa}} &  \multirow{-2}{*}{\cellcolor[wave]{650}\ipa{kiwâpamikowâwa}}& \multirow{-2}{*}{\cellcolor[wave]{650}\ipa{wâpamik}}  & \multirow{-2}{*}{\cellcolor[wave]{650}\ipa{wâpamikwak}} & \cellcolor[wave]{650} \ipa{wâpamikoyiwa}  \\ 
+\bottomrule
+\textsc{intr} & \ipa{nipimipahtân} & \ipa{ kipimipahtâ(nâ)naw} & \ipa{nipimipahtânân} &\ipa{ kipimipahtân} &\ipa{ kipimipahtânâwâw} & \ipa{pimipahtâw} & \ipa{pimipahtâwak} & \ipa{pimipahtâyiwa} \\
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+%
+%\section{Sahaptian}
+%
+%Sahaptin and Nez Percé (\citealp{Jansen2010}, \citealp{zuniga06}, \citealp{Rude1997})
+%
+\begin{frame}
+\frametitle{The Sahaptin paradigm} 
+
+\begin{table}[H]
+\caption{Sahaptin verb paradigm}
+\centering
+\resizebox{\textwidth}{!}{
+{\footnotesize
+\begin{tabular}{*7{l}}  
+ \toprule %\cline{1-7}
+\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3\sg & 3\pl  \\  
+%\cline{1-7}
+\toprule 1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}} & {\ipa{{\Σ}=mash}} &  & \multicolumn{2}{l}{\ipa{á-{\Σ}=(n)ash}} \\  
+%\cline{4-4} \cline{6-7} 
+1\pl  &  \multicolumn{2}{l}{\cellcolor{lightgray}}  &    \multicolumn{2}{c}{\ipa{{\Σ}=matash}} & \multicolumn{2}{l}{\ipa{á-{\Σ}=(n)atash}}\\  
+%\cline{2-7} 
+2\sg & {\ipa{pá-{\Σ}=(n)am}} & {\ipa{{\Σ}=(n)am}} & \multicolumn{2}{c}{\cellcolor{lightgray}}& \multicolumn{2}{l}{\ipa{á-{\Σ}=(n)am}} \\  
+%\cline{2-7} 
+2\pl & \multicolumn{2}{c}{\ipa{{\Σ}=pam}}  &  \multicolumn{2}{c}{\cellcolor{lightgray}}& \multicolumn{2}{l}{\ipa{á-{\Σ}=pam}}  \\ 
+%\cline{2-7}
+3\sg &  {\ipa{i-{\Σ}=(n)ash}} &  {\ipa{i-{\Σ}=(n)atash}} &  {\ipa{i-{\Σ}=(n)am}} &  {\ipa{i-{\Σ}=pam}}  & \multicolumn{2}{l}{\ipa{i-{\Σ}}}\\
+%\cline{2-7}
+%\cline{2-7}
+3\pl &  {\ipa{pa-{\Σ}=(n)ash}} &  {\ipa{pa-{\Σ}=(n)atash}} &  {\ipa{pa-{\Σ}=(n)am}} &  {\ipa{pa-{\Σ}=pam}}  & \multicolumn{2}{l}{\ipa{á-{\Σ}=pat\textsuperscript{\textsc{hum}}/ pa-{\Σ}}}\\ 
+%\cline{2-7}
+%\cline{2-7}
+3' &  \multicolumn{4}{c}{\cellcolor{lightgray}}  & \multicolumn{2}{l}{\ipa{pá-{\Σ}}}\\
+%\cline{2-7}
+% \cline{1-7}3p &  {\ipa{pa-{\Σ}=(n)ash}} &  {\ipa{pa-{\Σ}=tash}} &  {\ipa{pa-{\Σ}=(n)am}} &  {\ipa{pa-{\Σ}=pam}}  & {\ipa{pa-{\Σ}}\textsuperscript{inanim}}& {\ipa{pa-{\Σ}}\textsuperscript{inanim}}\\ 
+%\cline{1-7}
+\bottomrule
+\textsc{intr} & \ipa{{\Σ}=(n)ash} & \ipa{{\Σ}=(n)atash} & \ipa{{\Σ}=(n)am} & \ipa{{\Σ}=pam}  & \ipa{i-{\Σ}} & \ipa{pa-{\Σ}}\\ 
+\bottomrule
+\end{tabular}}}
+\end{table}
+\end{frame} 
+
+
+\begin{frame}
+\frametitle{The Sahaptin paradigm} 
+\begin{table}[H]
+\caption{Past tense paradigm of \ipa{\underline{k}'inu(n)-} `to see'}
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{lllllll}  
+ %\cline{1-7}
+\toprule
+\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3\sg & 3\pl   \\  
+%\cline{1-7} 
+\toprule
+1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}}& {\ipa{\underline{k}'ínuna=mash}} & & \multicolumn{2}{l}{\ipa{á\underline{k}'inuna=ash}} \\  
+%\cline{4-4} \cline{6-7} 
+1\pl  &  \multicolumn{2}{c}{\cellcolor{lightgray}} &    \multicolumn{2}{c}{\ipa{\underline{k}'ínuna=matash}} & \multicolumn{2}{l}{\ipa{á\underline{k}'inuna=atash}}\\  
+%\cline{2-7}
+2\sg & {\ipa{pá\underline{k}'inuna=am}} & {\ipa{\underline{k}'ínuna=am}} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \multicolumn{2}{l}{\ipa{á\underline{k}'inuna=am}} \\  
+%\cline{2-7}
+2\pl & \multicolumn{2}{c}{\ipa{\underline{k}'ínuna=pam}}  &  \multicolumn{2}{c}{\cellcolor{lightgray}}  & \multicolumn{2}{l}{\ipa{á\underline{k}'inuna=pam}}  \\ 
+%\cline{1-7}
+3\sg &  {\ipa{i\underline{k}'ínuna=ash}} &  {\ipa{i\underline{k}'ínuna=atash}} &  {\ipa{i\underline{k}'ínuna=am}} &  {\ipa{i\underline{k}'ínuna=pam}}  & \multicolumn{2}{l}{{\ipa{i\underline{k}'ínuna}}}\\
+%\cline{1-7}
+%\cline{1-7}
+3\pl &  {\ipa{pa\underline{k}'ínuna=ash}} &  {\ipa{pa\underline{k}'ínuna=atash}} &  {\ipa{pa\underline{k}'ínuna=am}} &  {\ipa{pa\underline{k}'ínuna=pam}}  & \multicolumn{2}{l}{\ipa{ á\underline{k}'inuna=pat\textsuperscript{\textsc{hum}}/ pa\underline{k}'ínuna}}\\ 
+%\cline{1-7}
+%\cline{1-7}
+3' &  \multicolumn{4}{c}{\cellcolor{lightgray}}   & \multicolumn{2}{l}{{\ipa{pá\underline{k}'inuna}}} \\
+%\cline{1-7}
+%\cline{1-7}3p &  {\ipa{pa\underline{k}'ínushaash}} &  {\ipa{pa\underline{k}'ínushaatash}} &  {\ipa{pa\underline{k}'ínushaam}} &  {\ipa{pa\underline{k}'ínushapam}}  & {\ipa{pat á\underline{k}'inusha}}& {\ipa{pat á\underline{k}'inusha}}\\ 
+%\cline{1-7}
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+
+\begin{frame}
+\frametitle{The Nez Percé paradigm} 
+\begin{table}[H]
+\caption{Nez Perce verb paradigm}
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{*7{l}}  
+ \toprule %\cline{1-7}
+\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3 \sg & 3 \pl  \\  
+%\cline{1-7}
+\toprule 1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}} & \ipa{\Σ} & \ipa{nées-\Σ} & \ipa{ʔe-\Σ} & \ipa{ʔe-nées-\Σ}\\  
+%\cline{4-4} \cline{6-7} 
+1\pl  &  \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{pe-\Σ} & \ipa{pe-nées-\Σ} & \ipa{ʔe-pe-\Σ} & \ipa{ʔe-pe-nées-\Σ} \\  
+%\cline{2-7} 
+2\sg &\ipa{\Σ} & \ipa{nées-\Σ} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{ʔe-\Σ} & \ipa{ʔe-nées-\Σ}\\ 
+%\cline{2-7} 
+2\pl &  \ipa{pe-\Σ} & \ipa{pe-nées-\Σ} &  \multicolumn{2}{c}{\cellcolor{lightgray}}& \ipa{ʔe-pe-\Σ} & \ipa{ʔe-pe-nées-\Σ} \\  
+%\cline{2-7}
+3\sg &  \ipa{hi-\Σ} & \ipa{hi-nées-\Σ} & \ipa{hi-\Σ} & \ipa{hi-nées-\Σ}  & \ipa{pée-\Σ} & \ipa{hi-nées-\Σ}\\
+%\cline{2-7}
+%\cline{2-7}
+3\pl &  \ipa{hi-pe-\Σ}& \ipa{hi-pe-nées-\Σ} &  \ipa{hi-pe-\Σ} & \ipa{hi-pe-nées-\Σ}  & \ipa{hi-pe-\Σ} & \ipa{hi-pe-nées-\Σ}\\ 
+%\cline{2-7}
+%\cline{2-7}
+%3' &  \multicolumn{4}{c}{\cellcolor{lightgray}}  & \multicolumn{2}{c}{\ipa{pá-{\Σ}}}\\
+%\cline{2-7}
+% \cline{1-7}3p &  {\ipa{pa-{\Σ}=(n)ash}} &  {\ipa{pa-{\Σ}=tash}} &  {\ipa{pa-{\Σ}=(n)am}} &  {\ipa{pa-{\Σ}=pam}}  & {\ipa{pa-{\Σ}}\textsuperscript{inanim}}& {\ipa{pa-{\Σ}}\textsuperscript{inanim}}\\ 
+%\cline{1-7}
+\bottomrule
+\textsc{intr} &  \ipa{\Σ} & \ipa{pe-\Σ} & \ipa{\Σ} & \ipa{pe-\Σ}  & \ipa{hi-\Σ} & \ipa{hi-pe-\Σ}\\
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+%
+
+\begin{frame}
+\frametitle{The Nez Percé paradigm} 
+\begin{table}[H]
+\caption{Past tense paradigm of \ipa{hekí-} `see'}
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{*7{l}}  
+ \toprule %\cline{1-7}
+\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3 \sg & 3 \pl  \\  
+%\cline{1-7}
+\toprule 1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}} & \ipa{héexne} & \ipa{nées-exne} & \cellcolor[wave]{450}\ipa{ʔe-héxne} & \cellcolor[wave]{450}\ipa{ʔe-nées-exne}\\  
+%\cline{4-4} \cline{6-7} 
+1\pl  &  \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{pe-héxne} & \ipa{pe-nées-exne} & \cellcolor[wave]{450}\ipa{ʔe-pe-héxne} & \cellcolor[wave]{450}\ipa{ʔe-pe-nées-exne} \\  
+%\cline{2-7} 
+2\sg &\cellcolor[wave]{650}\ipa{héexn(im)e} & \cellcolor[wave]{650}\ipa{nées-exn(im)e} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \cellcolor[wave]{450}\ipa{ʔe-héxne} & \cellcolor[wave]{450}\ipa{ʔe-nées-exne}\\ 
+%\cline{2-7} 
+2\pl &  \cellcolor[wave]{650}\ipa{pe-héxn(im)e} & \cellcolor[wave]{650}\ipa{pe-nées-exn(im)e} &  \multicolumn{2}{c}{\cellcolor{lightgray}}& \cellcolor[wave]{450}\ipa{ʔe-pe-héxne} & \cellcolor[wave]{450}\ipa{ʔe-pe-nées-exne} \\  
+%\cline{2-7}
+3\sg &  \ipa{he-héxne} & \ipa{hi-nées-exne} & \ipa{he-héxne} & \ipa{hi-nées-exne}  & \cellcolor{red}\ipa{pé-exne} & \ipa{hi-nées-exne}\\
+%\cline{2-7}
+%\cline{2-7}
+3\pl &  \ipa{hi-pe-héxne}& \ipa{hi-pe-nées-exne} &  \ipa{hi-pe-héxne} & \ipa{hi-pe-nées-exne}  & \ipa{hi-pe-héxne} & \ipa{hi-pe-nées-exne}\\ 
+%\cline{2-7}
+%\cline{2-7}
+%3' &  \multicolumn{4}{c}{\cellcolor{lightgray}}  & \multicolumn{2}{c}{\ipa{pá-{\Σ}}}\\
+%\cline{2-7}
+% \cline{1-7}3p &  {\ipa{pa-{\Σ}=(n)ash}} &  {\ipa{pa-{\Σ}=tash}} &  {\ipa{pa-{\Σ}=(n)am}} &  {\ipa{pa-{\Σ}=pam}}  & {\ipa{pa-{\Σ}}\textsuperscript{inanim}}& {\ipa{pa-{\Σ}}\textsuperscript{inanim}}\\ 
+%\cline{1-7}
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+%
+
+\begin{frame}
+\frametitle{The Dargwa paradigm} 
+\begin{table}[H]
+\caption{Icari Dargwa Potential Present verb paradigm of \ipa{=uc-/=urc-} ‘catch’, \ipa{=ax-} ‘go, walk’ (\citealp{sumbatova03})}
+\label{tab:icari2}
+\centering
+\begin{tabular}{*5{c}}
+\toprule
+\backslashbox{A}{P}  &  1 & 2\sg & 2\pl & 3\\\midrule
+1 & \cellcolor{lightgray} &  \cellcolor{red}\ipa{=urc-u-t̄} &  \cellcolor{red}\ipa{=urc-u-t̄-a} &  \cellcolor{blue}\ipa{=urc-i-d}\\
+%1\pl & × & × & × & × & × & ×\\
+2\sg & \cellcolor{green}\ipa{=urc-u-t̄} & \cellcolor{lightgray} &  \cellcolor{lightgray} &  \cellcolor{blue}\ipa{=urc-i-t̄}  \\
+2\pl & \cellcolor{green}\ipa{=urc-u-t̄-a} &  \cellcolor{lightgray} & \cellcolor{lightgray} &  \cellcolor{blue}\ipa{=urc-i-t̄-a} \\
+3 & \cellcolor{green}\ipa{=urc-u-d} &  \cellcolor{green}\ipa{=urc-u-t̄} &  \cellcolor{green}\ipa{=urc-u-t̄-a} & \cellcolor{red}\ipa{=urc-u}\\
+%3\pl & × & × & × & × & × & ×\\
+\bottomrule
+\textsc{intr} & \ipa{=ax-u-d} & \ipa{=ax-u-t̄} & \ipa{=ax-u-t̄-a} & \ipa{=ax-ar}\\
+\bottomrule
+\end{tabular}
+\end{table}
+\end{frame} 
+%
+
+\begin{frame}
+\frametitle{The Chukchi paradigm} 
+ 
+%
+\begin{table}[H]
+\caption{The aorist paradigm (\citealp{dunn99chukchi})}
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{*7{l}}  
+ \toprule %\cline{1-7}
+\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3 \sg & 3 \pl  \\  
+%\cline{1-7}
+\toprule 1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}} & \cellcolor[wave]{450}\ipa{t-{\Σ}-ɣət} & \cellcolor[wave]{450}\ipa{t-{\Σ}-tək} & \cellcolor[wave]{450}\ipa{t-{\Σ}-(ɣʔe)-n} & \cellcolor[wave]{450}\ipa{t-{\Σ}-net}\\  
+%\cline{4-4} \cline{6-7} 
+1\pl  &  \multicolumn{2}{c}{\cellcolor{lightgray}}  & \cellcolor[wave]{450}\ipa{mət-{\Σ}-ɣət} & \cellcolor[wave]{450}\ipa{mət-{\Σ}-tək} & \cellcolor[wave]{450}\ipa{mət-{\Σ}-(ɣʔe)-n} & \cellcolor[wave]{450}\ipa{mət-{\Σ}-net} \\  
+%\cline{2-7} 
+2\sg &\cellcolor[wave]{650}\ipa{ine-{\Σ}-(ɣʔ)-i} & \cellcolor[wave]{650}\ipa{{\Σ}-tku} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \cellcolor[wave]{450}\ipa{{\Σ}-(ɣʔe)-n} & \cellcolor[wave]{450}\ipa{{\Σ}-net}\\ 
+%\cline{2-7} 
+2\pl & \cellcolor[wave]{650} \ipa{ine-{\Σ}-tək} & \cellcolor[wave]{650}\ipa{{\Σ}-tku-tək} &  \multicolumn{2}{c}{\cellcolor{lightgray}}& \multicolumn{2}{c}{\cellcolor[wave]{450}\ipa{{\Σ}-tkə}}\\  
+%\cline{2-7}
+3\sg &  \cellcolor[wave]{650}\ipa{ine-{\Σ}-(ɣʔ)-i} & \cellcolor[wave]{650}\multirow{2}{*}{\ipa{ne-lʔu-mək}} & \cellcolor[wave]{650}\multirow{2}{*}{\ipa{ne-{\Σ}-ɣət}} & \cellcolor[wave]{650}\multirow{2}{*}{\ipa{ne-{\Σ}-tək}}  & \cellcolor[wave]{450}\ipa{{\Σ}-nin} & \cellcolor[wave]{450}\ipa{{\Σ}-ninet}\\
+%\cline{2-7}
+%\cline{2-7}
+3\pl &  \cellcolor[wave]{650}\ipa{ne-{\Σ}-ɣəm} & \cellcolor[wave]{650}\multirow{-2}{*}{\ipa{ne-lʔu-mək}} & \cellcolor[wave]{650}\multirow{-2}{*}{\ipa{ne-{\Σ}-ɣət}} & \cellcolor[wave]{650}\multirow{-2}{*}{\ipa{ne-{\Σ}-tək}} &\cellcolor[wave]{650}\ipa{ne-{\Σ}-(ɣʔe)-n} & \cellcolor[wave]{650}\ipa{ne-{\Σ}-(ɣʔe)-net}\\ 
+%\cline{2-7}
+%\cline{2-7}
+%3' &  \multicolumn{4}{c}{\cellcolor{lightgray}}  & \multicolumn{2}{c}{\ipa{pá-{\Σ}}}\\
+%\cline{2-7}
+% \cline{1-7}3p &  {\ipa{pa-{\Σ}=(n)ash}} &  {\ipa{pa-{\Σ}=tash}} &  {\ipa{pa-{\Σ}=(n)am}} &  {\ipa{pa-{\Σ}=pam}}  & {\ipa{pa-{\Σ}}\textsuperscript{inanim}}& {\ipa{pa-{\Σ}}\textsuperscript{inanim}}\\ 
+%\cline{1-7}
+\bottomrule
+\textsc{intr} &  \ipa{t-{\Σ}-(ɣʔe)-k} & \ipa{mət-{\Σ}-mək} & \ipa{{\Σ}-(ɣʔ)-i} & \ipa{{\Σ}-tək}  & \ipa{{\Σ}-(ɣʔ)-i} & \ipa{{\Σ}-(ɣʔe)-t}\\
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+%
+
+\begin{frame}
+\frametitle{The Chukchi paradigm} 
+\begin{table}[H]
+\caption{The aorist paradigm of \ipa{lʔu-} `to see' (\citealp{dunn99chukchi})}
+\centering
+\resizebox{\textwidth}{!}{
+\begin{tabular}{*7{l}}  
+ \toprule %\cline{1-7}
+\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3 \sg & 3 \pl  \\  
+%\cline{1-7}
+\toprule 1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}} & \cellcolor[wave]{450}\ipa{t-lʔu-ɣət} & \cellcolor[wave]{450}\ipa{t-lʔu-tək} & \cellcolor[wave]{450}\ipa{t-lʔu-ɣʔe-n} & \cellcolor[wave]{450}\ipa{t-lʔu-net}\\  
+%\cline{4-4} \cline{6-7} 
+1\pl  &  \multicolumn{2}{c}{\cellcolor{lightgray}}  & \cellcolor[wave]{450}\ipa{mət-lʔu-ɣət} & \cellcolor[wave]{450}\ipa{mət-lʔu-tək} & \cellcolor[wave]{450}\ipa{mət-lʔu-ɣʔe-n} & \cellcolor[wave]{450}\ipa{mət-lʔu-net} \\  
+%\cline{2-7} 
+2\sg &\cellcolor[wave]{650}\ipa{ine-lʔu-ɣʔi} & \cellcolor[wave]{650}\ipa{lʔu-tku} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \cellcolor[wave]{450}\ipa{lʔu-ɣʔe-n} & \cellcolor[wave]{450}\ipa{lʔu-net}\\ 
+%\cline{2-7} 
+2\pl & \cellcolor[wave]{650} \ipa{ine-lʔu-tək} & \cellcolor[wave]{650}\ipa{lʔu-tku-tək} &  \multicolumn{2}{c}{\cellcolor{lightgray}}& \multicolumn{2}{c}{\cellcolor[wave]{450}\ipa{lʔu-tkə}}\\  
+%\cline{2-7}
+3\sg &  \cellcolor[wave]{650}\ipa{ine-lʔu-ɣʔi} & \cellcolor[wave]{650}\multirow{2}{*}{\ipa{ne-lʔu-mək}} & \cellcolor[wave]{650}\multirow{2}{*}{\ipa{ne-lʔu-ɣət}} & \cellcolor[wave]{650}\multirow{2}{*}{\ipa{ne-lʔu-tək}}  & \cellcolor[wave]{450}\ipa{lʔu-nin} & \cellcolor[wave]{450}\ipa{lʔu-ninet}\\
+%\cline{2-7}
+%\cline{2-7}
+3\pl &  \cellcolor[wave]{650}\ipa{ne-lʔu-ɣəm} & \cellcolor[wave]{650}\multirow{-2}{*}{\ipa{ne-lʔu-mək}} & \cellcolor[wave]{650}\multirow{-2}{*}{\ipa{ne-lʔu-ɣət}} & \cellcolor[wave]{650}\multirow{-2}{*}{\ipa{ne-lʔu-tək}} &\cellcolor[wave]{650}\ipa{ne-lʔu-ɣʔe-n} & \cellcolor[wave]{650}\ipa{ne-lʔu-ɣʔe-net}\\ 
+%\cline{2-7}
+%\cline{2-7}
+%3' &  \multicolumn{4}{c}{\cellcolor{lightgray}}  & \multicolumn{2}{c}{\ipa{pá-{\Σ}}}\\
+%\cline{2-7}
+% \cline{1-7}3p &  {\ipa{pa-{\Σ}=(n)ash}} &  {\ipa{pa-{\Σ}=tash}} &  {\ipa{pa-{\Σ}=(n)am}} &  {\ipa{pa-{\Σ}=pam}}  & {\ipa{pa-{\Σ}}\textsuperscript{inanim}}& {\ipa{pa-{\Σ}}\textsuperscript{inanim}}\\ 
+%\cline{1-7}
+%\bottomrule
+%\textsc{intr} &  \ipa{t-{\Σ}-(ɣʔe)-k} & \ipa{mət-{\Σ}-mək} & \ipa{{\Σ}-(ɣʔ)-i} & \ipa{{\Σ}-tək}  & \ipa{{\Σ}-(ɣʔ)-i} & \ipa{{\Σ}-(ɣʔe)-t}\\
+\bottomrule
+\end{tabular}}
+\end{table}
+\end{frame} 
+%
+%\section{Basque}
+%
+%\begin{table}[H]
+%\caption{The present paradigm of \ipa{ukan} `to have' and \ipa{izan} `to be'}
+%\centering
+%{\footnotesize
+%\begin{tabular}{*7{l}}  
+% \toprule %\cline{1-7}
+%\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3 \sg & 3 \pl  \\  
+%\toprule 1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}} & \ipa{za-it-u-t} & \ipa{za-it-u-z-te-t} & \ipa{d-u-t} & \ipa{d-it-u-t}\\  
+%1\pl  &  \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{za-it-u-gu} & \ipa{za-it-u-z-te-gu} & \ipa{d-u-gu} & \ipa{d-it-u-gu} \\  
+%2\sg &\ipa{na-u-zu} & \ipa{ga-it-u-zu} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{d-u-zu} & \ipa{d-it-u-zu}\\ 
+%2\pl &\ipa{na-u-zue} & \ipa{ga-it-u-zue} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{d-u-zue} & \ipa{d-it-u-zue}\\ 
+%3\sg &  \ipa{na-u} & \ipa{ga-it-u} & \ipa{za-it-u} & \ipa{za-it-u-z-te}  & \ipa{d-u} & \ipa{d-it-u}\\
+%3\pl &  \ipa{na-u-te} & \ipa{ga-it-u-z-te} & \ipa{za-it-u-z-te} & \ipa{za-it-u-z-te-te}  & \ipa{d-u-te} & \ipa{d-it-u-z-te}\\\\ 
+%\bottomrule
+%\textsc{intr} &  \ipa{na-iz} & \ipa{ga-ra} & \ipa{za-ra} & \ipa{za-r-e-te}  & \ipa{da} & \ipa{d-ira}\\
+%\bottomrule
+%\end{tabular}}
+%\end{table}
+%
+%\begin{table}[H]
+%\caption{The present paradigm of \ipa{eraman} `bring' and \ipa{etorri} `arrive'}
+%\centering
+%{\footnotesize
+%\begin{tabular}{*7{l}}  
+% \toprule %\cline{1-7}
+%\backslashbox{A}{P}  &  1\sg  &  1\pl  & 2\sg & 2\pl & 3 \sg & 3 \pl  \\  
+%\toprule 1\sg  &   \multicolumn{2}{c}{\cellcolor{lightgray}} & \ipa{ha-rama-t} & \ipa{za-rama-tza/zte-t} & \ipa{da-rama-t} & \ipa{da-rama-tza-t}\\  
+%1\pl  &  \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{ha-rama-gu} & \ipa{za-rama-tza/zte-gu} & \ipa{da-rama-gu} & \ipa{da-rama-tza-gu} \\  
+%2\sg &\ipa{na-rama-k/n} & \ipa{ga-rama-tza-k/n} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{da-rama-k/n} & \ipa{da-rama-tza-k/n}\\ 
+%2\pl &\ipa{na-rama-zu(e)} & \ipa{ga-rama-tza-zu(e)} & \multicolumn{2}{c}{\cellcolor{lightgray}}  & \ipa{da-rama-zu(e)} & \ipa{da-rama-tza-zu(e)}\\ 
+%3\sg &  \ipa{na-rama} & \ipa{ga-rama-tza} & \ipa{ha-rama} & \ipa{za-rama-tza/zte}  & \ipa{da-rama} & \ipa{da-rama-tza}\\
+%3\pl &  \ipa{na-rama-te} & \ipa{ga-rama-tza-te} & \ipa{ha-rama-te} & \ipa{za-rama-tza/zte-te}  & \ipa{da-rama-te} & \ipa{da-rama-tza-te}\\\\ 
+%\bottomrule
+%\textsc{intr} &  \ipa{na-tor} & \ipa{ga-to-z} & \ipa{ha-tor} & \ipa{za-to-z(te)}  & \ipa{da-tor} & \ipa{da-to-z}\\
+%\bottomrule
+%\end{tabular}}
+%\end{table}
+%
+ 
+\end{document}
