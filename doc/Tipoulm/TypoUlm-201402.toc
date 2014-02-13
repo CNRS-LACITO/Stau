@@ -10,3 +10,4 @@
 \beamer@subsectionintoc {5}{1}{Quelques syst\IeC {\`e}mes habituellement analys\IeC {\'e}s comme relevant du direct/inverse}{19}{0}{4}
 \beamer@subsectionintoc {5}{2}{Les exemples de syst\IeC {\`e}mes \IeC {\`a} direct/inverse face au canon}{20}{0}{4}
 \beamer@subsectionintoc {5}{3}{\IeC {\'E}valuation canonique du statut de syst\IeC {\`e}me \IeC {\`a} direct/inverse}{21}{0}{4}
+\beamer@sectionintoc {6}{Conclusion and perspectives}{23}{0}{5}
