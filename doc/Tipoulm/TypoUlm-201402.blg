@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: TypoUlm-201402.aux
 The style file: apalike.bst
 Database file #1: these.bib
-You've used 21 entries,
+You've used 23 entries,
             1935 wiz_defined-function locations,
-            602 strings with 6946 characters,
-and the built_in function-call counts, 7969 in all, are:
-= -- 790
-> -- 253
-< -- 28
-+ -- 75
-- -- 75
-* -- 569
-:= -- 1374
-add.period$ -- 74
-call.type$ -- 21
-change.case$ -- 129
-chr.to.int$ -- 21
-cite$ -- 21
-duplicate$ -- 369
-empty$ -- 618
-format.name$ -- 102
-if$ -- 1658
+            614 strings with 7179 characters,
+and the built_in function-call counts, 8628 in all, are:
+= -- 856
+> -- 273
+< -- 30
++ -- 81
+- -- 81
+* -- 618
+:= -- 1494
+add.period$ -- 81
+call.type$ -- 23
+change.case$ -- 142
+chr.to.int$ -- 23
+cite$ -- 23
+duplicate$ -- 396
+empty$ -- 666
+format.name$ -- 112
+if$ -- 1787
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 21
-newline$ -- 110
-num.names$ -- 75
-pop$ -- 130
+missing$ -- 23
+newline$ -- 121
+num.names$ -- 81
+pop$ -- 138
 preamble$ -- 1
-purify$ -- 136
+purify$ -- 149
 quote$ -- 0
-skip$ -- 281
+skip$ -- 303
 stack$ -- 0
-substring$ -- 482
-swap$ -- 74
+substring$ -- 524
+swap$ -- 76
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 114
+type$ -- 126
 warning$ -- 0
-while$ -- 66
+while$ -- 71
 width$ -- 0
-write$ -- 291
+write$ -- 318
