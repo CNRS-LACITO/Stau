@@ -20,6 +20,11 @@ Baerman, M., Corbett, G.~G., and Brown, D., editors (2010).
 \newblock {\em Defective Paradigms: Missing Forms and What They Tell Us}.
 \newblock Oxford University Press.
 
+\bibitem[Baerman et~al., 2007]{baerman07bookdepo}
+Baerman, M., Corbett, G.~G., Brown, D., and Hippisley, A., editors (2007).
+\newblock {\em {D}eponency and {M}orphological {M}ismatches}.
+\newblock Oxford University Press.
+
 \bibitem[Bonami and Boy\'e, 2010]{bonami10}
 Bonami, O. and Boy\'e, G. (2010).
 \newblock La morphologie flexionnelle est-elle une fonction?
@@ -116,5 +121,11 @@ Wurzel, W.~U. (1989).
 Zauner, A. (1973).
 \newblock {\em Praktická príručka slovenského pravopisu}.
 \newblock Vydavaťeľstvo Osveta, Martin, Slovaquie.
+
+\bibitem[Zúñiga, 2006]{zuniga06}
+Zúñiga, F. (2006).
+\newblock {\em {D}eixis and {A}lignment - {I}nverse systems in indigenous
+  languages of the {A}mericas}.
+\newblock Amsterdam: Benjamins.
 
 \end{thebibliography}

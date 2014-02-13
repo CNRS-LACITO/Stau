@@ -3,46 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: TypoUlm-201402.aux
 The style file: apalike.bst
 Database file #1: these.bib
-Warning--I didn't find a database entry for "baerman07bookdepo"
-You've used 19 entries,
+You've used 21 entries,
             1935 wiz_defined-function locations,
-            598 strings with 6814 characters,
-and the built_in function-call counts, 7309 in all, are:
-= -- 733
-> -- 222
-< -- 27
-+ -- 65
-- -- 65
-* -- 520
-:= -- 1253
-add.period$ -- 68
-call.type$ -- 19
-change.case$ -- 116
-chr.to.int$ -- 19
-cite$ -- 19
-duplicate$ -- 339
-empty$ -- 568
-format.name$ -- 90
-if$ -- 1530
+            602 strings with 6946 characters,
+and the built_in function-call counts, 7969 in all, are:
+= -- 790
+> -- 253
+< -- 28
++ -- 75
+- -- 75
+* -- 569
+:= -- 1374
+add.period$ -- 74
+call.type$ -- 21
+change.case$ -- 129
+chr.to.int$ -- 21
+cite$ -- 21
+duplicate$ -- 369
+empty$ -- 618
+format.name$ -- 102
+if$ -- 1658
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 18
-newline$ -- 100
-num.names$ -- 68
-pop$ -- 110
+missing$ -- 21
+newline$ -- 110
+num.names$ -- 75
+pop$ -- 130
 preamble$ -- 1
-purify$ -- 121
+purify$ -- 136
 quote$ -- 0
-skip$ -- 262
+skip$ -- 281
 stack$ -- 0
-substring$ -- 458
-swap$ -- 72
+substring$ -- 482
+swap$ -- 74
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 106
+type$ -- 114
 warning$ -- 0
-while$ -- 62
+while$ -- 66
 width$ -- 0
-write$ -- 267
-(There was 1 warning)
+write$ -- 291
