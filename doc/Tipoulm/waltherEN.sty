@@ -1,0 +1,314 @@
+\iffalse
+%%%%PACKAGES
+\usepackage{tlingmacros}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{mathrsfs}
+\usepackage{multirow}
+\usepackage{url}
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{theorem}
+\usepackage{tipa}
+\usepackage{color}
+
+
+\usepackage{colortbl}
+
+\usepackage{subfigure}
+\usepackage{wrapfig}
+
+\usepackage{tikz}
+
+\fi
+
+%%%%%SPECIAL ALPHABETS AND FONTS
+\iffalse
+\newcommand{\fa}[1]{
+\setmainfont[Script=Arabic,Language=Persan]{Times New Roman}%{Code2000}
+\beginR#1\endR%
+\setmainfont[AutoFakeSlant=0.2]{TeX Gyre Termes}
+}
+
+
+\newcommand{\ipa}[1]{
+\setmainfont[Script=Latin]{Times New Roman}%{Code2000}
+\textipa{#1}%
+\setmainfont[Scale=MatchLowercase]{Garamond}
+}
+
+\fi
+
+
+
+%%%%%%%%shortcuts
+
+\newcommand{\glose}[1]{{\textsc{#1}}}
+
+\def\etal{{\em et al.}\xspace}
+\def\vs{{\em vs.}\xspace}
+\def\etc{{\em etc.}\xspace}
+\def\TAM{{TAM}\xspace}
+\def\tam{\emph{Tense-Aspect-Mood}\xspace}
+
+
+\def\cantyp{{\em Canonical Typology}\xspace}
+\def\wandp{{\em Word and Paradigm}\xspace}
+
+\newcommand{\quotel}[1]{\emph{#1}}
+\newcommand{\notem}[1]{[{\tt #1}]}
+\newcommand{\discrel}[1]{\emph{\textsc{#1}}}
+\newcommand{\traduc}[1]{\og \emph{#1}\fg} %% pour avoir solution unique
+                                %% pour traductions de mot: par ex:
+                                %% "gerade (lit. \traduc{tout droit})"
+
+\newcommand\nb[1]{\{#1\}}
+
+\newcommand\redcolor[1]{\textcolor{red}{#1}}
+
+
+\def\ua{\mbox{$\uparrow$}\xspace}
+\def\da{\mbox{$\downarrow$}\xspace}
+\def\ra{\mbox{$\rightarrow$}\xspace}
+\def\sra{\mbox{$\,\rightarrow\,$}\xspace}
+\newcommand\ith[1]{${#1}^{\mbox{\scriptsize th}}$}
+\newcommand\mycite[1]{{\color{bluegrey}\small{}[#1]}}
+
+
+%%%%%%Frameworks
+\def\frmg{FRMG}
+
+\newcommand{\PFM}{\emph{PFM}\xspace}
+\newcommand{\pfm}{\emph{Paradigm Function Morphology}\xspace}
+\newcommand{\HPSG}{\emph{HPSG}\xspace}
+\newcommand{\SBCG}{\emph{SBCG}\xspace}
+\newcommand{\LFG}{\emph{LFG}\xspace}
+\newcommand{\network}{\emph{Network Morphology}\xspace}
+
+\newcommand{\RST}{\emph{RST}\xspace}
+\newcommand{\DRT}{\emph{DRT}\xspace}
+\newcommand{\SDRT}{\emph{SDRT}\xspace}
+\newcommand{\SDRSs}{\emph{SDRS}\xspace}
+\newcommand{\DRSs}{\emph{DRS}\xspace}
+
+
+%%%%%Institutions and labs
+\def\alpage{Alpage\xspace}
+
+
+%%%%Projects
+\def\pergram{PerGram\xspace}
+\def\edylex{EDyLex\xspace}
+
+
+%%%%%%NLP tools and ressources
+\def\sxlfg{\textsc{SxLfg}}
+\def\trale{{\sc trale}\xspace}
+\def\sxpipe{\textsc{Sx}Pipe\xspace}
+\def\melt{\textrm{MElt}\xspace}
+\def\meltfa{\textrm{MElt$_{\rm fa}$}\xspace}
+\def\sxpipefa{\textsc{Sx}Pipe$_{\rm fa}$\xspace}
+
+\def\sxspell{\textsc{Sx}Spell\xspace}
+\def\texttodag{\textsc{text2dag}\xspace}
+
+\def\datr{\tt{\sc datr}\xspace}
+
+%%%%%Lexica
+\def\alexina{{Alexina}\xspace}
+
+\def\soralex{SoraLex\xspace}
+\def\perlex{PerLex\xspace}
+\def\lefff{\mbox{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-2pt}\textit{f}\xspace}}
+\def\leffe{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-1.6pt}\textrm{e}\xspace}
+\def\leffga{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-1.6pt}\textrm{ga}\xspace}
+
+\def\maltlex{MaltLex\xspace}
+\def\kurlex{KurLex\xspace}
+\def\enlex{EnLex\xspace}
+\def\pollex{PolLex\xspace}
+\def\sklex{SkLex\xspace}
+\def\delex{DeLex\xspace}
+\def\leffga{\textrm{Le}\textit{f{}f}ga\xspace}
+
+%%%%Morphological notions
+\def\pei{{\sc pe1}\xspace}
+\def\peii{{\sc pe2}\xspace}
+\def\peiii{{\sc pe3}\xspace}
+\def\si{{\sc stem1}\xspace}
+\def\sii{{\sc stem2}\xspace}
+\def\siii{{\sc stem3}\xspace}
+\def\siv{{\sc stem4}\xspace}
+\def\sv{{\sc stem5}\xspace}
+\def\svi{{\sc stem6}\xspace}
+
+\def\infli{\textsc{i-zone1}\xspace}
+\def\inflii{\textsc{i-zone2}\xspace}
+\def\infliii{\textsc{i-zone3}\xspace}
+
+\def\thi{\textsc{th-zone1}\xspace}
+\def\thii{\textsc{th-zone2}\xspace}
+
+\newcommand{\LCR}{\emph{LCR}\xspace}
+\newcommand{\lcrule}{\emph{Lexical Creation Rule}\xspace}
+
+
+\def\bbar{{\scalebox{.75}{\ensuremath{\bar{\rm B}}}}\xspace}
+\def\rbar{{\scalebox{.75}{\ensuremath{\bar{\rm R}}}}\xspace}
+
+
+
+%%%%%%%%PARSLI notions
+
+%\def\stempattern{stem pattern\xspace}
+%\def\stempatterns{stem patterns\xspace}
+\def\fpattern{inflection pattern\xspace}   %patron
+\def\fpatterns{inflection patterns\xspace}
+\def\spattern{stem pattern\xspace}   %patron
+\def\spatterns{stem patterns\xspace}   %patron
+\def\pattern{pattern\xspace}   %patron
+\def\patterns{patterns\xspace}   %patron
+\def\subpattern{subpattern\xspace}
+\def\subpatterns{subpatterns\xspace}
+
+
+%%%%%PARSLI
+
+\input Sanremo.fd
+\newcommand*\initfamily{\usefont{U}{Sanremo}{xl}{n}}
+\def\parsli{{\initfamily parsli}\xspace}
+
+\def\I{\ensuremath{\mathfrak{I}}\xspace}
+
+\def\featset{\ensuremath{\mathscr{K}}\xspace}
+\def\feat{\ensuremath{\varkappa}\xspace}
+\def\featsetI{\ensuremath{\mathscr{K}_\mathfrak{I}}\xspace}
+\def\featsetcatI{\ensuremath{\mathscr{K_{\mathcal{C}_\mathfrak{I}}}}\xspace}
+
+\def\cat{\ensuremath{\mathcal{C}}\xspace}
+\def\catI{\ensuremath{\mathcal{C}_\mathfrak{I}}\xspace}
+\def\catset{\ensuremath{\mathscr{C}}\xspace}
+\def\catsetI{\ensuremath{\mathscr{C}_\mathfrak{I}}\xspace}
+
+\def\f{\ensuremath{\mathrm{f}}\xspace}
+\def\fnxs{\ensuremath{\mathrm{f}}}
+\def\fI{\ensuremath{\mathrm{f}_\mathfrak{I}}\xspace}
+
+\def\zone{\ensuremath{\xi}\xspace}
+\def\zonenxs{\ensuremath{\xi}}
+\def\Zone{\ensuremath{\mathsf{X}}\xspace}
+\def\ZonesetI{\ensuremath{\mathcal{X}_\mathrm{f_\mathfrak{I}}}\xspace}
+\def\Zoneset{\ensuremath{\mathscr{X}}\xspace}
+
+\def\spot{\ensuremath{\delta}\xspace}
+\def\spotnxs{\ensuremath{\delta}}
+\def\Spot{\ensuremath{\mathsf{D}}\xspace}
+\def\SpotsetI{\ensuremath{\mathcal{D}_\mathrm{f_\mathfrak{I}}}\xspace}
+\def\Spotset{\ensuremath{\mathscr{D}}\xspace}
+
+\def\featzone{\ensuremath{\hat{\xi}}\xspace}
+\def\realzone{\ensuremath{\tilde{\xi}}\xspace}
+
+\def\realisation{\ensuremath{\varphi}\xspace}
+
+\def\class{\ensuremath{\digamma}\xspace}
+
+\def\trans{\ensuremath{\mathscr{T}}\xspace}
+\def\transI{\ensuremath{\mathscr{T}_{\chi_\mathfrak{I}}}\xspace}
+\newcommand{\transIdef}[1]{\ensuremath{\mathscr{T}_{\chi_{#1}}}\xspace}
+\def\transSI{\ensuremath{\mathscr{T}_{\psi_\mathfrak{I}}}\xspace}
+\newcommand{\transSIdef}[1]{\ensuremath{\mathscr{T}_{\psi_{#1}}}\xspace}
+
+\def\sI{\ensuremath{\mathrm{s}_\mathfrak{I}}\xspace}
+\def\s{\ensuremath{\mathrm{s}}\xspace}
+\def\snxs{\ensuremath{\mathrm{s}}}
+
+\def\szone{\ensuremath{\zeta}\xspace}
+\def\szonenxs{\ensuremath{\zeta}}
+\def\szonesIfeat{\ensuremath{\zeta_\mathrm{s_\mathfrak{I},\varkappa}}\xspace}
+\def\sZone{\ensuremath{\mathsf{Z}}\xspace}
+\def\sZoneset{\ensuremath{\mathscr{Z}}\xspace}
+\def\sZonesetI{\ensuremath{\mathcal{Z}_\mathrm{s_\mathfrak{I}}}\xspace}
+
+\def\sfeatzone{\ensuremath{\hat{\zeta}}\xspace}
+\def\srealzone{\ensuremath{\tilde{\zeta}}\xspace}
+
+
+\def\sspace{\ensuremath{\beta}\xspace}
+\def\sspacenxs{\ensuremath{\beta}}
+\def\sspacesIfeat{\ensuremath{\beta_\mathrm{s_\mathfrak{I},\varkappa}}\xspace}
+\def\SSpace{\ensuremath{\beta}\xspace}
+\def\sSpaceset{\ensuremath{\mathscr{B}}\xspace}
+\def\sSpacesetI{\ensuremath{\mathcal{B}_\mathrm{s_\mathfrak{I}}}\xspace}
+
+\def\sformation{\ensuremath{\sigma}\xspace}
+\def\sformationnxs{\ensuremath{\sigma}}
+\def\rrule{\ensuremath{\varphi}\xspace}
+\def\rrulenxs{\ensuremath{\varphi}}
+
+\def\SFormation{\ensuremath{\Sigma}\xspace}
+\def\RRule{\ensuremath{\Phi}\xspace}
+
+
+\def\sclass{\ensuremath{\varGamma}\xspace}
+
+\def\inflspace{\ensuremath{\pi}\xspace}
+\def\Inflspace{\ensuremath{\Pi}\xspace}
+
+\def\patt{\ensuremath{P}\xspace}
+\def\pattnxs{\ensuremath{P}}
+\def\pattI{\ensuremath{P _\mathfrak{I}}\xspace}
+
+
+
+\def\form{\ensuremath{\mathfrak{f}}\xspace}
+\def\formnxs{\ensuremath{\mathfrak{f}}}
+\def\para{\ensuremath{\mathfrak{P}}\xspace}
+\def\paranxs{\ensuremath{\mathfrak{P}}}
+\def\paraI{\ensuremath{\mathfrak{P}_\mathfrak{I}}\xspace}
+
+\def\stem{\ensuremath{\mathrm{r}}\xspace}
+\def\phono{\ensuremath{\mathrm{e}}\xspace}
+\def\marking{\ensuremath{\mathrm{m}}\xspace}
+
+\def\Phono{\ensuremath{\mathrm{E}}\xspace}
+\def\Marking{\ensuremath{\mathrm{M}}\xspace}
+\def\Stem{\ensuremath{\mathrm{R}}\xspace}
+
+\def\Form{\ensuremath{\mathfrak{F}}\xspace}
+
+
+\def\depoIndI{\ensuremath{\mathcal{D}_\mathfrak{I}}\xspace}
+\def\heteroIndI{\ensuremath{\mathcal{H_\mathfrak{I}}}\xspace}
+
+
+
+\def\mpm{{\sc mpm}\xspace}
+\def\mpms{{\sc mpm}s\xspace}
+
+%%%%%%%%%COLOURS
+
+\definecolor{lightblue}{rgb}{0.68, 0.85, 0.90}
+\definecolor{lightcyan}{rgb}{0.88, 1, 1}
+\definecolor{verylightorange}{rgb}{1, 0.955, 0.812}
+\definecolor{lightorange}{rgb}{1, 0.882, 0.625}
+\definecolor{lightgrey}{rgb}{0.85, 0.85, 0.85}
+\definecolor{verylightgrey}{rgb}{0.95, 0.95, 0.95}
+\definecolor{lightred}{rgb}{1, 0.6, 0.6}
+\definecolor{verylightred}{rgb}{1, 0.8, 0.8}
+\definecolor{lightgreen}{rgb}{0.6, 1, 0.6}
+
+\definecolor{grey}{rgb}{0.8,0.8,0.8}
+%\definecolor{bluegrey}{rgb}{0.5,0.5,0.7}
+\definecolor{bluegrey}{rgb}{0.2,0.2,0.2}
+
+%%%%%FONTSIZE
+
+
+\def\vtiny{\fontsize{4pt}{4pt}\selectfont} %very tiny
+\def\vvtiny{\fontsize{1pt}{1pt}\selectfont} %very verry tiny
+\def\vvvtiny{\fontsize{0.01pt}{0.01pt}\selectfont} %very verry verrry tiny
+\def\Small{\fontsize{10.5pt}{10.5pt}\selectfont}

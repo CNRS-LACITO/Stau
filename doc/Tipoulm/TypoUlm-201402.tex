@@ -1,0 +1,319 @@
+%%%%%%%Pour le handout
+% \documentclass[xcolor=dvipsnames,table]{article}
+% \usepackage{beamerarticle}
+% \usepackage{fullpage}
+% \linespread{1.3}
+%\usepackage{tlingmacros}
+
+%%%%%%%Pour la présentation
+\documentclass[utf8x]{beamer}
+\usepackage{etex}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{ucs}
+%\usepackage[latin1]{inputenc}
+
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+%\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+\usepackage{mathrsfs}
+\usepackage{multirow}
+\usepackage{multicol,longtable,booktabs} %% pour des tableaux plus compliquées           
+\usepackage{url}
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{theorem}
+\usepackage{fourier}
+\usepackage{tipa}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{GJ}
+\usepackage{walther-pres-en}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{slashbox,pict2e}
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\usepackage{linguex}
+
+\usepackage{subfigure}
+\usepackage{wrapfig}
+%%%%tikz
+%\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows,automata,positioning}
+
+\tikzset{
+    state/.style={
+           rectangle,
+           rounded corners,
+           draw=black, very thick,
+           minimum height=2em,
+           inner sep=2pt,
+           text centered,
+           },
+}
+
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+
+
+
+
+
+% \newlength{\btarrowsize} 
+% \pgfarrowsdeclare{biggertip}{biggertip}{ 
+%  \setlength{\btarrowsize}{0.4pt} 
+%  \addtolength{\btarrowsize}{.5\pgflinewidth} 
+%  \pgfarrowsrightextend{0} 
+%  \pgfarrowsleftextend{-5\btarrowsize} 
+% }{ 
+%  \setlength{\btarrowsize}{0.4pt} 
+%  \addtolength{\btarrowsize}{.5\pgflinewidth} 
+%  \pgfpathmoveto{\pgfpoint{-5\btarrowsize}{4\btarrowsize}} 
+%  \pgfpathlineto{\pgfpointorigin} 
+%  \pgfpathlineto{\pgfpoint{-5\btarrowsize}{-4\btarrowsize}} 
+%  \pgfusepathqstroke 
+% }
+%pour le fichier de translittération:
+% \usepackage{fontspec}
+% \usepackage{xCJK}
+% \usepackage[overlap,CJK]{ruby}	  % Furigana support
+% \renewcommand{\rubysize}{0.5}	  % Furigana size
+% \renewcommand{\rubysep}{-0.3ex}	  % Spacing between Furigana and Kanji
+% \setCJKmainfont{STSong}
+% \setCJKfamilyfont{latin}{Times}
+% \usepackage{xCJK}
+
+
+%%%%%%%%%
+
+\newcommand{\twocolumnblocks}[6]{
+\begin{columns}[onlytextwidth]
+\begin{column}{.48\textwidth}\begin{#1}{#2}#3\end{#1}\end{column}
+\begin{column}{.48\textwidth}\begin{#4}{#5}#6\end{#4}\end{column}
+\end{columns}
+}
+
+\newenvironment{blackwideitemize}{\itemize\addtolength{\itemsep}{6pt}}{\enditemize}
+\newenvironment{wideitemize}{\color{dodgerblue4}\itemize\addtolength{\itemsep}{6pt}}{\enditemize}
+%\newenvironment{wideitemize}{\itemize}{\enditemize}
+\newenvironment{smallwideitemize}{\color{gray11}\small\itemize\addtolength{\itemsep}{4pt}}{\enditemize}
+%\newenvironment{wideitemize}{\itemize}{\enditemize}
+
+\newcolumntype{x}[1]{%
+>{\raggedright\arraybackslash\hspace{0pt}}p{#1}}%
+
+
+%%%bullets:\item<green@1-> A pro item
+\newenvironment{greenenv}{\only{\setbeamercolor{local structure}{fg=green}}}{}
+\newenvironment{orangeenv}{\only{\setbeamercolor{local structure}{fg=orange}}}{}
+\newenvironment{redenv}{\only{\setbeamercolor{local structure}{fg=red}}}{}
+\newenvironment{magentaenv}{\only{\setbeamercolor{local
+      structure}{fg=red}}}{}
+\newenvironment{blueenv}{\only{\setbeamercolor{local structure}{fg=blue}}}{}
+\newenvironment{cyanenv}{\only{\setbeamercolor{local
+      structure}{fg=cyan}}}{}
+
+%%The following code defines the macros \dotuline and \dashuline:
+\usepackage[normalem]{ulem}
+\def\dotuline{\bgroup
+  \ifdim\ULdepth=\maxdimen  % Set depth based on font, if not set already
+   \settodepth\ULdepth{(j}\advance\ULdepth.4pt\fi
+  \markoverwith{\begingroup
+  \advance\ULdepth0.08ex
+  \lower\ULdepth\hbox{\kern.15em .\kern.1em}%
+  \endgroup}\ULon}
+
+\def\dashuline{\bgroup
+  \ifdim\ULdepth=\maxdimen  % Set depth based on font, if not set already
+   \settodepth\ULdepth{(j}\advance\ULdepth.4pt\fi
+  \markoverwith{\kern.15em
+  \vtop{\kern\ULdepth \hrule width .3em}%
+  \kern.15em}\ULon}
+  
+%  \NoAutoSpaceBeforeFDP % utile pour les citations avec :
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%\usetheme{Boadilla}
+\usetheme{CambridgeUS}
+%\usetheme{Singapore}
+%\usetheme{Berlin}
+%\usetheme{AnnArbor}
+\usecolortheme{seagull}
+%\usecolortheme{crane}
+%\usecolortheme{dove}
+%\usecolortheme[0.91,0.59,0.48]{dove}
+%\usefonttheme{professionalfonts}
+%\usecolortheme[RGB={100,175,5}]{structure}
+%\usecolortheme[RGB={0.91,0.59,0.48}]{structure}
+\setbeamertemplate{navigation symbols}{}
+%\setbeamertemplate{items}[circle]
+\setbeamertemplate{blocks}[rounded]
+% Avoid total frame number
+\makeatletter
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.39\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor~~\beamer@ifempty{\insertshortinstitute}{}{(\insertshortinstitute)}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.34\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.28\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+    \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+    \insertframenumber / \inserttotalframenumber\hspace*{2ex} 
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+
+\usefonttheme[stillsansseriftext]{serif}
+
+\setbeamercolor{normal text}{fg=gray11}
+\setbeamerfont{frametitle}{%
+  family=\rmfamily,font=sans}
+\setbeamerfont{section number projected}{%
+  family=\rmfamily,size=\small}
+\setbeamercolor{section number
+  projected}{bg=lightsteelblue1,fg=midnightblue}
+\setbeamercolor{title}{fg=midnightblue}
+\setbeamercolor{title}{bg=white}
+\setbeamercolor{subtitle}{fg=slategray4}
+\setbeamercolor{author}{fg=dodgerblue4}
+\setbeamercolor{institute}{fg=slategrey}
+\setbeamercolor{date}{fg=slategrey}
+\setbeamercolor{frametitle}{fg=midnightblue}
+\setbeamercolor{frametitle}{bg=gray91}
+\setbeamercolor{structure}{fg=dodgerblue4}
+\setbeamercolor{postit}{fg=midnightblue,bg=ghostwhite!20!ghostwhite} % - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%\iffalse
+\AtBeginSection[]
+{
+\begin{frame}[noframenumbering]
+       \frametitle{\darkhighlightiii{Outline}}
+       \tableofcontents[currentsubsection]
+   \end{frame}
+}
+%\fi
+
+\AtBeginSubsection[]
+{
+\begin{frame}[noframenumbering]
+       \frametitle{\darkhighlightiii{Outline}}
+       \tableofcontents[currentsubsection]
+   \end{frame}
+}
+
+% - - Personal macros - - - - - - - - - - - - - - - - - - - - - - - - -
+
+\usepackage{mycolors}
+% \newcommand{\invisibletext}[1]{{\color{white} #1}}
+% \newcommand{\highlighti}[1]{{\color{firebrick} #1}}
+% \newcommand{\highlightii}[1]{{\color{forestgreen} #1}}
+% \newcommand{\highlightiii}[1]{{\color{dodgerblue4} #1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% INCLUDE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\title[Marquage canonique du direct/inverse]{L'inverse canonique}
+  \subtitle{Vers une définition typologique de l'opposition direct/inverse}
+
+\author[Walther/Antonov/Jacques]{G\'eraldine Walther (DDL/EFL-LLF) \&
+  Anton Antonov (EFL-CRLAO) \&~Guillaume
+Jacques (EFL-CRLAO)}
+\institute[EFL/CRLAO/LLF/DDL]{Empirical Foundations of
+  Linguistics (EFL)\\% (1. Laboratoire de Linguistique Formelle (LLF)\\
+% 2. Centre de Recherche Linguistique sur l'Asie Orientale (CRLAO))\\~\\
+% 1.Dynamique du Language (DDL)\\
+~\\
+\url{geraldine.walther@univ-lyon2.fr}\\
+\url{a.antonov@gmail.com}\\
+\url{rgyalrongskad@gmail.com}
+}%
+\date[TypoUlm 14/02/2014]{TypoUlm~~~14 février 2014}
+
+\begin{document}
+
+%\maketitle
+\begin{frame}[noframenumbering]
+  \titlepage
+\end{frame}
+%\begin{frame}
+%\tableofcontents
+%\end{frame}
+
+%\section[Measuring ling. complexity]{The task of measuring language complexity}
+
+\section*{Introduction}
+%\input{complexitymeasures}
+\input{introduction}
+
+\section[Alignement]{Les systèmes d'alignement à travers les langues}
+\input{alignment}
+
+
+\section{L'approche canonique}
+\input{canonicity}
+
+\section{Une définition canonique du marquage direct/inverse}
+\input{direct-inverse-can}
+
+\section{Les faits face au canon}
+\input{direct-inverse-eval}
+
+\section[Conclusion]{Conclusion and perspectives}
+\input{perspectives}
+
+\begin{frame}[t]{}
+\vspace*{3cm}
+\begin{center}
+\Large Thank you!
+\end{center}
+% \vfill
+% {\bf Acknowledgements}
+% \begin{blackwideitemize}
+% \item To the Surrey Morphology Group for hosting me in Jan.-Feb. 2012
+% \begin{itemize}
+% \item and regarding this work, especially to Maris Camilleri for our exciting
+%   collaboration on Maltese!
+% \end{itemize}
+% \item To the European Network on Word Structure NetWordS for allowing
+%   me the exchange grant for my two
+%   months stay at the SMG (grant number 3774)
+% \end{blackwideitemize}
+\end{frame}
+
+%\include{impl}
+%\include{measure}
+%%%%%%%
+% \begin{frame} 
+%  \frametitle{Références}
+%  \tiny
+%  \bibliographystyle{plainnat}
+% \bibliography{bibliogj}
+%  \end{frame}
+% \end{document}
+
+
+%%%%
+\bibliographystyle{apalike}
+%\bibliography{sfcm11}
+\bibliography{these}
+
+
+
+
+
+\end{document}
+
