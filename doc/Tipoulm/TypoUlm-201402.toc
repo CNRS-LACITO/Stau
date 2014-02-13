@@ -5,9 +5,12 @@
 \beamer@subsectionintoc {2}{2}{Encodage des alignements \IeC {\`a} travers les langues du monde}{17}{0}{1}
 \beamer@subsectionintoc {2}{3}{Un exemple de paradigme: le bantawa}{22}{0}{1}
 \beamer@sectionintoc {3}{L'approche canonique}{24}{0}{2}
-\beamer@sectionintoc {4}{Une d\IeC {\'e}finition canonique du marquage direct/inverse}{30}{0}{3}
-\beamer@sectionintoc {5}{Les faits face au canon}{31}{0}{4}
-\beamer@subsectionintoc {5}{1}{Quelques syst\IeC {\`e}mes habituellement analys\IeC {\'e}s comme relevant du direct/inverse}{32}{0}{4}
-\beamer@subsectionintoc {5}{2}{Les exemples de syst\IeC {\`e}mes \IeC {\`a} direct/inverse face au canon}{33}{0}{4}
-\beamer@subsectionintoc {5}{3}{\IeC {\'E}valuation canonique du statut de syst\IeC {\`e}me \IeC {\`a} direct/inverse}{34}{0}{4}
-\beamer@sectionintoc {6}{Conclusion and perspectives}{36}{0}{5}
+\beamer@subsectionintoc {3}{1}{D\IeC {\'e}finir des standards typologiques}{25}{0}{2}
+\beamer@subsectionintoc {3}{2}{La flexion canonique}{32}{0}{2}
+\beamer@subsectionintoc {3}{3}{Les ph\IeC {\'e}nom\IeC {\`e}nes non-canoniques}{43}{0}{2}
+\beamer@sectionintoc {4}{Une d\IeC {\'e}finition canonique du marquage direct/inverse}{69}{0}{3}
+\beamer@sectionintoc {5}{Les faits face au canon}{70}{0}{4}
+\beamer@subsectionintoc {5}{1}{Quelques syst\IeC {\`e}mes habituellement analys\IeC {\'e}s comme relevant du direct/inverse}{71}{0}{4}
+\beamer@subsectionintoc {5}{2}{Les exemples de syst\IeC {\`e}mes \IeC {\`a} direct/inverse face au canon}{72}{0}{4}
+\beamer@subsectionintoc {5}{3}{\IeC {\'E}valuation canonique du statut de syst\IeC {\`e}me \IeC {\`a} direct/inverse}{73}{0}{4}
+\beamer@sectionintoc {6}{Conclusion and perspectives}{75}{0}{5}
