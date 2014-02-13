@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.20pt}
+\select@language {french}
+\beamer@sectionintoc {2}{Les syst\IeC {\`e}mes d'alignement \IeC {\`a} travers les langues}{6}{0}{1}
+\beamer@sectionintoc {3}{L'approche canonique}{7}{0}{2}
+\beamer@sectionintoc {4}{Une d\IeC {\'e}finition canonique du marquage direct/inverse}{12}{0}{3}
+\beamer@sectionintoc {5}{Les faits face au canon}{13}{0}{4}
+\beamer@sectionintoc {6}{Conclusion and perspectives}{14}{0}{5}
