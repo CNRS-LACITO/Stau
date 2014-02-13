@@ -1,0 +1,479 @@
+\iffalse
+\begin{frame}
+\frametitle{Autonomous morphology}
+
+ \begin{blackwideitemize}%\footnotesize
+ \item While morphology can be a means to convey meaning, there are also
+cases where it stands alone. 
+\item Since \cite{aronoff94}, the term {\em morphome} has become a way to
+name units of linguistic representation that are ``forms without
+meaning'', i.e. {\em autonomous morphology}.
+\item In particular, {\em morphomic structures} can be an expression of non-homogeneous
+morphosyntactic feature structures ({\em \mfs}) realising as a
+specific, fixed, set of sound forms.
+ \end{blackwideitemize}
+\end{frame}
+
+\fi
+  
+\begin{frame}
+\frametitle{Analyses of the Khaling verbal system}% en \parsli}
+\begin{wideitemize}\small
+\item Comparing two competing analyses of Khaling (Kiranti) data
+\begin{smallwideitemize}\footnotesize
+\item A classical analysis where each realisation rule directly corresponds to the expression of a set of morphosyntactic properties.
+\item An analysis using opaque morphomic features to account for the internal structure of the Khaling flexional system.
+\end{smallwideitemize}
+\item Comparison of two different strategies: with and without
+  morphomic transfer rules (in coll. w. G. Jacques \& B. Sagot)
+ \begin{smallwideitemize}\footnotesize
+%\item Formalisation, implementation and quantitative evaluation of
+%their descriptive economy.
+\item A study based on data from
+   \cite{jacques12khaling}
+%\item Relying on a formalisation within the \parsli model \cite{walther13phd}
+%\item  Implemented into a 167 verb lexicon using the \alexinaparsli
+ % lexical framework %\cite{sagot13sfcm} 
+%\ra ~ \lighthighlightiii{\khalex}
+%\item Making use of the notion of \alert{tranfer rules} within the \parsli model \cite{walther13phd}\\
+%{\em cf. Paradigm Linkage in PFM, \cite{stump06a}}
+%\item Evaluated through an objective quantitative measure of
+ % descriptive economy (or {\em compactness})
+ \end{smallwideitemize}
+\item {\footnotesize{\em The following slides illustrate our work on positive
+    non-past forms only, but we worked on the whole system}}
+
+\end{wideitemize}
+%\pause
+\end{frame}
+
+
+
+\begin{frame} 
+\frametitle{Khaling verbal inflection}
+\framesubtitle{The present positive subparadigm}
+
+Data from \cite{jacques12khaling}
+
+\begin{center}\small
+{{\textglotstop}i-{lo\^{\textopeno}m}-{\ng}{\textturnv}-su}\\
+\textsc{inv}-catch/\textsc{1}-\textsc{p.1sg}-\textsc{a.du}\\
+\traduc{You$^{\rm du}$ catch me.}\\
+
+%\pause
+~\\
+(also noted \textsc{2du>1sg})
+\end{center}
+
+\begin{table}[H]
+%\caption{Khaling transitive and intransitive paradigms} \label{tab:khaling2}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{C{1cm}|C{2.6cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|}
+
+\textsc{} & 	\textsc{1s} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2s} & 	\textsc{2d} & 	\textsc{2p} & 	\textsc{3s} & 	\textsc{3d} & 	\textsc{3p} \\ 
+\hline	
+\textsc{1s} & 	\multicolumn{5}{c|}{\grise{}} &	{lo\^{\textopeno}m-n{\textepsilon}}   &	{lo\^{\textopeno}m-su}   &	{lo\^{\textopeno}m-nu}   &	{lob-u}   &	{lob-u-su}   &	{lob-u-nu}   \\	
+\cline{7-12}
+\textsc{1di} & \multicolumn{8}{c|}{\grise{}} &	\multicolumn{3}{c|}{ 	{l{\textbaro}p-i} }	   \\	
+\cline{7-12}
+\textsc{1de} & 	\multicolumn{5}{c|}{\grise{}} &		{{\textglotstop}i-lo{\textopeno}p}   &		{{\textglotstop}i-l{\textbaro}p-i}   &	{{\textglotstop}i-lo\^{\textopeno}m-ni}  	 &	 \multicolumn{3}{c|}{ 	{l{\textbaro}p-u} }	   \\	
+\cline{7-12}
+\textsc{1pi} & 	\multicolumn{8}{c|}{\grise{}} &	 \multicolumn{3}{c|}{ {lo{\textopeno}p-ki}}   \\	
+\cline{7-12}
+\textsc{1pe} & 	\multicolumn{5}{c|}{\grise{}} &		{{\textglotstop}i-lo{\textopeno}p}   &		{{\textglotstop}i-l{\textbaro}p-i} 	  &	{{\textglotstop}i-lo\^{\textopeno}m-ni} 	  &\multicolumn{3}{c|}{ {lo{\textopeno}p-k{\textturnv}} }	   \\	
+\cline{2-2}
+\cline{4-4}
+\cline{6-12}
+\textsc{2s} & 	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}  	 &	\grise{} &	 	  &	\grise{} &	  	 &	\grise{} &	\grise{} &	\grise{} &	 {{\textglotstop}i-l\={\textbaro}{\textlengthmark}b-{\textbaru}} 	  &	{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-su}  	 &		{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-nu}   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2d} &	 	\highlighti{\textbf{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}}   &	\grise{} &	 	  &	\grise{} &		   &	\grise{} &	\grise{} &	\grise{} &	 \multicolumn{3}{c|}{ 	{{\textglotstop}i-l{\textbaro}p-i} }	   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2p} & 		{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}   &	\grise{} &	 	  &	\grise{} &	  	 &	\grise{} &	\grise{} &	\grise{} &	\multicolumn{3}{c|}{ 	{{\textglotstop}i-lo\^{\textopeno}m-ni}}	   \\	
+\cline{2-3}	
+\cline{5-5}	
+\cline{7-12}
+\textsc{3s} & 		{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}   &	   	&	  	 &	  	 &		   &		   &	  	 &	 	  &	{l\={\textbaro}{\textlengthmark}b-{\textbaru}}   &	   &	   \\	
+\cline{2-2}	
+\cline{10-10}
+\textsc{3d} &	 	\highlighti{\textbf{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}}   &		{{\textglotstop}i-l{\textbaro}p-i}   &		{{\textglotstop}i-l{\textbaro}p-u}   &		{{\textglotstop}i-lo{\textopeno}p-ki}   &		{{\textglotstop}i-lo{\textopeno}p-k{\textturnv}}   &	{{\textglotstop}i-lo{\textopeno}p} 	  &		{{\textglotstop}i-l{\textbaro}p-i}   &	{{\textglotstop}i-lo\^{\textopeno}m-ni}   &	  \multicolumn{2}{r|}{{l\^{\textbaro}{\textlengthmark}p-su}}   &	   \\	
+\cline{2-2}	
+\cline{10-11}
+\textsc{3p} &	 	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}  	 &	  	 &	   	&	 	  &	 	  &	 	  &		   &	   	&	   \multicolumn{3}{r|}{{l\^{\textbaro}{\textlengthmark}p-nu}   } \\	
+ \hline
+% \textsc{intr}&{so\^{\textopeno}m-{\ng}{\textturnv}}   &	{s{\textbaro}p-i}   &	{s{\textbaro}p-u}   &	{so{\textopeno}p-ki}   &	{so{\textopeno}p-k{\textturnv}}   &		{{\textglotstop}i-so{\textopeno}p}   &		{{\textglotstop}i-s{\textbaro}p-i}   &	{{\textglotstop}i-so\^{\textopeno}m-ni}   &	  	   {so{\textopeno}p}   &	{s{\textbaro}p-i}   &	{so\^{\textopeno}m-nu}   	  	   \\	
+% \hline
+\end{tabular}}
+\end{table} 
+
+%\begin{smallwideitemize}
+%\item Autonomous morphology in Khaling
+%\begin{itemize}
+%\item Direct/inverse marking is no longer completely transparent
+%\item Other syncretisms also contribute to blurring immediate \mfs
+%  expression
+%\end{itemize}
+%\end{smallwideitemize}
+  \end{frame} 
+
+\begin{frame} 
+\frametitle{The structure of  Khaling transitive verbal paradigms} 
+\framesubtitle{Syncretisms across the paradigm \cite{jacques12khaling}}
+%\frametitle{Khaling verbal inflection (data: \cite{jacques12khaling})}
+%\framesubtitle{Autonomous morphology in Khaling verbal morphology}
+
+%Data from \cite{jacques12khaling}
+
+\begin{center}\small
+{{\textglotstop}i-{lo\^{\textopeno}m}-{\ng}{\textturnv}-su}\\
+\textsc{inv}-catch/\textsc{1}-\textsc{p1sg}-\textsc{a2du}\\
+\traduc{You$^{\rm du}$ catch me.}
+\end{center}
+
+\begin{table}[H]
+%\caption{Khaling transitive and intransitive paradigms} \label{tab:khaling2}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{C{1cm}|C{2.5cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|}
+
+\textsc{} & 	\textsc{1s} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2s} & 	\textsc{2d} & 	\textsc{2p} & 	\textsc{3s} & 	\textsc{3d} & 	\textsc{3p} \\ 
+\hline	
+\textsc{1s} & 	\multicolumn{5}{c|}{\grise{}} &	\cellcolor{cadetblue1}{lo\^{\textopeno}m-n{\textepsilon}}   &\cellcolor{cadetblue2}	{lo\^{\textopeno}m-su}   &\cellcolor{cadetblue3}	{lo\^{\textopeno}m-nu}   &\cellcolor{cadetblue4}	{lob-u}   &\cellcolor{turquoise1}	{lob-u-su}   &	\cellcolor{turquoise2}{lob-u-nu}   \\	
+\cline{7-12}
+\textsc{1di} & \multicolumn{8}{c|}{\grise{}} &	\multicolumn{3}{c|}{ \cellcolor{lightcyan3}	{l{\textbaro}p-i} }	   \\	
+\cline{7-12}
+\textsc{1de} & 	\multicolumn{5}{c|}{\grise{}} &\cellcolor{lightsteelblue1}		{{\textglotstop}i-lo{\textopeno}p}   &	\cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i}   &\cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni}  	 &	 \multicolumn{3}{c|}{ \cellcolor{lightcyan4}	{l{\textbaro}p-u} }	   \\	
+\cline{7-12}
+\textsc{1pi} & 	\multicolumn{8}{c|}{\grise{}} &	 \multicolumn{3}{c|}{ \cellcolor{darkslategray1}{lo{\textopeno}p-ki}}   \\	
+\cline{7-12}
+\textsc{1pe} & 	\multicolumn{5}{c|}{\grise{}} &\cellcolor{lightsteelblue1}		{{\textglotstop}i-lo{\textopeno}p}   &	\cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i} 	  &\cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni} 	  &\multicolumn{3}{c|}{ \cellcolor{darkslategray2}{lo{\textopeno}p-k{\textturnv}} }	   \\	
+\cline{2-2}
+\cline{4-4}
+\cline{6-12}
+\textsc{2s} & \cellcolor{lightskyblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}  	 &	\grise{} &	 \cellcolor{lightblue1}	  &	\grise{} &	  \cellcolor{lightblue3}	 &	\grise{} &	\grise{} &	\grise{} &	 \cellcolor{paleturquoise1}{{\textglotstop}i-l\={\textbaro}{\textlengthmark}b-{\textbaru}} 	  &	\cellcolor{paleturquoise2}{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-su}  	 &		\cellcolor{paleturquoise3}{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-nu}   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2d} &	 \cellcolor{lightskyblue2}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &	\grise{} &	 \cellcolor{lightblue1}	  &	\grise{} &	\cellcolor{lightblue3}	   &	\grise{} &	\grise{} &	\grise{} &	 \multicolumn{3}{c|}{ \cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i} }	   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2p} & 	\cellcolor{lightskyblue3}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}   &	\grise{} &	 \cellcolor{lightblue1}	  &	\grise{} &	  \cellcolor{lightblue3}	 &	\grise{} &	\grise{} &	\grise{} &	\multicolumn{3}{c|}{ \cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni}}	   \\	
+\cline{2-3}	
+\cline{5-5}	
+\cline{7-12}
+\textsc{3s} & 	\cellcolor{lightskyblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}   &	  \cellcolor{lightskyblue4} 	&	\cellcolor{lightblue1}  	 &	  \cellcolor{lightblue2}	 &	\cellcolor{lightblue3}	   &\cellcolor{lightsteelblue1}		   &\cellcolor{lightcyan1}	  	 &\cellcolor{lightcyan2}	 	  &\cellcolor{cyan1}	{l\={\textbaro}{\textlengthmark}b-{\textbaru}}   &\cellcolor{cyan2}	   &	\cellcolor{cyan3}   \\	
+\cline{2-2}	
+\cline{10-10}
+\textsc{3d} &	 \cellcolor{lightskyblue2}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &\cellcolor{lightskyblue4}		{{\textglotstop}i-l{\textbaro}p-i}   &	\cellcolor{lightblue1}	{{\textglotstop}i-l{\textbaro}p-u}   &\cellcolor{lightblue2}		{{\textglotstop}i-lo{\textopeno}p-ki}   &	\cellcolor{lightblue3}	{{\textglotstop}i-lo{\textopeno}p-k{\textturnv}}   &\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p} 	  &	\cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i}   &\cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni}   &	  \multicolumn{2}{r|}{\cellcolor{cyan2}{l\^{\textbaro}{\textlengthmark}p-su}}   &	   \cellcolor{cyan3}\\	
+\cline{2-2}	
+\cline{10-11}
+\textsc{3p} &	 \cellcolor{lightskyblue3}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}  	 &	\cellcolor{lightskyblue4}  	 &	\cellcolor{lightblue1}   	&	\cellcolor{lightblue2} 	  &	 \cellcolor{lightblue3}	  &	 \cellcolor{lightsteelblue1}	  &	\cellcolor{lightcyan1}	   &	   \cellcolor{lightcyan2}	&	   \multicolumn{3}{r|}{\cellcolor{cyan3}{l\^{\textbaro}{\textlengthmark}p-nu}   } \\	
+ \hline
+% \textsc{intr}&{so\^{\textopeno}m-{\ng}{\textturnv}}   &	{s{\textbaro}p-i}   &	{s{\textbaro}p-u}   &	{so{\textopeno}p-ki}   &	{so{\textopeno}p-k{\textturnv}}   &		{{\textglotstop}i-so{\textopeno}p}   &		{{\textglotstop}i-s{\textbaro}p-i}   &	{{\textglotstop}i-so\^{\textopeno}m-ni}   &	  	   {so{\textopeno}p}   &	{s{\textbaro}p-i}   &	{so\^{\textopeno}m-nu}   	  	   \\	
+% \hline
+\end{tabular}}
+\end{table} 
+
+\begin{smallwideitemize}
+%\item Autonomous morphology in Khaling
+%\begin{itemize}
+%\item Direct/inverse marking is no longer completely transparent
+\item Syncretisms tend to blur immediate transparent morphosyntactic feature
+  expression
+%\end{itemize}
+\end{smallwideitemize}
+  \end{frame} 
+
+
+
+\begin{frame} 
+%\frametitle{Khaling verbal inflection (data: \cite{jacques12khaling})}
+\frametitle{The structure of  Khaling transitive verbal paradigms} 
+\framesubtitle{Presence of the \textglotstop{}i- inverse prefix \cite{jacques12khaling}}
+%{\footnotesize Data from \cite{jacques12khaling}}
+
+\begin{center}\footnotesize
+{{\textglotstop}i-l{\textbaro}p-u}\\
+\textsc{inv}-catch/\textsc{2}-\textsc{1de>3}\\
+\traduc{He/they catch(es) us$^{\rm du.excl}$.}
+\end{center}
+
+%{{\textglotstop}i-{lo\^{\textopeno}m}-{\ng}{\textturnv}-su}\\
+
+\begin{table}[H]
+%\caption{Khaling transitive and intransitive paradigms} \label{tab:khaling2}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{C{1cm}|C{2.5cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|}
+
+\textsc{} & 	\textsc{1s} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2s} & 	\textsc{2d} & 	\textsc{2p} & 	\textsc{3s} & 	\textsc{3d} & 	\textsc{3p} \\ 
+\hline	
+\textsc{1s} & 	\multicolumn{5}{c|}{\grise{}} &	{lo\^{\textopeno}m-n{\textepsilon}}   &	{lo\^{\textopeno}m-su}   &	{lo\^{\textopeno}m-nu}   &	{lob-u}   &	{lob-u-su}   &	{lob-u-nu}   \\	
+\cline{7-12}
+\textsc{1di} & \multicolumn{8}{c|}{\grise{}} &	\multicolumn{3}{c|}{ 	{l{\textbaro}p-i} }	   \\	
+\cline{7-12}
+\textsc{1de} & 	\multicolumn{5}{c|}{\grise{}} &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni}  	 &	 \multicolumn{3}{c|}{ 	\highlighti{\textbf{l{\textbaro}p-u}} }	   \\	
+\cline{7-12}
+\textsc{1pi} & 	\multicolumn{8}{c|}{\grise{}} &	 \multicolumn{3}{c|}{ {lo{\textopeno}p-ki}}   \\	
+\cline{7-12}
+\textsc{1pe} & 	\multicolumn{5}{c|}{\grise{}} &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i} 	  &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni} 	  &\multicolumn{3}{c|}{ {lo{\textopeno}p-k{\textturnv}} }	   \\	
+\cline{2-2}
+\cline{4-4}
+\cline{6-12}
+\textsc{2s} & 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}  	 &	\grise{} &	 \cellcolor{lightsteelblue1}	  &	\grise{} &	  \cellcolor{lightsteelblue1}	 &	\grise{} &	\grise{} &	\grise{} &	 \cellcolor{lightsteelblue1}	{{\textglotstop}i-l\={\textbaro}{\textlengthmark}b-{\textbaru}} 	  &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-su}  	 &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-nu}   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2d} &	 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &	\grise{} &	 \cellcolor{lightsteelblue1}	  &	\grise{} &	\cellcolor{lightsteelblue1}	   &	\grise{} &	\grise{} &	\grise{} &	 \multicolumn{3}{c|}{ 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i} }	   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2p} & 		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}   &	\grise{} &	 \cellcolor{lightsteelblue1}	  &	\grise{} &	  \cellcolor{lightsteelblue1}	 &	\grise{} &	\grise{} &	\grise{} &	\multicolumn{3}{c|}{ 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni}}	   \\	
+\cline{2-3}	
+\cline{5-5}	
+\cline{7-12}
+\textsc{3s} & 		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}   &\cellcolor{lightsteelblue1}	   	&\cellcolor{lightsteelblue1}	  	 &\cellcolor{lightsteelblue1}	  	 &\cellcolor{lightsteelblue1}		   &	\cellcolor{lightsteelblue1}	   &	\cellcolor{lightsteelblue1}  	 &	 \cellcolor{lightsteelblue1}	  &	{l\={\textbaro}{\textlengthmark}b-{\textbaru}}   &	   &	   \\	
+\cline{2-2}	
+\cline{10-10}
+\textsc{3d} &	 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i}   &		\cellcolor{lightsteelblue1}\highlighti{\textbf{{\textglotstop}i-l{\textbaro}p-u}}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p-ki}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p-k{\textturnv}}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p} 	  &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni}   &	  \multicolumn{2}{r|}{{l\^{\textbaro}{\textlengthmark}p-su}}   &	   \\	
+\cline{2-2}	
+\cline{10-11}
+\textsc{3p} &	 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}  	 &\cellcolor{lightsteelblue1}	  	 &\cellcolor{lightsteelblue1}	   	&\cellcolor{lightsteelblue1}	 	  &\cellcolor{lightsteelblue1}	 	  &\cellcolor{lightsteelblue1}	 	  &\cellcolor{lightsteelblue1}		   &\cellcolor{lightsteelblue1}	   	&	   \multicolumn{3}{r|}{{l\^{\textbaro}{\textlengthmark}p-nu}   } \\	
+ \hline
+% \textsc{intr}&{so\^{\textopeno}m-{\ng}{\textturnv}}   &	{s{\textbaro}p-i}   &	{s{\textbaro}p-u}   &	{so{\textopeno}p-ki}   &	{so{\textopeno}p-k{\textturnv}}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-so{\textopeno}p}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-s{\textbaro}p-i}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-so\^{\textopeno}m-ni}   &	  	   {so{\textopeno}p}   &	{s{\textbaro}p-i}   &	{so\^{\textopeno}m-nu}   	  	   \\	
+% \hline
+\end{tabular}}
+\end{table} 
+
+\begin{smallwideitemize}\footnotesize
+%\item Autonomous morphology in Khaling
+%\begin{itemize}
+\item Direct/inverse marking is no longer completely transparent
+\item Tranfer rule:
+\begin{smallwideitemize}\footnotesize
+\item Direct: \textsc{ag=1sg, ag=1du.incl, 1>3, 3>3}
+\item Inverse: \textsc{ag=2, 1du>2, 1pl>2,3>1, 3>2} \ra prefix {\textglotstop}i-
+\end{smallwideitemize}
+%\item Other syncretisms also contribute to blurring immediate \mfs
+%  expression
+%\end{itemize}
+\end{smallwideitemize}
+
+
+  \end{frame} 
+
+
+\iffalse
+\begin{frame} 
+ \frametitle{The structure of  Khaling transitive verbal paradigms} 
+\framesubtitle{Distribution of the prefix {{\textglotstop}i--}}
+
+{\scriptsize{\tt
+<transfer name="directness">\\
+~~<transferrule source="a1.aSG|a1.aDU.aI|a1.p3|a3.p3" target="dir"/>\\
+~~<transferrule source="a2|a1.aDU.p2|a1.aPL.p2|a3.p1|a3.p2" target="inv"/>\\
+</transfer>
+}}
+
+\begin{table}[H]
+%\caption{Paradigme transitif du khaling} \label{tab:khaling}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{C{1cm}|C{2.5cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|}
+
+\textsc{} & 	\textsc{1s} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2s} & 	\textsc{2d} & 	\textsc{2p} & 	\textsc{3s} & 	\textsc{3d} & 	\textsc{3p} \\ 
+\hline	
+\textsc{1s} & 	\multicolumn{5}{c|}{\grise{}} &	{lo\^{\textopeno}m-n{\textepsilon}}   &	{lo\^{\textopeno}m-su}   &	{lo\^{\textopeno}m-nu}   &	{lob-u}   &	{lob-u-su}   &	{lob-u-nu}   \\	
+\cline{7-12}
+\textsc{1di} & \multicolumn{8}{c|}{\grise{}} &	\multicolumn{3}{c|}{ 	{l{\textbaro}p-i} }	   \\	
+\cline{7-12}
+\textsc{1de} & 	\multicolumn{5}{c|}{\grise{}} &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni}  	 &	 \multicolumn{3}{c|}{ 	{l{\textbaro}p-u} }	   \\	
+\cline{7-12}
+\textsc{1pi} & 	\multicolumn{8}{c|}{\grise{}} &	 \multicolumn{3}{c|}{ {lo{\textopeno}p-ki}}   \\	
+\cline{7-12}
+\textsc{1pe} & 	\multicolumn{5}{c|}{\grise{}} &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i} 	  &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni} 	  &\multicolumn{3}{c|}{ {lo{\textopeno}p-k{\textturnv}} }	   \\	
+\cline{2-2}
+\cline{4-4}
+\cline{6-12}
+\textsc{2s} & 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}  	 &	\grise{} &	 \cellcolor{lightsteelblue1}	  &	\grise{} &	  \cellcolor{lightsteelblue1}	 &	\grise{} &	\grise{} &	\grise{} &	 \cellcolor{lightsteelblue1}	{{\textglotstop}i-l\={\textbaro}{\textlengthmark}b-{\textbaru}} 	  &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-su}  	 &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-nu}   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2d} &	 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &	\grise{} &	 \cellcolor{lightsteelblue1}	  &	\grise{} &	\cellcolor{lightsteelblue1}	   &	\grise{} &	\grise{} &	\grise{} &	 \multicolumn{3}{c|}{ 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i} }	   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2p} & 		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}   &	\grise{} &	 \cellcolor{lightsteelblue1}	  &	\grise{} &	  \cellcolor{lightsteelblue1}	 &	\grise{} &	\grise{} &	\grise{} &	\multicolumn{3}{c|}{ 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni}}	   \\	
+\cline{2-3}	
+\cline{5-5}	
+\cline{7-12}
+\textsc{3s} & 		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}   &\cellcolor{lightsteelblue1}	   	&\cellcolor{lightsteelblue1}	  	 &\cellcolor{lightsteelblue1}	  	 &\cellcolor{lightsteelblue1}		   &	\cellcolor{lightsteelblue1}	   &	\cellcolor{lightsteelblue1}  	 &	 \cellcolor{lightsteelblue1}	  &	{l\={\textbaro}{\textlengthmark}b-{\textbaru}}   &	   &	   \\	
+\cline{2-2}	
+\cline{10-10}
+\textsc{3d} &	 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-u}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p-ki}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p-k{\textturnv}}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p} 	  &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-l{\textbaro}p-i}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-ni}   &	  \multicolumn{2}{r|}{{l\^{\textbaro}{\textlengthmark}p-su}}   &	   \\	
+\cline{2-2}	
+\cline{10-11}
+\textsc{3p} &	 	\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}  	 &\cellcolor{lightsteelblue1}	  	 &\cellcolor{lightsteelblue1}	   	&\cellcolor{lightsteelblue1}	 	  &\cellcolor{lightsteelblue1}	 	  &\cellcolor{lightsteelblue1}	 	  &\cellcolor{lightsteelblue1}		   &\cellcolor{lightsteelblue1}	   	&	   \multicolumn{3}{r|}{{l\^{\textbaro}{\textlengthmark}p-nu}   } \\	
+ \hline
+% \textsc{intr}&{so\^{\textopeno}m-{\ng}{\textturnv}}   &	{s{\textbaro}p-i}   &	{s{\textbaro}p-u}   &	{so{\textopeno}p-ki}   &	{so{\textopeno}p-k{\textturnv}}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-so{\textopeno}p}   &		\cellcolor{lightsteelblue1}	{{\textglotstop}i-s{\textbaro}p-i}   &	\cellcolor{lightsteelblue1}	{{\textglotstop}i-so\^{\textopeno}m-ni}   &	  	   {so{\textopeno}p}   &	{s{\textbaro}p-i}   &	{so\^{\textopeno}m-nu}   	  	   \\	
+% \hline
+\end{tabular}}
+\end{table} 
+  \end{frame} 
+\fi
+
+\begin{frame} 
+\frametitle{The structure of  Khaling transitive verbal paradigms} 
+\framesubtitle{Syncretisms neglecting the \textglotstop{}i- prefix}
+
+% {\scriptsize{\tt
+% ~\\
+% ~\\
+% ~\\
+% ~\\
+% ~\\
+% }}
+
+\begin{table}[H]
+%\caption{Khaling transitive and intransitive
+%paradigms} \label{tab:khaling2}
+\vspace*{-.3cm}
+
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{C{1cm}|C{2.5cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|}
+
+\textsc{} & 	\textsc{1s} & 	\textsc{1di} & 	\textsc{1de} & 	\textsc{1pi} & 	\textsc{1pe} & 	\textsc{2s} & 	\textsc{2d} & 	\textsc{2p} & 	\textsc{3s} & 	\textsc{3d} & 	\textsc{3p} \\ 
+\hline	
+\textsc{1s} &	\multicolumn{5}{c|}{{\grise{}}} &	\cellcolor{hotpink1}{lo\^{\textopeno}m-n{\textepsilon}}   &\cellcolor{hotpink2}	{lo\^{\textopeno}m-su}   &\cellcolor{hotpink3}	{lo\^{\textopeno}m-nu}   &\cellcolor{pink1}	{lob-u}   &\cellcolor{pink2}	{lob-u-su}   &	\cellcolor{pink3}{lob-u-nu}   \\	
+\cline{7-12}
+\textsc{1di} & \multicolumn{8}{c|}{\grise{}} &	\multicolumn{3}{c|}{ \cellcolor{lightskyblue4}	{l{\textbaro}p-i} }	   \\	
+\cline{7-12}
+\textsc{1de} & 	\multicolumn{5}{c|}{\grise{}} &\cellcolor{lightsteelblue1}		{{\textglotstop}i-lo{\textopeno}p}   &	\cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i}   &\cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni}  	 &	 \multicolumn{3}{c|}{ \cellcolor{lightblue1}	{l{\textbaro}p-u} }	   \\	
+\cline{7-12}
+\textsc{1pi} & 	\multicolumn{8}{c|}{\grise{}} &	 \multicolumn{3}{c|}{ \cellcolor{lightblue2}{lo{\textopeno}p-ki}}   \\	
+\cline{7-12}
+\textsc{1pe} & 	\multicolumn{5}{c|}{\grise{}} &\cellcolor{lightsteelblue1}		{{\textglotstop}i-lo{\textopeno}p}   &	\cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i} 	  &\cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni} 	  &\multicolumn{3}{c|}{ \cellcolor{lightblue3}{lo{\textopeno}p-k{\textturnv}} }	   \\	
+\cline{2-2}
+\cline{4-4}
+\cline{6-12}
+\textsc{2s} & \cellcolor{thistle2}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}  	 &	\grise{} &	 \cellcolor{lightblue1}	  &	\grise{} &	  \cellcolor{lightblue3}	 &	\grise{} &	\grise{} &	\grise{} &	 \cellcolor{steelblue1}{{\textglotstop}i-l\={\textbaro}{\textlengthmark}b-{\textbaru}} 	  &	\cellcolor{steelblue2}{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-su}  	 &		\cellcolor{steelblue3}{{\textglotstop}i-l\^{\textbaro}{\textlengthmark}p-nu}   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2d} &	 \cellcolor{thistle3}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &	\grise{} &	 \cellcolor{lightblue1}	  &	\grise{} &	\cellcolor{lightblue3}	   &	\grise{} &	\grise{} &	\grise{} &	 \multicolumn{3}{c|}{ \cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i} }	   \\	
+\cline{2-2}	
+\cline{10-12}
+\textsc{2p} & 	\cellcolor{thistle4}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}   &	\grise{} &	 \cellcolor{lightblue1}	  &	\grise{} &	  \cellcolor{lightblue3}	 &	\grise{} &	\grise{} &	\grise{} &	\multicolumn{3}{c|}{ \cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni}}	   \\	
+\cline{2-3}	
+\cline{5-5}	
+\cline{7-12}
+\textsc{3s} & 	\cellcolor{thistle2}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}}   &	  \cellcolor{lightskyblue4} 	&	\cellcolor{lightblue1}  	 &	  \cellcolor{lightblue2}	 &	\cellcolor{lightblue3}	   &\cellcolor{lightsteelblue1}		   &\cellcolor{lightcyan1}	  	 &\cellcolor{lightcyan2}	 	  &\cellcolor{steelblue1}	{l\={\textbaro}{\textlengthmark}b-{\textbaru}}   &\cellcolor{steelblue2}	   &	\cellcolor{steelblue3}   \\	
+\cline{2-2}	
+\cline{10-10}
+\textsc{3d} &	 \cellcolor{thistle3}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &\cellcolor{lightskyblue4}		{{\textglotstop}i-l{\textbaro}p-i}   &	\cellcolor{lightblue1}	{{\textglotstop}i-l{\textbaro}p-u}   &\cellcolor{lightblue2}		{{\textglotstop}i-lo{\textopeno}p-ki}   &	\cellcolor{lightblue3}	{{\textglotstop}i-lo{\textopeno}p-k{\textturnv}}   &\cellcolor{lightsteelblue1}	{{\textglotstop}i-lo{\textopeno}p} 	  &	\cellcolor{lightcyan1}	{{\textglotstop}i-l{\textbaro}p-i}   &\cellcolor{lightcyan2}	{{\textglotstop}i-lo\^{\textopeno}m-ni}   &	  \multicolumn{2}{r|}{\cellcolor{steelblue2}{l\^{\textbaro}{\textlengthmark}p-su}}   &	   \cellcolor{steelblue3}\\	
+\cline{2-2}	
+\cline{10-11}
+\textsc{3p} &	 \cellcolor{thistle4}	{{\textglotstop}i-lo\^{\textopeno}m-{\ng}{\textturnv}-nu}  	 &	\cellcolor{lightskyblue4}  	 &	\cellcolor{lightblue1}   	&	\cellcolor{lightblue2} 	  &	 \cellcolor{lightblue3}	  &	 \cellcolor{lightsteelblue1}	  &	\cellcolor{lightcyan1}	   &	   \cellcolor{lightcyan2}	&	   \multicolumn{3}{r|}{\cellcolor{steelblue3}{l\^{\textbaro}{\textlengthmark}p-nu}   } \\	
+ \hline
+% \textsc{intr}&{so\^{\textopeno}m-{\ng}{\textturnv}}   &	{s{\textbaro}p-i}   &	{s{\textbaro}p-u}   &	{so{\textopeno}p-ki}   &	{so{\textopeno}p-k{\textturnv}}   &		{{\textglotstop}i-so{\textopeno}p}   &		{{\textglotstop}i-s{\textbaro}p-i}   &	{{\textglotstop}i-so\^{\textopeno}m-ni}   &	  	   {so{\textopeno}p}   &	{s{\textbaro}p-i}   &	{so\^{\textopeno}m-nu}   	  	   \\	
+% \hline
+\end{tabular}}
+\end{table} 
+
+\pause
+\begin{smallwideitemize}
+%\item Autonomous morphology in Khaling
+%\begin{itemize}
+%\item Direct/inverse marking is no longer completely transparent
+\item Remaining syncretisms can be further reduced:\\
+\pause
+%\begin{smallwideitemize}\footnotesize
+%\item 
+\textsc{b: 1du.incl}\\
+%\item 
+\textsc{f: ag=2du}\\
+%\item 
+\textsc{i: 2sg>3s} or \textsc{3s>3s}
+%\end{itemize}
+%\end{smallwideitemize}
+\end{smallwideitemize}
+%   \end{frame} 
+  
+
+\vspace*{-.8cm}
+
+
+%   \begin{frame} 
+%  \frametitle{The structure of  Khaling transitive verbal paradigms} 
+% \framesubtitle{Other morphomic patterns}
+
+% {\scriptsize{\tt 
+%   <transferrule source="a2.aSG.p3.pSG|a3.aSG.p3.pSG" target="I"/>\\
+%   <transferrule source="a2.aSG.p3.pDU|a3.aSG.p3.pDU|a3.aDU.p3.pSG|a3.aDU.p3.pDU" target="J"/>\\
+%   <transferrule source="a2.aSG.p3.pPL|a3.aSG.p3.pPL|a3.aDU.p3.pPL|a3.p3.pPL" target="K"/>
+% }}
+
+\begin{table}[H]
+%\caption{Khaling transitive and intransitive paradigms} \label{tab:khaling2}
+\resizebox{\columnwidth}{!}{
+\begin{tabular}{p{1cm}|C{2.5cm}C{1.5cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.5cm}|C{1.5cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}|C{1.9cm}}
+
+% \textsc{} & 	\multicolumn{2}{c|}{\textsc{a}} & 	\textsc{b} &
+% \textsc{c} & 	\textsc{d} & 	\textsc{e} & 	\textsc{f} &
+% \textsc{g} & 	\textsc{h} & 	\textsc{i} & 	\textsc{j} &
+% \textsc{k} \\ 
+\textsc{x} & 	\textsc{x>1}&\textsc{1>x} & 	\textsc{b} &
+\textsc{c} & 	\textsc{d} & 	\textsc{e} & 	\textsc{f} &
+\textsc{g} & 	\textsc{h} & 	\textsc{i} & 	\textsc{j} &
+\textsc{k} \\ 
+%&	\textsc{}& 	\textsc{} & 	\textsc{} & 	\textsc{} & 	\textsc{} & 	\textsc{} & 	\textsc{} & 	\textsc{} & 	\textsc{} & 	\textsc{} \\
+\hline	
+%\cline{7-12}
+\textsc{2sg} & \cellcolor{thistle2}	{lo\^{\textopeno}m-{\ng}{\textturnv}}  	&	\cellcolor{hotpink1}{lo\^{\textopeno}m-n{\textepsilon}}  &\cellcolor{lightskyblue4}	 &	\cellcolor{lightblue1}	  &\cellcolor{lightblue2}	 &	  \cellcolor{lightblue3} 	 &\cellcolor{lightsteelblue1}	 &	\cellcolor{lightcyan1}	 &\cellcolor{lightcyan2}	 &	\cellcolor{steelblue1}  &	\cellcolor{steelblue2}	 &	\cellcolor{steelblue3}	 \\	
+%\cline{2-2}	
+%\cline{10-12}
+\textsc{2du} &	 \cellcolor{thistle3}	{lo\^{\textopeno}m-{\ng}{\textturnv}-su} &\cellcolor{hotpink2}	{lo\^{\textopeno}m-su}     &\cellcolor{lightskyblue4}	 &\cellcolor{lightblue1}		  &\cellcolor{lightblue2}	 &	 \cellcolor{lightblue3}	   &\cellcolor{lightsteelblue1}	 &	\cellcolor{lightcyan1}	 &	 \cellcolor{lightcyan2}&\cellcolor{steelblue1}	 &\cellcolor{steelblue2}&	  \cellcolor{steelblue3}	  \\	
+%\cline{2-2}	
+%\cline{10-12}
+\textsc{2pl} & 	\cellcolor{thistle4}
+{lo\^{\textopeno}m-{\ng}{\textturnv}-nu}
+&\cellcolor{hotpink3}{lo\^{\textopeno}m-nu}  
+&\cellcolor{lightskyblue4}
+{l{\textbaro}p-i}  	 
+&\cellcolor{lightblue1}
+{l{\textbaro}p-u}  	
+&	\cellcolor{lightblue2}
+{lo{\textopeno}p-ki}   
+&	\cellcolor{lightblue3}
+{lo{\textopeno}p-k{\textturnv}}
+&\cellcolor{lightsteelblue1}	
+{lo{\textopeno}p}
+&	\cellcolor{lightcyan1}	
+{l{\textbaro}p-i}
+&\cellcolor{lightcyan2}	
+{lo\^{\textopeno}m-ni}
+&\cellcolor{steelblue1}
+{l\={\textbaro}{\textlengthmark}b-{\textbaru}}
+&\cellcolor{steelblue2}
+{l\^{\textbaro}{\textlengthmark}p-su}
+&\cellcolor{steelblue3}
+l\^{\textbaro}{\textlengthmark}p-nu \\	
+
+
+%\cline{2-3}	
+%\cline{5-5}	
+%\cline{7-12}
+\textsc{3s} & 	\cellcolor{thistle2}	{lo\^{\textopeno}m-{\ng}{\textturnv}}   &\cellcolor{pink1}	{lob-u} &	  \cellcolor{lightskyblue4}	& \cellcolor{lightblue1}	 &	 \cellcolor{lightblue2} &	\cellcolor{lightblue3}	 &	 \cellcolor{lightsteelblue1} 	 & 	\cellcolor{lightcyan1}	 &	 \cellcolor{lightcyan2} 	 &	\cellcolor{steelblue1}  	  &\cellcolor{steelblue2}&\cellcolor{steelblue3}	     \\	
+%\cline{2-2}	
+%\cline{10-10}
+\textsc{3du} &	 \cellcolor{thistle3}	{lo\^{\textopeno}m-{\ng}{\textturnv}-su}   &\cellcolor{pink2}	{lob-u-su}  &\cellcolor{lightskyblue4}  &\cellcolor{lightblue1}	 &\cellcolor{lightblue2} &\cellcolor{lightblue3} & \cellcolor{lightsteelblue1}	 &	  	\cellcolor{lightcyan1}	 &\cellcolor{lightcyan2}	    &	 \cellcolor{steelblue1} & \cellcolor{steelblue2}&	\cellcolor{steelblue3}	\\	
+%\cline{2-2}	
+%\cline{10-11}
+\textsc{3pl} &	 \cellcolor{thistle4}
+{lo\^{\textopeno}m-{\ng}{\textturnv}-nu} &	\cellcolor{pink3}{lob-u-nu} 
+&\cellcolor{lightskyblue4}
+	 &\cellcolor{lightblue1}	  &\cellcolor{lightblue2}	 &	  \cellcolor{lightblue3} 	 &\cellcolor{lightsteelblue1}	 &	\cellcolor{lightcyan1}	 &\cellcolor{lightcyan2}	 &\cellcolor{steelblue1}	&\cellcolor{steelblue2}&	  	\cellcolor{steelblue3}  \\	
+
+
+
+
+
+ \hline
+% & 	\multicolumn{2}{c}{\textsc{a}} & 	\textsc{b} & 	\textsc{c} & 	\textsc{d} & 	\textsc{e} & 	\textsc{f} & 	\textsc{g} & 	\textsc{h} & 	\textsc{i} & 	\textsc{j} & 	\textsc{k} \\ 
+% \textsc{intr}&{so\^{\textopeno}m-{\ng}{\textturnv}}   &	{s{\textbaro}p-i}   &	{s{\textbaro}p-u}   &	{so{\textopeno}p-ki}   &	{so{\textopeno}p-k{\textturnv}}   &		{{\textglotstop}i-so{\textopeno}p}   &		{{\textglotstop}i-s{\textbaro}p-i}   &	{{\textglotstop}i-so\^{\textopeno}m-ni}   &	  	   {so{\textopeno}p}   &	{s{\textbaro}p-i}   &	{so\^{\textopeno}m-nu}   	  	   \\	
+% \hline
+\end{tabular}}
+\end{table} 
+  \end{frame}       

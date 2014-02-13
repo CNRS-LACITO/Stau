@@ -1,0 +1,1060 @@
+\usepackage{mathrsfs}
+\usepackage{bbm}
+\usepackage{eucal}
+\usepackage{hhline}
+\usepackage{textcomp}
+%\usepackage{rtrees}
+\usepackage{qtree}
+\usepackage{tikz}
+\usepackage{pgf}
+%\usepackage{pgflibraryarrows}
+\usepackage{pgflibrarysnakes}
+\usepackage{rotating}
+%\usepackage{lingmacros}
+\usepackage{avm}
+%\newcommand{\DIM}[1]{\fbox{\uppercase{#1}}}
+%\avmfont{\sc}
+%\avmvalfont{\it}
+%\avmoptions{top}
+%\usepackage{mathptmx}
+\usepackage{afterpage}
+
+\usepackage{epigraph}
+
+%\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{epsfig}
+\usepackage{colortbl}
+\usepackage{enumitem}
+\setitemize{label=\usebeamerfont*{itemize item}%
+  \usebeamercolor[fg]{itemize item}
+  \usebeamertemplate{itemize item}}
+
+%\usepackage{ulem}
+\usepackage[normalem]{ulem}
+
+%%%%
+\renewcommand{\textsc}[1]{{\scriptsize\MakeUppercase{#1}}}
+
+%%% citations complètes dans le texte
+\usepackage{bibentry}
+\nobibliography*
+
+\def\myURL{\url{http://www.linguist.univ-paris-diderot.fr/~gwalther/homepage/Parsli.html}
+  (valable au \today)\xspace}
+\def\URLdate{(valable au \today)\xspace}
+
+%%% concepts
+\def\cantyp{{\em Canonical Typology}\xspace}
+\def\wandp{{\em Word and Paradigm}\xspace}
+
+%% Commandes diverses
+\newcommand{\quotel}[1]{\emph{#1}}
+\newcommand{\notem}[1]{[{\tt #1}]}
+\newcommand{\discrel}[1]{\emph{\textsc{#1}}}
+
+\newcommand{\glose}[1]{{\textsc{#1}}}
+\newcommand{\lex}[1]{{\textsc{#1}}}
+\newcommand{\term}[1]{\emph{#1}}
+
+\newcommand{\myipa}[1]{{{\fontspec{Times New Roman}#1}}}
+%\newcommand{\myipa}[1]{\textipa{\textsf{[#1]}}}
+
+\newcommand{\mytimes}[1]{{{\fontspec{Times New Roman}#1}}}
+
+
+\newcommand{\pfmrule}[1]{{\setmainfont[Scale=MatchUppercase]{Lucida Sans Regular}#1}}
+
+
+\newcommand{\citer}[1]{\begin{quote}``#1''\end{quote}}
+\newcommand{\traduc}[1]{`\emph{#1}'} %% pour avoir solution unique
+                                %% pour traductions de mot: par ex:
+                                %% "gerade (lit. \traduc{tout droit})"
+
+\newcommand{\highlight}[1]{{\color{highlight} #1}}
+\newcommand{\invisibletext}[1]{{\color{white} #1}}
+\newcommand{\highlighti}[1]{{\color{maroon3} #1}}
+\newcommand{\highlightii}[1]{{\color{chartreuse3} #1}}
+\newcommand{\highlightiii}[1]{{\color{dodgerblue4} #1}}
+\newcommand{\highlightiv}[1]{{\color{tomato2} #1}}
+\newcommand{\highlightv}[1]{{\color{slateblue} #1}}
+\newcommand{\lighthighlightiii}[1]{{\color{steelblue4} #1}}%slateblue1
+\newcommand{\vlighthighlightiii}[1]{{\color{dodgerblue3} #1}}
+\newcommand{\darkhighlighti}[1]{{\color{maroon4} #1}}
+\newcommand{\darkhighlightii}[1]{{\color{chartreuse4} #1}}
+\newcommand{\darkhighlightiii}[1]{{\color{midnightblue} #1}}
+\newcommand{\darkhighlightiv}[1]{{\color{tomato4} #1}}
+\newcommand{\highlightg}[1]{{\color{gray11} #1}}
+\newcommand{\shadetext}[1]{{\color{gray71} #1}}
+
+\renewcommand{\definition}[1]{\begin{description}\item[Définition:] #1 \end{description}}
+
+\def\flexique{lexique flexionnel\xspace}
+\def\flexiques{lexiques flexionnels\xspace}
+
+\def\etal{{\em et al.}\xspace}
+\def\vs{{\em vs.}~}
+\def\etc{{\em etc.}~}
+\def\TAM{{TAM}\xspace}
+\def\tam{\emph{Temps-Aspect-Mode}\xspace}
+\def\smgdb{{\em Surrey Morphology Group Database}\xspace}
+\def\smg{{\em Surrey Morphology Group}\xspace}
+
+%flèches
+\def\ua{\mbox{$\uparrow$}\xspace}
+\def\da{\mbox{$\downarrow$}\xspace}
+\def\ra{\mbox{$\rightarrow$}\xspace}
+\def\la{\mbox{$\leftarrow$}\xspace}
+\def\lra{\mbox{$\leftrightarrow$}\xspace}
+\def\sra{\mbox{$\,\rightarrow\,$}\xspace}
+
+
+
+% gloses
+\def\is{\textsc{{\small 1}sg}\xspace}
+\def\iis{\textsc{{\small 2}sg}\xspace}
+\def\iiis{\textsc{{\small 3}sg}\xspace}
+\def\ip{\textsc{{\small 1}pl}\xspace}
+\def\iip{\textsc{{\small 2}pl}\xspace}
+\def\iiip{\textsc{{\small 3}pl}\xspace}
+% Description du sorani
+\def\pe{\textsc{dp}\xspace}
+\def\pei{\textsc{d1}\xspace}
+\def\peii{\textsc{d2}\xspace}
+\def\peiii{\textsc{d3}\xspace}
+\def\mpm{{\sc mpm}\xspace}
+\def\mpms{{\sc mpm}s\xspace}
+
+
+\def\wstem{\textsc{stem}\xspace}
+\def\wStem{\textsc{stem}\xspace}
+\def\si{\textsc{stem1}\xspace}
+\def\sii{\textsc{stem2}\xspace}
+\def\siii{\textsc{stem3}\xspace}
+\def\siv{\textsc{stem4}\xspace}
+\def\sv{\textsc{stem5}\xspace}
+\def\svi{\textsc{stem6}\xspace}
+\def\Si{\textsc{stem~1}\xspace}
+\def\Sii{\textsc{stem~2}\xspace}
+\def\Siii{\textsc{stem~3}\xspace}
+\def\Siv{\textsc{stem~4}\xspace}
+\def\Sv{\textsc{stem~5}\xspace}
+\def\Svi{\textsc{stem~6}\xspace}
+
+\def\infli{\textsc{i-zone1}\xspace}
+\def\inflii{\textsc{i-zone2}\xspace}
+\def\infliii{\textsc{i-zone3}\xspace}
+
+\def\thi{\textsc{th-zone1}\xspace}
+\def\thii{\textsc{th-zone2}\xspace}
+
+
+%ou
+% \def\pe1{PE\textsc{i}}
+% \def\pe2{PE\textsc{ii}}
+% \def\pe3{PE\textsc{iii}}
+% \def\s1{PE\textsc{i}}
+% \def\s2{PE\textsc{ii}}
+
+%Notions particulières
+
+\def\loquor{verbe déponent\xspace}
+\def\loquors{verbes déponents\xspace}
+
+\def\lm{{\loquor mixte}\xspace}
+\def\lms{{\loquors mixtes}\xspace}
+
+\def\lmi{\textsc{dm1}\xspace}
+\def\lmii{\textsc{dm2}\xspace}
+
+% \def\loquor{verbe--\term{loquor}\xspace}
+% \def\loquors{verbes--\term{loquor}\xspace}
+
+% \def\lm{{\loquor mixte}\xspace}
+% \def\lms{{\loquors mixtes}\xspace}
+
+% \def\lmi{\textsc{lm1}\xspace}
+% \def\lmii{\textsc{lm2}\xspace}
+
+
+
+%Éléments du modèle formel
+\def\stempattern{schème radical\xspace}
+\def\stempatterns{schèmes radicaux\xspace}
+\def\fpattern{schème flexionnel\xspace}   %patron
+\def\fpatterns{schèmes flexionnels\xspace}
+\def\pattern{schème\xspace}   %patron
+\def\patterns{schèmes\xspace}   %patron
+\def\subpattern{sous-schème\xspace}
+\def\subpatterns{sous-schèmes\xspace}
+
+%Éléments du modèle formel
+\def\Stempattern{Schème radical\xspace}
+\def\Stempatterns{Schèmes radicaux\xspace}
+\def\Fpattern{Schème flexionnel\xspace}   %patron
+\def\Fpatterns{Schèmes flexionnels\xspace}
+\def\Pattern{Schème\xspace}   %patron
+\def\Patterns{Schèmes\xspace}   %patron
+\def\Subpattern{Sous-schème\xspace}
+\def\Subpatterns{Sous-schèmes\xspace}
+
+\def\morphomicrule{règle morphomique\xspace}
+\def\morphomicrules{règles morphomiques\xspace}
+\def\Morphomicrule{Règle morphomique\xspace}
+\def\Morphomicrules{Règles morphomiques\xspace}
+
+%traits
+\newcommand{\featstructshort}{PTM\xspace}
+\newcommand{\featstructshorts}{PTM\xspace}
+\newcommand{\featstruct}{paquet de traits morphosyntaxiques\xspace}
+\newcommand{\Featstruct}{Paquet de traits morphosyntaxiques\xspace}
+\newcommand{\featstructs}{paquets de traits morphosyntaxiques\xspace}
+\newcommand{\Featstructs}{Paquets de traits morphosyntaxiques\xspace}
+
+\newcommand{\flexcat}{catégorie flexionnelle\xspace}
+\newcommand{\Flexcat}{Catégorie flexionnelle\xspace}
+\newcommand{\flexcats}{catégories flexionnelles\xspace}
+\newcommand{\Flexcats}{Catégories flexionnelles\xspace}
+
+\newcommand{\fsborder}[1]{\{#1\}}
+
+\newcommand{\icat}{\ensuremath{\rm\textsc{i-cat}}\xspace}
+\newcommand{\msf}{\ensuremath{\rm\textsc{msf}}\xspace}
+\newcommand{\iphon}{\ensuremath{\rm\textsc{i-phon}}\xspace}
+\newcommand{\ipat}{\ensuremath{\rm\textsc{i-pat}}\xspace}
+\newcommand{\sstem}{\ensuremath{\rm\textsc{s-stem}}\xspace}
+\newcommand{\sform}{\ensuremath{\rm\textsc{s-form}}\xspace}
+\newcommand{\std}{\ensuremath{\rm\textit{standard}}\xspace}
+
+
+\newcommand{\lexentry}[5]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#1&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+\newcommand{\lexentryphoned}[5]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#5&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+
+\newcommand{\lexentryR}[5]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#1&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+#5
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+\newcommand{\lexentryRphoned}[6]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#6&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+#5
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+
+\newcommand{\lexentryF}[5]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#1&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+#5
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+
+\newcommand{\lexentryFphoned}[6]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#6&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+{\em (vide)}
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+#5
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+\newcommand{\lexentryRF}[6]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#1&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+#5
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+#6
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+\newcommand{\lexentryRFphoned}[7]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&#7&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+#5
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+#6
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+\newcommand{\lexentryStd}[6]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+\multicolumn{2}{|l}{\iphon}&\phinputI&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&#3&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sstem}&$\left|\mbox{\begin{tabular}{lll}
+#5
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\sform}&$\left|\mbox{\begin{tabular}{lll}
+#6
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+
+\newcommand{\catentry}[5]{%
+\begin{tabular}{@{}p{2mm}@{}ll@{}p{2mm}@{}}
+&\multirow{2}{*}{\,\textsc{#1}}&&\\\cline{1-1}\cline{4-4}
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1ex]
+%\multicolumn{2}{|l}{}&&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\icat}&{\it #2}&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l@{}}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\msf}&$\left\{\mbox{\begin{tabular}{lll}
+#3
+\end{tabular}}\right\}$&\multicolumn{1}{@{}l@{}|}{}\\
+\multicolumn{1}{|@{}l}{}&&&\multicolumn{1}{@{}l@{}|}{}\\[-1.6ex]
+\multicolumn{2}{|l}{\ipat}&$\left|\mbox{%
+\renewcommand{\arraystretch}{1.5}%
+\begin{tabular}{llllll}
+#4
+\end{tabular}}\right.$&\multicolumn{1}{@{}l@{}|}{}\\[-1.5ex]
+\multicolumn{1}{|@{}l}{~}&&&\multicolumn{1}{@{}l@{}|}{}\\
+\cline{1-1}\cline{4-4}
+\end{tabular}
+}
+
+\input Sanremo.fd
+\newcommand*\initfamily{\usefont{U}{Sanremo}{xl}{n}}
+\def\parsli{{\initfamily parsli}\xspace}
+
+%opérations
+\newcommand{\spcombine}{\ensuremath{\odot}}
+
+%unités
+\newcommand{\phinput}{\ensuremath{{b}}\xspace}
+\newcommand{\phinputI}{\ensuremath{{b}_\ientry}\xspace}
+\newcommand{\phinputdef}[1]{\ensuremath{{b}_{#1}}\xspace}
+
+
+%\def\ientry{\ensuremath{{i}}\xspace}
+\def\ientry{\ensuremath{{i}}\xspace}
+\newcommand{\ientrydef}[1]{\ensuremath{i_{#1}}\xspace}
+\def\syst{\ensuremath{\mu_{\rm infl}}\xspace}
+\def\flexicon{\ensuremath{\mathscr{I}}\xspace}
+
+%structure du paradigme
+\def\cell{\ensuremath{{C}}\xspace}
+\def\cellfeat{\ensuremath{{C}_{\feat}}\xspace}
+\newcommand{\celldef}[1]{\ensuremath{{C}_{#1}}\xspace}
+
+\def\para{\ensuremath{{P}}\xspace}
+\def\paraI{\ensuremath{{P}_{\ientry}}\xspace}
+\newcommand{\paradef}[1]{\ensuremath{{P}_{#1}}\xspace}
+
+\def\parasize{\ensuremath{\mathbb{S}({P})}\xspace}
+\def\parasizeI{\ensuremath{\mathbb{S}({P}_{\ientry})}\xspace}
+\newcommand{\parasizedef}[1]{\ensuremath{\mathbb{S}({P}_{#1})}\xspace}
+
+
+%traits
+\def\featset{\ensuremath{\Sigma}\xspace}
+\def\featsetI{\ensuremath{\Sigma_i}\xspace}
+\def\featsetcatI{\ensuremath{\Sigma_{\mathcal{C}_i}}\xspace}
+\newcommand{\featsetdef}[1]{\ensuremath{\Sigma_{#1}}\xspace}
+
+
+\def\feat{\ensuremath{\sigma}\xspace}
+\def\nofeat{\ensuremath{\sigma_{\epsilon}}\xspace}
+\def\featI{\ensuremath{\sigma_i}\xspace}
+\newcommand{\featdef}[1]{\ensuremath{\sigma_{{#1}}}\xspace}
+
+\def\partspace{\ensuremath{\pi}\xspace}
+\newcommand{\partspacedef}[1]{\ensuremath{\pi_{{#1}}}\xspace}
+
+
+%catégorie
+\def\cat{\ensuremath{\mathcal{C}}\xspace}
+\def\catI{\ensuremath{\mathcal{C}_i}\xspace}
+\newcommand{\catdef}[1]{\ensuremath{\mathcal{C}_{{#1}}}\xspace}
+\def\catset{\ensuremath{\mathscr{C}}\xspace}
+\def\catsetI{\ensuremath{\mathscr{C}_i}\xspace}
+
+%transfer
+\def\transf{\ensuremath{t}\xspace}
+\def\transI{\ensuremath{{t}_i}\xspace}
+\newcommand{\transdef}[1]{\ensuremath{{t}_{{#1}}}\xspace}
+
+\def\transset{\ensuremath{\mathscr{T}}\xspace}
+\def\transsetI{\ensuremath{\mathscr{T}_{\ientry}}\xspace}
+\newcommand{\transsetdef}[1]{\ensuremath{\mathscr{T}_{#1}}\xspace}
+\newcommand{\transop}[1]{\ensuremath{\mathscr{T}(#1)}\xspace}
+
+
+%pattern
+\def\pat{\ensuremath{\mathbb{P}}\xspace}
+\def\patI{\ensuremath{\mathbb{P}_i}\xspace}
+\newcommand{\patdef}[1]{\ensuremath{\mathbb{P}_{{#1}}}\xspace}
+
+\def\subpat{\ensuremath{\mathbbm{p}}\xspace}
+\def\subpatI{\ensuremath{\mathbbm{p}_i}\xspace}
+\newcommand{\subpatdef}[1]{\ensuremath{\mathbbm{p}_{{#1}}}\xspace}
+
+\def\rcouple{\ensuremath{{p}}\xspace}
+\newcommand{\rcoupledef}[1]{\ensuremath{{p}_{{#1}}}\xspace}
+
+\def\arrange{\ensuremath{\mathbb{A}}\xspace}
+\def\arrangeI{\ensuremath{\mathbb{A}_{\mathfrak{I}}}\xspace}
+\newcommand{\arrangedef}[1]{\ensuremath{\mathbb{A}_{{#1}}}\xspace}
+
+
+%level %relations de sélection de zones
+\def\level{\ensuremath{{l}}\xspace}
+\def\slevel{\ensuremath{{l^\stype}}\xspace}
+\def\thlevel{\ensuremath{{l^\thtype}}\xspace}
+\def\explevel{\ensuremath{{l^\exptype}}\xspace}
+\def\levelset{\ensuremath{\left\{\leveldef{1},\ldots,\leveldef{n}\right\}}\xspace}
+\def\levelsetI{\ensuremath{\left\{\leveldef{\ientry,1},\ldots,\leveldef{\ientry,n}\right\}}\xspace}
+\def\levelsetcatI{\ensuremath{\left\{\leveldef{\catI,1},\ldots,\leveldef{\catI,n}\right\}}\xspace}
+\newcommand{\leveldef}[1]{\ensuremath{{l}_{{#1}}}\xspace}
+%\newcommand{\levelsetdef}[1]{\ensuremath{\left\{\leveldef{#1,1},\ldots,\leveldef{#1,n}\right\}}\xspace}
+\newcommand{\sleveldef}[1]{\ensuremath{{\slevel}_{{#1}}}\xspace}
+\newcommand{\thleveldef}[1]{\ensuremath{{\thlevel}_{{#1}}}\xspace}
+\newcommand{\expleveldef}[1]{\ensuremath{{\explevel}_{{#1}}}\xspace}
+\newcommand{\levelsetdef}[1]{\ensuremath{\left\{\leveldef{#1,1},\ldots,\leveldef{#1,n}\right\}}\xspace}
+
+%\def\levelI{\ensuremath{\mathbb{L}_{\level}(i)}\xspace}
+%\newcommand{\levelIdef}[2]{\ensuremath{\mathbb{L}_{{#1}}(#2)}\xspace}
+
+\def\levelrule{\ensuremath{\mathbb{L}_\level}\xspace}
+\def\levelruleI{\ensuremath{\mathbb{L}_\level^{i}}\xspace}
+\newcommand{\levelruledef}[2]{\ensuremath{\mathbb{L}_{#1}^{#2}}\xspace}
+\newcommand{\levelruledefappl}[3]{\ensuremath{\mathbb{L}_{#1}^{#2}(#3)}\xspace}
+%\newcommand{\slevelruledef}[3]{\ensuremath{\mathbb{L}_{#1}{#2}(#3)}\xspace}
+\def\thlevelruleI{\ensuremath{\mathbb{L}^\ientry_{\thlevel}}\xspace}
+\def\explevelruleI{\ensuremath{\mathbb{L}^\ientry_{\explevel}}\xspace}
+\def\slevelruleI{\ensuremath{\mathbb{L}^\ientry_{\slevel}}\xspace}
+%\newcommand{\explevelruledef}[2]{\ensuremath{\mathbb{L}^\exptype_{{#1}}(#2)}\xspace}
+
+\def\levelruleset{\ensuremath{\left\{\mathbb{L}_{\leveldef{1}},\ldots,\mathbb{L}_{\leveldef{n}}\right\}}\xspace}
+\def\levelrulesetI{\ensuremath{\left\{\mathbb{L}_{\leveldef{1}}^\ientry,\ldots,\mathbb{L}_{\leveldef{n}}^\ientry\right\}}\xspace}
+\def\slevelrulesetI{\ensuremath{\left\{\mathbb{L}_{\sleveldef{1}}^\ientry,\ldots,\mathbb{L}_{\sleveldef{n}}^\ientry\right\}}\xspace}
+\def\levelrulesetcatI{\ensuremath{\left\{\mathbb{L}^{\mathcal{C}_{i}}_{\leveldef{1}}({\featsetcatI}),\ldots,\mathbb{L}^{\mathcal{C}_{i}}_{\leveldef{n}}({\featsetcatI})\right\}}\xspace}
+\def\slevelrulesetcatI{\ensuremath{\left\{\mathbb{L}^{\mathcal{C}_{i}}_{\sleveldef{1}}({\featsetcatI}),\ldots,\mathbb{L}^{\mathcal{C}_{i}}_{\sleveldef{n}}({\featsetcatI})\right\}}\xspace}
+\newcommand{\levelrulesetdef}[3]{\ensuremath{\left\{\mathbb{L}^{#1,1}_{#2}({#3}),\ldots,\mathbb{L}^{#1,n}_{#2}({#3})\right\}}\xspace}
+\newcommand{\slevelrulesetdef}[3]{\ensuremath{\left\{\mathbb{L}^{#1,1}_{#2}({#3}),\ldots,\mathbb{L}^{#1,n}_{#2}({#3})\right\}}\xspace}
+
+
+\newcommand{\levelproj}[1]{\ensuremath{{\rm proj}_{#1}}\xspace}
+\newcommand{\levelprojdef}[2]{\ensuremath{{\rm proj}_{#1}(#2)}\xspace}
+
+\def\zonerule{\ensuremath{\mathbb{L}_{\level|Z}}\xspace}
+\def\zoneruleI{\ensuremath{\mathbb{L}_{\level|Z}^{i}}\xspace}
+\newcommand{\zoneruledef}[2]{\ensuremath{\mathbb{L}_{#1|Z}^{#2}}\xspace}
+\newcommand{\zoneruledefappl}[3]{\ensuremath{\mathbb{L}_{#1|Z}^{#2}(#3)}\xspace}
+
+\def\zoneruleset{\ensuremath{\left\{\mathbb{L}_{\leveldef{1}|Z},\ldots,\mathbb{L}_{\leveldef{n}|Z}\right\}}\xspace}
+\def\zonerulesetI{\ensuremath{\left\{\mathbb{L}_{\leveldef{1}|Z}({\featsetI}),\ldots,\mathbb{L}_{\leveldef{n}|Z}({\featsetI})\right\}}\xspace}
+\def\szonerulesetI{\ensuremath{\left\{\mathbb{L}_{\sleveldef{1}|Z}({\featsetI}),\ldots,\mathbb{L}_{\sleveldef{n}|Z}({\featsetI})\right\}}\xspace}
+\def\zonerulesetcatI{\ensuremath{\left\{\mathbb{L}^{\mathcal{C}_{i}}_{\leveldef{1}|Z}({\featsetcatI}),\ldots,\mathbb{L}^{\mathcal{C}_{i}}_{\leveldef{n}|Z}({\featsetcatI})\right\}}\xspace}
+\def\slevelrulesetcatI{\ensuremath{\left\{\mathbb{L}^{\mathcal{C}_{i}}_{\sleveldef{1}|Z}({\featsetcatI}),\ldots,\mathbb{L}^{\mathcal{C}_{i}}_{\sleveldef{n}|Z}({\featsetcatI})\right\}}\xspace}
+\newcommand{\zonerulesetdef}[3]{\ensuremath{\left\{\mathbb{L}^{#1,1}_{#2|Z}({#3}),\ldots,\mathbb{L}^{#1,n}_{#2|Z}({#3})\right\}}\xspace}
+\newcommand{\szonerulesetdef}[3]{\ensuremath{\left\{\mathbb{L}^{#1,1}_{#2|Z}({#3}),\ldots,\mathbb{L}^{#1,n}_{#2|Z}({#3})\right\}}\xspace}
+
+%relations flexion
+\def\relation{\ensuremath{\mathfrak{R}}\xspace}
+\def\realationI{\ensuremath{\mathfrak{R}_{\mathfrak{I}}}\xspace}
+\newcommand{\relationdef}[1]{\ensuremath{\mathfrak{R}_{{#1}}}\xspace}
+
+\def\mrule{\ensuremath{\mathcal{M}}\xspace}
+\newcommand{\mruledef}[1]{\ensuremath{\mathcal{M}_{{#1}}}\xspace}
+
+\def\mruleset{\ensuremath{\mathfrak{M}}\xspace}
+\def\mrulesetI{\ensuremath{\mathfrak{M}_{\mathfrak{I}}}\xspace}
+\newcommand{\mrulesetdef}[1]{\ensuremath{\mathfrak{M}_{{#1}}}\xspace}
+
+
+\def\srule{\ensuremath{\mathcal{M}_\stype}\xspace}
+\newcommand{\sruledef}[1]{\ensuremath{\mathcal{M}_{{\stype,#1}}}\xspace}
+
+\def\sruleset{\ensuremath{\mathfrak{M}_\stype}\xspace}
+\def\srulesetI{\ensuremath{\mathfrak{M}_{\stype,\mathfrak{I}}}\xspace}
+\newcommand{\srulesetdef}[1]{\ensuremath{\mathfrak{M}_{{\stype,#1}}}\xspace}
+
+
+%zones
+\def\zone{\ensuremath{z}\xspace}
+\newcommand{\zonedef}[1]{\ensuremath{z_{#1}}}
+\def\zoneset{\ensuremath{Z}\xspace}
+\def\zonesetI{\ensuremath{Z_{\ientry}}\xspace}
+\newcommand{\zonesetdef}[1]{\ensuremath{Z_{#1}}}
+\newcommand{\zoneop}[1]{\ensuremath{\mathscr{Z}(#1)}\xspace}
+
+\def\szone{\ensuremath{z^\stype}\xspace}
+\newcommand{\szonedef}[1]{\ensuremath{z^\stype_{#1}}}
+\def\szoneset{\ensuremath{Z^\stype}\xspace}
+
+\def\thzone{\ensuremath{z^\thtype}\xspace}
+\newcommand{\thzonedef}[1]{\ensuremath{z^\thtype_{#1}}}
+\def\thzoneset{\ensuremath{Z^\thtype}\xspace}
+
+\def\expzone{\ensuremath{z^\exptype}\xspace}
+\newcommand{\expzonedef}[1]{\ensuremath{z^\exptype_{#1}}}
+\def\expzoneset{\ensuremath{Z^\thtype}\xspace}
+
+%featzone/realzone
+\newcommand{\featzone}[1]{\ensuremath{\hat{#1}}\xspace}
+\newcommand{\realzone}[1]{\ensuremath{\tilde{#1}}\xspace}
+
+%realistion rules
+\def\realisation{\ensuremath{R}\xspace}
+\newcommand{\realisationdef}[1]{\ensuremath{R_{#1}}\xspace}
+\def\Realisation{\ensuremath{\mathscr{R}}\xspace}
+
+\def\srealisation{\ensuremath{R^\stem}\xspace}
+\newcommand{\srealisationdef}[1]{\ensuremath{R^\stype_{#1}}\xspace}
+\def\sRealisation{\ensuremath{\mathscr{R}^\stype}\xspace}
+
+\def\frealisation{\ensuremath{R^\exptype}\xspace}
+\newcommand{\frealisationdef}[1]{\ensuremath{R^\exptype_{#1}}\xspace}
+\def\fRealisation{\ensuremath{\mathscr{R}^\exptype}\xspace}
+
+
+
+%classes
+\def\class{\ensuremath{Z}\xspace}
+\newcommand{\classdef}[1]{\ensuremath{Z_{#1}}\xspace}
+\def\sclass{\ensuremath{Z^\stype}\xspace}
+\newcommand{\sclassdef}[1]{\ensuremath{Z^\stype_{#1}}\xspace}
+\def\thclass{\ensuremath{Z^\thtype}\xspace}
+\newcommand{\thclassdef}[1]{\ensuremath{Z^\thtype_{#1}}\xspace}
+\def\expclass{\ensuremath{Z^\exptype}}
+\newcommand{\expclassdef}[1]{\ensuremath{Z^\exptype_{#1}}\xspace}
+
+
+%forms and stems
+\def\goutput{\ensuremath{{r}}\xspace}
+\newcommand{\goutputdef}[1]{\ensuremath{\mathrm{r}_{#1}}}
+
+\def\soutput{\ensuremath{{r^s}}\xspace}
+\newcommand{\soutputdef}[1]{\ensuremath{r^s_{#1}}}
+\newcommand{\stypedef}[1]{\ensuremath{{s}_{#1}}}
+
+\def\foutput{\ensuremath{{r^f}}\xspace}
+\newcommand{\foutputdef}[1]{\ensuremath{r^f_{#1}}}
+
+\def\stem{\ensuremath{{s}}\xspace}
+\def\stemlist{\ensuremath{\{(\szonedef{1}, \stemdef{1}), \ldots,
+    (\szonedef{n}, \stemdef{n})\}}\xspace}
+\def\stemlistnameI{\ensuremath{\Stem^{suppl}_\ientry}\xspace}
+\newcommand{\stemlistnamedef}[1]{\ensuremath{\Stem^{suppl}_{#1}}}
+\newcommand{\stemdef}[1]{\ensuremath{{s}_{#1}}}
+\def\Stem{\ensuremath{{S}}\xspace}
+\newcommand{\Stemdef}[2]{\ensuremath{{S}_{#1}(#2)}}
+
+\def\form{\ensuremath{f}\xspace}
+\def\formlist{\ensuremath{\{(\featdef{1}, \formdef{1}), \ldots,
+    (\featdef{n}, \formdef{n})\}}\xspace}
+\def\formlistnameI{\ensuremath{\Form^{suppl}_\ientry}\xspace}
+\newcommand{\formlistnamedef}[1]{\ensuremath{\Form^{suppl}_{#1}}}
+\newcommand{\formdef}[1]{\ensuremath{{f}_{#1}}}
+\def\Form{\ensuremath{{F}}\xspace}
+\newcommand{\Formdef}[2]{\ensuremath{{F}_{#1}(#2)}}
+
+\def\stype{\ensuremath{{s}}\xspace}
+\def\thtype{\ensuremath{{th}}\xspace}
+\def\exptype{\ensuremath{{exp}}\xspace}
+
+
+%spot
+\def\spot{\ensuremath{\delta}\xspace}
+\def\spotnxs{\ensuremath{\delta}}
+\def\Spot{\ensuremath{\mathsf{D}}\xspace}
+\def\SpotsetI{\ensuremath{\mathcal{D}_\mathrm{f_\mathfrak{I}}}\xspace}
+\def\Spotset{\ensuremath{\mathscr{D}}\xspace}
+
+%spaces
+\def\sspace{\ensuremath{\beta}\xspace}
+\def\sspacenxs{\ensuremath{\beta}}
+\def\sspacesIfeat{\ensuremath{\beta_\mathrm{s_\mathfrak{I},\varkappa}}\xspace}
+\def\SSpace{\ensuremath{\beta}\xspace}
+\def\sSpaceset{\ensuremath{\mathscr{B}}\xspace}
+\def\sSpacesetI{\ensuremath{\mathcal{B}_\mathrm{s_\mathfrak{I}}}\xspace}
+
+
+\def\inflspace{\ensuremath{\pi}\xspace}
+\def\Inflspace{\ensuremath{\Pi}\xspace}
+
+%other
+\def\phono{\ensuremath{\mathrm{e}}\xspace}
+
+\def\Phono{\ensuremath{\mathrm{E}}\xspace}
+
+
+%MEASURES
+
+\def\defect{\ensuremath{\mathcal{F}^{-}}\xspace}
+\def\defectI{\ensuremath{\mathcal{F}^{-}(\ientry)}\xspace}
+\newcommand{\defectdef}[1]{\ensuremath{\mathcal{F}^{-}({#1})}\xspace}
+
+\def\overab{\ensuremath{\mathcal{F}^{+}}\xspace}
+\def\overabI{\ensuremath{\mathcal{F}^{+}(\mathfrak{I})}\xspace}
+\newcommand{\overabdef}[2]{\ensuremath{\mathcal{F}^{+}_{#1}({#2})}\xspace}
+
+\def\alloInd{\ensuremath{\mathcal{A}}\xspace}
+\def\alloIndI{\ensuremath{\mathcal{A}_\mathfrak{I}}\xspace}
+\newcommand{\alloInddef}[2]{\ensuremath{\mathcal{A}_{#1}({#2})}\xspace}
+
+\def\suppletionInd{\ensuremath{\mathcal{R}}\xspace}
+%\def\suppletionIndI{\ensuremath{\mathcal{R}_\mathfrak{I}}\xspace}
+\newcommand{\suppletionIndIdef}[1]{\ensuremath{\mathcal{R}^{#1}({\ientry})}\xspace}
+\newcommand{\suppletionInddef}[2]{\ensuremath{\mathcal{R}^{#1}({#2})}\xspace}
+
+\def\mismatchInd{\ensuremath{\mathcal{M}}\xspace}
+\def\mismatchIndI{\ensuremath{\mathcal{M}(\ientry)}\xspace}
+\newcommand{\mismatchInddef}[2]{\ensuremath{\mathcal{M}_{#1}({#2})}\xspace}
+
+\def\heteroInd{\ensuremath{\mathcal{H}}\xspace}
+\def\heteroIndI{\ensuremath{\mathcal{H}_\mathfrak{I}}\xspace}
+\newcommand{\heteroInddef}[2]{\ensuremath{\mathcal{H}_{#1}({#2})}\xspace}
+
+\def\NeutrInd{\ensuremath{\mathcal{N}}\xspace}
+\newcommand{\NeutrInddef}[2]{\ensuremath{\mathcal{N}_{#1}(#2)}\xspace}
+
+\def\DeficiencyInd{\ensuremath{\mathcal{D}^{-}}\xspace}
+\newcommand{\DeficiencyInddef}[2]{\ensuremath{\mathcal{D}^{-}_{#1}(#2)}\xspace}
+
+\def\OverInd{\ensuremath{\mathcal{D}^{+}}\xspace}
+\newcommand{\OverInddef}[2]{\ensuremath{\mathcal{D}^{+}_{#1}(#2)}\xspace}
+
+\def\synInd{\ensuremath{\mathcal{S}}\xspace}
+\newcommand{\synInddef}[2]{\ensuremath{\mathcal{S}_{#1}(\text{#2})}\xspace}
+
+
+
+
+
+%Lexiques
+\def\alexina{{Alexina}\xspace}
+\def\alexinaparsli{{Alexina$_{\mbox{\scriptsize\parsli}}$}\xspace}
+
+
+\def\perlex{PerLex\xspace}
+\def\soralex{SoraLex\xspace}
+\def\kurlex{KurLex\xspace}
+\def\delex{DeLex\xspace}
+\def\enlex{EnLex\xspace}
+\def\pollex{PolLex\xspace}
+\def\sklex{SkLex\xspace}
+\def\maltlex{MaltLex\xspace}
+\def\chinanlex{ChinanLex\xspace}
+\def\khalex{KhaLex\xspace}
+
+\def\morphacq{MorphAcq\xspace}
+
+\def\lefff{\mbox{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-2pt}\textit{f}\xspace}}
+\def\leffe{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-1.6pt}\textrm{e}\xspace}
+\def\leffga{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-1.6pt}\textrm{ga}\xspace}
+\def\leffla{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-1.6pt}\textrm{la}\xspace}
+\def\lefflatrad{\text{\textrm{Le}\hspace{-0.5pt}\textit{f}\hspace{-2pt}\textit{f}\hspace{-1.6pt}\textrm{la}$_{\rm\textsc{trad}}$}\xspace}
+
+
+%Formalismes
+\newcommand{\PFM}{{PFM}\xspace}
+\newcommand{\pfm}{\emph{Paradigm Function Morphology}\xspace}
+\newcommand{\HPSG}{\emph{HPSG}\xspace}
+\newcommand{\SBCG}{\emph{SBCG}\xspace}
+\newcommand{\LFG}{\emph{LFG}\xspace}
+\newcommand{\network}{\emph{Network Morphology}\xspace}
+\newcommand{\datr}{{\tt DATR}\xspace}
+\newcommand{\katr}{{\tt KATR}\xspace}
+\newcommand{\catsclaw}{{\em Cat's Claw}\xspace}
+
+\def\frmg{FRMG}
+
+\newcommand{\RST}{\emph{RST}\xspace}
+\newcommand{\DRT}{\emph{DRT}\xspace}
+\newcommand{\SDRT}{\emph{SDRT}\xspace}
+\newcommand{\SDRSs}{\emph{SDRS}\xspace}
+\newcommand{\DRSs}{\emph{DRS}\xspace}
+
+%Objets formels
+\newcommand{\LCR}{\emph{LCR}\xspace}
+\newcommand{\lcruleA}{\emph{Lexical Creation Rule}\xspace}
+\newcommand{\lcrule}{\emph{règle de création lexicale}\xspace}
+
+%Complexité
+\newcommand{\smbdb}{\emph{Surrey Morphology Group Database}\xspace}
+\newcommand{\MDL}{\emph{MDL}\xspace}
+\newcommand{\mdl}{\emph{Minimum Description Length}\xspace}
+
+
+%Outils TAL
+\def\sxlfg{\textsc{SxLfg}}
+\def\melt{\textrm{MElt}\xspace}
+\def\meltfa{\textrm{MElt$_{\rm fa}$}\xspace}
+\def\sxspell{\textsc{Sx}Spell\xspace}
+\def\texttodag{\textsc{text2dag}\xspace}
+\def\trale{{\sc trale}\xspace}
+\def\sxpipe{\textsc{Sx}Pipe\xspace}
+
+
+%% Pour faire des échelles
+\newcommand{\ech}[1]{$\langle$\quotel{#1}$\rangle$}
+
+%% Relations d'inférence
+\newcommand{\argue}{$\underset{arg}{\leadsto}$}
+\newcommand{\implicate}{$\underset{imp}{\leadsto}$}
+\newcommand{\psp}{$\underset{psp}{\leadsto}$}
+\newcommand{\vehic}{$\leadsto$}
+
+
+%Tableaux
+% for fixed width tables and to allow broad line separations
+\newcolumntype{y}[1]{%
+%>{\centering\arraybackslash\hspace{0pt}}p{#1}}%
+%>{\raggedleft\arraybackslash\hspace{0pt}}p{#1}}%
+>{\raggedright\arraybackslash\hspace{0pt}}p{#1}}%
+
+
+\newcolumntype{x}[1]{%
+>{\raggedleft\arraybackslash\hspace{0pt}}p{#1}}%
+
+\newcolumntype{z}[1]{%
+>{\centering\arraybackslash\hspace{0pt}}p{#1}}%
+
+
+% Tableaux
+\newlength{\arrayrulewidthOriginal}
+\newcommand{\Cline}[2]{%
+  \noalign{\global\setlength{\arrayrulewidthOriginal}{\arrayrulewidth}}%
+  \noalign{\global\setlength{\arrayrulewidth}{#1}}\cline{#2}%
+  \noalign{\global\setlength{\arrayrulewidth}{\arrayrulewidthOriginal}}}
+
+%PFM
+\newcommand{\mfsi}{\ensuremath{\sigma}\xspace}
+\newcommand{\Mfsi}[1]{\ensuremath{\sigma_{#1}}\xspace}
+\newcommand{\mfsii}{\ensuremath{\tau}\xspace}
+\newcommand{\Mfsii}[1]{\ensuremath{\tau_{#1}}\xspace}
+\newcommand{\extend}{\ensuremath{\sqsubseteq}\xspace}
+\newcommand{\extendstrict}{\ensuremath{\sqsubset}\xspace}
+\newcommand{\unify}{\ensuremath{\sqcup}\xspace}
+\newcommand{\ufail}{\ensuremath{\bot}\xspace}
+
+%HPSG
+\def\compact{{\tt compact}\xspace}
+
+%Maltese
+\def\sm{{SM}\xspace}
+\def\hh{{\scalebox{.7}{Ħ}}}
+\def\csr{{CSR}\xspace}
+\def\bbar{{\scalebox{.75}{\ensuremath{\bar{\rm B}}}}\xspace}
+\def\rbar{{\scalebox{.75}{\ensuremath{\bar{\rm R}}}}\xspace}
+
+\def\mfs{{\sc mfs}\xspace}
+
+\newcommand{\cvcvstyle}[1]{\small\MakeUppercase{\sf{#1}}\xspace}
+
+\newcommand{\attaque}{\ensuremath{\rm A}\xspace}
+\newcommand{\rime}{\ensuremath{\rm R}\xspace}
+\newcommand{\nucleus}{\ensuremath{\rm N}\xspace}
+\newcommand{\coda}{\ensuremath{\rm C}\xspace}
+
+% Fontsize
+\def\vtiny{\fontsize{4pt}{4pt}\selectfont} %very verry tiny
+\def\Small{\fontsize{10.5pt}{10.5pt}\selectfont}
+
+
+%Complexity
+\def\MDL{{LDM}\xspace}
+\def\mdl{{Longueur de description Minimale}\xspace}
+
+
+
+% schémas avec \usepackage{tikz}
+\usepackage{tkz-kiviat}
+\usetikzlibrary{arrows,automata,positioning}
+
+\tikzset{
+    state/.style={
+           rectangle,
+           rounded corners,
+           draw=black, very thick,
+           minimum height=2em,
+           inner sep=2pt,
+           text centered,
+           },
+}
+
+\newlength{\btarrowsize} 
+\pgfarrowsdeclare{biggertip}{biggertip}{ 
+ \setlength{\btarrowsize}{0.4pt} 
+ \addtolength{\btarrowsize}{.5\pgflinewidth} 
+ \pgfarrowsrightextend{0} 
+ \pgfarrowsleftextend{-5\btarrowsize} 
+}{ 
+ \setlength{\btarrowsize}{0.4pt} 
+ \addtolength{\btarrowsize}{.5\pgflinewidth} 
+ \pgfpathmoveto{\pgfpoint{-5\btarrowsize}{4\btarrowsize}} 
+ \pgfpathlineto{\pgfpointorigin} 
+ \pgfpathlineto{\pgfpoint{-5\btarrowsize}{-4\btarrowsize}} 
+ \pgfusepathqstroke 
+}
+%pour le fichier de translittération:
+% \usepackage{fontspec}
+% \usepackage{xCJK}
+% \usepackage[overlap,CJK]{ruby}	  % Furigana support
+% \renewcommand{\rubysize}{0.5}	  % Furigana size
+% \renewcommand{\rubysep}{-0.3ex}	  % Spacing between Furigana and Kanji
+% \setCJKmainfont{STSong}
+% \setCJKfamilyfont{latin}{Times}
+% \usepackage{xCJK}
+
+
+
+\usepackage{mycolors}
+
+
+
+%% Puces, parametrées pour fonctionner avec la dernière version de french
+% \frenchbsetup{
+%   %ItemLabeli=\skull,
+%   %ItemLabeli=\includegraphics{./pics/Albator-sm.jpg}, % ça marche, mais le jpg est moche, impossible de spécifier la taille
+%   ItemLabelii=\textbullet,
+%   ItemLabeliii=$\ast$,
+%   ItemLabeliv=$\cdot$, %ou bien \diamondsuit, \circ, \star ...
+% }
+%Customization de Hyperref pour version pdf
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=true,          % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,        % show Acrobat’s toolbar?
+    pdfmenubar=true,        % show Acrobat’s menu?
+    pdffitwindow=false,     % window fit to page when opened
+    pdfstartview={FitH},    % fits the width of the page to the window
+    pdftitle={Sur la canonicité\'e en morphologie},    % title
+    pdfauthor={G\'eraldine Walther},     % author
+    pdfsubject={Morphologie, typologie, formalisation, implémentation et quantification},   % subject of the document
+    pdfcreator={G\'eraldine Walther},   % creator of the document
+    %pdfproducer={Producer}, % producer of the document
+    pdfkeywords={Morphologie, Typologie, Canonicit\'e, Flexion, Formalisation,
+      Implémentation, Mesures quantitative, Évaluation de
+      descriptions, Lexique, Complexit\'e}, % list of keywords
+    pdfnewwindow=true,      % links in new window
+    colorlinks=true,       % false: boxed links; true: colored links % Ici pour la version pdf
+%    colorlinks=false,       % false: boxed links; true: colored links % Ici pour la version papier
+    linkcolor=gray41,          % color of internal links
+    citecolor=slategray4,        % color of links to bibliography
+    filecolor=steelblue,      % color of file links
+    urlcolor=slategray3,           % color of external links
+    linkbordercolor=green,
+    citebordercolor=magenta
+}
+
+%\iffalse
+% Table of contents for each chapter
+% Olivier Commonwick
+
+%\usepackage[nottoc, notlof, notlot]{tocbibind}
+%\usepackage{minitoc}
+%\setcounter{minitocdepth}{2}
+%\mtcindent=15pt
+% Use \minitoc where to put a table of contents
+
+%\fi
