@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+
+\bibitem[Corbett, 2003]{corbett03}
+Corbett, G.~G. (2003).
+\newblock Agreement: the range of the phenomenon and the principles of the
+  surrey database of agreement.
+\newblock {\em Transactions of the philological society}, 101:155–202.
+
+\bibitem[Corbett, 2007]{corbett07b}
+Corbett, G.~G. (2007).
+\newblock Canonical typology, suppletion and possible words.
+\newblock {\em Language}, 83:8--42.
+
+\bibitem[Dressler, 2000]{dressler00}
+Dressler, W.~U. (2000).
+\newblock Naturalness.
+\newblock In Booij, G., Lehmann, C., and Mugdan, J., editors, {\em
+  Morphologie/Morphology: Ein Internationales Handbuch Zur Flexion Und
+  Wortbildung/ an International Handbook on Inflection and Word-Formation},
+  Handb{\"u}cher zur Sprach- und Kommunikationswissenschaft, pages 288--296.
+  Walter de Gruyter.
+
+\bibitem[Greenberg, 1963]{greenberg63}
+Greenberg, J.~H. (1963).
+\newblock Some universals of grammar with particular reference to the order of
+  meaningful elements.
+\newblock In {\em Universals of Language}, pages 73--113. MIT Press.
+
+\bibitem[Sagot and Walther, 2013]{sagot13sfcm}
+Sagot, B. and Walther, G. (2013).
+\newblock Implementing a formal model of inflectional morphology.
+\newblock In Mahlow, C. and Piotrowski, M., editors, {\em Systems and
+  Frameworks in Computational Morphology}, volume 100, Berlin, Heidelberg,
+  Allemagne. Springer.
+
+\bibitem[Walther, 2013]{walther13phd}
+Walther, G. (2013).
+\newblock {\em Sur la canonicité en morphologie — Perspective empirique,
+  formelle et computationnelle}.
+\newblock PhD thesis, Université Paris-Diderot.
+
+\bibitem[Wurzel, 1984]{wurzel84}
+Wurzel, W.~U. (1984).
+\newblock {\em Flexionsmorphologie und Nat\"urlichkeit}.
+\newblock Akademie-Verlag, Berlin, Allemagne.
+\newblock Traduction anglaise: \cite{wurzel89}.
+
+\end{thebibliography}
