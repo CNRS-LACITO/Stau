@@ -4,13 +4,14 @@
 \beamer@subsectionintoc {2}{1}{Types d'alignements \IeC {\`a} travers les langues du monde}{9}{0}{1}
 \beamer@subsectionintoc {2}{2}{Encodage des alignements \IeC {\`a} travers les langues du monde}{18}{0}{1}
 \beamer@subsectionintoc {2}{3}{Un exemple de paradigme: le bantawa}{23}{0}{1}
-\beamer@sectionintoc {3}{L'approche canonique}{25}{0}{2}
-\beamer@subsectionintoc {3}{1}{D\IeC {\'e}finir des standards typologiques}{26}{0}{2}
-\beamer@subsectionintoc {3}{2}{La flexion canonique}{33}{0}{2}
-\beamer@subsectionintoc {3}{3}{Les ph\IeC {\'e}nom\IeC {\`e}nes non-canoniques}{44}{0}{2}
-\beamer@sectionintoc {4}{Une d\IeC {\'e}finition canonique du marquage direct/inverse}{70}{0}{3}
-\beamer@sectionintoc {5}{Les faits face au canon}{75}{0}{4}
-\beamer@subsectionintoc {5}{1}{Quelques syst\IeC {\`e}mes habituellement analys\IeC {\'e}s comme relevant du direct/inverse}{76}{0}{4}
-\beamer@subsectionintoc {5}{2}{Les exemples de syst\IeC {\`e}mes \IeC {\`a} direct/inverse face au canon}{77}{0}{4}
-\beamer@subsectionintoc {5}{3}{\IeC {\'E}valuation canonique du statut de syst\IeC {\`e}me \IeC {\`a} direct/inverse}{78}{0}{4}
-\beamer@sectionintoc {6}{Conclusion and perspectives}{80}{0}{5}
+\beamer@sectionintoc {3}{L'approche canonique}{26}{0}{2}
+\beamer@subsectionintoc {3}{1}{D\IeC {\'e}finir des standards typologiques}{27}{0}{2}
+\beamer@subsectionintoc {3}{2}{La flexion canonique}{34}{0}{2}
+\beamer@subsectionintoc {3}{3}{Les ph\IeC {\'e}nom\IeC {\`e}nes non-canoniques}{45}{0}{2}
+\beamer@sectionintoc {4}{Une d\IeC {\'e}finition canonique du marquage direct/inverse}{59}{0}{3}
+\beamer@sectionintoc {5}{Les faits face au canon}{67}{0}{4}
+\beamer@subsectionintoc {5}{1}{Quelques syst\IeC {\`e}mes habituellement analys\IeC {\'e}s comme relevant du direct/inverse}{68}{0}{4}
+\beamer@subsectionintoc {5}{2}{Les exemples de syst\IeC {\`e}mes \IeC {\`a} direct/inverse face au canon}{79}{0}{4}
+\beamer@subsectionintoc {5}{3}{\IeC {\'E}valuation canonique du statut de syst\IeC {\`e}me \IeC {\`a} direct/inverse}{84}{0}{4}
+\beamer@sectionintoc {6}{Le direct-inverse canonique et la flexion canonique}{90}{0}{5}
+\beamer@sectionintoc {7}{Conclusion and perspectives}{96}{0}{6}

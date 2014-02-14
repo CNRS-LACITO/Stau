@@ -6,11 +6,12 @@
 %\usepackage{tlingmacros}
 
 %%%%%%%Pour la présentation
-\documentclass[utf8x]{beamer}
+\documentclass[utf8]{beamer}
 \usepackage{etex}
-\usepackage[T1]{fontenc}
+\usepackage{fontenc}
 \usepackage[french]{babel}
 \usepackage{ucs}
+\usepackage{pifont}
 %\usepackage[latin1]{inputenc}
 
 \usepackage{lingmacros}
@@ -66,7 +67,8 @@
 \usepackage{pgfplotstable}
 
 
-
+\def\phon{}
+\def\citealp{\cite}
 
 
 % \newlength{\btarrowsize} 
@@ -231,13 +233,15 @@
 \title[Marquage canonique du direct/inverse]{L'inverse canonique}
   \subtitle{Vers une définition typologique de l'opposition direct/inverse}
 
-\author[Walther/Antonov/Jacques]{G\'eraldine Walther (DDL/EFL-LLF) \&
-  Anton Antonov (EFL-CRLAO) \&~Guillaume
-Jacques (EFL-CRLAO)}
-\institute[EFL/CRLAO/LLF/DDL]{Empirical Foundations of
-  Linguistics (EFL)\\% (1. Laboratoire de Linguistique Formelle (LLF)\\
-% 2. Centre de Recherche Linguistique sur l'Asie Orientale (CRLAO))\\~\\
-% 1.Dynamique du Language (DDL)\\
+\author[Walther/Antonov/Jacques]{G\'eraldine Walther (DDL/EFL-LLF)$^1$ \&
+  Anton Antonov (EFL-CRLAO)$^2$ \&~Guillaume
+Jacques (EFL-CRLAO)$^2$}
+\institute[EFL/CRLAO/LLF/DDL]{(1,2) Empirical Foundations of
+  Linguistics (EFL):\\(1) Laboratoire de Linguistique Formelle (LLF):
+  CNRS \& Université Paris Diderot\\
+(2) Centre de Recherche Ling. sur l'Asie Orientale (CRLAO):
+CNRS \& INALCO \&  EHESS\\~\\
+(1) Dynamique du Language (DDL): CNRS \& Université Lyon Lumière\\
 ~\\
 \url{geraldine.walther@univ-lyon2.fr}\\
 \url{a.antonov@gmail.com}\\
@@ -274,16 +278,28 @@ Jacques (EFL-CRLAO)}
 \section{Les faits face au canon}
 \input{direct-inverse-eval}
 
+\section[DIR/INV par rapport à la flexion canonique]{Le direct-inverse canonique et la flexion canonique}
+\input{direct-inverse-noncan}
+
 \section[Conclusion]{Conclusion and perspectives}
 \input{perspectives}
 
 \begin{frame}[t]{}
 \vspace*{3cm}
 \begin{center}
-\Large Thank you!
+\Large 
+\begin{tabular}{x{1.5cm}x{1.5cm}x{1.5cm}x{1.5cm}x{1.5cm}x{1.5cm}}
+\cellcolor{grey}&\highlightiii{Merci!}&\highlightiii{Merci!}&\highlightiii{Merci!}&\highlightiii{Merci!}\\
+\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\cellcolor{grey}&\highlightiii{Merci!}&\highlightiii{Merci!}&\highlightiii{Merci!}\\
+\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\cellcolor{grey}&\highlightiii{Merci!}&\highlightiii{Merci!}\\
+\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\cellcolor{grey}&\highlightiii{Merci!}\\
+\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\raisebox{\depth}{\rotatebox{180}{\highlightiii{Merci!}}}&\cellcolor{grey}\\
+\end{tabular}
 \end{center}
 
 \end{frame}
+
+\input{addons}
 
 %\include{impl}
 %\include{measure}

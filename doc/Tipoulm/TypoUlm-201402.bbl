@@ -7,14 +7,6 @@ Baerman, M. (2006).
 \newblock Typological Database on Deponency, Surrey Morphology Group, CMC,
   University of Surrey.
 
-\bibitem[Baerman, 2007]{baerman07b}
-Baerman, M. (2007).
-\newblock {M}orphological {T}ypology of {D}eponency.
-\newblock In Baerman, M., Corbett, G.~G., Brown, D., and Hippisley, A.,
-  editors, {\em {D}eponency and {M}orphological {M}ismatches}, volume 145,
-  pages 1--19, Oxford, Royaume-Uni. The British Academy, Oxford University
-  Press.
-
 \bibitem[Baerman et~al., 2010]{baerman10defectbook}
 Baerman, M., Corbett, G.~G., and Brown, D., editors (2010).
 \newblock {\em Defective Paradigms: Missing Forms and What They Tell Us}.
@@ -66,6 +58,12 @@ DeLancey, S. (1981).
 \newblock {T}he category of direction in {T}ibeto-{B}urman.
 \newblock {\em Linguistics of the Tibeto-Burman Area}, 6.1:83--101.
 
+\bibitem[Doornenbal, 2009]{doornenbal09}
+Doornenbal, M. (2009).
+\newblock {\em {A} {G}rammar of {B}antawa: {G}rammar, paradigm tables, glossary
+  and texts of a {R}ai language of {E}astern {N}epal.}
+\newblock PhD thesis, Leiden University.
+
 \bibitem[Dressler, 2000]{dressler00}
 Dressler, W.~U. (2000).
 \newblock Naturalness.
@@ -74,6 +72,17 @@ Dressler, W.~U. (2000).
   Wortbildung/ an International Handbook on Inflection and Word-Formation},
   Handb{\"u}cher zur Sprach- und Kommunikationswissenschaft, pages 288--296.
   Walter de Gruyter.
+
+\bibitem[Dunn, 1999]{dunn99}
+Dunn, M. (1999).
+\newblock {\em A Grammar of Chukchi}.
+\newblock PhD thesis, Australian National University.
+
+\bibitem[Gong, pear]{gongxun12}
+Gong, X. (to appear).
+\newblock {P}ersonal agreement system of {Z}bu r{G}yalrong ({N}gyaltsu
+  variety).
+\newblock {\em Transactions of the Philological Society}.
 
 \bibitem[Greenberg, 1963]{greenberg63}
 Greenberg, J.~H. (1963).
@@ -93,17 +102,15 @@ Kiparsky, P. (2005).
 \newblock In {\em Yearbook of Morphology 2004}, pages 113--135, Dordrecht.
   Springer.
 
-\bibitem[Sagot and Walther, 2013]{sagot13sfcm}
-Sagot, B. and Walther, G. (2013).
-\newblock Implementing a formal model of inflectional morphology.
-\newblock In Mahlow, C. and Piotrowski, M., editors, {\em Systems and
-  Frameworks in Computational Morphology}, volume 100, Berlin, Heidelberg,
-  Allemagne. Springer.
-
 \bibitem[Stump, 2006]{stump06a}
 Stump, G.~T. (2006).
 \newblock Heteroclisis and paradigm linkage.
 \newblock {\em Language}, 82:279--322.
+
+\bibitem[Sumbatova and Mutalov, 2003]{sumbatova03}
+Sumbatova, N.~R. and Mutalov, R.~O. (2003).
+\newblock {\em {A} grammar of {I}cari {D}argwa}.
+\newblock München: Lincom Europa.
 
 \bibitem[Thornton, 2010]{thornton10}
 Thornton, A.~M. (2010).
@@ -115,6 +122,11 @@ Walther, G. (2013).
 \newblock {\em Sur la canonicité en morphologie — Perspective empirique,
   formelle et computationnelle}.
 \newblock PhD thesis, Université Paris-Diderot.
+
+\bibitem[Wolfart, 1973]{wolfart73}
+Wolfart, H.~C. (1973).
+\newblock {P}lains {C}ree: {A} {G}rammatical {S}tudy.
+\newblock {\em Transactions of the American Philosophical Society}, 63.5:1--90.
 
 \bibitem[Wurzel, 1984]{wurzel84}
 Wurzel, W.~U. (1984).
