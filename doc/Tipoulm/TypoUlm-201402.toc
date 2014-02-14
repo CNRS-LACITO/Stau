@@ -2,15 +2,15 @@
 \select@language {french}
 \beamer@sectionintoc {2}{Les syst\IeC {\`e}mes d'alignement \IeC {\`a} travers les langues}{8}{0}{1}
 \beamer@subsectionintoc {2}{1}{Types d'alignements \IeC {\`a} travers les langues du monde}{9}{0}{1}
-\beamer@subsectionintoc {2}{2}{Encodage des alignements \IeC {\`a} travers les langues du monde}{18}{0}{1}
-\beamer@sectionintoc {3}{Quelques syst\IeC {\`e}mes habituellement analys\IeC {\'e}s comme relevant du direct/inverse}{23}{0}{2}
-\beamer@sectionintoc {4}{L'approche canonique}{34}{0}{3}
-\beamer@subsectionintoc {4}{1}{D\IeC {\'e}finir des standards typologiques}{35}{0}{3}
-\beamer@subsectionintoc {4}{2}{La flexion canonique}{42}{0}{3}
-\beamer@subsectionintoc {4}{3}{Les ph\IeC {\'e}nom\IeC {\`e}nes non-canoniques}{53}{0}{3}
-\beamer@sectionintoc {5}{Une d\IeC {\'e}finition canonique du marquage direct/inverse}{67}{0}{4}
-\beamer@sectionintoc {6}{Les faits face au canon}{75}{0}{5}
-\beamer@subsectionintoc {6}{1}{Les exemples de syst\IeC {\`e}mes \IeC {\`a} direct/inverse face au canon}{76}{0}{5}
-\beamer@subsectionintoc {6}{2}{\IeC {\'E}valuation canonique du statut de syst\IeC {\`e}me \IeC {\`a} direct/inverse}{81}{0}{5}
-\beamer@sectionintoc {7}{Le direct-inverse canonique et la flexion canonique}{87}{0}{6}
-\beamer@sectionintoc {8}{Conclusion and perspectives}{93}{0}{7}
+\beamer@subsectionintoc {2}{2}{Encodage des alignements \IeC {\`a} travers les langues du monde}{15}{0}{1}
+\beamer@sectionintoc {3}{Quelques syst\IeC {\`e}mes habituellement analys\IeC {\'e}s comme relevant du direct/inverse}{20}{0}{2}
+\beamer@sectionintoc {4}{L'approche canonique}{31}{0}{3}
+\beamer@subsectionintoc {4}{1}{D\IeC {\'e}finir des standards typologiques}{32}{0}{3}
+\beamer@subsectionintoc {4}{2}{La flexion canonique}{39}{0}{3}
+\beamer@subsectionintoc {4}{3}{Les ph\IeC {\'e}nom\IeC {\`e}nes non-canoniques}{50}{0}{3}
+\beamer@sectionintoc {5}{Une d\IeC {\'e}finition canonique du marquage direct/inverse}{64}{0}{4}
+\beamer@sectionintoc {6}{Les faits face au canon}{72}{0}{5}
+\beamer@subsectionintoc {6}{1}{Les exemples de syst\IeC {\`e}mes \IeC {\`a} direct/inverse face au canon}{73}{0}{5}
+\beamer@subsectionintoc {6}{2}{\IeC {\'E}valuation canonique du statut de syst\IeC {\`e}me \IeC {\`a} direct/inverse}{78}{0}{5}
+\beamer@sectionintoc {7}{Le direct-inverse canonique et la flexion canonique}{84}{0}{6}
+\beamer@sectionintoc {8}{Conclusion and perspectives}{90}{0}{7}
