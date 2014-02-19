@@ -5,6 +5,21 @@
 # Audio files
 *.wav
 
+# LaTeX generated files
+*.aux
+*.toc
+*.bbl
+*.blg
+*.out
+*.log
+*.snm
+*.idx
+*.ilg
+*.ind
+doc/*/*.pdf
+
+# Toolbox project files
+*.prj
 #################
 ## Eclipse
 #################
