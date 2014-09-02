@@ -21992,11 +21992,3 @@ rcʰɑ́, mdǽr-ɕæ. ætə̂ k-ɑ̂-mdær kʰə́ɣ ɕə, rnɑbɑ̂ r-ɑ̂-nd
 \wav w1432
 \xv cə̂ <zidian> tə gə ŋə̂tə mə-fsó-n tə æ-nsrí-n.
 \wav e0473
-
-\lx (və̌)stʰû
-\rm û
-\ps n
-\gn 对面
-\stem_2
-\stem_3
-\dt 06/Jan/2014
