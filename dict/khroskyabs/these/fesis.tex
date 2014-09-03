@@ -1,0 +1,1778 @@
+\documentclass[11pt, a4paper]{book}              % Book class in 10 points
+\parindent0pt  \parskip10pt             % make block paragraphs
+\raggedright                            % do not right justify
+
+\title{\bf Thèse de Yunfan LAI}    % Supply information
+\author{LAI Yunfan}              %   for the title page.
+\date{\today}                           %   Use current date. 
+
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Perl,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=3
+}
+
+\usepackage{tipa}
+\usepackage{vowel}
+
+\usepackage{fontspec}
+\usepackage{xunicode}
+
+\usepackage[vmargin=2.5cm,rmargin=3cm,lmargin=2.5cm]{geometry}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{enumerate}
+\usepackage{xltxtra} 
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{polyglossia} 
+\usepackage[table]{xcolor}
+\usepackage{qtree}
+\usepackage{gb4e} 
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{hyperref} 
+\hypersetup{bookmarks=false,bookmarksnumbered,bookmarksopenlevel=5,bookmarksdepth=5,xetex,colorlinks=true,linkcolor=blue,citecolor=blue}
+\usepackage[all]{hypcap}
+\usepackage{memhfixc}
+\usepackage[bottom]{footmisc}
+\usepackage{lscape}
+\usepackage{lineno}
+\usepackage[normalem]{ulem} 
+\usepackage{rotating}
+
+
+
+
+\bibpunct[: ]{(}{)}{,}{a}{}{,}
+
+
+\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Cambria} 
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase,FakeSlant=0.3]{Charis SIL} 
+\newcommand{\ipa}[1]{{\phon \mbox{#1}}} %API tjs en italique
+\newcommand{\ipab}[1]{{\scriptsize \phon#1}} 
+
+
+
+\newcommand{\grise}[1]{\cellcolor{lightgray}\textbf{#1}}
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{MingLiU}
+\newcommand{\zh}[1]{{\cn #1}}
+   
+\newcommand{\acc}{\textsc{acc}}
+ \newcommand{\acaus}{\textsc{acaus}}
+ \newcommand{\advers}{\textsc{advers}}
+\newcommand{\apass}{\textsc{apass}}
+\newcommand{\appl}{\textsc{appl}}
+\newcommand{\allat}{\textsc{all}}
+\newcommand{\assert}{\textsc{assert}}
+\newcommand{\auto}{\textsc{autoben}}
+\newcommand{\caus}{\textsc{caus}}
+\newcommand{\cl}{\textsc{cl}}
+\newcommand{\cisl}{\textsc{cisl}}
+\newcommand{\classif}{\textsc{class}}
+\newcommand{\concsv}{\textsc{concsv}}
+\newcommand{\comit}{\textsc{comit}}
+\newcommand{\compl}{\textsc{compl}} %complementizer
+\newcommand{\comptv}{\textsc{comptv}} %comparative
+\newcommand{\cond}{\textsc{cond}}
+\newcommand{\conj}{\textsc{conj}}
+\newcommand{\coord}{\textsc{coord}}
+\newcommand{\const}{\textsc{const}}
+\newcommand{\conv}{\textsc{conv}}
+\newcommand{\cop}{\textsc{cop}}
+\newcommand{\dat}{\textsc{dat}}
+\newcommand{\dem}{\textsc{dem}}
+\newcommand{\degr}{\textsc{degr}}
+\newcommand{\deexp}{\textsc{deexp}}
+\newcommand{\dist}{\textsc{dist}}
+\newcommand{\du}{\textsc{du}}
+\newcommand{\duposs}{\textsc{du.poss}}
+\newcommand{\dur}{\textsc{dur}}
+\newcommand{\erg}{\textsc{erg}}
+\newcommand{\emphat}{\textsc{emph}}
+\newcommand{\evd}{\textsc{evd}}
+\newcommand{\fut}{\textsc{fut}}
+\newcommand{\gen}{\textsc{gen}}
+\newcommand{\genr}{\textsc{genr}}
+\newcommand{\hort}{\textsc{hort}}
+\newcommand{\hypot}{\textsc{hyp}}
+\newcommand{\ideo}{\textsc{ideo}}
+\newcommand{\imp}{\textsc{imp}}
+\newcommand{\indef}{\textsc{indef}}
+\newcommand{\inftv}{\textsc{inf}}
+\newcommand{\instr}{\textsc{instr}}
+\newcommand{\intens}{\textsc{intens}}
+\newcommand{\intrg}{\textsc{intrg}}
+\newcommand{\inv}{\textsc{inv}}
+\newcommand{\ipf}{\textsc{ipf}}
+\newcommand{\irr}{\textsc{irr}}
+\newcommand{\loc}{\textsc{loc}}
+\newcommand{\med}{\textsc{med}}
+\newcommand{\mir}{\textsc{mir}}
+\newcommand{\negat}{\textsc{neg}}
+\newcommand{\neu}{\textsc{neu}}
+\newcommand{\nmlz}{\textsc{nmlz}}
+\newcommand{\npst}{\textsc{n.pst}}
+\newcommand{\pfv}{\textsc{pfv}}
+\newcommand{\pl}{\textsc{pl}}
+\newcommand{\plposs}{\textsc{pl.poss}}
+\newcommand{\pass}{\textsc{pass}}
+\newcommand{\poss}{\textsc{poss}}
+\newcommand{\pot}{\textsc{pot}}
+\newcommand{\pres}{\textsc{pres}}
+\newcommand{\prohib}{\textsc{prohib}}
+\newcommand{\prox}{\textsc{prox}}
+\newcommand{\pst}{\textsc{pst}}
+\newcommand{\qu}{\textsc{qu}}
+\newcommand{\recip}{\textsc{recip}}
+\newcommand{\redp}{\textsc{redp}}
+\newcommand{\refl}{\textsc{refl}}
+\newcommand{\sg}{\textsc{sg}}
+\newcommand{\sgposs}{\textsc{sg.poss}}
+\newcommand{\stat}{\textsc{stat}}
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+\newcommand{\topic}{\textsc{top}}
+\newcommand{\volit}{\textsc{vol}}
+\newcommand{\transloc}{\textsc{transl}}
+\newcommand{\cisloc}{\textsc{cisl}}
+\newcommand{\quind}{\textsc{qu.ind}} 
+\newcommand{\trop}{\textsc{trop}} 
+ \newcommand{\abil}{\textsc{abil}}  
+ \newcommand{\facil}{\textsc{facil}}  
+
+ 
+%\usepackage{draftwatermark}
+%\SetWatermarkText{Yunfan's Draft}
+%\SetWatermarkScale{0.6}
+%\SetWatermarkLightness{0.85}
+
+\XeTeXlinebreaklocale "zh" 
+\XeTeXlinebreakskip = 0pt plus 1pt 
+\setdefaultlanguage{french} 
+
+
+% Note that book class by default is formatted to be printed back-to-back.
+\begin{document}                        % End of preamble, start of text.
+\frontmatter                            % only in book class (roman page #s)
+\maketitle                              % Print title page.
+\tableofcontents                        % Print table of contents
+\mainmatter                             % only in book class (arabic page #s)
+\part{La région Khroskyabs et le peuple}     
+\chapter{La région}              % Print a "part" heading
+\section{Géographie}                % Print a "chapter" heading
+\section{Histoire}
+\section{Superstitions}
+
+Tibetan Buddhism (dge lugs pa) : il n'est pas clair si les habitants vraiment comprennent leur boudhisme.
+
+Bön 
+
+Islam (ne fait pas partie des foies des locuteurs, mais il y a quelques musulmans chinois (Húi) dans les villages)
+
+croyances diverses (souvent confondues avec le boudhisme)
+
+
+\section{Architecture}
+\chapter{Société}
+\section{Structure de la famille}
+\section{Habits}
+\section{Nourriture}
+
+\part{La langue khroskyabs}
+\chapter{Profil général}
+\section{Aspects sociolinguistiques}
+\section{Études précédentes}
+\section{Classification et dialectes} 
+\chapter{Présente étude}
+\section{Khroskyabs wobzi}
+\section{Terrains}
+\section{Base de données}
+\section{Guide d'utilisation de cette thèse}
+
+\part{Les sons}
+\chapter{Inventaires phonétiques}
+
+
+
+\section{Consonnes}
+
+
+\begin{table}[H]
+\centering
+
+\caption{Les consonnes}
+\label{consonnes}
+
+\resizebox{\columnwidth}{!}{
+
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+\rowcolor[HTML]{C0C0C0} 
+\multicolumn{3}{|c|}{\cellcolor[HTML]{9B9B9B}}                                                                                           & Labiale                                    & Labiodentale              & Dentale                                    & Alvéolaire                                      & Alvéolo-palatale                           & Rétroflexe                & Palatale                       & Vélaire                        & Uvulaire                  \\ \hline
+\cellcolor[HTML]{C0C0C0}                            & \cellcolor[HTML]{EFEFEF}                         & \cellcolor[HTML]{EFEFEF}Plaine  & \ipa{p}                                    & \cellcolor[HTML]{9B9B9B}  & \cellcolor[HTML]{9B9B9B}                   & \ipa{t}                                         & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \ipa{c}                        & \ipa{k}                        & \ipa{q}                   \\ \cline{3-12} 
+\cellcolor[HTML]{C0C0C0}                            & \multirow{-2}{*}{\cellcolor[HTML]{EFEFEF}Sourde} & \cellcolor[HTML]{EFEFEF}Aspirée & \ipa{pʰ}                                   & \cellcolor[HTML]{9B9B9B}  & \cellcolor[HTML]{9B9B9B}                   & \ipa{tʰ}                                        & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \ipa{cʰ}                       & \ipa{kʰ}                       & \ipa{qʰ}                  \\ \cline{2-12} 
+\multirow{-3}{*}{\cellcolor[HTML]{C0C0C0}Occlusive} & \multicolumn{2}{c|}{\cellcolor[HTML]{EFEFEF}Voisée}                                & \ipa{b}                                    & \cellcolor[HTML]{9B9B9B}  & \cellcolor[HTML]{9B9B9B}                   & \ipa{d}                                         & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \ipa{ɟ}                        & \ipa{g}                        & \cellcolor[HTML]{9B9B9B}  \\ \hline
+\cellcolor[HTML]{C0C0C0}                            & \cellcolor[HTML]{EFEFEF}                         & \cellcolor[HTML]{EFEFEF}Plaine  & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \ipa{ts}                                   & \cellcolor[HTML]{9B9B9B}{\color[HTML]{333333} } & \ipa{tɕ}                                   & \ipa{tʂ}                  & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}  \\ \cline{3-12} 
+\cellcolor[HTML]{C0C0C0}                            & \multirow{-2}{*}{\cellcolor[HTML]{EFEFEF}Sourde} & \cellcolor[HTML]{EFEFEF}Aspirée & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \ipa{tsʰ}                                  & \cellcolor[HTML]{9B9B9B}{\color[HTML]{333333} } & \ipa{tɕʰ}                                  & \ipa{tʂʰ}                 & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}  \\ \cline{2-12} 
+\multirow{-3}{*}{\cellcolor[HTML]{C0C0C0}Affriquée} & \multicolumn{2}{c|}{\cellcolor[HTML]{EFEFEF}Voisée}                                & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \ipa{dz}                                   & \cellcolor[HTML]{9B9B9B}{\color[HTML]{333333} } & \ipa{dʑ}                                   & \ipa{dʐ}                  & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}  \\ \hline
+\cellcolor[HTML]{C0C0C0}                            & \multicolumn{2}{c|}{\cellcolor[HTML]{EFEFEF}Sourde}                                & \cellcolor[HTML]{9B9B9B}                   & \ipa{f}                   & \ipa{s}                                    & \ipa{ɬ}                                         & \ipa{ɕ}                                    & \ipa{ʂ}                   & (\ipa{ç})                      & \cellcolor[HTML]{9B9B9B}       & \ipa{χ}                   \\ \cline{2-12} 
+\multirow{-2}{*}{\cellcolor[HTML]{C0C0C0}Fricative} & \multicolumn{2}{c|}{\cellcolor[HTML]{EFEFEF}Voisée}                                & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \ipa{z}                                    & \cellcolor[HTML]{9B9B9B}                        & \ipa{ʑ}                                    & \cellcolor[HTML]{9B9B9B}  & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}  \\ \hline
+\cellcolor[HTML]{C0C0C0}                            & \multicolumn{2}{c|}{\cellcolor[HTML]{EFEFEF}Nasale}                                & \ipa{m}                                    & \cellcolor[HTML]{9B9B9B}  & \cellcolor[HTML]{9B9B9B}                   & \ipa{n}                                         & \cellcolor[HTML]{9B9B9B}                   & (\ipa{ɳ})                 & \ipa{ɲ}                        & \ipa{ŋ}                        & (\ipa{ɴ})                 \\ \cline{2-12} 
+\cellcolor[HTML]{C0C0C0}                            & \multicolumn{2}{c|}{\cellcolor[HTML]{EFEFEF}Latérale}                              & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \cellcolor[HTML]{9B9B9B}                   & \ipa{l}                                         & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}  & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}       & \cellcolor[HTML]{9B9B9B}  \\ \cline{2-12} 
+\cellcolor[HTML]{C0C0C0}                            & \multicolumn{2}{c|}{\cellcolor[HTML]{EFEFEF}}                                      & \cellcolor[HTML]{9B9B9B}                   &                           & \cellcolor[HTML]{9B9B9B}                   & \cellcolor[HTML]{9B9B9B}                        & \cellcolor[HTML]{9B9B9B}                   &                           & \ipa{j}                        & \ipa{ɣ}                        &                           \\ \cline{10-11}
+\multirow{-4}{*}{\cellcolor[HTML]{C0C0C0}Sonante}   & \multicolumn{2}{c|}{\multirow{-2}{*}{\cellcolor[HTML]{EFEFEF}Approximante}}        & \multirow{-2}{*}{\cellcolor[HTML]{9B9B9B}} & \multirow{-2}{*}{\ipa{v}} & \multirow{-2}{*}{\cellcolor[HTML]{9B9B9B}} & \multirow{-2}{*}{\cellcolor[HTML]{9B9B9B}}      & \multirow{-2}{*}{\cellcolor[HTML]{9B9B9B}} & \multirow{-2}{*}{\ipa{r}} & \multicolumn{1}{l|}{(\ipa{ɥ})} & \multicolumn{1}{l|}{(\ipa{w})} & \multirow{-2}{*}{\ipa{ʁ}} \\ \hline
+\end{tabular}
+}
+
+\end{table}
+
+
+\section{Voyelles}
+\renewcommand\textipa[1]{{\fontfamily{cmr}\tipaencoding #1}}
+\begin{table}[H]
+\caption{Voyelles}
+\label{voyelles}
+\centering
+{\Large
+\begin{vowel}
+%    \putcvowel{i}{1}
+    \putvowel{i}{0pt}{0pt}
+ %   \putcvowel[r]{y}{1}
+    \putcvowel{e}{2}
+ %   \putcvowel[r]{\o}{2}
+  %  \putcvowel[l]{\textepsilon}{3}
+    %\putcvowel[r]{\oe}{3}
+    \putcvowel{a}{4}
+  %  \putcvowel[r]{\textscoelig}{4}
+    \putcvowel{\textscripta}{5}
+   % \putcvowel[r]{\textturnscripta}{5}
+ %   \putcvowel[l]{\textturnv}{6}
+ %   \putcvowel[r]{\textopeno}{6}
+ %   \putcvowel[l]{\textramshorns}{7}
+    \putcvowel{o}{7}
+%    \putcvowel[l]{\textturnm}{8}
+    \putcvowel{u}{8}
+  %  \putcvowel[l]{\textbari}{9}
+   % \putcvowel[r]{\textbaru}{9}
+ %   \putcvowel[l]{\textreve}{10}
+  %  \putcvowel[r]{\textbaro}{10}
+    \putcvowel{\textschwa, əˠ}{11}
+%    \putcvowel[l]{\textrevepsilon}{12}
+  %  \putcvowel[r]{\textcloserevepsilon}{12}
+    \putcvowel{\small \textsci\ }{13}
+    \putcvowel{\small \textupsilon}{14}
+ %   \putcvowel{\textturna}{15}
+    \putcvowel{\ae}{16}
+\end{vowel}
+}
+
+\end{table}
+
+\section{Tons de surfaces}
+
+\chapter{Phonologie}
+\section{Structure syllabique}
+\section{Attaques}
+\subsection{Rôles de l'attaque}
+\subsection{Initiale}
+\subsection{Préinitiale}
+
+Les préinitiales
+
+\subsubsection{Phonèmes préinitiaux}
+\subsubsection{Hiérarchie préinitiale}
+
+la hiérarchie préinitiale
+
+\subsection{Médiane}
+\subsection{Groupes de consonnes}
+\section{Rimes}
+\subsection{Noyau}
+\subsection{Coda}
+\section{Système suprasegmental}
+\subsection{Accent}
+\subsection{Système tonal}
+\section{Processus phonologiques}
+\subsection{Assimilation}
+\subsection{Dissimilation}
+
+\ipa{s} > \ipa{l} etc
+
+\subsection{Métathèse}
+\subsection{Épenthèse}
+\subsection{Harmonie vocalique}
+
+
+
+\part{Les non-verbes}
+\chapter{Le nominal}
+\section{Les nominaux}
+\subsection{Noms}
+genre, nombre, etc
+
+vocatif (appel, question)
+\subsection{Pronoms}
+\subsection{Numéraux}
+\subsection{Classificateurs}
+
+Le préfixe \ipa{vɑ-}, `plusieurs'
+
+\section{Composés nominaux}
+\subsection{Types des composés}
+\subsection{Ton du composé}
+\section{Syntagmes nominaux}
+\subsection{Défini, indéfini, démonstratif}
+\subsection{Postpositions}
+
+
+
+\subsection{Structure du syntagme nominal}
+\chapter{Adverbes}
+\chapter{Idéophones}
+\chapter{Particules finales}
+
+\section{\ipa{di}}
+
+affirmatif
+
+\section{\ipa{ɕəɣ}}
+
+\section{\ipa{stɑ}}
+
+\section{\ipa{ɣə}}
+
+\section{\ipa{ja}}
+
+\section{\ipa{qɑ}}
+
+
+\part{Les verbes}
+\chapter{Types des verbes}
+\section{Copules}
+
+\ipa{ŋǽ} 
+
+\ipa{mɑ́ɣ}
+
+\section{Verbes existentiels}
+
+\subsection{\ipa{də́} $~$ \ipa{mí}} 
+
+\subsection{\ipa{ɟê}}
+
+\subsection{\ipa{dzɑ̂ɣ}}
+
+\subsection{\ipa{χcʰû}}
+
+\subsection{\ipa{kʰû}}
+
+\subsection{\ipa{stî}}
+
+\subsection{\ipa{ʁvdʑə̂}}
+
+\subsection{\ipa{ʁɴcʰə̂r}}
+
+\section{Verbes d'état}
+
+intransitif, testé par \ipa{ɣə mə-tsʰə́t} (extrêmement)
+
+\section{Verbes d'action}
+\section{Verbes de mouvement}
+
+rig 'dus lha mo (2014)
+
+\section{Verbes supports}
+
+\subsection{\ipa{vî}}
+
+\subsection{\ipa{lǽ}}
+
+\subsection{\ipa{tsʰə́}}
+
+\chapter{Le gabarit verbal}
+
+\begin{table}[H]
+ 	\label{template}
+ 	
+ 	  \centering
+ 	  \caption{Gabarit verbal du wobzi}
+ 	  \resizebox{\columnwidth}{!}{
+ 	    \begin{tabular}{rrrrrrrrrrrrrrrrr}
+ 	    \toprule
+ 	    \multicolumn{2}{c}{-11} & \multicolumn{1}{c}{-10} & \multicolumn{1}{c}{-9} & \multicolumn{1}{c}{-8} & \multicolumn{1}{c|}{-7} & \multicolumn{1}{c}{-6} & \multicolumn{1}{c}{-5} & \multicolumn{1}{c}{-4} & \multicolumn{1}{c}{-3} & \multicolumn{1}{c|}{-2} & \multicolumn{2}{c}{-1} & \multicolumn{1}{c|}{0} & \multicolumn{1}{c|}{1} & \multicolumn{2}{c}{2} \\
+ 	    \midrule
+ 	    \multicolumn{2}{c}{\multirow{3}[0]{*}{\ipa{sə̂-}}} & \multicolumn{1}{c}{\multirow{3}[0]{*}{\ipa{æ}, \ipa{næ}, etc.}} & \multicolumn{1}{c}{\ipa{u-}} & \multicolumn{1}{c}{\ipa{mə-}} & \multicolumn{1}{c|}{\multirow{3}[0]{*}{\ipa{zə̂-}}} & \multicolumn{1}{c}{\multirow{3}[0]{*}{\ipa{ʁ-}}} & \multicolumn{1}{c}{\multirow{3}[0]{*}{\ipa{N-}}} & \multicolumn{1}{c}{\multirow{3}[0]{*}{\ipa{v-}}} & \multicolumn{1}{c}{\ipa{s-}} & \multicolumn{1}{c|}{\multirow{3}[0]{*}{\ipa{ʁjæ̂-}}} & \multicolumn{2}{c}{\multirow{3}[0]{*}{Nom}} & \multicolumn{1}{c|}{\multirow{3}[0]{*}{Verbe}} & \multicolumn{1}{c|}{\multirow{3}[0]{*}{\ipa{ŋ}, \ipa{-j}, \ipa{-n}}} & \multicolumn{2}{c}{\multirow{3}[0]{*}{-C\ipa{ɑ}/\ipa{u}}} \\
+ 	    \multicolumn{2}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{\ipa{ɑ̂-}} & \multicolumn{1}{c}{\ipa{tə-}} & \multicolumn{1}{c|}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{\ipa{z-}} & \multicolumn{1}{c|}{} & \multicolumn{2}{c}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{2}{c}{} \\
+ 	    \multicolumn{2}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{\textit{}} & \multicolumn{1}{c}{\ipa{ɕə-}} & \multicolumn{1}{c|}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c}{} & \multicolumn{1}{c|}{} & \multicolumn{2}{c}{} & \multicolumn{1}{c|}{} & \multicolumn{1}{c|}{} & \multicolumn{2}{c}{} \\
+ 	\midrule
+ 	    \multicolumn{6}{c|}{Flexionnel}              & \multicolumn{5}{c|}{Dérivationnel}      & \multicolumn{3}{c|}{Radical} & \multicolumn{1}{c|}{Flexionnel} & \multicolumn{2}{c}{RDP} \\
+ 	\midrule
+ 	\\
+ 	    \multirow{12}[1]{*}{} & \multicolumn{11}{l}{Préfixes: }                                                       & \multicolumn{4}{l}{Suffixes:} & \multirow{12}[1]{*}{} \\
+ 	          & \multicolumn{11}{l}{-1 Incorporation}                                                 & \multicolumn{4}{l}{1 Suffixes personnels a, -j, -n} &  \\
+ 	          & \multicolumn{11}{l}{-2 Réfléchi \ipa{ʁjæ̂-} }                                               & \multicolumn{4}{l}{2 Réduplication} &  \\
+ 	          & \multicolumn{11}{l}{-3 Causatif \ipa{s-}, causative \ipa{z-} }                                                 & \multicolumn{4}{l}{}          &  \\
+ 	          & \multicolumn{11}{l}{-4 Causatif \ipa{v-} }                                                 & \multicolumn{4}{l}{}          &  \\
+ 	          & \multicolumn{11}{l}{-5 Autobénéfactif \ipa{N-} }                                           & \multicolumn{4}{l}{}          &  \\
+ 	          & \multicolumn{11}{l}{-6 Intransitif-réciproque \ipa{ʁ-} }                                    & \multicolumn{4}{l}{}          &  \\
+ 	          & \multicolumn{11}{l}{-7 Irréalis \ipa{zə̂-}}                                                  & \multicolumn{4}{l}{}          &  \\
+ 	          & \multicolumn{11}{l}{-8 Négatif \ipa{mə-}/\ipa{mɑ-}/\ipa{ma-}, prohibitf \ipa{tə-}, interrogatif \ipa{ɕə}}       & \multicolumn{4}{r}{}          &  \\
+ 	          & \multicolumn{11}{l}{-9 Inverse \ipa{u-} Irrealis \ipa{ɑ̂-}}                                       & \multicolumn{4}{r}{}          &  \\
+ 	          & \multicolumn{11}{l}{-10 Directionnel-aspectuel \ipa{æ-}, \ipa{næ-}, \ipa{kə}, \ipa{nə}, \ipa{læ-}, \ipa{və-}, \ipa{rə}}         & \multicolumn{4}{r}{}          &  \\
+ 	          & \multicolumn{11}{l}{-11 Progressif \ipa{sə̂-}}                                             & \multicolumn{4}{r}{}          &  \\
+ 	    \bottomrule
+ 	    \end{tabular}
+ }
+ 	\end{table}
+
+
+\chapter{Flexion}
+
+\section{Alternance thématique}
+
+\section{Accord personnel}
+
+\subsection{Construction intransitive}
+
+\begin{table}[H]
+\caption{Pronoms et suffixes personnels en wobzi}\label{pron}
+\centering
+\begin{tabular}{llll} 
+\hline
+	&Affixes verbaux &	Pronoms \\
+	\hline
+1sg &	\ipa{∑-\ipa{-ŋ}}  &	\ipa{ŋô} \\
+1du &	\ipa{∑-\ipa{-j}} &	\ipa{ŋgə̂ne}\\
+1pl &	\ipa{∑-\ipa{-j}} &		\ipa{ŋgə̂ɲɟi}\\
+2sg &	\ipa{∑-\ipa{-n}} &		\ipa{nû} \\
+2du &	\ipa{∑-n} &		\ipa{nêne} \\
+2pl &	\ipa{∑-n} &		\ipa{nêɲɟi} \\
+3sg &	∑  &		\ipa{ætə̂} \\ 
+3du &	∑ &	\ipa{ætə̂ne} \\
+3pl &	∑ &		\ipa{ætə̂ɟi} \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{Hiérarchie d'empathie}
+\subsection{Construction transitive}
+
+\begin{table}[H]
+\caption{Accord en construction transitive}\label{tran}
+\centering
+\begin{tabular}{
+>{\columncolor[HTML]{9B9B9B}}l lllll}
+{\color[HTML]{EFEFEF} }                                                  &  \multicolumn{5}{c}{\cellcolor[HTML]{9B9B9B}agent}                                                                                                                                                          \\
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{333333} }                          & \cellcolor[HTML]{C0C0C0}{\color[HTML]{C0C0C0} } & 1sg                                             & 1pl                                             & 2                                               & 3  \\
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{333333} }                          & 1sg                                             & \cellcolor[HTML]{C0C0C0}{\color[HTML]{EFEFEF} } & \cellcolor[HTML]{C0C0C0}{\color[HTML]{EFEFEF} } & ∑\ipa{-n}                                               & ∑\ipa{-ŋ} \\
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{333333} }                          & 1pl                                             & \cellcolor[HTML]{C0C0C0}{\color[HTML]{EFEFEF} } & \cellcolor[HTML]{C0C0C0}{\color[HTML]{EFEFEF} } & ∑\ipa{-n}                                                  & ∑-\ipa{j}  \\
+\cellcolor[HTML]{9B9B9B}{\color[HTML]{333333} }                          & 2                                               & \ipa{u-}∑\ipa{-ŋ}                                                & \ipa{u-}∑\ipa{-j}                                                                                             & \cellcolor[HTML]{C0C0C0}{\color[HTML]{C0C0C0} } & ∑\ipa{-n}     \\
+\multirow{-5}{*}{\cellcolor[HTML]{9B9B9B}{\centering \rotatebox{90}{patient}}} & 3                                               & \ipa{u-}∑\ipa{-ŋ}                                                & \ipa{u-}∑\ipa{-j}                                                                                             & \ipa{u-}∑\ipa{-n}                                                                                             & \ipa{u-}∑
+\end{tabular}
+\end{table}
+
+\subsection{Construction ditransitive}
+
+\subsection{Approche comparative}
+
+\section{Préfixes directionnels}
+\subsection{Directions}
+\subsection{Fonctions T-A-M}
+\subsubsection{Non-passé}
+\subsubsection{Passé perfectif}
+\subsubsection{Passé imperfectif}
+\subsubsection{Impératif}
+\subsubsection{Autres fonctions}
+\subsection{Approche comparative}
+
+\section{Progressif \ipa{sə̂-}}
+\section{Irréel-jussif \ipa{ɑ̂-}}
+\section{Irréel \ipa{zə̂-}}
+\section{Négatif \ipa{mə-}, \ipa{mɑ-}}
+\section{Prohibitif \ipa{tə-}}
+\section{Interrogatif}
+\subsection{\ipa{ɕə-}}
+\subsection{\ipa{ə̂-}}
+
+
+\chapter{Dérivation}
+
+\section{causatif}
+
+\begin{exe}
+\ex \begin{xlist}
+\ex 
+\gll \ipa{æjæ̂} \ipa{ŋô} \ipa{ə̂skʰə} \ipa{jdə̂} \ipa{æ-tʰ-ʊ̂ŋ}=\ipa{skɑ} \ipa{ŋæ̂=ji} \ipa{pʰəmgə́} \ipa{χsæ̂r} \ipa{næ-kʰú}=\ipa{tə} \ipa{jdəlɑ́} \ipa{næ-s-l-ʊ̂ŋ}\\
+\textsc{interj} \textsc{1sg} tout.à.l'heure eau \textsc{aor}-amener-\textsc{1sg=nmls:}temps \textsc{1sg=poss} dans.les.bras or  \textsc{aor-exist_2=def} dans.l'eau \textsc{aor-caus_s}-lancer_2-\textsc{1sg}\\
+Quand j'amenais l'eau, l'or dans mes bras est tombé dans le puis.\\
+
+\ex 
+\gll \ipa{æ̂ɕə} \ipa{tʂɑχpɑ̂} \ipa{rǽ} \ipa{u-s-jə̂ɣ}=\ipa{si}\\
+ensuite Bkra.pa dire_1 \textsc{aor.inv-caus_s}-finir_2=\textsc{evd}\\
+Ensuite, Bkra.pa a fini de parler. \\
+
+\ex 
+\gll \ipa{ægærêsitə} \ipa{jê} \ipa{nə-s-qʰlǽ} \ipa{gæ} \ipa{ə̂tsʰə} \ipa{s-kʰô} \ipa{ró}\\
+ensuite \textsc{3sg} \textsc{dir-caus_s}-sortir_1 \textsc{conj} un.peu \textsc{caus_s-}être.froid_1 devoir_1\\
+Ensuite il faut le sortir et le refroidir. \\
+
+\ex 
+\gll \ipa{nɑ̂ri-nvsê} \ipa{jdəlɑ́} \ipa{sə̂-dʑəɣ-dʑə̂ɣ} \ipa{rɑ̂ɣ} \ipa{jdə̂} \ipa{rɑ̂ɣ} \ipa{s-qʰlǽ}=\ipa{tə}\\
+matin dans.l'eau \textsc{gerond-}être.en.avant-\textsc{redup} un eau \textsc{caus_s}-sortir_1=\textsc{nmls} \\
+Il faut prendre la première goute d'eau du matin.\\
+
+\ex 
+\gll \ipa{ækʰə́ɣ} \ipa{ɕə} \ipa{pâ=ɣə} \ipa{jê=ɟi=ji} \ipa{mtɕʰoskʰó=gə} \ipa{<xiang>-ɕu} \ipa{s-nɑ̂r} \ipa{spæ̂r-pu} \ipa{s-nɑ̂r-ɕæ}\\
+par.la.suite \textsc{conj} tout.le.monde=\textsc{erg} maison.des.sutras=\textsc{loc}:dans  encens-\textsc{redup} \textsc{caus_s}-brûler_1 encens-\textsc{redup} \textsc{caus_s}-brûler_1-aller_1\\
+Par la suite, tout le monde retourne dans la maison des sutras et brûlent de l'encens. \\
+
+\ex 
+\gll \ipa{tɑkʰə́ɣ} \ipa{ɕə} \ipa{pʰæ̂jəl} \ipa{rmə̂=ji} \ipa{dɑ̂ɣ} \ipa{n-u-s-tʰé} \ipa{rə-ŋǽ}\\
+maintenant \textsc{conj} pays.natal oublier_1=\textsc{poss} poison \textsc{aor-inv-caus_s}-boire_2 \textsc{npast}-être_1\\
+Maintenant, il l'a fait boire le poison qui faisait oublier son pays natal.  \\
+
+\ex 
+\gll \ipa{nɑ̂ri-nvsê} \ipa{jdəlɑ́} \ipa{sə̂-dʑəɣ-dʑə̂ɣ} \ipa{rɑ̂ɣ} \ipa{jdə̂} \ipa{rɑ̂ɣ} \ipa{s-qʰlǽ}=\ipa{tə}\\
+matin dans.l'eau \textsc{gerond-}être.en.avant-\textsc{redup} un eau \textsc{caus_s}-sortir_1=\textsc{nmls} \\
+Il faut prendre la première goute d'eau du matin.\\
+
+\ex 
+\gll \ipa{ŋæ̂=ji} \ipa{pʰæ̂jəl}=\ipa{tə} \ipa{ŋə̂lɑ} \ipa{rə-ŋǽ} \ipa{u-rə̂} \ipa{gæ} \ipa{n-u-l-dz-ɑ̂ŋ} \ipa{u-rə̂} \\
+\textsc{1sg=poss} pays.natal=\textsc{def} où \textsc{npast-}être \textsc{aor.inv}-dire_2 \textsc{aor-inv-caus_s}-apprendre_1-\textsc{1sg} \textsc{aor.inv}-dire_2\\
+Où est mon pays natal ? Dis-moi ! Dit-il. \\
+
+\ex 
+\gll \ipa{<ke xue jia>}=\ipa{ɣə} \ipa{<hua shi>} \ipa{ɟê=ri=tə} \ipa{rgəmé} \ipa{mə-χtɕə̂ɣ} \ipa{<ceng>}=\ipa{tə=ɣə} \ipa{<hua shi>=ji} \ipa{lú} \ipa{mə-χtɕə̂ɣ=tə} \ipa{s-kɑkɑ̂}\\
+scientifique=\textsc{erg} fossile \textsc{exist_1=loc=def} pierre \textsc{neg}-être.pareil_1 couche=\textsc{def=instr} fossile=\textsc{poss} âge \textsc{neg}-être.pareil_1=\textsc{def} \textsc{caus_s}-se.séparer_1\\
+ Les scientifiques peuvent identifier l'âge des fossiles selon les différentes couches de fossiles.\\
+ 
+ \ex 
+\gll  \ipa{tɕʰé} \ipa{n-u-z-ɟə̂r} \ipa{ró} \\
+religion \textsc{npast-inv-caus_s}changer_1 devoir_1 \\
+Il faut qu'il traduise les œuvres religieuses.\\
+
+\ex 
+\gll  \ipa{ŋô} \ipa{jdə̂} \ipa{æ-ɬ-tsʰ-ʊ́ŋ}  \\
+\textsc{1sg} eau \textsc{aor-caus_s}-être.bouilli_1-\textsc{1sg} \\
+J'ai bouilli de l'eau. \\
+
+\ex 
+\gll \ipa{mə̂=ɣə} \ipa{tʂɑɕî} \ipa{k-u-s-lî=si} \\
+pluie=\textsc{erg} Bkra.shis \textsc{aor-inv-caus_s}-être.mouillé=\textsc{evd}\\
+La pluie a trempé Bkra.shis.\\
+
+ \ex 
+\gll  \ipa{ŋô} \ipa{nû=kʰe} \ipa{kɑpə̂} \ipa{rɑ̂ɣ} \ipa{nə-s-ŋî-n} \\
+\textsc{1sg} \textsc{2sg=dat} livre un \textsc{aor-caus_s}-emprunter_2-2 \\
+Je t'ai prêté un livre.\\
+
+\ex 
+\gll  \ipa{bó=ji} \ipa{tɕʰé} \ipa{n-u-z-dæ̂r} \\
+Tibet=\textsc{poss} religion \textsc{aor-inv-caus_s}-se.propager_2 \\
+Il a propagé la religion du Tibet \\
+
+\ex 
+\gll \ipa{ʁɲærvɑ̂} \ipa{sjævjɑ́} \ipa{rtsʰɑ̂ɣ=tə=gə} \ipa{ə̂rtsʰɑɣ} \ipa{ə̂rtsʰɑɣ} \ipa{u-z-bjǽ} \ipa{rə-ŋǽ} \\
+enfer dix.huit étage=\textsc{def=loc:}dans \textsc{cl} \textsc{cl} \textsc{dir-caus_s}-arriver_1 \textsc{npast-}être_1\\
+On l'a fait aller à toutes les couches de l'enfer.\\
+
+ \ex 
+\gll  \ipa{ʁu=ɟi} \ipa{n-u-z-gə́ɣ=si} \\
+tête=\textsc{pl} \textsc{aor-inv-caus_s}-baisser_2=\textsc{evd} \\
+Il a baissé la tête.\\
+
+ \ex 
+\gll  \ipa{æ̂ɕə} \ipa{cə̂} \ipa{nû} \ipa{u-n-s-cʰæ-scʰǽ-n} \ipa{vɟú=ŋkʰə=tə=ɟi=kʰe} \ipa{də} \ipa{ʁjæ̂mpʰrəɣ} \ipa{ró} \ipa{di} \\
+ensuite \textsc{dem} \textsc{2sg} \textsc{dir-autoben-caus_s}-être.grand_1-\textsc{redup}-2 gens=\textsc{nmls=def=pl=dat} aussi faire.attention_1 devoir_1 \textsc{affirm} \\
+Il faut t'assurer contre ceux qui te flattent. \\
+
+
+\ex 
+\gll \ipa{cə̂} \ipa{χ-s-rú=ŋkʰə́=tə} \ipa{slæ̂mpʰɑɣ=nɑ} \ipa{vlé}\\
+\textsc{def} χ-\textsc{caus_s}-se.faner_1=\textsc{nmls=def} un.demi.mois=environ attendre_1\\
+Il faut attendre environ un demi mois pour que ce devienne sec. \\
+
+
+
+
+\ex 
+\gll \ipa{æɕə} \ipa{mə̂rgo=zære} \ipa{sɑ̂=ji} \ipa{χcə́l} \ipa{u-ɬ-tɕʰərɑ́} \ipa{si}  \\
+ensuite ciel=et terre=\textsc{poss} centre \textsc{aor.inv-caus_s}-se.lever_2=\textsc{evd} \\
+Ensuite il a soulevé le ciel depuis la terre.\\
+
+ \ex 
+\gll  \ipa{ʁu=ɟi} \ipa{n-u-z-gə́ɣ=si} \\
+tête=\textsc{pl} \textsc{aor-inv-caus_s}-baisser_2=\textsc{evd} \\
+Il a baissé la tête.\\
+
+ \ex 
+\gll  \ipa{ægærêsi} \ipa{<da yu>=ɣə} \ipa{jʊŋsɑ̂} \ipa{χurû=gə} \ipa{ɟê=pɑ} \ipa{rɟɑ̂} \ipa{ɬɑ́-ɬɑ=ɟi} \ipa{pâ} \ipa{k-u-z-dú=pɑ} \ipa{rə-ŋǽ} \ipa{ɕə} \\
+ensuite Da.yu=\textsc{erg} encore là-haut.\textsc{loc:}dans \textsc{exist_1=nmls} être.grand_1 dieux-\textsc{redup=pl} tout
+\textsc{aor-inv-caus_s-}rencontrer_2=\textsc{nmls} \textsc{npast-}être_1 \textsc{conj}
+Ensuite Dayu a fait rencontrer tous les grands dieux. \\
+
+
+\ex 
+\gll \ipa{æɕə} \ipa{<ying long>} \ipa{rɑ̂ɣ} \ipa{næ-də̂=si} \ipa{ætə̂} \ipa{də} \ipa{k-ɑ̂-s-mumu} \ipa{ɕə} \\
+ensuite Ying.long un \textsc{aor}-\textsc{exist_2=evd}  \textsc{3sg} aussi \textsc{npast-juss-caus_s-}se.bouger_1 \textsc{conj}\\
+Ensuite, il y avait un dragon qui s'appelait Ying Long. Il est aussi demandé à bouger l'eau. \\
+
+
+
+
+\end{xlist}
+\end{exe}
+
+\section{Anti-causatif}
+
+\section{Autobénéfactif}
+
+\ipa{ɕǽ} ~ \ipa{n-t-ɕʰǽ} : Ce verbe est évidemment dérivé de \ipa{ɕǽ}, néanmoins, les thèmes 2 ne sont pas identiques :
+\ipa{ɕə̂} \textit{vs.} \ipa{ntɕʰə̂ɣ}
+
+transforme un verbe d'état en un verbe d'action \ipa{ɴ-qʰrɑ́} ? à vérifier
+
+\begin{exe}
+\ex \begin{xlist}
+\ex 
+\gll \ipa{χɑlə́} \ipa{rɑ̂ɣ} \ipa{scæ} \ipa{ç-n-sə̂v}=\ipa{si}\\
+carlin un seulement \textsc{autoben}-se.ressembler_2=\textsc{evd}\\
+Il est seulement comme un carlin (flatteur).\\
+
+\ex 
+\gll \ipa{ægærêsitə} \ipa{tsʰægí}=\ipa{ɟi} \ipa{n-u-n-dí}=\ipa{si}\\
+ensuite vêtement=\textsc{pl} \textsc{aor}-\textsc{inv}-\textsc{autoben}-laisser_2=\textsc{evd}\\
+Ensuite, il a laissé ses vêtements. \\
+
+\ex 
+\gll \ipa{ŋæ̂}=\ipa{ji} \ipa{jdə̂} \ipa{ə̂do} \ipa{n-u-dí-n} \ipa{u-rə̂}\\
+\textsc{1sg}=\textsc{dat} eau \textsc{cl} \textsc{imp-inv-}laisser_1 \textsc{aor}-dire_2\\
+Laisse-moi un peu d'eau ! \\
+
+\ex 
+\gll \ipa{bré}=\ipa{ji} \ipa{pʰɑɣtɕʰí}=\ipa{tə} \ipa{rgəmé} \ipa{qʰrɑ́}=\ipa{gə} \ipa{tʰɑ} \ipa{k-u-n-tú}=\ipa{si} \\
+corde=\textsc{poss} l'autre.côté=\textsc{def} pierre grand_1=\textsc{cl} \textsc{loc:}sur  \textsc{aor-inv-autoben}-entourer_2=\textsc{evd}\\
+Il a mis une pierre de l'autre côté de la corde. \\
+
+\ex 
+\gll \ipa{wê} \ipa{nû} \ipa{cə̂} \ipa{vɟú} \ipa{slû} \ipa{sə̂}-\ipa{ndæ}=\ipa{tə} \ipa{nû} \ipa{kətsé}=\ipa{gə} \ipa{dæ̂l-dzədzə̂} \ipa{χsæ̂r} \ipa{kə-n-skʰə́-ni}  \\
+\textsc{interj} \textsc{2sg} \textsc{dem} homme mentir_1 \textsc{supl}-love_1=\textsc{def} \textsc{2sg} là=\textsc{loc:}dans or \textsc{aor-autoben}-ramasser_1-\textsc{2sg}\\
+Hé ! Toi qui aimes mentir auxgens, ramasse de l'or là-dedans ! \\
+
+\ex 
+\gll \ipa{cə̂=gə} \ipa{tɕʰê} \ipa{kə-n-zgrə̂v-ni} \ipa{rǽ} \ipa{æ-tʰ-ɑ́ŋ} \\
+\textsc{dem=loc}:dans religion \textsc{aor-autoben}-pratiquer_1-\textsc{2sg} dire_1 \textsc{aor}-arriver_2-\textsc{1sg}\\
+Je suis venu pour te dire qu'il faut pratiquer le buddhisme. \\
+
+\ex 
+\gll \ipa{vlɑ̂mɑ} \ipa{æ-n-sjɑrkʰó} \ipa{si} \ipa{nɑ} \ipa{tʰæ̂} \ipa{rǽ}=\ipa{spi}=\ipa{tə} \ipa{næ-mî}=\ipa{si} \\
+grand.moine \textsc{aor-autoben}-se.fâcher_2 \textsc{evd} mais n'importe.quoi dire_1=\textsc{nmls}=\textsc{def} \textsc{aor}-disparaître_2=\textsc{evd}\\
+Le grand moine s'est fâché, mais il n'avait plus rien à dire. \\
+
+\ex 
+\gll \ipa{ʁovzî}=\ipa{vɑ}=\ipa{ɟi}=\ipa{ɣə} \ipa{lusæ̂r} \ipa{n-vî} \ipa{lə̂ɣ}=\ipa{tə} \ipa{rɟɑ̂}=\ipa{ɟi}=\ipa{sce} \ipa{χtɕə̂ɣ} \ipa{pʰjapʰjâ.} \\
+Wobzi=gens=\textsc{pl}=\textsc{erg} nouvel.an \textsc{autoben}-faire_1 façon=\textsc{def} chinois=\textsc{pl}=\textsc{instr} être.pareil_1  un.peu\\
+La façon dont les Wobzi fêtent le nouvel an est en gros pareille que les chinois. \\
+
+\ex 
+\gll \ipa{brô} \ipa{ŋə̂tə} \ipa{bjə̂m}=\ipa{ŋkʰə}=\ipa{tə}=\ipa{ɣə} \ipa{tʰóv} \ipa{ætə̂}=\ipa{ɣə} \ipa{n-dʑé} \ipa{spi} \ipa{u-ví} \ipa{rə-ŋǽ}  \\
+cheval lequel être.rapide_1=\textsc{nmls}=\textsc{def}=\textsc{erg} autorité \textsc{3sg}=\textsc{erg} \textsc{autoben}-attraper_1=\textsc{nmls} \textsc{aor}-faire_2 là=\textsc{npast}-être.1\\
+Celui qui a le cheval le plus rapide s'est fait obtenir l'autorité. \\
+
+
+
+\ex 
+\gll \ipa{tʰóv} \ipa{k-u-n-dʑé} \ipa{mæ-n-dʑé} \ipa{ægærêsi} \\
+autorité \textsc{aor-inv-autoben-}attraper_1 \textsc{neg-autoben}-attraper_1 ensuite\\
+Au moment où il a obtenu l'autorité... \\
+
+\ex 
+\gll \ipa{χorvɑ̂} \ipa{ɣə} \ipa{k-u-n-d-zə́m} \ipa{rə-ŋǽ} \\
+Horpa  \textsc{erg} \textsc{aor-inv-autoben-}d-emmener_2 \textsc{npast}=être_1\\
+Les Horpa l'ont emmené. \\
+
+\ex 
+\gll \ipa{cəcə̂}=\ipa{ɣə} \ipa{ntɕûpɑ}=\ipa{ɟi}=\ipa{ɣə} \ipa{<zhunbei>} \ipa{vî} \ipa{n-u-n-sjə̂ɣ}=\ipa{si} \\
+\textsc{dem}=\textsc{erg} paysan=\textsc{pl}=\textsc{erg} préparer faire_1 \textsc{aor-inv-autoben}-terminer_2 chinois=\textsc{evd}\\
+Ces paysans sont déjà prêts. \\
+
+\ex 
+\gll \ipa{ŋæ̂=ji} \ipa{<nvpengyou>}=\ipa{ji} \ipa{<piaozi>} \ipa{æqɑ́} \ipa{næ-də́} \ipa{n-ɑ̂-ŋæ}=\ipa{tə} \ipa{ŋô} \ipa{n-vsâ-ɕ-ɑŋ}  \\
+\textsc{1sg=poss} copine=\textsc{poss} argent beaucoup \textsc{aor-exist_2} \textsc{dir-irr}-être_1=\textsc{nmls} \textsc{1sg}  \textsc{autoben}-accumuler_1-aller_1-\textsc{1sg}\\
+Si ma copine avait beaucoup d'argent, j'irais le déposer. \\
+
+
+
+\ex 
+\gll \ipa{nû} \ipa{kə-jə́-n=skɑ} \ipa{χpə̂rju=ɣə} \ipa{sæpʰô}=\ipa{tə} \ipa{u-n-tɕʰətɕʰɑ́v.}  \\
+\textsc{2sg} \textsc{aor-}dormir_2 vent=\textsc{erg} arbre=\textsc{def} \textsc{aor.inv-autoben}-tomber_2\\
+Quand tu dormais, le vent a fait tomber les arbres. \\
+
+\ex 
+\gll \ipa{ə̂skʰə} \ipa{ŋgî=ji} \ipa{ʑəʑô=ɣə} \ipa{u-cʰó}=\ipa{ŋkʰə}=\ipa{tə}=\ipa{gə} \ipa{ntɕû}=\ipa{ɕi} \ipa{ɲ-ɟ-ɑ̂ŋ} \\
+tout.à.l'heure  \textsc{1pl=poss} oncle=\textsc{erg} \textsc{aor.inv-ouvrir_2}=\textsc{nmls=def=loc:}dans travailler_1=\textsc{part} \textsc{autoben-exist_1-1sg}\\
+Tout à l'heure, notre oncle était en train de travailler dans la grotte. \\
+
+\ex 
+\gll \ipa{nêne} \ipa{l-u-tʰǽ-n}=\ipa{pɑ} \ipa{də́} \ipa{zɑmɑ̂} \ipa{tʰjenɑ̂} \ipa{ŋǽ} \ipa{n-tsʰǽr} \ipa{mə-ró}\\
+\textsc{2du} \textsc{npast-inv-}nourrir-\textsc{2=nmls} \textsc{exist_1} nourriture combien être_1 \textsc{autoben}-s'inquiéter_1 \textsc{neg}-devoir_1 \\
+Vous serez entretenus, ne vous inquiétez pas. \\
+
+\ex 
+\gll \ipa{lotsɑ́} \ipa{vî} \ipa{ró} \ipa{n-u-ʁ-ɴ-sʊ̂ŋ}   \\
+traduction faire_1 devoir_1 \textsc{aor-inv}-ʁ-\textsc{autoben}-dire.\textsc{hon}_2\\
+Il faut les traduire, dit-il. \\
+
+
+\ex 
+\gll \ipa{pʰɑ́}=\ipa{tʰɑ} \ipa{scə̂t} \ipa{scə̂t} \ipa{qʰæ̂} \ipa{n-tʰǽ} \ipa{mʊŋmǽn}  \\
+montagne=\textsc{loc:}sur être.joyeux_1 être.joyeux_1 rire_1 \textsc{autoben-}amener_2 beaucoup \\
+Ils sont très heureux dans la montagne. \\
+
+\ex 
+\gll \ipa{nəjê} \ipa{ŋɑ̂=tʰɑ} \ipa{næ-n-stʰærvɑ̂-n} \\
+\textsc{2sg} \textsc{1sg=loc:}sur \textsc{aor-autoben}-gratter-\textsc{2}\\
+Tu m'a gratté.\\
+
+\ex 
+\gll \ipa{ŋô} \ipa{mb-ʊ̂ŋ} \ipa{ʁɴn-ɑ́ŋ}\\
+\textsc{1sg} être.timide_1-\textsc{1sg} être.grave_1-\textsc{1sg} \\
+Je suis vraiment timide. \\
+
+\ex 
+\gll \ipa{cə̂} \ipa{ftʂəskə̂} \ipa{zærêsitə} \ipa{məndʐɑ̂pɑ} \ipa{jnæ̂-ʁæi}=\ipa{tə}=\ipa{ɟi} \ipa{ə̂tsʰə} \ipa{næ-ʁ-ɴ-pæfɕí}=\ipa{si.}   \\
+\textsc{dem} moine.réincarné et immortel deux-\textsc{cl}=\textsc{def}=\textsc{pl} un.peu \textsc{aor}-\ipa{ʁ}-\textsc{autoben}-parler_2\\
+Le moine et l'immortel se sont parlés. \\
+
+\ex 
+\gll \ipa{mæ̂r} \ipa{pâ} \ipa{gɑ́ɣ=gə} \ipa{u-ŋ-kʰû} \ipa{n-u-zə́m=zæ} \\
+ensemble tout hotte=\textsc{loc:}dans \textsc{aor.inv-autoben}-mettre_2 \textsc{aor-inv-}emmener_2=et\\
+Il a mis tout dans la hotte et l'a emmené.\\
+
+\ex 
+\gll \ipa{æ̂ɕə} \ipa{ætə̂} \ipa{n-u-n-tʰə̂ɣ} \ipa{ɕə} \\
+ensuite \textsc{3sg} \textsc{aor.inv-autoben-}amener_2 \textsc{conj} \\
+Ensuite il l'a amené. \\
+
+\ex 
+\gll \ipa{æ̂ɕə} \ipa{rizvæ̂=tə=ɣə} \ipa{ʁú=tə} \ipa{rkʰû=gə} \ipa{gomægô} \ipa{l-u-n-dʑədʑə̂=si} \\
+ensuite tortue=\textsc{def=erg} tête=\textsc{def} carapace=\textsc{loc:}dans en.toute.hâte \textsc{aor-inv-autoben}-tirer_2=\textsc{evd}\\
+Ensuite la tortue s'est recroquevillée dans sa carapace. \\
+
+\ex 
+\gll \ipa{ŋô} \ipa{rŋɑ̂} \ipa{næ-n-rʑ-ʊ́ŋ}\\
+\textsc{1sg} visage \textsc{aor-autoben-}laver_2\\
+Je me suis lavé le visage. \\
+
+
+\end{xlist}
+\end{exe}
+
+
+
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll\ipa{æ̂ɕə} \ipa{jêtʰə-mɑmɑ̂} \ipa{cə̂} \ipa{mɲi} \ipa{n-u-j-n-zǽv=si}\\
+ensuite à.son.gré \textsc{dem} façon \textsc{aor-inv-}j-\textsc{autoben}-pétrir_2=\textsc{evd} \\
+Ensuite il l'a pétri à son gré. \\
+
+\ex 
+\gll \ipa{zə́r=tʰɑ} \ipa{rɑ̂ɣ} \ipa{næ-ɲ-jævjǽv=si}\\
+côté=\textsc{loc:}sur un.coup \textsc{aor-autoben-}toucher_2=\textsc{evd}\\
+Il a touché le côté. \\
+
+
+\ex 
+\gll \ipa{æ̂ɕə} \ipa{ræ̂-dæræ̂} \ipa{æ-ɴ-qʰrɑ̂=pɑ} \ipa{rə-ŋǽ}  \\
+ensuite tout.d'un.coup \textsc{aor-autoben-}être.grand_2=\textsc{nmls} \textsc{npast-}être_1 \\
+Ensuite il a rapidement grandi. \\
+
+\end{xlist}
+\end{exe}
+
+
+
+
+
+
+
+\section{réfléchi}
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{æ̂ɕə} \ipa{ŋô} \ipa{sêm=gə} \ipa{nə-ns-cʊ̂ŋ=ɣə} \ipa{nəjê} \ipa{lâχtɕʰər=gə} \ipa{dɑ̂ɣ} \ipa{χcʰû} \ipa{æ-rə̂-n} \ipa{ɕə} \ipa{ŋô} \ipa{ʁjæ̂-sɑ-ŋ} \ipa{nə-tsʰ-ʊ̂ŋ}\\
+ensuite \textsc{1sg} cœur-\textsc{loc:}dans \textsc{aor-}avoir.peur=\textsc{interj} \textsc{2sg} yaourt=\textsc{loc:}dans poison \textsc{exist_2} \textsc{aor}-dire_2-2 \textsc{conj} \textsc{1sg} \textsc{refl-}tuer_1-\textsc{1sg} \textsc{aor-}penser_2-\textsc{1sg}\\
+J'avais peur parce que tu as dit qu'il y avait du poison dans le yaourt, donc je voulais me suicider. \\
+
+\ex 
+\gll \ipa{ʁgêsær=tə} \ipa{nə-ʁjæ-sprí} \ipa{rə-ŋǽ}\\
+Gesar=\textsc{def} \textsc{aor}-\textsc{refl}-transformer_2 \textsc{npast-}être_1\\
+Gesar s'est métamorphosé. \\
+
+
+\ex 
+\gll \ipa{nû} \ipa{dʑədə́} \ipa{rǽ=tə} \ipa{rə-ʁjæ̂-sle-n=ɣə} \\
+\textsc{2sg} devoir écrire_1=\textsc{nmls} \textsc{npast-refl}-être.lent_1-2=\textsc{interj}\\
+Tu fais ton devoir trop lentement ! \\
+
+\ex 
+\gll \ipa{pîr} \ipa{və-pʰjɑ́-n=skɑ} \ipa{æ-ʁjæ̂-mpʰrəɣ-n} \ipa{mənə} \ipa{bərzé=ɣə} \ipa{nû=ji} \ipa{jɑ́ɣ} \ipa{k-u-pʰjɑ́-n} \ipa{di} \\
+crayon \textsc{dir-}éplucher_1-2=\textsc{nmls:}temps \textsc{imp-refl-}faire_attention_1-2 sinon couteau=\textsc{erg} \textsc{2sg=poss} main \textsc{npast-inv-}éplucher_1-2 \textsc{affirm}\\
+Quand tu tailles ton crayon, il faut faire attention, sinon tu te farais épluché par le couteau. \\
+
+\ex 
+\gll \ipa{çsæ̂rpɑ} \ipa{âmo=ɣə} \ipa{<ping guo>} \ipa{nsɣə́=pɑ} \ipa{æmæ̂cʰæ} \ipa{æ-ʁjæ-ví=si} \\
+être.nouveau_1 mère=\textsc{erg} pomme vendre_1=\textsc{nmls:}sujet vielle.dame \textsc{aor-refl-}faire_2=\textsc{evd}\\
+La nouvelle mère feignit d'être une vieille dame vendeuse de pommes. \\
+
+\ex 
+\gll \ipa{nəjê=rə} \ipa{tʰərə} \ipa{næ-mæ-ʁ-ɴ-jæ-slé-n} \ipa{tɕʰə} \ipa{sɑ̂} \ipa{næ-ɣô-n}  \\
+\textsc{2sg=top} rien \textsc{aor-neg-}ʁ-\textsc{autoben-refl-}être.lent_2 \textsc{conj} tuer_1 \textsc{aor-}pouvoir_2-2\\
+Et toi, il ne t'a pris beaucoup de temps pour le tuer. \\
+
+
+\end{xlist}
+\end{exe}
+
+\section{Passif}
+
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{æɕərə} \ipa{mɑ́ɣ=tʰɑ} \ipa{mɑ́ɣ} \ipa{χ-stî} \\
+ensuite faute=\textsc{loc:}sur faute \textsc{pass-}mettre\\
+Alors on sera doublement fautif. \\
+
+\ex 
+\gll \ipa{jê=ɣə} \ipa{æ̂ɕə} \ipa{rə-mæ-ʁ-ɴdæ̂} \ipa{ja} \ipa{n-u-ntsʰə̂=si}  \\
+\textsc{3sg=erg} ensuite \textsc{npast-neg-pass}-aimer_1 \textsc{interj} \textsc{aor-inv-}penser=\textsc{evd}\\
+Ensuite, elle se dit, " C'est ennuyeux ! " \\
+
+\ex 
+\gll \ipa{ɲcʰǽl=skɑ} \ipa{ŋə̂ntɕʰæ} \ipa{jê=ji} \ipa{sə̂-ʁ-ɴdæ-ndæ=lʊŋkʰɑ=tə=gə}  \\
+se.divertir_1=\textsc{nmls:}temps vraiment \textsc{3sg=poss} \textsc{supl-pass-}aimer_1-\textsc{redup}=\textsc{nmls:}temps=\textsc{def=loc:}dans\\
+Il était ses meilleurs moments quand elle se divertissait. \\
+
+\ex 
+\gll \ipa{ə̂skəkeke} \ipa{ɕə} \ipa{<lian hua feng>} \ipa{næ-χ-rcʰə́=si}   \\
+tout.d'un.coup \textsc{conj} sommet.lotus \textsc{aor-pass}-frendre_2=\textsc{evd}\\
+Tout d'un coup, il a fendu le sommet lotus. \\
+
+\ex 
+\gll \ipa{æ̂ɕə} \ipa{ɲadí=zæresi} \ipa{âmo=ne} \ipa{kə-ʁ-rdú} \ipa{kʰə́ɣ} \ipa{ɕə}   \\
+ensuite enfant=et mère=\textsc{du} \textsc{aor-pass-}rencontrer_2 après \textsc{conj}\\
+Ensuite, l'enfant et sa mère se sont rencontrés. \\
+
+
+\end{xlist}
+\end{exe}
+
+\section{Réciproque}
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{æ̂ɕə} \ipa{jê=ji} \ipa{ʑəʑô} \ipa{<er lang>} \ipa{ɬɑ́=tə=sce} \ipa{æ-χ-tsʰə-tsʰə́=si}  \\
+ensuite \textsc{3sg=poss} oncle Er.lang dieu=\textsc{def=com} \textsc{aor-rcp-}frapper_2-\textsc{redup=evd} \\
+Ensuite il s'est battu avec son oncle, le Dieu Erlang. \\
+
+
+\end{xlist}
+\end{exe}
+
+\section{Redondance préfixale}
+
+\section{\ipa{ʁ-ɴ}-\textsc{verbe} (tr.)}
+
+
+\part{Interaction Nom-Verbe}
+\chapter{Nominalisation}
+\chapter{Dénominalisation}
+
+\begin{table} [H]
+\caption{Dénominal}
+ \resizebox{\columnwidth}{!}{
+\begin{tabular}{llllll}
+Verbe dénominal    & Sens                 & Transitivité & Type sémantique & Radical nominal              & Sens       \\
+\hline
+\ipa{χ-cʰû}     & \textsc{exist}     & itr          & état ?          & \ipa{cʰî}                 & fond       \\
+\ipa{(næ)-χ-pê} & être bas             & itr          & état            & \ipa{*pe}                  & lieu bas   \\
+\ipa{ʁ-dədə̂m} & être horizontal             & itr          & état            & \ipa{*dəm}                  & ?   \\
+\ipa{ʁ-mɲə̂ɣ} & viser             & tr          & action            & \ipa{mɲə̂ɣ} (tib. mig)                  & œil   \\
+\ipa{ʁ-rô} & être étroit             & itr          & état         & \ipa{*no}                  &  ?   \\
+\ipa{ʁ-vdʑə́} & \textsc{exist}             & itr          & état ?        & \ipa{vdʑə́}                  &  copain   \\
+\ipa{ʁ-zə́r} &   craquer        & itr          & action        & \ipa{zə́r}                  &  fissure   \\
+\ipa{χ-cəcɑ́} &   être oval        & itr          & état        & \ipa{*cəcɑ́}                  &  ?   \\
+\ipa{χ-tə́m} &   être rond        & itr          & état        & \ipa{*təm}                  &  ?   \\
+\ipa{χ-pî} &   se câcher        & itr          & action        & \ipa{*pi}                  &  ?   \\
+
+\ipa{ç-ɲ-sæ̂v}   & ressembler           & itr          & état            & \ipa{çsǽv}                & apparence  \\
+\ipa{n-vsæmnʊ̂ŋ} & penser               & tr           & action          & \ipa{fsæmnʊ̂ŋ}             & penser     \\
+\ipa{n-zdə̂m}    & devenir nuageux      & itr          & action          & \ipa{zdə̂m}                & nuage      \\
+\ipa{m-pʰjîgru} & avoir des spasmes    & tr           & action ?        & \ipa{grû}                 & ligament   \\
+\ipa{n-spə̂}     & suppurer             & itr          & action          & \ipa{*spə} (\ipa{svə̂})  & pus        \\
+\ipa{ɲ-ɕɥæ̂n}    & choisir              & tr           & action          & <xuan>    & choix      \\
+\ipa{ɲ-ɕɥî}     & être du même âge     & itr          & état            & \ipa{ɕɥî}                 & dent       \\
+\ipa{n-dzê}     & apprendre            & tr           & action          & \ipa{*dze}                 & ?          \\
+\ipa{ŋ-kʰɑvdɑ̂}  & discuter             & tr           & action          & \ipa{kʰɑvdɑ̂}              & discussion \\
+\ipa{ŋ-kʰəkʰə́}  & suivre               & tr           & action          & \ipa{kʰə̂}                 &  arrière           \\
+\ipa{n-revɑ̂}  & faire une demande              & tr           & action          & \ipa{revɑ̂}                 &  demande         \\
+\ipa{n-lvɑ́ɣ}  & porter sur le dos             & tr           & action          & \ipa{lvɑ́ɣ}                 &  épaule         \\
+\ipa{n-sɑŋrɟê}  & devenir bouddha            & itr           & action          & \ipa{sɑŋrɟê}                 &  bouddha        \\
+\ipa{n-scêre}  & vivre          & itr           & action          & \ipa{scêre}                 &  vie        \\
+\ipa{n-tsʰêrɑŋ}  & avoir une longue vie          & itr           & état          & \ipa{tsʰêrɑŋ}                 &  longue vie        \\
+\ipa{n-vɑ́ɣ}  & devenir soûl          & itr           & état ?         & \ipa{vɑ́ɣ}                 &  alcool       \\
+\ipa{n-vsê}  & se lever tôt          & itr           & état ?         & \ipa{fsê}                 &  matin       \\
+\ipa{ʁ-ɴ-jî}  & pousser (plante)         & itr           & action         & \ipa{ʁjə̂}                 &  blé       \\
+\ipa{ʁ-ɴ-lə̂}  & chanter        & itr           & action         & \ipa{ʁlə̂}                 &  chanson       \\
+\ipa{n-rtsɑ̂}  & se rouiller        & itr           & action         & \ipa{rtsô}                 &  rouille       \\
+\ipa{n-srərɑ́}  &   balayer        & itr           & action         & \ipa{srərɑ́}                 &  balai       \\
+\ipa{n-nənə̂}  &   boire du lait        & vi           & action         & \ipa{nənə̂}                 &  sein     \\
+\ipa{n-lələ̂m}  &  sentir        & vt           & action         & \ipa{lələ̂m}                 &  odeur     \\
+\ipa{n-lulú}  &  traire        & vt           & action         & \ipa{lú}                 & lait    \\
+\ipa{ʁ-ɴ-sjê}  &   être flatulent        & vi           & état         & \ipa{χsjê}                 & pet    \\
+
+\hline
+\end{tabular}
+}
+\end{table}
+
+\begin{table} [H]
+\caption{Dénominal 2}
+ \resizebox{\columnwidth}{!}{
+\begin{tabular}{llllll}
+Verbe dénominal    & Sens                 & Transitivité & Type sémantique & Radical nominal              & Sens       \\
+\hline
+\ipa{l-dzê}     & enseigner            & tr           & action          & \ipa{*dze}                 & ?          \\
+\ipa{s-vɑ́ɣ}  & faire devenir soûl          & itr           & action         & \ipa{vɑ́ɣ}                 &  alcool       \\
+\ipa{s-cəcɑ́}  & platir          & tr           & action         & \ipa{*cəcɑ}                 &  ?       \\
+\ipa{s-pʰrî}  &   envoyer quelqu'un        & tr           & action         & \ipa{pʰrê}                 &  méssage       \\
+\ipa{s-ʁɑzə́ɣ}  &   se peigner        & tr           & action         & \ipa{ʁɑzə́ɣ}                 &  peigne       \\
+\ipa{z-grí}  &   récompenser        & tr           & action         & \ipa{grî}                 &  salaire      \\
+\ipa{s-pî}  &   câcher        & tr           & action         & \ipa{*pi}                 &  ?      \\
+\ipa{s-mê}  &   nommer        & tr           & action         & \ipa{rmê}                 &  nom      \\
+\ipa{s-ɲî}  &   faire d'une façon        & tr           & action         & \ipa{mɲî}                 &  façon      \\
+\ipa{s-kʰə́}  &   boucaner       & tr           & action         & \ipa{mkʰə́}                 &  fumée      \\
+\ipa{ɬ-tɕʰî}  &   guider       & tr           & action         & \ipa{tɕʰî}                 &  route      \\
+
+\ipa{m-ná}      & mettre dans la sauce & tr           & action          & \ipa{təná}                & sauce      \\
+\ipa{m-tsʊ̂ŋ}    & être rassemblé       & itr          & état            & \ipa{tsʰʊ̂ŋ} (tib. tshang) & foyer      \\
+
+\ipa{f-tɕʰî}    & marcher       & itr          & action           & \ipa{tɕʰî} & route     \\
+\hline
+\end{tabular}
+}
+\end{table}
+
+\chapter{Dérivation zéro}
+\chapter{Incorporation}
+
+	\begin{table}[H]
+\label{wobziilc}
+\centering
+\caption{Incorporation in Wobzi}
+ \resizebox{\columnwidth}{!}{
+\begin{tabular}{ ll|ll|ll|c }
+\hline
+Nominal & Gloss & Verb & Gloss & Incorporation & Gloss & Transitivity  \\ \hline
+\hline
+\hypertarget{qha}{\ipa{*qʰɑ}} & back? & \ipa{rŋɑ̂} & hunt, chase & \ipa{ɴ-qʰɑ-rŋɑ́} & chase & tr \\ \hline
+\multirow{2}{*}{\ipa{kʰə̂}} & \multirow{2}{*}{back} & \ipa{srí}  & look & \ipa{ŋ-kʰə-srí} & look back  & itr\\ \cline{3-7}
+ & &  \ipa{cə̂cə} & move & \ipa{ŋ-kʰə-cə̂cə} & step back & itr\\
+ \hline
+\ipa{bró} & horse & \ipa{rɟə̂ɣ} & run (Tib. \ipa{rgyug}) & \ipa{m-bræ-rɟə̂ɣ} & run, gallop & itr \\ \hline
+\ipa{χpî} & riddle (Tib. \ipa{dpe}) & \ipa{fɕæ̂} & tell (Tib. bshad) & \ipa{χ(-ɴ-)pæ̂-fɕæ} & talk & itr \\ \hline
+\ipa{gʊ̂ŋ} & trade (Tib. \ipa{gong}) & \multirow{2}{*}{\ipa{cʰæ̂}} & \multirow{2}{*}{be big} & \ipa{gʊŋ-cʰæ̂} & be expensive & itr \\ \cline{1-2} \cline{5-7}
+\multirow{3}{*}{\ipa{sjɑ̂r}} & \multirow{3}{*}{heart} &  &  & \ipa{(n)-sjɑ̂r-cʰæ} & be brave & itr\\ \cline{3-7}
+& & \ipa{rkʰô}  & cold & \ipa{(n)-sjɑ̂r-rkʰo} & be angry & itr \\ \cline{3-7}
+   & &  \multirow{2}{*}{\ipa{zê}} & \multirow{2}{*}{be young} & \hypertarget{sjz}{\ipa{(n)-sjɑ̂r-ze}} & be coward & itr\\
+ \cline{1-2} \cline{5-7}
+\ipa{fɕî} &  tooth &  &  & \hypertarget{fci}{\ipa{fɕî-ze}} & be young & itr \\ \hline
+%& & \ipa{rə̂m} & close & \ipa{fɕæ-rə́m} & be of the same age & itr \\ \hline
+  \multirow{2}{*}{\ipa{sêm}} & \multirow{2}{*}{heart (Tib. \ipa{sems})} & \ipa{zdə̂ɣ}  & be unhappy (Tib. \ipa{sdug}) & \ipa{(n)-sem-zdə̂ɣ} & be frustrated  & itr\\ \cline{3-7}
+ & &  \ipa{scə̂} & be happy (Tib. \ipa{skyid}) & \ipa{(n)-sem-scə̂} & be happy & itr\\
+ \hline
+\ipa{tɕʰî} & road & \ipa{fsê} & lead (ox) & \ipa{(n)-tɕʰæ̂-fse} & guide & tr \\ \hline 
+\multirow{3}{*}{\hypertarget{tha}{\ipa{tʰɑ}}} & \multirow{3}{*}{\textsc{loc} (surface)} & \ipa{ŋə̂m}  & hurt & \ipa{tʰæ-ŋə̂m} & be ill & itr \\ \cline{3-7}
+   & &  \hypertarget{rva}{\ipa{*rvɑ}} & ? & \ipa{s-tʰæ-rvɑ́} & scratch & tr\\ \cline{3-7}
+    & &   \multirow{2}{*}{\hypertarget{ja}{\ipa{*jæ}}} &  \multirow{2}{*}{old light verb} & \ipa{s-tʰæ-jǽ} & tidy & tr\\ \cline{1-2} \cline{5-7}
+   \ipa{rvî} & axe & &  & \hypertarget{rvaja}{\ipa{(n)-rvæ̂-jæ}} & chop & tr \\ \hline
+   \hypertarget{rpa}{\ipa{*rpæ}} & axe? & \hypertarget{tsa}{\ipa{*tsæ}} & old light verb? & \ipa{(n)-rpæ̂-tsæ} & chop & tr \\ \hline
+\ipa{rɟə́} & richess (Tib. {rgyu})  & \multirow{2}{*}{\ipa{rŋə́m}} & \multirow{2}{*}{be greedy (Tib. \ipa{rngam})} & \ipa{rɟə-rŋə́m} & be greedy & itr \\ \cline{1-2} \cline{5-7}
+\ipa{dzî} & food & &   & \ipa{n-dzæ-rŋə́m} & edacious & itr \\ \hline
+\hypertarget{rga}{\ipa{*rgæ}} & back (body) & \multirow{4}{*}{\hypertarget{le}{\ipa{*le}}} & \multirow{4}{*}{old light verb} & \ipa{rgæ-lə̂le} & turn over & itr \\ \cline{1-2} \cline{5-7}
+\multirow{2}{*}{\ipa{*tʂə}} & \multirow{2}{*}{roll (Tib. \ipa{dril})} & \multirow{2}{*}{}  & \multirow{2}{*}{}   & \ipa{χ-tʂə-lé} & be rolled & itr \\  \cline{5-7}
+  & & & & \ipa{tʂə-lé} & roll & tr \\ \cline{5-7}
+\multirow{2}{*}{\ipa{ʁû}} & \multirow{2}{*}{head} &  &  & \ipa{n-ʁɑ-lə̂le} & spin & itr \\ \cline{3-7}
+ & &  \ipa{pʰə́m} & cover & \ipa{n-ʁɑ̂-pʰəm} & cover head & itr \\
+ \hline
+ \ipa{*kʰæ} & mouth (Tib. \ipa{kha}) & \ipa{mpʰjǽr} & beautiful & \ipa{kʰæ̂-mpʰjær} & be courteous & itr \\ \hline
+  \ipa{qʰæ̂} & laugh & \ipa{tʰǽ} & bring & \ipa{qʰæ-tʰǽ} & be funny & ? \\ \hline
+   \ipa{ftê} & forehead & \ipa{rɣê} & hard & \ipa{fte-rɣê} & be generous & itr \\ \hline
+   \ipa{mtɕʰə́} & mouth (Tib. \ipa{mchu}) & \ipa{ʁbɑ̂ɣ} & be many & \ipa{mtɕʰə-ʁbɑ̂ɣ} & be garrulous & itr \\ \hline
+   \ipa{kʰrə̂m} & law (Tib. \ipa{khrims}) & \ipa{ɕǽ} & go & \ipa{s-kʰrə̂m-ɕæ} & scold & tr \\ \hline
+   \multirow{3}{*}{\ipa{jê}} & \multirow{3}{*}{reflexive pronoun \textsc{3sg}} & \multirow{2}{*}{\hypertarget{vla}{\ipa{*vlæ}}}  & \multirow{2}{*}{be messy?} & \ipa{s-jæ-vlǽ} & mix  & tr\\ \cline{5-7}
+   & & & & \ipa{z-jæ-vlǽ} & mix & tr\\ \cline{3-7}
+   & & \ipa{me} & be without (Tib. \ipa{med}) & \ipa{sjæmé} & accuse sb falsely & tr \\ \hline
+   \hypertarget{ba}{\ipa{*bæ}} &  lowness & \hypertarget{lje}{\ipa{*ljəljɑ}} & ? & \ipa{z-bæ-ljə̂ljɑ} & crawl & itr \\ \hline
+    \ipa{tsʰâ} &  goodness & \ipa{fsó} & be able & \ipa{(χ)-tsʰa-fsó} & behave well & itr \\ \hline
+    \ipa{bjǽ} &  outside & \ipa{χɕô} & slide & \ipa{m-bjæ-χɕə̂ɕo} & go skiing & itr \\ \hline
+    \hypertarget{scer}{\ipa{scə̂r}} & fear & \ipa{kʰɑ̂} & give &  \ipa{scə̂r-kʰɑ} & scare & tr \\ \hline
+   % \hypertarget{stae}{\ipa{*stæ}} & stone? & \ipa{ɲcô} & throw &  \ipa{n-stæ̂-ɲco} & jolt & tr \\ \hline
+  \end{tabular}
+  }
+\end{table}	
+
+
+\part{Constructions phrastiques}
+
+
+\chapter{Généralité}
+\section{Énoncé indirect}
+
+
+\chapter{Topicalisation}
+
+\ipa{rə}
+
+\ipa{nɑŋæ}
+
+\ipa{nɑŋæskɑfsəɣ}
+
+
+\chapter{Complémentation}
+
+
+\section{Temps Composés}
+
+
+
+\subsection{\textsc{verbe}+\ipa{kʰrə̂} `commencer'}
+
+\subsection{\textsc{verbe}+\ipa{ntɕʰǽ} `aller'}
+
+futur, conditionnel
+
+\subsection{\textsc{verbe}+\ipa{sjə́ɣ} `finir'}
+
+perfectif
+
+\subsection{\textsc{verbe}+\ipa{zdɑ̂r}}
+
+\subsection{\textsc{verbe}+\ipa{tô} `arriver'}
+
+perfectif immédiat
+
+\subsection{\textsc{verbe}+\ipa{ɕî} `toujours' + \ipa{ɲɟê} `\textsc{exist}'}
+
+progressif
+
+\section{Auxiliaires}
+
+\subsection{\textsc{verbe}+\ipa{fsó} `pouvoir'}
+
+\subsection{\textsc{verbe}+\ipa{jɑ́ɣ} `convenir'}
+
+\subsection{\textsc{verbe}+\ipa{ró} `devoir'}
+
+\subsection{\textsc{verbe}+\ipa{vdə̂ɣ} `devoir'}
+
+\subsection{\textsc{verbe}+\ipa{ntsʰə̂} `penser'}
+
+\section{\textsc{verbe}-\ipa{ɕæ} `aller'}
+
+Complètement productif. Analysé comme un seul verbe, la partie \ipa{ɕæ} n'a pas de ton. Les deux verbes peuvent être conjugués.
+
+\ipa{srî-ɕæ}
+
+\ipa{ntɕonî-ɕæ}
+
+etc. 
+
+
+\chapter{Relativisation}
+
+\section{Types des propositions relatives}
+
+\subsection{Externe}
+
+\subsection{Interne}
+
+\subsection{Restrictive}
+
+\subsection{Non restrictive}
+
+\section{Relativisation des arguments}
+
+\subsection{Sujet}
+
+
+\begin{exe}
+\ex \begin{xlist}
+\ex 
+\gll \ipa{jvɑ̂=tə} \ipa{jʊŋsɑ̂} \ipa{bósɑtɕɑ=tɕʰi} \ipa{brǽ=zo} \ipa{mí} \ipa{zɑmɑ̂} \ipa{rɑ̂ɣ} \ipa{ŋǽ}  \\
+tsampa=\textsc{def} encore région tibétaine=\textsc{loc} manquer_1=\textsc{nmls} être.absent_1 nourriture  un être_1\\
+La tsampa est aussi une nourriture qui ne peut pas se manquer dans la région tibétaine. (It is something whose \ipa{brǽ-zo} does not exist. Literally, Tsampa is a kind of food whose way in which it lacks does not exist. Double relative.)\\
+
+\ex 
+\gll \ipa{nɑ̂ri-nvsê} \ipa{jdəlɑ́} \ipa{sə̂-dʑəɣ-dʑə̂ɣ} \ipa{rɑ̂ɣ} \ipa{jdə̂} \ipa{rɑ̂ɣ} \ipa{sqʰlǽ}   \\
+matin dans.l'eau \textsc{superl-}être.tôt_1-\textsc{redup} un eau un extraire_1\\
+On prend la première goûte d'eau dans l'eau le matin. \\
+
+\ex 
+\gll \ipa{æ̂kʰəɣ} \ipa{ɕə} \ipa{<tang>-tʰu=njoni} \ipa{jvɑ̂-jvu=njoni} \ipa{stʰæjǽ} \ipa{ægæresi} \ipa{nə-sə̂=ŋkʰə=ɟi=ji} \ipa{k-u-stî}   \\
+ensuite \textsc{conj} bonbon-\textsc{redup}=par.exemple tsampa-\textsc{redup}=par.exemple ensuite \textsc{aor-mourir=nmls:}humain=\textsc{pl=dat}  \textsc{npast-inv-}mettre_1\\
+Ensuite, on met des bonbons et de la tsampa pour ceux qui sont morts. \\
+
+\end{xlist}
+\end{exe}
+
+\begin{exe}
+\ex \begin{xlist}
+\ex 
+\gll \ipa{pâ=ɣə} \ipa{tsʰægí=ɟi} \ipa{mpʰjǽr-mpʰju=pɑ} \ipa{gí} \ipa{gærêsi} \ipa{əŋó} \ipa{ʁdʑə̂mdʑəm}  \\
+tout.le.monde=\textsc{erg} vêtement=\textsc{pl} être.beau_1-\textsc{redup=nmls} porter_1 ensuite ensemble se.rassembler_1\\
+Tout le monde porte ses vêtements les plus jolis et se rassemble.\\
+
+\ex 
+\gll \ipa{χêtə=ɣə} \ipa{χsêdəɣpə=rɑɣ} \ipa{u-gî} \ipa{rə-ŋǽ}   \\
+\textsc{3sg=erg} vêtement.délabré=\textsc{nmls:}un \textsc{inv-}porter_2 \textsc{npast-}être_1\\
+Il a porté un vêtement délabré. \\
+
+\ex 
+\gll \ipa{æɕə} \ipa{<kexuejia>=ɟi=ɣə} \ipa{jmbjə̂mpɑ=tə} \ipa{<konglong>=tə} \ipa{nə-ɲɟə́rtʰo=pɑ} \ipa{r-u-ntsʰə̂.}\\
+ensuite scientifique=\textsc{pl=erg} oiseau=\textsc{def} dinosaure=\textsc{def} \textsc{aor-}transformer_2=\textsc{nmls} \textsc{npast-inv}-penser
+Ensuite, Les scientifiques pensent que des dinosaures ont évolué en les oiseaux. \\
+
+
+\ex 
+\gll \ipa{cə̂} \ipa{sʁǽi} \ipa{sə̂-ʁjær=ŋkʰə=tə} \ipa{ʁlə̂vɑ=tə} \ipa{ŋgə̂ɲɟi=ji} \ipa{sɑ̂tɕɑ=gə} \ipa{vjí=si}  \\
+\textsc{dem} voix \textsc{superl-}être.mélodieux_1=\textsc{nmls:}humain=\textsc{def} chanteur=\textsc{def} \textsc{1pl=poss} lieu=\textsc{loc} venir_2=\textsc{edv}\\
+Le chanteur avec la voix la plus mélodieux est venu dans notre ville. \\
+
+
+\end{xlist}
+\end{exe}
+
+
+\subsection{Agent}
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{ʁnɑ̂ʁnɑ=tə=gə} \ipa{jə́l=tə=gə} \ipa{vɟú} \ipa{slû} \ipa{ndæ̂=pɑ} \ipa{rɑ̂ɣ} \ipa{næ-ɟé=si}  \\
+longtemps=\textsc{def=loc} village=\textsc{def=loc} homme mentir_1 aimer_1=\textsc{nmls} \textsc{aor-exist_2=evd}\\
+Il y a longtemps, il y avait quelqu'un qui aimait mentir aux gens. \\
+
+\ex 
+\gll \ipa{æɕə} \ipa{jê=ji} \ipa{lâgə} \ipa{næ-və̂} \ipa{ró} \ipa{ntsʰə̂=pɑ} \ipa{rɑ̂ɣ} \ipa{næ-ŋə̂ɣ=si}  \\
+ensuite \textsc{3sg=poss} dans.les.mains \textsc{dir}-aller_1 devoir_1 penser=\textsc{nmls} \textsc{aor-}être_2=\textsc{evd}\\
+Il est quelqu'un qui veut que (l'objet) aille dans ses mains.\\
+
+\ex 
+\gll \ipa{nəjê} \ipa{sə̂-æ-scʰǽ-scʰæ-n=ŋkʰə=tə=ɟi} \ipa{vɟú=tə=ɟi=ɣə} \ipa{r-ɑ̂-vji} \ipa{ætə̂=ɟi=ɣə} \ipa{nû} \ipa{ɑ̂-dʑədʑə-n=tsʰi}  \\
+\textsc{2sg} \textsc{superl-npast-}flatter_1-\textsc{redup=nmls:}humain=\textsc{def=pl} homme=\textsc{def=pl=erg} \textsc{npast-juss-}venir_1 \textsc{3sg=pl=erg} \textsc{2sg} \textsc{dir.juss}-tirer-2=\textsc{evd}\\
+Que viennet ceux qui aiment te flatter et qu'ils te sauvent ! \\
+
+\ex 
+\gll \ipa{ætə̂=ji} \ipa{jê=kʰe} \ipa{dʑədə́} \ipa{ndzê=pɑ} \ipa{rɑ̂ɣ} \ipa{næ-ɟé=si}   \\
+\textsc{3sg=poss} \textsc{3sg=dat} lettre apprendre_1=\textsc{nmls} un \textsc{aor-exist_2=evd}\\
+Il avait un étudiant. \\
+
+\ex 
+\gll \ipa{jê=ji} \ipa{χpə̂n} \ipa{ŋǽ=tə=ɣə} \ipa{n-u-vǽ} \ipa{næ-rô} \ipa{rə-ŋǽ}  \\
+\textsc{3sg=poss} chef être_1=\textsc{def-erg} \textsc{aor-inv-emmener_1} \textsc{aor-}devoir_2\\
+Il fallait que ce qui était le chef l'emmène. \\
+
+
+
+\end{xlist}
+\end{exe}
+
+\subsection{Patient}
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{bɑvɑ́ɣ=tə} \ipa{ɕə̂=ɣə} \ipa{u-ví=pɑ} \ipa{ŋǽ} \\
+liqueur.tibétaine=\textsc{def} orge.tibétaine=\textsc{instr} \textsc{aor.inv-}faire_2=\textsc{nmls} être_1\\
+La liqueur tibétaine est faite d'orge tibétaine. \\
+
+\ex 
+\gll \ipa{bɑvɑ́ɣ=tə} \ipa{ɕə̂=gə} \ipa{k-u-sqʰlî=pɑ} \ipa{ŋǽ} \\
+liqueur.tibétaine=\textsc{def} orge.tibétaine=\textsc{loc} \textsc{aor-inv-}extraire_2=\textsc{nmls} être_1\\
+La liqueur tibétaine est faite d'orge tibétaine. \\
+
+\ex 
+\gll \ipa{cə̂} \ipa{jzəχú} \ipa{lŋá} \ipa{ftɕû-lo=tə=ɣə} \ipa{vî=spi=zære} \ipa{jêɟi=ɣə} \ipa{ndæ̂=spi=tə} \ipa{nə-mæ-χtɕə́ɣ=si}  \\
+\textsc{dem} singe être.petit_1  six-\textsc{cl=def=erg} faire_1=\textsc{nmls}=et \textsc{3pl=erg} aimer_1=\textsc{nmls=def} \textsc{aor-neg-}être.identique_2=\textsc{evd}\\
+Ce que les petits singes font et aiment ne sont pas pareils. \\
+
+\ex 
+\gll \ipa{ætə̂} \ipa{torə́} \ipa{rɑ̂ɣ} \ipa{vjí=tə=ɣə} \ipa{nəjê} \ipa{sə̂-ndæ-n=ji} \ipa{metâ=tə} \ipa{u-pʰɑɣlə́ɣ.}   \\
+\textsc{3sg} chat un.coup venir_2=\textsc{comp=conj} \textsc{2sg} \textsc{superl-}aimer_1-2=\textsc{poss} fleur=\textsc{def} \textsc{aor.inv-}renverser_2 \\
+Le chat est venu et a cassé la fleur que tu aimes le plus. \\
+
+\ex 
+\gll\ipa{mɑ́ɣ=ɣə} \ipa{vdé=spi} \ipa{æ-mî} \ipa{rə-ɕə̂} \ipa{rə-ŋǽ}  \\
+œil=\textsc{instr} voir_1=\textsc{nmls} \textsc{past.pft-}être.absent_2 \textsc{aor-}aller_2 \textsc{npast-}être_1\\
+Rien ne se voit plus. \\
+
+\ex 
+\gll \ipa{<huashi>=ji} \ipa{lú=t́ə} \ipa{skɑskɑ̂} \ipa{rə-mæ-ɲé=ænɑre} \ipa{rgəmé=ji} \ipa{<céng>} \ipa{mə-χtɕə̂ɣ=tʰɑ} \ipa{n-u-vdê=pɑ} \ipa{rə-ŋǽ}\\
+fossile=\textsc{poss} âge=\textsc{def} séparer_1 \textsc{npast-neg-}pouvoir_1=mais pierre=\textsc{poss} couche \textsc{neg-}être.identique=\textsc{loc} \textsc{aor-inv-}trouver_2=\textsc{nmls} \textsc{npast-}être_1\\
+L'âge des fossiles ne peuvent pas être identifié, mais ils sont trouvés dans différentes couches des pierres. \\
+
+\ex 
+\gll \ipa{zbjə́m=tə} \ipa{<zhongguo>} \ipa{sə̂-dʑəɣdʑə̂ɣ} \ipa{k-u-ntsʰə́ɣ=pɑ} \ipa{rə-ŋǽ}   \\
+pêche=\textsc{def} Chine \textsc{superl}-être.tôt_1-\textsc{redup} \textsc{aor-inv-}cueillir_2=\textsc{nmls} \textsc{npast-}être_1\\
+La pêche est cueillie en Chine le premier. \\
+
+\ex 
+\gll \ipa{cə̂} \ipa{kɑpə̂=gə} \ipa{ŋô} \ipa{nd-ɑ̂ŋ=pɑ} \ipa{<wenzhang>} \ipa{ə̂-lo} \ipa{rə-mæ-χcʰú.}  \\
+\textsc{dem} livre=\textsc{loc:}dans \textsc{1sg} aimer_1-\textsc{1sg-nmls} ariticle un-\textsc{cl} \textsc{npast-neg-exist_1}\\
+Il n'y a pas d'article que j'aime dans ce livre. \\
+
+\ex 
+\gll \ipa{cə̂} \ipa{kɑpə̂=gə} \ipa{ŋô} \ipa{nd-ɑ̂ŋ} \ipa{<wenzhang>=ŋkʰə=tə} \ipa{rə-mæ-χcʰú.}  \\
+\textsc{dem} livre=\textsc{loc:}dans \textsc{1sg} aimer_1-\textsc{1sg} ariticle=\textsc{nmls=def} \textsc{npast-neg-exist_1}\\
+Il n'y a pas l'article que j'aime dans ce livre. \\
+
+
+\end{xlist}
+\end{exe}
+
+
+
+\subsection{Possesseur}
+
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{brô} \ipa{ŋə̂tə} \ipa{bjə̂m=ŋkʰə=tə=ɣə} \ipa{tʰóv} \ipa{ndʑé=spi} \ipa{u-ví} \ipa{rə-ŋǽ}\\
+cheval lequel être.rapide_1=\textsc{nmls=def=erg} autorité obtenir_1=\textsc{nmls} \textsc{aor.inv-}faire_2 \textsc{npast-}être_1\\
+Celui qui a le cheval le plus rapide a obtenu l'autorité.
+
+\end{xlist}
+\end{exe}
+
+
+\subsection{Temps}
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{ŋô} \ipa{ə̂skʰə} \ipa{jdə̂} \ipa{æ-tʰ-ʊ̂ŋ=skɑ} \ipa{ŋæ̂=ji} \ipa{pʰəmgə́} \ipa{χsæ̂r} \ipa{næ-kʰû=tə} \ipa{jdəlɑ́} \ipa{næ-sl-ʊ̂ŋ}  \\
+\textsc{1sg} tout.à.l'heure eau \textsc{aor-}amener_2-\textsc{1sg=nmls:}temps \textsc{1sg=poss} dans.les.bras \textsc{aor-exist_2=nmls} dans.l'eau \textsc{aor-}laisser.tomber_2-\textsc{1sg}\\
+Tout à l'heure, quand je cherchais de l'eau, j'ai laissé l'or dans mes bras tomber dans l'eau. \\
+
+\ex 
+\gll \ipa{bótpɑ=ɣə} \ipa{cəcə̂} \ipa{<fengshi>=tə} \ipa{smǽn} \ipa{vî=skɑ} \ipa{ɕə} \ipa{χpə́} \ipa{k-u-stî} \ipa{ntɕʰǽ} \\
+tibétain=\textsc{erg} \textsc{dem} rhumatisme=\textsc{def} médecine faire_1=\textsc{nmls:}temps \textsc{conj} armoise \textsc{aor-inv-}mettre_1 aller_1\\
+Quand les tibétains traitent du rhumatisme, ils mettraient de l'armoise. \\
+
+\ex 
+\gll  \ipa{dʑədə́} \ipa{ndzê=pɑ=tə=ɣə} \ipa{<shifu>} \ipa{mə-ɟê=skɑ} \ipa{lâχtɕʰər=tə} \ipa{tʰê} \ipa{n-u-sjə̂ɣ=si} \\
+lettre appendre_1=\textsc{nmls=def=erg} maître \textsc{neg-exist_1=nmls:}temps lait.acide=\textsc{def} boire_1 \textsc{aor-inv-}terminer_2=\textsc{evd} \\
+Quand le maître n'est pas là, l'étudiant a bu tout le lait acide. \\
+
+\ex 
+\gll \ipa{nû=ji} \ipa{<jiyi>} \ipa{sə̂-ɟa=skɑ} \ipa{ɕə} \ipa{cə̂} \ipa{kə-rǽ-n.} \\
+\textsc{2sg=poss} mémoire \textsc{superl-}être.bon_1=\textsc{nmls:}temps \textsc{conj} \textsc{3sg} \textsc{npast-}écrire_1-2 \\
+Écris-le quand tu t'en souviens le mieux. \\
+
+
+\end{xlist}
+\end{exe}
+
+
+
+\subsection{Lieu}
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{rkʰô=ri=tə=gə} \ipa{rkʰô=ri=ji} \ipa{sɑ̂tɕɑ=tə=gə=tə} \ipa{cə̂} \ipa{tʰæŋə̂m} \ipa{tʰǽ=tə} \ipa{bɑ̂}  \\
+être.froid_1=\textsc{nmls:}lieu=\textsc{def=loc:}dans être.froid_1=\textsc{nmls:}lieu=\textsc{poss} lieu=\textsc{def=loc:}dans=\textsc{def} \textsc{dem} maladie amener=\textsc{comp} être.facile_1\\
+Où il fait froid, dans les lieux où il fait froid, c'est facile d'avoir cette maladie. \\
+
+\ex 
+\gll \ipa{tʰæŋə̂m} \ipa{jbə̂v=ri=tə=tʰɑ} \ipa{jbə̂v=ri=tʰɑ} \ipa{<mianhua>=tə} \ipa{kʰú=si} \\
+maladie tuméfier=\textsc{nmls:}lieu=\textsc{def=loc:}sur tuméfier=\textsc{nmls:}lieu=\textsc{loc:}sur coton=\textsc{def} mettre_1=\textsc{evd}\\
+On met du coton sur la partie où il y a du gonflage. \\
+
+
+
+\end{xlist}
+\end{exe}
+
+
+
+\subsection{Instrument}
+
+
+\subsection{Manière}
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{ʁovzîvɑ=ɟi=ɣə} \ipa{lusæ̂r} \ipa{nvî=ləɣ=tə} \ipa{rɟɑ̂=ɟi=sce} \ipa{χtɕə̂ɣ} \ipa{pʰjapʰjâ}  \\
+peuple.wobzi=\textsc{pl=erg} nouvel.an célébrer=\textsc{nmls:}manière=\textsc{def} chinois-\textsc{erg=com}  être.pareil_1 en.gros \\
+La façon dont le peuple wobzi célèbre le nouvel an est similaire à celle des chinois. \\
+
+
+\end{xlist}
+\end{exe}
+
+\subsection{Raison}
+
+\subsection{Thème de construction bitransitive}
+
+
+\begin{exe}
+\ex \begin{xlist}
+
+\ex 
+\gll \ipa{dʐomɑ́} \ipa{r-ɑ̂-vde-n} \ipa{ɕə} \ipa{cə̂=ji} \ipa{dʑə́ɣ} \ipa{<xingqi>} \ipa{ŋɑ̂=kʰe} \ipa{kɑpə̂} \ipa{n-u-rŋî=tə} \ipa{ŋɑ̂=kʰe} \ipa{n-u-j-ɑ́ŋ} \ipa{æ-rǽ-ni}  \\
+Sgrolma \textsc{npast-irr-}voir_1-\textsc{2} \textsc{conj} \textsc{3sg=poss} être.tôt_1 \textsc{1sg=dat} livre \textsc{aor-inv-}emprunter_2=\textsc{nmls} \textsc{1sg=dat} \textsc{npast-inv-}rendre_1-\textsc{1sg} \textsc{npast-}dire_1-2\\
+Si tu vois Sgrolma, Demande-lui de me rendre le livre qu'elle m'a emprunté la semaine dernière.\\
+
+
+\end{xlist}
+\end{exe}
+
+
+
+\section{Autres}
+
+\chapter{Enchaînement des clauses}
+
+\section{Addition}
+
+\section{Succession temporelle}
+
+\section{Conséquence}
+
+\section{Conditionnelle}
+
+\section{Manière}
+
+\section{Alternatifs}
+
+
+\chapter{Pragmatiques}
+\section{Evidentialité}
+
+\ipa{si}
+
+
+
+\section{Registre}
+\subsection{\ipa{zə̂mɑ} `sommeil'}
+\ipa{zə̂mɑ k-ɑ̂-ɟa}
+\subsection{\ipa{vʑə̂ɣ} `\textsc{exist}'}
+\subsection{\ipa{ʑə̂} `faire'}
+\subsection{\ipa{χsʊ̂ŋ} `dire'}
+\subsection{\ipa{χsæ̂r} `manger'}
+\subsection{\ipa{bjə̂m} `aller'}
+\subsection{\ipa{ŋkʰrʊ̂ŋ} `se réincarner'}
+\subsection{\ipa{ndæ̂r} `mourir'}
+
+\section{Utilisation du pluriel \ipa{ɟi}}
+\section{Interjections}
+\subsection{\ipa{avɑ̂ɣ}}
+\subsection{\ipa{âvɑɣ}}
+\subsection{\ipa{ônɑ}}
+\subsection{\ipa{ôχo}}
+\subsection{\ipa{qɑ́}}
+\subsection{\ipa{ʁuʁɑ̂}}
+\subsection{\ipa{stɑ}}
+\subsection{\ipa{tɕʰəm}}
+\subsection{\ipa{tsɑ̂}}
+
+\part{Le khroskyabs dans ses alentours}
+\chapter{Les langues en contact}
+\section{Rta'u g.yurong}
+\section{Tibétain Amdo}
+\section{Mandarin du sud-ouest}
+\chapter{Relations génétiques}
+cognats, etc
+\chapter{Contact des langues}
+emprunts, etc
+
+\part{Annexe}
+\chapter*{Vocabulaire}
+\chapter*{Codes pour l'analyse des données}
+\section*{Extraction des attaques}
+
+
+\begin{lstlisting}
+
+
+#!/usr/bin/perl -w
+use strict;
+
+use warnings;
+use utf8;
+use lib "/Users/yun2fan1/perl5/lib/perl5"; # use your own lib
+use utf8::all; #ARGV utf-8 encoding
+binmode( STDOUT, 'utf8:' );
+
+print "Please enter your Toolbox dictionary file (Default file name: Dictionary.txt)\n";
+my  $filename = <STDIN>;
+chomp $filename;
+
+my $vowels = qr/(i|e|æ|a|ɑ|u|o|ʊ|ə)/; # use your own vowel inventory
+
+open(FILEOUT, ">:utf8", "new$filename");
+open(FILEON, ">:utf8", "allonsets.txt");
+
+
+open my $fh, '<:encoding(UTF-8)', $filename
+or die "Could not open file '$filename' $!";
+  
+my @linea = <$fh>;
+
+
+        foreach  my $line (@linea) 
+            { 
+                if ($line =~  /lx/)
+                        {
+                            my $word = substr($line, 4);
+                            print FILEOUT $word;
+                           
+                                foreach($word)
+                                         { 
+                                                 if ($word =~  m/^([^$vowels]*)($vowels)*/) # finds out the onset
+                                                                    {   
+                                                                            print FILEOUT "\\on $1 \n";
+                                                                            printf FILEON "$1\n";
+                                                                            
+                                                                    }
+                                        }
+                
+                         }
+            }   
+             
+             
+close $fh;
+
+close FILEOUT;
+close FILEON;
+
+# hash
+
+open(FILE, ">:utf8", "onsets.txt");
+my $fileonset = 'allonsets.txt';
+
+my %dup = ();
+{
+    local @ARGV = ($fileonset);
+    local $^I = '.bac';
+        while(<>)
+                    {  
+                            $dup{$_}++;
+                            
+                            next if $dup{$_} > 1;
+                            print;
+                    }
+}
+my $count=0;
+foreach my $clusters  (keys %dup)
+    {   $count ++ ;
+     
+    my $length;
+    
+     if ($clusters =~  /(tsʰ|tɕʰ|tʂʰ)/) {$length = length($clusters)-3}
+     
+   elsif ($clusters =~ /(ts|dz|tɕ|dʑ|tʂ|dʐ|pʰ|tʰ|cʰ|kʰ|qʰ)/) {$length = length($clusters)-2}
+                      
+                       else {$length = length($clusters)-1}    # if loop optional according to the language
+                             
+                             printf FILE  "%s%20s%20s%20s", "$length", "$count", "$dup{$clusters}", "$clusters";
+                             
+                       }
+    
+close FILE;
+
+# Now use Schwartzian transform. To sort by $length, $count or $dup{$clusters}: modify the regex in map{}.
+
+open(FINAL, ">:utf8", "result.txt");
+open my $fe, '<:encoding(UTF-8)', 'onsets.txt';
+printf FINAL "%s%20s%20s%20s\n", "length", "line", "count",  "cluster" ;
+
+my @array = <$fe>; 
+
+my @sorted =    map $_->[0],
+                sort { $a->[1] <=> $b->[1] }
+                map { [ $_, /^(-?[\d.]+)/ ] } @array;
+print FINAL @sorted;
+
+    
+my @files = ("allonsets.txt","allonsets.txt.bac", "onsets.txt.bac");
+foreach my $file (@files) {
+    unlink($file);
+}
+
+
+
+
+
+print "Done!! \n"
+
+
+\end{lstlisting}
+
+
+
+\section*{Ajout des rimes au dictionnaire}
+
+\begin{lstlisting}
+
+#!/usr/bin/perl -w
+use strict;
+
+use warnings;
+use utf8;
+
+print "Please enter your Toolbox dictionary file (Default file name: Dictionary.txt)\n";
+my  $filename = <STDIN>;
+chomp $filename;
+
+my $vowels = qr/(i|e|æ|a|ɑ|u|o|ʊ|ə)/;
+
+open(FILEFIR, ">:utf8", "first.txt");
+
+
+
+#my $filename = 'data.txt';
+open my $fh, '<:encoding(UTF-8)', $filename
+or die "Could not open file '$filename' $!";
+  
+my @linea = <$fh>;
+
+        foreach  my $line (@linea) 
+            { print FILEFIR $line;
+                while ($line =~  /lx/)
+                        {
+                            my $word = substr($line, 4);
+                                foreach($word)
+                                         {  
+                                                 if ($word =~  m/($vowels($vowels?)[^$vowels]*)$/)
+                                                                    {  
+                                                                            print FILEFIR "\\rm1 $1" 
+                                                                    }
+                                        }
+                last
+                         }
+            }
+             
+close $fh;
+print FILEFIR"";
+close FILEFIR;
+
+open(FILESEC, ">:utf8", "second.txt");
+open my $fl, '<:encoding(UTF-8)', "first.txt";
+
+my @lignes = <$fl>;
+
+        foreach  my $line (@lignes) 
+            { print FILESEC $line;
+                while ($line =~  /stemb/)
+                        {
+                            my $word = substr($line, 8);
+                                foreach($word)
+                                         {  
+                                                 if ($word =~  m/($vowels($vowels?)[^$vowels]*)$/)
+                                                                    {  
+                                                                            print FILESEC "\\rm2 $1" 
+                                                                    }
+                                        }
+                last
+                         }
+            }
+             
+close $fl;
+print FILESEC"";
+close FILESEC;
+
+open(FILETHI, ">:utf8", "rhymedfile.txt");
+open my $fx, '<:encoding(UTF-8)', "second.txt";
+
+my @xian = <$fx>;
+
+        foreach  my $line (@xian) 
+            { print FILETHI $line;
+                while ($line =~  /stemc/)
+                        {
+                            my $word = substr($line, 8);
+                                foreach($word)
+                                         {  
+                                                 if ($word =~  m/($vowels($vowels?)[^$vowels]*)$/)
+                                                                    {  
+                                                                            print FILETHI "\\rm3 $1" 
+                                                                    }
+                                        }
+                last
+                         }
+            }
+             
+close $fx;
+print FILETHI"";
+close FILETHI;
+
+unlink("first.txt");
+unlink("second.txt");
+
+\end{lstlisting}
+
+
+
+\section*{Extraction des exemples à alternance vocalique prédéfinie}
+
+\begin{lstlisting}
+
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use utf8;
+use lib "/Users/yun2fan1/perl5/lib/perl5"; # use your own lib
+use utf8::all; #ARGV utf-8 encoding
+
+print "Please enter your Toolbox dictionary file (Default file name: Dictionary.txt)\n";
+my  $filename = <STDIN>;
+chomp $filename;
+
+my $vowels = qr/(i|e|æ|a|ɑ|u|o|ʊ|ə)/;
+
+open(FILEINT, ">:utf8", "int1.txt");
+
+
+
+open my $fh, '<:encoding(UTF-8)', $filename
+or die "Could not open file '$filename' $!";
+
+my @linea = <$fh>;
+        foreach  my $line (@linea) 
+            {
+                if ($line=~ "\lx") {
+                    print FILEINT $line;
+                }
+                
+                if ($line=~ "m1") {
+                    print FILEINT $line;
+                }
+                
+                if ($line=~ "stemb") {
+                    print FILEINT $line;
+                }
+                
+                if ($line=~ "m2") {
+                    print FILEINT "$line\n";
+                }
+                
+                         }
+close $fh;
+print FILEINT"";
+close FILEINT;
+
+open(FILEOUT, ">:utf8", "ablaut_examples.txt");
+open my $fl, '<:encoding(UTF-8)', "int1.txt"
+or die "Could not open file 'int1.txt' $!";
+
+print "Please enter stem 1\n";
+my  $sta = <STDIN>;
+chomp $sta;
+
+print "Please enter stem 2\n";
+my  $stb = <STDIN>;
+chomp $stb;
+
+
+my @lignes = <$fl>;
+
+        foreach  my $line (@lignes) 
+            { 
+                while ($line =~  /lx/)
+                        {
+                            my $word = substr($line, 4);
+                                foreach($word)
+                                         {  
+                                                 if ($word=~ m/($vowels($vowels?)[^$vowels]*)$/ )
+                                                                    { my $rhyme=$1;
+                                                                           if ($rhyme=~$sta) {
+                                                                            print FILEOUT $line;
+                                                                           }
+                                                                 
+                                                                    }
+                                        }
+                last
+                         }
+                        
+                        
+                while ($line =~  /stemb/)
+                        {
+                            my $word1 = substr($line, 8);
+                                foreach($word1)
+                                         {  
+                                                 if ($word1=~ m/($vowels($vowels?)[^$vowels]*)$/ )
+                                                                    { my $rhyme1=$1;
+                                                                           if ($rhyme1=~$stb) {
+                                                                            print FILEOUT "$line\n";
+                                                                           }
+                                                                 
+                                                                    }
+                                        }
+                last
+                         }
+                        
+                        
+            }
+
+
+print FILEOUT;
+close FILEOUT;
+close $fl;
+unlink ("int1.txt")
+
+\end{lstlisting}
+
+
+
+\chapter*{Textes glosés} 
+ 
+\end{document}                          % The required last line
