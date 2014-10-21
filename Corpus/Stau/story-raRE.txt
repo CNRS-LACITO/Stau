@@ -1,18 +1,32 @@
 01	raʁə jə-lə gə nə-ɟi-sə ŋə-rə
+\b	Il y avait un radis blanc.
 02	rbaɴɢa jə-lə gə nə-ɟi-sə ŋə-rə
+\b	Il y avait un bousier
 03	smurdə jə-lə gə nə-ɟi-sə ŋə-rə
+\b	Il y avait des débrits de laine.
 04	tɕʰəge təɲu xsɔ tə-ɕə rəge, 
+\b	Ils sont allé tous les trois,
 05	xə gə tə-rkə-sə ŋərə.
+\b	Ils ont volé un yak hybride.
 06	xə gə tə-rkə-dʑə, smurdu rə-ɲcʰəca-sə ŋə-rə.
+\b	Ils ont volé un yak hybride, et les débrits de laine l'ont chevauché.
 07	rbaɴɢow ɣə-fqe-sə ŋə-rə
+\b	Le bousier le menait (par derrière)
 08	tɕʰəge tɕe nə ɣə-ɕə rəge, migugu χpərnaˠ gə tə-və-dʑə,
+\b	Sur le chemin, il y eut tout d'un coup une bourrasque.
 09	smurdə le tə-mgɔr-sə ŋərə, e-χpərnaˠ kʰa tə-mgɔr-sə ŋərə.
-10	raʁə le e-rcʰe-kʰa nə-ŋgə-sə ŋərə (le yak hybride n'en a fait qu'une bouchée).
+\b	Les débrits de laine furent emportés par un coup de vent.
+10	raʁə le e-rcʰe-kʰa nə-ŋgə-sə ŋərə 
+\b	Le yak hybride mangea le radis d'une bouchée.
 11	rbaɴɢa le, ʁɲa gə nə-vle-dʑə tə-spʰɔ-sə ŋərə.
+\b	Quant au bousier, (le yak) déféqua et l'enterra (sous sa bouse).
 12	(rkəmu) xə rkə-lə ma-vrə-dʑə xə ədəqʰɔ tə-rja-sə ŋərə.
+\b	Les voleur ne purent pas voler le yak, et il s'en alla de lui-même
 13	təgi ge tɕʰəge
-	təgige: ça s'appelle
-14	rkəmu xə mirkə, xu rkəmə fkʰrə jə-lə de ŋərə.
+\b	Cela s'appelle:
+14	rkəmu xə mi-rkə, xu rkəmə fkʰrə jə-lə de ŋərə.
+\b	Les voleurs ne volent pas le yak, le yak a attrapé les voleurs. 
 15	ste-sə ŋərə.
+\b	c'est fini.
 
 
