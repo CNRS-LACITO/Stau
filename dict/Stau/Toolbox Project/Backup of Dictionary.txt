@@ -5,7 +5,7 @@
 \ps n
 \ge father
 \gn 爸爸
-\dt 26/Nov/2013
+\dt 22/Oct/2014
 
 \lx aɣəda
 \ps n
@@ -35,7 +35,7 @@
 \ps n
 \ge east
 \gn 东
-\xv arəda durɔ
+\xv arəda durʚ
 \xe jusqu'en haut
 \dt 18/Nov/2013
 
@@ -69,7 +69,7 @@
 \2s nə-bev
 \3s nə-bev
 \1p nə-bã
-\xv tə jɔʁɔ jəkʰa ɲəvə nə-bev-sə
+\xv tə jʚʁʚ jəkʰa ɲəvə nə-bev-sə
 \xe Il est descendu du haut de la maison au rez de chaussée.
 \xv ŋa tə pev tɕʰa vdow.
 \xe I saw him fall down.
@@ -172,7 +172,7 @@
 \mr nə
 \ge appropriate
 \gn 合适的
-\xv ŋa tɕʰəge fɕou tə-ntsʰu rəgu, fɕe ve nə-ma-caˠ.
+\xv ŋa tɕʰəge fɕow tə-ntsʰu rəgu, fɕe ve nə-ma-caˠ.
 \xe I wanted to say something but it is not very appropriate.
 \xn 我想说一件事，但这不太合适。
 \mr tə
@@ -373,9 +373,6 @@
 \gn 去
 \mr _
 \1s tə-ɕã
-\2s
-\3s
-\1p
 \xv ŋa tə-ɕã ə-ŋgrə?
 \xe Can I go?
 \rgy ɕe
@@ -509,13 +506,14 @@
 \ge do
 \gn 做
 \mr -
-\1s dou
-\2s dei
+\1s dow
+\2s de-j
 \3s v-de
 \1p dã
-\xv liska de nə-dei!
+\xv liska de nə-dej!
 \xe Do this work!
 \xn 做吧！
+\dt 22/Oct/2014
 
 \lx demdi
 \ps adv
@@ -545,20 +543,12 @@
 \cf dwaŋs
 \dt 18/Nov/2013
 
-\lx dɔr
-\ps vi
-\ge burn
-\gn 燃起来
-\mr tə-
-\xv ɣmə ɣə-ntʰɔ ve, ɣme tɔr ŋərə
-\dt 15/Oct/2013
-
 \lx dzar
 \ps vi
 \mr _
 \ge fall
 \1s kə-dzã
-\xv ŋa ŋi ʁe nə jəkʰa təɲɟi zgɔrɟu nə kə-dzã.
+\xv ŋa ŋi ʁe nə jəkʰa təɲɟi zgʚrɟu nə kə-dzã.
 \xe Je suis tombé de ma porte jusqu'à sa fenêtre.
 \dt 18/Nov/2013
 
@@ -619,6 +609,14 @@
 \xn 他明天就走
 \dt 18/Oct/2013
 
+\lx dʚr
+\ps vi
+\ge burn
+\gn 燃起来
+\mr tə-
+\xv ɣmə ɣə-ntʰʚ ve, ɣme tʚr ŋərə
+\dt 15/Oct/2013
+
 \lx ecʰe
 \ps cl
 \ge nothing
@@ -638,13 +636,13 @@
 \gn 一背
 \dt 02/May/2013
 
-\lx emdɔ
+\lx emdʚ
 \ps adv
 \ge a little
 \gn 一点
 \dt 09/Sep/2013
 
-\lx emtɕʰɔ
+\lx emtɕʰʚ
 \ps adv
 \ge a little
 \gn 一点
@@ -666,7 +664,7 @@
 \ps cl
 \ge
 \gn 一棵、一条
-\xv skəlɔ eqʰe
+\xv skəlʚ eqʰe
 \xn 一条绳子
 \xv ɮda eqʰe
 \xn 一只手
@@ -806,7 +804,7 @@
 \2s nə-fkʰej
 \3s nə-fkʰe
 \1p nə-fkʰõ
-\xv ɕõdõ əqʰe nə-fkʰou.
+\xv ɕõdõ əqʰe nə-fkʰow.
 \xe I cut down a tree.
 \xn 我砍下了一棵树。
 \cf vge
@@ -909,17 +907,17 @@
 \ge to dry, to heat
 \gn 烘干，加热
 \mr kə
-\1s kə-ftsʰou
-\2s kə-ftsʰei
+\1s kə-ftsʰow
+\2s kə-ftsʰej
 \3s kə-ftsʰe
 \1p kə-ftsʰã
-\xv ŋə tsəgə kə-ftsʰou.
+\xv ŋə tsəgə kə-ftsʰow.
 \xe I dried the clothes.
 \xn 我弄干了衣服。
-\xv zama rkʰərkʰʚ de ɣmə kʰa kə-ftsʰou.
+\xv zama rkʰərkʰʚ de ɣmə kʰa kə-ftsʰow.
 \xe I heated the dish on the fire.
 \xn 我把饭菜在火上烤了。
-\dt 09/Apr/2013
+\dt 22/Oct/2014
 
 \lx ftsu
 \ps vt
@@ -936,10 +934,10 @@
 \xv zɟəbə tɕʰa tʂʰaχʚ ftsu.
 \xe put a teapot on the stove
 \xn 在炉子上放一个茶壶
-\se ŋgɔ ftsu
+\se ŋgʚ ftsu
 \ge begin
 \gn 开始
-\xv ŋa zɮdə-lə ŋgɔ kə-ftsu
+\xv ŋa zɮdə-lə ŋgʚ kə-ftsu
 \xe I started reading the book.
 \et btsugs
 \dt 18/Nov/2013
@@ -1000,14 +998,14 @@
 \mr nə-
 \ge grind
 \gn 磨
-\1s nə-ɣdʑou
-\2s nə-ɣdʑei
+\1s nə-ɣdʑow
+\2s nə-ɣdʑej
 \3s nə-ɣdʑʚ
 \1p nə-ɣdʑõ
 \xv wu-nə ɣdʑʚ nə-ɣdʑõ
 \xe We ground tsampa in the mill.
 \rgy ɣndʑɯr
-\dt 18/Nov/2013
+\dt 22/Oct/2014
 
 \lx ɣdʑʚ
 \ps n
@@ -1041,18 +1039,18 @@
 \ge wear
 \gn 穿
 \mr rə
-\1s rə-gəgou
-\2s rə-gəgei
+\1s rə-gəgow
+\2s rə-gəgej
 \3s rə-v-gə-v-ga
 \1p rə-gəgõ
 \2p rə-gəgə
-\xv pəsɲə rkʰʚ sə ci rə, tsəgə ke ɣri rə-gəgei.
+\xv pəsɲə rkʰʚ sə ci rə, tsəgə ke ɣri rə-gəgej.
 \xe It is cold today, wear more clothes.
 \xn 今天很冷，多穿点衣服。
 \xv ɲiɲə tsəgə rə-gəgə.
 \xe You all put on clothes.
 \xn 你们都穿了衣服。
-\dt 16/Apr/2013
+\dt 22/Oct/2014
 
 \lx gəmdi
 \ps adv
@@ -1093,7 +1091,7 @@
 \ge hole (on walls)
 \gn 墙洞
 
-\lx ɣlɔtʰɔ
+\lx ɣlʚtʰʚ
 \ps n
 \ge ground
 \gn 地
@@ -1175,7 +1173,6 @@
 \ps vi
 \ge watery, thin
 \gn 稀
-\rgy ŋgri
 \dt 18/Nov/2013
 
 \lx ɣrəva
@@ -1265,8 +1262,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 抱
 \mr rə
 \mr kə
-\1s rə-ɦwou
-\2s rə-ɦwei
+\1s rə-ɦwow
+\2s rə-ɦwej
 \3s rə-ɦwa
 \1p rə-ɦwã
 \xv ŋa de kə-ɦwã.
@@ -1279,6 +1276,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge oat
 \gn 燕麦
 \dt 30/Apr/2013
+
+\lx ja
+\ps N
+\ge bouche
+\gn 嘴巴
+\dt 22/Oct/2014
 
 \lx java
 \ps N
@@ -1364,12 +1367,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 房子
 \dt 10/Apr/2013
 
-\lx jɔ
-\ps adv
-\ge again
-\gn 又
-\dt 15/Oct/2013
-
 \lx jõca
 \ps adv
 \ge again
@@ -1382,32 +1379,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 轻而易举地
 \dt 02/Dec/2013
 
-\lx jɔqɔ
-\ps n
-\ge east of the house
-\dt 15/Oct/2013
-
-\lx jɔskʰɔ
-\ps n
-\ge north of the house
-\dt 15/Oct/2013
-
-\lx jɔvə
-\ps n
-\ge west of the house
-\dt 15/Oct/2013
-
-\lx jɔvə
-\ps N
-\ge propriétaire
-\gn 主人
-\dt 02/Dec/2013
-
-\lx jɔzɣə
-\ps n
-\ge south of the house
-\dt 15/Oct/2013
-
 \lx ju
 \ps vi
 \ge grow
@@ -1418,9 +1389,41 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 我长大了。
 
 \lx jʚ
+\ps adv
+\ge again
+\gn 又
+\dt 15/Oct/2013
+
+\lx jʚ
 \ps n
 \ge house
 \gn 房子，家
+
+\lx jʚqʚ
+\ps n
+\ge east of the house
+\dt 15/Oct/2013
+
+\lx jʚskʰʚ
+\ps n
+\ge north of the house
+\dt 15/Oct/2013
+
+\lx jʚvə
+\ps n
+\ge west of the house
+\dt 15/Oct/2013
+
+\lx jʚvə
+\ps N
+\ge propriétaire
+\gn 主人
+\dt 02/Dec/2013
+
+\lx jʚzɣə
+\ps n
+\ge south of the house
+\dt 15/Oct/2013
 
 \lx ke
 \ps adv
@@ -1506,6 +1509,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 包，袋子
 \dt 01/Jul/2013
 
+\lx kʰemtɕʰə
+\ps N
+\ge
+\dt 22/Oct/2014
+
 \lx kʰespə
 \ps n
 \ge moustache
@@ -1568,13 +1576,15 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv ləʁa kʰi dʐə ləɣə vɮde-sə.
 \xe The sheep gives birth to little sheep.
 \xn 绵羊生小羊。
-\dt 27/May/2013
+\xv ŋa ɕə-ba kʰã
+\xe je dois y aller
+\dt 22/Oct/2014
 
 \lx kʰile və
 \ps vt
 \ge quit
 \gn 戒掉
-\xv vɔ kʰile nə-vu
+\xv vʚ kʰile nə-vu
 \xn 我戒了酒
 \dt 26/Nov/2013
 
@@ -1703,11 +1713,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ng v
 \mr rə-
 \ge put
-\1s rə-lou
-\2s rə-lei
+\1s rə-low
+\2s rə-lej
 \3s rə-v-le
 \1p rə-lã
-\xv ŋa qəzə de tʂodzə-tɕʰa rə-lo
+\xv ŋa qəzə de tʂodzə-tɕʰa rə-low
 \xe I put the bowl on the table.
 \xv ŋa-ɲə ʁe rə-lã
 \xe We installed a door
@@ -1718,7 +1728,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge release, loosen
 \gn 松开，放开
 \mr tə
-\1s tə-lou
+\1s tə-low
 \2s tə-lei
 \3s tə-v-le
 \1p tə-lã
@@ -1779,7 +1789,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 他骗了我。
 \dt 18/Apr/2013
 
-\lx ləqɔ
+\lx ləqʚ
 \ps vi
 \ge boil
 \gn 沸腾
@@ -1849,13 +1859,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge have.child
 \de have a child
 \gn 生（孩子）
-\1s ɮdou
-\2s ə́-ɮdei
+\1s ɮdow
+\2s ə́-ɮdej
 \3s vɮde
 \1p ɮdã
-\xv ŋa qʰana ɮdo
+\xv ŋa qʰana ɮdow
 \xe I had a child.
-\dt 10/Apr/2013
+\dt 22/Oct/2014
 
 \lx ɮde
 \ps vi
@@ -1884,21 +1894,21 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv tu ŋi pʰembe gə v-ɮde.
 \xe He brought me a gift.
 \xn 他给我带来了礼物。
-\dt 26/Nov/2013
+\dt 22/Oct/2014
 
 \lx ɮde
 \ps vt
 \ge obtain
 \gn 得到
 \mr -
-\1s ɮdou
-\2s ɮdei
+\1s ɮdow
+\2s ɮdej
 \3s v-ɮde
 \1p ɮdã
 \xv ŋi tɕədə gə v-ɮde.
 \xe I received a letter.
 \xn 我收到了一封信。
-\dt 18/Oct/2013
+\dt 22/Oct/2014
 
 \lx ɮdə
 \ps n
@@ -1922,6 +1932,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe If we plant trees on both sides of the street, we will do good to the street.
 \xn 如果在路边种满柏树，路会很好的。
 \dt 18/Oct/2013
+
+\lx ɮdow
+\ps ?
+\xv ŋa ɮdow ɮdã
+\xe je l'ai eu (il me l'a rendu).
+\dt 22/Oct/2014
 
 \lx ɬe ɲcʰə
 \ps vi
@@ -1986,7 +2002,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 
 \lx ma
 \ps vt
-\ge applicate (oil, cream, medicine)
+\ge smear (oil, cream, medicine)
 \gn 搽
 \mr kə
 \1s kə-mow
@@ -2006,7 +2022,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ps vi
 \ge die out
 \gn 灭绝
-\xv <dinosaur> ʁna rou vdʚ-lə ma-ŋkʰə tə-kʰi-sə ŋərə.
+\xv <dinosaur> ʁna row vdʚ-lə ma-ŋkʰə tə-kʰi-sə ŋərə.
 \xe Dinosaurs died out long ago.
 \xn 恐龙在很久以前就灭绝了。
 \nq ???
@@ -2054,7 +2070,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 
 \lx mbi
 \ps vt
-\ge take away and bring back
+\ge take away and bring home
 \gn 带
 \mr -
 \1s mbu
@@ -2124,7 +2140,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \3s mbʚ
 \1p mbõ
 \xv kamə ŋa təmbõ.
-\xe I was embarassed just now.
+\xe I was embarrassed just now.
 \xn 刚刚我有点尴尬。
 \xv ŋi amu ŋagi sketɕʰa ke mbʚ fɕe rə.
 \xe My elder sister said something very embarassing to me.
@@ -2161,14 +2177,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s rə-mdzej
 \3s rə-mdze
 \1p rə-mdzã
-\xv ŋa qʰwa nə ɕa rə-mdzou
+\xv ŋa qʰwa nə ɕa rə-mdzow
 \xe I filled this bag with barley.
 \xn 我把这个袋袋装满了麦子。
-\xv ŋa ɣdʚ nə ɣrə rə-mdzou
+\xv ŋa ɣdʚ nə ɣrə rə-mdzow
 \xe I filled this bucket with water.
 \xn 我把这个水桶装满了水。
 \rgy mtsʰɤt
-\dt 18/Nov/2013
+\dt 22/Oct/2014
 
 \lx mdzimdzi və
 \ps vi
@@ -2202,6 +2218,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge mother
 \gn 妈妈
 \dt 16/Apr/2013
+
+\lx -me
+\ps
+\ge nmlz
+\xv smi ke ʁnõ-me
+\xe une fille très jolie
+\dt 22/Oct/2014
 
 \lx melʚ
 \ps n
@@ -2262,7 +2285,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 另一个
 \dt 02/Dec/2013
 
-\lx mgɔr
+\lx mgʚr
 \ps vt-i
 \ge blow away
 \mr tə-
@@ -2274,6 +2297,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge immediately
 \gn 马上
 \dt 01/Jul/2013
+
+\lx mistõ
+\ps N
+\ge dédommagement
+\dt 22/Oct/2014
 
 \lx mitsəm ɲcʰə
 \ps vi
@@ -2321,6 +2349,15 @@ rɟazu kə-ru sə de nə-ɣʑow
 \3s rə-mkʰi
 \1p rə-mkʰã
 
+\lx mkʰɔ
+\ps Vi
+\ge avoir besoin de 
+\gn 需要
+\xv ŋa rji-kʰa mi-mkhõ
+\xe je n'ai pas besoin d'un cheval
+\an tɕəma
+\dt 22/Oct/2014
+
 \lx mnʚ
 \ps vt
 \ge confide
@@ -2330,7 +2367,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s kə-mnej
 \3s kə-mnʚ
 \1p kə-mnõ
-\xv ŋa ŋi kʰemboˠ de rɣəvə qʰi kə kə-mnou.
+\xv ŋa ŋi kʰemboˠ de rɣəvə qʰi kə kə-mnow.
 \xe I confided my bag in my neighbour's house.
 \xn 我把包寄放在邻居家了。
 \dt 18/Nov/2013
@@ -2379,7 +2416,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv tu ti pʰjodzə tə-mpʰe sə.
 \xe He lost his money.
 \xn 他丢了钱。
-\xv ŋi poupou-nəjə kʰa pʰjʚdzə tə-ʂfwa dʑə nə-mpʰow-sə.
+\xv ŋi powpow-nəjə kʰa pʰjʚdzə tə-ʂfwa dʑə nə-mpʰow-sə.
 \xe I lost my money when I took it out from my pocket.
 \xn 我把钱拿从口袋里拿出来的时候发现钱丢了
 \xv tu ti pʰjodzə tə-mpʰe-sə
@@ -2429,7 +2466,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe est-ce que vous êtes d'accord pour venir?
 \ge suffire
 \gn 足够
-\xv təɲu ʁɔ-lə nə-və-sə kʰa əmpʰre rə? ma-mpʰre-ve, ŋa tə-kʰã.
+\xv təɲu ʁʚ-lə nə-və-sə kʰa ə-mpʰre rə? ma-mpʰre-ve, ŋa tə-kʰã.
 \xe Est-ce que ceux qui vont partir les aider ont assez (de gens, de provisions). Sinon, j'y vais (aussi).
 \dt 26/Nov/2013
 
@@ -2443,11 +2480,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ps vt
 \mr nə-
 \ge step_on
-\1s nə-mtʰou
+\1s nə-mtʰow
 \1p nə-mtʰã
-\2s nə-mtʰei
+\2s nə-mtʰej
 \3s nə-mtʰa
-\xv ŋa lili-tɕʰa nə-mtʰou
+\xv ŋa lili-tɕʰa nə-mtʰow
 \xe I stepped on the cat.
 \dt 19/Dec/2012
 
@@ -2552,13 +2589,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe Ne te moque pas de moi
 \dt 18/Nov/2013
 
-\lx mtsʰɔ
+\lx mtsʰʚ
 \ps n
 \ge lake
 \gn 湖
 \dt 14/Oct/2013
 
-\lx mtsʰɔzɮdə
+\lx mtsʰʚzɮdə
 \ps n
 \ge a type of game 
 \dt 21/Oct/2013
@@ -2664,22 +2701,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe My salary is not enough for a month.
 \xn 我的工资不够用一个月。
 \dt 16/Apr/2013
-
-\lx ndɔ
-\ps n
-\ge wish
-\gn 愿望
-\xv ŋi tə-pʰa stɔrmə le ndɔ ma.
-\xe I don't want to marry him.
-\dt 30/Sep/2013
-
-\lx ndɔ
-\ps Posp
-\ge at ... home
-\gn 在……家
-\xv ŋa ndɔ kə-ɮde
-\xn 来我家吧
-\dt 02/Dec/2013
 
 \lx ndzə tsə qʚlʚ kʰi
 \ps vi
@@ -2825,6 +2846,22 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 这人很好。
 \dt 18/Apr/2013
 
+\lx ndʚ
+\ps n
+\ge wish
+\gn 愿望
+\xv ŋi tə-pʰa stʚrmə le ndʚ ma.
+\xe I don't want to marry him.
+\dt 30/Sep/2013
+
+\lx ndʚ
+\ps Posp
+\ge at ... home
+\gn 在……家
+\xv ŋa ndʚ kə-ɮde
+\xn 来我家吧
+\dt 02/Dec/2013
+
 \lx ne
 \ps n
 \ge illness
@@ -2866,7 +2903,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe The fire is burning.
 \cf snə
 \rgy nɯt
-\dt 18/Nov/2013
+\dt 22/Oct/2014
+
+\lx nə
+\ps N
+\ge intérieur
+\gn 内
+\dt 22/Oct/2014
 
 \lx nənʚ
 \ps vi
@@ -2950,8 +2993,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge bring (take a certain opportunity to bring, bring sth. in passing)
 \gn 顺便带来
 \mr nə
-\1s nə-ntɕʰou
-\2s nə-ntɕʰei
+\1s nə-ntɕʰow
+\2s nə-ntɕʰej
 \3s nə-ntɕʰʚ
 \1p nə-ntɕʰõ
 \xv ŋa esɲəsɲə ma tɕa ke-ɮdʚ ntɕʰʚ-lə rmu rə.
@@ -3006,12 +3049,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe The frog jumps here and there.
 \xn 青蛙跳着走。
 
-\lx ntʰɔ
+\lx ntʰʚ
 \ps vt
 \mr rə-
 \ge make (fire)
 \1s rə-ntʰow
-\3s rə-ntʰɔ
+\3s rə-ntʰʚ
 \xv zɟəbə nə ɣmə rə-ntʰow
 \xe I made a fire on the three stones hearth.
 \dt 14/Oct/2013
@@ -3035,8 +3078,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge suck
 \gn 吮吸
 \mr ɣə
-\1s ɣə-ntsʰərvou
-\2s ɣə-ntsʰərvei
+\1s ɣə-ntsʰərvow
+\2s ɣə-ntsʰərvej
 \3s ɣə-ntsʰərva
 \1p ɣə-ntsʰərvã
 \xv ŋa ja nə kʰanda gə ntsʰərva-sə cã.
@@ -3272,11 +3315,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge lick
 \gn 舔
 \mr rə
-\1s rə-ɲɟalou
-\2s rə-ɲɟalei
+\1s rə-ɲɟalow
+\2s rə-ɲɟalej
 \3s rə-ɲɟala
 \1p rə-ɲɟalã
-\xv kətou ti ɮda ɲɟala-sə ci rə.
+\xv kətow ti ɮda ɲɟala-sə ci rə.
 \xe The dog is licking his hand.
 \xn 狗在舔他的手。
 \xv ʑələ du smi de ɲɟala rə.
@@ -3370,18 +3413,18 @@ rɟazu kə-ru sə de nə-ɣʑow
 \et ɴgʲod.pa
 \dt 18/Nov/2013
 
-\lx ɲɔpɕa
-\ps N
-\ge shopping
-\gn 购物
-\et ɲo.ptɕa
-\dt 09/Sep/2013
-
 \lx ɲʚŋəvə
 \ps n
 \ge four years later
 \gn 大大后年
 \dt 19/Apr/2013
+
+\lx ɲʚpɕa
+\ps N
+\ge shopping
+\gn 购物
+\et ɲo.ptɕa
+\dt 09/Sep/2013
 
 \lx ɲʚvə
 \ps n
@@ -3411,6 +3454,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \3s ŋə
 \rgy ŋu
 \dt 18/Nov/2013
+
+\lx ŋəmiŋɔma
+\ps Adv
+\ge exprès
+\gn 特意
+\xv ŋa ŋəmiŋɔma tə-jã-sə ŋõ
+\xe Je l'ai dit exprès (pour qu'il comprenne)
+\dt 22/Oct/2014
 
 \lx ŋərə
 \ps postp
@@ -3481,11 +3532,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge wok
 \gn 锅
 \dt 14/May/2013
-
-\lx ŋgɔrpaˠ
-\ps n
-\ge point faible des chien (nuque)
-\dt 18/Nov/2013
 
 \lx ŋgra
 \ps Post
@@ -3566,6 +3612,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 我安慰了孩子。
 \dt 01/Jul/2013
 
+\lx ŋgʚrpaˠ
+\ps n
+\ge point faible des chien (nuque)
+\dt 18/Nov/2013
+
 \lx ŋi
 \ps vi
 \ge good, well
@@ -3596,13 +3647,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge knock
 \gn 敲
 \mr nə
-\1s nə-ɴqʰədou
-\2s nə-ɴqʰədei
+\1s nə-ɴqʰədow
+\2s nə-ɴqʰədej
 \3s nə-ɴqʰəder
 \1p nə-ɴqʰədõ
-\xv rtəɴqʰʚ nõ tɕa de nə-ɴqʰədou.
+\xv rtəɴqʰʚ nõ tɕa de nə-ɴqʰədow.
 \xe I ground the tea leaves in a mortar.
 \xn 我在臼里研磨茶叶。
+\dt 22/Oct/2014
 
 \lx ɴqʰi
 \ps vi
@@ -3632,11 +3684,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge dig a hole
 \gn 挖洞
 \mr rə
-\1s rə-ɴqʰʚrou
-\2s rə-ɴqʰʚrei
+\1s rə-ɴqʰʚrow
+\2s rə-ɴqʰʚrej
 \3s rə-ɴqʰʚra
 \1p rə-ɴqʰʚrã
-\dt 01/Jul/2013
+\dt 22/Oct/2014
 
 \lx ŋu
 \ps adv
@@ -3678,8 +3730,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv ŋa pa spʚ dʑə ɕə sə cã.
 \xe I am walking.
 \xn 我在走路。
-\et spo
-\dt 18/Nov/2013
+\et spʚ
+\dt 22/Oct/2014
 
 \lx pala
 \ps vi
@@ -3749,8 +3801,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ps Pro
 \ge some
 \xv ŋa pʰapʰa-tɕʰa rcõ, pʰapʰa-tɕʰa mí-rcõ
-\xn Je sui méchant avec certains et pas avec d'autres
-\dt 26/Nov/2013
+\xe Je suis méchant avec certains et pas avec d'autres
+\dt 22/Oct/2014
 
 \lx pʰẽ
 \ps vi
@@ -3800,14 +3852,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \mr rə-
 \ge pray
 \gn 祈祷
-\1s rə-mtsʰou
+\1s rə-mtsʰow
 \1p rə-mtsʰã
 \2s rə-mtsʰei
 \3s rə-mtsʰe
-\xv ŋa pʰjaˠ rə-mtsʰou
+\xv ŋa pʰjaˠ rə-mtsʰow
 \xe I join hands in worship.
 \xn 我祷告了。
-\dt 19/Dec/2012
+\dt 22/Oct/2014
 
 \lx pʰji
 \ps vi
@@ -3825,13 +3877,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge break (thread, flexible objects)
 \gn 弄断（线，弹性物）
 \mr nə
-\1s nə-pʰrou
-\2s nə-pʰrei
+\1s nə-pʰrow
+\2s nə-pʰrej
 \3s nə-pʰre
 \1p nə-pʰrã
 \cf bre
 \rgy prɤt
-\dt 18/Nov/2013
+\dt 22/Oct/2014
 
 \lx pʰru
 \ps vt
@@ -3877,7 +3929,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 遮住
 \mr nə
 \3s nə-pʰʚ
-\xv ɕɔʁdu-kʰa qʰana de kə-pʰej
+\xv ɕʚʁdu-kʰa qʰana de kə-pʰej
 \xn
 \dt 21/Oct/2013
 
@@ -3966,7 +4018,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s ɣə-qej
 \3s ɣə-f-qe
 \1p ɣə-qã
-\dt 18/Nov/2013
+\xv rdʑi qe-lə mí-ru
+\xe Je ne sais pas pister
+\dt 22/Oct/2014
 
 \lx qe
 \ps vt
@@ -4091,14 +4145,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge tear
 \gn 撕
 \mr nə
-\1s nə-qʰrou
-\2s nə-qʰrei
+\1s nə-qʰrow
+\2s nə-qʰrej
 \3s nə-qʰre
 \1p nə-qʰrã
 \xv tu tsʰupa tə-za dʑə ti tɕədəɲə χsəmbə nə-qʰre sə.
 \xe He was so angry that he tore his books.
 \xn 他特别生气，还撕了他的书。
-\dt 12/Apr/2013
+\dt 22/Oct/2014
 
 \lx qʰwa
 \ps n
@@ -4138,14 +4192,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \mr kə
 \ge write
 \gn 写
-\1s kə-rou
-\1s kə-rei
+\1s kə-row
+\1s kə-rej
 \3s kə-v-ra
 \1p kə-rã
 \xv ŋa esɲəsɲəma tɕədə ra sɲə mi-bre rə.
 \xe Everyday I have no intention to write.
 \xn 我每天都不想写东西。
-\xv ŋa pʚju ra lə tə-ru ve, pʚju kʰa tɕədə gə rou tsʰu rə.
+\xv ŋa pʚju ra-lə tə-ru ve, pʚju kʰa tɕədə gə row tsʰu rə.
 \xe If I could write in Tibetan, I would write a book.
 \xn 如果我会写藏文的话，我会写一本书。
 \dt 10/Jun/2013
@@ -4192,7 +4246,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge snotty-nosed children
 \dt 21/Oct/2013
 
-\lx ravɔ
+\lx ravʚ
 \ps n
 \ge cave
 \gn 山洞
@@ -4280,9 +4334,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv ŋa ke rcʚ gə nə-vu.
 \xe I did it badly.
 \xn 我做得很差
-\xv tɕe ke rcɔ gə ŋə-rə
+\xv tɕe ke rcʚ gə ŋə-rə
 \xe The road is bad.
-\xv ɲi vdzi ə-rcɔ?
+\xv ɲi vdzi ə-rcʚ?
 \xn 你是不是好汉子？
 \dt 02/Dec/2013
 
@@ -4312,6 +4366,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 跳蚤
 \dt 21/Oct/2013
 
+\lx rdʑi
+\ps N
+\ge trace
+\gn 踪迹、脚印
+\dt 22/Oct/2014
+
 \lx refki
 \ps n
 \ge foal
@@ -4335,7 +4395,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1p tə-rõ
 \2s tə-ri
 \3s tə-v-rə
-\xv ŋa skərjʚ de rə-ɴqʰou rə ge rɟənʚr gə tə-ru
+\xv ŋa skərjʚ de rə-ɴqʰow rəge rɟənʚr gə tə-ru
 \xe I found a treasure while digging in the orchard.
 \xv ɲi ɕʰaɕə-lə de ɕʰa-lə tí-ri
 \xe Did you find what you were looking for?
@@ -4533,16 +4593,16 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 马
 \dt 11/Oct/2013
 
-\lx rji kɔmbatɕẽ
+\lx rji kʚmbatɕẽ
 \ps n
 \ge cheval d'endurance
 \dt 21/Oct/2013
 
-\lx rjɔ
+\lx rjʚ
 \ps vt
 \ge surround, fence in
 \gn 围起来
-\xv ɣmə de ɣməsə-kʰa kə-rjɔ-dʑə kə-pʰej
+\xv ɣmə de ɣməsə-kʰa kə-rjʚ-dʑə kə-pʰej
 \xn
 \dt 21/Oct/2013
 
@@ -4563,6 +4623,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge city
 \gn 城市
 \dt 14/May/2013
+
+\lx rɟatʂʰəm
+\ps N
+\ge procès
+\gn 诉讼
+\xv ŋa ɲi de rɟatʂʰəm nə-ɲcʰu
+\xe je fais te faire un procès
+\dt 22/Oct/2014
 
 \lx rɟeski
 \ps n
@@ -4662,9 +4730,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s kə-rkʰətsu
 \3s kə-rkʰətsu
 \1p kə-rkʰətsu
-\xv ŋa smi de kə-rkʰətsu dʑə nə-səlou
+\xv ŋa smi de kə-rkʰətsu-dʑə nə-səlow
 \xe 我把这个女孩推倒了。
-\xv ŋi rtɕaˠrta de ŋkʰərlʚ tə-bja dʑə rkʰətsu ba tə-kʰã
+\xv ŋi rtɕaˠrta de ŋkʰərlʚ tə-bja-dʑə rkʰətsu ba tə-kʰã
 \xe The tire of my bike blew out so I had to push it.
 \xn 我的单车爆胎了，所以我必须推着来。
 \dt 02/Dec/2013
@@ -4683,17 +4751,17 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 冷吗？
 \dt 17/Apr/2013
 
-\lx rkɔɲcʰoˠ
-\ps n
-\ge boiteux, qui a les jambes tordues
-\dt 26/Nov/2013
-
 \lx rkõtʰõ ɕə
 \ps vi
 \ge walk
 \gn 走路
 \et rkaŋ.tʰaŋ
 \dt 18/Nov/2013
+
+\lx rkʚɲcʰoˠ
+\ps n
+\ge boiteux, qui a les jambes tordues
+\dt 26/Nov/2013
 
 \lx rɬa
 \ps vi
@@ -4870,14 +4938,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \mr kə-
 \ge stir-fry
 \gn 炒（菜）
-\1s kə-rŋərŋou
-\2s kə-rŋərŋei
+\1s kə-rŋərŋow
+\2s kə-rŋərŋej
 \3s kə-rŋərŋa
 \1p kə-rŋərŋã
-\xv ŋa pjeno-rəge tsʰi ɣni snəm-kʰa kə-rŋərŋou
+\xv ŋa pjeno-rəge tsʰi ɣni snəm-kʰa kə-rŋərŋow
 \xe I fried meat and vegetables with oil.
 \cf rŋə
-\dt 18/Dec/2012
+\dt 22/Oct/2014
 
 \lx rŋərŋə
 \ps vi
@@ -4922,25 +4990,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \rgy rŋo
 \dt 18/Nov/2013
 
-\lx -rɔ
-\ps Post
-\ge until
-\dt 18/Nov/2013
-
 \lx rõsa
 \ps adv
 \ge at once
 \gn 马上
 \dt 11/Apr/2013
-
-\lx rɔʑi
-\ps adv
-\ge sans raison spéciale, comme ça
-\xv rɔʑi ɣə-ɮdã
-\xe Je suis venu comme ça.
-\xv rɔʑi mɲa mɲa, cõ gə nə-ɲcʰu.
-\xe J'ai perdu juste comme ça (par erreur).
-\dt 26/Nov/2013
 
 \lx rʁəbə
 \ps vi
@@ -5053,7 +5107,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ps n
 \ge joint
 \gn 关节
-\xv ŋa jʚʁʚ jə kʰa nə-dzã dʑə zɮde rtsʰu nə-tʰou.
+\xv ŋa jʚʁʚ jə kʰa nə-dzã dʑə zɮde rtsʰu nə-tʰow.
 \xe I fell down from the roof and my arm was dislocated.
 \xn 我从屋顶摔下来，手臂脱臼了。
 \dt 14/May/2013
@@ -5067,7 +5121,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s rə-rtsʰej
 \3s rə-rtsʰʚ
 \1p rə-rtsʰõ
-\xv ŋa ʁe ʁa rə-rtsʰou.
+\xv ŋa ʁe ʁa rə-rtsʰow.
 \xe I kicked the door.
 \xn 我踢了门。
 \rgy tɯ-qartsɯ
@@ -5088,7 +5142,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s rtej
 \3s rtʚ
 \1p rtõ
-\xv ŋa ɕɔɣru nə-rtow.
+\xv ŋa ɕʚɣru nə-rtow.
 \xe I went across the river.
 \xn 我过了河。
 \xv nə-dʑəvadʑə nə-rtow.
@@ -5156,17 +5210,10 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s rə-rvatɕej
 \3s rə-rvatɕa
 \1p rə-rvatɕã
-\xv ɣrə rvatɕou.
+\xv ɣrə rvatɕow.
 \xe I carry water.
 \rgy mɤrpaʁ
 \ng incorporation?
-\dt 18/Nov/2013
-
-\lx rvɔrvɔ
-\ps vi.s
-\ge thick
-\gn 粗
-\rgy jpum
 \dt 18/Nov/2013
 
 \lx rvu zgaˠ
@@ -5185,6 +5232,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge ice
 \gn 冰
 \dt 21/May/2013
+
+\lx rvʚrvʚ
+\ps vi.s
+\ge thick
+\gn 粗
+\rgy jpum
+\dt 18/Nov/2013
 
 \lx rzə
 \ps n
@@ -5212,6 +5266,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 肿
 \dt 10/Jun/2013
 
+\lx -rʚ
+\ps Post
+\ge until
+\dt 18/Nov/2013
+
 \lx rʚ f-tʰe
 \ps vi
 \ge reduce the swelling
@@ -5224,6 +5283,17 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe When one gets knocked, it would be swollen. Put some medicine on the swollen area, and it can be reduced.
 \xn 被打了一下，会肿。抹上点药，就可以消肿。
 \dt 10/Jun/2013
+
+\lx rʚʑi
+\ps adv
+\ge sans raison spéciale, comme ça
+\xv rʚʑi ɣə-ɮdã
+\xe Je suis venu comme ça.
+\xv rʚʑi mɲa mɲa, cõ gə nə-ɲcʰu.
+\xe J'ai perdu juste comme ça (par erreur).
+\xv ŋa rɔʑi tə-jã-sə ŋõ
+\xe J'ai dit ça juste comme ça
+\dt 22/Oct/2014
 
 \lx ʁalʚ
 \ps n
@@ -5450,7 +5520,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 荨麻
 \dt 24/May/2013
 
-\lx samlɔ
+\lx samlʚ
 \ps n
 \ge thought
 \et bsam.blo
@@ -5491,6 +5561,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 灰色
 \dt 19/Apr/2013
 
+\lx -sce
+\ps SufV
+\ge instrumental nominalization
+\dt 22/Oct/2014
+
 \lx scer
 \ps vi
 \ge be afraid of
@@ -5530,14 +5605,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 看
 \dt 21/Oct/2014
 
-\lx scʰɔcɔ
-\ps Vt
-\mr tə-
-\ge run after
-\gn 追
-\xv ŋa kətow tə-scʰɔcõ
-\dt 18/Nov/2013
-
 \lx scʰu
 \ps vt
 \ge cook, roast
@@ -5576,6 +5643,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 船桨
 \dt 09/Apr/2013
 
+\lx scʰʚcʚ
+\ps Vt
+\mr tə-
+\ge run after
+\gn 追
+\xv ŋa kətow tə-scʰʚcõ
+\dt 18/Nov/2013
+
 \lx scon ftaˠ
 \ps Vi
 \ge trouver des défauts aux autres
@@ -5601,12 +5676,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \mr all
 \1s rə-scow
 \2s rə-scej
-\3s rə-scɔr
+\3s rə-scʚr
 \1s rə-scõ
-\xv ŋa tɕədə escɔrrəzʚ sə cã.
+\xv ŋa tɕədə escʚrrəzʚ sə cã.
 \xe I have a ream of paper.
 \xe 我有一沓纸。
-\xv ŋa ɣdzəvə de tə-scɔr dʑə smẽkʰõ nə rə-mbu.
+\xv ŋa ɣdzəvə de tə-scʚr dʑə smẽkʰõ nə rə-mbu.
 \xe I took this old man to the hospital (supporting him).
 \xe 我扶着这个老爷爷去了医院。
 \rgy ɣɯscur
@@ -5623,7 +5698,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1p nə-sã
 \3s>1s nə-f-sã
 \2s>1s nə-f-sã
-\1s>2s nə-sɔ
+\1s>2s nə-sʚ
 \xv ŋa nə́-di-fsã
 \xe Don't kill me!
 \xv nə́-di-sej
@@ -5672,15 +5747,15 @@ rɟazu kə-ru sə de nə-ɣʑow
 \lx sə
 \ps adv
 \ge certainly
-\xv feiji nə tə-ɕe ve sə, ke mbjoˠ ɮde ŋɔ-rə
+\xv feiji nə tə-ɕe ve sə, ke mbjoˠ ɮde ŋʚ-rə
 \xe If you go on a plane you will certainly arrive quickly.
 \dt 21/Oct/2013
 
 \lx sədə
-\ps
+\ps Pro
 \ge when
 \gn 什么时候
-\dt 16/Apr/2013
+\dt 22/Oct/2014
 
 \lx səla
 \ps vt
@@ -5691,11 +5766,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s nə-səlej
 \3s nə-f-səla
 \1p nə-səlã
-\xv ŋa tə nə-səlou.
-\xe I pushed him down.
-\xn 我把他推倒了。
+\xv ŋa tə nə-səlow
+\xe I pushed him down
+\xn 我把他推倒了
 \cf zəla
-\dt 18/Nov/2013
+\dt 22/Oct/2014
 
 \lx səm ɮde
 \ps vi
@@ -5723,7 +5798,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1s>2s
 \2s>1s si
 \3s>1s f-si
-\xv ŋa-ɲə si-si ŋɔ
+\xv ŋa-ɲə si-si ŋʚ
 \xe We know each other.
 \xv tə-ɲə si-si ŋə-rə
 \xe They know each other.
@@ -6197,13 +6272,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \nt wobzi. sŋa
 \dt 09/Apr/2013
 
-\lx sɔ
-\ps adv
-\ge encore plus
-\gn 更加
-\xv sɔ ke ʁnõ gə ŋə-rə
-\dt 26/Nov/2013
-
 \lx spar
 \ps vi
 \ge be thirsty
@@ -6565,6 +6633,16 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 我称赞了（某人）。
 \dt 24/May/2013
 
+\lx sʚ
+\ps adv
+\ge encore plus
+\gn 更加
+\xv sʚ ke ʁnõ gə ŋə-rə
+\xe Elle est encore plus belle
+\xv rɔʑi sɔ
+\xe juste comme ça
+\dt 22/Oct/2014
+
 \lx sʚɣri
 \ps adv
 \ge even more, further
@@ -6599,11 +6677,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge elder brother
 \gn 哥哥
 \dt 16/Apr/2013
-
-\lx tada
-\ps n
-\ge elder sibling (male speaking)
-\dt 17/Dec/2013
 
 \lx tavri
 \ps adv
@@ -6650,6 +6723,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 蜕皮
 \dt 24/May/2013
 
+\lx tɕəma
+\ps Vi
+\ge ne pas avoir besoin
+\gn 不需要
+\xv ŋa rji tɕəma
+\xe je n'ai pas besoin d'un cheval
+\dt 22/Oct/2014
+
 \lx tɕəva
 \ps vi
 \ge swim
@@ -6673,6 +6754,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ps n
 \ge entire, all
 \dt 15/Oct/2013
+
+\lx tɕʰəgə
+\ps Pro
+\ge quelque chose
+\dt 22/Oct/2014
 
 \lx tɕʰəmindəmi
 \ps adv
@@ -6699,11 +6785,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \et tɕʰe.tɕʰuŋ
 \dt 26/Nov/2013
 
-\lx tɕʰou
+\lx tɕʰow
 \ps adv
 \ge above
 \gn 以上
-\dt 24/May/2013
+\dt 22/Oct/2014
 
 \lx tɕi
 \ps n
@@ -6723,13 +6809,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe I put on my hat.
 \xn 我戴了帽子。
 
-\lx tɕɔ
-\ps n
-\ge iron
-\gn 铁
-\nq tɕow?
-\dt 14/Oct/2013
-
 \lx tɕu
 \ps n
 \ge waist
@@ -6738,6 +6817,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe I put on a belt on the waist.
 \xn 我腰上系了皮带。
 \dt 24/May/2013
+
+\lx tɕʚ
+\ps n
+\ge iron
+\gn 铁
+\nq tɕow?
+\dt 14/Oct/2013
 
 \lx teɣde
 \ps vi
@@ -6906,22 +6992,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \et dogs.pa za
 \dt 18/Nov/2013
 
-\lx tɔr
-\ps Vi
-\ge happen
-\gn 发生
-\mr tə-
-\1s tə-dõ
-\xv ɲcʰəcə tə-dɔr-sə
-\xn 他们打起来了
-\xv ɣmə tɔr ci-rə
-\gn 火在烧
-\xv rdʑi tə-dɔr-sə
-\xn 有脚印
-\xv ndʑa tə-dɔr-sə
-\xn 彩虹出现了
-\dt 02/Dec/2013
-
 \lx tseptsep
 \ps vi
 \ge dense
@@ -6949,7 +7019,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn
 \xv vedzə
 \xn 猪食
-\xv rgɔdzə
+\xv rgʚdzə
 \xn
 \dt 09/Sep/2013
 
@@ -7031,7 +7101,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge give birth (dogs, cats, pigs)
 \gn 生育（猫狗猪）
 \mr kə
-\xv kətou kə-tsʰõ dʑə kʰəzə mbe v-ɮde-sə.
+\xv kətow kə-tsʰõ dʑə kʰəzə mbe v-ɮde-sə.
 \xe The dog gave birth two five puppies.
 \xn 狗生了五个狗崽儿。
 
@@ -7152,6 +7222,22 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 这棵杨树很直。
 \dt 19/Apr/2013
 
+\lx tʚr
+\ps Vi
+\ge happen
+\gn 发生
+\mr tə-
+\1s tə-dõ
+\xv ɲcʰəcə tə-dʚr-sə
+\xn 他们打起来了
+\xv ɣmə tʚr ci-rə
+\gn 火在烧
+\xv rdʑi tə-dʚr-sə
+\xn 有脚印
+\xv ndʑa tə-dʚr-sə
+\xn 彩虹出现了
+\dt 02/Dec/2013
+
 \lx va
 \ps n
 \erg vou
@@ -7180,6 +7266,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge instestine
 \gn 肠子
 \dt 23/Apr/2013
+
+\lx vdaχpə ɲchə
+\ps N
+\mr nə-
+\ge s'occuper
+\gn 照顾
+\dt 22/Oct/2014
 
 \lx vdẽ
 \ps vt
@@ -7443,8 +7536,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 
 \lx vzə
 \ps vt
-\ge can
-\gn 可以
+\ge be able
+\gn 会
 \mr kə
 \1s kə-vzu
 \2s kə-vzi
@@ -7454,7 +7547,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe I can speek French.
 \rgy spa
 \xn 我会说法语。
-\dt 18/Nov/2013
+\dt 22/Oct/2014
 
 \lx vzəsme
 \ps n
@@ -7636,6 +7729,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 树上有很多布冧。
 \dt 23/Apr/2013
 
+\lx χi
+\ps N
+\ge chaussure
+\gn 鞋子
+\dt 21/Oct/2014
+
 \lx xɬu
 \ps n
 \ge testicle
@@ -7815,14 +7914,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge chop
 \gn 砍
 \mr nə
-\1s nə-χtɕalou
-\2s nə-χtɕalei
+\1s nə-χtɕalow
+\2s nə-χtɕalej
 \3s nə-χtɕala
 \1p nə-χtɕalã
-\xv rəra ʁa tsʰintʰʚ kʰa nə-di-χtɕalei demdi ɕə tɕʰaˠtsõ f-kʰe ŋərə.
+\xv rəra ʁa tsʰintʰʚ kʰa nə-di-χtɕalej demdi ɕə tɕʰaˠtsõ f-kʰe ŋərə.
 \xe Don't chop the bone with the hay cutter, otherwise the sawteeth will all break.
 \xn 不要用铡刀来砍骨头不然锯齿都会断的。
-\dt 14/May/2013
+\dt 22/Oct/2014
 
 \lx χtɕer
 \ps vi
@@ -7836,7 +7935,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv tə-χtɕer!
 \xe Step aside!
 \xn 让开！
-\xv skeskʰɔ kə-χtɕer
+\xv skeskʰʚ kə-χtɕer
 \xe move over there
 \dt 08/Oct/2013
 
@@ -7944,14 +8043,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge clean
 \gn 弄干净
 \mr nə
-\1s nə-χtsõχtsou
-\2s nə-χtsõχtsei
+\1s nə-χtsõχtsow
+\2s nə-χtsõχtsej
 \3s nə-χtsõχtsa
 \1p nə-χtsõχtsã
 \xv pʚba-ɲu lʚser kʰi-re ɮdi rə, jʚ-ɲə χtsõχtsa ŋərə.
 \xe When new year comes, Tibetans clean their houses up.
 \xn 新年到的时候，藏族人做大扫除。
-\dt 27/May/2013
+\dt 22/Oct/2014
 
 \lx xtʂʰə
 \ps vi
@@ -8010,14 +8109,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 打
 \mr nə
 \mr tə
-\1s nə-zbəcʰou
-\2s nə-zbəcʰei
+\1s nə-zbəcʰow
+\2s nə-zbəcʰej
 \3s nə-zbəcʰa
 \1p nə-zbəcʰã
 \xv tu ŋa tə-zbəcʰã.
 \xe He hit me.
 \xn 他揍了我。
-\dt 12/Apr/2013
+\dt 22/Oct/2014
 
 \lx zdar
 \ps vi
@@ -8026,7 +8125,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv ɲi rɟeji nə-ɕə ə-zdar?
 \xe Have you ever been to China?
 \xn 你去过中国吗？
-\xv ɲi mɲərgɔ kə-vdej ə-zdar?
+\xv ɲi mɲərgʚ kə-vdej ə-zdar?
 \ge Have you seen a yeti before?
 \dt 18/Nov/2013
 
@@ -8076,7 +8175,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \lx zduɟõ
 \ps n
 \ge tant pis pour
-\xv ŋi zduɟõ ŋɔ
+\xv ŋi zduɟõ ŋʚ
 \dt 21/Oct/2013
 
 \lx zdʚr
@@ -8153,14 +8252,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge move
 \gn 动
 \mr -
-\1s zgezgou
+\1s zgezgow
 \2s zgezgə
 \3s zgezgə
 \1p zgezgõ
 \xv zgʚder de χpərju kʰa zgezgə sə ci rə.
 \xe The flag is waving in the wind.
 \xn 旗帜在空中飘扬。
-\dt 27/May/2013
+\dt 22/Oct/2014
 
 \lx zgə
 \ps vt
@@ -8213,14 +8312,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \mr ɣə-
 \ge tidy up
 \gn 摆整齐
-\1s ɣə-zgruzgrou
-\2s ɣə-zgruzgrei
+\1s ɣə-zgruzgrow
+\2s ɣə-zgruzgrej
 \3s ɣə-zgruzgra
 \1p ɣə-zgruzgrã
 \xv ŋa-ɲə ptɕaka-ɲə ɣə-zgruzgrã
 \xe We tidied up.
 \xn 我们摆整齐了。
-\dt 18/Dec/2012
+\dt 22/Oct/2014
 
 \lx zɣʚ
 \ps vt
@@ -8273,9 +8372,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 
 \lx zizi
 \ps Adv
-\ge not too much
-\gn
-\dt 26/Nov/2013
+\ge un peu
+\gn 一点
+\xv zizi ke ɣri nə-di-ŋgi
+\xe Don't eat too much
+\dt 22/Oct/2014
 
 \lx zja
 \ps Vt
@@ -8344,15 +8445,15 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge paste
 \gn 粘
 \mr kə
-\1s kə-zɟou
+\1s kə-zɟow
 \2s kə-zɟwer
 \3s kə-zɟwer
 \1p kə-zɟwã
-\xv ŋa zdi ʁa χɕovə kə-zɟou.
+\xv ŋa zdi ʁa χɕovə kə-zɟow.
 \xe I pasted a paper on the wall.
 \xn 我贴了一张纸在墙上。
 \et sbʲar
-\dt 18/Nov/2013
+\dt 22/Oct/2014
 
 \lx zɟwi
 \ps vt
@@ -8405,7 +8506,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \rgy sɤla
 \dt 18/Nov/2013
 
-\lx zɮdəqɔ
+\lx zɮdəqʚ
 \ps vt
 \ge boil
 \gn 使沸腾
@@ -8424,12 +8525,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe The pig has dug up all of our field
 \xn 猪挖坏了我们整块地。
 \dt 18/Dec/2012
-
-\lx zɔ
-\ps n
-\ge hybrid of yak and cow
-\gn 母犏牛
-\dt 21/Oct/2013
 
 \lx zʁa
 \ps num
@@ -8480,10 +8575,10 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s kə-zʁej
 \3s kə-zʁʚ
 \1p kə-zʁõ
-\xv tu ŋa de esɲəsɲəma liska zʁʚrə.
+\xv tu ŋa de esɲəsɲəma liska zʁʚ-rə.
 \xe He gives me a lot of work everyday.
 \xe 他每天都让我干活。
-\dt 18/Nov/2013
+\dt 22/Oct/2014
 
 \lx zʁʚ
 \ps vi
@@ -8511,6 +8606,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe Yawning spreads around.
 \xn 打呵欠是会传染的。
 \dt 11/Jun/2013
+
+\lx zʚ
+\ps n
+\ge hybrid of yak and cow
+\gn 母犏牛
+\dt 21/Oct/2013
 
 \lx zʚ
 \ps vt
@@ -8546,7 +8647,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge borgne, aveugle
 \xv mu-pʰa de ʑara
 \xe borgne
-\dv mu-kʰa mi-vdɔ-ŋkʰə
+\dv mu-kʰa mi-vdʚ-ŋkʰə
 \dt 26/Nov/2013
 
 \lx ʑev
