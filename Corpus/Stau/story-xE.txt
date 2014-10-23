@@ -1,138 +1,194 @@
 01	lɔŋɔ ɣnəsqa-fku ŋə ŋərə, 
+\b	Il y a vingt ans,
 02	tetɕʰaʑijermi, 010
+\b	???
 03	ŋaɲɟi jitʰa xə gə kə-vrə-sə ŋərə.
+\b	Chez nous, on avait acheté un mdzo.
 04	xə de, tʰaˠdʑi ŋɔma gə kə-vrə-sə ŋərə,
+\b	Ce mdzo, on l'avait à un endroit vraiment loin (de chez nous),
 05	sa ʁjikʰoˠ gə kə-vrə-sə ŋərə.
+\b	on l'avait acheté à Gyukhog.
 06	ʁjikʰoˠ gə kə-vrə rəge, xə de tɕʰəge əfkufkuma
-07	pʰji-dʑə rə-vi-dʑə ʁjikʰoˠ ɔrɔ rə-vi-dʑə (030)
-08	ŋaɲə ŋgra qʰi ndzɔ-ja mi-ŋi ŋərə (035)
-	Il ne voulait pas rester
-09	tɕʰəge ndzɔja ma-ŋi-rə, ɕa ɕə fɕi ŋərə,
+\b	On l'avait acheté à Gyukhog, et ce mdzo, tous les ans,
+07	pʰji-dʑə rə-vi-dʑə ʁjikʰoˠ ɔrɔ rə-vi-dʑə
+\b	il fuyait et retournait à Gyukhog.
+08	ŋaɲə ŋgra qʰi ndzɔ-ja mi-ŋi ŋərə 
+\b	Il ne voulait pas rester chez nous.
+09	tɕʰəge ndzɔ-ja ma-ŋi-rə, ɕa ɕə fɕi ŋərə,
+\b	Il ne voulait pas rester chez nous, il il fallait aller le chercher.
 10	sa ʁjikʰoˠ rɔ rə-vi fɕi ŋərə,
+\b	Il fallait aller jusqu'à Gyukhog.
 11	rkõtʰõ rə-vi-dʑə ɕa rə-vi fɕi ŋərə,
+\b	Il fallait aller le chercher à pied.
 12	tɕʰəge e-ndʐə ge,  ŋaɲɟi aʑɔ ŋa ɣni xə de ɕa rə-ɕã-sə ŋərə
+\b	Une fois, je suis allé avec mon oncle pour chercher le mdzo.
 13	xə de ɕa rə-ɕã-rəge, tɕʰəge tɕe nə kə-vi tɕʰa, ətɕəjərəmɔ
+\b	Nous sommes allés le chercher, et en allant sur la route,
 14	rdʑi tə-qe-dʑə kə-ɕã-sə ŋərə
-	rdʑi 
+\b	nous y allions en le pistant,
 15	rdʑi tə-qe kə-ɕã rəge, tɕʰəge
+\b	nous le pistions,
 16	lõba nə  jəkʰa, ɔrɔ rə-ɕə rəge, ʁjikʰoˠ ŋipʰjoˠ rə-ɕə-sə rəge,
-17	ŋa, ŋa sə rdʑi-ʁa tɕʰu χa mi-gõ-rə (110)
-		sə: thème
-18	xə-j rdʑi de tɕʰitɕʰõ rəge,
-19	ŋa ti java gə-ʁa, ŋa ʁdemba χa mi-gõ-rə rəgu,
+\b	depuis la vallée vers le nord, nous sommes allés en direction de Gyukhog.
+17	ŋa, ŋa sə rdʑi-ʁa tɕʰu χa mi-gõ-rə  
+\b	Moi, je ne sais pas pister.
+18	xə-ji rdʑi de tɕʰitɕʰõ rəge,
+\b	La taille de la trace du mdzo,
+19	ti ???, ŋa ʁdemba χa mi-gõ-rə rəgu,
+\b	moi je n'y comprendrai jamais rien.
 20	ŋaɲɟi aʑow, ŋaɲɟi xi rdʑi de taˠtaˠ χa kɔ-rə.
-21	taˠtaˠ χa kɔ-rə, tɕʰitɕʰõ ŋɔ mɲa,
+\b	Mon oncle, en revanche, lui il savait très clairement (reconnaître) les traces de notre mdzo.
+21	taˠtaˠ χa kɔ-rəge, tɕʰitɕʰõ ŋɔ mɲa,
+\b	Il savait très clairement, si c'était la bonne taille
 22	kʰakʰa kʰarma rdʑi ɕatsa tə-rə ʑəgu, (126)
+\b	Il pouvait (reconnaître) les traces de tous les autres animaux.
 23	ŋaɲɟi xi rdʑi de, rdʑi de, ŋaɲɟi aʑow taˠtaˠ χa kɔ-rə
+\b	Les traces de notre mdzo, il les reconnaissait.
 24	te tə-gɔ rəge, tə-kʰa tɕʰəge ɣni de sa ʁjikʰoˠ ɔrɔ rə-ɕã
+\b	Comme il les avait reconnu, de cette façon nous sommes allés à Gyukhog tous les deux.
 25	rkõtʰõ e-sɲə-kʰa demdi ɔrɔ ma-ɮdã
+\b	A pieds, nous sommes arrivé en seulement une journée.
 26	tɕe nə rə-vi tɕʰa,
+\b	Sur le chemin,
 27	tɕʰəge ʁjikʰoˠ ɔrɔ ɮde-re ɮdi-rə,
-		ɮde-re ɮdi-rə : on était presque arrivé 
-		ste-re ɮdã: j'ai presque fini
-		ŋgə-re ɮdã: je suis prêt pour mnger
-		
-28	la ke mtʰɔ ŋɔma gə ɲcʰə fɕi-rə (146)
-		Il fallait traverser une passe très haute.
+\b	alors que nous étions presque arrivés.
+28	la ke mtʰɔ ŋɔma gə ɲcʰə fɕi-rə 
+\b	Il fallait traverser une passe très haute.
 29	te la-ʁa rə-vi tɕʰa, tɕʰəge, 
+\b	En passant cette passe,
 30	ŋa sə, tɕʰu χa mi-gõ-rə, 
+\b	Moi, je ne savais rien,
 31	rkõtʰõ rə-ɕã rəge, ke mbjoˠ ŋɔma la-ʁa rə-vi vzu-rə. 
+\b	nous sommes montés à pied, moi j'étais capable de monter vite.
 32	ŋaɲɟi aʑɔ migugu rə-vi mi-vzə-ŋkʰə tə-kʰi
-33	pei de ŋgɔ-ji ŋkʰɔr jə-rə, 
+\b	Mon oncle, immédiatement, il ne fut plus capable de monter.
+33	pej de ŋgɔ-ji ŋkʰɔr jə-rə, 
+\b	Il disait que sa tête tournait terriblement,
 34	mɲa-dʑə pʰi rə-kʰi-rə jə-rə 
-		et il disait qu'il avait aussi envie de vomir
-35	pei zəla tsʰaˠ və-rə.
-36	tɕʰəge ətɕəŋɔ tə-jã ge,
-		J'ai dit: que se passe-t-il?
-37	ədile ladu tə-kʰi (212)
-		Il avait le mal des hauteurs.
-38	ladu tə-kʰi, rə-vi mi-vzu-rə jə-rə
+\b	sinon, il disait qu'il avait aussi envie de vomir.
+35	pej zəla tsʰaˠ və-rə.
+\b	Il allait presque s'écrouler.
+36	tɕʰəge "ətɕəŋɔ" tə-jã ge,
+\b	Je lui dit: "que se passe-t-il?"
+37	"ədi le ladu tə-kʰi"  
+\b	Il avait le mal des hauteurs.
+38	"ladu tə-kʰi" jə-rə, "rə-vi mi-vzu-rə" jə-rə
+\b	Il dit "j'ai le mal des hauteurs, je ne peux plus marcher."
 39	"ədə-gi mbjoˠmbjoˠ tɕa gə tə-fkʰõ, tɕa gə tə-fkʰõ" jə-rə
-		Il a dit "donne-moi du thé, donne moi du thé"
-		ədə: refl
+\b	donne-moi du thé, donne moi du thé"
 40	tɕʰəge ŋa kʰemboˠ nə, tɕa gə rə-tʰe-dʑə, tɕa gə rə-kʰow ge,
+\b	J'ai sorti du thé du sac, et lui ai donné du thé,
 41	tɕa de tə-ntɕʰaχtɕə-ge (226)
+\b	????
 42	ske tʂaˠ-dʑə rə-ftʰe-rə (228)
+\b	???
 43	tɕʰəge tɕa de nə-ntɕʰaχtɕə rəge ske tɕaˠ-dʑə?? rə-ftʰe-rə
+\b	???
 44	tɕʰəge ŋa tə-scɔr-dʑə χika
-		
+\b	Je l'ai soutenu,
 45	ɣni de varva rə-ɕã-dʑə,
+\b	et nous sommes montés lentement
 46	la-ʁə gə ʂfa tə-vzõ.
-47	la-ʁə tə-ʂfa rəge, tɕʰəge ədə eʑe nə fɕi-rə, 
-		nə: se reposer
-48	eʑe nə tə-xtʂʰõ jə-rə
-49	tɕʰəge eʑe nə tə-xtʂʰu ge,
-50	kə-nə-dʑə tɕʰətsʰɔ pʰa ʑəgəmdi ma-kʰi rəge (250)
-		même pas
+\b	nous avons pu atteindre la passe.
+47	la-ʁə tə-ʂfa rəge, tɕʰəge "ədə eʑe nə fɕi-rə, 
+\b	Nous avons atteint la passe, et il dit: 'J'ai besoin de me reposer un moment,
+48	e-ʑe nə tə-xtʂʰõ" jə-rə
+\b	Laisse-moi me reposer un moment." 
+49	tɕʰəge e-ʑe nə tə-xtʂʰu ge,
+\b	je l'ai laissé se reposer un moment. 
+50	kə-nə-dʑə tɕʰətsʰɔ pʰa ʑəgəmdi ma-kʰi rəge 
+\b	Il ne s'est même pas reposé une demi-heure
 51	tə-ɲɟev-sə, tə-ɲɟev rəge,
+\b	qu'il s'est endormi
 52	tɕʰəge ŋa le rõsa scəqi-lə ma-ru-sə 
-		J'ai pas attention et je n'ai pas regardé
+\b	J'ai ne m'en suis pas rendu compte immédiatement (je n'ai pas pu le voir)
 53	tə-ɲɟev rəge,
+\b	il s'est endormi
 54	tɕʰəge ndʑe maˠmaˠ tə-kʰi, (300)
+\b	???
 55	tɕʰəge ŋa kə-scəqã ge tə-ɲɟev-sə.
+\b	Je l'ai regardé, il s'était endormi.
 56	ŋa tɕʰəge tə-scã ətɕəgə ma-ŋi ga tə-ntsʰu,
-		J'ai eu peur et j'ai pensé à ce qui n'allait pas.
-		
-		sə ma-ɮdi ga tə-ntsʰu: je pense à ceux qui étaient venus.
-		sə ɮdi-ga ŋa mi-dʐẽ-rə: Je ne me souviens pu de qui était venu.
+\b	J'ai eu peur et je me suis dit que quelquechose n'allait pas.		
 57	tə se-mɔ tə-ntsʰu,
+\b	Je me suis dit "il ne serait pas mort?"
 58	tə-mbjoˠ-dʑə rõsa nə-ɕã nə-zgezgu
-59	tə-brə tə-brə tə-rje tə-rje tə-jã
-60	te le tə-rka-sə nə-ŋɔ-sə a
-		tə ge vdzi ke ʁje gə ŋərə (ge: positif)
-		tə le vdzi ke mtsʰer gə ŋərə (le: négatif)
+\b	Je me suis précipité et je l'ai secoué.
+59	"tə-brə tə-brə tə-rje tə-rje" tə-jã
+\b	Je lui dis: "Réveille-toi, lève-moi"
+60	te le tə-rka nə-ŋɔ-sə a
+\b	??? (ça avait été pénible pour lui)
 61	tɕʰu ma-ʁa-sə tə-rka rəge tə-ɲɟev-sə nə-ŋɔ-sə (318)
 62	ti tu de kʰa, tɕʰu ma-ʁa-sə nə-ŋɔ-sə a
+\b	???
 63	tə-rka rəge tə-ʁa tə-ɲɟev-sə
-		tə-ʁa: pas exprès
+\b	Il était fatigué et il s'est endormi
 64	ŋa le tə-se-sə ŋərə tə-ntsʰu-sə
+\b	Moi, je pensais qu'il était mort.
 65	təχi kʰa gə tɕʰəge ɔrɔ mbroχpa ɲə qʰi ɮdã-sə ŋərə
+\b	Comme ça, nous sommes arrivés chez les nomades.
 66	mbroχpa ɲə qʰi ɮdã-rəge tɕʰəge xə le taˠtaˠ təɲəqʰi ɮdi-dʑə ci-rə ja (336)
-	Quand nous sommes arrivés chez les nomades, le mdzo était bien arrivé chez eux.
+\b	Quand nous sommes arrivés chez les nomades, le mdzo était bien arrivé chez eux.
 67	təɲəqʰi ɮdi-dʑə ci-rə
+\b	Il était arrivé chez eux.
 68	tɕʰəge mbroχpa ɲɟi rva qʰi ɮde-re ɮdi-rəge,
-	presque arrivés
+\b	Alors que nous étions presque arrivés à la tente des nomades,
 69	mbroχpaɲɟi ge kəta ke cʰe ŋɔma ci-rə, ja
-	ge: chez
+\b	Chez les nomades, il y avait un grand chien.
 70	mbroˠcʰə ke cʰe ə-lɔ ci-rə
+\b	Il y avait un grand chien.
 71	kəta le tə-ndʑədʑe, tə-ndʑədʑe-dʑə,
+\b	Le chien a tiré (sur sa chaîne),
 72	rtɕaˠtʰaˠ le tə-pʰre,
-	chaîne
+\b	Il a brisé sa chaîne.
 73	rtɕaˠtʰaˠ tə-pʰre-dʑə, ŋaɲə qʰi tə-ntʰə kə-ʂfa ja
-	spécifique pour les chiens de nomade
+\b	Il a brisé sa chaîne et nous a sauté dessus.
 74	tɕʰəge aʑow jə-dʑə, "kə-rgə, kə-rgə" jə-rə,
+\b	Mon oncle a dit: "allonge-toi"
 75	mbjoˠmbjoˠ kə-rgə, ɣlɔtʰɔ kə-rgə rəge,
+\b	Il s'est rapidement allongé sur le sol,
 76	rkɔ ɮda ɣɮdə de tɕʰatsʰõ  loˠloˠ nə-və-dʑə kə-rgə ge, (404)
-77	rcʰe vzə mɲa-rə jərə
+\b	Il a mit ses quatre membres en boulle et s'est couché par terre
+77	"rcʰe vzə mɲa-rə" jə-rə
+\b	Il dit: "Il ne peut pas mordre,
 78	tə-di-pʰji jə-rə.
-	ne fuis pas
+\b	ne fuis pas,
 79	ədəqʰɔ teqʰi tə-rgə ja, 
-	Il s'est couché là où il était
+\b	Il s'est couché là où il était
 80	tə-rgə rəge, rkɔ ɮda ɣɮdə de rə, loˠloˠ tə-və 
+\b	Il s'est couché, les quatre membres en boulle,
 81	ɮda-kʰa ʁə de tə-scɔr-dʑə,
+\b	Il se tenait la tête avec les mains,
 82	te nə tə-rgə ge, kətow kə-ʂfa-dʑə,
-	à cet endroit
-83	esnəsnɔ tə-ɲcʰə rəge,
-	le chien a reniflé un peu
-84	ecʰe mi-və-rə,
+\b	Le chien est arrivé là où il était couché
+83	e-snəsnɔ tə-ɲcʰə rəge,
+\b	Il l'a reniflé un peu
+84	e-cʰe mi-və-rə,
+\b	il n'a rien fait
 85	ŋa de scʰɔcɔ-rə (418)
-86	ŋa tə-pʰji-dʑə arəda durɔ la ʁə rə-ɕã
+\b	il m'a poursuivi
+86	ŋa tə-pʰji-dʑə arəda durɔ??? la ʁə rə-ɕã
+\b	Je me suis enfuis et ai monté vers la passe,
 87	zimtsʰer ke rcɔ rə-pʰjã ja, (424)
+\b	J'ai couru extrêmement (vite)
 88	kəta təʑi ɲɟəra mi-vzə-rə
-	il était pas très capable de courir
+\b	le chien n'était pas très capable de courir
 89	rev gə rə-ɕã rəge,
+\b	Je suis assez monté
 90	te la ʁə ɮde-re ɮdã rəge,
-	alors que j'étais presque arrivé
+	alors que j'étais presque arrivé à la passe.
 91	təɲɟi ʑələ de tə la ʁə nɔrɔ nə-kʰi-sə ci rə (432)
-	Leur fils
+\b	Le fils des nomades est arrivé à la passe
 92	tə de kə-dʑõ ja, tə de kə-dʑõ rəge, 
-93	tu rõsa nə-rja-dʑə kətaj ŋgɔrpaˠ nə nə-fkʰrə-dʑə (440)
-	Il est allé vers le chien et a attrapé sa nuque
+\b	Je me suis retrouvé avec lui,
+93	tu rõsa nə-rja-dʑə kəta ji ŋgɔrpaˠ nə nə-fkʰrə-dʑə (440)
+\b	Il est immédiatement allé vers le chien et lui a attrapé la nuque
 94	kəta de tə-fkaˠ demdi sə, ŋa sə ndʐele ja gə ɲcʰõ-rə. 
-	S'il n'avait pas bloqué le chien, il m'aurait mordu partout (déchiqueté)
+\b	S'il n'avait pas bloqué le chien, il m'aurait mordu partout (déchiqueté) (contrefactuelle)
 95	(ŋi) təbi gə ɣə-ɮdi zdar
-	J'ai eu une telle expérience.
+\b	J'ai eu une telle expérience.
 96	təχi gə kʰa ge tɕʰəge mbroχpa ɲə qʰi ge ɕə-tɕʰa,
-97	lɔrɟə χi de χa kɔ fɕi-ŋkʰə gə ŋərə
-	Il faut savoir ce genre de choses lorsque l'on va chez les nomades.
+\b	lorsque l'on va chez les nomades,
+ lɔrɟə χi de χa kɔ fɕi-ŋkʰə gə ŋərə
+\b	Il faut savoir ce genre de choses 
 

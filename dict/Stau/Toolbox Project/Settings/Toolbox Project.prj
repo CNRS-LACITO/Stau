@@ -40,13 +40,13 @@
 \-fntMarkers
 \+rundosMarkers 
 \-rundosMarkers
-\placementMain normal -32000 -32000 -1 -1 79 -5 1562 570
+\placementMain normal -32000 -32000 -1 -1 646 139 1594 714
 \+dblst 
 
 \+db C:\Users\crlao\Documents\GitHub\Stau\dict\Stau\Toolbox Project\Dictionary.txt
 \+wndlst 
 \+wnd 
-\placement normal -1 -1 -1 -1 330 -7 1342 446
+\placement normal -1 -1 -1 -1 330 -7 924 446
 \z 0
 \ViewMarkers
 \ViewFieldNames
@@ -67,21 +67,21 @@
 \mkrSecKey ps
 \-ind
 \+rec 
-\fldPriKey tɕʰa
-\fldSecKey postp
+\fldPriKey ŋgʚrpaˠ
+\fldSecKey n
 \-rec
 \+keySearch 
-\fldPri tɕʰa
+\fldPri ŋgʚrpaˠ
 \match_char p
 \-keySearch
 \+keyInsert 
-\fldPri ʁnitsʰə
+\fldPri ge
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 0
-\CaretLineScroll 0
-\CaretChar 0
+\CaretLine 3
+\CaretLineScroll 3
+\CaretChar 11
 \-wnd
 \+wnd 
 \placement normal 0 857 -8 -30 15 0 329 440
@@ -106,8 +106,8 @@
 \mkrSecKey ps
 \-ind
 \+rec 
-\fldPriKey tɕʰa
-\fldSecKey postp
+\fldPriKey ŋgʚrpaˠ
+\fldSecKey n
 \-rec
 \+keySearch 
 \fldPri tsʰõ
@@ -129,83 +129,83 @@
 \match_char p
 \+ftxlst 
 \+ftx 
-\text mpʰre
+\text vəda
 \lng vernacular
 \-ftx
 \+ftx 
-\text ɕu
+\text zgra
 \lng vernacular
 \-ftx
 \+ftx 
-\text nthev
+\text pʰərmi
 \lng vernacular
 \-ftx
 \+ftx 
-\text rɔʑi
+\text vdʑə
 \lng vernacular
 \-ftx
 \+ftx 
-\text ŋəmiŋ
+\text ʁlergaˠ
 \lng vernacular
 \-ftx
 \+ftx 
-\text pha
+\text qərə
 \lng vernacular
 \-ftx
 \+ftx 
-\text peji
+\text ʁdem
 \lng vernacular
 \-ftx
 \+ftx 
-\text təχi
+\text demdi
 \lng vernacular
 \-ftx
 \+ftx 
-\text ʁu
+\text migugu
 \lng vernacular
 \-ftx
 \+ftx 
-\text kʰərma
+\text ntɕʰaχtɕə
 \lng vernacular
 \-ftx
 \+ftx 
-\text məzdi
+\text eʑe
 \lng vernacular
 \-ftx
 \+ftx 
-\text ɣɔrɔ
+\text tɕʰətsʰɔ
 \lng vernacular
 \-ftx
 \+ftx 
-\text nembi
+\text rka
 \lng vernacular
 \-ftx
 \+ftx 
-\text jõjõrtsartsa
+\text ʁje
 \lng vernacular
 \-ftx
 \+ftx 
-\text nə
+\text tə-ʁa
 \lng vernacular
 \-ftx
 \+ftx 
-\text ja
+\text ʁa
 \lng vernacular
 \-ftx
 \+ftx 
-\text kʰemtɕʰə
+\text rva
 \lng vernacular
 \-ftx
 \+ftx 
-\text tɕəma
+\text ge
 \lng vernacular
 \-ftx
 \+ftx 
-\text mkh
+\text rgə
 \lng vernacular
 \-ftx
 \+ftx 
-\text ɕəɕe
+\text ɲɟər
 \lng vernacular
 \-ftx
 \-ftxlst
