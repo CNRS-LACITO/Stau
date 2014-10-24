@@ -754,11 +754,23 @@
 \xn 昨天你做了什么？
 \dt 09/Apr/2013
 
+\lx ətɕəχi
+\ps Pro
+\ge how
+\gn 怎么
+\dt 24/Oct/2014
+
 \lx əʑe
 \ps n
 \ge a while
 \gn 一会儿
 \dt 23/Apr/2013
+
+\lx əʑi
+\ps Pro
+\ge where
+\gn 在哪里
+\dt 24/Oct/2014
 
 \lx fcəde
 \ps n
@@ -812,11 +824,11 @@
 \2s nə-fkʰej
 \3s nə-fkʰe
 \1p nə-fkʰõ
-\xv ɕõdõ əqʰe nə-fkʰow.
+\xv ɕõdõ e-qʰe nə-fkʰow.
 \xe I cut down a tree.
 \xn 我砍下了一棵树。
 \cf vge
-\dt 18/Oct/2013
+\dt 24/Oct/2014
 
 \lx fɬe
 \ps n
@@ -2448,9 +2460,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge avoir besoin de 
 \gn 需要
 \xv ŋa rji-kʰa mi-mkhõ
-\xe je n'ai pas besoin d'un cheval
+\xe je n'e veux pas d'un cheval
 \an tɕəma
-\dt 22/Oct/2014
+\dt 24/Oct/2014
 
 \lx mnʚ
 \ps vt
@@ -4430,7 +4442,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge urine
 \gn 尿
 
-
 \lx rbu
 \ps n
 \ge sand
@@ -5939,6 +5950,10 @@ rɟazu kə-ru sə de nə-ɣʑow
 \dt 26/Nov/2013
 
 \lx scwa
+\ps vi
+\ge crack 
+\gn 裂开
+\1s tə-scwã
 \ps vt
 \ge crack sth.
 \gn 使……裂开
@@ -5947,7 +5962,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s nə-scwej
 \3s nə-scwa
 \1p nə-scwã
-\dt 18/Nov/2013
+\xv rtɕɑndzer kʰa kʰəllo de tə-scwa-sə
+\dt 24/Oct/2014
 
 \lx scʚr
 \ps vt
@@ -6031,6 +6047,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv feiji nə tə-ɕe ve sə, ke mbjoˠ ɮde ŋʚ-rə
 \xe If you go on a plane you will certainly arrive quickly.
 \dt 21/Oct/2013
+
+\lx sə
+\ps Pro
+\ge who
+\gn 谁
+\dt 24/Oct/2014
 
 \lx sədə
 \ps Pro
@@ -8448,6 +8470,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe When new year comes, Tibetans clean their houses up.
 \xn 新年到的时候，藏族人做大扫除。
 \dt 22/Oct/2014
+
+\lx χʚ
+\ps Adv
+\ge maintenant
+\gn 现在
+\dt 24/Oct/2014
 
 \lx χʚnembi
 \ps n

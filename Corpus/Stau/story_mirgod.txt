@@ -1,7 +1,7 @@
-﻿\a sʰoŋo ʁnaʁna
+﻿\a sɔŋɔ ʁnaʁna
 \b Autrefois
 
-﻿\a stɔwu nɔ
+﻿\a stɔwu nə
 \b 
 
 \a mərgɔtsʰõ jə-lə gə nə-ɟi-sə ŋɔ-rə
@@ -92,7 +92,7 @@
 
 \a lõba ɲə nə-scwa-sə ŋɔ rə
 \b il a fait éclater la vallée
-\c scwa éclater (tə-scwã 1sg), tr (moda nə-scwo j'ai fait éclater le ballon, nə-scwe, nə-scwə, nə-scwã), tə-bja-sə (il a éclaté spontanément) spəɲcʰer grenouille, rtɕɑndzer kʰa kʰəllo de tə-scwa-sə
+
 
 \a ti ɕudʑikʰa gə tɕʰəɡe təɲi jɔvi
 \b 
