@@ -2585,7 +2585,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \lx mtʰa
 \ps vt
 \mr nə-
-\ge step_on
+\ge step on
 \1s nə-mtʰow
 \1p nə-mtʰã
 \2s nə-mtʰej
@@ -3392,7 +3392,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1p kə-ɲã
 \2s kə-ɲer
 \3s kə-ɲer
-\xv tu tɕərə, kə-di-ɲer
+\xv tu tɕə-rə, kə-di-ɲer
 \xe It's poisoned, don't taste it!
 \xn 有毒，别尝！
 \rgy rɲo
@@ -8818,7 +8818,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge heart
 \gn 心脏
 
-\dt 23/Oct/2014
+\dt 24/Oct/2014
 
 \lx zjeməzjentʰʚ de
 \ps vi
