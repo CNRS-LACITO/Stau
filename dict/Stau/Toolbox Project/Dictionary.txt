@@ -1215,9 +1215,9 @@
 
 \lx ɣrəva
 \ps n
-\ge
+\ge bord de la rivière
 \gn 河边
-\dt 11/Oct/2013
+\dt 27/Oct/2014
 
 \lx ɣri
 \ps vi
@@ -2694,6 +2694,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv ŋa ʁa mtsʰi nə-di-le
 \xe Ne te moque pas de moi
 \dt 18/Nov/2013
+
+\lx mtshɔzɮdə
+\ps N
+\ge jeu
+\dt 27/Oct/2014
 
 \lx mtsʰʚ
 \ps n

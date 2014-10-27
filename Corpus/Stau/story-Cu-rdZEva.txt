@@ -1,27 +1,40 @@
-01	ɕu rəge rdʑəva ɣnu xtse kə zɮdə-sə ŋərə
-02	xtse kə zɮdə-rəge tɕʰəge, ɣməsə ɕɔʁɔ tə-ɕə-sə ŋərə.
+01	ɕu rəge rdʑəva ɣnu xtse kə-zɮdə-sə ŋə-rə
+\b	Un pou et une puce faisaient bouillir de la soupe.
+02	xtse kə-zɮdə-rəge tɕʰəge, ɣməsə ɕɔʁɔ tə-ɕə-sə ŋərə.
+\b	Ils allaient faire bouillir de la soupe, et ils sont allés chercher du bois.
 03	ɣməsə ɕɔʁɔ tə-ɕə rəge, ətɕəjərəmɔ, rdʑəva rəŋgɔ rəge ki-ntʰə, ki-ntʰə rə-ɲcʰə-rəge
+\b	Il sont allés chercher du bois, et la puce allait en sautant sur la montagne,
 04	ɣməsə ɣlɔtʰɔ nə-dzar. jɔ rə-fɕɔʁɔ, jɔ ki-ntʰə nə-ɲcʰə jɔ nə-dzar jɔ rə-fɕɔʁɔ. 
-05	ɕu tə-ŋgɔ-dʑə rurururu rə-ɕə-rəge, zɔŋɔ rə-ɕə-dʑə, 
+\b	et (à chaque fois) le bois tombait par terre. Elle le ramassait, se mettait à sauter, il retombait et elle le ramassait à nouveau.
+05	ɕu tə-ŋgɔ-dʑə rurururu rə-ɕə-rəge, zəŋɔ rə-ɕə-dʑə, 
+\b	Le pou le portait sur le dos, monta lentement et arriva en premier.
 06	xtse de tɕʰatsõ ɣə-ftʰi-sə ŋə-rə.
-	ɣə-ftʰi-ste-sə: il a bu suffisamment pour lui-même
-07	tɕʰəge rdʑəva ɮdi-rəge. rdʑəvow təjədʑə,
-08	ŋi xtse əʑi stʰə?" təjəsə ŋərə.
-09	ɲəqʰej xtse ŋa tə-tʰu-ste sə zɔŋɔ ɮdi ve, su tʰi-lə nə-võ mɲa ŋɔ təjəsə ŋərə.
-	nə-võ: dire
+\b	Il but toute la soupe.
+07	tɕʰəge rdʑəva ɮdi-rəge. rdʑəvow tə-jə-dʑə,
+\b	La puce arriva et dit:
+08	ŋi xtse əʑi stʰə?" tə-jə-sə ŋə-rə.
+\b	"Où est ma soupe?"
+09	ɲəqʰej xtse ŋa tə-tʰu-ste-sə, zəŋɔ ɮdi ve, su tʰi-lə nə-võ mɲa ŋɔ tə-jə-sə ŋə-rə.
+\b	"J'ai bu ta soupe, n'avions nous pas dit que celui qui arrivait en premier la buvait?"
 10	tɕʰəge təχi gə te kʰa ma-ndʑaˠ rəge ɣni de tə-ɲcʰəcə-sə ŋərə.
+\b	Il ne parvenaient pas à s'entendre et se mirent à se battre.
 11	tə-ɲcʰəcə rəge, ətɕəjərəmɔ, rdʑəvow ɣməsnə-kʰa ɕu-j vucʰi e-ndə rə-ɲcʰə-sə ŋərə.
+\b	Il se mirent à se battre, et la puce donna un coup avec un morceau de bois dans le bas-ventre du pou.
 12	tɕʰəge tə-pʰji-sə ŋərə.
+\b	et elle s'enfuit.
 13	tə-pʰji rəge ʁe nə nə-ɕə rəge, 
+\b	elle s'enfuit, et arrivée à la porte,
 14	ɕu nə-ɕə-dʑə, ʁe de nə-zgrə-dʑə, 
+\b	le pou y alla et ferma la porta,
 15	rdʑəva de tə-stʰwa-dʑə, tə-χtɕər-dʑə pjabja nə-və ŋə-rə.
+\b	il coinça la puce, la pressa et la rendit toute plate.
 16	tə-kʰa ge χavdə
-17	ɕu-j ʁalɔ ɲaɲa gə xi-ŋərə.
-18	vucʰi ɲaɲa gə xi-ŋərə.
-19	rdʑəva de pjabja gə ŋɔ-sce tə-kʰa ŋərə jə-ŋərə.
-	-sce : nmlz
-	ŋi ʁə ŋɔ-sce vɔ tʰi tə-ɣri-sə-kʰa ŋərə
+\	C'est ainsi que mùaintenant,
+17	ɕu-j /ʁalɔ ɲaɲa gə xi-ŋərə./	vucʰi ɲaɲa gə xi-ŋərə.
+\b	Il y a un point noir sur le bas-ventre des poux,
+18	rdʑəva de pjabja gə ŋɔ-sce tə-kʰa ŋərə jə-ŋə-rə.
+\b	Et la raison pour laquelle les puces sont plates, c'est pour cela.
 20	tɕʰəge tə-kʰa ste-sə ŋərə.
+\b	Ca finit comme ça.
 
-
-
+ŋi ʁə ŋɔ-sce vɔ tʰi tə-ɣri-sə-kʰa ŋərə

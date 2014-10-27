@@ -1,40 +1,61 @@
 ﻿01	e-sɲə gu akəstɔmba ɣrəva nə-ɕə-dʑə
+\b	Un jour, Akustomba alla sur le bord d'une rivière.
 02	ɣə-ndzɔ-dʑə ɣə-ntshəsɲi nə-ɟi-sə ŋərə
-03	tɕʰəge ɣərɔ gə ɣə-scəqi rəge, aɣda-jəkʰa raca gə kə-hrwa-sə ŋərə
+\b	Il s'assit et réfléchit.
+03	tɕʰəge ɣərɔ gə ɣə-scəqi rəge, aɣəda-jəkʰa raca gə kə-ʂfa-sə ŋə-rə
+\b	Il regarda au loin et vit un cavalier qui venait du sud.
 04	tʰaˠdʑi tʰaˠdʑi-jəkʰa raca kə-ʂfa vdɔ-sə ŋərə
+\b	Il vit au loin un cavalier apparaître.
 05	tɕʰəge rõsa samlɔ gə kə-ŋkʰɔr ətɕəgə tə-ntsʰə-sə ŋərə tə-jə-ve, (029)
+\b	Si l'on dit l'idée qu'il a eue,
 06	ətɕə jərəmɔ, tʂʰaχɔ nə tɕa gə rə-zɮdə-rəge, (z)ɮdə-sə nə-ɟi-sə ŋərə.
-	Il a mis le thé à bouillir
+\b	Il a mis le thé à bouillir, et il bouillait.
 07	ɣmə de rõsa nə-sqʰə-dʑə rbu-kʰa nə-spʰɔ-sə ŋə-rə
-08	tɕʰəge rbu-tɕʰa tɕa de rə-vle-rəge, tɕa lə-qɔ-sə ci mɲa-rə ŋɔ (040 ləqɔsə boullir?)
-09	raca de kə-ʂfa-dʑə, "akəstɔmba, ətɕəgə və-sə ci?" təjəsə ŋərə.
-10	akəstɔmbow təjə-dʑə, "a, ŋa təqʰi tɕa zɮdə-sə cã" tə-jə-sə ŋərə.
+\b	Il éteignit immédiatement le feu, et l'enterra avec du sable.
+08	tɕʰəge rbu-tɕʰa tɕa de rə-vle-rəge, tɕa lə-qɔ-sə ci mɲa-rə ŋɔ 
+\b	Il mit le thé sur le sable, le thé n'était pas???
+09	raca de kə-ʂfa-dʑə, "akəstɔmba, ətɕəgə və-sə ci?" tə-jə-sə ŋərə.
+\b	Le cavalier arriva et dit: Akustomba, qu'est ce que tu es en train de faire?
+10	akəstɔmbow tə-jə-dʑə, "a, ŋa təqʰi tɕa zɮdə-sə cã" tə-jə-sə ŋə-rə.
+\b	"Je suis en train de faire bouillir du thé ici."
 11	"tɕa ətɕəχi zɮdə-sə ci?" tə-jə-sə ŋərə.
+\b	"Comment tu le fais bouillir?"
 12	"ŋi tʂʰaχɔ de, ətɕə jərəmɔ,
-13	ɣmə ntʰɔ tɕəma-ŋkʰə ədəqʰɔ tɕa zɮdə ŋərə." tə-jə-sə ŋərə.
-	je n'ai pas besoin de faire du feu, elle bout tout seul
-	tɕəma: pas besoin
+\b	Ma théière,
+13	ɣmə ntʰɔ tɕəma-ŋkʰə ədəqʰɔ tɕa zɮdə ŋə-rə." tə-jə-sə ŋərə.
+\b	il n'y a pas besoin de faire du feu, elle fait bouillir le thé toute seule.
 14	tɕʰəge raca de nə-bev-dʑə,
-15	"a ɲəqʰej te tɕa de ətɕəpi gə ŋərə, ŋa-gi kə-snã ŋge tə-jə-sə ŋərə. (108)
-	Montre-le moi.
-16	tɕʰəge ɲəqʰɔ kə-scəqi ŋge?? tə-jə-dʑə
-	regarde le par toi-même. 
-	>	ɲəqʰɔ rə-ɮde ŋge, χa kɔ ŋərə
-	>	viens par toi même et tu verras.
-17	kə-sni-sə ŋərə, tɕa lə-qɔ-sə nə-ɟi-sə ŋərə, ɣmə vdɔ-lə ma-sə ŋərə.
-18	tɕʰəge raca du "ɲəqʰej təgi χeʑə gə fɕi, ŋa ru" təjəsə ŋərə
-19	akəstɔmbow, "tə ŋa mízju, mízju" təjəsə ŋərə.
-20	ŋa-gi tə-zjõ ge, ŋa ɲi-gi rji de kʰɔ təjəsə ŋərə.
-21	"rji-kʰa mi-ŋi" təjəsə ŋərə.
-22	tɕʰəge "ətɕəgə fɕi" təjəsə ŋərə.
-23	"ɲəqʰej tsəgə ɲə tɕʰatsõ fɕi" təjəsə ŋərə.
-24	tɕʰəge te raca du tsəgə yə tə-fkʰɔ, rji de tə-fkʰo rəge, ətɕə jərəmɔ
-26 akəstɔmbow "rji tə-ɲcʰəca-dʑə ɣrə nə tɕʰərev tə-ɲcʰə-dʑə, 
-27	skhɔdzi la pʰerɟe kə-ɕə rəge, "rcaχpa nə-ŋgi" təjədʑə
-28	tə-pʰji-sə ŋərə
+\b	Le cavalier descendit du cheval.
+15	"a ɲəqʰej te tɕa de ətɕəpi gə ŋərə, ŋa-gi kə-snã ŋge" tə-jə-sə ŋərə.  
+\b	Comment il est ton thé, montre-le moi."
+16	tɕʰəge ɲəqʰɔ kə-scəqi ŋge tə-jə-dʑə
+\b	"Regarde-le toi-même. "
+17	kə-sni-sə ŋərə, tɕa lə-qɔ-sə nə-ɟi-sə ŋə-rə, ɣmə vdɔ-lə ma-sə ŋərə.
+\b	Il le lui montra, le thé était chaud, et on ne voyait pas de feu.
+18	tɕʰəge raca du "ɲəqʰej təgi χeʑə gə fɕi, ŋa ru" tə-jə-sə ŋərə
+\b	Le cavalier dit: "Combien il fait pour (cette théière), je l'achète."
+19	akəstɔmbow, "tə ŋa mí-zju, mí-zju" tə-jə-sə ŋə-rə.
+\b	"Je ne la vendrai pas"
+20	"ŋa-gi tə-zjõ ge, ŋa ɲi-gi rji de kʰɔ" tə-jə-sə ŋə-rə.
+\b	Si tu me la vends, je te donne mon cheval."
+21	"rji-kʰa mi-ŋi" tə-jə-sə ŋə-rə.
+\b	"Ton cheval, ça ne suffit pas."
+22	tɕʰəge "ətɕəgə fɕi" tə-jə-sə ŋə-rə.
+\b	Qu'est ce qu'il faut?"
+23	"ɲəqʰej tsəgə ɲə tɕʰatsõ fɕi" tə-jə-sə ŋə-rə.
+\b	Il faut aussi tous tes habits."
+24	"tɕʰəge te raca du tsəgə ɲə tə-fkʰɔ, rji de tə-fkʰɔ rəge, ətɕə jərəmɔ
+\b	Le cavalier lui donna ses habits et son cheval,
+26 akəstɔmbow rji tə-ɲcʰəca-dʑə ɣrə nə tɕʰərev tə-ɲcʰə-dʑə, 
+\b	Akustomba monta sur le cheval, et traversa la rivière.
+27	skhɔdzi la pʰerɟe kə-ɕə rəge, "rcaχpa nə-ŋgi" tə-jə-dʑə
+\b	Lorsqu'il eut dépassé la passe, it dit "mange des crottes"
+28	tə-pʰji-sə ŋə-rə
+\b	et il s'enfuit.
 29	tu tɕa de ɣə-ftʰi rəge, ti ɕu jɔ gə rə-zɮdə  rəge
-30	lə-lə nə-masə ŋərə
-	bouillir (XXXXSX)
+\b	Il but le thé, et après il la mit à nouveau à bouillir,
+30	lə-lə nə-ma-sə ŋə-rə
+\b	mais elle ne bouillait plus.
 31 ste-sə ŋərə
-
+\b	C'est fini.
 

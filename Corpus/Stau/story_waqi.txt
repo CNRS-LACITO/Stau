@@ -1,33 +1,49 @@
-tə lɔrɟə de qʰana ɲə gi rgə-tɕʰa fɕe-lə ŋə-rə
-te lɔrɟə de waqi rəge staˠ ɣni (ətɕə jərəmɔ)
-mtshɔzɮdə-lə (020?? jeu) 
-waqi gə rəge staˠ gə nə-ɟi-sə ŋərə.
-tɕʰəge təɣnu, aʁi skʰɔdzi ɣə-ndzɔ, aʁi zɣədzi ɣə-ndzɔ-dʑə,
-tɕʰəge waqi vu-ʁa rgəme gə kə-rcʰəla-dʑə 
-te-tɕʰa χɕoˠvə gə kə-zɟwer-sə ŋərə.
-staˠ-w χɕoˠvə gə kə-zɟwer-dʑə
-te-ʁa ʁərʁər gə kə-vra-dʑə (cible)
-rgəme nə-ma-rkʰə-sə ŋərə
-tɕʰəge staˠw təjədʑə "ŋa ɲi-ʁa ɣɮdə-kʰa tə-ɲcʰu-ve, 
-ŋa ɲi de mí-ŋgu" təjəsə ŋərə.
-"tə-ma-ɲcʰu ve, ŋa ɲi de ŋgu" təjəsə ŋərə.
-waqu təjədʑə "ŋa ɲi-ʁa ɲcʰə ma-vzu ve, 
-ɲi ŋa de nə-ŋgõ" təjəsə ŋərə.
-"ɲcʰə-dʑə ɲi de se tə-vzu ve, ɲəqʰɔ zdu ɟõ ŋɔ təjəsə ŋərə (135 sdug ??)
-tant pis pour toi
-tɕʰəge ɣni du aʁi skʰɔdzi ɣə-ndzɔ-dʑə zɣədzi ɣə-ndzɔ-dʑə tɕʰəge,
-ɮdə qe-re nə-ftʰɔ-sə ŋərə (ɮdə ou ʁɮdə ftʰɔ)
-tɕʰəge waqu təjədʑə "staˠ ti mɲa mɲa, 
-"ŋa zəŋɔ qow ŋɔ" təjəsə ŋərə
-tɕʰəge waqu təjədʑə "ɲi ke cʰe-me ŋɔ-rə, 
--me 
-	ɲi ŋa ʁa nə-ŋɔ ve, sɔ cʰe-rə
-	ɲi ke cʰe-me ŋɔ-rə
-ɲi ŋa de tə-ma-ɲcʰi ve, ɲi ŋa de nembi ŋgi ŋərə təjəsə ŋərə.
-ŋa ɲi de se ma-vzu ve, ɲi ŋa de ŋgi ŋɔ rə, 
-ŋa ɲi de se tə-vzu ve, ɲi zduɟõ ŋɔ rə, (ətɕə jərəmɔ)
-ŋa zəŋɔ qow" təjəsə ŋərə.
-tɕʰəge, waqu zəŋɔ tə-fqe-sə ŋərə.
-waqu zəŋɔ tə-fqe-dʑə, e-ɮdə-kʰa rõsa vucʰi gə tə-ɲcʰə-dʑə tə-fse-sə ŋərə.
-staˠ qe ma-cʰe-sə ŋərə
-tɕʰəge ste-sə ŋərə.
+001	tə lɔrɟə de sɔŋɔ qʰana ɲə gi rgə-tɕʰa fɕe-lə ŋə-rə
+\b	C'est une histoire qui était racontée autrefois aux enfants lorsqu'ils se couchaient.
+002	te lɔrɟə de waqi rəge staˠ ɣni (ətɕə jərəmɔ tegile) mtshɔzɮdə-lə, mtshɔzɮdə-lə gə ??? ŋə-rə (020)
+003	waqi gə rəge staˠ gə nə-ɟi-sə ŋərə.
+\b	Il y avait un lapin et un tigre.
+004	tɕʰəge təɣnu, a-ʁi skʰɔdzi ɣə-ndzɔ, a-ʁi zɣədzi ɣə-ndzɔ-dʑə, 
+\b	L'un était assis d'un côté, l'autre de l'autre côté.
+005	kɔrɔ ɣɔrɔ ɮdə qe-re nə-ftʰɔ-sə ŋə-rə 
+\b	Ils se préparaient à s'envoyer des flèches (l'un à l'autre)
+006	tɕʰəge waqi vu-ʁa rgəme gə kə-rcʰəla-dʑə 
+\b	Le lapin (erg?) s'attacha une pierre sur le ventre.
+007	te-tɕʰa χɕoˠvə gə kə-zɟwer-sə ŋə-rə.
+\b	Il colla un papier dessus.
+008	staˠ-w χɕoˠvə gə kə-zɟwer-dʑə te-ʁa ʁərʁər gə kə-vra-dʑə 
+\b	Le tigre attacha un papier et dessina un cercle dessus (une cible)	
+009	rgəme nə-ma-rkʰə-sə ŋərə
+\b	Il n'avait pas mis de pierre dedans.
+010	tɕʰəge staˠw tə-jə-dʑə "ŋa ɲi-ʁa ɮdə-kʰa tə-ɲcʰu-ve, 
+\b	Le tigre dit: si je tire une flèche sur toi,
+011	ŋa ɲi de mí-ŋgu" tə-jə-sə ŋə-rə.
+\b	je ne te mangerai pas.
+012	"tə-ma-ɲcʰu ve, ŋa ɲi de ŋgu" tə-jə-sə ŋə-rə.
+\b	Si je ne te tire pas dessu, je te mangerai.
+013	waqu tə-jə-dʑə "ŋa ɲi-ʁa ɲcʰə ma-vzu ve, ɲi ŋa de nə-ŋgõ" tə-jə-sə ŋə-rə.
+\b	Le lapin dit "Si je ne te tire pas dessur, tu me mangeras,
+014	ɲcʰə-dʑə ɲi de se tə-vzu ve, ɲəqʰɔ zduɟõ ŋɔ tə-jə-sə ŋə-rə 
+\b	si en te tirant dessus, je te tue, tant pis pour toi.
+015	tɕʰəge ɣni du aʁi skʰɔdzi ɣə-ndzɔ-dʑə zɣədzi ɣə-ndzɔ-dʑə tɕʰəge, ɮdə qe-re nə-ftʰɔ-sə ŋərə 
+\b	Alors, ils s'assirent l'un en face de l'autre et se préparèrent à tirer des flèches.
+016	tɕʰəge waqu tə-jə-dʑə "staˠ ti mɲa mɲa, ŋa zəŋɔ qow ŋɔ" tə-jə-sə ŋə-rə
+\b	Le lapin dit: ???, je tire en premier
+017	tɕʰəge waqu təjədʑə "ɲi ke cʰe-me ŋɔ-rə, 
+\b	Tu es plus grand,
+018	ɲi ŋa de tə-ma-ɲcʰi ve, ɲi ŋa de nembi ŋgi ŋə-rə tə-jə-sə ŋə-rə.
+\b	Si tu ne me tire pas dessus, tu me mangeras de tout façon.
+019	ŋa ɲi de se ma-vzu ve, ɲi ŋa de ŋgi ŋɔ rə, 
+\b	Si je ne te tue pas, tu me mangeras,
+020	ŋa ɲi de se tə-vzu ve, ɲi zduɟõ ŋɔ rə, (ətɕə jərəmɔ)
+\b	si je te tue, tant pis pour toi,
+021	ŋa zəŋɔ qow" tə-jə-sə ŋə-rə.
+\b	Je tire en premier.
+022	tɕʰəge, waqu zəŋɔ tə-fqe-sə ŋərə.
+\b	Le lapin tira en premier.
+023	waqu zəŋɔ tə-fqe-dʑə, e-ɮdə-kʰa rõsa vucʰi gə tə-ɲcʰə-dʑə tə-fse-sə ŋərə.
+\b	Le lapin tira en premier, l'atteint tout de suite au bas-ventre avec une flèche, et le tua.
+024	staˠ qe ma-cʰe-sə ŋərə
+\b	Le tigre n'eut pas le temps de tirer.
+025	tɕʰəge ste-sə ŋərə.
+\b	C'est fini.
