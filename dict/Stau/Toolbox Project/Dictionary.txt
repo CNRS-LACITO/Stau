@@ -1,5 +1,4 @@
 \_sh v3.0  231  MDF 4.0
-\_DateStampHasFourDigitYear
 
 \lx ada
 \ps n
@@ -276,7 +275,9 @@
 \2s rə-cʰi
 \3s rə-f-cʰə
 \1p rə-cʰã
-\dt 09/Apr/2013
+\xv ske ske ske fcʰə-dʑə rə-ftʰe
+\xe Il se sent de mieux en mieux.
+\dt 28/Oct/2014
 
 \lx cʰəmtsʰõ
 \ps n
@@ -544,6 +545,13 @@
 \gn 小
 \dt 09/Sep/2013
 
+\lx də
+\ps vi
+\ge exister
+\xv tʰi-lə χi tɕʰu ə́-də?
+\xe Est-ce-que tu as quelquechose à boire?
+\dt 28/Oct/2014
+
 \lx dõ
 \ps vi
 \ge clear, limpid
@@ -715,6 +723,14 @@
 \gn 一堆
 \dt 18/Nov/2013
 
+\lx e-ʑe
+\ps n
+\ge a while
+\gn 一会儿
+\xv e-ʑe ʑəgə nə tə-xtʂʰõ
+\xe Laisse moi me reposer un peu.
+\dt 28/Oct/2014
+
 \lx ə-
 \ps part
 \ge @inter
@@ -760,12 +776,6 @@
 \gn 怎么
 \dt 24/Oct/2014
 
-\lx əʑe
-\ps n
-\ge a while
-\gn 一会儿
-\dt 23/Apr/2013
-
 \lx əʑi
 \ps Pro
 \ge where
@@ -777,6 +787,11 @@
 \ge mouse
 \gn 老鼠
 \dt 11/Apr/2013
+
+\lx fɕaχpa
+\ps N
+\ge dédommagement
+\dt 28/Oct/2014
 
 \lx fɕi
 \ps vi
@@ -1321,6 +1336,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 嘴巴
 \dt 22/Oct/2014
 
+\lx jaˠ
+\ps Adj
+\ge complètement
+\xv ŋgə jaˠ ɲcʰu
+\xe Je vais tout manger
+\dt 28/Oct/2014
+
 \lx java
 \ps N
 \ge kind of
@@ -1361,6 +1383,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv rɟen kə-jã.
 \xe I won the card game.
 \xn 我打牌赢了。
+
+\lx jermi
+\ps
+\ge à peu près à ce moment là
+\xv javə vʑarkʰa jermi, ŋi qʰəzə de ɲi-qhi tə-rmu-sə
+\xe L'été dernier, j'ai oublié mon bol chez toi.
+\dt 28/Oct/2014
 
 \lx jeʁer
 \ps n
@@ -1510,6 +1539,15 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge divorce
 \gn 分开，离婚
 \dt 11/Jun/2013
+
+\lx kʰama
+\ps Conj
+\ge à la place de
+\xv liska ɕə kʰama, ɲcʰara tə-ɕã
+\xe au lieu d'aller travailler, je suis allé me promener
+\xv ŋi kʰama liska ɕə ə́-vzi
+\xe Est-ce que tu peux aller travailler à ma place?
+\dt 28/Oct/2014
 
 \lx kʰanda
 \ps n
@@ -1746,6 +1784,16 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge slope
 \gn 山坡
 \dt 14/Oct/2013
+
+\lx ladu
+\ps N
+\ge mal des hauteurs
+\gn 高山反应
+\xv ŋi ladu tə-kʰi
+\xe Il a le mal des hauteurs
+\xv ti ladu tə-kʰi-sə
+\xe Il a le mal des hauteurs
+\dt 28/Oct/2014
 
 \lx laˠrtsa
 \ps n
@@ -1997,11 +2045,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 如果在路边种满柏树，路会很好的。
 \dt 18/Oct/2013
 
-\lx ɮdow
-\ps ?
+\lx ɮdow ɮdi
+\ps Vt
+\ge récupérer
 \xv ŋa ɮdow ɮdã
-\xe je l'ai eu (il me l'a rendu).
-\dt 22/Oct/2014
+\xe je l'ai récupéré
+\dt 28/Oct/2014
 
 \lx ɬe ɲcʰə
 \ps vi
@@ -2259,6 +2308,16 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1p nə-zɮdõ
 \dt 18/Nov/2013
 
+\lx mdaχtɕə
+\ps vt
+\mr nə-
+\ge pincer
+\gn 捏
+\1s nə-mdaχtɕu
+\xv tu ŋa-ʁa tə-mdaχtɕə
+\xe Il m'a pincé
+\dt 28/Oct/2014
+
 \lx mdõŋẽ
 \ps vi
 \ge ugly (male)
@@ -2330,6 +2389,17 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 妈妈
 \dt 01/Jul/2013
 
+\lx memə
+\ps vi
+\mr tə-
+\ge avancer à petits pas
+\1s tə-memõ
+\xv ŋi qʰanow memə vzə-rə
+\xe Mon fils fait ses premiers pas.
+\xv ɣzəvə du χɔ ge memə vzə-rə
+\xe Le vieillard peut maintenant marcher (à nouveau).
+\dt 28/Oct/2014
+
 \lx meʁe
 \a meʁer
 \ps n
@@ -2342,6 +2412,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge younger brother (male speaking)
 \gn 弟弟（女称）
 \dt 17/Dec/2013
+
+\lx mə scwa
+\ps vi
+\mr rə-
+\ge faire une nuit blanche
+\xv ŋa məgə mə rə-scwow
+\xe J'ai fait une nuit blanche hier soir.
+\dt 28/Oct/2014
 
 \lx məgʚ
 \ps n
@@ -2403,11 +2481,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge immediately
 \gn 马上
 \dt 01/Jul/2013
-
-\lx mistõ
-\ps N
-\ge dédommagement
-\dt 22/Oct/2014
 
 \lx mitsəm ɲcʰə
 \ps vi
@@ -2509,6 +2582,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 代
 \et mi.rabs
 \dt 30/Sep/2013
+
+\lx mɲəstõ
+\ps N
+\ge prix du sang
+\dt 28/Oct/2014
 
 \lx mpʰe
 \ps vt
@@ -2622,6 +2700,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe You weaved a basket.
 \dt 19/Dec/2012
 
+\lx mtsʰaˠ
+\ps Vt
+\mr rə-
+\ge pêcher
+\gn 捕鱼、捞出来
+\dt 28/Oct/2014
+
 \lx mtsʰaˠ ɲcʰə
 \ps vi
 \ge winnow
@@ -2706,10 +2791,18 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 湖
 \dt 14/Oct/2013
 
-\lx mtsʰʚzɮdə
-\ps n
-\ge a type of game 
-\dt 21/Oct/2013
+\lx mtsʰʚ
+\ps N
+\ge cible
+\gn 靶子
+\dt 28/Oct/2014
+
+\lx mtsʰʚ zɮdə
+\ps vi
+\mr nə-
+\ge faire un duel (avec arcs et flèches, en tirant avec des pierres)
+\1s mtsʰɔ nə-zɮdõ =mtsʰɔ qe-re nə-tʰõ
+\dt 28/Oct/2014
 
 \lx mu
 \ps N
@@ -2908,6 +3001,14 @@ rɟazu kə-ru sə de nə-ɣʑow
 \et
 \dt 18/Nov/2013
 
+\lx ndʑaba
+\ps vi
+\mr tə-
+\ge être emmêlé
+\xv riskə ɲə tə-ndʑaba-sə
+\xe les files se sont emmêlés
+\dt 28/Oct/2014
+
 \lx ndʑeli dʑə ɕə
 \ps vi
 \ge climb
@@ -2922,6 +3023,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe The mirror is very smooth.
 \et ɴdʑam
 \dt 18/Nov/2013
+
+\lx ndʑemaˠmaˠ
+\ps Adj
+\ge très silencieux
+\dt 28/Oct/2014
 
 \lx ndʑədʑe
 \ps Vt
@@ -3059,6 +3165,23 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge inner side
 \gn 里边
 \dt 16/Apr/2013
+
+\lx ntɕʰaˠ
+\ps vt
+\ge répondre effontément
+\gn 顶嘴
+\xv ŋi qʰanow ŋa-gi ntɕʰaˠ-rə
+\dt 28/Oct/2014
+
+\lx ntɕʰaχtɕə
+\ps vt
+\mr nə-
+\ge mâcher
+\gn 咀嚼
+\1s nə-ntɕʰaχtɕu
+\xv vaˠrdʑaˠ ntɕʰaχtɕə sə ci-rə
+\xe il mâche du chewing-gum
+\dt 28/Oct/2014
 
 \lx ntɕʰem
 \ps vi
@@ -3782,7 +3905,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv mí-ŋi.
 \xe It's not good.
 \xn 不太好。
-\dt 18/Apr/2013
+\xv ŋa ndzɔ-ja mí-ŋã
+\xe Je ne veux pas rester.
+\dt 28/Oct/2014
 
 \lx ŋkʰre
 \ps vi
@@ -3967,6 +4092,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 这个人对我很有利。
 \et pʰan
 \dt 18/Nov/2013
+
+\lx pʰeji
+\ps N
+\ge pays natal
+\xv sevə ge, ŋa pʰeji gə nə-vi fɕi-rəmɔ ntsʰə-sə cã
+\xe L'année prochaine, je me dis que je devrais retourner au pays.
+\dt 28/Oct/2014
 
 \lx pʰembe
 \ps N
@@ -4235,15 +4367,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1s rə-qəjã
 \xv ŋa qəjev nə rə-qəjã
 \xe I shouted in the city.
-\xn
+\xn 
 
 \dt 01/Jul/2013
-
-\lx qərə
-\ps N
-\ge female yak
-\gn 木牦牛
-\dt 23/Oct/2014
 
 \lx qəsji
 \ps n
@@ -4354,10 +4480,22 @@ rɟazu kə-ru sə de nə-ɣʑow
 \dt 18/Nov/2013
 
 \lx qrə
+\ps N
+\ge female yak
+\gn 木牦牛
+\dt 23/Oct/2014
+
+\lx qrə
 \ps n
 \ge female yak
 \gn 母牦牛
-\dt 21/Oct/2013
+\dt 28/Oct/2014
+
+\lx qrəmbə
+\ps N
+\ge horn
+\gn 角
+\dt 28/Oct/2014
 
 \lx ra
 \ps vt
@@ -4745,6 +4883,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge tissue
 \gn 布
 
+\lx riskə
+\ps N
+\ge fil
+\dt 28/Oct/2014
+
 \lx rja
 \ps vi
 \ge arrive
@@ -4883,6 +5026,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \et dka
 \dt 23/Oct/2014
 
+\lx rkemə
+\ps N
+\ge nonne
+\dt 28/Oct/2014
+
 \lx rkə
 \ps vt
 \ge steal
@@ -4903,6 +5051,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv tu ŋa-tɕʰa rkə ftsu-rə
 \xn 他告我的状
 \dt 02/Dec/2013
+
+\lx rkətɕi
+\ps N
+\ge pelote de fil
+\dt 28/Oct/2014
 
 \lx rkʰe
 \ps vi
@@ -5444,6 +5597,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 牛皮帐篷
 \dt 14/May/2013
 
+\lx rva
+\ps N
+\ge épaules et haut du dos, collier
+\dt 28/Oct/2014
+
 \lx rvatɕa
 \ps vt
 \ge to carry on the shoulder
@@ -5754,7 +5912,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ps n
 \ge copper
 \gn 红铜
-\dt 14/Oct/2013
+\dt 28/Oct/2014
 
 \lx ʁʑu
 \ps n
@@ -5813,9 +5971,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 
 \lx samaradza
 \ps n
-\ge urtica
-\gn 荨麻
-\dt 24/May/2013
+\ge chanvre
+\gn 麻绳
+\dt 28/Oct/2014
 
 \lx samlʚ
 \ps n
@@ -5896,6 +6054,16 @@ rɟazu kə-ru sə de nə-ɣʑow
 \et skʲid
 \dt 18/Nov/2013
 
+\lx scən
+\ps vi
+\ge avoir un malheur
+\xv seŋgi-kʰa tɕʰu tí-scən?
+\xe Est-ce-qu'il t'est arrivé quelquechose à cause du tremblement de terre?
+\xv vdzi de tə-scən-sə
+\xe Cette personne est morte.
+\et skʲon
+\dt 28/Oct/2014
+
 \lx scəqi
 \ps Vt
 \ge regarder
@@ -5946,7 +6114,8 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge run after
 \gn 追
 \xv ŋa kətow tə-scʰʚcõ
-\dt 18/Nov/2013
+\xv ŋa kəta tə-scʰɔcow
+\dt 28/Oct/2014
 
 \lx scon ftaˠ
 \ps Vi
@@ -5961,14 +6130,15 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1s tə-scwã
 \ps vt
 \ge crack sth.
-\gn 使……裂开
+\gn 使裂开
 \mr nə
 \1s nə-scwow
 \2s nə-scwej
 \3s nə-scwa
 \1p nə-scwã
-\xv rtɕɑndzer kʰa kʰəllo de tə-scwa-sə
-\dt 24/Oct/2014
+\xv rtɕaˠndze-kʰa ŋkʰərlɔ de tə-scwa-sə
+\xe Le clou a crevé la roue.
+\dt 28/Oct/2014
 
 \lx scʚr
 \ps vt
@@ -6209,6 +6379,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge discourse, speech
 \gn 话语
 \dt 12/Apr/2013
+
+\lx skəlɔ
+\ps N
+\ge corde en cuir de yak
+\dt 28/Oct/2014
 
 \lx skəlʚ
 \ps n
@@ -6609,9 +6784,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 
 \lx sɔχpa
 \ps N
-\ge shoulder
+\ge shoulder (one side)
 \gn 肩膀
-\dt 23/Oct/2014
+\dt 28/Oct/2014
 
 \lx spar
 \ps vi
@@ -6858,7 +7033,9 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv <luyinji> ə́-stʰə-rə?
 \xe Is the radio there?
 \xn 录音机在吗？
-\dt 23/Apr/2013
+\xv ŋgə-lə χi tɕʰu ə́-stʰə-rə
+\xe Y-a-t-il quelque chose à boire?
+\dt 28/Oct/2014
 
 \lx stʰəzɮdə
 \ps vi
@@ -7057,6 +7234,15 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 路
 \dt 14/Oct/2013
 
+\lx tɕe
+\ps vt
+\mr rə-
+\ge porter sur les épaules
+\gn 扛
+\1s rə-tɕow
+\3s rə-tɕe
+\dt 28/Oct/2014
+
 \lx tɕə
 \ps vi
 \ge be inside
@@ -7208,13 +7394,6 @@ rɟazu kə-ru sə de nə-ɣʑow
 \se teɣdeŋa
 \dt 18/Nov/2013
 
-\lx teɣdev
-\ps adj
-\ge little
-\gn 小
-\cf dev
-\dt 09/Sep/2013
-
 \lx tembə
 \ps n
 \ge bottle
@@ -7255,7 +7434,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ps vt
 \ge take off, take out
 \gn 脱下，取出
-\mr ɣə
+\mr ɣə-
 \1s ɣə-tʰow
 \2s ɣə-tʰej
 \3s ɣə-f-tʰe
@@ -7269,7 +7448,18 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv <yinhang> n-e pʰjodzə ɣə-tʰej.
 \xe Draw some money from the bank.
 \xn 到银行取点钱吧。
-\dt 15/Oct/2013
+\dt 28/Oct/2014
+
+\lx tʰe
+\ps vt
+\mr rə-
+\ge monter
+\gn 拿上去
+\xv tɕe de nə vdzi-kʰa xsev-dʑə rə-tʰe-sə ci
+\xe Cette route commence à se remplir de gens.
+\xv tsʰupa za-dʑə fcʰə-dʑə rə-ftʰe-rə
+\xe Il est de plus en plus en colère.
+\dt 28/Oct/2014
 
 \lx tʰeptɕaˠ
 \ps adv
@@ -7324,6 +7514,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xv ɲəqʰe lẽ de kə-tʰi.
 \xe You answer is right.
 \xn 你的答案是对的。
+
+\lx tʰiɣə
+\ps N
+\ge corde en poil de yak
+\dt 28/Oct/2014
 
 \lx tʰu
 \ps vi
@@ -7557,6 +7752,13 @@ rɟazu kə-ru sə de nə-ɣʑow
 \gn 桥
 \dt 14/May/2013
 
+\lx tʂaˠ
+\ps vi
+\ge mieux
+\xv ŋa ske tʂaˠ-rə
+\xe Ca va un peu mieux
+\dt 28/Oct/2014
+
 \lx tʂẽ
 \ps vt
 \ge remember
@@ -7633,6 +7835,11 @@ rɟazu kə-ru sə de nə-ɣʑow
 \ge a kind of chewing gum
 \gn 一种香口胶
 \dt 24/May/2013
+
+\lx vaˠrdʑaˠ
+\ps N
+\ge plante locale faisant office de chewing-gum
+\dt 28/Oct/2014
 
 \lx varva
 \ps adv
@@ -7957,6 +8164,17 @@ rɟazu kə-ru sə de nə-ɣʑow
 \et bzaŋ.bɕad
 \dt 18/Nov/2013
 
+\lx vʑi
+\ps vi
+\ge atteindre
+\xv ŋi ʁɮdə-kʰa mtsʰɔ-ʁa kə-ma-vʑi
+\xe Je n'ai pas atteint la cible
+\xv ŋi ɮda-kʰa tə-ʁa kə-vʑi
+\xe Je l'ai atteint avec ma main
+\xv ɲəqʰej sketɕʰa-kʰa ŋa-ʁa kə-vʑã
+\xe Tes paroles m'ont blessé.
+\dt 28/Oct/2014
+
 \lx vʚ
 \ps n
 \ge alcohol
@@ -8115,6 +8333,23 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe I need to buy a new house.
 \xn 我想买个新房子。
 \dt 18/Nov/2013
+
+\lx xtɕʰi
+\ps vis
+\ge mieux
+\gn 更好
+\xv ŋgələ-ʁa nə-ŋɔ-və, tʰi-lə de sɔ xtɕʰi
+\xe La boisson c'est mieux que la nourriture
+\dt 28/Oct/2014
+
+\lx xtɕʰixtɕʰi
+\ps adj
+\ge étroit
+\xv tɕe de xtɕʰixtɕʰi gə ŋə-rə
+\xe ce chemin est étroit
+\xv kərba xtɕʰixtɕʰi de pəbə gə ŋə-rə
+\xe la planche étroite est fine
+\dt 28/Oct/2014
 
 \lx xte
 \ps n
@@ -8420,6 +8655,16 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xn 桌子上的肉变酸了。
 \rgy tɕur
 \dt 18/Nov/2013
+
+\lx χtɕi
+\ps vt
+\mr nə-
+\ge choyer
+\gn 疼爱
+\1s nə-χtɕu
+\xv smi de ke rtɕi gə ŋə-rə
+\xe
+\dt 28/Oct/2014
 
 \lx χte
 \ps vt
@@ -9073,10 +9318,20 @@ rɟazu kə-ru sə de nə-ɣʑow
 \2s kə-zej
 \3s kə-v-zʚ
 \1p kə-zõ
-\xv ja kə-zei!
+\xv ja kə-zej!
 \xe Shut up!
 \xn 闭嘴！
-\dt 18/Nov/2013
+\dt 28/Oct/2014
+
+\lx zʚ
+\ps zʚ
+\ps vt
+\ge porter à la main
+\gn 拿
+\3s rə-v-zʚ
+\xv ɲi qʰəzə de rə-ze-j
+\xe Prends ce bol.
+\dt 28/Oct/2014
 
 \lx ʑara
 \ps n

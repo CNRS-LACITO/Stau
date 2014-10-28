@@ -1,6 +1,6 @@
 001	tə lɔrɟə de sɔŋɔ qʰana ɲə gi rgə-tɕʰa fɕe-lə ŋə-rə
 \b	C'est une histoire qui était racontée autrefois aux enfants lorsqu'ils se couchaient.
-002	te lɔrɟə de waqi rəge staˠ ɣni (ətɕə jərəmɔ tegile) mtshɔzɮdə-lə, mtshɔzɮdə-lə gə ??? ŋə-rə (020)
+002	te lɔrɟə de waqi rəge staˠ ɣni (ətɕə jərəmɔ tegile) mtshɔzɮdə-lə, mtshɔzɮdə-lə-ʁə gə ŋə-rə 
 003	waqi gə rəge staˠ gə nə-ɟi-sə ŋərə.
 \b	Il y avait un lapin et un tigre.
 004	tɕʰəge təɣnu, a-ʁi skʰɔdzi ɣə-ndzɔ, a-ʁi zɣədzi ɣə-ndzɔ-dʑə, 
@@ -18,17 +18,19 @@
 010	tɕʰəge staˠw tə-jə-dʑə "ŋa ɲi-ʁa ɮdə-kʰa tə-ɲcʰu-ve, 
 \b	Le tigre dit: si je tire une flèche sur toi,
 011	ŋa ɲi de mí-ŋgu" tə-jə-sə ŋə-rə.
-\b	je ne te mangerai pas.
-012	"tə-ma-ɲcʰu ve, ŋa ɲi de ŋgu" tə-jə-sə ŋə-rə.
-\b	Si je ne te tire pas dessu, je te mangerai.
+\b	je ne te mangerai pas. (1>3)
+012	"tə-ma-ɲcʰu ve, ŋa ɲi de ŋgu" tə-jə-sə ŋə-rə. (1>3)
+\b	Si je ne te tire pas dessus, je te mangerai.
 013	waqu tə-jə-dʑə "ŋa ɲi-ʁa ɲcʰə ma-vzu ve, ɲi ŋa de nə-ŋgõ" tə-jə-sə ŋə-rə.
-\b	Le lapin dit "Si je ne te tire pas dessur, tu me mangeras,
+\b	Le lapin dit "Si je ne te tire pas dessus, tu me mangeras, (3>1)
 014	ɲcʰə-dʑə ɲi de se tə-vzu ve, ɲəqʰɔ zduɟõ ŋɔ tə-jə-sə ŋə-rə 
 \b	si en te tirant dessus, je te tue, tant pis pour toi.
 015	tɕʰəge ɣni du aʁi skʰɔdzi ɣə-ndzɔ-dʑə zɣədzi ɣə-ndzɔ-dʑə tɕʰəge, ɮdə qe-re nə-ftʰɔ-sə ŋərə 
 \b	Alors, ils s'assirent l'un en face de l'autre et se préparèrent à tirer des flèches.
-016	tɕʰəge waqu tə-jə-dʑə "staˠ ti mɲa mɲa, ŋa zəŋɔ qow ŋɔ" tə-jə-sə ŋə-rə
-\b	Le lapin dit: ???, je tire en premier
+016	tɕʰəge waqu tə-jə-dʑə "ŋa zəŋɔ qow ŋɔ" tə-jə-sə ŋə-rə
+\b	Le lapin dit: je tire en premier
+017	staˠ tə-jə-dʑə "mɲa, mɲa,ŋa zəŋɔ qow" tə-jə-sə ŋə-rə
+\b 	Le tigre dit: "Non, c'est moi qui tire en premier"
 017	tɕʰəge waqu təjədʑə "ɲi ke cʰe-me ŋɔ-rə, 
 \b	Tu es plus grand,
 018	ɲi ŋa de tə-ma-ɲcʰi ve, ɲi ŋa de nembi ŋgi ŋə-rə tə-jə-sə ŋə-rə.

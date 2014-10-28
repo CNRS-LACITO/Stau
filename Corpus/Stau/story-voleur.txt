@@ -22,8 +22,8 @@
 \b	Il y a des gens très forts pour regarder les traces,
 012	pʰapʰow rdʑi-ʁa ʁdemba χa mi-gɔ ŋə-rə
 \b	certains ne savent jamais pister,
-013	pʰapʰow rdʑi-ʁa tɕʰəmindəmi χsitɕʰaˠ???? χa kɔ-ŋkʰə ci ŋə-rə
-\b	certains savent vraiment pister,
+013	pʰapʰow rdʑi-ʁa tɕʰəmindəmi χsitɕʰaˠ χa kɔ-ŋkʰə ci ŋə-rə
+\b	certains savent vraiment complètement pister,
 014	rõba ji kʰarma ŋə-rə sə, mbroχpej kʰarma ŋə-rə sə,
 \b	que se soient les animaux de paysans ou de nomades,
 015	rdʑi-ʁa scəqi ŋə-rə, pa tɕʰitɕʰõ-ʁa scəqi,
@@ -33,7 +33,7 @@
 017	tɕʰəge ramda ɕə-ŋkʰə ɕatsa ci ŋə-rə
 \b	Alors beaucoup de gens vont poursuivre (les voleurs) 
 018	tɕʰəge ramda tə-ɕə-sə kʰa mpʰre mɲa-rə
-\b	S'il n'y pas assez de gens pour les poursuivre,
+\b	Il ne suffit pas simplement de les poursuivre,
 019	ramda tə-ɕə-si ɕu kə-nɬev-ve
 \b	si on les rattrape après être parti à leur poursuite,
 020	tɕʰəge rkəmə ɲə, rɔʑi sɔ rkəmə a-ʁi pa ɣnə-ʁi pa ŋɔ mɲa-rə
@@ -61,7 +61,7 @@
 032	xə rəge, rji χi ʁɔ tə java tə-mpʰe-rə,  tɕʰəge dʑə
 \b	lorsqu'ils perdent des yaks ou des chevaux,
 033	zizi ramda ɕə-dʑə te vde-ŋkʰə ci mɲa-rə stʰɔ ŋərə.
-\b	Ils laissent tomber, sans les poursuivre même un peu (??)
+\b	Il n'y pas beaucoup de gens qui les poursuivent et qui font comme ça, ils laissent tomber.
 034	tɕʰəge rəvə nə ŋge, tɕʰəgege, rdʑi-ʁa χa kɔ-ŋkʰə
 \b	Dans le village, il y avait quelqu'un qui savait comment pister.
 035	ja ke caˠ, fɕe-lə tə-ŋkʰə, ɮda tə-ŋkʰə
@@ -69,7 +69,7 @@
 036	təbi gə nə-ɟi-sə ŋə-rə.
 \b	Il y avait quelqu'un comme ça.
 037	tu ge tɕʰəge ədəɲɟi xə de nə-mpʰe rəge, kʰərma rə-ɕə-sə ŋə-rə
-\b	Quand il a perdu ses bêtes, il y  est allé tout seul.
+\b	Quand il a perdu un mdzo, il y  est allé tout seul.
 038	ədi ɕeɲi de tə-fɕi rəge, tɕʰəge ramda tə-fqe-dʑə,
 \b	Il avait besoin de son frère, et ils ont pisté (les voleurs)
 039	təbi vde-dʑə, rdʑi-tɕʰa tə-fqe-dʑə rə-ɕə rəge, sa ʁjikʰoˠ rɔ ɮdi-sə ŋərə.
@@ -87,43 +87,42 @@
 045	rkəmə le təɲə nə-ŋɔ-sə ŋərə
 \b	c'était bien le voleur. (focus)
 046	tɕʰəge təχi te-dʑə,
-047	kʰrə-lə tə-vrə-dʑə, tɕʰəge kʰemtɕʰə nə-ɲcʰə-sə ŋərə.
+047	kʰrə-lə tə-vrə-dʑə, tɕʰəge kʰemtɕʰə nə-ɲcʰə-sə ŋə-rə.
 \b	Il a réussi à l'attraper et l'a confronté.
 048	tɕʰəge kʰemtɕʰə nə-ɲcʰə-rəge, ətɕəjərəmɔ,
-\b	Ils se disputèrent,
+\b	Ils ont essayé de régler ça à l'amiable.
 049	te mbroχpa rkəmə jɔvu rɟa-ji tʂʰəm-nə ɲcʰõ tə-jə-sə ŋərə
 \b	Le bandit a dit: on va faire un procès.
-050	pɔba??? ji fɕefɕe və-dʑə, kʰemtɕʰə ɲcʰõ tə-jə-sə ŋə-rə
-\b	Il lui parla en tibétain????
+050	pɔba ɲɟi fɕefɕe və-dʑə, kʰemtɕʰə ɲcʰõ tə-jə-sə ŋə-rə
+\b	(L'autre dit) on va régler ça à la tibétaine.
 051	wo, təχi nə-vde-dʑə, təɲu kʰemtɕʰə nə-fɕe-dʑə,
-\b	Il firent ainsi, ils se disputèrent,
-052	xə de kɔrɔ ɮdow ɮdi-sə ŋərə
-\b	Il lui a rendu son yak.
+\b	Il firent ainsi, ils ont réglé ça à l'amiable,
+052	(rõbow) xə de kɔrɔ ɮdow ɮdi-sə ŋərə
+\b	(Le paysan) a repris son mdzo.
 053	xə de ɣɔrɔ tə-χte, 
-\b	Il lui a rendu son yak, 
-054	tə tɕʰa ge χavʑi, ətɕəjərəmɔ təgile, ʁjaˠ gə rəge, qrə gə, zɔ gə ɣɔrɔ ɬaˠmə, ətɕəjərəmɔ təgile, mistõ... (320)
+\b	(Le nomade) lui a rendu son mdzo, 
+054	tə tɕʰa ge χavʑi, ətɕəjərəmɔ təgile, ʁjaˠ gə rəge, qrə gə, zɔ gə ɣɔrɔ ɬaˠmə, ətɕəjərəmɔ təgile, mɲəstõ... (320)
 \b	et en plus il lui a donné aussi un yak mâle, une femelle, une yak hybride,
-055	rkə tə-və-si skarva de ti ɣɔrɔ kʰɔ-ba tə-kʰi-sə ŋərə.
-\b	Il dut lui donner cela en dédommagement de son vol.
+055	rkə tə-və-si skarva (fɕaχpa) de ti ɣɔrɔ kʰɔ-ba tə-kʰi-sə ŋərə.
+\b	Il dut lui donner cela en dédommagement de son vol. (ti = rkəmi, təgi =rõba-gi)
 056	təχi vde-dʑə, tə-ɕə zdar-sə ŋərə
 \b	Il a fait comme ça, il y est allé,
 057	tə de sɔŋɔ, təχi ɕə-snə-ŋkʰə ke ɣnə-ʁi, ke ɣnə-ʁi mdi nə-ɟi mɲa-rə
 \b	à cette époque, il n'y en avait que un ou deux capable d'y aller comme ca.
-058	χavdə χi gə nə-ŋɔ-ve, tɕʰəge dʑu xə rə rji ɲə kʰa tɕhu??? mi-mkʰɔ-ŋkʰə tə-kʰi-sə ŋə-rə
+058	χavdə χi gə nə-ŋɔ-ve, tɕʰəge dʑu xə rə rji ɲə kʰa tɕhu mi-mkʰɔ-ŋkʰə tə-kʰi-sə ŋə-rə
 \b	de nos jours, les gens n'ont plus besoin de chevaux et de mdzos
 059	pɔba ɲu xə rə rji-kʰa zizi vdaχpə mi-ɲcʰə ŋə-rə
 \b	Les tibétains ne s'occupent plus de yaks et de chevaux.
 060	ətɕəjərəmɔ tə-jə-ve, rji le χɔ ge zi, ətɕə jə-fɕi-rəmɔ, pʰẽtʰoˠ sə ci mɲa-rə, rji kʰa rə-ɕə nə-ɕə və-sce le χɔ ge,
-\b	Les chevaux ne servent plus à rien, 
-	c'est un moyen pour faire des allers retours à cheval. ???
+\b	Les chevaux ne servent presque plus à rien, maintenant, au lieu de des allers retours à cheval,
 061	χavdə motuoche χi ɕəɕe-kʰa ɕə-sə ci ŋə-rə
-\b	Maintenant, on va seulement à moto.
+\b	on va seulement à moto.
 062	χavdə motuoche χi-kʰa mdi mi-ɕə-sə ci ŋə-rə
 \b	On ne va qu'à moto.
 063	oja, tɕʰəge mɲa-dʑə, tɕʰəgə, xə ɲə le sa-sce χi, tə χi ɲə le tɕʰatsõ rəge tɕʰə
-\b	Le yak, qui servait à labourer, 
+\b	Sinon, au lieu de labourer avec des mdzos,
 064	tuolaji χi ba... tə χi ɕəɕe-kʰa sa-sə ci ŋə-rə
-\b	On laboure seulement avec des tracteurs.
+\b	on laboure seulement avec des tracteurs.
 065	tɕʰəge dʑə, xə-kʰa tɕʰu pʰẽtʰoˠ sə ci mɲa-rəge
 \b	Les yaks hybrides ne servent plus à rien
 066	χɔ ge tə χi java rkəmə de tə χi zi mi-ɟi-rə, 
