@@ -1,4 +1,5 @@
 \_sh v3.0  231  MDF 4.0
+\_DateStampHasFourDigitYear
 
 \lx ada
 \ps n
@@ -2773,12 +2774,12 @@ rɟazu kə-ru sə de nə-ɣʑow
 \rgy mtsʰi
 \dt 18/Nov/2013
 
-\lx mtsʰi
+\lx mtsʰi le
 \ps n
 \ge make fun of
 \xv ŋa ʁa mtsʰi nə-di-le
 \xe Ne te moque pas de moi
-\dt 18/Nov/2013
+\dt 30/Oct/2014
 
 \lx mtshɔzɮdə
 \ps N
@@ -4367,7 +4368,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \1s rə-qəjã
 \xv ŋa qəjev nə rə-qəjã
 \xe I shouted in the city.
-\xn 
+\xn
 
 \dt 01/Jul/2013
 
@@ -4719,7 +4720,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \3s tə-v-rə
 \xv ŋa skərjʚ de rə-ɴqʰow rəge rɟənʚr gə tə-ru
 \xe I found a treasure while digging in the orchard.
-\xv ɲi ɕʰaɕə-lə de ɕʰa-lə tí-ri
+\xv ɲi ɕa ɕə-lə de ɕa-lə tí-ri
 \xe Did you find what you were looking for?
 \ge buy
 \gn 买
@@ -4732,7 +4733,7 @@ rɟazu kə-ru sə de nə-ɣʑow
 \xe Did you buy anything?
 \xn 你买了什么吗？
 \rgy χtɯ
-\dt 18/Nov/2013
+\dt 30/Oct/2014
 
 \lx rə
 \ps vt

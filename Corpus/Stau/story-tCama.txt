@@ -1,5 +1,6 @@
-tɕʰəge sɔŋɔ ŋaɲə ŋgra qhi,
-ʑələ ɲə tɕʰəge qaʁə fəɲu tə-ɕə-rə,
+01	tɕʰəge sɔŋɔ ŋaɲə ŋgra qhi,
+\b	autrefois, près de chez nous,
+\b	ʑələ ɲə tɕʰəge qaʁə fəɲu tə-ɕə-rə,
 	qaʁə: loin dans la montagne (15-20 km)
 	ʁʑu: pres du village
 	fəɲu: fuye

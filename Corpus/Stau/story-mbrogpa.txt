@@ -1,56 +1,74 @@
 001	χɔ tə lɔrɟə tə-jə ve ndʐa, 
-	χɔ???
+\b	Maintenant l'histoire,
 002	ŋaɲə ŋgra qʰi χɔ,
-003	mbroχpa ɲə rəge roŋba ɣni parma ge tɕʰəge te,
-004	qʰe qʰe tʰɔ-lə χi
+\b	Chez nous,
+003	mbroχpa ɲə rəge roŋba ɣni parma ge tɕʰəge ???
+\b	entre les nomades et les agriculteurs 
+004	qʰeqʰe tʰɔ-lə χi pa
+\b	on fait des ???
 005	χɔ mɲa-dʑə aʁiʁi-ʁa mtsʰi le-ŋkʰə χi.
-	ou sinon 
-	se moquer des un des autres
+	ou sinon on se moque des uns des autres
 006	təχi lɔrɟə pi gə ŋə-rə
+\b	L'histoire est comme ça.
 007	tɕʰəge ətɕəjərəmɔ mbroχpa ɲə, roŋba ɲə qʰi nə-ʂfa rə,
+\b	Un nomade est arrivé près de chez les agriculteurs.
 008	tɕʰəge roŋba ɲu, ətɕəjərəmɔ təgile, ŋẽ və-dʑə,
-	jouer des tours
-009	sɬə tɕʰa ɔrɔ ətɕəχi rə-vi-lə de mí-sni ŋərə
-	Il ne leur montrent pas comment faire pour monter sur une échelle.
+\b	Les agriculteurs leur ont joué des tours
+009	sɬə tɕʰa ɔrɔ ətɕəχi rə-vi-lə de mí-sni ŋə-rə
+\b	Ils ne leur ont pas montré comment faire pour monter sur une échelle.
 010	tɕʰəge mbroχpa ɲu sɬə tɕʰa-jəkʰa jɔʁɔ ʂfa-lə mi-vrə-rəge
-	Les nomades ne savent pas comment monter à l'étage
-011	sɬəcʰi rɲi-dʑə ndzɔ-rəge
-	Ils attendent au bas de l'échelle
-012	lili-ʁa scəqi ŋərə, (gnomique)
-013	lili ətɕəχi rə-ɕə ve, tɕʰəge lili χi ɔrɔ rə-vi ŋərə
-014	tɕʰəge nɔrɔ nə-vi tɕʰa, tɕʰəge nə-vi-lə mí-vrə ŋərə, ətɕəχi ɕə-lə ŋɔ mi-gɔ ŋə rəge (générique ???)
-	Il ne sait pas comment descendre,
+\b	Les nomades ne savaient pas comment monter à l'étage
+011	sɬə cʰi rɲi-dʑə ndzɔ-rəge
+\b	Ils attendaient assis au bas de l'échelle
+012	lili-ʁa scəqi ŋə-rə,  
+\b	Ils regardent le chat
+013	lili ətɕəχi rə-ɕə ve, tɕʰəge lili χi ɔrɔ rə-vi ŋə-rə
+\b	et montent de la même façon que le chat monter.
+014	tɕʰəge nɔrɔ nə-vi tɕʰa, tɕʰəge nə-vi-lə mí-vrə ŋərə, ətɕəχi ɕə-lə ŋɔ mi-gɔ ŋə rəge 
+\b	Quand ils descendent, ils ne savent pas comment descendre,
 015	tɕʰəge lili-ʁa scəqi rəge, lili ətɕəχi tə-ɕə ve, 
 016	təχi te-dʑə
-	Il agit de la même façon que le chat....
+\b	Ils regardent le chat, 
 017	nɔrɔ nə-vi ŋərə jə-dʑə,
+\b	et il descendent de la même façon 
 018	təχi fɕe-lə tə kʰrəm ŋə-rə
+\b	on a l'habitude de dire ça.
 019	tɕʰəge mɲa-dʑə, roŋba ɲu, mbroχpa ɲə qʰi rə-ɕə ve,
+\b	Sinon, lorsque les agriculteurs vont chez les nomades,
 020	mbroχpa ɲu ətɕəjərəmɔ təgile, 
 021	roŋpa ɲə ɮdi-rə ŋẽ və-dʑə, ətɕəjərəmɔ
-022	rtsɔ-kʰa mala de rvɔ xtʂʰə-dʑə loˠloˠ teɣde ŋa və-rəge,
-	ils font geler le beurre,
+\b	Les nomades jouent des mauvais tours aux agriculteurs,
+022	rtsɔkʰa mala de rvɔ xtʂʰə-dʑə loˠloˠ teɣde ŋa??? və-rəge, (110)
+\b	L'hiver, ils font geler le beurre en boulle,
 023	rvɔ xtʂʰə-dʑə, ke rgi-me kʰi xtʂʰə-dʑə
-024	tɕʰəge te de ge, ətɕəjərəmɔ, qəzə teɣde gə nə fqe-rəge
+\b	Ils le font geler, et le rendent très dur.
+024	tɕʰəge te de ge, ətɕəjərəmɔ, qʰəzə teɣde gə nə fqe-rəge
+\b	Ils le mettent dans un petit bol,
 025	tɕa de ɣzəɣzə gə vrə, 
+\b	ils achètent (?) un peu de thé,
 026	tə tɕʰa ge tɕʰəge ɣdʑɔ de e-zbə vrə.
-	e-zbə : un tas
+\b	Là dessus ils ??? un tas de tsamap
 027	mala de kə-rvɔ ste, tə nə nə-fqe rəge tɕʰəge
+\b	Lorsque le beurre est complètement gelé, il le mettent dedans,
 028	tɕə mí-vzə ŋə rəge
-	Il n'arrive pas à fondre 
+\b	Il n'arrive pas à fondre 
 029	pi rni tɕʰa ge, tɕʰəge ətɕəjərəmɔ
+\b	Lorsque l'on met en boulle la tsampa,
 030	kə-χtɕər ge, mala de
+\b	lorsqu'on presse,
 031	ʑəvʑə və mí-skɔ
-	On ne peut pas le mettre en petitsmorceaux.
-032 ɮda nə jəkʰa ʂfa-dʑə pʰju nɔrɔ tsar ŋərə$
+\b	le beurre, on ne peut pas le mettre en petits morceaux.
+032 ɮda nə jəkʰa ʂfa-dʑə pʰju??? nɔrɔ tsar ŋə-rə
+\b	Il sort de la main et tombe par terre
 033	təbi te-dʑə ŋẽ və-ŋkʰə ci ŋərə
+\b	ils font des mauvais tours comme ça.
 034	mɲa-dʑə tɕʰəge ʁjaˠ rkɔ-pʰa de
-	avec une patte de yak,
+\b	Sinon, avec une patte de yak,
 035	kə-rvɔ-sə ci mɲa-rə ŋɔ ge
-	elle était gelée, n'est ce pas,
+\b	elle était gelée, n'est ce pas???
 036	te kʰaχcə vle ŋə-rə
-	Ils la laisse à côté de (toi),
+\b	Ils la laisse à côté de (toi),
 037	kʰaχcə vle ŋə-rəge tɕʰəge,
 038	ŋgə snə-ŋkʰə ɲu pərzə de ftʰe-dʑə, ʑəvʑə və-dʑə,
-	Ceux qui osent manger sortent leur couteau, la mettent en petits morceaux,
-	0200
+\b	Ceux qui osent manger sortent leur couteau, la mettent en petits morceaux,
+200
