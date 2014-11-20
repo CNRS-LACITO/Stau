@@ -1,0 +1,444 @@
+%\PassOptionsToPackage{x11names}{xcolor}
+\documentclass[11pt]{article}
+%\usepackage{beamerarticle}
+%\usepackage{xunicode}
+%\usepackage{fontspec}
+%\usepackage{xltxtra}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{gb4e}
+\usepackage{polyglossia}
+%\usepackage{tikz}
+%\usetikzlibrary{decorations.fractals,fit,shapes.geometric}
+%\usepackage{newicktree}
+\usepackage{natbib}
+\bibpunct[:]{(}{)}{,}{a}{}{,}
+\usepackage{hyperref}
+
+\setdefaultlanguage{english}
+\setmainfont[Mapping=tex-text,Ligatures=Common]{Linux Libertine O}
+\newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Charis SIL} 
+\newfontfamily\phondroit[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase]{Charis SIL} 
+
+\newfontfamily\cn[Mapping=tex-text]{WenQuanYi Micro Hei} 
+\newcommand{\zh}[1]{{\cn #1}}
+\XeTeXlinebreaklocale 'zh' %使用中文换行
+\XeTeXlinebreakskip = 0pt plus 1pt %
+
+% \usetheme{Torino}
+% \usefonttheme{serif}
+% \setbeamerfont{title like}{shape=\scshape}
+% \setbeamerfont{frametitle}{shape=\scshape}
+% \setbeamertemplate{frametitle continuation}[from second]
+% \setbeamertemplate{footline}[frame number]
+% \setbeamertemplate{navigation symbols}{}
+
+
+\newcommand{\ipa}[1]{{\textit{\phon #1}}} %API tjs en italique
+\newcommand{\ipapl}[1]{{\phondroit #1}} 
+\newcommand{\racine}[1]{\begin{math}\sqrt{#1}\end{math}} 
+\newcommand{\grise}[1]{\cellcolor{lightgray}\textbf{#1}} 
+\usepackage{epsf}
+\newcommand{\ra}{$\Sigma_1$} 
+\newcommand{\rc}{$\Sigma_3$} 
+\newcommand{\ro}{$\Sigma$} 
+% \newcommand{\rouge}[1]{{\color{red}#1}}
+% \newcommand{\bleu}[1]{{\color{blue}#1}}
+
+\title{Semi-direct speech in Rgyalrongic languages: Rtau vs Japhug} 
+
+%\author[shortname]{Anton Antonov \inst{1} \and Guillaume Jacques \inst{2}}
+%\institute[shortinst]{\inst{1}INALCO-CRLAO \and %
+                      %\inst{2} CRLAO-EHESS-INALCO-CNRS}
+%\institute{\textsc{Crlao--Inalco--Cnrs--Ehess}}
+
+\author{Anton Antonov (INALCO-CRLAO)  \& Guillaume Jacques (CRLAO-EHESS-INALCO-CNRS)}
+
+\input{myglosses}
+
+\begin{document} 
+\maketitle
+
+
+
+\section{Semi-direct speech in Rtau}
+
+\subsection{The Rtau language}
+
+
+\begin{itemize}
+ \item  Rtau (locally known as \ipa{rəsɲəske}) is a Rgyalrongic language spoken in Rtau county (\zh{道孚县} Dàofú xiàn), Sichuan province (\zh{四川省} Sìchuān shěng), China.
+
+\includegraphics[width=0.5\textwidth]{chinalingmap.jpg}\includegraphics[width=0.5\textwidth]{dawu.png}
+
+\end{itemize}
+ 
+
+\begin{itemize}
+ \item Previous work on Rtau includes \citet{huangbf91daofu}, \citet{jackson07shangzhai} and especially \citet{sun13gexi}.
+\item The variety presented here represents the dialect of Khang.gsar (\ipa{qʰərŋe}) village spoken in the North of Rtau county, and differs slightly from the varieties studied by other authors.
+
+\item The  data presented here is based on ongoing fieldwork by the authors.
+
+%\item 
+
+\end{itemize}
+
+
+
+% 
+%  \begin{newicktree}
+% % \small
+% 
+% \righttree \nobranchlengths \setunitlength{10cm} \nodelabelformat{}
+% \drawtree[R]{((((((Resnyeske:0.07,Dge-bshes:0.07,Stod-sde:0.07):0.1[Trehor],(Thugs-chen:0.07,Njo-rogs:0.07):0.1[Lavrung]):0.05,(Japhug:0.07, Tshobdun:0.07, Showu:0.07,(N. Situ:0.02,S. Situ:0.02):0.05[Situ]):0.15[Rgyalrong]):0.12[Rgyalrongique],(Tangoute:0.2,Pumi:0.2):0.14[Pumi-Tangut],(N. Qiang:0.07,S. Qiang:0.07):0.27[Qiang],Queyu:0.34,Zhaba:0.34,Muya:0.34):0.08[MR],((Naxi:0.07,Na:0.07,Laze:0.07):0.1[Naish],Shixing:0.17,Namuyi:0.17):0.25[Naic],(Ersu:0.07,Lizu:0.07,Tosu:0.07):0.35[Ersuic]):0.05,Lolo-Burmese:0.05):0.05[BQ];}
+%  \\~\\\scalebar[0.1]
+% \end{newicktree}
+% 
+%[shrink=10]
+\subsection{Person marking and flagging}
+
+\begin{exe}
+\ex \label{ex:np3}
+\gll
+	\ipa{tʂaɕi-w} \ipapl{dʐʚma} 	\ipapl{de} \ipapl{nə-f-se(-sə)} \\
+	{Bkrashis-\erg} Sgrolma {\dem} {\prf-\inv-kill(-\evid)}\\ 
+	\glt Bkrashis killed Sgrolma.
+\end{exe}
+
+\begin{exe}
+\ex \label{ex:33}
+\gll
+	\ipa{tə-w} \ipapl{dʐʚma} \ipapl{de} \ipapl{nə-f-se(-sə)} \\
+	{3\sg-\erg} Sgrolma {\dem} {\prf-\inv-kill(-\evid)}\\ 
+	\glt He killed Sgrolma.
+\end{exe}
+
+\begin{exe}
+\ex \label{ex:13}
+\gll
+	\ipa{ŋa}	\ipapl{dʐʚma} 	\ipapl{de} 	\ipapl{nə-se-w} \\
+	{1\sg} Sgrolma {\dem} {\prf-kill-1\sg>3}\\ 
+	\glt I killed Sgrolma.
+\end{exe}
+
+\begin{exe}
+\ex \label{ex:23}
+\gll
+	\ipa{ɲi}	\ipapl{dʐʚma} 	\ipapl{de} 	\ipapl{nə-se-j(-sə)} \\
+	{2\sg} Sgrolma {\dem} {\prf-kill-2\sg>3(-\evid)}\\ 
+	\glt You killed Sgrolma.
+\end{exe}
+
+
+
+
+ 
+\begin{itemize}
+ \item It is important to note that contrary to what happens in some other Sino-Tibetan languages (esp. in Tibetan languages and some other members of the Rgyalrongic branch) ergative marking is normally blocked on \textsc{sap}.%, with \textsc{sds} being the only exception as far as the first person singular is concerned (the second person singular pronoun remains unmarked as usual as in \ref{ex:1ebis}).
+\end{itemize}
+
+
+
+\section{Defining the topic}
+
+%[shrink=15]
+\subsection{Semi-direct speech}
+
+\begin{itemize}
+
+\item In Rtau, there are two main ways of reporting what someone else has said, direct speech (\textsc{ds}) and semi-direct speech (\textsc{sds}, cf. \citealp{aikhenvald08semidirect}, also called `hybrid speech' by \citealp{tournadre08conjunct}). 
+
+%\item Unlike direct speech, \textsc{sds} is framed by a converbal form and an appropriately conjugated form of the reporting verb \ipa{jə} `say'
+
+\item We have been unable to ascertain the existence of any other type of reported speech, such as indirect speech (\textsc{is}) which is reported to be unattested in Tibetan languages as well (\citealp{tournadre08conjunct}).
+
+\end{itemize}
+
+
+
+%[shrink=10]
+\subsection{Semi-direct speech}
+
+\begin{itemize}
+ \item \textsc{sds} in Rtau is of type II in \cite{aikhenvald08semidirect}'s terms, i.e. the current speaker (\textsc{cs}) reports an original speaker (\textsc{os})'s words (or thoughts) by partly adjusting them to their (\textsc{cs}) perspective. 
+
+\end{itemize}
+
+\begin{exe}
+\ex \label{ex:1b}
+\gll
+	\ipa{tʂaɕi-w}$_i$ \ipa{ŋa-gi}	\ipa{jə-rə-ge} [\ipapl{tə-w}$_j$	\ipapl{dʐʚma} 	\ipapl{de} \ipapl{nə-f-se-sə}] \ipa{jə-rə}  \\
+	{Bkrashis-\erg} {1\sg-\dat} {say-\const-\conv} {3\sg-\erg} Sgrolma {\dem} {\prf-\inv-kill-\evid}  say-\const\\ 
+	\glt Bkrashis$_i$ told me (that) he$_j$ ($\ne$ Bkrashis) had killed Sgrolma.
+\end{exe}
+
+\begin{exe}
+\ex \label{ex:1c}
+\gll
+	\ipa{tʂaɕi-w}$_i$ \ipa{ŋa-gi}	\ipa{jə-rə-ge} [\ipapl{ədə}$_i$	\ipapl{dʐʚma} 	\ipapl{de} 	\ipapl{nə-se-w}] \ipa{jə-rə}  \\
+	{Bkrashis-\erg} {1\sg-\dat} {say-\const-\conv} {\refl} Sgrolma {\dem} {\prf-kill-1\sg>3} say-\const\\ 
+	\glt Bkrashis$_i$ told me that he$_i$ had killed Sgrolma.
+\end{exe}
+
+
+
+\begin{itemize}
+
+ \item absence of coreference in case of a third person \textsc{os} is signalled by the use of the ordinary third person pronoun \ipa{tə} (cf. \ref{ex:1bbis})
+
+\begin{exe}
+\ex \label{ex:1bbis}
+\gll
+	\ipa{tʂaɕi-w}$_i$ \ipa{ŋa-gi}	\ipa{jə-rə-ge} [\ipapl{tə-w}$_j$	\ipapl{dʐʚma} 	\ipapl{de} \ipapl{nə-f-se-sə}] \ipa{jə-rə}  \\
+	{Bkrashis-\erg} {1\sg-\dat} {say-\const-\conv} {3\sg-\erg} Sgrolma {\dem} {\prf-\inv-kill-\evid}  say-\const\\ 
+	\glt Bkrashis$_i$ told me (that) he$_j$ ($\ne$ Bkrashis) had killed Sgrolma.
+\end{exe}
+
+\end{itemize}
+
+
+\begin{itemize}
+ \item coreference between the \textsc{os} as subject of the reporting (or cognitive) verb and (one of) the participant(s) in the reported speech is signalled by the (logophoric) use of the reflexive pronoun \ipa{ədə(qʰʚ)} `oneself' instead of the first person pronoun \ipa{ŋa} (cf. \ref{ex:1cbis})
+\end{itemize}
+
+
+\begin{exe}
+\ex \label{ex:1cbis}
+\gll
+	\ipa{tʂaɕi-w}$_i$ \ipa{ŋa-gi}	\ipa{jə-rə-ge} [\ipapl{ədə}$_i$	\ipapl{dʐʚma} 	\ipapl{de} 	\ipapl{nə-se-w}] \ipa{jə-rə}  \\
+	{Bkrashis-\erg} {1\sg-\dat} {say-\const-\conv} {\refl} Sgrolma {\dem} {\prf-kill-1\sg>3} say-\const\\ 
+	\glt Bkrashis$_i$ told me that he$_i$ had killed Sgrolma.
+\end{exe}
+
+
+\begin{itemize}
+\item third and second person pronouns referring to the \textsc{cs} are shifted to first person pronouns (cf. \ref{ex:1d})
+\end{itemize}
+
+\begin{exe}
+\ex \label{ex:1d}
+\gll
+	\ipa{tʂaɕi-w}	\ipa{jə-rə-ge} [\ipapl{ŋa-w} \ipapl{dʐʚma} \ipapl{de} \ipapl{nə-f-se-sə}] \ipa{jə-rə}  \\
+	{Bkrashis-\erg} {say-\const-\conv} {1\sg-\erg} Sgrolma {\dem} {\prf-\inv-kill-\evid} say-\const\\ 
+	\glt Bkrashis said that I had killed Sgrolma.
+\end{exe}
+
+\begin{itemize}
+
+\item Crucially, however, the verb does not shift to the \textsc{cs}'s perspective but retains the \textsc{os}'s one (cf. \ref{ex:1c} through \ref{ex:1d}).
+
+\end{itemize}
+
+
+% 
+% \subsection{Semi-direct speech}
+% 
+% \begin{itemize}
+%  \item \textsc{sds} in Rtau is of type II in \cite{aikhenvald08semidirect}'s terms, i.e. the current speaker (\textsc{cs}) reports an original speaker (\textsc{os})'s words (or thoughts) by partly adjusting them to their (\textsc{cs}) perspective. 
+% 
+% \begin{itemize}
+%  \item and finally, third person pronouns referring to the \textsc{cs}'s addressee are shifted to second person pronouns (cf. \ref{ex:1e}).
+% \end{itemize}
+% 
+% \begin{exe}
+% \ex \label{ex:1e}
+% \gll
+% 	\ipa{tʂaɕi-w}	\ipa{jə-rə-ge} [\ipapl{ɲi} \ipapl{dʐʚma} \ipapl{de} \ipapl{nə-se-j-sə}] \ipa{jə-rə}  \\
+% 	{Bkrashis-\erg} {say-\const-\conv} {2\sg} Sgrolma {\dem} {\prf-kill-2\sg>3-\evid} say-\const\\ 
+% 	\glt Bkrashis said that you had killed Sgrolma.
+% \end{exe}
+% 
+% \item Crucially, however, the verb does not shift to the \textsc{cs}'s perspective but retains the \textsc{os}'s one (cf. \ref{ex:1c} through \ref{ex:1e}).
+% 
+% \end{itemize}
+% 
+
+%[shrink=10]
+
+
+\begin{itemize}
+
+\item Furthermore, \textsc{sds} is used not only with verbs of reporting, but also with some verbs denoting cognitive activities such as \ipa{ntsʰə} `think' (cf. \ref{ex:2a} through \ref{ex:3b}).
+\end{itemize}
+
+\begin{exe}
+\ex
+\begin{xlist}
+\ex \label{ex:2a}
+\gll
+	\ipa{ŋa} \ipa{tə-se-ã} / \ipa{tə} \ipa{tə-se}\\
+	{1\sg}  {\prf-die-1} / {3\sg}  {\prf-die}\\ 
+	\glt I am dead. / He is dead.
+
+\ex \label{ex:2b}
+\gll
+	\ipa{ŋa} [\ipapl{tʂaɕi} \ipapl{tə-se}] \ipa{ntsʰə-w-rə}  \\
+	{1\sg} {Bkrashis} {\prf-die} {think-1\sg>3-\const}\\ 
+	\glt I think Bkrashis is dead.
+
+\ex \label{ex:2c}
+\gll
+	\ipa{tʂaɕi-w} [\ipapl{ŋa} \ipapl{tə-se}] \ipa{ntsʰə-rə}  \\
+	{Bkrashis-\erg} {1\sg} {\prf-die} {think-\const}\\ 
+	\glt Bkrashis thinks I am dead.
+
+% \ex \label{ex:3c}
+% \gll
+% 	\ipa{tʂaɕi-w} \ipa{ŋa}	\ipa{tə-f-se} \ipa{ntsʰə-rə}  \\
+% 	{Bkrashis-\erg} {1\sg} {\prf-\inv-die} {think-\const}\\ 
+% 	\glt Bkrashis thinks he killed me.
+
+\end{xlist}
+\end{exe}
+
+
+\begin{itemize}
+
+\item Furthermore, \textsc{sds} is used not only with verbs of reporting, but also with some verbs denoting cognitive activities such as \ipa{ntsʰə} `think' (cf. \ref{ex:2a} through \ref{ex:3b}).
+\end{itemize}
+
+\begin{exe}
+\ex
+\begin{xlist}
+\ex \label{ex:3a}
+\gll
+	\ipa{ŋa} [\ipapl{tə-w}	 \ipapl{jɞ} \ipapl{tə-spɞ}] \ipa{ntsʰə-w-rə}  \\
+	 {1\sg} {3\sg-\erg} house {\prf-move} {think-1\sg>3-\const}\\ 
+	\glt I think he has moved.
+
+\ex \label{ex:3b}
+\gll
+	 \ipa{tə-w} [\ipapl{ŋa-w} \ipapl{jɞ} \ipapl{tə-spɞ}] \ipa{ntsʰə-rə}  \\
+	  {3\sg-\erg} {1\sg-\erg} house {\prf-move} {think-\const}\\ 
+	\glt He thinks I have moved.
+\end{xlist}
+\end{exe}
+
+
+
+
+
+\begin{itemize}
+ \item  The most striking feature of \textsc{sds} in Rtau is that it is the only construction in the language in which the first person singular pronoun is ergative case marked when the agent of a transitive verb (cf. \ref{ex:2cbis} against \ref{ex:3bbis}).
+\end{itemize}
+
+\begin{exe}
+
+\ex \label{ex:2cbis}
+\gll
+	\ipa{tʂaɕi-w} [\ipapl{ŋa} \ipapl{tə-se}] \ipa{ntsʰə-rə}  \\
+	{Bkrashis-\erg} {1\sg} {\prf-die} {think-\const}\\ 
+	\glt Bkrashis thinks I am dead.
+
+\ex \label{ex:3bbis}
+\gll
+	 \ipa{tə-w} [\ipapl{ŋa-w} \ipapl{jɞ} \ipapl{tə-spɞ}] \ipa{ntsʰə-rə}  \\
+	  {3\sg-\erg} {1\sg-\erg} house {\prf-move} {think-\const}\\ 
+	\glt He thinks I have moved.
+\end{exe}
+
+
+
+
+ \subsection{Summary}
+
+\begin{itemize}
+ \item \textsc{sds} seems to be of the obligatory subtype in \cite{aikhenvald08semidirect}'s terms whenever the \textsc{cs} is the first person and the addressee or the object within the speech report is coreferent either with them (i.e., the \textsc{cs}) or with their (i.e., the \textsc{cs}'s) addressee. It is not a stylistic device and seems reasonably frequent in the appropriate speech or thought reporting contexts.
+\end{itemize}
+
+
+
+\section{Semi-direct  speech in Japhug} 
+
+
+\subsection{The Japhug language}
+
+
+\begin{itemize}
+ \item  Japhug (locally known as \ipa{kɯrɯ skɤt}) is a Rgyalrongic language spoken in Mbarkham county (\zh{马尔康} Mǎ'ěrkāng xiàn) 
+
+\includegraphics[width=0.7\textwidth]{carte.JPG}
+
+\end{itemize}
+
+
+ 
+ \subsection{Pronouns}
+
+   \begin{exe}
+\ex \label{ex:nWGi.kAsWso}
+\gll 
+\ipa{nɤ-wa}  	\ipa{kɯ}  	{``\ipa{nɤʑo}} 	\ipa{nɯɣi}"  	\ipa{kɤ-sɯso}  	\ipa{kɯ}  	\ipa{kʰa}  	\ipa{ɯ-rkɯ}  	\ipa{ʁmaʁ}  	\ipa{χsɯ-tɤxɯr}  	\ipa{pa-sɯ-lɤt}  	\ipa{ɕti}  	\ipa{tɕe}  \\
+{2\sg.\poss-father} {\erg} {2\sg} {come.back:\textsc{fact}}  \infin-think \textsc{erg} house \textsc{3sg.poss}-side soldier three-circle \textsc{pfv:3$\rightarrow$3'-caus}-throw be.\textsc{affirmative}:\textsc{fact} \textsc{lnk}\\
+\glt \textbf{Direct}: Your father, thinking ``{He} {is coming back}",   put three circles of soldiers around the house. 
+\glt  \textbf{Indirect}: Your father, thinking that {you} are coming back,
+\glt  \textbf{Semi-Direct}: Your father, thinking that {you} {is coming back}, 
+\end{exe}
+   
+The verb \ipa{sɯso} `think' is transitive, so the absence of ergative marking on \ipa{ɯʑo} `he' shows that this pronoun is the S of the complement clause, not the A of the main verb.
+      
+\begin{exe}
+\ex
+\gll  ``{\ipa{ɯʑo}}  	\ipa{χsɯ-sŋi}  	\ipa{χsɤ-rʑaʁ}  	\ipa{ma}  	{\ipa{mɯ-pɯ-rɤʑi-a}}"  	\ipa{ɲɯ-nɯ-sɯsɤm}  	\ipa{pjɤ-ŋu}  \\
+{\textsc{3sg}} three-day  three-night apart.from {\textsc{neg-pst.ipfv}-stay-\textsc{1sg}} \textsc{ipfv-auto}-think[III] \textsc{evd.ipfv}-be \\
+\glt    \textbf{Direct}: He was thinking ``{I} {have} only {stayed} for three days and three nights."
+\glt    \textbf{Indirect}: He was thinking that {he} had only stayed for three days and three nights.
+\glt  \textbf{Semi-Direct}: He was thinking that {he} {have} only {stayed} for three days and three nights. 
+\end{exe}
+  
+ 
+ 
+  
+\begin{exe}
+\ex
+\gll \ipa{tɕe}  	``{\ipa{tɕhi}}  	{\ipa{pɯ-sat-a}}"  	\ipa{nɯ}  	\ipa{mɯ-ko-rɤt}  	\ipa{kɯ,}  	``\ipa{tɯtɯrca}  	\ipa{kɯɕnɯz}  	\ipa{pɯ-sat-a.}"  	\ipa{ko-rɤt.}  \\
+\textsc{lnk} {what} {\textsc{pfv}-kill-\textsc{1sg}}  \textsc{dem} \textsc{neg-evd}-write \textsc{erg} together seven \textsc{pfv}-kill-\textsc{1sg} \textsc{neg-evd}-write \\
+\glt Direct: He did not write {what} he had killed,  he (just) wrote ``I killed seven (of them)."
+ \end{exe}
+ 
+ 
+    
+   \subsection{Possessive prefixes}
+\begin{exe}
+\ex
+\gll  \ipa{tɕe}  	\ipa{ta-ʁi}  	\ipa{nɯ}  	\ipa{kɯ}  	``{\ipa{ɯ-pi}}  	\ipa{ɣɯ}  	\ipa{ɯ-sci}  	{\ipa{tu-nɤme-a}}  	\ipa{ra}" 	\ipa{ɲɤ-sɯso}  	\ipa{tɕe,}  	\\
+\textsc{lnk}  \textsc{indef.poss}-younger.sibling \textsc{dem} \textsc{erg}  {\textsc{3sg.poss}-elder.sibling}  \textsc{gen} \textsc{3sg.poss}-revenge {\textsc{ipfv}-make[III]-\textsc{1sg}} have.to:\textsc{fact} \textsc{evd}-think \textsc{lnk} \\
+\glt  \textbf{Direct}: The (younger) sister thought ``{I have to get revenge} on {my brother}".
+\glt  \textbf{Indirect}:  The (younger) sister wanted to get revenge on {her brother}".
+\glt  \textbf{Semi-direct}:  The (younger) sister$_i$ thought {I have to get revenge} on {her$_i$ brother}".
+  \end{exe}
+  
+ 
+\begin{exe}
+\ex
+\gll   \ipa{tɤɕime}  	\ipa{nɯ}  	\ipa{kɯ}  	\ipa{pjɯ-tɯ-mtshɤm}  	\ipa{tɕe,}  	\ipa{nɯnɯ}  {\ipa{ɯ-kɯmtɕhɯ}}  	\ipa{nɯ}  	{\ipa{ju-ɣɯt-a}}  	\ipa{ŋu}  		\ipa{ɯ-kɯ-ti}  	\ipa{pjɤ-tu}  	\ipa{ndɤre,}  \\
+girl \textsc{dem} \textsc{erg} \textsc{ipfv-conv:imm}-hear \textsc{lnk} \textsc{dem} {\textsc{3sg.poss}-toy} \textsc{dem} {\textsc{ipfv}-bring-\textsc{1sg}}  be:\textsc{fact} \textsc{3sg-nmlz}:S/A-say \textsc{evd.ipfv}-exist \textsc{lnk} \\
+\glt   \textbf{Direct}: As soon as the girl heard that there was someone saying ``{I will bring} {your toy}".
+\glt   \textbf{Indirect}:  As soon as the girl heard that there was someone saying that he would bring {her toy}.
+\glt   \textbf{Semi-direct}: As soon as the girl$_i$ heard that there was someone saying ``{I will bring} {her$_i$ toy}".
+
+  \end{exe}
+  
+
+ 
+%       
+%         \subsection{Possessive prefixes}
+% \begin{exe}
+% \ex
+% \gll   {\ipa{a-tʂɯnlɤn}}  	{\ipa{ɲɯ-nɯ-fsɯɣ-a}}  	\ipa{ɯ-ɲɯ-tɯ-sɯsɤm}  	\ipa{nɤ,}  	\ipa{nɯ}  	\ipa{tɤ-ste}  	\ipa{ti}  \ipa{ɲɯ-ŋu} \\
+%  {\textsc{1sg.poss}-favour} {\textsc{ipfv-auto}-pay.back-\textsc{1sg}} \textsc{cond-ipfv}-2-think[III] \textsc{lnk} \textsc{dem} \textsc{imp}-do.this.way[III] say:\textsc{fact} \textsc{testim}-be \\
+%  \glt    \textbf{Direct}: If you think ``{I will requite} the {favour} (which I received from {you})", do like that.
+% \glt    \textbf{Indirect}: If you want to requite the {favour} (which you received from {me}), do like that.
+%   \end{exe}
+%   
+
+        \bibliographystyle{linquiry2.bst}
+	\def\newblock{}        
+\bibliography{../biblioswl}
+
+
+\end{document}
+
+
