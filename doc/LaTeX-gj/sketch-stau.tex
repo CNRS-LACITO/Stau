@@ -3,9 +3,9 @@
 \usepackage{natbib}
 \usepackage{booktabs}
 \usepackage{xltxtra} 
-\usepackage{longtable}
+\usepackage{lineno}
 \usepackage{polyglossia}
-\usepackage[top=72pt,bottom=72pt,left=72pt,right=72pt]{geometry}
+%\usepackage[top=72pt,bottom=72pt,left=72pt,right=72pt]{geometry}
 \usepackage[table]{xcolor}
 \usepackage{gb4e} 
 \usepackage{multicol,multirow}
@@ -26,9 +26,9 @@
 %\chapterstyle{veelo}
 %\setsecnumdepth{subsubsection}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Charis SIL} %ici on définit la police par défaut du texte
-\renewcommand \thesection {\arabic{section}.}
-\renewcommand \thesubsection {\arabic{section}.\arabic{subsection}.}
+%\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Charis SIL} %ici on définit la police par défaut du texte
+%\renewcommand \thesection {\arabic{section}.}
+%\renewcommand \thesubsection {\arabic{section}.\arabic{subsection}.}
 \newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase,FakeSlant=0.3]{Charis SIL} 
 \newcommand{\ipa}[1]{{\phon #1}} %API tjs en italique
  
@@ -55,7 +55,7 @@
 \author{Guillaume Jacques, Anton Antonov, Lai Yunfan and Lobsang Nima}
 
 \maketitle
-
+\linenumbers
  
 
 \section{Introduction}
@@ -119,7 +119,7 @@ Bare stem & Meaning & Prefixed verb & Meaning \\
 \bottomrule
 \end{tabular}
 \end{table}
-Unvoiced stops and affricative do not have any alternation, as for instance \ipa{tɕi} `wear (hat)' $\rightarrow$ \ipa{rə-tɕu} `I wore it'.
+Unvoiced stops and affricates initial consonants do not have any alternation, as for instance \ipa{tɕi} `wear (hat)' $\rightarrow$ \ipa{rə-tɕu} `I wore it'.
 
 Nouns do not have any productive prefix, and thus the contrast has been lost, except for   \ipa{bəlʚ} `cheek', the only native word whose voicing is preserved word-initially.
 
@@ -188,10 +188,10 @@ Meaning &	look at   &  	move   &  	like&  	be full     &  	 	be ill      &  	be 
 \end{table}
 
 
-There are two irregular verbs with intransitive morphology in Japhug with have \ipa{--ã} in the first person instead of expected \ipa{--õ} (cf table \ref{tab:irr.intr}). 
+There are two irregular verbs with intransitive morphology  which have \ipa{--ã} in the first person instead of expected \ipa{--õ} (cf table \ref{tab:irr.intr}). 
 
 \begin{table}[H]
-\caption{Irregular intransitive verbs in Rtau} \label{tab:irr.intr} \centering
+\caption{Irregular intransitive verbs in Stau} \label{tab:irr.intr} \centering
 \begin{tabular}{llll|ll|l}
 \toprule
 meaning &	go     & say \\  
@@ -203,185 +203,80 @@ meaning &	go     & say \\
 \end{table}
 
  \subsection{Transitive conjugation}
-The basic structure of transitive conjugations  in Japhug can be illustrated by Table \ref{tab:kill} (the columns represent the P and the lines the A). In addition to the first person suffix \ipa{--ã} , we find two additional suffix (\textsc{1sg}$\rightarrow$3  \ipa{--w} and 2$\rightarrow$3 \ipa{--j}) and the inverse prefix \ipa{f--/v--}. The only unmarked form in the paradigm is the 1$\rightarrow$2 slot, a curious fact which however can be accounted for historically (see \citealt{jacques14rtau}).
+The basic structure of transitive conjugations  in Khang.gsar Stau can be illustrated by Table \ref{tab:kill} (the columns represent the P and the lines the A). In addition to the first person suffix \ipa{--ã} , we find two additional suffix (\textsc{1sg}$\rightarrow$3  \ipa{--w} and 2$\rightarrow$3 \ipa{--j}) and the inverse prefix \ipa{f--/v--}. The only unmarked form in the paradigm is the 1$\rightarrow$2 slot, a curious fact which however can be accounted for historically (see \citealt{jacques14rtau}).
 
 
 
 \begin{table}[h]
-\caption{\ipa{fse} `kill'}
+\caption{The transitive conjugation in Stau}
 \centering \label{tab:kill}
 \begin{tabular}{|c|cc|c|c|}  
  \cline{1-5}
 \backslashbox{A}{P} &\textsc{1sg}  &  \textsc{1pl}  &  2  &  	3  \\  
 \cline{1-5}
- \textsc{1sg}  &  	 \multicolumn{2}{c}{\cellcolor{lightgray}}   \vline    &  	\multirow{2}{*}{\ipa{--se}}  &  	\ipa{--se-w}  \\  
-\cline{5-5}\textsc{1pl}  &  \multicolumn{2}{c}{\cellcolor{lightgray}} 	 \vline   &   &  	\ipa{--se-ã}  \\  
-\cline{5-5}2 &    \multicolumn{2}{c}{\multirow{2}{*}{\ipa{--f-se-ã}}}    \vline  &   \grise{ }	  &  	\ipa{--se-j}  \\  
-\cline{5-5}3 &  \multicolumn{2}{c}{ } \vline &  	\multicolumn{2}{c}{ \ipa{--f-se}}   	 \vline  \\  
+ \textsc{1sg}  &  	 \multicolumn{2}{c}{\cellcolor{lightgray}}   \vline    &  	\multirow{2}{*}{\ro{}}  &  	\ro{}\ipa{-w}  \\  
+\cline{5-5}\textsc{1pl}  &  \multicolumn{2}{c}{\cellcolor{lightgray}} 	 \vline   &   &  	\ipa{\ro{}-ã}  \\  
+\cline{5-5}2 &    \multicolumn{2}{c}{\multirow{2}{*}{\ipa{v-\ro{}-ã}}}    \vline  &   \grise{ }	  &  	\ipa{\ro{}-j}  \\  
+\cline{5-5}3 &  \multicolumn{2}{c}{ } \vline &  	\multicolumn{2}{c}{ \ipa{v-\ro{}}}   	 \vline  \\  
 \cline{1-5}
 \end{tabular}
 \end{table}
 
 The vowel fusion rules in Table \ref{tab:alternation} apply to all suffixed forms, as in the intransitive paradigms. No example of irregular vowel fusion has yet been discovered with transitive verbs.
 
-The \ipa{f}-- / \ipa{v}-- prefix appears in 2/3$\rightarrow$1, 3$\rightarrow$2 and 3$\rightarrow$3 forms. Its presence  in 2$\rightarrow$1 precludes an analysis as a third person agent marker, and it is best to treat it as an inverse marker, although there is no obviation contrast in  3$\rightarrow$3 forms (see section \ref{sec:classification}). The inverse prefix does not occur with verb stems containing an initial cluster, or with monosyllabic verbs with the coda \ipa{--v} such as \ipa{kʰev} `scoop (water)'. 
+The \ipa{f}-- / \ipa{v}-- prefix appears in 2/3$\rightarrow$1, 3$\rightarrow$2 and 3$\rightarrow$3 forms. Its presence  in 2$\rightarrow$1 precludes an analysis as a third person agent marker, and it is best to treat it as an inverse marker, although there is no obviation contrast in  3$\rightarrow$3 forms (see section \ref{sec:classification}). The inverse prefix does not occur with verb stems containing an initial cluster, or with monosyllabic verbs with the coda \ipa{--v} such as \ipa{kʰev} `scoop (water)' or \ipa{ɕev} `take out (of a pile)'. 
+
+ \subsection{Other dialects}
+Some dialects of Stau have person marking systems that are markedly different from the one described above. In the Gyurong (\ipa{ʁjɯrõ}) variety, for instance, we find the paradigms indicated in Table \ref{tab:gyurong}.
+ 
+\begin{table}[h]
+\caption{Person indexation in the Gyurong dialect}
+\centering \label{tab:gyurong}
+\begin{tabular}{|c|c|c|c|c|}  
+ \cline{1-5}
+\backslashbox{A}{P} &\textsc{1sg}  &  \textsc{1pl}  &  2  &  	3  \\  
+\cline{1-5}
+ \textsc{1sg}  &  	 \multicolumn{2}{c}{\cellcolor{lightgray}}   \vline    &  	\multirow{2}{*}{\ro{}\ipa{-n}}  &  	\ro{}\ipa{-ŋ}  \\  
+\cline{5-5}\textsc{1pl}  &  \multicolumn{2}{c}{\cellcolor{lightgray}} 	 \vline   &   &  	\ipa{\ro{}-j}  \\  
+\cline{5-5}2 &    	\multirow{2}{*}{\ipa{v-\ro{}-ŋ}}   	&	\multirow{2}{*}{\ipa{v-\ro{}-j}}   	 &   \grise{ }	  &  	\ipa{\ro{}-n}  \\  
+\cline{5-5}3 &     	&    	 &  	  \ipa{v-\ro{}-n}   	& \ipa{v-\ro{}}   \\  
+\cline{1-5}
+\textsc{intr} & \ro{}\ipa{-ŋ} & \ro{}\ipa{-j} &\ro{}\ipa{-n}  &\ro{} \\
+\cline{1-5}
+\end{tabular}
+\end{table}
+
+both innovative and conservative
+\subsubsection{Directional and negative prefixes}
+In Stau, directional prefixes come in two series (Table \ref{tab:dir.pref}),  the  \ipa{-ə} series for imperative and perfective/evidential, and the \ipa{í} series for interrogative and irrealis forms. A few verbs few verbs such as  \ipa{vdʚ} `see' \ipa{ste} `finish' or \ipa{si} `know' never appear with any directional prefix even in the perfective.
+
+\begin{table}[h]
+\caption{Directional prefixes in Stau} 
+\label{tab:dir.pref} \centering
+\begin{tabular}{lccccc}
+\toprule
+Direction & Perfective / Imperative & Interrogative / irrealis \\
+\midrule
+ Up & \ipa{rə--} & \ipa{rí--} \\
+Down & \ipa{nə--} & \ipa{ní--} \\
+North  & \ipa{kə--} & \ipa{kí--} \\
+South & \ipa{ɣə--} & \ipa{ɣí--} \\
+No direction & \ipa{tə--} & \ipa{tí--} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+There are three negative prefixes in Stau: the past negative \ipa{ma--}, non-past \ipa{mí--}, and the prohibitive \ipa{di--}. The prohibitive must be used with a directional prefix, as in   \ipa{nə-di-f-se-ã}  (\ipa{nədifsã}) \textsc{pfv-prohib-inv}-kill-1 `don't kill me'. The past negative can be used with or without the directional (see \ref{ex:nEmavu}). In both cases, the negative appears after the direction prefix, the reversed other of Rgyalrong languages.
 
 
+\begin{exe}
+\ex \label{ex:nEmavu} 
+\gll
+\ipa{e-cʰe} 	\ipa{nə-ma-və-w}  \\
+one-\textsc{cl} \textsc{pfv-neg}-do-\textsc{1sg}$\rightarrow$3 \\
+\glt I did not do anything.
+\end{exe}
 
- 
-%
-%
-%
-%The inverse \ipa{v}-- prefix appears in all 3$\rightarrow$3 forms in Rtau, a feature shared with Khroskyabs. Both Rtau and Khroskyabs differ from Rgyalrong languages, where two 3$\rightarrow$3 forms are found: the \textit{direct}   and the \textit{inverse} form. 
-%The inverse \ipa{v}-- prefix presents phonological alternations and phonotactic constraints. It is prefixed to the first syllable of the verb stem, even when polysyllabic. In verbs with reduplicated stem, such a `wipe' (Table \ref{tab:wipe}, \ipa{nə--} here is the directional prefix, see section \ref{sec:dir.pref}), reduplication also applies to the inverse prefix.
-%
-%  \begin{table}[H]
-%\caption{\ipa{f-ɕə-f-ɕe} `wipe'}
-%\centering \label{tab:wipe}
-%\begin{tabular}{|c|c|c|c|c|}  
-% \cline{1-4}
-%\backslashbox{A}{P} &1    &  2  &  	3  \\  
-%\cline{1-4} 1s  &   \cellcolor{lightgray}        &  	\multirow{2}{*}{\ipa{nə-ɕəɕe}}  &  	\ipa{nə-ɕəɕo-w}  \\  
-%\cline{4-4}1p  &   \cellcolor{lightgray} 	     &   &  	\ipa{nə-ɕəɕ-ã}  \\  
-%%\hline
-%\cline{4-4}2 &   \multirow{2}{*}{\ipa{nə-fɕəfɕ-ã}}     &   \grise{ }	  &  	\ipa{nə-ɕəɕe-j}  \\  
-%\cline{3-4}3 &    &  	\multicolumn{2}{c}{ \ipa{nə-fɕəfɕe}}   	 \vline  \\  
-%\hline
-%\end{tabular}
-%\end{table}
-%
-%The \ipa{v}-- prefix is assimilated  to \ipa{f}-- when prefixed to a verb stem with unvoiced initial consonant (as in \ipa{f-se} [\textsc{inv}-kill] `he kills'). It cannot be inserted whenever any of the following three conditions apply:
-%
-%\begin{itemize}
-%\item When the stem-initial consonant is a labial (either /\ipa{p}/, /\ipa{b}/, /\ipa{m}/, or  /\ipa{v}/) or the voiced uvular /\ipa{ʁ}/, the inverse cannot be prefixed. Thus the third person form of \ipa{və} `do' \ipa{ʁʚ} `help' are identical to the corresponding bare stems.
-%\item The inverse prefix is not compatible with most stem-initial clusters. The only clusters that allow prefixation of \ipa{v}-- are /stop+r/ clusters. For instance, the root /\ipa{kʰrə}/ `hold' (\textsc{1sg$\rightarrow$3} \ipa{kʰru}) thus has a 3$\rightarrow$3 form \ipa{f-kʰrə}, whereas \ipa{zjə} `sell' has a third person form identical to the bare stem (the cluster *\ipa{vzj}-- is not allowed in the variety of Rtau under study).
-%\item The inverse does not appear in transitive verbs with final \ipa{--v}, due to a dissimilatory constraint. For instance, the 3$\rightarrow$3 forms of /\ipa{kʰev}/ `scoop' and /\ipa{ɕev}/ `take out' are \ipa{\ipa{kʰev}} and \ipa{\ipa{ɕev}} respectively, not *\ipa{fkʰev} or *\ipa{fɕev}.
-%\end{itemize}
-%
- 
-%
-%The morphologically based distinction between transitive and intransitive verbs in Rtau must be refined by taking into account case-marking on arguments. 
-%
-%Rtau, as all Rgyalrongic languages, is a strict verb-final language with postpositions. Case markers include the ergative \ipa{--w}, the genitive \ipa{--j}, the dative \ipa{--gi} and the instrumental \ipa{--kʰa}. Only animate referents can receive   ergative marking, inanimates can only be marked with the instrumental. SAP pronouns are not normally marked with the ergative (except in some subordinate clauses).
-%
-%
-%Some verbs with intransitive morphology, such as `like', do require ergative marking on the argument whose person is indexed on the verb, as illustrated by examples \ref{ex:rgaN} and \ref{ex:rga}.
-%\begin{exe}
-%\ex \label{ex:rgaN}
-%\gll \ipa{ŋa}  	\ipa{tə-ɡi}  	\ipa{rɡa-ã-rə}  \\
-%I he-\textsc{dat} like-1-\textsc{const} \\
-%\glt `I like him/her.'
-%\end{exe}
-%
-%\begin{exe}
-%\ex \label{ex:rga}
-%\gll \ipa{tə-w}  	\ipa{ŋa-ɡi}  	\ipa{rɡa-rə}  
-% \\
-%he-\textsc{erg} I-\textsc{dat} like-\textsc{const} \\
-%\glt `(S)he likes me.'
-%\end{exe}
-%
-%This type of semi-transitive verb (which are transitive from the point of view of case marking and intransitive from that of verb morphology) include some experiencer verbs like \ipa{rga} `like' and some speech verbs like \ipa{jə} `say'. The stimulus or the addressee is marked with the dative case.
-%
-%Some verbs with transitive morphology agree with only one of their arguments. Thus, /si/ `know (somebody)' indexes  the person knowing, while the P is always third person by default, as shown in Table \ref{tab:know}.
-%
-%\begin{table}[H]
-%\caption{\ipa{f-si} `know'}
-%\centering \label{tab:know}
-%\begin{tabular}{|c|c|c|c|c|}  
-% \cline{1-4}
-%\backslashbox{A}{P} &1    &  2  &  	3  \\  
-%\cline{1-4} 1s  &   \cellcolor{lightgray}        &  	\multicolumn{2}{c}{\ipa{su}}  \vline  \\  
-%\cline{3-4}1p  &   \cellcolor{lightgray} 	     &  \multicolumn{2}{c}{\ipa{sã}}\vline  \\  
-%%\hline
-%\cline{4-4}2 &    \ipa{si}     &   \grise{ }	  &  	 \ipa{si}  \\  
-%\cline{2-4}3 &     	\multicolumn{3}{c}{ \ipa{fsi}}   	 \vline  \\  
-%\hline
-%\end{tabular}
-%\end{table}
-%
-%When the person known is an SAP, an overt  pronoun must be used, and appears in the absolutive form (example \ref{ex:fsi}).
-%
-%\begin{exe}
-%\ex \label{ex:fsi}
-%\gll \ipa{tə-w}  	\ipa{ŋa}  	\ipa{f-si}  
-% \\
-%he-\textsc{erg} I \textsc{inv}-know \\
-%\glt `S/he knows me'.
-%\end{exe}
-%
-%
-%Ditransitive verbs that index the recipient as the P (\textit{secundative} in \citealt{malchukov10ditransitive}'s terminology), the recipient still receives dative marking despites being indexed in the verb morphology, as in example \ref{ex:xsev} with the verb /xsev/ `give back'.
-%
-%\begin{exe}
-%\ex \label{ex:xsev}
-%\glt \ipa{təɲu ŋaɲəgi kəxsã}
-%\gll
-%\ipa{tə-ɲə-w}  	\ipa{ŋa-ɲə-gi}  	\ipa{kə-v-xsev-ã.}  \\
-%3-\textsc{pl-erg} 1-\textsc{pl-dat} \textsc{pfv-inv}-return-1 \\
-%\glt They gave it back to us.
-%\end{exe}
-%
- 
-%As in all Rgyalrongic languages, Rtau has a system of five directional prefixes used to indicate both direction and TAM. The prefixes come in two series, one used for perfective and imperative forms (with \ipa{ə} vocalism), and another one for perfective interrogative (with \ipa{i} vocalism and stress), as indicated in Table \ref{tab:dir.pref}.
-%
-%
-%
-%\begin{table}[H]
-%\caption{Directional prefixes in Rtau} \label{tab:dir.pref} \centering
-%\begin{tabular}{lccccc}
-%\toprule
-%Direction & Perfective / Imperative & Interrogative \\
-%\midrule
-% Up & \ipa{rə--} & \ipa{rí--} \\
-%Down & \ipa{nə--} & \ipa{ní--} \\
-%North  & \ipa{kə--} & \ipa{kí--} \\
-%South & \ipa{ɣə--} & \ipa{ɣí--} \\
-%No direction & \ipa{tə--} & \ipa{tí--} \\
-%\bottomrule
-%\end{tabular}
-%\end{table}
-%
-%The prefixes \ipa{kə--} and \ipa{ɣə--} are here glossed as `north' and `south' rather than `translocative' (\zh{离心}) and  `cislocative' (\zh{向心}) as in \citet[26]{huangbf91daofu}. At least in the variety under study, the  use of these two prefixes is not determined by the relative direction towards or away from the main referent. For instance, in example \ref{ex:kE},   the prefix \ipa{kə--} appears with  the verb \ipa{ʂɸa} `come out, appear' (which is compatible with all directional prefixes) to express motion towards the main referent.
-%
-%\begin{exe}
-%\ex \label{ex:kE}
-%\gll 	\ipa{tʰaˠdʑi}  	\ipa{tʰaˠdʑi-jəkʰa}  	\ipa{raca}  	\ipa{kə-ʂɸa}  	\ipa{vdʚ-sə}  	\ipa{ŋə-rə}  \\
-%far far-from horseman \textsc{pfv:north}-come.out see-\textsc{evd} be-\textsc{testim} \\
-%\glt (Akhu stonba) saw  a horseman coming from afar (towards him from the south to the north). (Akhustonba and the horseman, 4)
-%\end{exe}
-%
-%Verbs other than motion verbs generally  only allow one direction, which is lexically determined. Thus for instance \ipa{tʰi} `drink' appears with \ipa{ɣə--} `towards south' with \ipa{ŋgə} `eat' is used with \ipa{nə--} `down'.
-%
-%Unlike Rgyalrong languages and Khroskyabs, there is no regular stem alternation in Rtau related to TAM categories. However, there are two types of irregularities in TAM marking.
-%
-%First, a handful of verbs are never used with directional prefixes: this is the case of \ipa{vdʚ} `see' (example \ref{ex:kE} above; the evidential form in --\ipa{sə} normally requires a directional prefix), \ipa{ste} `finish', \ipa{si} `know'.
-%
-%Second, the motion verbs `come' and `go' are exceptional in that they allow directional prefixes in the non-past. The presence vs absence of directional prefixes is the only difference between perfective and non-past in most verbs, but in the case of \ipa{ɮde} `come' and \ipa{ɕə} `go' the suppletive stems  \ipa{--kʰi} and \ipa{--vi} respectively are used in the non-past with directional prefixes, as summarized in Table \ref{tab:motion.irr}.\footnote{There is in addition a defective motion verb \ipa{rja} `leave' only used in the third person perfective form; for the first and second person, corresponding forms of the verb \ipa{ɕə} must be used instead.}
-%
-%\begin{table}[H]
-%\caption{Directional prefixes in Rtau} \label{tab:motion.irr} \centering
-%\begin{tabular}{lccccc}
-%\toprule
-%Meaning & Perfective & Non-Past & Non-Past with directional prefixes \\
-%\midrule
-%go & \ipa{ɕə} &\ipa{ɕə} & \ipa{--vi} \\
-%come & \ipa{ɮdi} &\ipa{ɮde} & \ipa{--kʰi} \\
-%\bottomrule
-%\end{tabular}
-%\end{table}
-%
-%The verb `come' has distinct perfective and non-past stems. In the perfective \ipa{ɮdi} is most often used   without directional prefix (example \ref{ex:lZdi}), but using it with directional is nevertheless possible, unlike verbs such as \ipa{vdʚ} `see'.
-%
-%\begin{exe}
-%\ex \label{ex:lZdi}
-%\gll 
-%\ipa{sa}  	\ipa{ʁjikʰoˠ}  	\ipa{rʚ}  	\ipa{ɮdi-sə}  	\ipa{ŋə-rə.}   \\
-%place Gyukhog up come-\textsc{evd} be-\textsc{testim} \\
-%\glt He came (up there) at the place (called) Gyukhog. (The thieves, 39)
-%\end{exe}
-%
-%The non-past stem \ipa{ɮde} occurs in the non-past and imperative forms, and it is homophonous with the transitive verb |\ipa{ɮde}| `bring' (whose 3$\rightarrow$3 form is \ipa{vɮde} with the inverse prefix, thus never ambiguous with the intransitive verb).
 
  \subsection{Derivational morphology}
  
@@ -450,27 +345,42 @@ The \ipa{s--/z--} has semantic effects that are sometimes better described with 
 % zja?
  
  
-incorporation
-
-\ipa{rvatɕa} \ipa{rva}
-\ipa{mbarji} `stride over' \ipa{pa}
+ There is little evidence of incorporation in Stau, unlike Japhug (\citealt{jacques12incorp}) or Khroskyabs (\citealt{lai13affixale}, \citealt{lai14person}). Only two examples are found: \ipa{rvatɕa} `carry on shoulders' (which incorporates the noun \ipa{rva} `shoulders and upper back') and \ipa{mbarji} `stride over' (with \ipa{pa}  `a step').
 
  
 
 \subsection{Nominalization}
+All productive nominalization markers in Stau are suffixes. They are commonly used to build relative and complement clauses.
 
-\ipa{xcʰi} \ipa{ɣɟi}
+We find the agentive nominalizer \ipa{--ŋkʰə}, that can be used with intransitive (\ipa{ɕə}  `go' $\rightarrow$ \ipa{ɕə-ŋkʰə} `the one who goes') as well as transitive verbs (\ipa{rə} `buy' $\rightarrow$ \ipa{rə-ŋkʰə} `buyer'). The verb loses all person morphology (including the inverse prefix -- note that the third person form of \ipa{rə} `buy' is \ipa{vrə} `he buys') and only the negative prefixes can be added.
+ 
+The nominalizer \ipa{--lə} can be used with transitive verbs to designate the patient of the action, as in \ipa{fɕe} `tell' $\rightarrow$ \ipa{fɕe-lə} `things that have been told' or \ipa{ŋgə} `eat' $\rightarrow$ \ipa{ŋgə-lə} `food'. Alternatively, it can build action nominals with either transitive or intransitive verbs, as  in example \ref{ex:tEmphjEsE}.
+
+\begin{exe}
+\ex \label{ex:tEmphjEsE} 
+\gll
+\ipa{ɲə-ɲə} 	\ipa{nə-vi-lə} 	\ipa{de} 	\ipa{tə-mpʰjə-sə} 	\ipa{ŋə-rə} \\
+2-\textsc{pl} \textsc{down}-go-\textsc{nmlz:action} \textsc{dem} \textsc{pfv}-be.late-\textsc{evd} be-\textsc{testim}\\
+\glt You arrived there too late (=your arrival there was late; Akhu stongba and the Walnut tree, 34).
+\end{exe}
+
+The suffix \ipa{--re} is used for locative nominalization, as in \ipa{rkʰə} `put in' $\rightarrow$ \ipa{pʰjodzə} \ipa{rkʰə-re} (money put.in-\textsc{nmlz:locative}) `wallet, place one puts money in'. It also appears with stative existential verbs such as \ipa{tə} `be there, exist' $\rightarrow$ \ipa{tə-re} (be.there-\textsc{nmlz:locative}) `the place where (it) is'. 
+
+Finally, \ipa{--sce} is the marker of instrumental nominalization, as in \ipa{ra} `write' $\rightarrow$\ipa{ra-sce} `pen, the thing one uses to write'.
+
+Only indirect traces of a former prefixal nominalization system remain. For instance, in the noun \ipa{ɣɟi}  `hole, orifice' is cognate to Japhug \ipa{--ɣɲɟɯ}  `(its) hole, opening', which  derives from \ipa{ɲɟɯ} `be opened (intr)', the anticausative of \ipa{cɯ} `open (a door)' (\citealt[4-6]{jacques14antipassive}). In Japhug, \ipa{--ɣ} is an irregular allomorph of the nominalization prefix \ipa{kɯ--}, found in a handful of examples. Although the \ipa{ɣ--} element in Stau is not analyzable anymore (the form \ipa{ɣɟi}  is synchronically unmotivated), the Japhug comparative data suggests that nominalization prefixes used to exist in Stau, and were later replaced by innovative suffixes. The loss of the prefixal nominalization system is shared with Khroskyabs.
+
 
  \section{Noun phrase}
 \begin{table}[H]
 \caption{Vowel fusion in Rtau nouns} \label{tab:alternation.noun} \centering
-\begin{tabular}{c|cccccc}
+\begin{tabular}{l|lllllll}
 \toprule
 base form & meaning & ergative & genitive \\
 \midrule
-\ipa{kəta} & dog & \ipa{kətow} & \ipa{kətej} & \\
-\ipa{vdzi} & man & \ipa{vdzu} & \ipa{vdzi} & \\
-\ipa{xə} & hybrid of yak and cow & \ipa{xu} & \ipa{xi} & \\
+\ipa{kəta} & dog & \ipa{kəta-w} $\rightarrow$ \ipa{kətow} & \ipa{kəta-j} $\rightarrow$ \ipa{kətej} & \\
+\ipa{vdzi} & man & \ipa{vdzi-w} $\rightarrow$  \ipa{vdzu} & \ipa{vdzi-j} $\rightarrow$ \ipa{vdzi} & \\
+\ipa{xə} & hybrid of yak and cow &\ipa{xə-w}  $\rightarrow$\ipa{xu} & \ipa{xə-j} $\rightarrow$ \ipa{xi} & \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -542,6 +452,10 @@ e-ʑe nə tə-xtʂʰõ jə-rə
 
 		sə ma-ɮdi ga tə-ntsʰu: je pense à ceux qui étaient venus.
 		sə ɮdi-ga ŋa mi-dʐẽ-rə: Je ne me souviens pu de qui était venu.
+		
+		tɕʰəge ŋa le rõsa scəqi-lə ma-ru-sə 
+		
+		ŋa zɮdə-lə ŋgʚ kə-ftsu
 \subsection{Reported speech} 
 		"ədə-gi mbjoˠmbjoˠ tɕa gə tə-fkʰõ, tɕa gə tə-fkʰõ" jə-rə
 
