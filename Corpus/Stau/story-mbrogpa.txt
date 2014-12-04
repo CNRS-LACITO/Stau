@@ -23,7 +23,7 @@
 012	lili-ʁa scəqi ŋə-rə,  
 \b	Ils regardent le chat
 013	lili ətɕəχi rə-ɕə ve, tɕʰəge lili χi ɔrɔ rə-vi ŋə-rə
-\b	et montent de la même façon que le chat monter.
+\b	et montent de la même façon que le chat monte.
 014	tɕʰəge nɔrɔ nə-vi tɕʰa, tɕʰəge nə-vi-lə mí-vrə ŋərə, ətɕəχi ɕə-lə ŋɔ mi-gɔ ŋə rəge 
 \b	Quand ils descendent, ils ne savent pas comment descendre,
 015	tɕʰəge lili-ʁa scəqi rəge, lili ətɕəχi tə-ɕə ve, 

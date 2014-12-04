@@ -5934,14 +5934,14 @@
 \3s kəʁʚ
 \xv ŋa ɲigi kəʁʚ
 \xe I helped you
-\xv ɲi ŋa-gi (jʚ) spʚ-ʁʚ ə́-ʁʚ?
+\xv ɲi ŋa-gi (jʚ) spʚ-ʁʚ ə́-ʁõ?
 \xe Will you help me move?
 \xv ŋa ɲi-gi va-ɲə rɟev-ʁʚ ʁʚ
 \xe I will help you take out the pigs
-\xv tu ŋa-gi tɕədə de zɮda-ʁʚ kə-ʁʚ (tɕədə de poju kə-v-ra-sə tə-rə)
+\xv tu ŋa-gi tɕədə de zɮda-ʁʚ kə-ʁõ (tɕədə de poju kə-v-ra-sə tə-rə)
 \xe He helped me reading this book (this book was written in Tibetan).
 \rgy qur
-\dt 18/Nov/2013
+\dt 04/Dec/2014
 
 \lx -ʁʚ
 \ps suff
