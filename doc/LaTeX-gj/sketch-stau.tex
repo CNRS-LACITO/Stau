@@ -19,16 +19,8 @@
 \usepackage{memhfixc}
 \usepackage{lscape}
 \bibpunct[: ]{(}{)}{,}{a}{}{,}
-%%%%%%%%%quelques options de style%%%%%%%%
-%\setsecheadstyle{\SingleSpacing\LARGE\scshape\raggedright\MakeLowercase}
-%\setsubsecheadstyle{\SingleSpacing\Large\itshape\raggedright}
-%\setsubsubsecheadstyle{\SingleSpacing\itshape\raggedright}
-%\chapterstyle{veelo}
-%\setsecnumdepth{subsubsection}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Charis SIL} %ici on définit la police par défaut du texte
-%\renewcommand \thesection {\arabic{section}.}
-%\renewcommand \thesubsection {\arabic{section}.\arabic{subsection}.}
+
+
 \newfontfamily\phon[Mapping=tex-text,Ligatures=Common,Scale=MatchLowercase,FakeSlant=0.3]{Charis SIL} 
 \newcommand{\ipa}[1]{{\phon #1}} %API tjs en italique
 \newcommand{\ipapl}[1]{{\phon #1}} %API tjs en italique
@@ -401,14 +393,20 @@ he-\textsc{erg} I-\textsc{dat} like-\textsc{testim} \\
 \glt `(S)he likes me.'
 \end{exe}
 
- 
+All postpositions above can occur in the argumental structure of some verbs, including the instrumental \ipa{--kʰa}, which is selected by the verb \ipa{mkʰʚ} `need, want', as in \ref{ex:mimkhoN}.
 
+ \begin{exe}
+\ex \label{ex:mimkhoN}
+\gll
+\ipa{ŋa} 	\ipa{rji-kʰa} 	\ipa{mí-mkhʚ-ã} \\
+\textsc{1sg} horse-\textsc{instr} \textsc{neg:n.pst}-want-1 \\
+\glt I don't want a horse.
+\end{exe}
 
 %	ti ɮdow ŋa-ʁa tə-ɲcʰə (pas exprès)
 %	tu ɮda-kʰa ŋa-ʁa tə-ɲcʰə.
 %	
-%	
-%		ŋa rji-kʰa mi-mkhõ : je ne veux pas de cheval.
+
 %	ŋa rji tɕəma : je n'ai pas besoin d'un cheval
 
  
@@ -469,21 +467,22 @@ In relative clauses with relativized P, the agent of the relative can be marked 
 \end{exe}
 
  
-
-
- 
-
- 
  
 
 \section{Complementation}  
-Most complement clauses are nominalized with the \ipa{-lə} or \ipa{--re} suffixes.
+Most complement clauses have a non-finite verb, suffixed with the \ipa{-lə} or \ipa{--re} nominalizers.
 
-XXXXX
+The modal verb \ipa{rə} `be able' is an example of the first type, as shown by example \ref{ex:marusE}, where the verb of the complement clause appears without person marking and suffixed with \ipa{--lə}.
 
-Tibetan \ipa{ɴgo btsugs} `start'
+\begin{exe}
+\ex\label{ex:marusE}
+\gll
+\ipa{tɕʰəge} 	\ipa{ŋa} 	\ipa{le} 	\ipa{rõsa} 	\ipa{scəqi-lə} 	\ipa{ma-rə-w-sə} \\
+then \textsc{1sg} \textsc{top} immediately look.at-\textsc{nmlz:P/action} \textsc{neg:pfv}-be.able-\textsc{1sg}$\rightarrow$3-\textsc{evd} \\
+\glt I was not able to notice it immediately. (The hybrid yak, 52)
+\end{exe}
 
-\ref{ex:btsugs}
+This type of complement is also found with the phasal complex predicate \ipa{ŋgʚ} \ipa{ftsu} `start', borrowed from Tibetan Tibetan \ipa{ɴgo btsugs} `start' (see example \ref{ex:btsugs}).
 
 \begin{exe}
 \ex \label{ex:btsugs}
@@ -493,7 +492,7 @@ Tibetan \ipa{ɴgo btsugs} `start'
 \glt I started boiling it.
 \end{exe}
 
-The locative nominalizer \ipa{--re} can be used in combination with the verb \ipa{ɮdi} to express the meaning `be ready to, have almost ...', as in \ref{ex:stere}.
+The locative nominalizer \ipa{--re} appears for instance in combination with \ipa{ɮdi} `come' to express the meaning `be ready to, have almost ...', as in \ref{ex:stere}.
 
 \begin{exe}
 \ex \label{ex:stere}
@@ -539,9 +538,6 @@ one-moment rest \textsc{imp-inv:caus}-1 \\
 %		ste-re ɮdã: j'ai presque fini
 %		ŋgə-re ɮdã: je suis prêt pour manger
 %		
-%causative:
-%
-%e-ʑe nə tə-xtʂʰõ jə-rə
 %
 %
 %		sə ma-ɮdi ga tə-ntsʰu: je pense à ceux qui étaient venus.
