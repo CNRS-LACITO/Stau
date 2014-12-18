@@ -3644,7 +3644,7 @@
 \2s ɲɟəra
 \3s ɲɟəra
 \1p ɲɟərã
-\xv ŋa ke-mbjoˠ ɲɟəra ŋkʰə gə ŋõ.
+\xv ŋa ke-mbjoˠ ɲɟəra-ŋkʰə gə ŋõ.
 \xe I run very fast.
 \xn 我跑得很快。
 \dt 24/Apr/2013
@@ -8661,7 +8661,7 @@
 \ge choyer
 \gn 疼爱
 \1s nə-χtɕu
-\xv smi de ke rtɕi gə ŋə-rə
+\xv smi de ke χtɕi gə ŋə-rə
 \xe
 \dt 28/Oct/2014
 
