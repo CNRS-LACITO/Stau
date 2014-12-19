@@ -1,4 +1,4 @@
-\documentclass[oldfontcommands,twoside,a4paper,12pt]{memoir}  
+\documentclass[oldfontcommands,twoside,usletter,12pt]{memoir}  
 \usepackage{fontspec}
 \usepackage{natbib}
 \usepackage{booktabs}
@@ -20,6 +20,8 @@
 \usepackage{memhfixc}
 \usepackage{lscape}
 \usepackage[footnotesize,bf]{caption}
+\usepackage[hang]{footmisc}
+\setlength{\footnotemargin}{3mm}
 \bibpunct[: ]{(}{)}{,}{a}{}{,}
  
 \setmainfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=Common]{Adobe Caslon Pro} %ici on définit la police par défaut du texte
@@ -39,7 +41,7 @@
 \newcommand{\rc}{$\Sigma_3$} 
 \newcommand{\ro}{$\Sigma$} 
 
-\newcommand{\titre}{\textit{Himalayan Linguistics, Vol 13(1).}   Himalayan Linguistics 2014\newline ISSN 1544-7502}
+\newcommand{\titre}{\textit{Himalayan Linguistics, Vol 13(1).} \copyright{}   Himalayan Linguistics 2014\newline ISSN 1544-7502}
  
 \makeevenhead{headings}{}{}{\textit{Guillaume Jacques, Anton Antonov, Lai Yunfan and Lobsang Nima}}
 \makeoddhead{headings}{\titre}{}{}
@@ -55,13 +57,13 @@
 \renewcommand{\subsection}{\@startsection{subsection}{1}{\z@}
                                    {-2.5ex \@plus -1ex \@minus -.2ex}%
                                    {2.3ex \@plus.2ex}%
-								{\flushleft\itshape} }
+								{\flushleft\large\itshape} }
 								
 \renewcommand*{\thesection}{\@arabic\c@section}
 \renewcommand*{\thesubsection}{%
-             \thesection\@arabic\c@subsection.}
+             \thesection.\@arabic\c@subsection}
 \renewcommand*{\thesubsubsection}{%
-             \thesubsection\@arabic\c@subsubsection.}
+             \thesubsection.\@arabic\c@subsubsection}
 \renewcommand*{\thefigure}{\@arabic\c@figure}
 \renewcommand*{\thetable}{\@arabic\c@table}
 \makeatother
@@ -71,14 +73,16 @@
 \setlength{\footparindent}{0em}
  
 \begin{document}
-%\setcounter{page}{41}
+\pagenumbering{gobble}
+
  
 \begin{flushleft}
 \renewcommand{\thefootnote}{\fnsymbol{footnote}}
-{\HUGE\textit{Person marking in Stau*}}
+ 
+{\HUGE\textit{\\Person marking in Stau*}}
 
 \vspace{24pt}
-{\large\textbf{Guillaume Jacques, Anton Antonov, Lai Yunfan and Lobsang Nima}}
+{\large\textbf{Guillaume Jacques\\ Anton Antonov, Lai Yunfan and Lobsang Nima}}
 
 {\large CNRS (CRLAO), INALCO} 
 \vspace{14pt}
@@ -110,7 +114,7 @@ Core Rgyalrong languages (Situ, Japhug, Tshobdun and Zbu) present complex ablaut
 Languages of the Tre-Hor branch   have a less complex verbal morphology, but present an elaborate system of vowel alternations marking person and transitivity. In this section, we describe the attested alternations and propose a historical hypothesis to account for them.
 
 In Stau, there are two groups of conjugations that we can call intransitive and transitive respectively, thought the exact detail is quite complex. Intransitive conjugations only distinguish two forms, while transitive conjugations have four distinct stems which combined with the inverse prefix make up to six different forms.
-
+ 
 \subsection{Intransitive conjugations}
 Verbs with intransitive conjugations in Stau never have more than two stem forms. The first stem appears with first person subject (singular or plural), while the second stem is present with second and third person forms.
 
@@ -172,7 +176,9 @@ meaning &	go     & say \\
  
 
 If we disregard the irregular verbs, it is always possible to determine the first person from the second/third person form. Thus, we may posit that the 2/3 person represents the bare stem, and that the first person is derived from it by fusion with a suffix --\ipa{ã}, which is realized as --\ipa{õ} when the rhyme is centralized.
-\renewcommand{\titre}{\textit{Himalayan Linguistics, Vol 13(1).}}
+\renewcommand{\titre}{\textit{Himalayan Linguistics, Vol 13(1)}}
+\pagenumbering{arabic}
+ \setcounter{page}{83}
 \subsection{Transitive conjugation} \label{sec:tr}
 
 
