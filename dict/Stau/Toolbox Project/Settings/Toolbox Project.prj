@@ -67,11 +67,11 @@
 \mkrSecKey ps
 \-ind
 \+rec 
-\fldPriKey sevə
-\fldSecKey n
+\fldPriKey kʰev
+\fldSecKey vt
 \-rec
 \+keySearch 
-\fldPri ada
+\fldPri kʰev
 \match_char p
 \-keySearch
 \+keyInsert 
@@ -79,8 +79,8 @@
 \MatchWhole
 \match_char p
 \-keyInsert
-\CaretLine 2
-\CaretLineScroll 2
+\CaretLine 5
+\CaretLineScroll 5
 \CaretChar 9
 \-wnd
 \+wnd 
@@ -106,8 +106,8 @@
 \mkrSecKey ps
 \-ind
 \+rec 
-\fldPriKey ada
-\fldSecKey n
+\fldPriKey kʰev
+\fldSecKey vt
 \-rec
 \+keySearch 
 \fldPri tsʰõ
