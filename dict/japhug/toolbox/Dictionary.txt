@@ -52,6 +52,7 @@
 \ps adv
 \ge identique
 \gn 一模一样
+\et a.na.ma.na
 \xv kɯki tɯ-ŋga ki ni anamɤna ɲɯ-ŋu-ndʑi
 \xn 这两件衣服是一模一样的
 \sy naχtɕɯɣ
