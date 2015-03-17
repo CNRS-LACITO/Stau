@@ -22529,7 +22529,7 @@
 \pdv pɯ -
 \ge préparer, planifier 
 \gn 计划、设计、准备需要的材料 
-\et bgod.bgos
+\et bgod
 \xv kɯki kha ci tɤ-βgoz-a
 \xn 我设计了这个家
 \xv tɯ-ŋga ɯ-spa ci tɤ-βgoz-a
@@ -22671,7 +22671,6 @@
 \pdl dir 
 \pdv tɤ-
 \ge défendre 
-\gr to defend
 \gn 掩护 、守护
 
 \xv kɤ-βrit-a, tɤ-βrit-a, ka-βri
@@ -55969,7 +55968,7 @@ da.lie 打猎
 \ge fin 
 \gn 细（树、体型） 
 \hbf 968
-\xv tɤ-ri kɯxtshɯm
+\xv tɤ-ri kɯ-xtshɯm
 \xn 很细的线
 \xv si kɯ-xtshɯm
 \xn 很细的树
