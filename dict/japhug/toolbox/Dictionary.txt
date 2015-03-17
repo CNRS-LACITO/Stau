@@ -4084,7 +4084,7 @@
 \un 多用于否定句
 \xv maka ʑo pɯ-mto-t-a me / pɯ-mto-t-a maka me
 \xn 我什么也没有听到
-\xv tɤ-tɯt maka kɯ-tu me
+\xv ta-tɯt maka kɯ-tu me
 \xn 他什么也没有说
 \xv ɯ-kɤ-nɯfse maka ʑo me
 \xn 他谁也不认识
