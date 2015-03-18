@@ -1,4 +1,5 @@
 \_sh v3.0  583  MDF 4.0
+\_DateStampHasFourDigitYear
 
 \lx akarɯ
 \ps n
@@ -7,7 +8,14 @@
 \hbf plante 
 \xv akarɯ nɯ sɯjno kɯ-xtɕi ci ŋu, ɯ-ru kɯ-xtshɯ-xtshɯm kɯ-ɣɯrni ci ŋu, ʁnɯ-tɣa jamar ma mɤ-mbro, ɯ-jwaʁ kɯ-ɤrtɯm, kɯ-rɲɟi tsa ci ŋu, ɯ-di mnɤm, ɯ-mɯntoʁ kɯ-ɣɯrni ŋgɯ kɯ-wɣrum tsa ci ŋu, ɯ-zrɤm kɯ-xtɕɯ-xtɕi ma me, ɯʑo smɤn ɯ-ŋgɯ kɤ-lɤt ɲɯ-sna.
 \xn 牛至是一种小型植物，茎很细，呈红色，只有约两拃高，有椭圆形小叶，花红里透白，有香味，根很小。可入药。
-\dt 26/Jan/2015
+\dt 18/Mar/2015
+
+\lx akɯ
+\ps adv
+\ge à l'est
+\gn 在东边
+\cf tɕɤkɯ
+\dt 18/Mar/2015
 
 \lx akɯchoʁle
 \wav8 akuchoRle
@@ -27,6 +35,13 @@
 \xv nɤʑo nɤ-ŋga ʁo alala ri kɯmaʁ kɯ-tu nɯra kɯnɤ tɤ-ndɤm
 \xn 不光是你的衣服，有有其他所有的衣服都要带上
 \dt 20/Jan/2015
+
+\lx alo
+\ps adv
+\ge en amont
+\gn 上游
+\cf tɕɤlo
+\dt 18/Mar/2015
 
 \lx amaŋ
 \ps interj
@@ -58,6 +73,12 @@
 \sy naχtɕɯɣ
 \dt 09/Feb/2015
 
+\lx andi
+\ps adv
+\ge à l'ouest
+\gn 在西边
+\dt 18/Mar/2015
+
 \lx andichoʁle
 \ps n
 \ge vent du sud
@@ -79,6 +100,13 @@
 \gn 到处 
 \hbf *qɤjdorju.36
 \dt 19/Apr/2013
+
+\lx athi
+\ps adv
+\ge en aval
+\gn 下游
+\cf tɕɤthi
+\dt 18/Mar/2015
 
 \lx atsatsa
 \ps interj
@@ -768,10 +796,7 @@
 \lx ɕɤmtshoʁ
 \ps n
 \ge clou en fer 
-\gn 铁钉 
-\lx ɕom
-\cf tɤtshoʁ
-\hbf 580
+\gn 铁钉
 
 \lx ɕɤnthɤβ
 \ps n
@@ -1080,6 +1105,10 @@
 \xv kɯ-sɤmbrɯŋgɯ ci ɕŋoʁɕŋoʁ ɲɯ-ŋu
 \xn 他又瘦又不好看，让人讨厌
 \dt 01/Feb/2013
+
+\lx ɕom
+\cf tɤtshoʁ
+\hbf 580
 
 \lx ɕommbri
 \ps n
@@ -1746,13 +1775,14 @@
 \lx ɣɤʑu
 \wav8 WGAZu
 \ps vi
-\ge y avoir
-\gn 有
+\ge y avoir, exister (sensoriel)
+\gn 有（亲见）
 \pdl 2sg
 \pdv ɣɤtɤʑu
 \xv nɯ ma mɤ-kɯ-pe ɯ-ɣɤ́ʑu?
 \xn 还有没有错误？
-\dt 10/May/2011
+\cf maŋe
+\dt 18/Mar/2015
 
 \lx ɣdɤɣdɤt
 \ps idph.2
@@ -1794,7 +1824,9 @@
 \gn 100 
 \hbf 824 
 \xv ɣurʑa cho tɯ-rdoʁ 
-\xn 101
+\xn 一百零一
+\sy tɯ-ri
+\dt 18/Mar/2015
 
 \lx ɣzɤn
 \ps n
@@ -1946,8 +1978,7 @@
 \ps adv
 \ge à l'instant 
 \gn 刚才 
-\hbf *qɤjdoskɤt.30
-\dt 02/Jan/2015
+\dt 18/Mar/2015
 
 \lx jil
 \ps n
@@ -2305,13 +2336,12 @@
 \gn 灰白色 
 \et kʰam.pa
 
+\lx khamba
+
 \lx khambalawa
 \ps n
 \ge vêtement en laine grise
-\gn 灰色的毛裙 
-\lx khamba
-\lx lawa
-\dt 21/Oct/2014
+\gn 灰色的毛裙
 
 \lx khaŋfkot
 \ps n
@@ -3020,10 +3050,10 @@
 \ge une espèce de champignon 
 \gn 一种蘑菇 
 \hbf champignon 
-\xv kuɣrummɤɣ nɯ ɕkrɤz kɯ-xtɕi ŋgɯ tu-ɬoʁ ŋu, ku-ɣrum ʁɟa ʑo ŋu, kɤ-ndza wuma ʑo mɯm. ftɕar tɕe tu-ɬoʁ ŋu. 
-\xn kuɣrummɤɣ长在比较矮小的青冈树林里，均呈白色。很好吃，一般在夏天生长。 
+\xv kuɣrummɤɣ nɯ ɕkrɤz kɯ-xtɕi ɯ-ŋgɯ tu-ɬoʁ ŋu, kɯ-wɣrum ʁɟa ʑo ŋu, kɤ-ndza wuma ʑo mɯm. ftɕar tɕe tu-ɬoʁ ŋu. 
+\xn {kuɣrummɤɣ}长在比较矮小的青冈树林里，均呈白色。很好吃，一般在夏天生长。 
 \nqr
-\dt 29/Nov/2011
+\dt 18/Mar/2015
 
 \lx kumbrɤl
 \ps n
@@ -3137,6 +3167,12 @@
 \gn 表示自我反问（原来知道，现在忘了） 
 \xv jiɕqha nɯ tɕhi pɯ-rmi kɯ 
 \xn 刚才那个人叫什么名字呢？
+
+\lx kɯ¹
+\ps post
+\ge ergatif/instrumental
+\gn 施事格，工具格
+\dt 18/Mar/2015
 
 \lx kɯβdɤsqi
 \ps num
@@ -3681,6 +3717,9 @@
 \et lag.bzo
 
 \lx lawa
+\dt 21/Oct/2014
+
+\lx lawa
 \ps n
 \ge jupe de laine 
 \gn 羊毛裙子 
@@ -4164,10 +4203,9 @@
 \lx maŋe
 \wav8 mataNe
 \wav8 mataNe2
-\wav8 mataNe3
 \ps vi 
-\ge ne pas avoir 
-\gn 没有 
+\ge ne pas avoir (sensoriel)
+\gn 没有（亲验）
 \pdl 2sg
 \pdv mataŋe
 \hbf 1519 
@@ -4179,9 +4217,8 @@
 \xn 可有可无
 \xv nɯ ma kɤ-pa maŋe
 \xn 没有其它办法
-\xv jɯfɕɯndʐi @dianhua ɯ-kɯ-lɤt mataŋe tɕe, nɤ-ɕqhe ɯ-mŋɤm ɯβrɤ-ŋu ma tɕhindʐa ŋu kɯ nɯra nɯ-sɯso-t-a
-\xn
-\dt 19/Oct/2012
+\cf ɣɤʑu
+\dt 18/Mar/2015
 
 \lx marwɤr
 \ps n
@@ -6130,9 +6167,9 @@
 
 \lx pɯthaŋ
 \ps n
-\ge XXXX
+\ge type de métal
 \gn 白铜
-\dt 17/May/2014
+\dt 18/Mar/2015
 
 \lx qachɣamɯntoʁ
 \ps n
@@ -6739,6 +6776,18 @@
 \xv a-jaʁ cɯmbɤrom rɣurɣu ʑo to-rku
 \xn 我手上长了水泡
 \dt 13/Mar/2013
+
+\lx ri¹
+\ps post
+\ge locatif
+\gn 在
+\dt 18/Mar/2015
+
+\lx ri²
+\ps conj
+\ge mais
+\gn 但是
+\dt 18/Mar/2015
 
 \lx riβdaʁ
 \ps n
@@ -9510,7 +9559,9 @@
 \xn 我往东边去
 \xv tɕɤkɯkɯ ʑo ri ku-rɤʑi-a
 \xn 我在东边
-\dt 15/May/2012
+\an tɕɤndi
+\cf akɯ
+\dt 18/Mar/2015
 
 \lx tɕɤlo
 \ps adv
@@ -9519,6 +9570,13 @@
 
 
 \dt 15/May/2012
+
+\lx tɕɤlo
+\ps adv
+\ge en amont
+\gn 上游
+\cf alo
+\dt 18/Mar/2015
 
 \lx tɕɤmɯ
 \ps n
@@ -9533,7 +9591,9 @@
 \gn 在西边
 \xv tɕɤndɯndi ʑo ku-rɤʑi-a
 \xn 我在西边
-\dt 15/May/2012
+\an tɕɤkɯ
+\cf andi
+\dt 18/Mar/2015
 
 \lx tɕɤphɯ
 \a tɕhɤphɯ
@@ -9547,6 +9607,19 @@
 \ge en aval
 \gn 在下游
 \dt 15/May/2012
+
+\lx tɕɤthi
+\ps adv
+\ge en aval
+\gn 下游
+\cf athi
+\dt 18/Mar/2015
+
+\lx tɕendɤre
+\ps conj
+\ge ensuite
+\gn 然后
+\dt 18/Mar/2015
 
 \lx tɕeri
 \ps conj
@@ -9983,12 +10056,21 @@
 \hbf 785 
 \et tʰam
 
-\lx thaŋ
+\lx thaŋ¹
 \ps n
 \ge plaine 
 \gn 平坝 
 \hbf 39 
 \et tʰaŋ
+\dt 18/Mar/2015
+
+\lx thaŋ²
+\ps part
+\ge marqueur de supposition
+\gn 表示推测
+\xv wo nɯnɯ wuma ʑo mɯm thaŋ nɤ!
+\xn 这个应该很好吃吧！
+\dt 18/Mar/2015
 
 \lx thaʁɕa
 \ps n
@@ -12530,7 +12612,8 @@
 \ps cl
 \ge cent
 \gn 一百
-\dt 29/Oct/2014
+\sy ɣurʑa
+\dt 18/Mar/2015
 
 \lx tɯrju
 \ps n
@@ -13971,6 +14054,13 @@
 \gn 枯萎了的草 
 \hbf plante 2
 
+\lx ɯ-ɕki
+\ps post
+\ge datif
+\gn 于格
+\sy ɯ-phe
+\dt 18/Mar/2015
+
 \lx ɯ-ɕpɯz
 \wav8 WCpWz
 \ps np
@@ -14405,6 +14495,13 @@
 \hbf 714 
 \et pʰʲi
 \dt 30/May/2013
+
+\lx ɯ-phe
+\ps post
+\ge datif
+\gn 于格
+\sy ɯ-ɕki
+\dt 18/Mar/2015
 
 \lx ɯ-phɯ
 \ps np
@@ -16638,6 +16735,12 @@
 \xn 投石带是麻绳或者皮绳做成的，中间做一个能卡住石子的（结），（从中间）叠一下，绳的两头拿在手上，在中间卡住小石子，然后在头上挥转三圈，之后再把绳子的一头放掉，打出去，这样石子就投得远一些。投石带是投掷石头的专用工具
 \nqr
 \dt 19/Feb/2014
+
+\lx zɯ
+\ps post
+\ge locatif
+\gn 在
+\dt 18/Mar/2015
 
 \lx zɯm
 \ps n
@@ -48857,8 +48960,8 @@ da.lie 打猎
 \xn 他背的东西很重
 \xv rdɤstaʁ ɲɯ-rʑi
 \xn 石头很重
-\an ʑo
-\dt 21/Oct/2011
+\an ʑo¹
+\dt 18/Mar/2015
 
 \lx _ʁaʁ
 \wav vi-RaR-b
@@ -58281,7 +58384,7 @@ da.lie 打猎
 \gn 容易削
 \dt 17/Jan/2014
 
-\lx _ʑo
+\lx _ʑo¹
 \wav vi-Zo-b
 \ps vs
 \pdl dir 
@@ -58298,7 +58401,7 @@ da.lie 打猎
 \ge se rendre léger
 \gn 令自己变轻
 \an rʑi
-\dt 26/Oct/2011
+\dt 18/Mar/2015
 
 \lx _ʑru
 \wav vi-Zru
