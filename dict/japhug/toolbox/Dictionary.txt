@@ -247,7 +247,7 @@
 \lx bjɯbjɯɣ
 \ps idph.2
 \ge qui pend en grand nombre, mou
-\gn 又多又柔软的样子，往下垂吊
+\gn 多而柔软，向下垂吊的样子
 \xv iʑo ji-kha ɯ-ʁɤri ʑmbri tɯ-phɯ tu tɕe, ftɕar tɕe ɯ-jwaʁ ɲɯ-dɤn, ɯ-rtaʁ ɲɯ-mpɯ ɲɯ-dɤn tɕe, bjɯbjɯɣ ʑo pjɯ-ɴqoʁ ɲɯ-ŋu
 \xn 他们家前面有一棵柳树，一到春天，树叶茂密，树枝又软又多地吊在那儿。
 \sy lbjɯlbjɯɣ
@@ -724,6 +724,8 @@
 \ps n
 \ge Turdus sp. (rubrocanus, kessleri) 
 \gn 鸫 
+\cf ɕɤɣ
+\cf pɣa
 \hbf oiseau
 
 \lx ɕɤɣrum
@@ -1243,7 +1245,7 @@
 \lx ɕplaɕpla
 \ps idph.2
 \ge sans poil, chauve; obstiné
-\gn 光秃；固执
+\gn 光秃无毛；固执
 \xv ɕplaɕpla ma-tɯ-ʑɣɤstu
 \xn 你不要那么固执，不听指挥
 \dv ɯ-rme kɯ-me kɯ-fse, kɯ-ɤʁɟɤle kɯ-fse; taʁdo mɤ-kɯ-tso kɯ-fse
@@ -1296,25 +1298,25 @@
 \lx ɕʁɯznɤɕʁɯz
 \ps idph.3
 \ge croquant
-\gn (吃起来发出声音)又干又脆
+\gn （吃起来发出声音）又干又脆
 \dt 08/May/2014
 
 \lx ɕtrɤβɕtrɤβ
 \ps idph.2
 \ge objet long et mou
-\gn 又长又软，没有精神的样子
+\gn 长而软，没有精神的样子
 \xv ɯʑo lo-βzi tɕe, ɕtrɤβɕtrɤβ ʑo ɲɯ-rŋgɯ
-\xn 他喝醉了没有精神地躺在那里
+\xn 他喝醉了，无精打采地瘫在那里
 \dt 18/Aug/2012
 
 \lx ɕtriɕtri
 \ps idph.2
 \ge mou, long et fin
-\gn 又柔软、又细、有长
+\gn 柔软、细而长的样子
 \xv mɯntoʁ ɲɤ-lni ɕtriɕtri ʑo
-\xn 花晒得快要干死了的样子，立不起来了
+\xn 花晒蔫了，立不起来
 \xv ɕtriɕtri ma-tɯ-ʑɣɤstu
-\xn 你不要这么没有精神的样子
+\xn 你不要这么蔫不拉叽的样子
 \dt 18/Aug/2012
 
 \lx ɕu
@@ -1327,7 +1329,7 @@
 \lx ɕu
 \ps n
 \ge carte 
-\gn 牌子 
+\gn 牌戏
 \et ɕo
 \xv ɕu pɯ-lɤt-tɕi tɕe pɯ-ta-ɕɯnŋo
 \xn 我们俩打牌的时候，我把你打败了
@@ -1342,7 +1344,7 @@
 \lx ɕɯɣɕɯɣ
 \ps idph.2
 \ge en silence
-\gn 静静、一点也不做声
+\gn 安静、一点也不作声的样子
 \dt 23/Feb/2014
 
 \lx ɕɯjaʁ
@@ -1355,7 +1357,8 @@
 \lx ɕɯmthuspoʁ
 \ps n
 \ge enfant qui aimer poser des questions sans cesse 
-\gn 不停的问事的孩子
+\gn 不停问东问西的孩子
+\cf ɕɯmthu
 
 \lx ɕɯmɯma
 \ps post
@@ -1381,6 +1384,7 @@
 \un {ɕɯŋgɯ ɕɯŋgɯ}表示“最里层”的意思
 \xv a-ŋga ɯ-ŋgɯ ɕɯŋgɯ nɯ ɯ-poloʁ me
 \xn 我最里层的衣服没有袖子
+\cf ɯ-ŋgɯ
 \dt 30/Jan/2015
 
 \lx ɕɯrdɯm
@@ -1392,7 +1396,7 @@
 
 \lx ɕɯrʁom
 \ps n
-\ge poils de yal épais
+\ge poils de yak épais
 \gn 牦牛的粗毛
 \cf rʁom
 \dt 30/Aug/2012
@@ -1403,7 +1407,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv ɕɯxtɯ rɟɤxtsa nɯ ruŋgu, tʂɤrkɯ, stɤmku aʁɤndɯndɤt tu-ɬoʁ ŋu, ɯ-zrɤm wxti, tɯ-boʁ nɤ tɯ-boʁ tu-ɬoʁ tɕe, ɯ-ru tɯ-ldʑa ɯ-taʁ ɯ-jwaʁ ɯ-rme ʑo kɯ-fse kɯ-dɤn ɲɯ-ɬoʁ ŋu, ɯ-ru ngɯt, ɯ-mɯntoʁ kɯ-ndɯ-ndɯβ kɯ-dɯ-dɤn ʑo ɲɯ-lɤt ŋu. 
-\xn {ɕɯxtɯ rɟɤxtsa}在草山、草平、路边都可以生长，根很大，一丛一丛的生长，茎上的叶子象毛一样密，茎很结实，茎的顶上开又小又密的花。
+\xn {ɕɯxtɯ rɟɤxtsa}在草山、草地、路边都可以生长，根大，丛生。茎上的叶子像毛一样密。茎很结实，茎的顶上开小而密的花。
 \dt 07/Nov/2013
 
 \lx dal
@@ -1424,14 +1428,14 @@
 \gn 慢 
 \et dal
 \xv kɤ-rɯɕmi daltsa tɤ-pe ɲɯ-ra 
-\xn 请你讲得稍微慢一点
+\xn 请你说话稍微慢一点
 
 \lx daltsɯtsa
 \ps n
 \ge lentement 
 \gn 慢慢 
 \hbf *ɲimawozɤr.129 
-\et dal
+\cf daltsa
 
 \lx dɤlie
 \ps expression
@@ -1442,7 +1446,7 @@
 \lx doŋdoŋ
 \ps idph.2
 \ge long et épais, cylindrique
-\gn 又粗又长（圆柱形）
+\gn 圆柱形物体粗而长的样子 
 \xv ɕoŋtɕa ɲɯ-jpum doŋdoŋ
 \xn 木料非常粗
 \dt 28/Aug/2012
@@ -1450,11 +1454,11 @@
 \lx droŋdroŋ
 \ps idph.2
 \ge gros et sale
-\gn 又粗又大又脏
+\gn 粗、大而脏的样子
 \xv ɯ-ɕŋaβ droŋdroŋ ʑo chɤ-nɤndzɣi
-\xn 他吊着鼻涕，显得很脏
+\xn 他的鼻涕一大根一大根地吊在那里，显得很脏
 \xv ɯ-phoŋbu ɲɯ-sɤjloʁ droŋdroŋ
-\xn 她身材又胖又高，不美观
+\xn 她身材又胖又高，不好看
 \dt 28/Aug/2012
 
 \lx dɯdɯt
@@ -1463,7 +1467,7 @@
 \gn 斑鸠 
 \hbf oiseau 
 \xv dɯdɯt nɯ pɣa khro mɤ-kɯ-wxti ci ŋu, qro jamar ma me, ɯ-tshɯɣa ra qro fse, ɯ-mdoʁ nɯ kɤ-rŋi ɯ-ŋgɯz kɯ́nɤ kɯ-pɣi tsa ŋu, tu-mbri tɕe, 'du dɯt cɯ ŋgɯ lɤɣ' tu-ti ɲɯ-ŋu, tɤ-rɤku cho qajɯ ndze, tɤ-rɤku kɤ-ndza χɕu, kha tɤ-kɤ-nɯ-sɤro ʑo nɯ ɣɯ-tu-ndze ŋu. 
-\xn 斑鸠是一种不太大的鸟，只有鸽子那么大，样子也很象鸽子，颜色是蓝里带有灰色，叫声是‘du dɯt cɯ ŋgɯ lɤɣ’ 。吃粮食和虫子，吃粮食很厉害，专门来吃摆在家里的粮食。 
+\xn 斑鸠是一种不太大的鸟，只有鸽子那么大，样子也像鸽子，颜色蓝里带灰，叫声是‘du dɯt cɯ ŋgɯ lɤɣ’。吃粮食和虫子，吃粮食尤其厉害，专门来吃摆放在家里的粮食。 
 \nqr
 
 \lx dzɤjdzɤj
@@ -1474,25 +1478,25 @@
 \wav8 dzoNnAdzoN
 \ps idph.2
 \ge ébouriffé
-\gn 毛松松、竖起来
+\gn 毛蓬松、竖起来的样子
 \xv ɯ-rme dzoŋdzoŋ ʑo cho-ɬoʁ
-\xn 他的毛竖起来了
+\xn 他的毛发竖起来了
 \xv nɤ-kɤrme pɯ-sɤɕɤt ma dzoŋdzoŋ ʑo ɲɯ-pa
-\xn 你要梳头，不然你的头发是毛松松的
+\xn 你要梳头，不然你的头发毛松松的
 \xv tɯrgi paʁtsa kɯ ɯ-jme dzoŋdzoŋ ʑo tu-tse tɕe tu-nɤŋkɯŋke ŋu
-\xn 松鼠把尾巴竖起来走动，显得毛松松
+\xn 松鼠竖起尾巴走动，看起来蓬蓬松松的
 \se dzoŋnɤdzoŋ
 \ps idph.3
 \ge sensation désagréable ressentie lorsque l'on marche avec une jambe engourdie
 \gn 脚麻木，走得很难受
 \xv tu-ŋke-a tɕe a-mi dzoŋnɤdzoŋ ʑo ɲɯ-ti ma chɤ-ndʑɯrpɯt
-\xn 我走路的时候很难受因为我的脚麻木了
+\xn 我走路走得很难受，因为脚麻木了
 \dt 13/Jul/2014
 
 \lx dzɯɣdzɯɣ
 \ps idph.2
 \ge fournis (poils)
-\gn 又多有密、茂盛（毛）
+\gn 毛多而密、茂盛的样子
 \xv ɯ-mtɕhɯrme dzɯɣdzɯɣ ʑo ɲɯ-pa
 \xn 他的胡须很茂盛
 \xv tshɤrtɯl ɯ-rme dzɯɣdzɯɣ ʑo ɲɯ-pa
@@ -1502,28 +1506,28 @@
 \lx dʐoŋdʐoŋ
 \ps idph.2
 \ge mou, long et épais
-\gn 又软又粗又长
+\gn 软、粗而长的样子
 \xv tɯ-pu dʐoŋdʐoŋ ʑo ɲɯ-pa
-\xn 肠子又长又软又粗
+\xn 肠子又软又粗又长
 \dt 16/May/2014
 
 \lx dʐɯβnɤdʐɯβ
 \ps idph.3
 \ge
-\gn 吃起来比较软
+\gn 吃起来软
 \dt 01/Nov/2013
 
 \lx dʑaŋdʑaŋ
 \ps idph.2
 \ge long et fin
-\gn 又细又长
+\gn 细而长的样子
 \dt 09/May/2013
 
 \lx dʑɯβdʑɯβ
 \wav8 dZWBdZWB
 \ps idph.2
 \ge rugueux et pointu
-\gn 粗糙、尖、很密
+\gn 粗糙、尖而密的样子
 \xv tɯrgi ɣɯ ɯ-jwaʁ dʑɯβdʑɯβ ʑo ɲɯ-pa tɕe, ɲɯ-sɤmtsɯɣ
 \xn 杉树的针叶很尖，会刺到人
 \dt 05/May/2014
@@ -1548,11 +1552,12 @@
 \wav n-tAfsaN
 \ps n
 \ge fumigation
-\gn 烟（求烟、供神的烟）
+\gn 烟（“求烟”、供神的烟）
 \xv fsaŋ la-ta
 \xn 他求了烟子
 \xv fsaŋ tɤ-ta-t-a
 \xn 我求了烟子
+\et bsaŋ
 \cf sɯfsaŋ
 \cf tɤfsaŋ
 \dt 05/May/2014
@@ -1561,6 +1566,7 @@
 \ps n
 \ge cheminée 
 \gn 烟囱 
+\cf fsaŋ
 \hbf maison
 
 \lx fsaŋmtɕhɤt
@@ -1580,18 +1586,21 @@
 \ps n
 \ge purin 
 \gn 粪 
+\cf fsapaʁ
+\cf tɯ-ɣli
 \hbf animal2
 
 \lx fsɤndɤpa
 \ps n
 \ge l'année d'après 
 \gn 后年 
+\cf fsɤndi
 \hbf 782
 
 \lx fsjɤnɤfsjɤt
 \ps idph.3
 \ge qui marche sans efforts
-\gn 很轻松（走路的样子；七八岁的小孩子）
+\gn 走路很轻松的样子（形容七八岁的小孩子）
 \xv tɤpɤtso fsjɤnɤfsjɤt ʑo lɤ-ari
 \xn 小孩子很轻松地进去了
 \dt 15/May/2014
@@ -1601,7 +1610,7 @@
 \ge sifflement 
 \gn 吹口哨的声音 
 \xv fsapaʁ ra nɯ-qhu tɕe fsjitnɤfsjat ʑo ɲɯ-ti tɕe ja-no
-\xn 他在牛后面吹口哨赶牛
+\xn 他在牛后面“嗖—嗖”地吹口哨赶牛
 \dt 15/May/2014
 
 \lx fsusqi
@@ -1632,7 +1641,7 @@
 \wav n-ftCar
 \ps n
 \ge été, période du printemps à l'été 
-\gn 夏天、春夏 
+\gn 夏天、春夏
 \hbf 792 
 \xv ftɕar kɤ-ndzoʁ
 \xv ftɕar ɯ-qa ka-ta
@@ -1642,7 +1651,7 @@
 \lx ftɕhoʁftɕhoʁ
 \ps idph.2
 \ge petit et dressé 
-\gn 很小；立起来的样子（耳朵）
+\gn 小的物体立起来的样子（如耳朵）
 \xv qala ɯ-rna ftɕhoʁftɕhoʁ ʑo ɲɯ-pa
 \xn 兔子的耳朵是翘起来的
 \dv kɯ-xtɕɯ-xtɕi ʑo, kɯ-nɤrko tɕe tu-kɯ-nɯndzɯ kɯ-fse
@@ -1673,7 +1682,7 @@
 \lx ftsaʁra
 \ps n
 \ge plaque de pierre pour empêcher l'eau du toit de couler
-\gn 用挡住屋檐水的石板或木板
+\gn 用以挡住屋檐水的石板或木板
 \dt 26/Aug/2012
 
 \lx ftsoʁ
@@ -1694,9 +1703,9 @@
 \wav8 wxti_gaNgaN
 \ps idph.2
 \ge haut et imposant
-\gn 又大又高
+\gn 高而大的样子
 \xv ɯ-phoŋbu wxti gaŋgaŋ ʑo pa
-\xn 他的身体又高有大
+\xn 他的身体又高又大
 \dt 07/Dec/2013
 
 \lx grɯβgrɯβftsa
@@ -1705,13 +1714,13 @@
 \gn 一种菌子 
 \hbf champignon 
 \xv grɯβgrɯβftsa nɯ ɯ-tshɯɣa cho ɯ-mdoʁ ɯ-sɤɣɬoʁ nɯ ra grɯβgrɯβ cho wuma ʑo naχtɕɯɣ, tɕeri grɯβgrɯβ kɯ-fse ɯ-dɯχɯn me, sɤndɤɣ kɤ-ndza mɤ-sna, kɯ-thɯ nɯ ra pjɯ-si ɲɯ-ŋgrɤl 
-\xn {grɯβgrɯβftsa} 形状、颜色和生长的地方和松茸一样，但是没有松茸那么香。有毒性，不能吃。中毒严重的话会导致死亡。
+\xn {grɯβgrɯβftsa}的形状、颜色和生长的地方都和松茸一样，但是没有松茸那样的香气。有毒，不能吃。中毒严重的话会导致死亡。
 \dt 20/May/2013
 
 \lx gɯgɯɣ
 \ps idph.2
 \ge ciel très noir 
-\gn 天色很黑
+\gn 天色很黑的样子
 
 \lx ɣɤjɯz
 \ps n
@@ -1748,9 +1757,9 @@
 \lx ɣdɤɣdɤt
 \ps idph.2
 \ge court et grassouillet
-\gn 又胖又短（看起来很可爱）
+\gn 胖而短的样子（看起来很可爱）
 \xv tɤpɤtso ɲɯ-tshu, ɯ-mɤlɤjaʁ ra ɣdɤɣdɤt ʑo ɲɯ-pa
-\xn 小孩子很胖，手和脚又粗又短
+\xn 小孩子胖胖的，手脚又粗又短
 \dt 08/Aug/2012
 
 \lx ɣdɯ
@@ -1764,12 +1773,12 @@
 \lx ɣe
 \ps part
 \ge n'est ce pas ? 
-\gn 是吗?
+\gn 是不是？
 \un 陈述自己的感觉，征求别人的看法
 \xv nɤki tɕheme nɯ ɲɯ-mpɕɤr ɣe 
-\xn 那个女孩子漂亮是吗？
+\xn 那个女孩子挺漂亮的，是不是？
 \xv jisŋi tɯmɯ ɲɯ-jɯm ɣe
-\xn 今天天气好是吗
+\xn 今天天气挺好的，对不对？
 \dt 30/Jan/2015
 
 \lx ɣnɤsqi
@@ -1797,6 +1806,7 @@
 \ps n
 \ge année du singe 
 \gn 猴年 
+\cf ɣzɯ
 \hbf 763
 
 \lx ɣzɯthɯz
@@ -1805,7 +1815,7 @@
 \gn 卷柏 
 \hbf plante 
 \xv ɣzɯthɯz nɯ praʁ ɯ-taʁ ku-ndzoʁ ŋu, cɤmi pɕoʁ sɤtɕha kɯ-mpja nɯ tɕu tu-ɬoʁ ɲɯ-ŋu. praʁ ɯ-taʁ ko-ɲɟoʁ ku-fse tu-ɬoʁ, tɕe ɯ-ru maŋe, ɯ-mɯntoʁ me, ɯ-jwaʁ nɯ ɕɤɣ ɣɯ ɯ-jwaʁ tsa ɲɯ-fse, ɯ-jwaʁ ɯ-χcɤl ɯ-ŋgɯ chu tu-ŋgɤɣ, tɕe ɯ-χcɤl pɕoʁ ku-wum kɯ-fse ɲɯ-ŋu. ɯ-mdoʁ nɯ ftɕar ɲɯ-ɤrŋi, qartsɯ ɲɯ-pɣi ɲɯ-ŋu ri, ɲɯ-rom mɯ́-j-cha. kɯɕɯŋgɯ tɕe, ɲɯ-phɯ́t-nɯ tɕe, tɯ-thɯ ɯ-sɤ-χtɕi tu-βzú-nɯ pɯ-ŋu. tham tɕe ɯ-kɯ-ntɕhoz me. 
-\xn 卷柏生长在岩石上，在河坝气候温和的地方生长，好象是贴着岩石，没有茎有没有花，叶子优点象柏树的一样，叶子中间部分往里卷，合在一起。颜色夏天是绿色的，冬天是灰色的，但不会干枯。以前，人们拆下来用来洗锅子，现在就没有人用了。
+\xn 卷柏生长在岩石上，在河坝气候温和的地方生长。长的样子好像是贴着岩石，没有茎，没有花，叶子有些类似柏树叶，叶子中间部分往里卷，合在一起。叶子的颜色夏绿冬灰，但不会干枯。以前，人们拆下来用来洗锅子，现在就没有人用了。
 
 \lx ɣʑɤzga ɯ-rqhu
 \ps n
@@ -1876,7 +1886,7 @@
 \gn 一种鸟 
 \hbf oiseau 
 \xv jarmɤzdoʁzdoʁ nɯ pɣɤtɕɯ kɯ-xtɕɯ-xtɕi ci ŋu, ɯ-mdoʁ pɣi, ɯ-ʁar ɯ-rkɯ ra χanɯni ɲaʁ, ɲɯ-nɯqambɯmbjom tɕe wuma ʑo ɣɤji, ɯ-mtsioʁ kɯnɤ kɯ-xtɯ-xtɯt ma me, qajɯ tu-ndze ŋu, ɯʑo sti ma kɤ-mto me. ɯ-mi nɯ ra kɯ-pɣi ɯ-ŋgɯz kɯ-qarŋɯrŋe tsa ŋu. 
-\xn {jarmɤzdoʁzdoʁ}是很小的鸟，灰色的，翅膀边缘有点黑，起飞的时候非常快，只有很短的嘴，吃虫子，只看见它单独飞行，脚也是黑里带黄的。
+\xn {jarmɤzdoʁzdoʁ}是很小的鸟，灰色，翅膀边缘略黑。起飞非常快，嘴很短，吃虫子。只能看见它单独飞行。脚也是黑里带黄的。
 \dt 09/May/2013
 
 \lx jɤlwa
@@ -1889,7 +1899,7 @@
 \wav n-jAmtsa
 \ps n
 \ge casserole en fer 
-\gn 炒菜锅 （用生铁制成的）
+\gn 炒菜锅（用生铁制成的）
 \hbf 545
 \xv jɤmtsa pjɤ-ɲɟɤβ
 \xn 炒菜锅凹进去了
@@ -1902,6 +1912,7 @@
 \hbf maison 
 \xv kha ɣɯ jɤɣɤt cho khɤxtu nɯ ra jɤnlaʁ rmi 
 \xn 房子的走缘和房背都叫{jɤnlaʁ}
+\et jan.lag
 
 \lx jɤntɤn
 \wav n-jAntAn
@@ -1909,7 +1920,7 @@
 \ge savoir 
 \gn 技术、知识 
 \hbf *srɤs.2 
-\et jon.dan
+\et jon.tan
 \xv nɤ-jɤntɤn, @qiche kɤ-lɤt tu
 \xn 你的技术是开汽车
 \cf nɯjɤntɤn
@@ -1942,6 +1953,7 @@
 \ps n
 \ge village
 \gn 村庄（有地、有房子的地方）
+\et jul
 \dt 28/Apr/2014
 
 \lx jilco
@@ -1955,6 +1967,7 @@
 \ps n
 \ge maïs 
 \gn 玉米 
+\et fn:御麦
 \hbf plante
 
 \lx jinbalazɯ
@@ -1985,12 +1998,15 @@
 \ge bâton duquel on défile la trame
 \gn 纬线的杆子
 \cf ɯ-jlɤβ
+\cf ndʑu
 \dt 08/May/2014
 
 \lx jlɤdo
 \ps n
 \ge vieux yak hybride
 \gn 老犏牛
+\cf jla
+\cf ɯ-do
 \dt 06/May/2014
 
 \lx jlɤprɤm
@@ -1998,12 +2014,15 @@
 \ge poudre pour nourrir les bœufs hybrides 
 \gn 喂犏牛的粉 
 \hbf bovidé
+\cf jla
 \cf tɤ-prɤm
 
 \lx jlɤtɯndzɯm
 \ps n
 \ge deux yak hybrides (pour tirer la charrue)
 \gn 一对犏牛（拖犁头的）
+\cf jla
+\cf tɯ-tɯndzɯm
 \dt 26/Feb/2014
 
 \lx jmɤjmɤr
@@ -2023,6 +2042,8 @@
 \ps n
 \ge hier soir 
 \gn 昨晚 
+\cf jɯfɕɯr
+\cf ɯ-ɣmɯr
 \hbf 747
 
 \lx jɯfɕɯndʐɯɕɯŋgɯpa
@@ -2102,8 +2123,8 @@
 \lx kaŋkaŋ
 \ps n
 \ge tasse (avec une poignée) 
-\gn 带有把子的杯子 
-\et 缸
+\gn 带把的杯子 
+\et fn:缸缸
 
 \lx karkɯm
 \ps n
@@ -2146,7 +2167,7 @@
 \ge ensemble
 \gn 一起，完整地
 \xv ɯ-kɤrme cho ɯ-ɕa kɤlɯmlɯm ʑo ka-ndo
-\xn 他把头发和皮肉一起抓起了
+\xn 他把头发和皮肉一起抓了起来
 \dt 26/Apr/2014
 
 \lx kɤmbrɤβraʁ
@@ -2170,7 +2191,7 @@
 \ge tsampa destinée à être consommée sèche 
 \gn 香糌粑 
 \dv kɤ-moʁ nɯ tɯsqar kɤ-ndza ɣɯ tɯ-tɯphu ŋu, tɯ-ɣndʑɤr tɤ-mtɕoʁ tú-wɣ-ndza tɕe, tʂha kɯ chɯ́-wɣ-sɯtsɯm tɕe mɯm. 
-\dn 香糌粑就是糌粑的一种吃法，吃一小撮干糌粑然后用茶服送，这样很小吃。
+\dn 香糌粑是糌粑的一种吃法，吃一小撮干糌粑然后用茶服送，这样很好吃。
 \cf moʁ
 \dt 09/Apr/2011
 
@@ -2198,19 +2219,19 @@
 \lx kɤndʑɯslamaχti
 \ps n
 \ge ami de classe
-\gn 学友
+\gn 好同学
 \dt 13/Aug/2012
 
 \lx kɤndʑɯtɤtɕɯχti
 \ps n
 \ge amis (garçons)
-\gn 朋友（男生之间）
+\gn 朋友（男孩之间）
 \dt 13/Aug/2012
 
 \lx kɤndʑɯtɕhemɤχti
 \ps n
 \ge amies
-\gn 朋友（女生之间）
+\gn 朋友（女孩之间）
 \dt 13/Aug/2012
 
 \lx kɤpupu
@@ -2266,12 +2287,15 @@
 \ps n
 \ge moulin à main 
 \gn 手磨 
+\cf kha
+\cf βɣa
 \hbf 631
 
 \lx khalaβ
 \ps n
 \ge couvercle 
 \gn 锅的盖子 
+\et kʰa.leb
 \hbf 547 
 \dt 10/Dec/2014
 
@@ -2285,6 +2309,8 @@
 \ps n
 \ge vêtement en laine grise
 \gn 灰色的毛裙 
+\lx khamba
+\lx lawa
 \dt 21/Oct/2014
 
 \lx khaŋfkot
@@ -2297,6 +2323,7 @@
 \ps n
 \ge turban 
 \gn 包头巾 
+\et kʰa.dkris
 \hbf 474
 
 \lx kharwut
@@ -2311,17 +2338,19 @@
 \ge de toutes les couleurs
 \gn 各种颜色
 \xv raz ɲɯ-mpɕɤr tɕe khatoʁ ʑo ɣɤʑu
-\xn 布很漂亮，是彩色的
+\xn 布很漂亮，是花色的
 \xv thaχtsa chɯ́-wɣ-βzu tɕe, tɤ-ri khatoʁ ʑo pjɯ-tu ra
 \xn 制作花带的时候要有不同颜色的线
 \xv mɯntoʁ ɯ-mdoʁ ɲɯ-mpɕɤr khatoʁ ʑo ɣɤʑu
-\xn 花的颜色很漂亮，有各种颜色
+\xn 花的颜色很漂亮，各种颜色都有
+\et kʰa.dog
 \dt 12/May/2014
 
 \lx khatʂu
 \ps n
 \ge merci 
 \gn 谢谢
+\et kʰa.dro
 
 \lx khatʂulɤfsɤm
 \ps expression
@@ -2357,6 +2386,7 @@
 \ps interj
 \ge formule de politesse pour exprimer son arrivée
 \gn 客人表明自己到来的客套话
+\et kʰa.bzaŋ
 \dt 12/Aug/2012
 
 \lx khɤcɤl
@@ -2381,6 +2411,7 @@
 \xn 我给了他哈达
 \xv sprɯskɯ kɯ a-khɤdaʁ tha-lɤt
 \xn 活佛给了我哈达
+\et kʰa.btags
 \dt 01/Aug/2013
 
 \lx khɤfɕɤt
@@ -2389,6 +2420,7 @@
 \gn 祈祷 
 \xv ʑɯβdaʁ ɯ-ɕki khɤfɕɤt tɤ-βzu-t-a
 \xn 我向山神祈祷了
+\et kʰa.bɕad
 \dt 05/May/2014
 
 \lx khɤjlɤn
@@ -2399,24 +2431,31 @@
 \xv kɤ-qur khɤjlɤn tɤ-nɯβzu-t-a ɕti
 \xn 我答应帮他，我发誓要帮他
 \cf nɯkhɤjlɤn
+\et kʰas.len
 \dt 27/Jan/2015
 
 \lx khɤkɤcu
 \ps n
 \ge est de la maison 
 \gn 房子的东边 
+\cf kha
+\cf ɯ-kɤcu
 \hbf maison
 
 \lx khɤkɯm
 \ps n
 \ge entrée de la maison 
 \gn 门口 
+\cf kha
+\cf kɯm
 \dt 18/May/2014
 
 \lx khɤndɤcu
 \ps n
 \ge ouest de la maison 
 \gn 房子的西边 
+\cf kha
+\cf ɯ-ndɤcu
 \hbf maison
 
 \lx khɤndɯn
@@ -2433,12 +2472,14 @@
 \gn 界限、交界地方 
 \xv tɯ-kɤrme ɯ-khɤntshɤm 
 \xn 开始长头发的地方
+\et kʰa.mtsʰams
 \dt 30/May/2013
 
 \lx khɤɴqra
 \ps n
 \ge maison en ruine
 \gn 烂房子
+\cf kha
 \cf ɯ-ɴqra
 \dt 11/Nov/2014
 
@@ -2450,6 +2491,8 @@
 \hbf maison
 \xv khɤpa ri rɤʑi-a
 \xn 我在院子里
+\cf kha
+\cf ɯ-pa
 \dt 19/Oct/2012
 
 \lx khɤphrɯ
@@ -2459,14 +2502,15 @@
 \xv khɤphrɯ ma-tɤ-tɯ-lɤt
 \xn 你不要喷水
 \cf nɯkhɤphrɯ
+\et kʰa.pʰru
 \dt 22/Oct/2014
 
 \lx khɤpɯ
 \ps n
 \ge petite cabane
 \gn 小屋子
-\cf tɤ-pɯ
 \cf kha
+\cf tɤ-pɯ
 \dt 04/Oct/2014
 
 \lx khɤrma
@@ -2476,6 +2520,7 @@
 \xv a-khɤrma pa-βzu
 \xn 他咒了我
 \cf sɯkhɤrma
+\et *kʰa.rma
 \dt 25/Aug/2012
 
 \lx khɤrtsɤɣ
@@ -2483,12 +2528,16 @@
 \ge étage 
 \gn 楼房 
 \hbf maison 
+\cf kha
+\cf tɤrtsɤɣ
 \xn
 
 \lx khɤʁɤri
 \ps n
 \ge devant la maison 
 \gn 房子的前面 
+\cf kha
+\cf ɯ-ʁɤri
 \hbf maison
 
 \lx khɤsnɯm
@@ -2498,18 +2547,23 @@
 \xv tɤfsɤri ɯ-taʁ khɤsnɯm thɯ-lat-a
 \xn 我用口水把麻绳弄湿
 \cf nɯkhɤsnɯm
+\et *kʰa.snum
 \dt 06/May/2014
 
 \lx khɤsta
 \ps n
 \ge fondations
 \gn 房基（准备修房子的地方；把房子拆下来了以后，有过房子的地方）
+\cf kha
+\cf tɯ-sta
 \dt 22/Aug/2011
 
 \lx khɤtaʁ
 \ps n
 \ge deuxième étage, au-dessus de la cuisine 
 \gn 藏式房屋的第二楼 
+\cf kha
+\cf taʁ
 \hbf maison
 
 \lx khɤtɤcu
@@ -2528,12 +2582,15 @@
 \ps n
 \ge dans le village
 \gn 村子里、房子之间
+\cf kha
+\cf thɤβ
 \dt 13/May/2014
 
 \lx khɤtsa
 \ps n
 \ge saleté entre les dents 
 \gn 牙垢
+\et kʰa.tsa
 
 \lx khɤtshoʁ
 \ps n
@@ -2547,7 +2604,7 @@
 \gn 房背上的栏杆 
 \hbf maison 
 \xv khɤxtɤndo laχtsɯ kú-wɣ-lɤt tɕe rorʁe ʁnɯ-ldʑa ntsɯ kú-wɣ-saχɕɯβ tɕe ɯ-rchɤβ nɯtɕu tɤ-rɤm kú-wɣ-sɤʑɯrja tɕe khɤxtu kú-wɣ-sɤɣur tɕe nɯ tɤ-rɤm nɯ khɤxtɤndorɤm rmi 
-\xn 在房背的边缘排几根小柱头，穿上成双的横杆，在中间插上一排木版，把房背拦住，这种木版叫{khɤxtɤndorɤm }
+\xn 在房背的边缘排几根小柱头，穿上成双的横杆，在中间插上一排木板，把房背拦住，这种木板叫{khɤxtɤndorɤm }
 \dt 18/May/2014
 
 \lx khɤzɟi
@@ -2584,7 +2641,6 @@
 \ge une espèce de chien 
 \gn 哈巴狗 
 \hbf animal 
-\et kʰʲi
 \dt 20/May/2013
 
 \lx kho²
@@ -2599,6 +2655,7 @@
 \ps n
 \ge ancêtre 
 \gn 祖宗 
+\et kʰaŋ.bdag
 \hbf famille
 
 \lx khoŋrɤl
@@ -2608,6 +2665,7 @@
 \xv si khoŋrɤl tɤ-kɯ-ɤri
 \xn 空心树
 \dv si ɯ-ŋgɯ tɤ-kɯ-so nɯnɯ tɕe khoŋrɤl tɤ-kɯ-ɤri tu-kɯ-ti ɕti
+\et kʰoŋ.ral
 \dt 12/Jul/2013
 
 \lx khorca
@@ -2625,6 +2683,7 @@
 \ps n
 \ge chien au pelage bariolé
 \gn 身上有花斑的狗
+\et *kʰra.lʷa
 \dt 17/Jul/2013
 
 \lx khramba
@@ -2647,13 +2706,14 @@
 \ge épouse 
 \gn 妻子 
 \hbf famille 
-\et kʰral
+\et *kʰrel.mo
 \dt 24/Jun/2014
 
 \lx khrɤlpa
 \ps n
 \ge époux 
 \gn 丈夫 
+\et *kʰrel.pa
 \hbf famille
 
 \lx khri
@@ -2679,7 +2739,7 @@
 \ge dix mille 
 \gn 10000 
 \hbf 827 
-\et kʰri
+\et kʰri.tsho
 \dt 23/Sep/2014
 
 \lx khrɯtsusqi
@@ -2687,7 +2747,7 @@
 \ge cent mille 
 \gn 100000 
 \hbf 828 
-\et kʰri
+\cf khrɯtsu
 \dt 05/May/2014
 
 \lx khrɯtsɯr
@@ -2706,6 +2766,7 @@
 \ps n
 \ge année du tigre 
 \gn 虎年 
+\cf khu
 \hbf 757
 
 \lx khɯ²
@@ -2719,6 +2780,7 @@
 \ge vieux chien
 \gn 老狗
 \cf khɯna
+\cf ɯ-do
 \dt 06/May/2014
 
 \lx khɯɣ
@@ -2742,15 +2804,16 @@
 \lx khɯnajme
 \ps n
 \ge une plante 
-\gn 植物的一种 
+\gn 狗尾巴草 
 \hbf plante 
 \xv khɯna-jme nɯ sɯjno mɤ-mbro, ɯ-jwaʁ nɯ xsɤrɯ ɯ-jwaʁ fse ri xtɯt, tɯ-ji rkɯ aʁɤndɯndɤt tu-ɬoʁ ɕti. ɯ-mat kɯ-ɕnom fse, ɯ-rme ɯ-tshɯɣa nɯ ra xsɤrɯ ɯ-mat fse, xsɤrɯ ɣɯ ɯ-mat pjɯ-ŋgɤɣ ŋu, khɯna-jme ɯ-mat nɯ tu-ndzur kɯ-fse ɕti ma pjɯ-ŋgɤɣ mɤ-cha, pakuku tu-ɬoʁ cha. ɯ-kɯ-ɕnom khɯna-jme fse. 
-\xn khɯna-jme是一种小草，叶子象xsɤrɯ的叶子但比较短。在地边到处生长。果实象麦穗，穗上的毛象xsɤrɯ的果实一样。xsɤrɯ的果实往下弯，而khɯna-jme的果实是立着的，不弯。年年生长。穗象狗的尾巴一样。
+\xn khɯna-jme是一种小草，叶子象xsɤrɯ的叶子，但短一些。在地边随处生长。果实象麦穗，穗上的毛象xsɤrɯ的果实一样。xsɤrɯ的果实往下弯，而khɯna-jme的果实是立着的，不弯。年年生长。穗象狗的尾巴一样。
 
 \lx khɯnalu
 \ps n
 \ge année du chien 
 \gn 狗年 
+\cf khɯna
 \hbf 765
 
 \lx khɯndʐi
@@ -2781,7 +2844,7 @@
 \gn 一种草 
 \hbf plante 
 \xv khɯrtshɤz nɯ sɯjno ci ŋu, tu-mbro mɤ-cha, ɯ-ru kɯ-ɣɯrni ŋu, ɯ-jwaʁ kɤ-rŋi ŋu, ɯ-mɯntoʁ kɯ-ɣɯrni ŋu, tɤ-rɤko rca kɤ-ɬoʁ rga, paʁ kɤ-mbi sna 
-\xn {khɯrtshɤs}是一种植物，长得不高，茎红色，叶子绿色，花红色，一般在庄稼地里生长，可以喂猪。
+\xn {khɯrtshɤz}是一种植物，长得不高，茎红色，叶子绿色，花红色，一般生长在庄稼地里，可以喂猪。
 \dt 30/May/2013
 
 \lx khɯwɯsi
@@ -2916,7 +2979,7 @@
 \ge soie 
 \gn 丝绸 
 \hbf 463 
-\et gos.tɕʰen
+\et gos.tɕʰen.ras
 
 \lx koʑi
 \ps n
@@ -2933,8 +2996,9 @@
 \gn 婴儿的肠病 
 \hbf maladie 
 \xv krɤlma nɤrŋi ɯ-ŋgo ŋu, ɲɯ-nɯtɯfɕɤl tɕe ɯ-qe kɯ-qarŋe ŋu, karɣi ɯ-mɯntoʁ fse 
-\xn krɤlma是婴儿的病，他拉肚子时大便是黄色的，象菜子的花。
+\xn krɤlma是婴儿的病，他拉肚子时大便是黄色的，像是菜子花。
 \cf nɯkrɤlma
+\et grol.ma
 \dt 27/Aug/2012
 
 \lx kroŋwa
@@ -2957,7 +3021,7 @@
 \gn 一种蘑菇 
 \hbf champignon 
 \xv kuɣrummɤɣ nɯ ɕkrɤz kɯ-xtɕi ŋgɯ tu-ɬoʁ ŋu, ku-ɣrum ʁɟa ʑo ŋu, kɤ-ndza wuma ʑo mɯm. ftɕar tɕe tu-ɬoʁ ŋu. 
-\xn kuɣrummɤɣ长在比较矮小的青冈树林里，全是白色的，很好吃，一般在夏天生长。 
+\xn kuɣrummɤɣ长在比较矮小的青冈树林里，均呈白色。很好吃，一般在夏天生长。 
 \nqr
 \dt 29/Nov/2011
 
@@ -2984,30 +3048,36 @@
 \ps n
 \ge année du coq 
 \gn 鸡年 
+\cf kumpɣa
 \hbf 764
 
 \lx kumpɣamu
 \ps n
 \ge poule 
 \gn 母鸡 
+\cf kumpɣa
 \hbf oiseau
 
 \lx kumpɣaphu
 \ps n
 \ge coq 
 \gn 公鸡 
+\cf kumpɣa
 \hbf oiseau
 
 \lx kumpɣapɯ
 \ps n
 \ge poussin 
 \gn 小鸡 
+\cf kumpɣa
 \hbf oiseau
 
 \lx kumpɣasta
 \ps n
 \ge poulailler 
 \gn 鸡圈 
+\cf kumpɣa
+\cf tɯ-sta¹
 \hbf maison
 
 \lx kumpɣɤŋgɯm
@@ -3028,7 +3098,7 @@
 \gn 汉人 
 \hbf 165 
 \xv kupa skɤt kɤ-βzu a-pɯ-nɯ-me ɲɯ-sɯsam-a 
-\xn 我不想讲中文
+\xn 我不想说汉语
 
 \lx kupajmɤɣ
 \ps n
@@ -3058,6 +3128,7 @@
 \ps n
 \ge gypaète barbu 
 \gn 胡兀鹫 
+\et ko.bo
 \hbf oiseau
 
 \lx kɯ
@@ -6108,7 +6179,7 @@
 \hbf animal
 \dt 12/May/2013
 
-\lx qajɯsmɤnba 
+\lx qajɯsmɤnba
 \ps n
 \ge sangsue
 \gn 水蛭
