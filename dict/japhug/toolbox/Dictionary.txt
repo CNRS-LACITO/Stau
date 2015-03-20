@@ -1629,7 +1629,7 @@
 \lx fsjɤnɤfsjɤt
 \ps idph.3
 \ge qui marche sans efforts
-\gn 走路很轻松的样子（形容七八岁的小孩子）
+\gn 形容七八岁的小孩子走路很轻松的样子
 \xv tɤpɤtso fsjɤnɤfsjɤt ʑo lɤ-ari
 \xn 小孩子很轻松地进去了
 \dt 15/May/2014
@@ -1637,7 +1637,7 @@
 \lx fsjitnɤfsjat
 \ps idph.3
 \ge sifflement 
-\gn 吹口哨的声音 
+\gn 吹口哨的声音
 \xv fsapaʁ ra nɯ-qhu tɕe fsjitnɤfsjat ʑo ɲɯ-ti tɕe ja-no
 \xn 他在牛后面“嗖—嗖”地吹口哨赶牛
 \dt 15/May/2014
@@ -1680,7 +1680,7 @@
 \lx ftɕhoʁftɕhoʁ
 \ps idph.2
 \ge petit et dressé 
-\gn 小的物体立起来的样子（如耳朵）
+\gn 形容小的物体（如耳朵）立起来的样子
 \xv qala ɯ-rna ftɕhoʁftɕhoʁ ʑo ɲɯ-pa
 \xn 兔子的耳朵是翘起来的
 \dv kɯ-xtɕɯ-xtɕi ʑo, kɯ-nɤrko tɕe tu-kɯ-nɯndzɯ kɯ-fse
@@ -1732,7 +1732,7 @@
 \wav8 wxti_gaNgaN
 \ps idph.2
 \ge haut et imposant
-\gn 高而大的样子
+\gn 形容高而大的样子
 \xv ɯ-phoŋbu wxti gaŋgaŋ ʑo pa
 \xn 他的身体又高又大
 \dt 07/Dec/2013
@@ -1749,7 +1749,7 @@
 \lx gɯgɯɣ
 \ps idph.2
 \ge ciel très noir 
-\gn 天色很黑的样子
+\gn 形容天色很黑的样子
 
 \lx ɣɤjɯz
 \ps n
@@ -1787,7 +1787,7 @@
 \lx ɣdɤɣdɤt
 \ps idph.2
 \ge court et grassouillet
-\gn 胖而短的样子（看起来很可爱）
+\gn 形容胖而短，看起来很可爱的样子
 \xv tɤpɤtso ɲɯ-tshu, ɯ-mɤlɤjaʁ ra ɣdɤɣdɤt ʑo ɲɯ-pa
 \xn 小孩子胖胖的，手脚又粗又短
 \dt 08/Aug/2012
@@ -1857,7 +1857,7 @@
 \lx ɦwɤrɦwɤr
 \ps idph.2
 \ge évasé
-\gn 口朝外展开
+\gn 形容口朝外展开的样子
 \dv ɯ-mŋu ɲɯ-kɯ-nɤwɤt kɯ-fse
 \dt 16/Oct/2014
 
@@ -2059,7 +2059,7 @@
 \lx jmɤjmɤr
 \ps idph.2
 \ge doux
-\gn 柔软
+\gn 形容柔软的样子
 \dt 13/Nov/2013
 
 \lx jmɤtɤsti
@@ -2112,7 +2112,7 @@
 \wav8 jwajwa-def
 \ps idph.2
 \ge très fin
-\gn 很薄
+\gn 形容薄的样子
 \dv khɯtsa ra ɯ-mŋu kɯ-jom kɯ-mba kɯ-fse nɯ jwajwa ɲɯ-pa tu-kɯ-ti khɯ
 \dt 16/May/2013
 
@@ -2125,7 +2125,7 @@
 \lx ɟrɯɣɟrɯɣ
 \ps idph.2
 \ge gargouillant
-\gn 咕噜咕噜
+\gn 咕噜咕噜的声音
 \cf ɣɤɟɯɟrɯɣ
 \dt 08/Oct/2014
 
@@ -2646,9 +2646,9 @@
 \lx khiɤɣ
 \ps idph.1
 \ge bruit de glissement 
-\gn 滑下来的声音 
+\gn 滑动的声音 
 \xv khiɤɣ ʑo thɯ-ŋgio-a
-\xn 我嚓一声就滑倒了
+\xn 我嗞溜一声就滑倒了
 \dt 05/May/2014
 
 \lx khiɤt
@@ -2657,7 +2657,7 @@
 \gn 滑下来的声音 
 \hbf *koŋzoŋ.146 
 \xv khiɤt ʑo ɲɯ-ti tɕe pɯ-ndʐaβ-a 
-\xn 我嚓一声就摔倒了
+\xn 我嗞溜一声就摔倒了
 \dt 05/May/2014
 
 \lx khikhjo
@@ -2892,14 +2892,14 @@
 \lx klɯɣklɯɣ
 \ps idph.2
 \ge dur et rond
-\gn 又圆又硬
+\gn 形容圆而硬的样子
 \sy tslɯɣtslɯɣ
 \dt 10/May/2014
 
 \lx klɯnklɯn
 \ps idph.2
 \ge très serré 
-\gn 紧（裹起来）
+\gn 形容紧紧包裹的样子
 \xv tɯrtɯthɯ nɯ klɯnklɯn ʑo chɤ-mphɯr
 \xn 他把麻布裹得很紧
 \dt 17/May/2014
@@ -3830,9 +3830,9 @@
 \wav ideo-ldWG-b
 \ps idph.2
 \ge ciel sombre, rempli de nuages
-\gn 云密密麻麻
+\gn 形容浓云密布的样子
 \xv tɯmɯ ldɯɣldɯɣ ʑo ɲɯ-pa
-\xn 天上云密密麻麻
+\xn 天上的云密密麻麻的
 \xv tɤ-lu tʂha ldɯɣldɯɣ ɲɯ-pa
 \xn 奶茶好喝
 \xv jisŋi ɲɯ-lɯβ ldɯɣldɯɣ ʑo 
@@ -3843,9 +3843,9 @@
 \lx ldʐɤβldʐɤβ
 \ps idph.2
 \ge en désordre (fils pendus)
-\gn 凌乱、东连西连、乱成一团（挂着的线、布条）
+\gn 形容挂着的线、布条等凌乱的样子
 \xv ɯ-ŋga chɤ-ɴɢraʁ ldʐɤβldʐɤβ ʑo ri, ɲɤnɯsɯ-ŋga
-\xn 他的衣服到处烂了，他还是穿着
+\xn 他的衣服破破烂烂的，他还是穿着
 \dt 18/Aug/2012
 
 \lx ldʑaŋkɯ
@@ -3867,7 +3867,7 @@
 \lx ldʑɯŋldʑɯŋ
 \ps idph.2
 \ge bleu (ciel) 
-\gn 蓝（天） 
+\gn 形容天的蓝色
 \et ldʑaŋ
 \xv tɯmɯ ɲɯ-ɤrŋi ldʑɯŋldʑɯŋ ʑo 
 \xn 天空蓝蓝的样子
@@ -3893,7 +3893,7 @@
 \wav8 ljAGljAG
 \ps idph.2
 \ge épais et long
-\gn 又粗又长，看起来是蓬松的，但是摸起来有点硬
+\gn 形容粗而长，看上去蓬松，但摸起来有些硬的样子
 \xv paʁ chɤ-tshu ljɤɣljɤɣ ʑo
 \xn 猪变得又胖又长
 \dt 30/Nov/2013
@@ -3912,7 +3912,7 @@
 \lx lŋaʁlŋaʁ
 \ps idph.2
 \ge petit et mince
-\gn 又瘦又小，令人讨厌
+\gn 形容瘦而小，令人讨厌的样子
 \xv paʁtsa nɯ ɲɯ-ndɯβ-nɯ ʑo lŋaʁlŋaʁ ɕti
 \xn 猪崽子又小又瘦，令人讨厌
 \se lŋaʁnɤlŋaʁ
@@ -3981,7 +3981,7 @@
 \lx lqɤnɤlqɤt
 \ps idph.2
 \ge lentement, en titubant
-\gn 慢慢地、摇摇晃晃地
+\gn 形容走路慢而摇晃的样子
 \xv tɤpɤtso nɯ lqɤnɤlqɤt tu-ŋke ɲɯ-cha
 \xn 小孩子能摇摇晃晃地走路
 \cf sɤlqɤlqɤt
@@ -3996,7 +3996,7 @@
 \lx ltɕhaŋltɕhaŋ
 \ps idph.2
 \ge long et pendant
-\gn 吊着，很长
+\gn 形容长的物体悬吊着的样子
 \xv mbro ɯ-jme ltɕhaŋltɕhaŋ ʑo pa
 \xn 马的尾巴吊着很长
 \dt 08/May/2014
@@ -4005,7 +4005,7 @@
 \wav vt-sAltChAltChAt
 \ps idph.2
 \ge être suspendu (épis de céréales, touffe de fils etc...) 
-\gn 一簇絮状的东西，穗子吊着的样子 
+\gn 形容一簇絮状的东西，穗子吊着的样子 
 \hbf *koŋzoŋ.115
 \se sɤltɕhɤltɕhɤt
 \ps vt
@@ -4023,7 +4023,7 @@
 \wav8 ltshAnAltshAt
 \ps idph.2
 \ge petit et faible
-\gn 又瘦又小、竖立着
+\gn 形容瘦而小的东西竖立着的样子
 \se ltshɤnɤltshɤt
 \xv tɤpɤtso ltshɤnɤltshɤt ʑo ɲɯ-ŋke
 \xn 小孩子走路显得又小又弱
@@ -4103,9 +4103,9 @@
 \lx lwɯlwɯɣ
 \ps idph.2
 \ge ébouriffé
-\gn 乱蓬蓬
+\gn 形容凌乱而蓬松的样子
 \xv tɤtɕɯ nɯ ɯ-kɤrme lwɯlwɯɣ ʑo ɲɯ-pa tɕe pjɯ́-wɣ-qrɤz ɲɯ-ra
-\xn 那个男孩子的头发又长又乱、乱蓬蓬的，要把它剃掉
+\xn 那个男孩子的头发又长又乱、乱蓬蓬的，非得把它剃掉不可
 \dt 28/Aug/2012
 
 \lx ɬa
@@ -4173,7 +4173,7 @@
 \wav ideo-LWG-c
 \ps idph.3
 \ge qui bouge 
-\gn 在动（因为在呼吸）
+\gn 形容动物因为呼吸而发生的运动的样子
 \xv paʁ mɯ-pjɤ-si ma ɯ-xtu ɬɯɣnɤɬɯɣ ʑo ɲɯ-pa
 \xn 猪没有死，它肚子还在动（表示它在呼吸）
 \dt 28/Aug/2012
@@ -4287,7 +4287,7 @@
 \lx mɤlmɤl
 \ps idph.2
 \ge très meuble (terre) 
-\gn 很松软的样子(土地）
+\gn 形容土地松软的样子
 \hbf *sqar.9 
 \xv tɯji mɤlmɤl ʑo cho-sthɯt-nɯ
 \xn 他们下种完了，田地很松软
@@ -4697,7 +4697,7 @@
 \wav8 moRmoR
 \ps idph.2
 \ge très fine (poudre)
-\gn 非常细（粉）；软、看起来很肥沃（土）
+\gn 形容粉末极细，或者土壤软而看过来肥沃的样子
 \xv sɯβɣi ɲɯ-ndɯβ moʁmoʁ ʑo
 \xn 木屑是细的
 \xv βɣa kɯ tɯ-ɣndʑɤr kɯ-ndɯβ ʑo moʁmoʁ chɤ-tɕɤt (chɤ-ɣɤndɯβ ʑo moʁmoʁ)
@@ -4707,7 +4707,7 @@
 \lx mpɤβmpɤβ
 \ps idph.2
 \ge épais et mou
-\gn 又厚又软（泡沫、蘑菇）
+\gn 形容泡沫或蘑菇厚而软的样子
 \sy mphɤβmphɤβ
 \dt 11/May/2014
 
@@ -4721,7 +4721,7 @@
 \lx mphɤβmphɤβ
 \ps idph.2
 \ge épais et mou
-\gn 又厚又软（泡沫、蘑菇）
+\gn 形容泡沫或蘑菇厚而软的样子
 \sy mpɤβmpɤβ
 \dt 11/May/2014
 
@@ -4729,7 +4729,7 @@
 \wav8 mphGaRmphGaR
 \ps idph.2
 \ge très serré
-\gn 很紧
+\gn 形容紧的样子
 \xv ɯ-mthɤɣ mphɣaʁmphɣaʁ ʑo ko-xtɕɤr
 \xn 他把腰带系得很紧
 \dt 10/Oct/2014
@@ -4982,7 +4982,7 @@
 \lx mɯrnɤmɯr
 \ps idph.2
 \ge bouchée après bouchée
-\gn 一口接着一口
+\gn 形容吃东西一口接着一口的样子
 \xv rtɕhɯʁjɯ nɯ kɯ tɯrtɕhi ɯ-jwaʁ mɯrnɤmɯr tu-ndze ŋu
 \xn 毛虫把酸酸草的叶子一口接着一口地吃得很快
 \dt 25/Nov/2014
@@ -5073,7 +5073,7 @@
 \wav8 ndGAnGAt_Zo_pjAta
 \ps idph.2
 \ge (bois) entassé, très haut
-\gn （柴）堆得很高
+\gn 形容柴堆得很高的样子
 \xv sɯpɣo ndɣɤndɣɤt ʑo pjɤ-ta
 \xn 柴垛子堆得很高
 \cf ɣɤndɣɤndɣɤt
@@ -5102,7 +5102,7 @@
 \lx ndzɤrndzɤr
 \ps idph.2
 \ge seul
-\gn 单独
+\gn 形容独自一人的样子
 \xv tɯrme tɯ-rdoʁ ndzɤrndzɤr
 \xn 单独一个人
 \dt 03/Jan/2015
@@ -5166,7 +5166,7 @@
 \lx ndʑɣɤrndʑɣɤr
 \ps idph.2
 \ge long (à propos des dents)
-\gn 长（牙齿）
+\gn 形容牙齿长
 \xv ɯ-ɕɣa ɯ-tɯ-zri kɯ ndʑɣɤrndʑɣɤr ʑo ɲɯ-pa 
 \xn 他的牙齿很长
 \dt 24/Aug/2012
@@ -5217,7 +5217,7 @@
 \wav8 ntoRntoR
 \ps idph.2
 \ge petit, rond et dur
-\gn 又小又圆又硬
+\gn 形容小、圆而硬的样子
 \xv mɯntoʁ ɯ-tɯ-mpɕɤr kɯ ntoʁntoʁ ʑo ɲɯ-pa
 \xn 花又小又圆又漂亮
 
@@ -5345,7 +5345,7 @@
 \lx ɲchaʁɲchaʁ
 \ps idph.2
 \ge un peu froid
-\gn 有点冷
+\gn 形容些微的寒冷
 \xv jɯxɕo tɯmɯ ko-lɤt tɕe, ɯ-pɕi ɲɯ-mɯɕtaʁ ɲchaʁɲchaʁ
 \xn 今天早上下了雨，外面有点冷
 \dt 26/Apr/2014
@@ -5354,7 +5354,7 @@
 \wav8 YchAYchAr
 \ps idph.2
 \ge dilué
-\gn 稀
+\gn 形容流体稀
 \xv a-rɟɤɣi ɯ-ci pjɤ-dɤn tɕe ɲɯ-ŋgri ʑo ɲchɤɲchɤr, tɕe kɤ-rɤlɤj mɯ́j-khɯ
 \xn 糌粑里的水分太多，太稀了，没有办法挼
 \dt 11/May/2014
@@ -5391,7 +5391,7 @@
 \lx ŋɤnŋɤt
 \ps idph.2
 \ge la tête vers le bas
-\gn 低着头
+\gn 形容低头的样子
 \xv pjɤ-nɯʑɯβ tɕe ɯ-ku ŋɤnŋɤt ʑo pjɤ-phɤβ
 \xn 他低着头睡着了
 \an ŋɤrŋɤr
@@ -5417,7 +5417,7 @@
 \lx ŋɤrŋɤr
 \ps idph.2
 \ge qui tend le cou
-\gn 伸脖子的样子
+\gn 形容伸脖子的样子
 \xv ɯ-ku ŋɤrŋɤr ʑo to-joʁ
 \xn 他伸了脖子（看）
 \xv ɯ-ku ŋɤrŋɤr ʑo chɤ-tɕɤt
@@ -5460,7 +5460,7 @@
 \a ŋgringri
 \ps idph.2
 \ge long et dur, qui ne casse pas facilement
-\gn 又硬又细，不容易折断
+\gn 形容硬而细，不易折断的样子
 \dt 06/May/2014
 
 \lx ŋgɯr¹
@@ -5524,7 +5524,7 @@
 \lx ɴqhɤβɴqhɤβ
 \ps idph.2
 \ge épais et dur
-\gn 厚实
+\gn 形容厚实的样子
 \xv qhɤjmbaʁ ɣɯ ɯ-jwaʁ ɴqhɤβɴqhɤβ ʑo pa
 \xn 红青椒的叶子很厚实的样子
 \sy ɴqhɯɴqhi
@@ -5533,7 +5533,7 @@
 \lx ɴqhɯɴqhi
 \ps idph.2
 \ge épais 
-\gn 厚实（叶子、菌子、脸）
+\gn 形容叶子、菌子、脸等厚实的样子
 \sy ɴqhɤβɴqhɤβ
 \dt 11/May/2014
 
@@ -6024,22 +6024,22 @@
 \wav8 plaRplaR_Zo_kosWGrum
 \ps idph.2
 \ge doux au toucher 
-\gn 摸着很光滑的样子 
+\gn 形容摸起来很光滑的样子 
 \ge tout blanc
-\gn 一片白
+\gn 形容一片纯白的样子
 \hbf *taʁrdo.22 
 \xv tɤjpa plaʁplaʁ ʑo ko-sɯwɣrum
-\xn 雪铺白了地上
+\xn 雪把大地染成了白茫茫的一片
 \xv ɕɤfɕo ndɤre, thɯ-nɯrmɤmbe-nɯ, koŋla plaʁplaʁ ʑo thɯ-pa-nɯ
-\xn 这几天它们脱毛
+\xn 这几天它们脱了毛，变得光溜溜的
 \se plaʁnɤplaʁ
 \ps idph.3
 \xv qapri kɯ ɯ-mdʑu plaʁnɤplaʁ ʑo ɲɯ-ɤsɯ-stu 
-\xn 蛇把舌头一伸一缩
+\xn 蛇把舌头一伸一缩的
 \se ɣɤplaʁplaʁ
 \ps vi
 \xv qapri ɣɯ ɯ-mdʑɯ ɲɯ-ɣɤplaʁplaʁ ʑo
-\xn 蛇把舌头一伸一缩
+\xn 蛇把舌头一伸一缩的
 \se sɤplaʁplaʁ
 \ps vt
 \xv
@@ -6047,9 +6047,9 @@
 \dt 13/Nov/2013
 
 \lx ploʁploʁ
-\ps n
+\ps idph.2
 \ge en boulle
-\gn 圆形
+\gn 形容圆形
 \cf χploχploʁ
 \cf ɕploʁɕploʁ
 \dt 17/Jan/2015
@@ -6142,7 +6142,7 @@
 \lx prɯɣprɯɣ
 \ps idph.2
 \ge bien rassasié
-\gn 饱满
+\gn 形容吃饱的样子
 \xv tɤ-fka prɯɣprɯɣ ʑo
 \xn 他很饱
 \dt 13/May/2014
@@ -6389,17 +6389,17 @@
 \lx qhinɤqhi
 \ps idph.3
 \ge gémissement de douleurs
-\gn （因为痛）不停地呻吟
+\gn 形容因为疼痛不停呻吟的样子
 \dt 15/May/2014
 
 \lx qhlɤβqhlɤβ
 \ps idph.2
 \ge moyen, pas extrême (température, lumière etc)
-\gn 中等，不极端（温度、光等等）
+\gn 形容温度、光等等中等，不极端
 \ge grisâtre
 \gn 灰扑扑的
 \xv tɯmɯ kɯ-jim tɕi ɲɯ-maʁ, kɯ-lɯβ tɕi ɲɯ-maʁ, qhlɤβqhlɤβ ʑo ɲɯ-pa
-\xn 天不晴也不阴
+\xn 天不晴也不阴，灰扑扑的
 \dt 13/May/2014
 
 \lx qhuj
@@ -6413,17 +6413,17 @@
 \lx qlɤβqlɤβ
 \ps idph.2
 \ge trouble
-\gn 睁开着（眼睛）、浑浊
+\gn 形容眼睛睁开着，或者水浑浊的样子
 \xv ɯ-mɲaʁ ɲɯ-ɲɟɯ qlɤβqlɤβ ʑo ɲɯ-pa
-\xn 他眼睛睁得很大
+\xn 他眼睛睁得大大的
 \xv jisŋi tɯmɯ qlɤβqlɤβ ʑo ɲɯ-pa
-\xn 今天不冷不热
+\xn 今天天气不冷不热的
 \xv ciβloʁ nɯ kɯ-xtɕɯ-xtɕi ɲɯ-qarndɯm qlɤβqlɤβ 
 \xn 池塘的水有点浑浊
 \se qlɤβnɤqlɤβ
 \ps idph.3
 \xv ɯ-mɲaʁ qlɤβnɤqlɤβ ɲɯ-ɤsɯ-stu
-\xn 他眼睛一眨一眨
+\xn 他眼睛一眨一眨的
 \dt 28/Aug/2012
 
 \lx qomndroŋ
@@ -6452,9 +6452,9 @@
 \lx qrɤβqrɤβ
 \ps idph.2
 \ge bariolé et disharmonieux
-\gn 很杂、不好看
+\gn 形容驳杂、不好看的样子
 \xv ɯ-muj ɯ-mdoʁ ɲɯ-ɤkhra ʑo qrɤβqrɤβ tɕe mɯ́j-mpɕɤr
-\xn 它羽毛的颜色很杂，不好看
+\xn 它的羽毛颜色东一块西一块的，不好看
 \dt 11/May/2014
 
 \lx qrɤntshom
@@ -6500,7 +6500,7 @@
 \lx qrɯnqrɯn
 \ps idph.2
 \ge dont les bandes sont très claires 
-\gn 花纹、纹路很清晰
+\gn 形容花纹、纹路清晰
 \xv kɯrtsɤɣ ɲɯ-ɤkhra qrɯnqrɯn
 \xn 豹子的花纹很清晰
 \dt 08/May/2014
@@ -6565,7 +6565,7 @@
 \wav8 raRraR
 \ps idph.2
 \ge noir comme du charbon
-\gn 黑黢黢
+\gn 形容极黑
 \xv qaʑo kɯ ɯ-pɯ kɯ-ɲaʁ raʁraʁ ʑo ɲɤ-lɤt
 \xn 绵羊下了黑黢黢的小羊羔
 \dt 24/Apr/2013
@@ -6593,7 +6593,7 @@
 \lx rbɤrbɤt
 \ps idph.2
 \ge ordonné
-\gn 排得很整理
+\gn 形容排列整齐的样子
 \xv tɯrme ra rbɤrbɤt ʑo ɲɯ-ndzur-nɯ
 \xn 人站得很整齐
 \xv khɯtsa ɲɯ-ɤʑɯrja rbɤrbɤt ʑo
@@ -6603,7 +6603,7 @@
 \lx rboʁrboʁ
 \ps idph.2
 \ge XXXXX
-\gn 很集中、不分散的样子（果子）
+\gn 形容果子等集中、不分散的样子
 \xv @putao ɣɯ ɯ-mat nɯ rboʁrboʁ kɯ-pa ʑo ko-tshoʁ
 \xn 葡萄结得又多又密
 \dt 05/May/2014
@@ -6611,7 +6611,7 @@
 \lx rbɯɣrbɯɣ
 \ps idph.2
 \ge XXXX
-\gn 很多，一个接着一个（果子）
+\gn 形容果子很多，一个接着一个
 \xv staχpɯcɤβ rbɯɣrbɯɣ ʑo chɤ-bzu
 \xn 豌豆长了很多果子
 \dt 05/May/2014
@@ -6663,9 +6663,9 @@
 \lx rcɯɣrcɯɣ
 \ps idph.2
 \ge rire tout le temps 
-\gn 笑得不停 
+\gn 形容不停地笑的样子
 \xv mɤ-tɯ-ɣɤrcɯɣrcɯɣ 
-\xn 不要嬉皮笑脸（说女孩子一起说说笑笑）
+\xn 你不要嬉皮笑脸的（女孩子一起说说笑笑时这么说）
 \dt 14/Jul/2014
 
 \lx rda
@@ -6750,11 +6750,11 @@
 \wav8 rGABrGAB2
 \ps idph.2
 \ge transparent
-\gn 显得透明、光油油的
+\gn 形容透明而光亮的样子
 \xv tɤŋgɤr rɣɤβrɣɤβ ʑo ɲɯ-pa
 \xn 猪膘显得很透明
 \xv ɯ-qom rɣɤβrɣɤβ ʑo to-stu
-\xn （小孩子）快要流眼泪的样子
+\xn （小孩子）快要眼泪哗哗的样子
 \se ɣɤrɣɤβrɣɤβ
 \ps vi
 \xv tɤŋgɤr ɲɯ-ɣɤrɣɤβrɣɤβ
@@ -6762,14 +6762,14 @@
 \se sɤrɣɤβrɣɤβ
 \ps vt
 \xv tɤpɤtso kɯ ɯ-qom ɲɯ-sɤrɣɤβrɣɤβ ʑo
-\xn 小孩子快要流眼泪的样子
+\xn 小孩子快要眼泪哗哗的样子
 \dt 15/Nov/2011
 
 \lx rɣurɣu
 \wav8 rGurGu
 \ps idph.2
 \ge semblable à une ampoule 
-\gn 像水泡的样子
+\gn 形容物体像水泡的样子
 \xv qaɕpa ɯ-ŋgɯm rɣurɣu ʑo ɲɯ-pa
 \xn 青蛙卵又圆又透明
 
@@ -6799,7 +6799,7 @@
 \lx rjoʁrjoʁ
 \ps idph.2
 \ge cylindrique 
-\gn 圆柱形
+\gn 形容圆柱形
 
 \lx rɟamar
 \ps n
@@ -6916,7 +6916,7 @@
 \lx rkhɤrkhɤt
 \ps idph.2
 \ge bruit de frappement léger
-\gn 轻轻地敲击声
+\gn 形容轻轻的敲击声
 \xv tɕheme nɯ ɯ-xtsa ɯ-qa kɯ-ɤmtɕoʁ kɯ-mbro to-ŋga tɕe tu-ŋke tɕe rkhɤnɤrkhɤt ɲɯ-ti
 \xn 那位女孩子穿着高跟鞋，走路的时候就非常敲敲声
 \dt 02/Apr/2014
@@ -6933,7 +6933,7 @@
 \lx rlaʁrlaʁ
 \ps idph.2
 \ge rond et dur
-\gn 又圆又硬
+\gn 形容圆又硬的样子
 \dt 27/Apr/2014
 
 \lx rloŋrta
@@ -6946,7 +6946,7 @@
 \lx rmɤβrmɤβ
 \ps idph.2
 \ge une couche fine
-\gn 薄薄的一层、不完全透明
+\gn 形容薄薄的层、不完全透明的样子
 \xv jisŋi zdɯm ci rmɤβrmɤβ ɣɤʑu
 \xn 今天云很薄，不完全透明
 \xv tɯ-ci ɲɤ-nɤrʑaʁ tɕe ɯ-taʁ ɯɕom kɯfse ci rmɤβrmɤβ ko-ta, tɕe kɤ-tshi mɯ-ɲɤ-sna
@@ -6983,7 +6983,7 @@
 \wav8 rNABrNAB
 \ps idph.2
 \ge haut et fin 
-\gn 又细又高
+\gn 形容细而高的样子
 \xv kumpɣa kɯ ɯ-ku rŋɤβrŋɤβ ʑo to-joʁ
 \xn 鸡把头伸得很高（东看西看）
 \se rŋɤβnɤrŋɤβ
@@ -7020,7 +7020,7 @@
 \lx rqɤnrqɤn
 \ps idph.2
 \ge doré
-\gn 带有金黄（晚霞的颜色）
+\gn 形容红中带有金黄的晚霞的颜色
 \xv prɤɲi ɲɯ-ɣɯrni ʑo rqɤnrqɤn
 \xn 晚霞是红色的
 \xv ɯ-mɲaʁ ɕɤwɤr to-βzu tɕe ɲɯ-ɣɯrni ʑo rqɤnrqɤn
@@ -7030,7 +7030,7 @@
 \lx rqhaŋrqhaŋ
 \ps idph.2
 \ge grand et mince
-\gn 又大又瘦的样子
+\gn 形容大而瘦的样子
 \xv si pjɤ-rom tɕe rqhaŋrqhaŋ ʑo ɲɯ-pa
 \xn 树干了，显得又大又瘦
 \dt 28/Aug/2012
@@ -7038,13 +7038,13 @@
 \lx rqhɤrqhɤt
 \ps idph.2
 \ge qui vient de sortir (champignon, plante)
-\gn 很新鲜、结实（菌子、草）
+\gn 形容菌子、草等新鲜、结实
 \dt 13/May/2014
 
 \lx rʁɤβrʁɤβ
 \ps idph.2
 \ge rugueux
-\gn 粗糙
+\gn 形容粗糙
 \ge XXXX
 \gn 不连贯、分散（叶子）
 \xv zdɯɬa ɣɯ ɯ-jwaʁ nɯ kú-wɣ-rtoʁ qhe mɤ-andzoʁjoʁ kɯ rʁɤβrʁɤβ ʑo pa, tɕeri ɲɯ́-wɣ-nɤmɯma tɕe mnu ma mɤ-rʁom
@@ -7054,7 +7054,7 @@
 \lx rʁɤrʁɤt
 \ps idph.2
 \ge XXXX
-\gn 抓得很紧、抱得很紧的样子
+\gn 形容抓得很紧、抱得很紧的样子
 \xv qajɯ nɯ sɯjno ɯ-ku rʁɤrʁɤt ʑo ku-ɴqoʁ ŋu
 \xn 虫子紧紧地抓住植物
 \dt 06/May/2014
@@ -7062,9 +7062,9 @@
 \lx rsoŋrsoŋ
 \ps idph.2
 \ge très poilu
-\gn 毛松松
+\gn 形容毛茸茸
 \xv ɯ-mtɕhirme rsoŋrsoŋ ʑo ɲɯ-pa
-\xn 他的胡须是毛松松的
+\xn 他的胡须是毛茸茸的
 \dt 13/May/2014
 
 \lx rtalu
@@ -7100,7 +7100,7 @@
 \wav ideo-rtCWG-b2
 \ps idph.2
 \ge qui a un problème
-\gn 有毛病，不顺眼
+\gn 形容有毛病，让人看不顺眼的样子
 \xv ki tɯrme ki rtɕɯɣrtɕɯɣ ʑo ɯ-tshɯɣa mɯ́j-βdi
 \xn 这个人样子不顺眼
 \xv ki laχtɕha ki rtɕɯɣrtɕɯɣ, sna maŋe
@@ -7123,25 +7123,25 @@
 \lx rtshartsha
 \ps idph.2
 \ge un peu rugueux
-\gn 有点粗糙
+\gn 形容略粗糙的样子
 \dt 12/May/2014
 
 \lx rtshɤrtshɤt
 \ps idph.2
 \ge fin et résistant (feuille)
-\gn 又薄又结实，不容易折破（叶子、纸）
+\gn 形容叶子、纸等薄而结实，不易折破的样子
 \dt 06/May/2014
 
 \lx rtshɯβrtshɯβ
 \ps idph.2
 \ge grossier et piquant (surface)
-\gn 粗糙
+\gn 形容平面表面粗糙的样子
 \dt 30/Apr/2014
 
 \lx rtshɯrtshi
 \ps idph.2
 \ge râpeux 
-\gn 摸着很粗糙，很刮手
+\gn 形容物体摸起来粗糙刮手的样子
 
 \lx rtsimu
 \ps n
@@ -7216,7 +7216,7 @@
 \lx ʁbɤβʁbɤβ
 \ps idph.2
 \ge épais et gros
-\gn 又厚又大
+\gn 形容厚而大的样子
 \xv jiɕqha tɯrme nɯ ɯ-rŋa ra ɲɯ-tshu ʑo ʁbɤʁbɤβ
 \xn 这个人的脸又粗又胖
 \dt 10/May/2014
@@ -7288,7 +7288,7 @@
 \lx ʁjɤʁjɤβ
 \ps idph.2
 \ge peu foncée (couleur) 
-\gn 颜色不深
+\gn 形容颜色不深
 \cf ʁjɯʁji
 \dt 17/May/2014
 
@@ -7336,7 +7336,7 @@
 \wav8 RjWRji-def
 \ps idph.2
 \ge peu foncé 
-\gn 颜色不深
+\gn 形容颜色不深
 \xv a-ʑi ci ʁjɯʁji ɲɯ-loʁ
 \xn 我有点想吐
 \dv ʁjɯʁji nɯ khro mɤ-kɯ-tʂot kɯ-fse
@@ -7347,7 +7347,7 @@
 \wav8 RJWBRJWB
 \ps idph.2
 \ge gros
-\gn 胖（全身）
+\gn 形容人全身都胖的样子
 \xv ɯ-tɯ-tshu kɯ ʁɟɯβʁɟɯβ ʑo ɲɯ-pa
 \xn 他全身都很胖
 \dt 10/Nov/2011
@@ -7356,9 +7356,9 @@
 \wav8 RJri
 \ps idph.2
 \ge gras et mou
-\gn 又胖又软
+\gn 形容胖而软的样子
 \ge humide
-\gn 湿洼洼
+\gn 形容潮湿的样子
 \cf χcɯχcri
 \dt 16/May/2014
 
@@ -7449,7 +7449,7 @@
 \wav8 RYJiTYJi
 \ps idph.2
 \ge énorme
-\gn 粗壮、高大
+\gn 形容粗壮高大的样子
 \xv ʁɲɟiʁɲɟi ʑo ɲɯ-pa
 \gn 他长的又粗壮又高大
 \se ʁɲɟinɤʁɲɟi
@@ -7599,9 +7599,9 @@
 \lx schɯɣschɯɣ
 \ps idph.2
 \ge très froid
-\gn 冷飕飕
+\gn 形容极冷
 \xv ɯ-jaʁ ɲɯ-mɯɕtaʁ schɯɣschɯɣ ʑo
-\xn 他的手是冷飕飕的
+\xn 他的手冷冰冰的
 \dt 26/Apr/2014
 
 \lx sciwa
@@ -7653,13 +7653,13 @@
 \lx sjaŋnɤsjaŋ
 \ps idph.3
 \ge dodelinant de la tête
-\gn 昂着头，头荡来荡去
+\gn 形容昂着头，头荡来荡去的样子
 \dt 09/May/2013
 
 \lx sjoŋsjoŋ
 \ps idph.2
 \ge gris
-\gn 灰扑扑、带有白色
+\gn 形容灰中带白的颜色
 \dt 05/May/2014
 
 \lx skɤlpa
@@ -7791,7 +7791,7 @@
 \wav8 sYaRsYaR
 \ps idph.2
 \ge très pointu
-\gn 很尖
+\gn 形容很尖
 \xv ɲɯ-ɤmtɕoʁ ʑo sɲaʁsɲaʁ
 \xn 非常尖
 \xv mbrɯtɕɯ ɯ-ku amtɕoʁ ʑo sɲaʁsɲaʁ
@@ -7802,20 +7802,20 @@
 \wav8 sYABnAlAB
 \ps idph.4
 \ge titubant
-\gn （走路）东摇西摆
+\gn 形容走路摇晃不稳
 \xv lo-βzi tɕe sɲɤβnɤlɤβ ʑo ɲɯ-ʑɣɤstu
-\xn 他喝醉了，走路东摇西摆
+\xn 他喝醉了，走路东摇西摆的
 \dt 29/Dec/2014
 
 \lx sɲɤɣsɲɤɣ
 \wav8 sYAGsYAG
 \ps idph.2
 \ge grand et gros (corps)
-\gn 身体又大又胖
+\gn 形容身体大而胖
 \xv tɤpɤtso cho-wxti sɲɤɣsɲɤɣ ʑo
 \xn 小孩子长大了，变得又大又胖
 \ge bête
-\gn 笨重、傻呼呼
+\gn 形容笨重或是不聪明
 \xv sɲɤɣsɲɤɣ ʑo ma-tɤ-tɯ-ʑɣɤstu
 \xn 你要做出傻乎乎的样子
 \dv tɯrme mɤ-kɯ-ɕqraʁ kɯ-fse, kú-wɣ-rtoʁ ɯ-ku kɯ-wxti kɯ-fse
@@ -7824,9 +7824,9 @@
 \lx sɲɯŋɯŋi
 \ps idph.7
 \ge s'élevant (fumée)
-\gn 寥寥升起（烟）
+\gn 形容烟升起的样子
 \xv tɤ-khɯ sɲɯŋɯŋi ʑo to-ɬoʁ
-\xn 青烟寥寥升起
+\xn 青烟袅袅升起
 \nq revoir rime
 \dt 09/Feb/2015
 
@@ -8162,7 +8162,7 @@
 \ge bruit de mucus qui sort du nez
 \gn 鼻涕突然出来的声音
 \xv ɯ-ɕnaβ sthrɯβ ʑo thɯ-nɯɬoʁ tɕe ɲɯ-sɤjloʁ
-\xn 他的鼻涕噗嗤一声就出来了，很恶心
+\xn 他的鼻涕噗的一声就出来了，很恶心
 \se sthrɯβnɤsthrɯβ
 \ps idph.3
 \se phɯsthrɯβ
@@ -8173,9 +8173,9 @@
 \lx sthɯβsthɯβ
 \ps idph.2
 \ge sur le point d'apparaître
-\gn 快要露出了
+\gn 形容东西将露未露的样子
 \xv @baobao ɯ-ŋgɯ laχtɕha sthɯβsthɯβ ʑo ɲɯ-nɯxsɯ
-\xn 在包子的东西漏出了一点一点
+\xn 包里的东西露了一点出来
 \se phɯsthɯβ
 \ps idph.7
 \ge en un instant
@@ -8356,17 +8356,17 @@
 \wav8 sWrsWr_Zo_kortWmnW
 \ps idph.2
 \ge rond
-\gn 圆形
+\gn 形容圆形
 \xv ɲɯ-ɤrtɯm sɯrsɯr ʑo
-\xn 是圆形的
+\xn 圆溜溜的
 \xv lɯlu cho khɯna kɤ-nɯ-rŋgɯ-nɯ tɕe ku-ortɯm-nɯ sɯrsɯr ʑo ŋu
 \xn 猫和狗睡觉的时候卷成一团
 \se sɯrinɤsɯri
 \ps idph.8
 \ge qui tourne vite
-\gn 旋转得很快的样子
+\gn 形容旋转得很快的样子
 \xv sɯrinɤsɯri ʑo ɲɯ-mtɕɯr
-\xn 转得很快
+\xn 转得飞快
 \sy xɯrxɯr
 \dt 13/Jan/2014
 
@@ -8399,14 +8399,14 @@
 \lx ʂmɤβʂmɤβ
 \ps idph.2
 \ge qui forme une fine couche
-\gn 薄薄的一层，不完全透明
+\gn 形容物体薄薄一层，不完全透明的样子
 \cf rmɤβrmɤβ
 \dt 28/Aug/2012
 
 \lx ʂɲɯɣnɤʂɲɯɣ
 \ps idph.3
 \ge XXXX
-\gn 一动一动、一阵一阵
+\gn 形容运动、感觉等间发的样子
 \xv a-mthɤɣ ʂɲɯɣnɤʂɲɯɣ ɲɯ-mŋɤm
 \xn 我的腰一阵一阵地痛
 \cf ɣɤʂɲɯɣlɯɣ
@@ -9823,7 +9823,7 @@
 \wav8 tChoRtChoR
 \ps idph.2
 \ge les deux oreilles dressées
-\gn 两只耳朵立起来，看起来很灵活的样子
+\gn 形容两只耳朵立起来，看起来很灵活的样子
 \xv qala ɣɯ ɯ-rna nɯ tu-z-nɯndzi tɕhoʁtɕhoʁ ʑo
 \xn 兔子把两只耳朵立起来了
 \xv sɯjno to-ɬoʁ tɕe tɕhoʁtɕhoʁ ʑo to-pa 
@@ -9840,7 +9840,7 @@
 \lx tɕhʁɯβnɤtɕhʁɯβ
 \ps idph.3
 \ge croquant
-\gn 脆（吃起来）
+\gn 形容食物脆
 \un 咀嚼的声音比{tɕʁɯznɤtɕʁɯz}大一些
 \se nɯtɕhʁɯβ
 \ps vt
@@ -9977,7 +9977,7 @@
 \lx tɕʁɯβnɤtɕʁɯβ
 \ps idph.3
 \ge croquant
-\gn 脆（吃起来）
+\gn 形容食物脆
 \un 咀嚼的声音比{tɕʁɯznɤtɕʁɯz}大一些
 \se nɯtɕʁɯβ
 \ps vt
@@ -9995,7 +9995,7 @@
 \wav8 tCRWznAtCRWz
 \ps idph.3
 \ge croquant
-\gn 脆（吃起来）
+\gn 形容食物脆
 \xv tú-wɣ-ndza tɕe tɕʁɯznɤtɕʁɯz ɲɯ-ti
 \xn 吃起来很脆
 \an zwaʁnɤzwaʁ
@@ -10511,7 +10511,7 @@
 \lx tsɯmnɤtsɯm
 \ps idph.3
 \ge scintillant
-\gn 星星点点、一闪一闪地发光
+\gn 形容星星点点的闪光
 \xv tɕheme ɯ-rte ɯ-taʁ kɯ-nɤmbju tsɯmnɤtsɯm ʑo ɲɯ-pa
 \xn 妇女的帽子一闪一闪地发光
 \se tsɯmɯtsami
@@ -10584,10 +10584,10 @@
 
 \lx tʂhɯβnɤtʂhɯβ
 \ps idph.3
-\ge bruit produitlorsque l'on se mouche le nez
+\ge bruit produit lorsque l'on se mouche le nez
 \gn 擤鼻涕的声音
 \xv tɤpɤtso kɯ ɯ-ɕna mɯ-chɯ-pɕiz tɕe, tʂhɯβnɤtʂhɯβ tu-sɯ-ti ɲɯ-ŋu
-\xn 小孩子没有擤好鼻涕就发出噗嗤噗嗤的声音
+\xn 小孩子没有擤好鼻涕就发出呼哧呼哧的声音
 \se phɯtʂhɯβ
 \ps idph.7
 \dt 26/Apr/2014
@@ -15440,7 +15440,7 @@
 \a xcuxcu
 \ps idph.2
 \ge XXXXX
-\gn 又厚又结实的样子（花）
+\gn 形容花等厚而结实的样子
 \xv ɯ-mɯntoʁ nɯ xchuxchu ʑo ɲɯ-pa
 \xn 它的花显得又厚又结实
 \xv tɤpɤtso kɯ ɯ-mtɕhi xchuxchu ʑo to-stu
@@ -15450,7 +15450,7 @@
 \lx xchɯxcho
 \ps idph.2
 \ge creux
-\gn 空心的
+\gn 形容空心的样子
 \dt 13/Nov/2013
 
 \lx xɕɤɣrum
@@ -15524,20 +15524,20 @@
 \lx xoŋnɤxoŋ
 \ps idph.2
 \ge XXXX
-\gn 发麻的感觉（花椒）
+\gn 形容吃了花椒以后麻的感觉
 \se sɤxoŋxoŋ
 \ps vt
 \ge XXX
 \gn 发麻
 \xv tɕɣom a-kɯr ɯ-ŋgɯ na-sɤxoŋxoŋ ʑo
-\xn 花椒吃在嘴里有发麻的感觉
+\xn 花椒吃在嘴里麻得很
 \cf ɣɤzɯβzɯβ
 \dt 27/Apr/2014
 
 \lx xoŋxoŋ
 \ps idph.2
 \ge blanchâtre
-\gn 灰白的
+\gn 形容灰白
 \dt 15/May/2014
 
 \lx xsar
@@ -15569,9 +15569,9 @@
 \lx xtɤβxtɤβ
 \ps idph.2
 \ge épais et court
-\gn 又粗又短
+\gn 形容粗而短的样子
 \xv tɤpɤtso ɯ-mi ɲɯ-tshu xtɤβxtɤβ ʑo
-\xn 小还自动退又粗又短
+\xn 小伙子的腿又粗又短
 \dv kɯ-jpum tsa kɯ-xtɯt tsa kɤ-ti ŋu.
 \dt 11/May/2014
 
@@ -15696,7 +15696,7 @@
 \lx xtʂoŋxtʂoŋ
 \ps idph.2
 \ge XXXX
-\gn 又饱满又软
+\gn 形容饱满而软的样子
 \xv @qiqiu nɯ qale xtʂoŋxtʂoŋ ʑo chɤ-mtshɤt
 \xn 气球吹得胀鼓鼓的
 \dt 13/May/2014
@@ -15725,9 +15725,9 @@
 \wav id-xwArnAxwAr
 \ps idph.3
 \ge qui tourne vite
-\gn 转得很快的样子
+\gn 形容转得很快的样子
 \xv xwɤrxwɤr nɤ xwɤrxwɤr ʑo ɲɯ-mtɕɯr
-\xn 转得很快
+\xn 哗哗哗地飞快旋转
 \dt 16/Oct/2014
 
 \lx χajaŋ
@@ -15749,7 +15749,7 @@
 \wav id-XaNXaN
 \ps idph.2
 \ge un peu orange
-\gn 淡橘黄色
+\gn 形容淡橘黄色
 \xv ɲɯ-qarŋe χaŋχaŋ ʑo
 \xn 是淡黄的
 \xv tɯrmɯkha tɕe, prɤɲi χaŋχaŋ ɲɤ-kɤβzu-ci
@@ -15786,7 +15786,7 @@
 \lx χɤlnɤχɤl
 \ps idph.3
 \ge marcher d'un pas assuré 
-\gn 走路很顺利的样子 
+\gn 形容走路步伐稳健的样子 
 \hbf *kɤndʑɯsqhɤj.64
 
 \lx χɤlχɤl
@@ -15796,7 +15796,7 @@
 \wav8 XAlXAl2
 \ps idph.2
 \ge relâché, guéri, rassuré
-\gn 很宽松（被捆了以后解开的感觉）、痊愈、放心
+\gn 形容捆绑以后解开的宽松感、痊愈、放心的感觉
 \ge disparaître
 \gn 消失得无影无踪（比较嘈杂的人或者动物）
 \xv χɤlχɤl chɤ-kɤrɕo-ci
@@ -15862,7 +15862,7 @@
 \wav8 XcrWXcri
 \ps idph.2
 \ge dilué, peu épais 
-\gn 稀
+\gn 形容流体稀
 \xv nɯŋa qe χcɯχcri ʑo ɲɯ-pa
 \xn 牛屎很稀
 \cf scrɯscri
@@ -15872,7 +15872,7 @@
 \lx χcɯχcri
 \ps idph.2
 \ge gras et mou
-\gn 又胖又软
+\gn 形容胖而软的样子
 \cf ʁɟɯʁɟri
 \dt 13/Mar/2013
 
@@ -15944,7 +15944,7 @@
 \wav8 def_XinAXi
 \ps idph.3
 \ge épuisé
-\gn 喘吁吁、急促
+\gn 形容气喘吁吁的样子
 \xv ɯʑo jo-rɟɯɣ pjɤ-ra tɕe, χinɤχi ʑo ɲɯ-ʑɣɤstu jɤ-azɣɯt
 \xn 因为他要跑过来，气喘吁吁地到了
 \xv ɲɤ-nɤɴqa, ɯ-fkur pjɤ-rʑi tɕe, χinɤχi ʑo jɤ-azɣɯt
@@ -15956,7 +15956,7 @@
 \lx χɲɤβχɲɤβ
 \ps idph.2
 \ge mou et humide
-\gn 软稀稀
+\gn 形容软而潮湿的样子
 \sy χɲɤχɲɤr
 \dt 11/May/2014
 
@@ -15965,9 +15965,9 @@
 \wav8 XYArXYAr2
 \ps idph.2
 \ge mou et humide
-\gn 软稀稀
+\gn 形容软而潮湿的样子
 \xv a-ʑɯβ ɲɯ-ɣi tɕe a-phoŋbu ra χɲɤχɲɤr ʑo ɲɯ-pa
-\xn 我有睡意，觉得全身都没有力气
+\xn 我睡意来了，觉得浑身软趴趴的
 \sy χɲɤβχɲɤβ
 \dt 11/May/2014
 
@@ -16002,11 +16002,11 @@
 \wav8 XploRploR2
 \ps idph.2
 \ge en boulle
-\gn 球形
+\gn 形容球形
 \xv ɯ-rte nɯ χploʁploʁ kɯ-pa ci ɲɯ-ŋu
 \xn 他的帽子是球形的
 \xv tɤjmɤɣ thamtɕɤt nɯ mɯ-tɤ-kɯ-qawɤr nɯ χploʁploʁ kɯ-pa tu-kɯ-ti ɕti
-\xn 所有菌子在开反之前就是球形的
+\xn 所有菌子在开放之前就是球形的
 \cf ploʁploʁ
 \cf ɕploʁɕploʁ
 \dt 17/Jan/2015
@@ -16239,7 +16239,7 @@
 \lx χɯχɯ
 \ps idph.2
 \ge qui a des grandes narines
-\gn 鼻孔很大的样子
+\gn 形容鼻孔很大的样子
 \xv ca kɯ ɯ-ɕna χɯχɯ ʑo to-stu
 \xn 獐子把鼻孔弄得很大
 \dt 13/May/2014
@@ -16261,9 +16261,9 @@
 \lx χwɤrχwɤr
 \ps idph.2
 \ge abîmé et déchiré
-\gn 破烂的样子
+\gn 形容破烂的样子
 \ge ouvert (sac)
-\gn 敞开、向外展开
+\gn 形容向外展开的样子
 \xv ɯ-ŋga mɯ́j-pe tɕe χwɤrχwɤr ʑo ɲɯ-pa
 \xn 我的衣服不好，是破烂的样子
 \dv thɯ-kɯ-ɴɢraʁ, mɤ-kɯ-ɤlɤɣɯ, kɯ-ɲɟɯ kɯ-fse
@@ -16294,7 +16294,7 @@
 \wav8 zejzej2
 \wav8 zejzej-def
 \ge si petit qu'on a peine à le voir
-\gn 微小到看不到
+\gn 形容小而难以看见的样子
 \xv tɕetu zgoku ri tɯrme ci zɤjzɤj ʑo ɲɯ-ndzur
 \xn 这座山上有人站着，模模糊糊地看不清楚
 \dv khro mɤ-kɯ-saχsɤl nɯ, zɤjzɤj tu-kɯ-ti ŋu
@@ -16324,10 +16324,10 @@
 \lx zbɯɣ
 \ps idph.1
 \ge bruit d'une falaise qui s'écroule 
-\gn 房间里一下子就有很闷的感觉、岩石突然倒塌的声音 
+\gn 形容房间里突然密闭昏闷的感觉，或岩石突然倒塌的声音 
 \hbf *kɯsɤr.137 
 \xv kɯm zbɯɣ ʑo ta-stu 
-\xn 他关了门，房间里一下子就有很闷的感觉
+\xn 他关了门，房间里一下子就闷了
 
 \lx zbɯwa
 \ps n
@@ -16352,7 +16352,7 @@
 \lx zdoʁzdoʁ
 \ps idph.2
 \ge petit et vif
-\gn 小巧玲珑的样子
+\gn 形容小而鲜活的样子
 \xv kumpɣɤtɕɯ nɯ zdoʁzdoʁ ʑo ɲɯ-pa
 \xn 麻雀小巧玲珑
 \cf ɣɤzdoʁloʁ
@@ -16406,7 +16406,7 @@
 \wav8 zdWzdu_def
 \ps idph.2
 \ge petie, rond et dur
-\gn 又圆又硬又小
+\gn 形容圆、硬而小的感觉
 \xv tɤ-pɤtso ɲɯ-sɤjndɤt ɯ-jaʁ ra zdɯzdu ʑo ɲɯ-pa
 \xn 小孩子很可爱，手又小又圆
 \dv kɯ-rko ri kɯ-xtɕi kɯ-fse, kɯ-ɤrtɯm kɯ-fse
@@ -16455,7 +16455,7 @@
 \lx zgoŋzgoŋ
 \ps idph.2
 \ge courbé
-\gn 弓起来的样子
+\gn 形容弓起来的样子
 \xv rgɤtpu nɯ ɯ-phoŋbu zgoŋzgoŋ ʑo ɲɯ-pa
 \xn 老年人是弓着背的
 \dt 13/May/2014
@@ -16512,7 +16512,7 @@
 \lx zɣɤrzɣɤr
 \ps idph.2
 \ge qui prend de la place mais qui n'est pas lourd 
-\gn 松软的东西（棉絮、泡沫塑料）体积很大，不重但是很占地方的样子
+\gn 形容松软的东西（棉絮、泡沫塑料等）虽然不重，但体积很大，很占地方的样子
 
 \lx zɣombu
 \ps n
@@ -16540,7 +16540,7 @@
 \lx zɟaŋzɟaŋ
 \ps idph.2
 \ge complètement rempli
-\gn 满满
+\gn 形容满
 \xv lʁa ɯ-ŋgɯ laχtɕha khro to-rku-nɯ zɟaŋzɟaŋ ʑo ɲɯpa
 \xn 他们在口袋里装了很多东西，显得很满
 \sy zɟraŋzɟraŋ
@@ -16549,7 +16549,7 @@
 \lx zɟɤɣzɟɤɣ
 \ps idph.2
 \ge court et épais
-\gn 又粗又短
+\gn 形容粗而短的样子
 \dt 13/Nov/2013
 
 \lx zɟi
@@ -16562,7 +16562,7 @@
 \lx zɟoʁzɟoʁ
 \ps idph.2
 \ge petit
-\gn 身材矮小
+\gn 形容身材矮小
 \xv tɤpɤtso nɯ zɟoʁzɟoʁ ʑo ɲɯ-pa
 \xn 那个孩子个子矮小
 \an zjɤɣzjɤɣ
@@ -16572,7 +16572,7 @@
 \lx zɟraŋzɟraŋ
 \ps idph.2
 \ge mou et enflé
-\gn 又软又鼓起
+\gn 形容软而鼓起的样子
 \xv ɯ-xtu zɟraŋzɟraŋ ʑo pa
 \xn 他肚子鼓起来，很软的样子
 \sy zɟaŋzɟaŋ
@@ -16774,7 +16774,7 @@
 \lx zɯmzɯm
 \ps idph.2
 \ge coupé très fin
-\gn 切得很细
+\gn 形容切得很细
 \xv pjɯ́-wɣ-rɤkrɯ zɯmzɯm ʑo ɲɯ-ra
 \xn 要切得很细
 \dt 26/Apr/2014
@@ -16797,7 +16797,7 @@
 \wav8 zwaRnAzwaR
 \ps idph.3
 \ge mou, pas ferme
-\gn 软绵绵
+\gn 形容物体绵软
 \xv tú-wɣ-ndza tɕe zwaʁnɤzwaʁ ɲɯ-ti
 \xn 吃起来软绵绵
 \an tɕʁɯznɤtɕʁɯz
@@ -16974,7 +16974,7 @@
 \lx ʑgɤβʑgɤβ
 \ps idph.2
 \ge grand, maigre et bossu
-\gn 又高又瘦又驼背的样子
+\gn 形容高、瘦而驼背的样子
 \sy ɕkɤɣɕkɤɣ
 \dt 30/Apr/2014
 
@@ -16989,7 +16989,7 @@
 \lx ʑɣɤrʑɣɤr
 \ps idph.2
 \ge XXXX
-\gn （一两根）凸出来，显得不整齐
+\gn 形容一束东西当中，有一两根凸出来，显得不整齐的样子
 \xv tu-ro ʑɣɤrʑɣɤr ʑo ɲɯ-ŋu
 \xn 有（一两根）凸出来
 \cf ʑɣɤʑɣɤt
@@ -17001,7 +17001,7 @@
 \lx ʑɣɤʑɣɤt
 \ps idph.2
 \ge XXXX
-\gn （一根两根）凸出来
+\gn 形容一束东西当中，有一两根凸出来，显得不整齐的样子
 \xv kuxtɕo ɯ-taʁ si nɯ ɲɯ-ro ʑɣɤʑɣɤt ʑo
 \xn 背篼里装的柴有（一根两根）凸出来
 \cf ʑɣɤrʑɣɤr
@@ -17138,7 +17138,7 @@
 \lx ʑʁɯnʑʁɯn
 \ps idph.2
 \ge haut sur ses pieds
-\gn 脚很高，细长的样子
+\gn 形容脚高而细长的样子
 \dt 10/May/2014
 
 \lx ʑu
@@ -17160,7 +17160,7 @@
 \wav8 ZWBZWB
 \ps idph.2
 \ge beaucoup de chose dressées, beaucoup de gens debout 
-\gn 很多（人、东西、动物）密密麻麻地站着 
+\gn 形容很多人、东西、动物等密密麻麻地站着的样子
 \hbf *kɯsɤr.280 
 \xv tɤ-rtsho ʑɯβʑɯβ ʑo ɲɯ-pa
 \xn 很多麦桩树立着
@@ -22804,7 +22804,7 @@
 \wav ideo-BlWG-c
 \ps idph.3
 \ge source de lumière irisée qui scintille
-\gn 虹光灯在闪光
+\gn 形容彩光闪光的样子
 \xv @jingdeng βlɯɣnɤβlɯɣ ɲɯ-ɤsɯ-stu
 \xn 警灯在闪光
 \dt 29/Sep/2011
@@ -25610,7 +25610,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge irisé 
-\gn 发光、显得谣言
+\gn 发光、显得耀眼
 \xv tɤtʂu ɲɯ-ɣɤβlɯβlɯɣ
 \xn 灯在发光
 \xv ɲɯ-nɤmbju ɲɯ-ɣɤβlɯβlɯɣ
@@ -56703,7 +56703,7 @@ da.lie 打猎
 \lx _χuχu
 \ps idph.2
 \ge qui a une petite ouverture
-\gn 洞口很小
+\gn 形容洞口很小
 \xv tɤpɤtso ɯ-mtɕhi ɲɯ-xtɕi χuχu ʑo ɲɯ-pa
 \xn 小孩子的嘴很小
 \dt 13/May/2014
@@ -58629,9 +58629,9 @@ da.lie 打猎
 \wav8 GAbAbAB
 \ps idph.2
 \ge obstiné
-\gn 固执
+\gn 形容固执的样子
 \ge épais, lourd et peu pratique, poussant en touffe (champignons) 
-\gn 笨重（东西）、菌子长在一块的样子 
+\gn 形容物体笨重、或者菌子长在一块的样子 
 \hbf champignon 
 \xv jiɕqha tɯrme nɯ, ɯ-phe ti mɤ-ti maŋe, bɤbɤβ ʑo ku-nɯ-rɤʑi ɕti
 \xn 那个人，给他说是没有用的，他什么都听不进去
@@ -58642,7 +58642,7 @@ da.lie 打猎
 \se bɤβ
 \ps idph.1
 \ge bruit d'un objet lourd qui tombe de haut
-\gn 很重的东西从高处掉下来的声音
+\gn 重物从高处掉下来的声音
 \se bɤβnɤbɤβ
 \ps idph.3
 \xv tɤjpa bɤβnɤbɤβ ʑo pa-βde
