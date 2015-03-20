@@ -275,7 +275,7 @@
 \lx bjɯbjɯɣ
 \ps idph.2
 \ge qui pend en grand nombre, mou
-\gn 多而柔软，向下垂吊的样子
+\gn 形容多而柔软，向下垂吊的样子
 \xv iʑo ji-kha ɯ-ʁɤri ʑmbri tɯ-phɯ tu tɕe, ftɕar tɕe ɯ-jwaʁ ɲɯ-dɤn, ɯ-rtaʁ ɲɯ-mpɯ ɲɯ-dɤn tɕe, bjɯbjɯɣ ʑo pjɯ-ɴqoʁ ɲɯ-ŋu
 \xn 他们家前面有一棵柳树，一到春天，树叶茂密，树枝又软又多地吊在那儿。
 \sy lbjɯlbjɯɣ
@@ -298,14 +298,14 @@
 \lx boŋboŋ
 \ps idph.2
 \ge qui a la forme d'un oeuf
-\gn 椭圆形、像鸡蛋那样圆
+\gn 形容鸡蛋的形状、椭圆形
 \dt 10/May/2014
 
 \lx brɤβbrɤβ
 \a brɤbrɤβ
 \ps idph.2
 \ge rugueux et irrégulier (pierre)
-\gn 粗糙
+\gn 形容石子等物粗糙的样子
 \xv rdɤstaʁ ɲɯ-dɤn, kɤntɕhaʁ brɤbrɤβ ʑo ɲɯ-pa
 \xn 街上小石子多，坎坷不平
 \xv stoʁ ɯ-tɯ-jndʐɤz kɯ brɤbrɤβ ʑo ɲɯ-pa
@@ -325,13 +325,13 @@
 \lx βʁuβʁu
 \ps idph.2
 \ge comme une demi-sphère creuse; tout petit
-\gn 形状像空心的半球；很小（老鼠的耳朵、小瓢子）
+\gn 形容空心的半球形（老鼠的耳朵、小瓢子等）很小的样子
 \dt 15/May/2014
 
 \lx bɯɣbɯɣ
 \ps idph.2
 \ge concentré
-\gn 密集、集中、茂盛（树木、草）
+\gn 形容草木等集中、茂盛的样子
 \xv tɯrme kɯ-nɤmɲo jo-dɤn tɕe bɯɣbɯɣ ʑo ɲɯ-pa
 \xv bɯɣbɯɣ ʑo jo-ɣi-nɯ tɕe ɲɯ-nɤmɲo-nɯ
 \xn 人四面八方赶来观看
@@ -601,7 +601,7 @@
 \lx claʁclaʁ
 \ps idph.2
 \ge brillant
-\gn 闪闪发光
+\gn 形容闪亮耀眼的样子
 \xv rgali wuma ʑo ɯ-ɲɤm ɲɯ-sna tɕe, ɲɯ-nɤmbju ʑo claʁclaʁ
 \xn 小奶牛膘满肉肥，皮毛闪闪发亮
 \dt 18/May/2014
@@ -609,7 +609,7 @@
 \lx cloʁcloʁ
 \ps idph.2
 \ge noir brillant
-\gn 黑油油、油光发亮
+\gn 形容耀眼的黑色
 \xv tɯrme ra tɤŋe ɯ-ŋgɯ ntsɯ ɲɯ-rɤma-nɯ tɕe ɲɯ-ɲaʁ-nɯ cloʁcloʁ ʑo ɲɯ-ŋu
 \xn 人们长期在太阳底下劳动，皮肤就变得黑油油的
 \xv ko-naʁri cloʁcloʁ ʑo
@@ -850,7 +850,7 @@
 \wav8 CGaRCGaR
 \ps idph.2
 \ge pointus et brillants (crocs)
-\gn 又尖又光滑（獠牙）
+\gn 形容獠牙等尖而光滑的样子
 \xv ɯ-ndzɣi ɕɣaʁɕɣaʁ ʑo pa
 \xn 它的獠牙又尖又光滑
 \dt 15/May/2014
@@ -895,7 +895,7 @@
 \lx ɕkɤɣɕkɤɣ
 \ps idph.2
 \ge grand, maigre et bossu
-\gn 又高又瘦又驼背的样子
+\gn 形容又高又瘦又驼背的样子
 \sy ʑgɤβʑgɤβ
 \dt 30/Apr/2014
 
@@ -938,7 +938,7 @@
 \lx ɕkɤrnɤɕkɤr
 \ps idph.3
 \ge en boîtant
-\gn 一跛一跛地
+\gn 形容人跛脚的样子
 \dt 01/Sep/2014
 
 \lx ɕkɤtho
@@ -967,9 +967,9 @@
 \lx ɕkliɕkli
 \ps idph.2
 \ge rond et dur
-\gn 又圆又硬（长条形）
+\gn 形容长条形的东西圆而硬的样子
 \xv ʁʑɯnɯ ra nɯ-ʁla kú-wɣ-ndo tɕe ɕkliɕkli ʑo ɲɯ-rko
-\xn 小伙子的手臂拿起来又圆又硬
+\xn 小伙子的手臂拿起来圆圆的硬硬的
 \xv tɤ-ri pɯ́-wɣ-rɤtɕaʁ tɕe tɯ-mɤpa ɲɯ-rko ɕkliɕkli ʑo
 \xn 踩在绳子的上面，感觉脚下很硬，站不稳
 \sy ɕklɯɣɕklɯɣ
@@ -989,7 +989,7 @@
 \lx ɕklɯɣɕklɯɣ
 \ps idph.2
 \ge ferme et rond
-\gn 又圆又硬（长条形）
+\gn 形容长条形的东西圆而硬的样子
 \dv a-pɯ-ŋu, tɤ-ri kɯ-fse kɯ-rkɯ-rko ʑo tɕe, tɯ-mi pjɯ́-wɣ-ta tɕe kɤ-ɣɤntaβ mɤ-kɯ-khɯ tɕe pjɯ-kɯ-lɯɣ kɯ-fse tɕe ; tɯ-jaʁ kɯnɤ kú-wɣ-ndo tɕe ɲɯ-kɯ-lɯɣ kɯ-fse tɕe koŋla kɤ-ndo mɤ-kɯ-khɯ nɯnɯ tɕe ɕklɯɣɕklɯɣ ʑo ɲɯ-pa tu-kɯ-ti
 \sy ɕkliɕkli
 \dt 11/May/2014
@@ -1008,7 +1008,7 @@
 \lx ɕkrɯɣɕkrɯɣ
 \ps idph.2
 \ge dur et rugueux
-\gn 又硬又粗糙（搓紧的线绳）
+\gn 形容搓紧的线绳硬而粗糙的样子
 \xv tɤ-fsɤri lú-wɣ-sɤsɯɣ tɕe ɕkrɯɣɕkrɯɣ ʑo pa
 \xn 把绳子搓紧的时候，就又硬又粗
 \se ɕkrɯɣnɤɕkrɯɣ
@@ -1101,7 +1101,7 @@
 \wav ideo-CNGoR
 \ps idph.2
 \ge maigre et laid
-\gn 又瘦又不好看
+\gn 形容瘦而不好看的样子
 \xv kɯ-sɤmbrɯŋgɯ ci ɕŋoʁɕŋoʁ ɲɯ-ŋu
 \xn 他又瘦又不好看，让人讨厌
 \dt 01/Feb/2013
@@ -1235,7 +1235,7 @@
 \lx ɕpɤr
 \ps idph.1
 \ge pleurer soudainement 
-\gn 突然大声地哭出来 
+\gn 突然大声哭出来的声音
 \xv tɤ-potso ɕpɤr ʑo ɲɯ-ɣɤwu 
 \xn 小孩子哇的一声就哭了
 \dt 07/Aug/2014
@@ -1243,7 +1243,7 @@
 \lx ɕpɤtnɤɕpɤt
 \ps idph.3
 \ge éloquant, sans hésitation
-\gn 滔滔不绝
+\gn 形容说话流利不中断的样子
 \xv ɕpɤɕpɤt nɤ ɕpɤɕpɤt pɯ-fɕat-a
 \xn 我讲故事讲得滔滔不绝
 \dt 11/May/2014
@@ -1264,7 +1264,7 @@
 \wav8 CphAr
 \ps idph.2
 \ge large et mou,
-\gn 又宽又柔软，向下垂
+\gn 形容宽而柔软、向下垂的样子
 \xv ʁloŋbutɕhi ɯ-rna nɯ ɲɯ-wxti ɕphɤrɕphɤr ʑo
 \xn 大象的耳朵又宽又大，软软地耷拉着
 \xv qhɤjmbaʁ ɯ-jwaʁ nɯ ɕphɤrɕphɤr ʑo pa
@@ -1274,7 +1274,7 @@
 \lx ɕplaɕpla
 \ps idph.2
 \ge sans poil, chauve; obstiné
-\gn 光秃无毛；固执
+\gn 形容光秃无毛的样子，或固执的样子
 \xv ɕplaɕpla ma-tɯ-ʑɣɤstu
 \xn 你不要那么固执，不听指挥
 \dv ɯ-rme kɯ-me kɯ-fse, kɯ-ɤʁɟɤle kɯ-fse; taʁdo mɤ-kɯ-tso kɯ-fse
@@ -1283,7 +1283,7 @@
 \lx ɕploʁɕploʁ
 \ps idph.2
 \ge rond et lisse
-\gn 圆而光滑
+\gn 形容圆而光滑的样子
 \xv nɤ-rte nɯ ɕploʁɕploʁ ʑo ɲɯ-pa
 \xn 你的帽子很圆，没有帽边
 \cf χploχploʁ
@@ -1298,7 +1298,7 @@
 \lx ɕqɤnɕqɤn
 \ps idph.2
 \ge rouge 
-\gn 红色、没有光
+\gn 形容红色、没有光的样子
 \xv prɤɲi nɯ ɕqɤnɕqɤn ʑo ɲɯ-ɣɯrni
 \xn 晚霞是红色的
 \dt 20/May/2014
@@ -1327,13 +1327,13 @@
 \lx ɕʁɯznɤɕʁɯz
 \ps idph.3
 \ge croquant
-\gn （吃起来发出声音）又干又脆
+\gn 形容吃东西发出声音，干而脆的样子
 \dt 08/May/2014
 
 \lx ɕtrɤβɕtrɤβ
 \ps idph.2
 \ge objet long et mou
-\gn 长而软，没有精神的样子
+\gn 形容长而软、没有精神的样子
 \xv ɯʑo lo-βzi tɕe, ɕtrɤβɕtrɤβ ʑo ɲɯ-rŋgɯ
 \xn 他喝醉了，无精打采地瘫在那里
 \dt 18/Aug/2012
@@ -1341,11 +1341,11 @@
 \lx ɕtriɕtri
 \ps idph.2
 \ge mou, long et fin
-\gn 柔软、细而长的样子
+\gn 形容柔软、细而长的样子
 \xv mɯntoʁ ɲɤ-lni ɕtriɕtri ʑo
 \xn 花晒蔫了，立不起来
 \xv ɕtriɕtri ma-tɯ-ʑɣɤstu
-\xn 你不要这么蔫不拉叽的样子
+\xn 你不要这么蔫不拉叽
 \dt 18/Aug/2012
 
 \lx ɕu
@@ -1373,7 +1373,7 @@
 \lx ɕɯɣɕɯɣ
 \ps idph.2
 \ge en silence
-\gn 安静、一点也不作声的样子
+\gn 形容安静、毫不作声的样子
 \dt 23/Feb/2014
 
 \lx ɕɯjaʁ
@@ -1475,7 +1475,7 @@
 \lx doŋdoŋ
 \ps idph.2
 \ge long et épais, cylindrique
-\gn 圆柱形物体粗而长的样子 
+\gn 形容圆柱形物体粗而长的样子 
 \xv ɕoŋtɕa ɲɯ-jpum doŋdoŋ
 \xn 木料非常粗
 \dt 28/Aug/2012
@@ -1483,7 +1483,7 @@
 \lx droŋdroŋ
 \ps idph.2
 \ge gros et sale
-\gn 粗、大而脏的样子
+\gn 形容粗、大而脏的样子
 \xv ɯ-ɕŋaβ droŋdroŋ ʑo chɤ-nɤndzɣi
 \xn 他的鼻涕一大根一大根地吊在那里，显得很脏
 \xv ɯ-phoŋbu ɲɯ-sɤjloʁ droŋdroŋ
@@ -1507,7 +1507,7 @@
 \wav8 dzoNnAdzoN
 \ps idph.2
 \ge ébouriffé
-\gn 毛蓬松、竖起来的样子
+\gn 形容毛发蓬松、竖起来的样子
 \xv ɯ-rme dzoŋdzoŋ ʑo cho-ɬoʁ
 \xn 他的毛发竖起来了
 \xv nɤ-kɤrme pɯ-sɤɕɤt ma dzoŋdzoŋ ʑo ɲɯ-pa
@@ -1517,7 +1517,7 @@
 \se dzoŋnɤdzoŋ
 \ps idph.3
 \ge sensation désagréable ressentie lorsque l'on marche avec une jambe engourdie
-\gn 脚麻木，走得很难受
+\gn 形容脚麻木，走得很难受的感觉
 \xv tu-ŋke-a tɕe a-mi dzoŋnɤdzoŋ ʑo ɲɯ-ti ma chɤ-ndʑɯrpɯt
 \xn 我走路走得很难受，因为脚麻木了
 \dt 13/Jul/2014
@@ -1525,7 +1525,7 @@
 \lx dzɯɣdzɯɣ
 \ps idph.2
 \ge fournis (poils)
-\gn 毛多而密、茂盛的样子
+\gn 形容毛多而密、茂盛的样子
 \xv ɯ-mtɕhɯrme dzɯɣdzɯɣ ʑo ɲɯ-pa
 \xn 他的胡须很茂盛
 \xv tshɤrtɯl ɯ-rme dzɯɣdzɯɣ ʑo ɲɯ-pa
@@ -1535,7 +1535,7 @@
 \lx dʐoŋdʐoŋ
 \ps idph.2
 \ge mou, long et épais
-\gn 软、粗而长的样子
+\gn 形容软、粗而长的样子
 \xv tɯ-pu dʐoŋdʐoŋ ʑo ɲɯ-pa
 \xn 肠子又软又粗又长
 \dt 16/May/2014
@@ -1543,20 +1543,20 @@
 \lx dʐɯβnɤdʐɯβ
 \ps idph.3
 \ge
-\gn 吃起来软
+\gn 形容食物吃起来软的样子
 \dt 01/Nov/2013
 
 \lx dʑaŋdʑaŋ
 \ps idph.2
 \ge long et fin
-\gn 细而长的样子
+\gn 形容细而长的样子
 \dt 09/May/2013
 
 \lx dʑɯβdʑɯβ
 \wav8 dZWBdZWB
 \ps idph.2
 \ge rugueux et pointu
-\gn 粗糙、尖而密的样子
+\gn 形容粗糙、尖而密的样子
 \xv tɯrgi ɣɯ ɯ-jwaʁ dʑɯβdʑɯβ ʑo ɲɯ-pa tɕe, ɲɯ-sɤmtsɯɣ
 \xn 杉树的针叶很尖，会刺到人
 \dt 05/May/2014
@@ -1564,7 +1564,7 @@
 \lx dʑɯpdʑɯp
 \ps idph.2
 \ge très épineux
-\gn 刺很密集
+\gn 形容植物的刺密集的样子
 \xv tɤ-mdzu dʑɯpdʑɯp ʑo ɲɯ-pa
 \xn 刺很密集，长得很茂盛
 \dt 11/May/2014
