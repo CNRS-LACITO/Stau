@@ -782,8 +782,10 @@
 
 \lx ɕɤldʐa
 \ps n
-\ge morceau de viande déchiqueté 
-\gn 撕烂了的肉块
+\ge viande sanglante
+\gn 血淋淋的肉块
+\xv ɯ-mɲaʁ ɯ-ŋgɯ ɕɤldʐa kɯ-fse ko-ɣi
+\xn 他眼睛发红（几乎看不到眼珠）
 
 \lx ɕɤmi
 \ps n
@@ -1145,13 +1147,15 @@
 \lx ɕoŋdi
 \ps adv
 \ge d'ici jusqu'à là-bas
-\gn 从这边直到那边
+\gn 从这边直到那边（西边）
 \dt 20/May/2014
 
 \lx ɕoŋkɯ
 \ps adv
 \ge d'ici jusqu'à là-bas
-\gn 从这边直到那边
+\gn 从这边直到那边（东边）
+\xv ki ɕoŋdi mbarkhom sɤtɕha ŋu, ki ɕoŋkɯ tɕɯχtsi sɤtɕha ŋu
+\xn 从这里到边就是马尔康的地区，这里到那边就是卓克基的地区
 \dt 20/May/2014
 
 \lx ɕoŋlo
@@ -1315,7 +1319,7 @@
 \ge bâton qui sert à caler la porte 
 \gn 门闩 
 \hbf maison 
-\xv ɕqhaloʁ nɯ-la-t-a 
+\xv ɕqhaloʁ nɯ-lat-a 
 \xn 我拴了门
 \dt 20/May/2013
 
@@ -4033,12 +4037,14 @@
 
 \lx lu
 \ps n
-\ge signe astrologique chinois 
+\ge signe astrologique 
 \gn 生肖 
 \hbf 767 
 \et lo
 \xv nɤʑo tɕhi lu tɯ-ŋu 
 \xn 你属什么 
+\xv a-lu na-rtsi
+\xn 他给我算了命
 \dt 29/May/2013
 
 \lx lɯɣlu
@@ -15910,6 +15916,8 @@
 \et ɕel.mig
 \pdl comitatif 
 \pdv kɤ́χɕɤlmɯlmɯɣ
+\xv χɕɤlmɯɣ tɤ-nɯ-ta-t-a (tɤ-nɯ-tshoʁ-a)
+\xn 我戴上了眼镜
 \dt 18/Mar/2014
 
 \lx χɕɤlzgoŋ
@@ -32613,8 +32621,8 @@ da.lie 打猎
 \ps vs
 \pdl dir 
 \pdv tɤ-
-\ge convenir, s’accorder 
-\gn 符合 
+\ge être complet
+\gn 齐备、齐全
 \hbf 1328 
 \et mtsʰuŋs
 \xv laχtɕha ɯ-kɯ-χtɯ jɤ-ari-a ri, kɯ-mtshoŋ ʑo ɣɤʑu
@@ -32622,16 +32630,17 @@ da.lie 打猎
 \xv @xinhua @shudian ɯ-ŋgɯ zɯ laχtɕha kɤ-χtɯ kɯ-mtshoŋ ʑo ɣɤʑu
 \xn 在新华书店里， 需要的东西全部都有
 \xv ɯ-ftɕaka ɲɯ-mtshoŋ
-\xn 他的方法是合适的
+\xn 都准备齐全
+\xv a-ftɕaka tɤ-mtshoŋ
+\xn 我什么都准备齐全了
 \se sɯmtshoŋ
 \ps vt
-\pdl dir 
+\pdl dir
 \pdv tɤ-
-\ge faire s'accorder
-\gn 使符合
+\ge préparer complètement
+\gn 准备齐全
 \xv a-laχtɕha tɤ-sɯmtshoŋ-a
 \xn 我把需要的东西都准备好了
-\dt 14/Oct/2011
 
 \lx _mtshɯβ
 \wav8 YAmtshWB
@@ -63302,7 +63311,7 @@ da.lie 打猎
 \ge éparpiller partout 
 \gn 撒得一地都是 
 \hbf *koŋzoŋ.304
-\xv phɤtɕhɯχtɤr ʑo pɯ-ta-t-a (pɯ-la-t-a)
+\xv phɤtɕhɯχtɤr ʑo pɯ-ta-t-a (pɯ-lat-a)
 \xn 我撒得一地都是了
 \dt 05/Nov/2013
 
