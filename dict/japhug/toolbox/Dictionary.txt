@@ -68149,14 +68149,14 @@ l
 \cf nɤχphe
 \dt 05/May/2012
 
-\lx ^taχpi
+\lx ^ta-χpi
 \wav n-taXpi
-\ps n
-\ge modèle 
-\gn 榜样 
+\ps np
+\ge forme, modèle 
+\gn 形状、榜样 
 \hbf 697 
 \et dpe
-\xv ɯʑo a-taχpi sna 
+\xv ɯʑo a-ta-χpi sna 
 \xn 他值得做我的榜样 
 \nqr
 \dt 27/Apr/2014
