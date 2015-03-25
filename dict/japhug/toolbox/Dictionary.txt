@@ -221,7 +221,7 @@
 
 \lx βɣɤrqo
 \ps n
-\ge XXXXX
+\ge joint entre le sac de graines et la meule
 \gn 粮食口袋和磨斗之间的接头部分
 \cf βɣa
 \cf tɯ-rqo
@@ -2634,7 +2634,7 @@
 
 \lx khɤxtɤndorɤm
 \ps n
-\ge XXXX
+\ge parapet du toit
 \gn 房背上的栏杆 
 \hbf maison 
 \xv khɤxtɤndo laχtsɯ kú-wɣ-lɤt tɕe rorʁe ʁnɯ-ldʑa ntsɯ kú-wɣ-saχɕɯβ tɕe ɯ-rchɤβ nɯtɕu tɤ-rɤm kú-wɣ-sɤʑɯrja tɕe khɤxtu kú-wɣ-sɤɣur tɕe nɯ tɤ-rɤm nɯ khɤxtɤndorɤm rmi 
@@ -2920,7 +2920,7 @@
 
 \lx kodɤt
 \ps n
-\ge XXXXX
+\ge cave
 \gn 土窖
 \dt 15/Aug/2012
 
@@ -3379,7 +3379,7 @@
 
 \lx kɯndzarmɯ
 \ps n
-\ge XXXXX
+\ge signe qu'il ne va plus pleuvoir
 \gn 不再下雨的预兆
 \cf tɯmɯ
 \cf ndzar
@@ -3968,7 +3968,7 @@
 
 \lx loʁskɤr
 \ps n
-\ge XXXX
+\ge perles insérées dans les tresses
 \gn 辫子上穿的一圈一圈的珠子
 \dt 04/May/2014
 
@@ -4496,7 +4496,7 @@
 \lx mbɯsɯt
 \ps n
 \ge rapeuse
-\gn XXXXXX
+\gn 丝丝（擦成）
 \xv lɤpɯɣ mbɯsɯt thɯ-lat-a
 \xn 我把萝卜擦成丝丝
 \dt 11/Jan/2015
@@ -4682,7 +4682,7 @@
 
 \lx mŋurɯm
 \ps n
-\ge XXXXX
+\ge ouverte d'un sac (qui peut se serrer et se desserer)
 \gn 又可以松开又可以拉紧的（口袋的）口子
 \dt 28/Aug/2012
 
@@ -6608,7 +6608,7 @@
 
 \lx rboʁrboʁ
 \ps idph.2
-\ge XXXXX
+\ge en grappe
 \gn 形容果子等集中、不分散的样子
 \xv @putao ɣɯ ɯ-mat nɯ rboʁrboʁ kɯ-pa ʑo ko-tshoʁ
 \xn 葡萄结得又多又密
@@ -6616,7 +6616,7 @@
 
 \lx rbɯɣrbɯɣ
 \ps idph.2
-\ge XXXX
+\ge l'un a la suite de l'autre, très nombreux (graines dans une cosse)
 \gn 形容果子很多，一个接着一个
 \xv staχpɯcɤβ rbɯɣrbɯɣ ʑo chɤ-bzu
 \xn 豌豆长了很多果子
@@ -7051,7 +7051,7 @@
 \ps idph.2
 \ge rugueux
 \gn 形容粗糙
-\ge XXXX
+\ge séparées, pas ramassées ensemble (feuilles)
 \gn 不连贯、分散（叶子）
 \xv zdɯɬa ɣɯ ɯ-jwaʁ nɯ kú-wɣ-rtoʁ qhe mɤ-andzoʁjoʁ kɯ rʁɤβrʁɤβ ʑo pa, tɕeri ɲɯ́-wɣ-nɤmɯma tɕe mnu ma mɤ-rʁom
 \xn 芍药花的叶子看起来不连贯、零碎，但是摸起来很光滑，不粗糙
@@ -7059,7 +7059,7 @@
 
 \lx rʁɤrʁɤt
 \ps idph.2
-\ge XXXX
+\ge tenant qqch très fort
 \gn 形容抓得很紧、抱得很紧的样子
 \xv qajɯ nɯ sɯjno ɯ-ku rʁɤrʁɤt ʑo ku-ɴqoʁ ŋu
 \xn 虫子紧紧地抓住植物
@@ -7115,7 +7115,7 @@
 
 \lx rtoʁldɤn mɯntoʁ
 \ps n
-\ge XXXXX
+\ge type de fleur
 \gn 和尚花
 \dt 04/May/2014
 
@@ -7510,12 +7510,6 @@
 \hbf *qaɕpa.141 
 \et gzugs
 
-\lx sakhar
-\ps n
-\ge XXXXX
-\gn 肥猪的圈
-\dt 03/Aug/2012
-
 \lx san
 \ps n
 \ge parapluie 
@@ -7556,7 +7550,7 @@
 
 \lx sɤrndzo
 \ps n
-\ge XXXX
+\ge baguette servant à séparer les fils (avant de tisser)
 \gn 牵杆，用来牵线的工具
 \dt 14/Aug/2012
 
@@ -7685,7 +7679,7 @@
 
 \lx skɤrlɤm
 \ps n
-\ge XXXX
+\ge chemin des moulins à prière
 \gn 转经的路
 \et bskor.lam
 \dt 29/Aug/2012
@@ -8411,7 +8405,7 @@
 
 \lx ʂɲɯɣnɤʂɲɯɣ
 \ps idph.3
-\ge XXXX
+\ge intermittent
 \gn 形容运动、感觉等间发的样子
 \xv a-mthɤɣ ʂɲɯɣnɤʂɲɯɣ ɲɯ-mŋɤm
 \xn 我的腰一阵一阵地痛
@@ -8574,7 +8568,7 @@
 
 \lx tɤɕphɤtta
 \ps n
-\ge XXXXX
+\ge type de pas d'aiguille
 \gn 小针脚的缝法（沿着补丁的边缘）
 \dt 28/Apr/2014
 
@@ -9852,7 +9846,7 @@
 \ps vt
 \pdl dir
 \pdv pɯ-
-\ge XXXX
+\ge croquer
 \gn 使劲地咀嚼（脆的食物）
 \an tɕʁɯβnɤtɕʁɯβ
 \dt 06/May/2014
@@ -9989,7 +9983,7 @@
 \ps vt
 \pdl dir
 \pdv pɯ-
-\ge XXXX
+\ge croquer
 \gn 使劲地咀嚼（脆的食物）
 \xv paχɕi tɤ-nɯtɕʁɯβ-a ʑo tɤ-ndza-t-a
 \xn 我吃了苹果，发出咀嚼的声音
@@ -10135,7 +10129,7 @@
 
 \lx thɤjbra
 \ps n
-\ge XXXX
+\ge type de herse
 \gn 簧耙
 \dt 30/Apr/2014
 
@@ -10471,8 +10465,8 @@
 
 \lx tshoʁɕaŋ
 \ps n
-\ge XXXXX
-\gn 用树枝和白马鸡的羽毛做成的装置
+\ge décoration faite avec des branches et des plumes de crossoptilon 
+\gn 用树枝和白马鸡的羽毛做成的装饰
 \dt 04/Aug/2012
 
 \lx Tshuβdɯn
@@ -10584,7 +10578,7 @@
 
 \lx tʂhɤrqhu
 \ps n
-\ge XXXXX
+\ge natte utilisée pour conserver le thé
 \gn 装茶的席子
 \dt 02/Aug/2012
 
@@ -11557,7 +11551,7 @@
 \lx tɯ-mɤtɕɤŋoʁ
 \ps np
 \ge creux du genou
-\gn 膝盖的后面部分XXX
+\gn 膝盖后面、腘
 \dt 25/Aug/2012
 
 \lx tɯmbar
@@ -13444,7 +13438,7 @@
 
 \lx tɯ-tɤndzri
 \ps cl
-\ge XXXX
+\ge une poignée
 \gn 一绞
 \xv tɯɣro tɯ-tɤndzri
 \xn 一绞青草
@@ -14027,11 +14021,11 @@
 
 \lx ɯ-cɤβ
 \ps np
-\ge gousse 
+\ge gousse, cosse
 \gn 荚果 
 \hbf plante2 
 \xv staχpɯ ɯ-cɤβ 
-\xn 豌豆
+\xn 豌豆的荚果
 \cf rɤcɤβ
 \dt 26/Apr/2014
 
@@ -14103,7 +14097,7 @@
 
 \lx ɯ-du
 \ps np
-\ge XXXX
+\ge (être tiré) au sort
 \gn 抽到了（抽签的时候）
 \xv ɯ-du to-ɣi
 \xn 他抽到了签
@@ -14256,7 +14250,7 @@
 
 \lx ɯ-kɤɲɟoʁ
 \ps np
-\ge XXXX
+\ge tissu cousu sur l'ouverture au bas des robes
 \gn 缝在衣服叉开的部分上面的布块
 \dt 08/Dec/2014
 
@@ -14309,8 +14303,8 @@
 
 \lx ɯ-ltɕi
 \ps np
-\ge XXXX
-\gn 包的须须
+\ge franges (sac)
+\gn 须须（挎包的）
 \dv phɯrkhɯɣ ɣɯ ɯ-jndɯz
 \dt 05/May/2014
 
@@ -14878,7 +14872,7 @@
 
 \lx ɯ-sku
 \ps np
-\ge XXXX
+\ge pousses de navet
 \gn 圆根的苗子
 \dt 04/May/2014
 
@@ -15445,7 +15439,7 @@
 \lx xchuxchu
 \a xcuxcu
 \ps idph.2
-\ge XXXXX
+\ge épais et résistant (pétales d'une fleur)
 \gn 形容花等厚而结实的样子
 \xv ɯ-mɯntoʁ nɯ xchuxchu ʑo ɲɯ-pa
 \xn 它的花显得又厚又结实
@@ -15521,7 +15515,7 @@
 \pdv pɯ-
 \pdl dir 
 \pdv lɤ-
-\ge XXXX
+\ge se réduire
 \gn 缩小
 \sy ɲchoʁ
 \nq +ex
@@ -15529,11 +15523,11 @@
 
 \lx xoŋnɤxoŋ
 \ps idph.2
-\ge XXXX
+\ge sensation d'engourdissement dans la bouche (après avoir mangé du xanthoxyle)
 \gn 形容吃了花椒以后麻的感觉
 \se sɤxoŋxoŋ
 \ps vt
-\ge XXX
+\ge engourdir la bouche (xanthoxyle)
 \gn 发麻
 \xv tɕɣom a-kɯr ɯ-ŋgɯ na-sɤxoŋxoŋ ʑo
 \xn 花椒吃在嘴里麻得很
@@ -15701,7 +15695,7 @@
 
 \lx xtʂoŋxtʂoŋ
 \ps idph.2
-\ge XXXX
+\ge mou et gonflé
 \gn 形容饱满而软的样子
 \xv @qiqiu nɯ qale xtʂoŋxtʂoŋ ʑo chɤ-mtshɤt
 \xn 气球吹得胀鼓鼓的
@@ -16996,7 +16990,7 @@
 
 \lx ʑɣɤrʑɣɤr
 \ps idph.2
-\ge XXXX
+\ge avoir des brins qui dépassent (dans une touffe)
 \gn 形容一束东西当中，有一两根凸出来，显得不整齐的样子
 \xv tu-ro ʑɣɤrʑɣɤr ʑo ɲɯ-ŋu
 \xn 有（一两根）凸出来
@@ -17008,7 +17002,7 @@
 
 \lx ʑɣɤʑɣɤt
 \ps idph.2
-\ge XXXX
+\ge avoir des brins qui dépassent (dans une touffe)
 \gn 形容一束东西当中，有一两根凸出来，显得不整齐的样子
 \xv kuxtɕo ɯ-taʁ si nɯ ɲɯ-ro ʑɣɤʑɣɤt ʑo
 \xn 背篼里装的柴有（一根两根）凸出来
@@ -18287,7 +18281,6 @@
 \lx _aɣɯrpaʁ
 \wav vi-AGWrpaR
 \ps vi
-\mr
 \ge s'entendre bien
 \gn 合得来
 \xv nɯni ɲɯ-ɤɣɯrpaʁ-ndʑi
@@ -23349,13 +23342,13 @@
 \ps vt
 \pdl dir
 \pdv kɤ-
-\ge XXXX
+\ge retourner vers l'intérieur (les bords d'un tissu découpé avec une paire de ciseaux)
 \gn 把（用剪刀剪过的）布料的边缘往里面折进去
 \xv tɯ-ŋga ɯ-tɕhɤz nɯ nɯ-ʁndzar-a tɕe, ɯ-rtsho nɯ kɤ-cim-a
 \xn 我把衣服的调边布剪出来，然后把边缘折进去缝起来
 \se nɯɣɯcim
 \ps vs
-\ge XXXX
+\ge facile à retourner vers l'intérieur (d'un tissu)
 \gn 容易折进去
 \xv tɯ-ŋga kɯ-mba nɯra nɯɣɯcim, kɯ-jaʁ nɯra mɤ-nɯɣɯcim
 \xn 布料薄的衣服容易折进去，布料厚的衣服就不容易折进去
@@ -28009,10 +28002,10 @@ da.lie 打猎
 \ps vi
 \se sɤsthɯsthrɯβ
 \ps vt
-\ge XXXX
+\ge se moucher le nez bruyamment
 \gn 喷鼻涕的时候发出声音
 \xv ɯ-ɕnaβ ta-sɤsthɯsthrɯβ ʑo tha-pɕiz
-\xn 他擤了鼻涕，发出了陈响的声音
+\xn 他擤了鼻涕，发出了很响的声音
 \cf sthrɯβ
 \dt 26/Apr/2014
 
@@ -28564,7 +28557,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
-\ge XXXXX
+\ge être tout petit et vif
 \gn 做出一副小巧玲珑的样子
 \xv ma-tɯ-ɣɤzdoʁloʁ 
 \xn 你不要一副小巧玲珑的样子
@@ -29400,9 +29393,9 @@ da.lie 打猎
 \xn 你可以说，我有空
 \dt 29/May/2013
 
-\lx _jɤɣɤrna
+\lx jɤɣɤrna
 \ps n
-\ge XXXXX
+\ge partie du balcon où l'on fait sécher la nourriture
 \gn 上走檐（晒粮食用的）
 \dt 03/Aug/2012
 
@@ -30125,8 +30118,9 @@ da.lie 打猎
 \ps vi
 \pdl dir
 \pdv pɯ-
-\ge XXXXX
+\ge finir (cérémonie religieuse)
 \gn 做完（宗教仪式）
+\et grol
 \xv sɲaŋne kɤ-ndo pɯ-krul-a
 \xn 我把哑巴经念完了
 \xv χpɯn ra kɤ-ɣɤrpi pjɤ-krul-nɯ
@@ -39301,7 +39295,7 @@ da.lie 打猎
 \ps vt
 \pdl
 \pdv thɯ-
-\ge XXXX
+\ge mouiller avec de la salive
 \gn 用口水弄湿
 \cf khɤsnɯm
 \dt 06/May/2014
@@ -41977,7 +41971,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
-\ge XXXX
+\ge être ourdé de, être sali
 \gn 沾上
 \xv a-ŋga ɯthoʁ pjɤ-kɤtɤr-ci tɕe to-nɯslɯɣ
 \xn 我衣服掉到地上，沾上了灰尘
@@ -41987,7 +41981,7 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv tɤ-
-\ge XXXX
+\ge salir avec
 \gn 使沾上
 \xv ɯʑo kɯ ɯ-ŋga tɤrcoʁ to-znɯslɯɣ
 \xn 他把自己衣服沾上了泥巴
@@ -44667,8 +44661,8 @@ da.lie 打猎
 \ps vt
 \pdl dir
 \pdv pɯ-
-\ge XXX
-\gn 让……断绝（坏习惯—）
+\ge faire abandonner (une mauvaise habitude) à qqun
+\gn 让……断绝（坏习惯）
 \xv a-wa ɯ-thamakha-sko kɤ-sɯprɤt mɯ-pɯ-cha-a
 \xn 我没能控制住我父亲抽烟的习惯
 \se nɤpɯprɤt
@@ -44933,10 +44927,10 @@ da.lie 打猎
 \xn 我选择我愿意做的工作
 \se nɤqɤrqɤr
 \ps vt
-\ge XXXXX
+\ge être indécis et ne pas savoir quoi choisir
 \gn 反复挑选
 \xv kɯ-tu nɯ tɤ-ndze ma kɤ-nɤqɤrqɤr ntsɯ me
-\xn 有点那个你就吃吧，不要东选西选了
+\xn 有的那个你就吃吧，不要东选西选了
 \cf sɤqɤrle
 \cf nɯndzɤqɤr
 \cf ʑɣɤqɤr
@@ -45397,7 +45391,7 @@ da.lie 打猎
 \xn 那位大娘是关心别人的
 \se ʑɣɤraχtɕɤz
 \ps vi
-\ge XXXX
+\ge bien se traiter soi-même
 \gn 优待自己
 \dt 17/May/2014
 
@@ -45510,7 +45504,7 @@ da.lie 打猎
 \ps vi
 \pdl dir
 \pdv thɯ-
-\ge XXXXX
+\ge pousser des cosses
 \gn 结荚果
 \cf ɯ-cɤβ
 \dt 26/Apr/2014
@@ -46679,7 +46673,7 @@ da.lie 打猎
 \pdv lɤ-
 \pdl dir
 \pdv tɤ-
-\ge XXXXX
+\ge pousser des bourgeons
 \gn 长蓓蕾
 \cf ɯ-tho
 \dt 27/Apr/2014
@@ -47708,7 +47702,7 @@ da.lie 打猎
 \ps vs
 \pdl dir
 \pdv pɯ-
-\ge XXXX
+\ge diminer  (de l'eau, après s'être évaporée)
 \gn 蒸发后水变少
 \xv tɯ-ci tú-wɣ-sɤla qhe pjɯ-rʁu ɕti
 \xn 烧开水的时候会蒸发
@@ -48830,11 +48824,11 @@ da.lie 打猎
 \ps vs
 \pdl dir 
 \pdv tɤ-
-\ge XXXXX
-\gn 快要抽穗
+\ge être sur le point de pousser des épis (de l'orge)
+\gn 快要抽穗（青稞）
 \xv tɤɕi to-rɯtɯwɯ
 \xn 青稞快要抽穗
-\dv tɤɕi to-wxti tɕe ʑatsa ɯkɯɕnom lɤt tɤkha tɕe, nɯnɯ tɯwɯ tsa fse tɕe, nɯ to-rɯtɯwɯ tu-kɯ-ti ŋu
+\dv tɤɕi to-wxti tɕe ʑatsa ɯ-kɯɕnom lɤt tɤkha tɕe, nɯnɯ tɯwɯ tsa fse tɕe, nɯ to-rɯtɯwɯ tu-kɯ-ti ŋu
 \dt 06/Aug/2012
 
 \lx _rɯxtɯwxti
@@ -50388,7 +50382,7 @@ da.lie 打猎
 \ps vt
 \pdl dir
 \pdv nɯ-
-\ge XXXXX
+\ge remuer (queue)
 \gn 摇（尾巴）
 \xv ɯ-jme ntsɯ ɲɤ-sɤljɤljɤt
 \xn （狗）一直摇尾巴
@@ -52660,7 +52654,7 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv pɯ-
-\ge XXXXx
+\ge rabaisser qqun
 \gn 贬低
 \xv ɯʑo kɯ aʑo pɯ́-wɣ-smat-a
 \xn 他贬低了我
@@ -53003,8 +52997,8 @@ da.lie 打猎
 \pdv tɤ-
 \ge installer 
 \gn 安装 
-\ge XXXXX
-\gn 上交
+\ge remettre entre les mains de
+\gn 上缴
 \un 把零件拼起来
 \hbf 1128 
 \et sprod
@@ -53012,13 +53006,13 @@ da.lie 打猎
 \xn 他安装了机器
 \xv ɕoŋβzu kɯ to-sprɤt
 \xn 木匠安装了
-\xv aʑo kɯmɯrkɯ pɯ-mto-t-a tɕe, ɯtaʁ ra nɯ-jaʁ tɤ-sprat-a
+\xv aʑo kɯmɯrkɯ pɯ-mto-t-a tɕe, ɯ-taʁ ra nɯ-jaʁ tɤ-sprat-a
 \xn 我看到小偷，上缴给领导了
 \se ʑɣɤsprɤt
 \ps vi
 \pdl dir 
 \pdv tɤ-
-\ge XXXXX
+\ge se livrer (à la justice)
 \gn 把自己交给上级、自首
 \xv aʑo tɤ-ʑɣɤsprat-a
 \xn 我自首了
@@ -55467,8 +55461,8 @@ da.lie 打猎
 \xn 我们装了电炉
 \se atshoʁ
 \ps vi
-\ge être attaché XXX
-\gn 安着
+\ge être attaché
+\gn 附着
 \cf ndzoʁ
 \dt 08/Aug/2012
 
