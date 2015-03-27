@@ -934,7 +934,7 @@
 \ge poireau sauvage 
 \gn 野韭菜 
 \hbf plante 
-\xv ɕkɤpja nɯ sɯŋgɯ arɤkhɯmkhɤl ma sɯŋgɯ thamtɕɤt tu maʁ, ɕkɤpja nɯ kɯ-ndɯβ ci ŋu, ɯ-jwaʁ arŋi, ɯ-ru nɯ ɯ-jwaʁ lu-ɬoʁ ɕɯŋgɯ nɯ kɤ-rɤʑɯʑrɤz ŋu, ku-ɣrum tɯ-ʑrɤs, kɯ-ɣɯrni tɯ-ʑrɤz ŋu. ɯ-jwaʁ χsɯm ɕoŋtaʁ me. ɯ-χcɤl ɯ-mɯntoʁ tu-ɬoʁ tɕe, chɯ-do ɕti. mɯntoʁ kɯ-ɣɯrni ɲɯ-lɤt ŋu. tú-wɣ-ndza tɕe wuma ʑo mɤrtsaβ tɕe ɯ-dɯχɯn tu. 
+\xv ɕkɤpja nɯ sɯŋgɯ arɤkhɯmkhɤl ma sɯŋgɯ thamtɕɤt tu maʁ, ɕkɤpja nɯ kɯ-ndɯβ ci ŋu, ɯ-jwaʁ arŋi, ɯ-ru nɯ ɯ-jwaʁ lu-ɬoʁ ɕɯŋgɯ nɯ kɤ-rɤʑɯʑrɤz ŋu, kɯ-wɣrum tɯ-ʑrɤz, kɯ-ɣɯrni tɯ-ʑrɤz ŋu. ɯ-jwaʁ χsɯm ɕoŋtaʁ me. ɯ-χcɤl ɯ-mɯntoʁ tu-ɬoʁ tɕe, chɯ-do ɕti. mɯntoʁ kɯ-ɣɯrni ɲɯ-lɤt ŋu. tú-wɣ-ndza tɕe wuma ʑo mɤrtsaβ tɕe ɯ-dɯχɯn tu. 
 \xn {ɕkɤpja}生长在某些森林中，并不是所有地方都有。{ɕkɤpja}长得小，叶呈绿色。叶子长出来之前，茎上有条纹，白一条，红一条。叶子最多只有三片。中间长花梗时，就老了。开红色花。吃起来辣，有香味。
 
 \lx ɕkɤrnɤɕkɤr
@@ -957,7 +957,7 @@
 \gn 葱 
 \hbf plante 
 \et fn:葱 
-\xv ɕkɤtshoŋ nɯ tɯ-ji ŋgɯ lu-kɤ-nɯ-ji ci ŋu, ɯ-qa nɯ ɯ-zrɤm ku-ɣrum ŋu, ɯ-ru me, ɯ-jwaʁ kɤ-lɯlju tɕe qhoʁsjɯβ ŋu, ɯ-ku tu-ɤmtɕoʁ ŋu, ɯ-dɯχɯn mɯm, tɕeri kɤ-smi tɕe ɯ-di ɲɯ-me ɕti. 
+\xv ɕkɤtshoŋ nɯ tɯ-ji ŋgɯ lu-kɤ-nɯ-ji ci ŋu, ɯ-qa nɯ ɯ-zrɤm kɯ-wɣrum ŋu, ɯ-ru me, ɯ-jwaʁ kɤ-lɯlju tɕe qhoʁsjɯβ ŋu, ɯ-ku tu-omtɕoʁ ŋu, ɯ-dɯχɯn mɯm, tɕeri kɤ-smi tɕe ɯ-di ɲɯ-me ɕti. 
 \xn {ɕkɤtshoŋ}是自己种在地里的（农作物），须根白色，没有茎，叶子圆柱形、空心。顶部尖，有香味，但煮熟后就没有香味了。
 
 \lx ɕkɤzoŋzoŋ
