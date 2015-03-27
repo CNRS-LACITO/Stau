@@ -4146,7 +4146,7 @@
 \gn 翠雀花 
 \hbf plante 
 \xv ɬɤndʐi tɤ-lɤtshaʁ nɯ si kɯ-xtɕi, ruŋgu, tɯ-ji rkɯ, xɕɤj kɯ-dɤn ɯ-rchɤβ tu-ɬoʁ ŋu, ɯ-ru cho ɯ-jwaʁ pɣi tsa arɯlɯŋkɤr, ɯ-mɯntoʁ nɯ kɤ-rŋi tɕe kɤ-ɲaʁndzɯm ʑo ŋu. ɯ-ru xtshɯm, xɕɤj sɤz kɯ-dɤn mɤ-mbro, ɯ-mɯntoʁ ɯ-tshɯɣa nɯ tɤ-lɤtshaʁ fse tɕe núɣndʐa nɯ ɬandʐi tɤ-lɤtshaʁ rmi 
-\xn 翠雀花生长在小树丛、草坪、地边、茂盛的草丛中，茎和叶子是淡蓝色的，带有一点灰色。花是深蓝色的。茎很细，比一般的草长不出多少，花的形状象滤牛奶的漏斗，所以叫做“ɬandʐi tɤ-lɤtshaʁ”（鬼的漏斗）
+\xn 翠雀花生长在小树丛、草坪、地边、茂盛的草丛中，茎和叶子是淡蓝色的，带有一点灰色。花是深蓝色的。茎很细，比一般的草长不出多少，花的形状象滤牛奶的漏斗，所以叫做{ɬandʐitɤlɤtshaʁ}（鬼的漏斗）
 \dt 08/Dec/2012
 
 \lx ɬɤndʐitɤtsoʁ
@@ -5157,7 +5157,7 @@
 \hbf 11 
 \et ndʑa
 \xv thaχtsa ɯ-rkɯ khatoʁ lu-kɯ-ɕe nɯ ɯ-ndʑa rmi 
-\xn 花带边的彩色竖条叫ɯ-ndʑa 
+\xn 花带边的彩色竖条叫{ɯ-ndʑa} 
 \nqr
 \dt 09/Jan/2012
 
@@ -5437,8 +5437,8 @@
 \ps n
 \ge planche de bois 
 \gn 木版 
-\xv ŋgɤjpɤn nɯ rɟoŋsoʁ kɯ thɯ-kɤ-sɯ-phaʁ ŋu. tɤ-rɤm nɯ tɯ-rpa kɯ ɯ-rɯmu thɯ-kɤ-z-nɯɴqhu tɕe thɯ-kɤ-phaʁ ŋu. 
-\xn ŋgɤjpɤn是用锯子锯成的板子，tɤ-rɤm 是用斧头顺着纹路劈成的。
+\xv ŋgɤjpɤn nɯ rɟoŋsoʁ kɯ thɯ-kɤ-sɯ-phaʁ ŋu. tɤrɤm nɯ tɯ-rpa kɯ ɯ-rɯmu thɯ-kɤ-z-nɯɴqhu tɕe thɯ-kɤ-phaʁ ŋu. 
+\xn {ŋgɤjpɤn}是用锯子锯成的板子，{tɤrɤm}是用斧头顺着纹路劈成的。
 
 \lx ŋgɤm
 \wav n-NgAm
@@ -5579,7 +5579,7 @@
 \gn 毛茛 
 \hbf plante 
 \xv pandɤɕku nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu, ɯ-ru cho ɯ-jwaʁ ra kɤ-rŋi ŋu, ɯ-zrɤm xtɕi, stɤmku tʂu ɯ-rkɯ tu-ɬoʁ ŋu, ɯ-mɯntoʁ kɯ-qarŋe ŋu, ɯ-ru ɣɯ ɯ-βzɯr lu-ɕe ŋu, tú-wɣ-ndza tɕe mɤrtsaβ tɕe núɣndʐa pandɤɕku rmi. 
-\xn 毛茛是矮小的植物，茎和叶子全是绿色的，根细小。生长在山上的路边上，开黄色花，茎上长出很多菱角。吃起来很辣，所以叫“pandɤɕku”（班地的葱）
+\xn 毛茛是矮小的植物，茎和叶子全是绿色的，根细小。生长在山上的路边上，开黄色花，茎上长出很多菱角。吃起来很辣，所以叫{pandɤɕku}（班地的葱）
 
 \lx pandi
 \ps n
@@ -5683,7 +5683,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv paʁtsa rna nɯ sɯjno kɯ-tshu tsa ci ŋu, ɯ-ru cho ɯ-jwaʁ ɯ-ru nɯ ra wuma ʑo mpɯ, wuma ʑo arŋi. ɯ-ru ɯ-ŋgɯ kɯ-so ŋu. ɯ-jwaʁ nɯ kɤ-βzɯr χsɯm ŋu tɕe, paʁ rna tsa fse, tɕe núɣndʐa paʁtsa rna ɲɯ-rmi. ɯ-ru ɯ-kɤ-χcɤl zɯ tɤ-fkɯm kɯ-fse ci ɯ-ku kɤ-mtɕoʁ ci tu-ɬoʁ. ʑirɯʑɤri tɕe ɲɯ-mbaʁ tɕe ɯ-mɯntoʁ ɯ-spa kɯ-ɕnom kɯ-fse tu-βze tɕe ɯ-mɯntoʁ kɯ-qarŋe tu-ɤʑɯrja ɲɯ-ŋu. ki sɯjno ki ɲɯ-tshu ɲɯ-mpɯ tɕe paʁ cho nɯŋa jla ra kɤsɯfse ɲɯ-rgá-nɯ, tɯ-rme kɤ-ndza mɤ-sna. 
-\xn {paʁtsarna} 是一种又肥又嫩的草。茎和叶子的很嫩，很绿。茎是空心的。叶子是三角形的，有点象猪耳朵，所以称它为“{paʁtsarna}”。茎的顶端上长出象口袋一样，上面尖的东西，逐渐破开了以后，里面漏出穗状的花，花是黄色的，成行的排列在茎上。
+\xn {paʁtsarna} 是一种又肥又嫩的草。茎和叶子的很嫩，很绿。茎是空心的。叶子是三角形的，有点象猪耳朵，所以称它为{paʁtsarna}。茎的顶端上长出象口袋一样，上面尖的东西，逐渐破开了以后，里面漏出穗状的花，花是黄色的，成行的排列在茎上。
 
 \lx paʁtshi
 \ps n
@@ -6353,7 +6353,7 @@
 \gn 鹿 
 \hbf animal 
 \xv qartshaz nɯ ruŋgu ku-rɤʑi ŋu, sŋo ɯ-ŋgɯ zɯ ku-rɤʑi, mbro kɯ-fse kɯ-wxti ŋu, ɯ-rme nɯ kɤ-ɣɯrnɯɕɯr kɯ-qarŋe kɯ-fse ŋu, kɯ-wxti ɕasca nɯ ɯ-ʁrɯ sqarcɤʁjɤr kɯ-tu tu ɲɯ-ŋgrɤl, mɤʑɯ ɯ-ʁrɯ tɯ-ldʑa ma kɯ-me tu ɲɯ-ŋgrɤl, nɤrwɯ ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, nɯnɯ qartshaz ɕawu rambɯm ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, ma kɤ-mto rkɯn. kɯ-xtɕi kɯ tʂɯɣlaʁ nɯ dɤn, zgo zɯ ʁɟa ku-rɤʑi, kɯ-rɯndzɤtshi cho tɯ-rmɯkha rndzɤkɤŋe kɤ-ɣe tɕe ku-ɬoʁ ɲɯ-ŋgrɤl, wuma ʑo ku-rɯndzaŋspa, sɯjno tɯ-tɯ-kɯr ɲɯ-nɯ-phɯt tɕe, ci ɲɯ-nɤrɯra ku-ŋgrɤl, ɯ-qa taʁrɯ nɯ nɯŋa ɯ-qa taʁrɯ fse. ɯ-mɤlɤjaʁ nɯ mbro ɯ-mɤlajaʁ fse, ɯ-jme kɯ-xtɕɯ-xtɕi ma me, ɯ-rna nɯ nɯŋa ɯ-rna fse, ɯ-mtɕhi nɯ nɯŋa ɯ-mtɕhi tsa fse. ɕɤŋɯ raŋ tɕe qartshaz phu nɯ zgo kɯ-mbro zɯ tu-ɕe tɕe nɯ tɕu chɯ-ɣɤwu tɕe, kɯ-kɤ-mɯmtshɤm ɣɯ qartshaz mu nɯ ju-ɣí-nɯ ra ɲɯ-ŋgrɤl, tɕe nɯ thɯ-awɤwúm-nɯ tɕe qartshaz ɕaphu nɯ kɯ pjɯ-fskɤr tɕe nɯ tɕu ku-je tɕe tɯ-ci tɯ-mɯm mɯ-pjɤ-sɯ-tshi ɲɯ-ŋgrɤl, nɯ tɕu tɕe ɯ-sŋi kɤ-rtsi ʑo ku-z-rɤʑi, tɕe qartshaz mu nɯ ra ɲɯ-ɕpáʁ-nɯ, tɕe tɯ-ci tshi ɯ-raŋ nɯ ku-naχthɤβ tɕe tu-nɯphu ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. ɯ-ʁrɯ nɯ smɤn ŋu, tu-ɕaŋ ɕɯŋgɯ tɕe, ɯ-rme sɯβ-sɯβ tu raŋ tɕe mpɯ, tɤ-ɕaŋ tɕe kɯ-rkɯ-rko ŋu, staʁpɯ kɤ-phɯt ɯ-raŋ tɕe ʁrɯ tu-ɕaŋ ŋu, tɕe lu-nɯ-βde ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, ɯ-ʁrɯ na-nɯ-βde tɕe, tɯ-rdoʁ ɲɯ-nɯ-βde ma tɯ-tɕha tɯ-tɯ-rca ɲɯ-nɯ-βde mɯ́-j-ŋgrɤl. ɯ-sni ɯ-se nɯ smɤn stu kɯ-ʑru ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. 
-\xn 鹿生活在高山上，在高山羊角花的树林里，有马那么大，毛是红里带黄的。大公鹿有的长十八支叉形角，还有的只有一只角的。据说（十八支角）是宝贝，叫作ɕawu rambɯm，很罕见。一般小鹿有十二支角，这种比较多。鹿一直生活在高山上，到了黄昏，太阳落山（阴影出现）的时候，它就出来觅食和进行其它活动。它非常谨慎，每吃一口草就要左右张望一下。蹄子象牛蹄子一样，四肢象马的一样，只有很小的尾巴，耳朵和嘴巴象牛的一样。发情的时候，公鹿到山的最高处，在那边叫喊，所能听到叫声的母鹿就会往它的方向来。在它们聚集以后，公鹿就会在它们周围绕一圈，不让它们离开，而且一口水都不让它们喝，让它们在那里待数天。母鹿很渴，喝水时公鹿就乘机交配。鹿角是药材，老了之前，毛茸茸的时候，是软的，老了就变硬。据说在割豌豆时鹿角就会老掉，鹿角掉落时，每次只掉一只，不会同时掉一对。据说鹿心脏的血是一种很有疗效的药材。 
+\xn 鹿生活在高山上，在高山羊角花的树林里，有马那么大，毛是红里带黄的。大公鹿有的长十八支叉形角，还有的只有一只角的。据说（十八支角）是宝贝，叫作{ɕawu rambɯm}，很罕见。一般小鹿有十二支角，这种比较多。鹿一直生活在高山上，到了黄昏，太阳落山（阴影出现）的时候，它就出来觅食和进行其它活动。它非常谨慎，每吃一口草就要左右张望一下。蹄子象牛蹄子一样，四肢象马的一样，只有很小的尾巴，耳朵和嘴巴象牛的一样。发情的时候，公鹿到山的最高处，在那边叫喊，所能听到叫声的母鹿就会往它的方向来。在它们聚集以后，公鹿就会在它们周围绕一圈，不让它们离开，而且一口水都不让它们喝，让它们在那里待数天。母鹿很渴，喝水时公鹿就乘机交配。鹿角是药材，老了之前，毛茸茸的时候，是软的，老了就变硬。据说在割豌豆时鹿角就会老掉，鹿角掉落时，每次只掉一只，不会同时掉一对。据说鹿心脏的血是一种很有疗效的药材。 
 \nqr
 \dt 01/Nov/2012
 
@@ -7015,7 +7015,7 @@
 \gn 走缘边小柱头之间的穿杆 
 \hbf maison 
 \xv jɤɣɤt laχtsɯ cho mɤro ɣɯ ɯ-kɯspoʁ ŋgɯ jɯ-kɤ-rʁe laʁjɯɣ nɯ rorʁe rmi 
-\xn 走缘柱头和梁架的洞里穿过去的木棒叫rorʁe
+\xn 走缘柱头和梁架的洞里穿过去的木棒叫{rorʁe}
 
 \lx rpɣo
 \ps n
@@ -8747,8 +8747,8 @@
 \ge Emberiza sp. 
 \gn 鹀 
 \hbf oiseau 
-\xv tɤ-khe pɣɤtɕɯ nɯ pɣa kɯ-xtɕi ci ŋu, phu nɯ pɣi ri ɯ-mke cho ɯ-rqo pa nɯ ra kɯ-ɣɯrni ŋu, ɯ-mi kɯ-qarŋe ŋu, ɯ-jme ɯ-ku nɯ ra ku-ɣrum tɕe mpɕɤr, mu nɯ mɤ-mpɕɤr, pha ɯ-phoŋbu ʑo pɣi, ɯ-taʁ kɯ-ɲaʁ kɯ-khra tu, tɤ-khe pɣɤtɕɯ nɯ kɯ qajɯ cho tɤ-rɤku tu-ndze ŋu, tɕe ɯ-kɯ-qha dɤn, tɕe pɣɤtɕɯ nɯ ɯ-ŋgɯz khe tu-kɯ-ti ɲɯ-ŋu. kha ɯ-rkarkɯ ra kɤ-rɤʑi χɕu. ɯ-loʁ nɯ tʂu ɯ-rkɯ kɤ-rmbat ʑo sɯ phɯ kɯ-xtɕi ɯ-qa, xɕɤj ɯ-qa ra ku-βze ŋu tɕe, nɯɣɯmto. tɤ-khe pɣɤtɕɯ ɲɯ-khe tɕe βʑar kɯ ɯʑo loʁ ŋgɯ ɯ-ŋgɯm nɯ ra tu-ndze tɕe, ɯ-sta nɯ tɕu βʑar kɯ ɯʑo ɯ-ŋgɯm ko-lɤt tɕe, ɯ-ŋgɯm nɯ nɯ-ʁaʁ tɕe chɯ-wxti ɲɯ-ŋu tɕe, tɕe tɤ-khe pɣɤtɕɯ kɯ sɤ-mɯ-mu ʑo ku-χse ɲɯ-ra. 
-\xn {tɤkhe pɣɤtɕɯ}是一种小鸟，公的虽然是灰的，颈和脖子下面带有红色，脚是黄色的，尾巴顶端有白色，很漂亮。母的不漂亮，全身是灰色的，上面还带有黑色的斑点。tɤ-khe pɣɤtɕɯ吃虫子和粮食，很多人讨厌它。据说它在鸟类当中是比较笨的一只。它喜欢在房子周边活动，把窝打在离路边不远的小树和草丛底下，容易发现。因为tɤ-khe pɣɤtɕɯ笨，所以鹞子就会在它的窝里吃掉它的蛋，然后把自己的蛋下在里面。蛋孵出了以后，小鹞子会长大，它也只好带着害怕的心里喂养它们。
+\xv tɤkhepɣɤtɕɯ nɯ pɣa kɯ-xtɕi ci ŋu, phu nɯ pɣi ri ɯ-mke cho ɯ-rqo pa nɯ ra kɯ-ɣɯrni ŋu, ɯ-mi kɯ-qarŋe ŋu, ɯ-jme ɯ-ku nɯ ra ku-ɣrum tɕe mpɕɤr, mu nɯ mɤ-mpɕɤr, pha ɯ-phoŋbu ʑo pɣi, ɯ-taʁ kɯ-ɲaʁ kɯ-khra tu, tɤ-khe pɣɤtɕɯ nɯ kɯ qajɯ cho tɤ-rɤku tu-ndze ŋu, tɕe ɯ-kɯ-qha dɤn, tɕe pɣɤtɕɯ nɯ ɯ-ŋgɯz khe tu-kɯ-ti ɲɯ-ŋu. kha ɯ-rkarkɯ ra kɤ-rɤʑi χɕu. ɯ-loʁ nɯ tʂu ɯ-rkɯ kɯ-ɤrmbat ʑo sɯphɯ kɯ-xtɕi ɯ-qa, xɕɤj ɯ-qa ra ku-βze ŋu tɕe, nɯɣɯmto. tɤkhepɣɤtɕɯ ɲɯ-khe tɕe βʑar kɯ ɯʑo ɯ-loʁ ŋgɯ ɯ-ŋgɯm nɯ ra tu-ndze tɕe, ɯ-sta nɯ tɕu βʑar kɯ ɯʑo ɯ-ŋgɯm ko-lɤt tɕe, ɯ-ŋgɯm nɯ nɯ-ʁaʁ tɕe chɯ-wxti ɲɯ-ŋu tɕe, tɕe tɤkhepɣɤtɕɯ kɯ sɤ-mɯ-mu ʑo ku-χse ɲɯ-ra. 
+\xn {tɤkhe pɣɤtɕɯ}是一种小鸟，公的虽然是灰的，颈和脖子下面带有红色，脚是黄色的，尾巴顶端有白色，很漂亮。母的不漂亮，全身是灰色的，上面还带有黑色的斑点。{tɤkhe pɣɤtɕɯ}吃虫子和粮食，很多人讨厌它。据说它在鸟类当中是比较笨的一只。它喜欢在房子周边活动，把窝打在离路边不远的小树和草丛底下，容易发现。因为{tɤkhe pɣɤtɕɯ}笨，所以鹞子就会在它的窝里吃掉它的蛋，然后把自己的蛋下在里面。蛋孵出了以后，小鹞子会长大，它也只好带着害怕的心里喂养它们。
 \dt 11/Jan/2015
 
 \lx tɤkhespɤlbu
@@ -9743,7 +9743,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv tɕhemekɤtsa nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu. ɯ-ru kɤ-βʑɯrdu fse, ɯ-mdoʁ ɣɯrni. ɯ-βzɯr kɯ-fse kɯ-tu ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-jwaʁ nɯ ɯ-ru taʁ tɯ-rtsɤɣ tɯ-rtsɤɣ ku-fskɤr tɕe ku-ndzoʁ ŋu. ɯ-jwaʁ rchɤβ nɯ tɕu ɯ-mɯntoʁ ku-ɤʑɯrja ŋu, tɕe ɯ-mɯntoʁ ku-kɤ-fskɤr nɯ ndʐa tɕheme kɤ-tsa ɲɯ-rmi. ɯ-ru tɯ-ldʑa ɯ-taʁ nɯ ɯ-jwaʁ χsɯ-tɤ-xɯr kɯ-βde-tɤ-xɯz jamar ma me, ɯ-jwaʁ nɯ kɤ-ɲaʁndzɯm ŋu. 
-\xn {tɕheme kɤtsa}是矮小的植物。茎四方形、红色、有棱角。茎长出来时，叶子就在茎上一节绕一圈的生长。花排列在叶子之间。因为花是绕着茎而长的，所以叫它“{tɕheme kɤ-tsa}”（母女难分的意思）。一根茎上只有三四圈叶子，叶子是深绿色的。
+\xn {tɕheme kɤtsa}是矮小的植物。茎四方形、红色、有棱角。茎长出来时，叶子就在茎上一节绕一圈的生长。花排列在叶子之间。因为花是绕着茎而长的，所以叫它{tɕheme kɤ-tsa}（母女难分的意思）。一根茎上只有三四圈叶子，叶子是深绿色的。
 \dt 07/May/2014
 
 \lx tɕhi¹
@@ -11696,7 +11696,7 @@
 \gn 支撑走檐的梁 
 \hbf maison 
 \xv jɤɣɤt ɯ-pa stukɤr ɯ-tshɤt ɕoŋtɕa nɯ tɯmɢɯt rmi 
-\xn 走缘下面起大梁作用的木料叫{tɯmɢɯt }
+\xn 走缘下面起大梁作用的木料叫{tɯmɢɯt}
 \dt 18/May/2014
 
 \lx tɯ-mi
@@ -12764,8 +12764,8 @@
 \ps n
 \ge partie en bois des maisons tibétains 
 \gn 藏式房屋的用木料作成的部分 
-\xv kɯrɯ kha ɯ-taʁ ɕoŋtɕa kɤ-ntɕhoz kɯ-kɯ-ra nɯ jɤɣɤt cho khɤxtu nɯ ra tɯ-rnda rmi 
-\xn 藏式房屋上所有用木料作成的部分，如走缘、房背等都叫tɯ-rnda
+\xv kɯrɯ kha ɯ-taʁ ɕoŋtɕa kɤ-ntɕhoz kɯ-kɯ-ra nɯ jɤɣɤt cho khɤxtu nɯ ra tɯrnda rmi 
+\xn 藏式房屋上所有用木料作成的部分，如走缘、房背等都叫{tɯrnda}
 
 \lx tɯrndaku
 \ps n
@@ -12778,7 +12778,6 @@
 \ge gencive 
 \gn 牙龈 
 \hbf 138 
-\et rɲil
 
 \lx tɯ-rnom
 \ps np
@@ -13840,7 +13839,7 @@
 \gn 靴筒上部是獐皮子，下部是红色染成的牛皮的一种靴子 
 \hbf objet traditionel 
 \xv tɯ-xtsa kɤɣɯɕqri nɯ ɯ-ɕna ɯ-rkɯ cho ɯ-komɤr nɯ ra li mbanaʁtsa cho naχtɕɯɣ ri komɤr ɯ-sɤ-tʂɯβ tɤ-ri nɯ ɯ-mdoʁ kɯ-mpɕɤr ku-lɤt-nɯ ŋgrɤl. ɯ-rkɯ ɯ-tɯ-tʂɯβ nɯ ra kɤntɕhɯ ku-lɤt-nɯ ŋgrɤl. ɯ-rkɯ ɯ-taʁ tɕe komɤr pjɯ-tshoʁ-nɯ ɯ-taʁ kóʁmɯz cɤndʐi, nɯ maʁ nɤ mphrɯɣ nɯ maʁ nɤ raz kɯ-mpɕɤr kɯ-fse pjɯ-tshoʁ-nɯ. ɯ-xtsɤkɤŋgɯ nɯ li smɤɣ thɯ-kɤ-βzu pjɯ-tshoʁ-nɯ ŋu. tɕe nɯ tɯ-xtsa nɯ kɤ-tʂɯβ ɴqa, tɕe kɯ-mpɕɤr kɤ-nɯ-sɯpa ŋu
-\xn {tɯxtsa kɤɣɯɕqri }（鞋的一种）的鞋尖、鞋边和鞋背上用红皮子，（做法）和黑皮鞋一样。缝红皮子要用彩色的线，缝鞋边的时候要缝几道。鞋边上面先缝上红皮子（作鞋面），然后上面再缝上獐子皮、氆氇或者美观的棉布（作鞋筒）。鞋筒的内层又是用羊毛制成的。缝这种鞋子很困难，但是可以当作是（藏族服装）的装饰品之一。 
+\xn {tɯxtsa kɤɣɯɕqri}（鞋的一种）的鞋尖、鞋边和鞋背上用红皮子，（做法）和黑皮鞋一样。缝红皮子要用彩色的线，缝鞋边的时候要缝几道。鞋边上面先缝上红皮子（作鞋面），然后上面再缝上獐子皮、氆氇或者美观的棉布（作鞋筒）。鞋筒的内层又是用羊毛制成的。缝这种鞋子很困难，但是可以当作是（藏族服装）的装饰品之一。 
 \nqr
 \dt 05/May/2014
 
@@ -15670,7 +15669,7 @@
 \gn 皮靴子 
 \hbf objet traditionel 
 \xv xtsɤrtɯm nɯ ɯ-xtsɤku nɯ tɯ-ndʐi ŋu tɕe, ɯ-ɕnɤku ɯ-stu nɯ lú-wɣ-phaʁ tɕe, nɯ ɯ-stu nɯ tɯ-ndʐi kɤ-βzɯχsɯm tú-wɣ-rku tɕe, ɯ-xtsɤrkɯ ɯ-ʑoz kɯ-me. xtsɤrtɯm nɯ li ʁnɯ-tɯ-phu tu tɕe, tɯ-tɯ-phu nɯ ɯ-pɕi tɯ-ndʐi ŋu, ɯ-ŋgɯ tɯ-ŋgar ŋu, li ci tɯ-tɯ-phu nɯ tɤ-mbextsa rmi, ɯ-pɕi nɯ tɯ-rtɯthɯ ŋu, ɯ-ŋgɯ nɯ li tɯ-ŋgar ŋu. ki ʁnɯ-tɯ-phu ki tɯ-xtsa ni ndʑi-tʂɯβ naχtɕɯɣ, ndʑi-mŋulɤn ra. 
-\xn 皮靴子的靴筒是一块皮子，把那块皮子的前端（对着脚背的部分）破一个口，那里装上三角形的皮子，没有另外的鞋帮。这种靴子有两种，一种外层是皮子，内层是羊毛布，另一种叫 tɤ-mbextsa，外层是麻布，里面还是羊毛布。这两种的缝法一样，都需要鞋底。 
+\xn 皮靴子的靴筒是一块皮子，把那块皮子的前端（对着脚背的部分）破一个口，那里装上三角形的皮子，没有另外的鞋帮。这种靴子有两种，一种外层是皮子，内层是羊毛布，另一种叫 {tɤmbextsa}，外层是麻布，里面还是羊毛布。这两种的缝法一样，都需要鞋底。 
 \nqr
 
 \lx xtsɤsoʁ
