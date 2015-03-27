@@ -2841,7 +2841,7 @@
 \gn 狗尾巴草 
 \hbf plante 
 \xv khɯna-jme nɯ sɯjno mɤ-mbro, ɯ-jwaʁ nɯ xsɤrɯ ɯ-jwaʁ fse ri xtɯt, tɯ-ji rkɯ aʁɤndɯndɤt tu-ɬoʁ ɕti. ɯ-mat kɯ-ɕnom fse, ɯ-rme ɯ-tshɯɣa nɯ ra xsɤrɯ ɯ-mat fse, xsɤrɯ ɣɯ ɯ-mat pjɯ-ŋgɤɣ ŋu, khɯna-jme ɯ-mat nɯ tu-ndzur kɯ-fse ɕti ma pjɯ-ŋgɤɣ mɤ-cha, pakuku tu-ɬoʁ cha. ɯ-kɯ-ɕnom khɯna-jme fse. 
-\xn khɯna-jme是一种小草，叶子象xsɤrɯ的叶子，但短一些。在地边随处生长。果实象麦穗，穗上的毛象xsɤrɯ的果实一样。xsɤrɯ的果实往下弯，而khɯna-jme的果实是立着的，不弯。年年生长。穗象狗的尾巴一样。
+\xn {khɯna-jme}是一种小草，叶子象{xsɤrɯ}的叶子，但短一些。在地边随处生长。果实象麦穗，穗上的毛象{xsɤrɯ}的果实一样。{xsɤrɯ}的果实往下弯，而{khɯna-jme}的果实是立着的，不弯。年年生长。穗象狗的尾巴一样。
 
 \lx khɯnalu
 \ps n
@@ -3030,7 +3030,7 @@
 \gn 婴儿的肠病 
 \hbf maladie 
 \xv krɤlma nɤrŋi ɯ-ŋgo ŋu, ɲɯ-nɯtɯfɕɤl tɕe ɯ-qe kɯ-qarŋe ŋu, karɣi ɯ-mɯntoʁ fse 
-\xn krɤlma是婴儿的病，他拉肚子时大便是黄色的，像是菜子花。
+\xn {krɤlma}是婴儿的病，他拉肚子时大便是黄色的，像是菜子花。
 \cf nɯkrɤlma
 \et grol.ma
 \dt 27/Aug/2012
@@ -3426,7 +3426,7 @@
 \gn 灌木的一种 
 \hbf plante 
 \xv kɯnɯmar nɯ si ci ŋu wuma ʑo tu-mbro cho ɲɯ-jpɯm mɤ-cha. ɯ-jwaʁ nɯ kɯ-tɕɤr kɯ-rɲɟi tsa ŋu, ɯ-ru nɯ kɯ-ɲaʁ ŋgɯz kɯ-ɣɯrni tsa ŋu, ɯ-ru ɯ-ŋgɯ nɯ ku-ɣrum kɯ-fse xtsoŋ-xtsoŋ ɕti tɕe, si mɤ-ngɯt. ɯ-mɯntoʁ ku-ɣrum kɯ-dɤn ʑo ɲɯ-ɬoʁ ŋu. si ɯ-kɤ-χcɤl ri ɲɯ-lɤt ŋu. 
-\xn kɯnɯmar是一种树，不能长高，也能长粗。叶子细长，树干黑里透红。树干里有白色泡沫，所以木质不结实。开很多白花，集中在树梢上。
+\xn {kɯnɯmar}是一种树，不能长高，也能长粗。叶子细长，树干黑里透红。树干里有白色泡沫，所以木质不结实。开很多白花，集中在树梢上。
 
 \lx kɯnɯwulaʁ
 \ps n
@@ -5570,7 +5570,7 @@
 \gn 靴筒全是獐皮子的一种靴子，针脚缝得比较粗糙 
 \hbf objet traditionel 
 \xv palaxtsa nɯ ɯ-rkɯ kosca ŋu, tɕeri ɯ-ɕna ɣɯ ɯ-komɤr me, ɯ-xtsɤrkɯ ni ci kɤ-kɤ-sɯpa tɕe kɤ-kɤ-tʂɯβ ŋu. ɯ-ɕna kɤ-mtɕoʁ tɕe tu-kɯ-ŋgɤɣ kɯ-fse nɯ tu, ɯ-xsɤrkɯ cho ɯ-xtsɤku ɣɯ kɤ-tʂɯβ nɯ konaʁ xtsa ɣɯ ɯ-tʂɯβ cho mɤ-naχtɕɯɣ, nɯ ɯ-ro nɯ ra konaʁxtsa cho lonba naχtɕɯɣ. palaxtsa nɯ mɤ-mpɕɤr ri ngɯt, kɯ-rɤma kɤ-ŋga nɤtsa. 
-\xn palaxtsa的3鞋边是用没有染过的皮子做成的，脚尖部分没有红皮子。鞋边直接合在一起缝成的，脚尖部分很尖，有钩起来的部分。鞋边和鞋筒连接的缝法和黑皮鞋不一样，其它完全一样。palaxtsa不美观但很结实，适合干活的人穿。 
+\xn {palaxtsa}的鞋边是用没有染过的皮子做成的，脚尖部分没有红皮子。鞋边直接合在一起缝成的，脚尖部分很尖，有钩起来的部分。鞋边和鞋筒连接的缝法和黑皮鞋不一样，其它完全一样。{palaxtsa}不美观但很结实，适合干活的人穿。 
 \nqr
 
 \lx pandɤɕku
@@ -5625,7 +5625,7 @@
 \gn 草麻黄 
 \hbf plante 
 \xv paʁɕɤɣ nɯ kɤntɕhɯ tɯ-phu tu, si ci tu, sɯjno ci tu. si nɯ wuma sthɯci mɤ-mbro, ɕɤɣ ŋgɯ tɯ-tɯ-phu ŋu. ɯ-jwaʁ nɯ kɤ-rqhi ju-kɯ-ru tɕe, kɤ-ndɯ-ndo kɯ-fse ŋu, kɤ-rmbat tɕe, tɕe kɤ-ndɯ-ndo maʁ, ɯ-ru ɕɤɣ cho naχtɕɯɣ, ɯ-rtaʁ wuma ʑo xtɯt, lu-rɲɟi mɤ-cha, ɯ-jwaʁ nɯ qa-rtsɯ mɤ-ftɕar ʑo ɯ-tɤ-rŋi kɯ nɤmar ʑo, pjɯ́-wɣ-sɤkhɯ tɕe, ɯ-di ɕɤɣ ɣɯ sthɯci mɤ-mɯm. paʁɕɤɣ li sɯjno ci tu tɕe, tɯ-ji ŋgɯ tɤ-rɤku ɯ-rca tu-ɬoʁ ŋu, ɯ-zrɤm xtɕi, kɤ-phɯt mbat, ɯ-ru me, ɯ-jwaʁ nɯ ta-qaβ kɯ-fse tɕe, kɯ-rɲɟi ŋu, ɯ-rtsɤɣ tu. ɯ-rtsɤɣ taʁ ɯ-mɯntoʁ ɲɯ-βze cha, ɯ-di ɯʑoz ci tu. 
-\xn paʁɕɤɣ有几种，有一种是树，另一种是草。树的那种长得不太高，是柏树的一种。叶子从远方看好象是连在一起的，近看却不是连在一起的。树干和柏树的一样，枝桠很短，长不长，叶子一年四季的都是油绿色的。熏的时候，味道不如柏树香。另一种 paʁɕɤɣ 是草，和庄稼长在一起，根小，容易拔掉，没有茎，叶子象针一样，很长，有节。节上开花。有异样的味道。
+\xn {paʁɕɤɣ}有几种，有一种是树，另一种是草。树的那种长得不太高，是柏树的一种。叶子从远方看好象是连在一起的，近看却不是连在一起的。树干和柏树的一样，枝桠很短，长不长，叶子一年四季的都是油绿色的。熏的时候，味道不如柏树香。另一种{paʁɕɤɣ} 是草，和庄稼长在一起，根小，容易拔掉，没有茎，叶子象针一样，很长，有节。节上开花。有异样的味道。
 
 \lx paʁɕi
 \ps n
@@ -5683,7 +5683,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv paʁtsa rna nɯ sɯjno kɯ-tshu tsa ci ŋu, ɯ-ru cho ɯ-jwaʁ ɯ-ru nɯ ra wuma ʑo mpɯ, wuma ʑo arŋi. ɯ-ru ɯ-ŋgɯ kɯ-so ŋu. ɯ-jwaʁ nɯ kɤ-βzɯr χsɯm ŋu tɕe, paʁ rna tsa fse, tɕe núɣndʐa paʁtsa rna ɲɯ-rmi. ɯ-ru ɯ-kɤ-χcɤl zɯ tɤ-fkɯm kɯ-fse ci ɯ-ku kɤ-mtɕoʁ ci tu-ɬoʁ. ʑirɯʑɤri tɕe ɲɯ-mbaʁ tɕe ɯ-mɯntoʁ ɯ-spa kɯ-ɕnom kɯ-fse tu-βze tɕe ɯ-mɯntoʁ kɯ-qarŋe tu-ɤʑɯrja ɲɯ-ŋu. ki sɯjno ki ɲɯ-tshu ɲɯ-mpɯ tɕe paʁ cho nɯŋa jla ra kɤsɯfse ɲɯ-rgá-nɯ, tɯ-rme kɤ-ndza mɤ-sna. 
-\xn paʁtsa rna 是一种又肥又嫩的草。茎和叶子的很嫩，很绿。茎是空心的。叶子是三角形的，有点象猪耳朵，所以称它为“paʁtsa rna”。茎的顶端上长出象口袋一样，上面尖的东西，逐渐破开了以后，里面漏出穗状的花，花是黄色的，成行的排列在茎上。
+\xn {paʁtsarna} 是一种又肥又嫩的草。茎和叶子的很嫩，很绿。茎是空心的。叶子是三角形的，有点象猪耳朵，所以称它为“{paʁtsarna}”。茎的顶端上长出象口袋一样，上面尖的东西，逐渐破开了以后，里面漏出穗状的花，花是黄色的，成行的排列在茎上。
 
 \lx paʁtshi
 \ps n
@@ -5839,7 +5839,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv pɣɤtɕɯ tɤ-ŋgɤr nɯ stɤmku tu-ɬoʁ ŋu. ɯ-jwaʁ nɯ kɤ-rtɯm ŋu, tɕe ɯ-thoʁ pjɤ-ɲɟoʁ ʑo ɲɯ-ŋu. ɯ-jwaʁ ʁnɯz ma maŋe, kɯ-jɯ-jaʁ ɲɯ-ŋu, tɕe ɲɯ-ndoʁ. pjɯ́-wɣ-qrɯt tɕe ɯ-ci kɤ-rɤmtʂɯmtʂɤj kɯ-fse ɲɯ-ɬoʁ ɲɯ-ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-ru ʁnɯ-tɣa jamar tɤ-zri tɕe, ɯ-mɯntoʁ ɲɯ-ɬoʁ ɲɯ-ŋu. ɯ-mɯntoʁ pa zɯ tɤ-fkɯm kɯ-fse kɯ-xtɕɯ-xtɕi ɣɤʑɯ tɕe, ɯ-mɯntoʁ ɯ-pa pjɤ-ɴqoʁ, ɯ-mŋu taʁ tu-ru ɲɯ-ŋu. ɯ-ŋgɯ tɯ-ci ɲɯ-mtshɤt tɕe, ɲɯ-chi. ɯ-mɯntoʁ nɯ kɯ-qarŋe tɕe, staʁpɯ ɯ-mɯntoʁ tsa ɲɯ-fse. ɯ-mɯntoʁ kɯ-dɤn tu-ɤʑɯrja ɲɯ-ŋu. 
-\xn pɣɤtɕɯ tɤ-ŋgɤr生长在草地上。叶子是圆形的，贴在地面上。只有两片叶子，又厚又脆，掰开时里面流出有粘性的液体。茎长出两拃的时候就开花。花的下面有一个象口袋一样的小东西，吊在花的下面，口朝上。里面装满水，很甜。花是黄色的，象豌豆的花一样，花很多，成行地长在茎上。
+\xn {pɣɤtɕɯ tɤ-ŋgɤr}生长在草地上。叶子是圆形的，贴在地面上。只有两片叶子，又厚又脆，掰开时里面流出有粘性的液体。茎长出两拃的时候就开花。花的下面有一个象口袋一样的小东西，吊在花的下面，口朝上。里面装满水，很甜。花是黄色的，象豌豆的花一样，花很多，成行地长在茎上。
 \dt 13/Jan/2013
 
 \lx pha
@@ -6066,7 +6066,7 @@
 \gn 沙锅 
 \hbf 545 
 \xv popo nɯ tɤ-rcoʁ kɯ tɤ-kɤ-sɯ-βzu ŋu, ɯ-mŋu artɯm, ɯ-xtu kɯ́nɤ artɯm, ɯ-xtu cho ɯ-mŋu ɯ-pɤrthɤβ ɯ-mke ci tu, ɯ-jɯ kɯ-rɟɯ-rɟum tu, tɤ-mthɯm sɤ-sqa pe, tɤ-ala pɯ-tsu tɕe ʑaʑa mɤ-fɕu tɕe tɤ-mthɯm pɯ́-wɣ-sqa tɕe wuma ʑo ku-smi cha tɕe rgargɯn ra nɯ-kɤ-ndza wuma ʑo nɤtsa. 
-\xn popo是用泥做成的，口和肚子都是圆形的，口和肚子之间有颈，把很粗，是煮肉的好器具。一旦煮开了，不容易凉，煮肉煮得很熟，很适合老年人吃。 
+\xn {popo}是用泥做成的，口和肚子都是圆形的，口和肚子之间有颈，把很粗，是煮肉的好器具。一旦煮开了，不容易凉，煮肉煮得很熟，很适合老年人吃。 
 \nqr
 
 \lx poʁlɯrmbjɤβ
@@ -6087,7 +6087,7 @@
 \gn 葱 
 \hbf plante 
 \xv praʁɕku nɯ tɯ-ji ŋgɯ lu-kɤ-nɯ-ji ci ŋu, ɯ-jwaʁ nɯ kɤ-ɕpɯ-ɕpa kɯ-tɕɤr tɕe kɯ-rɲɟi tsa ŋu, ɯ-ru me, ɯ-tho tu, kɤ-ndza mɯm. ɯ-mdoʁ ldʑaŋnaʁ ŋu. 
-\xn praʁɕku是自己种在地里的（农作物），叶子又扁又窄又长，没有茎，有花梗，好吃。颜色是深绿色。
+\xn {praʁɕku}是自己种在地里的（农作物），叶子又扁又窄又长，没有茎，有花梗，好吃。颜色是深绿色。
 
 \lx praʁkhaŋ
 \ps n
@@ -6278,7 +6278,7 @@
 \gn 高山上的野韭菜 
 \hbf plante 
 \xv qandzɤjo ɕku nɯ zgo ku kɯ-mbro ʑo tu-ɬoʁ ŋu, sɤtɕha kɯ-mɤɕtaʁ tsa tu-ɬoʁ cha. ɯ-mdoʁ pɣi, si kɯ-ndɯβ ɯ-rchɤβ ra tu-ɬoʁ ŋu. ɯ-qa ri ɯ-zrɤm sɤɣ-ndzoʁ ɯ-stu kɯ-xtɕɯ-xtɕi jpum. ɯ-zrɤm nɯ kɯ-xtshɯm, ku-ɣrum ŋu. ɯ-ru tu-tɯ-ɬoʁ ɯ-stu nɯ arɤʑɯʑrɤs, ɯ-ŋgɯ tɕe ɯ-spjɯŋ tu-ɬoʁ tɕe, ɯ-taʁ tɕe li ɯ-jwaʁ ɲɯ-βze ŋu. ɯ-jwaʁ nɯ tɕɤr tɕe rɲɟi, ɯ-jwaʁ χsɯm jamar tɤ-ɬoʁ ɯ-qhu tɕe, tɕe ɯ-spjɯŋ ŋgɯ ɯ-ku nɯ tɕu ɲɯ-rɯmɯntoʁ ŋu. pha ɯ-phoŋbu nɯ mɤrtsaβ, ɯ-dɯχɯn χɕɤβ. kɤ-ndza sna. 
-\xn qandzɤjo ɕku生长在高山上，能生长在比较寒冷的地方，是灰色的，一般生长在灌木丛里。长根的部位有点粗。根又细又白。茎长出来的部位有条纹，里面长主心干，在上面又长叶子。叶子细而长。叶子长到两三片时，在顶部开花。全身都是辣的，香味很浓。可以吃。
+\xn {qandzɤjoɕku}生长在高山上，能生长在比较寒冷的地方，是灰色的，一般生长在灌木丛里。长根的部位有点粗。根又细又白。茎长出来的部位有条纹，里面长主心干，在上面又长叶子。叶子细而长。叶子长到两三片时，在顶部开花。全身都是辣的，香味很浓。可以吃。
 
 \lx qandzi
 \ps n
@@ -7889,7 +7889,7 @@
 \hbf animal 
 \et spaŋ.sram
 \xv spoŋsrɤm nɯ rɯdaʁ ruŋgu kɯ-mbro ku-kɯ-rɤʑi ci ŋu tɕe ɯ-rme nɯ wuma ʑo mpɕɤr tɕe tɕhɯɕrɤm cho kɯ-naχtɕɯɣ ŋu 
-\xn spoŋsrɤm是生活在高山草地上的动物，它的毛长得很美，和水獭一样的贵重。 
+\xn {spoŋsrɤm}是生活在高山草地上的动物，它的毛长得很美，和水獭一样的贵重。 
 \nqr
 
 \lx sprilu
@@ -8316,7 +8316,7 @@
 \gn 灌木的一种 
 \hbf plante 
 \xv sɯŋgɯ ɟu nɯ ɯ-jwaʁ kɤ-rtɯm tɕe kɤ-mtɕoʁ ŋu. ɯ-ru cho ɯ-jwaʁ qa-rtsɯ mɤ-ftɕar ʑo anɤrŋi ɕti, ɯ-mat kɯ́nɤ kɤ-rŋi ŋu thɯ-tɯt tɕe chɯ-ɲaʁ, ɯ-ru wuma ʑo mpɕu, ɲɯ́-wɣ-phɯt tɕe ndoʁ, tu-wxti wuma mɤ-cha tɕe, ndɯβ tɕe, zɣombu ɲɯ́-wɣ-βzu tɕe pe. 
-\xn sɯŋgɯ ɟu有圆而尖的叶子。树干和叶子一年四季都是绿的，果子也是绿色的，成熟后变黑。树干很光滑，折断的时候是脆的，长不大，细小，可以用来做扫把
+\xn {sɯŋgɯɟu}有圆而尖的叶子。树干和叶子一年四季都是绿的，果子也是绿色的，成熟后变黑。树干很光滑，折断的时候是脆的，长不大，细小，可以用来做扫把
 \dt 28/Oct/2013
 
 \lx sɯŋgɯnaχtɕin
@@ -8331,7 +8331,7 @@
 \gn 野生瓜子的一种 
 \hbf plante 
 \xv sɯŋgɯ pɤjka nɯ sɯjno ci ɯ-ru kɯ-zɯ-zri tɕe kɤ-rqhi tsa jɯ-ɕe tɕe, kɯ-maʁ si ɯ-taʁ cho sɯjno ɯ-ru taʁ to-rtɯrtɤβ tɕe, ɲɯ-rɯmɯntoʁ tɕe ɯ-mat ku-tshoʁ ɲɯ-ŋu. ɯ-mɯntoʁ nɯ @laba kɯ-fse ci ŋu, tɕe kɯ-qarŋe ɲɯ-ŋu. ɯ-mat nɯ @huanggua kɯ-fsɯ-fse ci ŋu, kɯ-xtɕi tsa ɲɯ-ŋu. ɯ-jwaʁ nɯ pɤjka ɯ-jwaʁ cho ɲɯ-naχtɕɯɣ, ɯ-jwaʁ ɯ-taʁ ɯ-mdzu ɣɤʑu, ftɕar tɕe tu-ɬoʁ, qartsɯ tɕe pjɯ-rom ɲɯ-ŋu. 
-\xn sɯŋgɯ pɤjka是一种草，茎很长，可以爬到很远，可以缠在其他树干和草的茎上开花结果。花象喇叭一样，是黄色的。果实很象黄瓜，但小一点。叶子和南瓜的叶子一样，叶子上还长有刺，春夏生长，冬天枯萎。
+\xn {sɯŋgɯpɤjka}是一种草，茎很长，可以爬到很远，可以缠在其他树干和草的茎上开花结果。花象喇叭一样，是黄色的。果实很象黄瓜，但小一点。叶子和南瓜的叶子一样，叶子上还长有刺，春夏生长，冬天枯萎。
 
 \lx sɯɴɢoʁ
 \ps n
@@ -9504,7 +9504,7 @@
 \hbf plante 
 \et dʑa.mo
 \xv tɕamu nɯ χsɯ-tɯ-phu tu tɕe, sɯjno ci tu tɕe ɯ-jwaʁ kɯ-rʁom tsa ci ŋu, mɤ-mbro, ɯ-mɯntoʁ ɯ-ru kɯ-xtshɯm kɯ-zri tsa tu-ɬoʁ tɕe ɯ-mɯntoʁ ku-ɣrum ɲɯ-lɤt ŋu, ɯ-mɯntoʁ ɯ-qhu pɕoʁ nɯ kɯ-ɣɯrni kɯ-qandʐi tsa ŋu, ɯ-jwaʁ nɯ ɲɯ́-wɣ-sɯɣ-rom tɕe, tʂha kɤ-nɯ-ta sna, tɕe núɣndʐa tɕamu rmi. li ci tɯ-tɯ-phu nɯ, ɕkrɤz kɯ-do tsa ɣɯ ɯ-ci kɯ-ɣɯrni tɤ-se ʑo kɯ-fse pjɯ-nɯɬoʁ tɕe, cɯschɯz to-jtɯ tɕe tɤ-rʑaʁ tɤ-rɲɟi tɕe ku-jkrɯt tɕe ɯ-rŋgɤm ɲɯ-βze tɕe ɯ-nɯnɯ wuma ʑo tʂha kɯ-ʑru tɯ-mtshi kɯ-mŋɤm kɯ-phɤn ɲɯ-ŋu khi, tɕeri wuma ʑo kɤ-mto rkɯn. ɕkrɤz ɯ-kɤ-χcɤl ri kɯ-rko kɯ-kɯ-ndzoʁ ci tu tɕe nɯ li tʂha ku-nɯ-tá-nɯ pɯ-ŋgrɤl. mɤʑɯ tɯ-tɯ-phu nɯ sɤjku ɯ-taʁ ku-kɯ-ndzoʁ tɕe, kɯ-rko ci ɲɯ-ŋu tɕe ɯ-nɯnɯ pjɯ́-wɣ-qrɯ tɕe ɲɯ-ɣɯrni tsa tɕe nɯnɯ li tʂha ɯ-rca kú-wɣ-nɯ-ta tɕe tʂha ɯ-mdoʁ ɲɯ-ɣɤ-mpɕɤr cha. 
-\xn tɕamu有三种，其中一个是一种草，叶子有点粗糙，长得不高，花茎比较细长，开白花，花背面是暗红色的，把叶子晒干了以后，可以熬茶喝，所以叫作tɕamu。还有一种是比较老的青冈树上流出红色象血一样的液体滴在某个地方时，时间一长就会凝结成了坚硬的固体，那是一种优质的茶，据说可以治胃病，但是很罕见。在青冈树上也会长出一种硬东西，以前曾经有人把它当茶喝。还有一种是长在白桦树的硬东西，打碎了里面是红色的，把它放在马茶里熬使茶水颜色好看。
+\xn {tɕamu}有三种，其中一个是一种草，叶子有点粗糙，长得不高，花茎比较细长，开白花，花背面是暗红色的，把叶子晒干了以后，可以熬茶喝，所以叫作{tɕamu}。还有一种是比较老的青冈树上流出红色象血一样的液体滴在某个地方时，时间一长就会凝结成了坚硬的固体，那是一种优质的茶，据说可以治胃病，但是很罕见。在青冈树上也会长出一种硬东西，以前曾经有人把它当茶喝。还有一种是长在白桦树的硬东西，打碎了里面是红色的，把它放在马茶里熬使茶水颜色好看。
 
 \lx tɕaŋnɤ
 \ps conj
@@ -13619,8 +13619,8 @@
 \cf tshi¹
 \dt 26/May/2013
 
-\lx tɯ-tshot
-\ps cl
+\lx tɯtshot
+\ps n
 \wav8 tWtshot
 \wav8 tWtshot2
 \wav8 tArtoRa
@@ -15660,7 +15660,7 @@
 \gn 鞋边（鞋子、靴子盖脚的部分） 
 \hbf objet traditionel 
 \xv xtsɤrkɯ nɯ tɯ-xtsa χchoʁe ɯ-pa mŋulɤn ɯ-sɤ-tshoʁ nɯ ŋu, xtsɤrkɯ ɯ-taʁ nɯ tɕu xtsɤku pjɯ́-wɣ-tshoʁ, ɯ-ŋgɯ ɯ-pɕoʁ nɯ tɕu xtsɤkɤŋgɯ pjɯ-tu ra, xtsɤkɤŋgɯ nɯ tɯ-ŋgar pjɯ-ŋu ra, xtsɤku nɯ cɤndʐi nɯ maʁ nɤ ɕkom ndʐi, nɯ maʁ nɤ qartshɤndʐi kɯ-mba pjɯ-ŋu ɲɯ-ra. tɯ-xtsa nɯ ɯ-qhu tɕe ɯ-srɯβzɤn pjɯ-tu ɲɯ-ra, tɯ-xtsa nɯ tú-wɣ-ŋga tɕe wuma ʑo mpja. tɯ-xtsa ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ konaʁxtsa rmi, ɯ-xtsɤrkɯ nɯ komɤr thɯ-kɤ-sɯɣ-ɲaʁ ŋu, mɤʑɯ tɯ-tɯphu nɯ koscaxtsa rmi, tɕe ɯ-xtsɤrkɯ nɯ mɯ-pɯ-kɤ-sɯɣ-tshwi ŋu. 
-\xn 鞋帮的左右两边的下侧装鞋底，上面装靴筒，在内层要有内衬，是用羊毛织出来的布料。靴筒是用獐子皮、麂子皮或是比较薄的鹿子皮做成的。在鞋后面要有srɯβzɤn（在缝合处夹的一块布料）。这种鞋子穿起来很暖和。鞋子分成两种，一种叫konaʁ xtsa，鞋帮是染成黑色的红皮子，另一种叫kosca xtsa，鞋帮是根本没有染色的皮子。 
+\xn 鞋帮的左右两边的下侧装鞋底，上面装靴筒，在内层要有内衬，是用羊毛织出来的布料。靴筒是用獐子皮、麂子皮或是比较薄的鹿子皮做成的。在鞋后面要有{srɯβzɤn}（在缝合处夹的一块布料）。这种鞋子穿起来很暖和。鞋子分成两种，一种叫{konaʁ xtsa}，鞋帮是染成黑色的红皮子，另一种叫{kosca xtsa}，鞋帮是根本没有染色的皮子。 
 \nqr
 \dt 13/Dec/2012
 
@@ -61240,7 +61240,7 @@ da.lie 打猎
 \gn 植物的一种 
 \hbf plante 
 \xv khɯdi nɯ ruŋgu kɯ-mbro tu-kɯ-ɬoʁ sɯjno kɯ-xtɕi ci ŋu, ɯ-jwaʁ nɯ kɯ-zri tɕe kɤ-mtɕoʁ ci ŋu, ɯ-jwaʁ ɯ-qhu nɯ ɣrum, ɯ-jwaʁ mpɕu, ɯ-ru nɯ jima ɯ-ru ʑo fse, ɣɯrni, tɯ-rtsɤɣ tɯ-rtsɤɣ lu-ɬoʁ ŋu. ɯ-mɯntoʁ nɯ ɯ-ru ɯ-kɤ-χcɤl lu-ɬoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ ɣrum. pɯ-ŋgra tɕe, jima ɯ-mat kɯ-fse ɲɯ-βze ŋu, tɕeri jima kɯ-fse ɯ-rqhu me, kɯ-ɣɯrni ŋu. khɯdi nɯ tɤ-χpɯm ɯ-fsu ɕoŋtaʁ tu-mbro mɤ-cha. ɯ-qa nɯ tɤ-potso ɯ-ŋgo kɯ-phɤn ɲɯ-ŋu khi. 
-\xn khɯdi是长在很高的草地上的小草。叶子长而尖，叶子背面是白色的，叶子光滑。茎象玉米的茎一样，是红色的，是一节一节长出来的。花开在茎的顶端，是白色的。花凋谢后，果实象玉米的一样，但是没有象玉米棒子一样的皮裹着，是红色的。khɯdi只能长到人的膝盖那么高。根对孩子的病有疗效。
+\xn {khɯdi}是长在很高的草地上的小草。叶子长而尖，叶子背面是白色的，叶子光滑。茎象玉米的茎一样，是红色的，是一节一节长出来的。花开在茎的顶端，是白色的。花凋谢后，果实象玉米的一样，但是没有象玉米棒子一样的皮裹着，是红色的。{khɯdi}只能长到人的膝盖那么高。根对孩子的病有疗效。
 \dt 27/Aug/2012
 
 \lx ^khɯɣɲɟɯ
@@ -61887,7 +61887,7 @@ da.lie 打猎
 \gn 植物的一种 
 \hbf plante 
 \xv maldzɯ nɯ ruŋgu kɯ-mbro kɯ-ɣɤndʐo tsa tu-kɯ-ɬoʁ sɯjno ci ŋu, ɯ-jwaʁ ɯ-tshɯɣa nɯ ra qarɣɤpɤt cho naχtɕɯɣ, ɯ-jwaʁ nɯ ra ɯ-rme tu, ɯ-ru kɯ-xtshɯ-xtshɯm ŋu, kɯ-qandʐi tɕe ɯ-taʁ ɯ-rme kɯ-tu ŋu, ɯ-mɯntoʁ li ɯ-fkɯm nɯ li ɯ-rme tu, tɕe pɯ-ɴɢaʁ tɕe ɯ-ŋgɯ ɯ-mɯntoʁ ɲɤ-nɯɬoʁ ŋu. ɯ-mɯntoʁ nɯ-nɯɬoʁ ɕimɯma tɕe, aʁrɯrʁu tɕe ʑirɯʑɤri pjɯ-ɤstɤko tɕe kɯ-ɣɯrni ŋu, ɯ-mɯntoʁ χsɯ-mpɕar ma me, . kɯ-rɲɟi tɕe kɤ-mtɕoʁ ŋu. ɯ-rɣi me. 
-\xn maldzɯ 是生长在高山上、气候比较寒冷的一种草。叶子形状和鹿茸花的一样，叶子上有毛，茎很细，是乌色的，上面也有一点毛。花萼上也有毛，掉下了以后，里面就漏出花来。花刚漏出来时，是皱着的，逐渐伸展。花是红色的，只有三片花瓣，是长而尖的。没有种子。
+\xn {maldzɯ} 是生长在高山上、气候比较寒冷的一种草。叶子形状和鹿茸花的一样，叶子上有毛，茎很细，是乌色的，上面也有一点毛。花萼上也有毛，掉下了以后，里面就漏出花来。花刚漏出来时，是皱着的，逐渐伸展。花是红色的，只有三片花瓣，是长而尖的。没有种子。
 \dt 01/Jan/2012
 
 \lx ^maχi
@@ -61995,7 +61995,7 @@ da.lie 打猎
 \gn 犁的组成部分之一 
 \hbf charrue 
 \xv mbɣɤsroʁ nɯ mbɣɤru cho mbɣopɤl ni ndʑi-kɯ-ɣɯthaʁ ŋu 
-\xn mbɣosroʁ是连接犁头和主干和的部分。 
+\xn {mbɣɤsroʁ}是连接犁头和主干和的部分。 
 \nqr
 \dt 01/Jan/2012
 
@@ -62014,7 +62014,7 @@ da.lie 打猎
 \gn 用来固定铧头的部分 
 \hbf charrue 
 \xv mbɣopɤl nɯ qraʁ ɯ-sɤ-tshoʁ nɯ ŋu, mbɣopɤl ɯ-pa qraʁ tú-wɣ-tshoʁ, mbɣoru chɯ́-wɣ-tshoʁ tɕe kɤ-ntɕhoz tɯ-sna ɕti 
-\xn mbɣopɤl是用来固定铧头的部分，mbɣopɤl下端装上铧头，上端连上犁杆，就可以用了。 
+\xn {mbɣopɤl}是用来固定铧头的部分，{mbɣopɤl}下端装上铧头，上端连上犁杆，就可以用了。 
 \nqr
 \dt 01/Jan/2012
 
@@ -62037,7 +62037,7 @@ da.lie 打猎
 \gn 正方形的麻布 
 \hbf objet traditionel 
 \xv mboʁ nɯ ɯ-spa tɤ-sa ŋu, tɤ-sa lú-wɣ-pɣo tɕe lú-wɣ-rɯm tɕe tú-wɣ-rɯtɤβri tɕe kú-wɣ-sqa, kɤ́-wɣ-sqa tɕe ɯ-ŋgɯ thɤfkɤlɤɣi kú-wɣ-lɤt ra, nɯ mɤɕtʂa ku-smi mɤ-cha. kɤ-smi tɕe, ɲɯ́-wɣ-z-mɯɕtaʁ tɕe ɲɯ́-wɣ-χtɕi tɕe tɤ-zbaʁ tɕe kú-wɣ-sɤrɤt tɕe kɤ-taʁ kú-wɣ-thɯ ŋu. tɕe kɤ-taʁ thɯ-jɤɣ tɕe tɯ-rtɯthɯ ŋu tɕe ɣɯ-xtsɯ ra ɯ-xtsɯ pɯ-rtaʁ tɕe ɲɯ-mba ŋu ɲɯ-mpɕu ŋu tɕe chɯ́-wɣ-tʂɯβ tɕe, kɤ-βʑɯrdɯ-rdu ʑo ɲɯ́-wɣ-βzu tɕe ɯ-βzɯr tɯ-ka nɯ tɕu ɯ-jndɯz cho ɯ-ltɕi kú-wɣ-tshoʁ tɕe kɤ-ntɕhoz tu-βze ŋu. tɕe ɯ-mboʁ nɯ kɯ-tɣa tɕe tɯ-fcaʁ ŋu, tɯ-mbri cho tɯ-ɲcɣa ɣɯ ɯ-fkɯm ŋu, tɯ-mthɤɣ ɲɯ́-wɣ-rtɤβ ŋu tɕe mɤ-saʁdɯɣ. 
-\xn mboʁ 的材料是大麻。要把麻捻成细线，搓紧，再反搓成一绞一绞的，然后煮了。煮的时候，要放大量的草木灰，不然煮不熟。煮熟了以后晾凉，然后洗干净。干了以后，把线卸下来堆在一旁，然后在牵杆上牵起来。织完了以后就成麻布，还要锤打。锤打好了以后，麻布就变薄了，变得很光滑，然后就把麻布缝成四方形的，在四个角做上流苏和彩色布条，这样就可以用了。mboʁ在收割的时候可以垫背或者裹绳子和镰刀，可以围在腰间，不碍事。
+\xn {mboʁ} 的材料是大麻。要把麻捻成细线，搓紧，再反搓成一绞一绞的，然后煮了。煮的时候，要放大量的草木灰，不然煮不熟。煮熟了以后晾凉，然后洗干净。干了以后，把线卸下来堆在一旁，然后在牵杆上牵起来。织完了以后就成麻布，还要锤打。锤打好了以后，麻布就变薄了，变得很光滑，然后就把麻布缝成四方形的，在四个角做上流苏和彩色布条，这样就可以用了。{mboʁ}在收割的时候可以垫背或者裹绳子和镰刀，可以围在腰间，不碍事。
 \dt 01/Jan/2012
 
 \lx ^mbrɤj
@@ -62093,7 +62093,7 @@ da.lie 打猎
 \gn 一种蘑菇 
 \hbf champignon 
 \xv mbrɤʑim nɯ stɤmku kɯ-ɤmɯrmbɯrmbat ʑo tu-ɬoʁ, tɤ-jmɤɣ kɯ-ndɯβ-ndɯβ ʑo ŋu, thɯ-kɤ-ɣɯri ʑo fse, kɯ-wɣrum ŋu, kɤ-ndza wuma mɯm, ftɕar tɕe tu-ɬoʁ ŋu 
-\xn mbrɤʑim是长在草地上一丛丛的小菌子，像是用线串起来的，呈白色，好吃，夏天生长。
+\xn {mbrɤʑim}是长在草地上一丛丛的小菌子，像是用线串起来的，呈白色，好吃，夏天生长。
 \dt 01/Jan/2012
 
 \lx ^mbroŋ
@@ -63447,7 +63447,7 @@ da.lie 打猎
 \gn 铜罐子，口小腹大，有斜着的倒水用的嘴口，没有盖子 
 \hbf 545 
 \xv poxco nɯ kontsi nɯ ɯ-ŋgɯz kɯ-wxti tsa ci ŋu, tɯ-ci sqamnɯz tɯ-rpa jamar tɕhɯt, nɯ sɤz kɯ-xtɕi tɕi tu, poxco ɯ-mtɕhi ɯ-phaʁ ntsi ri ɲɯ-ru ŋu, ɯ-xtu kɯ-wxtɯ-wxti ŋu, ɯ-spa nɯ zaŋ ŋu, ɯ-jɯ wuma ʑo ngɯt. kɯɕɯŋgɯ tɕe tʂha ɯ-sɤ-ta pjɤ-ŋu, tɯ-rme kɤ-ro pjɤ-rkɯn. tɯ-rme kɯ-tshu nɯ-xtu kɯ-wxti nɯ ra poxco tu-sɤrmí-nɯ ŋgrɤl. 
-\xn poxco是罐子里面比较大的一种，可以容下十二斤水，比较小的也有。罐子嘴是斜的，有很大的肚子，是用红铜铸成的，把很结实。过去，是用来熬茶的罐子，拥有这种罐子的人不多。肚子很大，比较胖的人有时候说他们是poxco。 
+\xn {poxco}是罐子里面比较大的一种，可以容下十二斤水，比较小的也有。罐子嘴是斜的，有很大的肚子，是用红铜铸成的，把很结实。过去，是用来熬茶的罐子，拥有这种罐子的人不多。肚子很大，比较胖的人有时候说他们是{poxco}。
 \nqr
 \dt 16/Apr/2012
 
@@ -63577,7 +63577,7 @@ da.lie 打猎
 \gn 红铜小罐子 
 \hbf 545 
 \xv pɯtshɯŋ nɯ kontsi kɯ-xtɕɯ-xtɕi ci ŋu, tɯ-ci rɟɤpɕɤt jamar ma mɤ-tɕhɯt, ɯ-spa nɯ li tu-kɯ-tí-nɯ ɲɯ-ŋu, ɯ-mdoʁ aɣrɤɣrum tsa, ɯ-mŋu zɯ ɯ-mtɕhi kɯ-zri tsa ʑo tu, ɯ-jɯ wuma ʑo ngɯt, ɯ-xtu mɤ-wxti, ɯ-qa nɯ kɯ-ntɯ-ntaβ ŋu. kɯɕɯŋgɯ tɕe, tɯ-rme kɯ-ŋgro ra ɣɯ nɯ-cha ɯ-z-nɤrkɯrku pjɤ-ŋu. 
-\xn pɯtshɯŋ是比较小的罐子，只容得下半斤水，据说是用铜做成，颜色有点白，有比较长的嘴，把很结实，肚子不大，底部放起来很稳。过去，是用来给贵宾倒酒的罐子。 
+\xn {pɯtshɯŋ}是比较小的罐子，只容得下半斤水，据说是用铜做成，颜色有点白，有比较长的嘴，把很结实，肚子不大，底部放起来很稳。过去，是用来给贵宾倒酒的罐子。 
 \nqr
 \dt 17/Apr/2012
 
@@ -63731,8 +63731,8 @@ da.lie 打猎
 \ge rapace 
 \gn 鹰科，无法定到种 
 \hbf oiseau 
-\xv qale kɯ-tshi nɯ pɣa kɯ-xtɕi tsa ci ŋu, ɲɯ-nɯqambɯmbjom ɯ-raŋ zɯ, nɤmkha zɯ tɯ-tshot χsɯ-skɤrma jamar ɯ-stu ku-rɤʑi ɲɯ-ŋgrɤl, tɕe tsuku kɯ tɕe qale ɯ-kɯ-tshi, tsɯku kɯ tɕe qale ɯ-kɯ-ndza tu-kɯ-tí-nɯ ŋu, tɕhi tu-ste ŋgrɤl nɯ mɤ-xsi. ɯ-βri nɯ kɯ-pɣi tsa ci ŋu. 
-\xn qale kɯ-tshi是一种比较小的鸟，飞的时候，可以在空中停住三分钟左右，有的人说它在挡风，有的说在吃风，不知道哪一种说法是对的。身子是灰色的。 
+\xv qalekɯtshi nɯ pɣa kɯ-xtɕi tsa ci ŋu, ɲɯ-nɯqambɯmbjom ɯ-raŋ zɯ, nɤmkha zɯ tɯ-tshot χsɯ-skɤrma jamar ɯ-stu ku-rɤʑi ɲɯ-ŋgrɤl, tɕe tsuku kɯ tɕe qale ɯ-kɯ-tshi, tsɯku kɯ tɕe qale ɯ-kɯ-ndza tu-kɯ-tí-nɯ ŋu, tɕhi tu-ste ŋgrɤl nɯ mɤ-xsi. ɯ-βri nɯ kɯ-pɣi tsa ci ŋu. 
+\xn {qalekɯtshi}是一种比较小的鸟，飞的时候，可以在空中停住三分钟左右，有的人说它在挡风，有的说在吃风，不知道哪一种说法是对的。身子是灰色的。 
 \nqr
 \dt 17/Apr/2012
 
@@ -63901,7 +63901,7 @@ da.lie 打猎
 \gn 燧石 
 \hbf 536 
 \xv qapi nɯ rdɤstaʁ ku-ɣrum ŋu, kha znde ɣɯ ɯ-kɤχcɤl kɤ-mtɕoʁ zɯ ɲɯ́-wɣ-ta ŋgrɤl tɕe βzɯrtɕoʁ ɲɯ-rmi. tɯ-ji kɯ-wxti ɣɯ ɯ-χcɤl ɲɯ́-wɣ-ta ɲɯ-ŋgrɤl tɕe, nɯ tɕu tce ʑaŋɬa ɲɯ-rmi. tɕe qapi nɯ ɯ-taʁ tɕaʁmɤr pjɯ́-wɣ-lɤt tɕe smɯtɕɣom tu-ɬoʁ ŋgrɤl tɕe kɯɕɯŋgɯ βʁɯz smi ɯ-sɤ-sɯ-mɟa nɯ qapi cho tɕaʁmɤr ni kɯ tú-wɣ-sɯ-βzu-nɯ pjɤ-ŋu. smi kɯ-me tɕe tɯ-rme tɤ-ndzɤtshi kɤ-βzu mɤ-khɯ tɕe kɯ-ɕɯŋgɯ qapi nɯ wuma ʑo kɯ-ʁzi pjɤ-ɕti 
-\xn qapi是一种白石头，这种石头放在屋顶的四角上，这时候叫“ βzɯrtɕoʁ”。有人会把它放在最大的田地中间，这时候叫“ʑaŋɬa”。在白石头上打火镰就会迸出火星。过去，引燃火绒的就是白石头和火镰。没有火，人们就不能做饭，所以过去白石头是非常重要的一个东西。 
+\xn {qapi}是一种白石头，这种石头放在屋顶的四角上，这时候叫{βzɯrtɕoʁ}。有人会把它放在最大的田地中间，这时候叫{ʑaŋɬa}。在白石头上打火镰就会迸出火星。过去，引燃火绒的就是白石头和火镰。没有火，人们就不能做饭，所以过去白石头是非常重要的一个东西。 
 \nqr
 \dt 17/Apr/2012
 
@@ -63979,7 +63979,7 @@ da.lie 打猎
 \gn 灌木的一种 
 \hbf plante 
 \xv qarɣe nɯ si ci ŋu, khro mɤ-mbro, ɯ-ru nɯ kɯ-ɣɯrni ɯ-ŋgɯ ri kɯ-qarŋe tsa ŋu, ɯ-ru nɯ ndoʁ, χɕitka tɕe kɯ-maʁ si ra ɕɯŋgɯ ɯ-jwaʁ ɲɯ-lɤt ɕɯŋgɯ ɲɯ-rɯmɯntoʁ ŋu. ɯ-ru cho ɯ-mɯntoʁ nɯ ɯ-dɯχɯn mnɤm, ndzɤtshi ɯ-cu kɤ-nɯlɤt sna 
-\xn qarɣe是一种树，长的不高，树干红里带黄，木质很脆。到了春天，开花时间比其他树早，甚至在自己出叶之前开花，树干和花都有香味，可以用来作香料。
+\xn {qarɣe}是一种树，长的不高，树干红里带黄，木质很脆。到了春天，开花时间比其他树早，甚至在自己出叶之前开花，树干和花都有香味，可以用来作香料。
 \dt 18/Apr/2012
 
 \lx ^qarɣɯ
@@ -63989,7 +63989,7 @@ da.lie 打猎
 \gn 蔷薇科的一种 
 \hbf plante 
 \xv qarɣɯ nɯ si ci ŋu wuma sthɯci mɤ-mbro, ɯ-mdzu wuma ʑo jaʁ mtɕoʁ, ɯ-mdzu ɯ-kɤ-χcɤl ŋgɤɣ ʑo ŋu, ɯ-jwaʁ kɯ-ndɯβ tsa kɤ-rtɯm ŋu, ɯ-jwaʁ βzɯʁ nɯ ra ɯ-mdzu kɯ-fse tu, ɯ-mɯntoʁ kɯ-ɣɯrni tu ku-ɣrum tu, ɯ-mat nɯ pɣa ra kɯ tu-ndzá-nɯ ŋu ma nɯ ma ɯ-kɯ-ndza me 
-\xn qarɣɯ是一种树，长得不怎么高，刺长得又厚又尖锐，刺的顶端还有钩，叶子小而圆，边缘还有小刺，花有的是红色的，有的是白色的。果实只有鸟吃，其他动物都不吃。
+\xn {qarɣɯ}是一种树，长得不怎么高，刺长得又厚又尖锐，刺的顶端还有钩，叶子小而圆，边缘还有小刺，花有的是红色的，有的是白色的。果实只有鸟吃，其他动物都不吃。
 \dt 18/Apr/2012
 
 \lx ^qarma
@@ -64010,7 +64010,7 @@ da.lie 打猎
 \gn 植物的一种 
 \hbf plante 
 \xv qarma mtshalu nɯ sɯjno ci ŋu, mtshalu cho naχtɕɯɣ, tɕeri ɯ-mdoʁ nɯ afsoʁŋgi, ɯ-rme kɯ-xtɕɯ-xtɕi tu ri mɤ-sɤmtsɯɣ, kɤ-ndza sna. qarma mtshalu kɤntɕhɯ tɯ-phu tu tɕe, tɯ-tɯ-phu nɯ ɯ-mɯntoʁ ku-ɣrum ɲɯ-lɤt ŋu, ɯ-mat tha-βzu tɕe, kɯ-rɲɟi tsa chɯ-βze tɕe, thɯ-fka tsaʁ tɕe, kú-wɣ-ndo tɕe ɲɤ-mboʁ ŋu. ɲɤ-mboʁ tɕe ɯ-rdoʁ pjɯ-nɯɬoʁ, ɯ-fkɯm rʁoʁ ʑo tu-ti tɕe lo-rʁɯrʁu ŋu. tɯ-rme nɯɕimɯma ʑo tu-kɯ-sɤmbrɯ nɤ qarma mtshalu tu-sɤrmí-nɯ ŋgrɤl 
-\xn qarma mtshalu 是一种植物，和荨麻一样，但颜色浅一些，虽然有一些毛，但不蜇人，可以吃qarma mtshalu有几种。其中一个开白花，结果实的时候，果实有点长，结得饱满时，用手一摸就会突然破烂，漏出种子，种子的壳就会卷起来。突然生气的人，人们说他是qarma mtshalu。
+\xn {qarma mtshalu}是一种植物，和荨麻一样，但颜色浅一些，虽然有一些毛，但不蜇人，可以吃{qarma mtshalu}有几种。其中一个开白花，结果实的时候，果实有点长，结得饱满时，用手一摸就会突然破烂，漏出种子，种子的壳就会卷起来。突然生气的人，人们说他是{qarma mtshalu}。
 \dt 18/Apr/2012
 
 \lx ^qartsɤβ
@@ -64035,7 +64035,8 @@ da.lie 打猎
 \gn 葱 
 \hbf plante 
 \xv ^qartshaɕku nɯ ruŋgu kɯ-mbro ɣɯ tɕhitoʁ ku tsa tu-ɬoʁ ɲɯ-ŋu, ɯ-tshɯɣa nɯ ɕkɤtshoŋ cho ɲɯ-naχtɕɯɣ, ɯ-ru maŋe, ɯ-jwaʁ nɯ kɤ-lɯlju tɕe qhoʁsjɯβ ɲɯ-ŋu, ɯ-tho ɣɤʑu, ɯ-qa li ɯ-rqhu kɤntɕhɯ-tɤlɤβ ɣɤʑu. ɯ-dɯχɯn wuma ɲɯ-mɯm. 
-\xn qartsha ɕku生长在高山的水草地里，形状和葱子一样，没有茎，叶子是空心的、圆柱形的。有花梗。根也有很多层皮。味道很香。
+\xn {qartshɤɕku}生长在高山的水草地里，形状和葱子一样，没有茎，叶子是空心的、圆柱形的。有花梗。根也有很多层皮。味道很香。
+\cf qartshaz
 \dt 18/Apr/2012
 
 \lx ^qartshɤndʐi
@@ -64043,6 +64044,7 @@ da.lie 打猎
 \ps n
 \ge peau de cerf 
 \gn 鹿皮 
+\cf qartshaz
 \cf tɯ-ndʐi
 \dt 26/Jan/2015
 
@@ -64091,7 +64093,7 @@ da.lie 打猎
 \gn 沙锅 
 \hbf 545 
 \xv qarwoʁ nɯ tɤ-rcoʁ kɯ tɤ-kɤ-sɯ-βzu ŋu, kɯɕɯŋgɯ tɕe rgargɯn ra ɣɯ nɯ-tʂha ɯ-sɤ-ta pjɤ-ŋu, ɯ-mŋu ri ɯ-mtɕhi tu tɕe tʂha pɯ́-wɣ-rku tɕe mɤ-jit. qarwoʁ ɯ-ŋgɯ tʂha ŋotɕu tɤ-ala tɕe thɯ́-wɣ-nɯmɟa kɯ́nɤ pjɯ-mbuz pjɤ-ŋu, ʑaʑa ʑo tɤ-ala mɯ-pjɤ-ʑi tɕe tɯ-rme ɯ-ro kɯ-ŋgɤr ɯ-mbrɯ ʑa mɤ-kɯ-ʑi nɯ ra qarwoʁ tu-sɤrmí-nɯ tu-ŋgrɤl. 
-\xn qarwoʁ是用泥捏成的，过去是专门给老年人熬茶的，开口呈嘴形，倒茶时不会撒。qarwoʁ里的茶一旦烧开了，即使把它从火边移开仍然要溢出来，开个不停，所以人们把脾气暴躁的人说成是qarwoʁ。 
+\xn {qarwoʁ}是用泥捏成的，过去是专门给老年人熬茶的，开口呈嘴形，倒茶时不会撒。{qarwoʁ}里的茶一旦烧开了，即使把它从火边移开仍然要溢出来，开个不停，所以人们把脾气暴躁的人说成是{qarwoʁ}。 
 \nqr
 \dt 18/Apr/2012
 
@@ -64132,8 +64134,8 @@ da.lie 打猎
 \ge edelweiss 
 \gn 火绒草 
 \hbf plante 
-\xv qawɯz nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu, sɯjno ɯ-jwaʁ nɯ ra ɯ-rme kɯ-tu, kɯ-jaʁ kɯ-fse ci ŋu. ɯ-mɯntoʁ ɯ-jwaʁ ɯ-ru lonba ʑo ku-ɣrum ŋu, tɕe ɲɯ́-wɣ-sɯɣ-rom tɕe, tú-wɣ-rŋu, tɕe tɯ-ɕke tɤ-ʑa tɕe, pjɯ́-wɣ-nɤtar tɕe pɯ-ndɯβ tɕe srɯn kɯ-fse ɲɤ-ndɯ-ndo ŋu tɕe, ɯnɯ qawɯz ŋu tɕe, tɕaʁmɤr tɤ́-wɣ-lɤt tɕe, ɯ-smi sɤ-mɟa ŋu. tɕaʁmɤr kɤ-lɤt tɕe, qawɯz tɯ-snaʁ cho qapi ni tɯ-tɯ-ndo kú-wɣ-βzu tɕe tɯ-jaʁ ntsi kɯ tɕaʁmɤr pjɯ́-wɣ-sɯ-lɤt tɕe, qapi cho qawɯz ni ndʑi-ɕnɤz nɯtɕu tɕaʁmɤr pjɯ́-wɣ-lɤt, tɕe qapi ɯ-taʁ smɯtɕɣom tu-ɬoʁ tɕe, qawɯz taʁ smi nɯ tu-nɯt ŋu. kɯɕɯŋgɯ tɕe smi kɤ-sɯ-βzu nɯ tu-stú-nɯ pjɤ-ŋu, tham tɕe nɯ kɯ-ntɕhoz me. 
-\xn qawɯs是一种矮小的植物，叶子长有毛，有点厚。花、叶子和茎都是白色的。晒干了以后，干抄到开始焦黄时就用细条抽打，打细了以后就象棉花一样连在一起，这也就qawɯs。打火镰时，是用来引火的东西。打火镰时，把燧石和一小块qawɯs一起拿在手上另一只手拿着火镰，打在燧石和qawɯs的一角，燧石上迸出火星，qawɯs就会着火。过去取火就是这样的，现在没有人用这种方法了。
+\xv qawɯz nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu, sɯjno ɯ-jwaʁ nɯ ra ɯ-rme kɯ-tu, kɯ-jaʁ kɯ-fse ci ŋu. ɯ-mɯntoʁ ɯ-jwaʁ ɯ-ru lonba ʑo kɯ-wɣrum ŋu, tɕe ɲɯ́-wɣ-sɯɣ-rom tɕe, tú-wɣ-rŋu, tɕe tɯ-ɕke ta-ʑa tɕe, pjɯ́-wɣ-nɤtar tɕe pɯ-ndɯβ tɕe srɯn kɯ-fse ɲɯ-ɤndɯndo ŋu tɕe, ɯnɯ qawɯz ŋu tɕe, tɕaʁmɤr tɤ́-wɣ-lɤt tɕe, ɯ-smi sɤ-mɟa ŋu. tɕaʁmɤr kɤ-lɤt tɕe, qawɯz tɯ-snaʁ cho qapi ni tɯ-tɯ-ndo kú-wɣ-βzu tɕe tɯ-jaʁ ntsi kɯ tɕaʁmɤr pjɯ́-wɣ-sɯ-lɤt tɕe, qapi cho qawɯz ni ndʑi-ɕnɤz nɯtɕu tɕaʁmɤr pjɯ́-wɣ-lɤt, tɕe qapi ɯ-taʁ smɯtɕɣom tu-ɬoʁ tɕe, qawɯz taʁ smi nɯ tu-nɯt ŋu. kɯɕɯŋgɯ tɕe smi kɤ-sɯ-βzu nɯ tu-stú-nɯ pjɤ-ŋu, tham tɕe nɯ kɯ-ntɕhoz me. 
+\xn 火绒草是一种矮小的植物，叶子长有毛，有点厚。花、叶子和茎都是白色的。晒干了以后，干抄到开始焦黄时就用细条抽打，打细了以后就象棉花一样连在一起，这也是火绒草。打火镰时，是用来引火的东西。打火镰时，把燧石和一小块火绒草一起拿在手上另一只手拿着火镰，打在燧石和火绒草的一角，燧石上迸出火星，火绒草就会着火。过去取火就是这样的，现在没有人用这种方法了。
 \dt 18/Apr/2012
 
 \lx ^qaʑmbri
@@ -64177,8 +64179,8 @@ da.lie 打猎
 \ge poireau sauvage 
 \gn 高山上的野韭菜 
 \hbf plante 
-\xv qɤjdo ɕku nɯ aʁɤndɯndɤt sɯŋgɯ tu-ɬoʁ cha, ɯ-jwaʁ ɯ-qhu chu nɯ ɣrum, nɯ maʁ nɯ, ɕkɤpja tsa fse, ri ɯ-ru taʁ kɤ-rɤʑɯʑrɤz nɯ me. ɯ-mɯntoʁ nɤmkha mdoʁ ɲɯ-lɤt ŋu. tú-wɣ-ndza tɕe, ɯ-di mɤ-mɯm. 
-\xn qɤjdo ɕku 能在森林里到处生长，叶子背面是白色的，其他部位跟 ɕkɤpja一样，但茎上没有纹路，开天蓝色的花。吃起来不香。
+\xv qɤjdoɕku nɯ aʁɤndɯndɤt sɯŋgɯ tu-ɬoʁ cha, ɯ-jwaʁ ɯ-qhuchu nɯ wɣrum, nɯ maʁ nɯ, ɕkɤpja tsa fse, ri ɯ-ru taʁ kɤ-rɤʑɯʑrɤz nɯ me. ɯ-mɯntoʁ nɤmkha mdoʁ ɲɯ-lɤt ŋu. tú-wɣ-ndza tɕe, ɯ-di mɤ-mɯm. 
+\xn {qɤjdoɕku}能在森林里到处生长，叶子背面是白色的，其他部位跟 {ɕkɤpja}一样，但茎上没有纹路，开天蓝色的花。吃起来不香。
 \dt 20/Apr/2012
 
 \lx ^qɤjdu
@@ -64188,7 +64190,7 @@ da.lie 打猎
 \gn 乔木的一种 
 \hbf plante 
 \xv qɤjdu nɯ si khro mɤ-kɯ-mbro tsa ci ŋu, zgo ku aʁɤndɯndɤt tu-ɬoʁ cha, si ɯ-βri nɯ kɯ-ɲaʁ ʁɟa ʑo ŋu, ɯ-jwaʁ kɯ́nɤ ldʑaŋnaʁ ɕti, ɯ-mdzu wuma ʑo mtɕoʁ, tɯ-ɕa taʁ kɤ-tsa tɕe tɤ-spɯ ʑo tu-sɤβze cha. ɯ-mat kɯ́nɤ thɯ-tɯt tɕe kɯ-ɲaʁ chɯ-βze ŋu
-\xn qɤjdu是长得不是高的树种，山上山下到处都可以生长，树皮（树身）全是黑色的，连树叶都是深绿色的。刺很锋利，刺到皮肉上会长脓包。果实成熟后也是黑色的 
+\xn {qɤjdu}是长得不是高的树种，山上山下到处都可以生长，树皮（树身）全是黑色的，连树叶都是深绿色的。刺很锋利，刺到皮肉上会长脓包。果实成熟后也是黑色的 
 \xv nɤ-sŋi ɯ-tɯ-ɲaʁ kɯ qɤjdu ʑo ɲɯ-tɯ-fse 
 \xn 你的心黑得象{qɤjdu}一样（你真狠心）。
 \dt 20/Apr/2012
@@ -64268,7 +64270,7 @@ da.lie 打猎
 \hbf 625
 \hbf moulin 
 \xv qhɤjŋgɯ nɯ ɕoŋtɕa kɯ-wxti ʑo chɯ́-wɣ-phɯt tɕe chɯ́-wɣ-nɯrtaʁ chɯ́-wɣ-nɤrqhu tɕe ɯ-rqhioʁ chɯ́-wɣ-tɕɤt tɕe βɣa ɯ-lɤcu chɯ́-wɣ-tshoʁ tɕe ɯ-ŋgɯ tɯ-ci chɯ́-wɣ-sɯ-ɣe tɕe tɕhɯŋkhɤr taʁ chɯ́-wɣ-sɯ-lɤt ɯ-spa ŋu 
-\xn qhɤjŋgɯ（是一种引水槽）。把一棵大树砍下，砍掉枝桠，刨去树皮然后挖一道槽，然后装在磨房上，引水通过槽冲转水车。 
+\xn {qhɤjŋgɯ}（是一种引水槽）。把一棵大树砍下，砍掉枝桠，刨去树皮然后挖一道槽，然后装在磨房上，引水通过槽冲转水车。 
 \nqr
 \dt 20/Apr/2012
 
@@ -67256,7 +67258,7 @@ da.lie 打猎
 \gn 植物的一种 
 \hbf plante 
 \xv spoŋspoz nɯ sɤtɕha kɯ-mbɤr tsa pɕoʁ tu-ɬoʁ ɲɯ-ŋu, ɯ-zrɤm ɲɯ-dɤn, ɲɯ-zri, ɯ-ku ɯ-jwaʁ nɯ ɲɯ-pɣi tɕe ɯ-rme kɯ-fse ɣɤʑu, ɯ-jwaʁ nɯ ɯ-qa ri ɲɤ-ɬoʁ tɕe ɯ-thoʁ pjɤ-ɲɟoʁ kɯ-fse ɲɯ-ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-kɤ-χcɤl tɕe ɲɯ-rɯmɯntoʁ ɲɯ-ŋu. ɯ-mɯntoʁ hanɯni ɲɯ-ɣɯrni, ɯ-mɯntoʁ ɯ-rqhu kɤntɕhɯ-tɤlɤβ ɣɤʑu, ɯ-mɯntoʁ tɯ-rdoʁ ma maŋe, ɯ-rɣi ɣɤʑu ri tu-ɬoʁ mɯ́-j-cha, ɯ-zrɤm taʁ ɲɯ-mphɤl ɲɯ-ɕti. tɯ-xpa tu-ɬoʁ tɕe pjɯ-khrɯ ɲɯ-ɕti, ki sɯjno ki ɯ-di wuma ɲɯ-mɯm, smɤn ɲɯ-sna khi. 
-\xn spoŋspos 生长在海拔低的地方（半山以下），根长得又多又长，苗、叶子的是灰色的，有毛。叶子长在根部上，好象贴住地面，茎长出来以后，顶端上开花。花有点红，花萼有几层，只有一朵花，虽然有种子但是不能发芽，是靠它的根繁殖的。长了一年就会干枯。这种草香味很浓，据说可以入药。
+\xn {spoŋspoz} 生长在海拔低的地方（半山以下），根长得又多又长，苗、叶子的是灰色的，有毛。叶子长在根部上，好象贴住地面，茎长出来以后，顶端上开花。花有点红，花萼有几层，只有一朵花，虽然有种子但是不能发芽，是靠它的根繁殖的。长了一年就会干枯。这种草香味很浓，据说可以入药。
 \dt 02/May/2012
 
 \lx ^sporɟɤlɯla
@@ -70522,7 +70524,7 @@ l
 \ge marteau 
 \gn 二锤 
 \xv thɤtɕɯ nɯ kɯ-rɤznde ra ɣɯ nɯ-laʁdɤn ŋu rdɤstaʁ ra ɯ-sɤz-ɣɤβdoʁβdi ŋu, ɯ-ku nɯ ɕom tɕe ɯ-jɯ laʁjɯɣ thɯ-kɤ-tshoʁ ci ŋu 
-\xn thɤtɕɯ是石匠的工具，是用来修理石头的，头是铁作成，把子是一节木棒。
+\xn 二锤是石匠的工具，是用来修理石头的，头是铁作成，把子是一节木棒。
 \dt 06/May/2012
 
 \lx ^thɣe
