@@ -5095,7 +5095,7 @@
 \lx ndzaʁlaŋ
 \ps n
 \ge le monde 
-\gn 地球 
+\gn 世界 
 \et ɴdzam.gliŋ
 \dt 07/Oct/2014
 
@@ -9911,6 +9911,7 @@
 \ps n
 \ge inondation 
 \gn 洪水
+\et *tɕʰu.sloŋ
 
 \lx tɕhɯsmɤn
 \ps n
@@ -9932,6 +9933,7 @@
 \xv a-jaʁ tɕhɯwɯr rɣurɣu ʑo to-rku
 \xn 我手上长了水泡
 \cf cɯmbɤrom
+\et tɕʰu.bur
 \dt 16/May/2014
 
 \lx tɕhɯχtɤrci
@@ -10079,7 +10081,7 @@
 \hbf tissage 
 \et ɴtʰag.ɕa
 \xv thaʁɕa nɯ tɤ-rɤm thɯ-kɤ-βʑoʁ tɕe nɯ-kɤ-ɣɤmpɕu tɕe stɤsmɤt thɯ-kɤ-sɤmtɕoʁ ŋu, thɯ-kɯ-taʁ tɕe kɤ-taʁ ɯ-sqar ɯ-sɤ-lɤt ɯ-spa ŋu 
-\xn {thaʁɕa}是把木版削平了以后，两头削尖了，是用来让经线和纬线的交叉部分上下移动的工具
+\xn {thaʁɕa}是把木板削平了以后，两头削尖了，是用来让经线和纬线的交叉部分上下移动的工具
 \dt 20/May/2013
 
 \lx thaʁŋkhor
@@ -10153,9 +10155,9 @@
 \xv thɤstɯɣ tɯ-zɣɯt ?
 \xn 你有多大？
 \xv thɤstɯɣ thɯ-tɯ-ɤzɣɯt ?
-\xn 你多大了
+\xn 你多大了？
 \xv nɤʑo kɯrɯskɤt pɯ-tɯ-βzjoz nɯ thɤstɯɣ to-tsu ? 
-\xn 你藏语学了多久
+\xn 你藏语学了多久？
 \xv thɤstɯ-tɯrpa
 \xn 几斤
 \dt 26/Jan/2015
@@ -10225,7 +10227,7 @@
 \gn 乔木的一种[马鹿柴] 
 \hbf plante 
 \xv thowum nɯ si kɯ-mbro kɯ-jpum tsa ci ŋu, aʁɤndɯndɤt ʑo tu-ɬoʁ cha. wuma ʑo ɲɯ-ɤɣɯrtɯrtaʁ cha. ɯ-jwaʁ artɯm tɕe ɯ-ku lu-ɤmtɕoʁ ŋu. si ɯ-ru cho ɯ-rtaʁ nɯ kɯ-ɣɯrni ŋu. ɯ-si mɤ-ngɯt, ndoʁ, sna me, kɤ-nɯβlɯ kɯ́nɤ khro mɤ-pe, ɯ-mɯntoʁ ku-ɣrum ɲɯ-lɤt ŋu. ɯ-mɯntoʁ ɯ-jɯ nɯ zri tsa ɯ-mat thɯ-tɯt tɕe kɯ-ɣɯrni ʂɣɤl-ʂɣɤl ʑo kɯ-pa ŋu, laŋlaŋ ɯ-mat cho naχtɕɯɣ, tɕeri kɤ-ndza mɤ-sna ma wuma ʑo qiaβ. 
-\xn 马鹿柴是长得又高又粗的树种，到处的可以生长，长很多枝条。叶子是圆形的，有一头是尖的。树干和树枝都是紫红色的。木质不结实，很脆，不能做什么材料，连烧火都不好。开白色的花。花梗有点长。果实成熟时是红而透明的，象laŋ-laŋ的果实，但是不能吃因为很苦。
+\xn 马鹿柴是长得又高又粗的树种，到处都可以生长，长很多枝条。叶子是圆形的，一头尖。树干和树枝都是紫红色的。木质不结实，很脆，不能做什么材料，连烧火都不好。开白色的花。花梗有点长。果实成熟时是红而透明的，象{laŋlaŋ}的果实，但是不能吃因为很苦。
 \dt 05/May/2014
 
 \lx thu²
@@ -10243,7 +10245,7 @@
 \lx thɯci
 \ps pro
 \ge quelque chose, n'importe quoi, n'importe lequel 
-\gn 某个 、随便什么，任何一个 
+\gn 某个、随便什么，任何一个 
 \cf thɯthɤci
 \dt 12/May/2014
 
@@ -10416,6 +10418,7 @@
 \gn 放生
 \xv tshɤthɤr lo-lɤt
 \xn 他放生了
+\et tsʰe.tʰar
 \dt 29/Dec/2014
 
 \lx tshɤtʂot
@@ -10845,7 +10848,7 @@
 \xv a-ɕtʂi pɯ-ɬoʁ
 \xn 我流了汗
 \xv ki ta-ma ɲɯ-ɴqa tɕe a-ɕtʂi ʑo pa-tɕɤt
-\xn 这个工作很辛苦，令我一身都是汗
+\xn 这个工作很辛苦，搞得我一身都是汗
 \cf sɯɕtʂi
 
 \lx tɯ-ɕtɯ
@@ -10867,7 +10870,7 @@
 \lx tɯfcaʁ
 \ps n
 \ge tissu ou morceau de cuir utilisé pour protéger les vêtements lorsque l'on porte quelque chose sur le dos 
-\gn 背东西时保护衣服、垫背子的麻布或皮子 
+\gn 背东西时垫在背上保护衣服的麻布或皮子 
 \cf nɤfcaʁ
 \dt 20/Dec/2012
 
@@ -11228,7 +11231,7 @@
 \gn 骂人的话 
 \xv tɯjʁo ta-khɤt
 \xn 他骂了很久 
-\xv tɯʁjo χɕu 
+\xv tɯjʁo χɕu 
 \xn 他骂人很厉害
 \dt 29/May/2013
 
@@ -11280,6 +11283,7 @@
 \ps cl
 \ge pied 
 \gn 尺 
+\et kʰa
 \hbf 901
 
 \lx tɯ-khɤftsɯɣ
@@ -11319,12 +11323,13 @@
 \ge place dans la hiérarchie 
 \gn 官职 
 \hbf 199 
+\et kʰur
 \dt 29/May/2013
 
 \lx tɯkon
 \ps n
 \ge pouvoir 
-\gn 权利 
+\gn 权力
 \et fn:权
 \dt 29/May/2013
 
@@ -11576,7 +11581,7 @@
 \lx tɯ-mbur
 \ps np
 \ge sur les genoux 
-\gn 坐着，大腿上面 
+\gn 在大腿上面坐着的
 \hbf *tɤrɯʁnɯs.145
 
 \lx tɯ-mbɯ
@@ -11862,7 +11867,7 @@
 \lx tɯ-mtɕhirme
 \ps np
 \ge moustaches 
-\gn 须 
+\gn 胡子，胡须 
 \hbf 86
 
 \lx tɯmtɕhɯ
@@ -11932,7 +11937,7 @@
 \wav n-tWmtso
 \ps n
 \ge repas du midi, goûter 
-\gn 带去山上吃的中午饭[路餐]、五点种吃的餐 
+\gn 带去山上吃的中午饭[路餐]、五点钟吃的那顿饭
 \hbf *smɤnmi.3
 \dt 05/May/2012
 
@@ -12013,7 +12018,7 @@
 \gn 蒜瓣
 \hbf plante
 \xv kɯmɕku tɯ-ndzoʁ
-\xn 一个蒜瓣
+\xn 一瓣蒜
 \dt 18/May/2014
 
 \lx tɯ-ndzrɯ
@@ -12262,9 +12267,9 @@
 \wav8 nAtWpAr
 \ps n
 \ge dessin 
-\gn 画 
+\gn 画，照片 
 \hbf 645 
-\et dpar
+\et par
 \xv nɤ-tɯpɤr pjɯ-lat-a tɕe, tɯrme ɯ-ɕki ɲɯ-kham-a
 \xn 我拍你的像给被人看
 \dt 23/Jun/2013
@@ -12303,7 +12308,7 @@
 \hbf 997 <2> 703 
 \et pʰʲogs
 \xv tɯ-pɕoʁ ci pjɯ-phɤn, tɯ-pɕoʁ ci pjɯ-ʁdɯɣ ɲɯ-ɕti
-\xn （这种药）一方有好处，一方面有副作用
+\xn （这种药）一方面有好处，一方面又有副作用
 \xv ɯ-pɕoʁ a-mɤ-pɯ-naχtɕɯɣ qhe li ɯ-ti mɤ-naχtɕɯɣ
 \xn 只要方向不一样就说法不一样（解释动词的趋向前缀的时候）
 \dt 28/Sep/2013
@@ -12346,7 +12351,7 @@
 \hbf 73 
 \et pʰuŋ.po
 \xv nɤ-phoŋbu ɣɯ ɯ-βri ma-pɯ-tɯ-sɯxɕe ma!
-\xn 你不要让你身体吃亏
+\xn 你不要伤着身体！
 \dt 19/Oct/2012
 
 \lx tɯ-phoʁ
@@ -12564,7 +12569,7 @@
 \gn 杉树 
 \hbf plante 
 \xv tɯrgi nɯ zgo kɯ-mbro ɴqiaβ tsa tu-ɬoʁ ŋu, si wuma ʑo kɯ-mbro, ɯ-ru nɯ kɯ-jpɯ-jpum kɯ-mbɯ-mbro ŋu, ɯ-rtaʁ nɯ khro mɤ-jpum tɕe, ɯ-βri nɯ tɕu mɤ-kɤ-mtɕhoʁ tu-ɤʑɯrja ŋu. ɯ-rtaʁ maŋpa nɯ ra zri, taʁ tɤ-ari ɯ-jija ɯ-rtaʁ nɯ tu-xtɯt ŋu, ɯ-rtaʁ nɯ ɯ-taʁ nɯ tɕu, li ɯ-rtaʁ ɲɯ-nɯ-ɴɢɤt ŋu, ɯ-jwaʁ nɯ ta-qaβ fse ri, xtɯt　aɕpɯɕpa, tɕe ɯ-rtaʁ ɯ-taʁ ɯ-jwaʁ ɯ-tɯ-ndzoʁ nɯ tɤ-muj kɯ-fse ɯ-tshɯɣa ŋu. tɯ-rgi ɯ-jwaʁ nɯ arŋi tɕe pɣi tsa, ɯ-mat nɯ qaɟy ɯ-rqhu tsa fse, alɯlju tɕe rɲɟi tsa, tɕe nɯ ɯ-ŋgɯ nɯ tɕu, ɯ-rɣi arku, thɯ-tɯt tɕe, qaɟy rqhu kɯ-fse nɯ roŋri ʑo ɲɤ-ɴɢaʁ, tɕe ɯ-rɣi pjɯ-nɯɬoʁ ŋu ma ɯ-zrɤm taʁ tu-mphɯl mɤ-cha, tɕe ɯ-mat nɯ tɯ-rgi laŋlaŋ rmi. tɯ-rgi ɯ-ru nɯ wuma ʑo tɤ-rɤm ɯ-spa kɯ-ʑru, tɯ-rgi tɯ-phɯ nɯ kɯβdɤsqi-ɟom, kɯmŋɤsqi-ɟom kɯ-mbro ɲɯ-ɕti. tɕe nɯ nɯ́-wɣ-phɯt tɕe ɕoŋtɕa ɕnɤcɤt-rzɯɣ pjɤ-βzu ɲɤ-rtaʁ. tɕe ɯ-rtaʁ nɯ ra kɤ-nɯβlɯ ma mɯ́-j-sna, ɯ-ru nɯ ŋgɤjpɤn chɯ́-wɣ-lɤt tɕe, laχtɕha tɕhi kɯ-ra kɤ-βzu sna. 
-\xn 杉树生长在比较高的阴山上，是高大的树，树干长得又粗又高，枝桠都不粗，在树身上长得不整齐。树枝下面长，越长在上面，树枝就越短。在枝桠上有分杈，叶子长得象针，短而扁，叶子在枝桠上的长法象羽毛的形状。杉树的叶子青而灰，果实象鱼鳞，是圆柱形的，种子装在里面。成熟后，象鳞片的那些东西各个都展开，种子就会出来，因为杉树不能在根上繁殖。这个果实叫 tɯ-rgi laŋlaŋ。杉树的树干是最好木板原料，一棵杉树有14-15米高，砍下来足够锯成七八节木料。枝桠只能烧火用，树干锯成木板，可以作成各种家具。
+\xn 杉树生长在比较高的阴山上，是一种高大的树。树干长得又粗又高，枝桠都不粗，在树上长得不整齐。树枝下面的长，越是长在上面就越短。在枝桠上有分杈，叶子长得象针，短而扁，叶子在枝桠上的长法象羽毛的形状。杉树的叶子青而灰，果实象鱼鳞，是圆柱形的，种子装在里面。成熟后，象鳞片的那些东西个个都展开了，种子就会出来，因为杉树不能用根繁殖。这种果实叫{tɯ-rgi laŋlaŋ}。杉树的树干是做木板最好的原料，一棵杉树有14-15米高，砍下来足够锯成七八节木料。枝桠只能烧火用，树干锯成木板，可以作成各种家具。
 
 \lx tɯrgigrɯβgrɯβ
 \ps n
@@ -12920,7 +12925,7 @@
 \gn [酸酸草] 
 \hbf plante 
 \xv tɯrtɕhi nɯ sɯjno kɯ-mbɤr tsa ci ŋu, ɯ-zrɤm wuma ʑo rɲɟi dɤn, ɯ-jwaʁ nɯ kɤ-rtɯm xɯr-xɯr tɕe ɯ-rkɯ nɯ ra kɯ-rʁom tsa tu, ɯ-rɤri nɯ kɤ-rŋi ŋu, ɯ-qhu nɯ kɤ-rŋi tu kɯ-ɣɯrni tu, ɯ-ru tú-wɣ-ndza tɕe wuma zo tɕur, paʁ kɤ-mbi sna. 
-\xn 酸酸草是一种矮小的草，根部又长又多，叶子是圆形的，边缘有些粗糙的小齿，正面是绿色的，背面有的是绿色的，有的是红色的。茎吃起来很酸，可以喂猪。
+\xn 酸酸草是一种矮小的草。根又多又长。叶子是圆形的，边缘有些粗糙的小齿，正面是绿色的，背面有的是绿色的，有的是红色的。茎吃起来很酸，可以喂猪。
 
 \lx tɯ-rti
 \ps np
@@ -12987,6 +12992,7 @@
 \gn 记性 
 \xv a-rɯxpa mɯ-ɲo-sna 
 \xn 我记性不好
+\et rig.pa
 
 \lx tɯ-rzɤz
 \a tɯ-rzɯz
@@ -13012,7 +13018,7 @@
 \xv xingqi er a-ʁa me ma ɯ-ro ra tu
 \xn 星期二没有空，剩下的时间有空
 \xv a-ʁa qɤjdo-ʁa 
-\xn 我象乌鸦一样地有空 
+\xn 我象乌鸦一样闲
 \xv a-ʁa me 
 \xn 我没有空
 
@@ -13065,6 +13071,7 @@
 \xn 我问心无愧
 \xv nɤ-ʁnoŋ maŋe
 \xn 你问心无愧
+\et gnoŋ
 \dt 29/Dec/2014
 
 \lx tɯ-ʁɲirgɯm
@@ -13078,7 +13085,7 @@
 \lx tɯ-ʁoŋ
 \ps np
 \ge pouvoir 
-\gn 权利 
+\gn 权力
 \et dbaŋ
 
 \lx tɯ-sa
@@ -13253,6 +13260,7 @@
 \ps np
 \ge racine (homme) 
 \gn 人的根源（祖宗，财富等） 
+\cf tɤ-zrɤm
 \hbf *koŋzoŋ.287
 
 \lx tɯ-sroʁ
@@ -13296,7 +13304,7 @@
 \wav8 tWstaR
 \ps cl
 \ge une poëllée 
-\gn 一锅（大概能炒出一锅糌粑的时间）
+\gn 一锅，炒出一锅糌粑的时间
 \xv tɯ-staʁ thɯ-rŋu-t-a
 \xn 我炒了一锅糌粑
 \xv tɯ-staʁ-rŋu jamar pɯ-atsɯtsu
@@ -13377,7 +13385,7 @@
 \ge méthode de tissage 
 \gn 织布的方法，四根线交错着[斜纹子] 
 \xv raz nɯ tɯtaχte pɯ-nɯ-ŋu nɤ, tɯ-mpɕar, ŋgɤrom pɯ-nɯ-ŋu nɤ, tɯ-mpɕar
-\xn 斜纹子只穿一件，单巴子叶只穿一件（因为衣服少）
+\xn 斜纹子只穿一件，单巴子也只穿一件（因为衣服少）
 \hbf tissage
 \dt 05/Dec/2012
 
@@ -13505,7 +13513,7 @@
 \wav8 tWtCHa_sAzgWt
 \ps np
 \ge information 
-\gn 信息 
+\gn 消息
 \hbf 680 
 \un {atɕha}可以表示“关于我的消息”，也可以表示“我需要的消息”
 \xv a-tɕha nɯ-khɤm 
@@ -13646,7 +13654,7 @@
 \gn 寿命 
 \hbf 164
 \xv ɯ-tsi pjɤ-zri
-\gn 她很长命
+\gn 她很长寿
 \dt 03/Jan/2015
 
 \lx tɯ-tʂɯn
@@ -13661,11 +13669,11 @@
 \wav8 Wtun
 \wav8 Wti-Wtun
 \ps np
-\ge but , sens
-\gn 目的 ；意思
+\ge but, sens
+\gn 目的、意思
 \et don
 \xv ɯ-sɤ-ntɕhoz mɯ́j-naχtɕɯɣ tɕe, tɕe ɯ-tun nɯ mɯ́j-naχtɕɯɣ ɲɯ-ŋu
-\xn 用在不同的环境里（这个词）的意思也不一样
+\xn 用在不同的语境里（这个词）的意思也不一样
 \xv ʁnaʁna ɯ-tun naχtɕɯɣ ɕti
 \xn 两种（说法）的意思是一样的
 \xv ɯ-ti mɤ-naχtɕɯɣ ma ɯ-tun naχtɕɯɣ ɕti
@@ -13702,7 +13710,7 @@
 \lx tɯ-tɯm
 \ps cl
 \ge gousse d'ail 
-\gn 蒜头 
+\gn 一头蒜 
 \hbf plante
 \dt 17/Jan/2014
 
@@ -13724,7 +13732,7 @@
 \lx tɯ-tɯnɯna
 \ps cl
 \ge borne (entre deux auberge de repos) 
-\gn 里（两个休息的地点之间的距离） 
+\gn 一里（两个休息的地点之间的距离） 
 \hbf 898
 
 \lx tɯ-tɯpɯ
@@ -13791,6 +13799,7 @@
 \ps adv
 \ge toute l'année 
 \gn 一年到头
+\et lo.skor
 
 \lx tɯ-xtɤci
 \ps np
@@ -13919,7 +13928,10 @@
 \ps n
 \ge époque 
 \gn 时代 
+\xv ndʑi-tɯz a-pɯ-βdi
+\xn 祝你们俩一生平安
 \et dus
+\dt 18/May/2014
 
 \lx tɯ-zboʁ
 \ps cl
@@ -14034,7 +14046,7 @@
 \ge origine, depuis toujours, en fait 
 \gn 根源、从来、说到底
 \xv ɯʑo ɯ-ciqa ʑo pɯ-nɯ-pɯpe ɕti 
-\xn 他从来就是个好人
+\xn 他从来都是个好人
 \dt 20/May/2013
 
 \lx ɯ-cu
@@ -14043,9 +14055,9 @@
 \ge ajout
 \gn 配料
 \xv χɤjtsu cho ɕku nɯ tɤjko ɯ-cu pjɯ́-wɣ-lɤt tɕe mɯm
-\xn 在酸菜里添加黑椒和打算就好吃
+\xn 在酸菜里添加黑椒和蒜就好吃
 \xv a-pi kɯ tatshi ɯ-skɤt ɣɯ ɯ-cu kɤmɲɯ tu-βze ɲɯ-ŋu tɕe ɲɯ-sɤtso, tatshi skɤt ʁɟa a-tɤ-ti tɕe mɯ́j-sɤtso
-\xn 他把干木鸟话加到大藏话里面就好懂一些
+\xn 他把干木鸟话掺到大藏话里面说就好懂一些
 \dt 17/Aug/2012
 
 \lx ɯ-ɕi
@@ -14057,7 +14069,7 @@
 \lx ɯ-ɕki
 \ps post
 \ge datif
-\gn 于格
+\gn 与格
 \sy ɯ-phe
 \dt 18/Mar/2015
 
@@ -14078,7 +14090,7 @@
 \lx ɯ-ɕtɯrme
 \ps np
 \ge poils pubien (femme)
-\gn 阴毛
+\gn （女子的）阴毛
 \dt 11/Jan/2015
 
 \lx ɯ-ɕɯɕaŋ
@@ -14166,7 +14178,7 @@
 \xv ɯ-ɣɲaʁ ɲɤ-ɕe
 \xn 对他不利了
 \xv mtshalu ɲɤ-phɯt ri kó-wɣ-mtsɯɣ tɕe mɤ́ɣrɤz nɤ ɯ-ɣɲaʁ ɲɤ-ɕe
-\xn 他摘荨麻的时候被蛰到了，反而对他不利
+\xn 他摘荨麻的时候被蛰到了，倒是自找麻烦
 \dt 09/Oct/2014
 
 \lx ɯ-jlɤβ
@@ -14304,7 +14316,7 @@
 \lx ɯ-ltɕi
 \ps np
 \ge franges (sac)
-\gn 须须（挎包的）
+\gn [须须]（挎包的）
 \dv phɯrkhɯɣ ɣɯ ɯ-jndɯz
 \dt 05/May/2014
 
@@ -14499,7 +14511,7 @@
 \lx ɯ-phe
 \ps post
 \ge datif
-\gn 于格
+\gn 与格
 \sy ɯ-ɕki
 \dt 18/Mar/2015
 
@@ -14518,7 +14530,7 @@
 \lx ɯ-phɯphi
 \ps np
 \ge vagin (enfant)
-\gn 阴道
+\gn （小孩子的）阴道
 \dt 11/Jan/2015
 
 \lx ɯ-punaŋtɕa
@@ -14586,6 +14598,7 @@
 \ps n
 \ge génération, au moment de 
 \gn 年代，正当那个时候 
+\et riŋ
 \hbf *thaχtsa.72
 
 \lx ɯ-rcharchɤβ
@@ -14854,6 +14867,7 @@
 \gn 可怜，无奈 
 \xv nɤ-scawa ɲɯ-saχaʁ 
 \xn 你很可怜
+\et skʲo.ba
 
 \lx ɯ-sci
 \wav8 asci
@@ -14865,7 +14879,7 @@
 \xv nɤ-sci aʑo ju-ɕe-a 
 \xn 我替你去
 \xv aʑo a-ʁa maŋe tɕe, nɤʑo a-sci tu-tɯ-βze ɯ-tɯ-cha?
-\xn 我没有空，你替我做可以马？
+\xn 我没有空，你可以代替我做吗？
 \xv ɯ-sci to-βzu (=ɯ-tshɤt to-βzu; ɯ-rtsot to-βzu)
 \xn 他报仇；他代替了他
 \dt 22/May/2014
@@ -14931,9 +14945,9 @@
 \xv aʑɯɣ ɯ-sta a-nɯ-βze ra (=a-nɯ-ɕat-a ra)
 \xn 我要养成习惯
 \xv aʑo kɤ-nɯmtɕi ɯ-sta na-βzu
-\xn 我我早起惯了
+\xn 我早起惯了
 \xv nɤʑo kɤ-nɯmtɕi ɯ-sta ɲɤ-kɤβzu-ci (=nɤʑo kɤ-nɯmtɕi ɲɤ-tɯ-ɕɤt)
-\xn 你我早起惯了
+\xn 你早起惯了
 \xv nɤki nɯ ɯ-kɯ-mŋɤm to-mna tɕe ɯ-sta ʑo to-fse
 \xn 那个人病好了，恢复了原状
 \dt 12/Jan/2012
@@ -14958,7 +14972,7 @@
 \lx ɯ-stu¹
 \ps np
 \ge endroit en face 
-\gn 对着的地方 
+\gn 对面的地方 
 \hbf *qalakɯɕqraʁ.31
 
 \lx ɯ-stu²
@@ -14975,7 +14989,7 @@
 \xv ɯʑo kɯ ɯ-stu tu-ti ɲɯ-ŋu
 \xn 他是说真话
 \xv kɤ-nɤma ɯ-stu tú-wɣ-nɤma ra ma mɤ-pe 
-\xn 事要真心做，不然会不好的
+\xn 事要用心做，不然会不好的
 \dt 26/May/2013
 
 \lx ɯtɤjɯ
@@ -14983,7 +14997,7 @@
 \ge non seulement ... mais
 \gn 不但……而且
 \xv ɕɯmŋɤm ɯtɤjɯ ɲɯ-sɤzoŋzoŋ ʑo ŋu
-\xn 不但令人痛，而且令人发麻（荨麻）
+\xn （荨麻）不但把人弄痛，而且让人发麻
 \dt 01/Sep/2014
 
 \lx ɯ-tɤmcar
@@ -14992,7 +15006,7 @@
 \gn 撞针 
 \hbf fusil 
 \xv ɯ-tɤmcar nɯ pɯlthi kɯ-ndo smi sɤ-sthɤβ ŋu 
-\xn 撞针是夹住火绳点火用的部件。
+\xn 撞针是夹住火绳点火用的部件
 \dt 09/Jun/2013
 
 \lx ɯ-tɕhaʁ
@@ -15013,9 +15027,9 @@
 \ge pour 
 \gn 为了 
 \xv fso tɕe a-tɤ-tɯ-nɯmtɕi, ʑa a-tɤ-tɯ-rɤru tɕe, kɤ-nɤma a-mɤ-nɯ-maqhu ɯtɕhɯβ a-pɯ-ŋu
-\xn 明年早点起床，以便不要迟到
+\xn 明天早点起床，免得迟到
 \xv ju-ɣɤɕqali-nɯ tɕe, kɤ-nɯ-rŋgɯ ɯtɕhɯβ, ɯʑo tɕɤndi kha zɯ nɯ-ari 
-\xn 因为他们大吵大闹，他为了安定的睡觉只好去对面的家睡
+\xn 因为他们大吵大闹，他为了睡个好觉，只好去对面那家的房子睡
 \dt 02/Oct/2013
 
 \lx ɯ-tɕhɯz
@@ -15036,7 +15050,7 @@
 \lx ɯ-tɕɯtɕu
 \ps np
 \ge pénis, zizi (enfant)
-\gn 阴茎
+\gn 阴茎，（小孩的）小鸡鸡
 \dt 11/Jan/2015
 
 \lx ɯte
@@ -15148,7 +15162,7 @@
 \lx ɯ-tsololot
 \ps np
 \ge pénis, zizi (enfant)
-\gn 阴茎
+\gn 阴茎，（小孩的）小鸡鸡
 \dt 11/Jan/2015
 
 \lx ɯ-tsɯ
@@ -15170,19 +15184,10 @@
 \xv ɯ-tʂɯmpɤri ɲɤ-nɯrtɤβ
 \xn 他拴了带子
 \xv ɯ-tʂɯmpɤri ra ltɕhɤltɕhɤt ʑo pjɤ-nɯ-ɕɯɴqoʁ
-\xn 围裙的带子吊着（又美观又小巧）
+\xn 围裙的带子吊着，小巧玲珑的。
 \cf tʂɯmpa
 \cf tɤ-ri
 \dt 30/Apr/2014
-
-\lx ɯ-tɯz
-\ps np
-\ge période
-\gn 时代
-\et dus
-\xv ndʑi-tɯz a-pɯ-βdi
-\xn 祝你们俩一生平安
-\dt 18/May/2014
 
 \lx ɯ-χaʁ
 \ps np
@@ -15193,7 +15198,7 @@
 \xv nɤ-χaʁ ʑo pa-lɤt
 \xn 你遭殃了
 \xv pɯwɯ nɯ ɯ-χaʁ ʑo pɯ-tɯ-sɤɣri-t (pɯ-tɯ-ta-t) 
-\xn 你令驴子遭殃了
+\xn 你让驴子遭殃了
 
 \lx ɯ-χcɤl
 \wav n-WXcAl
@@ -15237,7 +15242,7 @@
 \ge encoche
 \gn 插口 
 \xv tɤ-jtsi stɤsmɤt komɤl ɯ-kɯ-ndo ɯ-spa pɯ-kɤ-saχaʁ ɯ-χto rmi. kɤ-χaʁ ɯ-stu nɯ kɯ-ɤβʑɯrdu ŋu 
-\xn 柱头两头用来支撑横梁的插口叫ɯ-χto. 那个插口是方形的
+\xn 柱头两头用来支撑横梁的插口叫{ɯ-χto}，那种插口是方形的
 \xv tɯwɯ cho sarwɯ li ndʑi-χto tu, tɕeri kɯ-ɤβʑɯrdu maʁ; kɤ-kɤ-rkhe ŋu; ndʑu ɯ-phoŋbu kɤ-kɤ-znɯjin ŋu 
 \xn 纺锤和搓杆也有{χto}，但不是方形，是顺着木条的圆形刻着的
 \dt 12/Mar/2014
@@ -15293,7 +15298,7 @@
 \ge caractère propre
 \gn 本性、自己的性格
 \xv ɯʑo tɤtɕɯpɯ ɲɯ-ɕti tɕe, ɯ-ʑat ci ɣɤʑu
-\xn 他既然是男孩子，调皮一点是必然的
+\xn 他既然是男孩子，调皮一点是自然的
 \xv tɤjpa ko-lɤt tɕe ɯ-ʑat ci ɣɤʑu, tɕe tɯ-ŋga pjɯ-jaʁ ɲɯ-ra
 \xn 下了雪肯定会冷一点，要多穿一点衣服
 \xv ftɕar jɤ-kɯ-zɣɯt nɯ ɯ-ʑat ci ɣɤʑu nɤ ma ɲɯ-sɤɕke
@@ -15365,11 +15370,12 @@
 \gn 表示自己感触很深，惊叹 
 \hbf *kɤndʑɯsqhɤj.49 
 \xv worɟɤmchɤm, jisŋi tɯmɯ ɯ-tɯ-dɤn 
-\xn 天啊，今天雨怎么这么多
+\xn 天啊，今天雨怎么这么多！
 \xv worɟɤmchɤm ɯ-tɯ-mbro nɯ!
-\xn 天啊，你那么高！
+\xn 天啊，你这么高！
 \xv worɟɤmchɤm ɯ-tɯ-nɯɲɤmkhe nɯ!
-\xn 天啊你很瘦！
+\xn 天啊，你这么瘦！
+\et o.rgyan.mkhyen
 \dt 04/Apr/2014
 
 \lx wortɕhi
@@ -15398,7 +15404,7 @@
 \lx wulaʁ
 \ps n
 \ge corvée 
-\gn 乌拉 
+\gn 乌拉，徭役
 \et ɦu.lag
 
 \lx wuŋgru
@@ -15412,7 +15418,7 @@
 \lx wutɕhɯtɕhɯ
 \ps interj
 \ge exprime que le locuteur a froid
-\gn 表示冷 
+\gn 表示冷
 \dt 07/Aug/2012
 
 \lx wɯɟa
@@ -15433,7 +15439,7 @@
 \gn 牛肝菌 
 \hbf champignon 
 \xv wɯwɯ jmɤɣ nɯ ɕkrɤz, tɯrgi, sɤjku ɯ-ŋgɯ ra tu-ɬoʁ ŋu, ɯ-mgɯr qhu nɯ kɯ-qandʐɯlu tɕe kɯ-nɤmbju ŋu, ɯ-rʑɯɣ me kú-wɣ-nɤmɯma tɕe kɯ-mpɯ-mpɯ ʑo ŋu, ɯ-mdoʁ nɯ ɯ-pa ɯ-pɕoʁ kɯ-wɣrum tu, kɯ-qarŋe tu, ɯ-pa kɯ-wɣrum nɯ kɤ-ndza sna, ɯ-pa kɯ-qarŋe nɯ kɤ-ndza mɤ-sna, ɯ-ru nɯ pjɯ́-wɣ-qlɯt tɕe mɤ-ndoʁ kɤ-saʁ khɯ 
-\xn 牛肝菌长在青冈树林、杉木林和白桦树林里，背面是乌色的，光滑，没有菌褶，摸起来很软。它下面有的是白色，有的是黄色的，白色的那些可以吃，黄色不可以吃。菌干不脆，不能折，只能撕。 
+\xn 牛肝菌长在青冈树林、杉木林和白桦树林里，背面是乌色的，光滑，没有菌褶，摸起来很软。它下部有的是白色，有的是黄色的，白色的那些可以吃，黄色不可以吃。菌干不脆，不能折，只能撕。 
 \nqr
 
 \lx xchuxchu
@@ -15463,10 +15469,10 @@
 \lx xɕɤj¹
 \ps n
 \ge herbe 
-\gn 草 
+\gn 一种草 
 \hbf plante 
 \xv xɕɤj ʁnɯ-tɯ-phu tu tɕe, si ci tu, sɯjno ci tu. sɯjno nɯ ɯ-jwaʁ nɯ kɯ-rɲɟi kɯ-tɕɤr lu-kɤ-mtɕoʁ ŋu. ɯ-ru nɯ ɯ-rtsɤɣ lu-ɤʑɯrja ŋu, ɯ-rtsɤɣ nɯtɕu ɯ-jwaʁ ntsɯ ku-ndzoʁ ŋu. ɯ-jwaʁ ɯ-qa nɯtɕu, ɯ-ru nɯ ku-mphɤr kɯ-fse ŋu, tɕe ɯ-ru lɤ-zri tɕe ɯ-lɤcɯ tɕe, li ɯ-rtsɤɣ ɲɯ-βze tɕe, li ɯ-jwaʁ lu-ɬoʁ ŋu. xɕɤj nɯ tɯ-phɯ ɯ-ŋgɯ, lɤŋɤtʂɤ-ldʑa ɲɯ-βze cha, ɯ-kɤ-χcɤl nɯ tɕu ɯ-mat kɯ-ɕnom kɯ-fse lu-βze ŋu. sɯjno xɕɤj nɯ kɤntɕhɯ tɯ-phɯ tu, pɣɤtɕɯ-xɕɤj kɤ-ti tu, pɤŋɤ-xɕɤj kɤ-ti tu, cɤmi xɕɤj kɤ-ti tu, xsɤrɯ kɤ-ti tu, pɣɤjmɯt kɤ-ti tu, tɯ-ci xɕɤj kɤ-ti tu, tɕeri nɯ-tshɯɣa ra kɯ-naχtɕɯɣ tsa ɕti, nɯ ɯ-ŋgɯ zɯ cɤmi xɕɤj stu ʑo wxti, cɤmi tsa tu-ɬoʁ ŋu, tɯ-ci xɕɤj kɯ-mbɯ-mbɤr ma me, tɕhitoʁ ku tu-ɬoʁ ŋu, ɯ-ro nɯ ra zgo ku tsa tu-ɬoʁ ŋu. nɯŋa cho jla kɤ-mbi wuma ʑo pe. 
-\xn xɕɤj有两种，一种是树，另一种是草。这种草的叶子细长，上面尖的。茎由许多节组成的，每一节上有长有叶子。叶子的根部好象是裹着茎长出来的，叶子裹着的茎长高了又长出节来，又长叶子。每一秆的可以分五、六根，在顶上抽穗结果。这种草有很多种，有pɣɤtɕɯ-xɕɤj、pɤŋɤ-xɕɤj 、cɤmi xɕɤj 、xsɤrɯ 、 pɣɤjmɯt、 tɯ-ci xɕɤj 六种，但它们的形状都差不多相同。其中cɤmi xɕɤj 最大，生长在河坝，tɯ-ci xɕɤj 很矮，长在水草地上，其它的都生长在高山上。是喂奶牛和犏牛的好饲料。
+\xn {xɕɤj}有两种，一种是树，另一种是草。草的那种叶子细长，上面尖。茎由许多节组成，每一节上有长有叶子。叶子的根部好象是裹着茎长出来的，叶子裹着的茎长高了又长出节来，又长叶子。每一秆的可以分五、六根，在顶上抽穗结果。这种草有很多种，有{pɣɤtɕɯ-xɕɤj}、{pɤŋɤ-xɕɤj}、{cɤmi xɕɤj}、{xsɤrɯ}、{pɣɤjmɯt}、{tɯ-ci xɕɤj}六种，但它们的形状都差不多相同。其中{cɤmi xɕɤj}最大，生长在河坝，{tɯ-ci xɕɤj}很矮，长在水草地上，其它的都生长在高山上。是喂奶牛和犏牛的好饲料。
 
 \lx xɕɤj²
 \ps n
@@ -15474,7 +15480,7 @@
 \gn 乔木的一种 
 \hbf plante 
 \xv xɕɤj ʁnɯ-tɯphu tu tɕe, si ci tu, sɯjno ci tu. si nɯ kɯ-mbɯ-mbro ci ŋu, ɯ-jpum tsa ɲɯ-βze cha, tɕe zgo kɯ-mbɤr tsa zɯ tu-ɬoʁ ŋu, ɯ-ru ɯ-pɕi nɯ kɯ-pɣi ŋu, ɯ-rtaʁ dɤn, ɯ-jwaʁ ʑmbri ɯ-jwaʁ tsa fse, ɯ-mɯntoʁ kɯ-ndɯ-ndɯβ ɕti khro mɤ-χsɤl, ɯ-mat nɯ ɯ-cɤβ chɯ-βze ŋu, tɕeri ɯ-rɣi nɯ pɯ-ŋgra tɕe tu-ɬoʁ mɤ-cha. ɯʑo ɯ-kɯ-sɯ-mphɯl nɯ, ɯ-zrɤm ɕti. ɯ-si ngɯt tɕe, laʁdɯn ɯ-jɯ kɤ-βzu pe. kɤ-nɯ-βlɯ kɯ́nɤ wuma ʑo pe ma thɯ́-wɣ-nɯ-βlɯ tɕe ɯ-khɯ mɤ-wxti. ɯ-smi sɤɕke. si ɯ-xɕɤj nɯ li ʁnɯ-tɯ-phu tu. tɕe xɕɤj ɲaʁ kɤ-ti ci tu, xɕɤj ɣrum kɤ-ti ci tu. xɕɤj ɯ-rqhu nɯ fsapaʁ ɯ-ɕɤrɯ tɤ-mtshɤz kɤ-kɯ-ndo ɣɯ ɯ-smɤn ɲɯ-ŋu khi. 
-\xn {xɕɤj}有两种，一种是树，另一种是草。树的那种长得很高、比较粗，生长在下半山，树皮是灰色的，枝桠多，叶子和柳树的叶子差不多。花很小，看不清楚。结的是荚果，但种子掉了以后不能发芽，使它繁殖的是它的根。因为木质结实，可以作各种农具的把子。也是烧火的好柴，因为烧起来发出很少烟，火气又高。这种树也分成两种，一种叫xɕɤj ɲaʁ，另一种叫 xɕɤj ɣrum 。 xɕɤj 的树皮是牲畜骨折增生病的好药。
+\xn {xɕɤj}有两种，一种是树，另一种是草。树的那种长得很高、比较粗，生长在下半山。树皮呈灰色，枝桠多。叶子类似柳树的叶子。花很小，看不清楚。结荚果，但种子掉了以后不能发芽，繁殖靠根。因为木质结实，可以作各种农具的把子。也是烧火的好柴，因为烧起来发出很少烟，火气又高。这种树也分成两种，一种叫{xɕɤj ɲaʁ}，另一种叫{xɕɤj ɣrum} 。{xɕɤj}的树皮是牲畜骨折增生病的好药。
 \dt 05/May/2014
 
 \lx xɕɤjɲaʁ
@@ -15495,7 +15501,7 @@
 \gn 蜱[草虱] 
 \hbf animal 
 \xv xɕelwi nɯ qajɯ ci ŋu. ɯ-mdoʁ kɯ-ɣɯrni ŋu. ɯ-mɤlɤjaʁ kɯβdɤ-ldʑa tu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi ɲɯ-ɤmtɕoʁ, sɯŋgɯ kɯ-mbɤr cho stɤmku ra ɣɤʑu tɕe nɯŋa cho jla mbala nɯ ra nɯ-taʁ kɤ-ndzoʁ rga, tɕe nɯ-se ku-tshi tɕe tɤ-fka tɕe ɯʑo kɯ-wxtɯ-wxti ʑo ɲɯ-βze ŋu, fsapaʁ ɯ-se ku-tshi ɕɯŋgɯ staʁ nɤ sqi jamar ɲɯ-wxti ɲɯ-ŋu. tɕe xɕelwi nɯ tɤ-fka tɕe pjɤ-tɤr ɲɯ-ɕti ma ɯ-jɤɣɤt sɤ-lɤt maŋe, tɕe tu-ndze nɤ tu-ndze ma nɯ ma kɤ-lɤt mɯ́-j-khɯ. tɕe wuma ʑo dɤn, fsapaʁ tɯ-rdoʁ ɯ-taʁ kɤ-rtsi mɤ-kɯ-sɤcha ʑo ku-ndzoʁ ɲɯ-ɕti, tɕe fsapaʁ taʁ wuma ʑo ʁnɤt, tɕe tham tɕe ɯ-smɤn ɣɤʑu tɕe, tú-wɣ-lɤt tɕe ɲɯ-ɣɤme ɲɯ-ŋu ri ɯ-qhu tɕe li ku-ndzoʁ ɲɯ-ɕti. tɯ-rme taʁ kɯ́nɤ ku-ndzoʁ ŋgrɤl tɕe ɣɯ-phɯt tɤ-kha tɕe ɯ-rmi tu-βzu mɤ-βdi ma tɕe ɯ-phoŋbu nɯ kɤ-phɯt khɯ ma ɯ-ku nɯ ku-raʁ ŋu tɕe kɤ-phɯt mɤ-khɯ. mɤ-kɤ-nɤrmi ɲɯ́-wɣ-phɯt tɕe kɤ-kɯ-ku kɤ-phɯt khɯ tu-kɯ-ti ɲɯ-ŋu. 
-\xn 蜱是一种虫，是红色的。有四只脚，头部很小，嘴很尖。生活在灌木丛和草地上，喜欢爬在奶牛、犏牛和黄牛身上吸血。吸饱以后，它的身体就变得很大，是它吸血前的十倍以上，蜱吸饱了就会掉下来，因为身上没有肛门，只能吃了又吃，不能解便。蜱非常多，一头牛身上的蜱不计其数，对牲畜非常有害。现在有一种农药可以消灭它，但过了一段时间它会重新出现。蜱也会爬在人身上。据说拔掉的时候不能叫它的名字，不然只能拔掉它的身子，它的头部会卡在里面。不叫它的名字的话就可以连头一起拔掉。 
+\xn 蜱是一种虫，是红色的。有四只脚，头部很小，嘴很尖。生活在灌木丛和草地上，喜欢爬在奶牛、犏牛和黄牛身上吸血。吸饱以后，它的身体就变得很大，是它吸血前的十倍以上，蜱吸饱了就会掉下来。因为身上没有肛门，只能吃了又吃，不能解便。蜱非常多，一头牛身上的蜱不计其数，对牲畜非常有害。现在有一种农药可以消灭它，但过了一段时间它会重新出现。蜱也会爬在人身上。据说拔掉的时候不能叫它的名字，不然只能拔掉它的身子，它的头部会卡在里面。不叫它的名字的话就可以连头一起拔掉。 
 \nqr
 
 \lx xɕiri
@@ -15504,7 +15510,7 @@
 \gn 黄鼠狼 
 \hbf animal 
 \xv xɕiri nɯ ɯ-ku lɯlu fse, ɯ-rna ra kɯ́nɤ lɯlu fse, ɯ-mi nɯ ra ɯ-ndzrɯ tu, ɯ-phoŋbu ra kɯ-ɣɯrnɯɕɯr ŋu, ɯ-jme jpum cho rɲɟi, ɯ-phoŋbu cho ɯ-jme ra ɯ-tɯ-jpum ɯ-tɯ-zri afsu. tɤ-rɤku mɤ-ndze, tɕeri ɯʑo staʁ kɯ-xtɕi ɣɯ pɣɤtɕɯ, βʑɯ nɯ ra tu-ndze ŋu. ci ci tɕe lɯlu kɯ́nɤ ku-mtsɯɣ ŋgrɤl, li ci ci tɕe tɤ-potso nɤrŋi tsa ku-mtsɯɣ cho pjɯ-mɯrʁɯz ra ŋgrɤl, tɕe rɯdaʁ kɯ-ŋɤn tsa ci ŋu. 
-\xn 黄鼠狼的头象猫的一样，耳朵也象猫的，脚上有爪子，身子是淡红色的，尾巴粗而长，身子的粗度、长度和和尾巴的相同。不吃粮食，但是吃比自己小的鸟、老鼠等。有时候还会咬猫，咬伤和抓伤婴儿，是比较坏的动物。 
+\xn 黄鼠狼的头象猫，耳朵也象猫，脚上有爪子，身体是淡红色的，尾巴粗而长，身子的粗细长短与尾巴相同。不吃粮食，但是吃比自己小的鸟、老鼠等。有时候还会咬猫，咬伤和抓伤婴儿，是比较坏的动物。 
 \nqr
 
 \lx xɕɯβ
@@ -15546,7 +15552,7 @@
 \gn 岩羊[青羊] 
 \hbf animal 
 \xv xsar nɯ cɤmi praʁ ŋgɯ ku-rɤʑi ɲɯ-ŋu, praʁ taʁ kɤ-ŋke wuma kɯ-cha ŋu, tɯmɯ kɯ pɯ-pa-χtɕi tu-ŋke-a cha tu-ti ŋu tu-kɯ-ti ɲɯ-ŋu, ɯ-mdoʁ nɯ kɯ-pɣi ɲɯ-ŋu, tu-nɯsɯku ŋgrɤl, sɯjwaʁ tu-ndze, ɯ-ʁrɯ nɯ tɯ-tɕha kɯ-mtɕɯ-mtɕoʁ tu, khɯna kɤ-sat wuma kɯ-cha ŋu. khɯna kɯ praʁ taʁ ku-roʁ ŋgrɤl tɕe, nɯ tɕu tɕe tu-tɕhi tɕe pjɤ-sat ŋgrɤl. qartsɯ tɤ-jpɣom kɤ-ta ɯ-raŋ tɕe, tshu, tɕe nɯ chɯ-nɯrmɤmbe ŋu. ɯ-qa taʁrɯ nɯ tshɤt cho naχtɕɯɣ 
-\xn 青羊一般生活在河坝的岩石里，善于在岩石上行走，据说它自吹：“雨水所能淋到的地方，我都可以走”。它是灰色的，能爬树，吃树叶，有一对很尖的角，能把狗杀死。狗把它追到悬崖时，青羊就会用角把狗顶死。冬天结冰时，青羊会变得很肥，会脱毛。蹄子象山羊的蹄子一样。 
+\xn 青羊一般生活在河坝的岩石里，善于在岩石上行走。据说它自吹：“凡雨水能淋到的地方，我都能走”。青羊是灰色的，能爬树，吃树叶，有一对很尖的角，能把狗杀死。狗把它追到悬崖时，青羊就会用角把狗顶死。冬天结冰时，青羊会变得很肥，会脱毛。蹄子象山羊的蹄子一样。 
 \nqr
 
 \lx xsɤrɯ
@@ -15555,7 +15561,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv xsɤrɯ nɯ tɯ-ji ɯ-rkɯ tu-kɯ-ɬoʁ ci sɯjno ŋu. ɯ-jwaʁ kɯ-mba kɯ-zri tsa ŋu, ɯ-zrɤm nɯ kɯ-wɣrum kɯ-ɤrɤrtsɯ-rtsɤɣ ci ŋu, rko. jla nɯŋa ra wuma rga-nɯ, tɤrɤku ŋgɯ tɤ-ɬoʁ tɕe, mɤ-sɤpe. ɯ-lu tu. 
-\xn {xsɤrɯ}是生长在田边的植物，叶子细长，根是白色的，有节，而且硬，犏牛、奶牛都喜欢吃，长在庄稼地里时，对庄稼不好。有乳汁。
+\xn {xsɤrɯ}是生长在田边的植物，叶子细长，根是白色的，有节且硬。犏牛、奶牛都喜欢吃。长在庄稼地里时，对庄稼不好。有乳汁。
 \dt 21/Oct/2014
 
 \lx xsɯxsɯ
@@ -15564,7 +15570,7 @@
 \gn
 \hbf objet traditionel 
 \xv xsɯxsɯ (khorca) nɯ laχtɕha fkɯm tu-kɤ-fkur ci ŋu, rgali pɯ ɯ-ndʐi nɯ kɯ-mdoʁmdi pjɯ́-wɣ-qaʁ tɕe tɤ-rom tɕe ta-mar ɲɯ́-wɣ-mar pjɯ́-wɣ-χtsɤβ tɕe, nɯ mpɯ ʑo tɕe, ɯ-rme nɯ ɯ-pɕi ɲɯ́-wɣ-ɕthɯz tɕe, ɯ-mɤlajaʁ kɯ-βde ɣɯ ɯ-ndʐi nɯ tɕu ɯ-sɤ-fkur ɯ-ri kú-wɣ-tshoʁ, thaʁthi maʁ nɯ tɯ-ndʐi qase thɯ-kɤ-tɕɤt kú-wɣ-tshoʁ tɕe, nɯ ɯ-sɤ-fkur ŋu. ɯ-mke stu nɯ pjɯ́-wɣ-pri tɕe, nɯ tɤ-fkɯm ɣɯ ɯ-mŋu ɲɯ́-wɣ-βzu ŋu, tɕe nɯtɕu qase ci kú-wɣ-βraʁ tɕe tɤ-fkɯm ɯ-ŋgɯ laχtɕha thɯ́-wɣ-rku tɕe, qase nɯ kɯ ɯ-mŋu nɯ kú-wɣ-sɯ-xtɕɤr ŋu, ɯ-mŋu nɯ taʁ pɕoʁ tú-wɣ-ɕthɯz tɕe tú-wɣ-fkur ŋu. 
-\xn xsɯxsɯ是装东西、可以背的袋子。把小牛的皮整块的剥下来，干了以后，就擦上酥油，搓揉，等到柔软了，毛向外翻，在四条腿的皮子上系上背带，不然用线制作的背带，或者用剖成的皮绳作背带。在颈的部位，破一条口作为口袋的口，在那里扎一根皮绳，把东西装好后，就用皮绳捆住口子。背的时候，口袋的口子向上。
+\xn {xsɯxsɯ}是装东西的口袋，可以背。把小牛的皮整块剥下来，干了以后，就擦上酥油，搓揉，等到揉得软了，毛向外翻，在四条腿的皮子上系上背带，或者用线制作的背带，或者用剖成的皮绳作背带。在脖颈部位破一条口子，作为口袋的开口，在那里扎一根皮绳，把东西装好后，就用皮绳捆住口子。背的时候，口袋的口子向上。
 
 \lx xtɤβxtɤβ
 \ps idph.2
@@ -15587,9 +15593,9 @@
 \lx xtɤtshɤt
 \ps n
 \ge contrôle de son apétit
-\gn 控制食欲
+\gn 饮食节制有度
 \xv tsuku lu-βzi-nɯ tɕe, cha kɤ-tshi lu-ɣɤtɕhom-nɯ tɕe, nɯ-ɣi ra kɯ tú-wɣ-nɤmqe-nɯ tɕe, "nɤ-xtɤtshɤt ɯ-tɯ-me nɯ" tu-ti-nɯ ɲɯ-ŋu
-\xn 有些人喝酒喝太多，醉了，他们的家人骂他们说：“你简直无法控制自己的食欲”
+\xn 有些人喝酒喝太多，醉了，他们的家人骂他们说：“你完全是饮食无度啊”
 \cf tɯ-xtu
 \dt 19/Aug/2012
 
@@ -15654,7 +15660,7 @@
 \gn 鞋边（鞋子、靴子盖脚的部分） 
 \hbf objet traditionel 
 \xv xtsɤrkɯ nɯ tɯ-xtsa χchoʁe ɯ-pa mŋulɤn ɯ-sɤ-tshoʁ nɯ ŋu, xtsɤrkɯ ɯ-taʁ nɯ tɕu xtsɤku pjɯ́-wɣ-tshoʁ, ɯ-ŋgɯ ɯ-pɕoʁ nɯ tɕu xtsɤkɤŋgɯ pjɯ-tu ra, xtsɤkɤŋgɯ nɯ tɯ-ŋgar pjɯ-ŋu ra, xtsɤku nɯ cɤndʐi nɯ maʁ nɤ ɕkom ndʐi, nɯ maʁ nɤ qartshɤndʐi kɯ-mba pjɯ-ŋu ɲɯ-ra. tɯ-xtsa nɯ ɯ-qhu tɕe ɯ-srɯβzɤn pjɯ-tu ɲɯ-ra, tɯ-xtsa nɯ tú-wɣ-ŋga tɕe wuma ʑo mpja. tɯ-xtsa ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ konaʁxtsa rmi, ɯ-xtsɤrkɯ nɯ komɤr thɯ-kɤ-sɯɣ-ɲaʁ ŋu, mɤʑɯ tɯ-tɯphu nɯ koscaxtsa rmi, tɕe ɯ-xtsɤrkɯ nɯ mɯ-pɯ-kɤ-sɯɣ-tshwi ŋu. 
-\xn 鞋帮的左右两边的下侧装鞋底，上面装靴筒，在内层要有内衬，是用羊毛织出来的布料。靴筒是用獐子皮、麂子皮、比较薄的鹿子皮做成的。在鞋后面要有srɯβzɤn（在缝合处夹的一块布料）。这种鞋子穿起来很暖和。鞋子分成两种，一种叫konaʁ xtsa，鞋帮是染成黑色的红皮子，另一种叫kosca xtsa，鞋帮是根本没有染色的皮子。 
+\xn 鞋帮的左右两边的下侧装鞋底，上面装靴筒，在内层要有内衬，是用羊毛织出来的布料。靴筒是用獐子皮、麂子皮或是比较薄的鹿子皮做成的。在鞋后面要有srɯβzɤn（在缝合处夹的一块布料）。这种鞋子穿起来很暖和。鞋子分成两种，一种叫konaʁ xtsa，鞋帮是染成黑色的红皮子，另一种叫kosca xtsa，鞋帮是根本没有染色的皮子。 
 \nqr
 \dt 13/Dec/2012
 
@@ -15684,7 +15690,7 @@
 \xv nɤ-xtsɤxtɕɤr ɲɤ-nɯ-ɬoʁ nɤ!
 \xn 你的鞋带解开了
 \xv nɤ-xtsɤxtɕɤr kɤ-lɤt ma tɯ́-wɣ-tʂaβ
-\xn 你系鞋带，不让回令你摔跤
+\xn 你把鞋带系上，不然会摔跤的
 \dt 18/May/2014
 
 \lx xtsɯsna
@@ -15707,7 +15713,7 @@
 \gn 牛皮绳[纤绳] 
 \hbf charrue 
 \xv xtɯrkɯ nɯ mbɣoru cho stuxsi ndʑi-kɯ-sɤthɤri tɯ-ndʐi kɯ-rɟum kɯ-zri tsa nɯ ŋu 
-\xn {xtɯrkɯ}是连接犁杆和牛轭的又宽又长的牛皮绳 
+\xn {xtɯrkɯ}是连接犁杆和牛轭的又宽又长的牛皮绳
 \nqr
 \dt 13/May/2014
 
@@ -15774,7 +15780,7 @@
 \ge expression du regret, de l'espoir
 \gn 表示惋惜、希望
 \xv χawoʑo nɤ-ɕqhe a-nɯ-me kɯ!
-\xn 真希望你的咳嗽会治好
+\xn 唉，真希望你的咳嗽会治好
 \dt 08/May/2014
 
 \lx χɤjtsu
@@ -15808,24 +15814,19 @@
 \xv jɯfɕɯr tɤpɤtso wuma pɯ-nɯzdɯɣ-a ri, jɤ-azɣɯt tɕe, a-sɯm χɤlχɤl ʑo ɲo-pa
 \xn 昨天我很担心小孩子，他到了之后我就放心了
 \xv slama ra jɤ-nɤrí-nɯ, sloχpɯn ɯ-rkɯ χɤlχɤl ʑo ɲɯ-pa
-\xn 当学生都走了之后，老师觉得很寂寞 
+\xn 当学生都走了之后，老师觉得心里空落落的
 \xv a-kɯ-mŋɤm χɤlχɤl ʑo tɤ-pa 
 \xn 我的病完全痊愈了
 \dt 13/Dec/2011
 
 \lx χɤnku
 \ps n
-\ge casserole en fer 
-\gn 生铁锅 
+\ge casserole en fer pour cuire la pâté des cochons 
+\gn 煮猪草的生铁锅
 \hbf 545 
 \xv χɤnku nɯ tɯ-thɯ kɯ-wxti ci ŋu, ɯ-spa khru ɲɯ-ŋu, mba tɕe wxti ri mɤ-rʑi, paʁndza sɤ-sqa wuma ʑo pe. χɤnku nɯ ɯ-spa khro ɲɯ-ŋu tɕe, khru mɤ-ngɯt ma ɲɯ-ndoʁ tɕe kɤ-ta kɤ-mɟa ra ɣɯ-mdzoz tsa ra. 
-\xn {χɤnku}是比较大的锅，是用生铁铸成的，因为很薄，所以大而轻，最适合于煮猪草。因为是用生铁做成的，所以不结实，很脆，所以放、拿起来时要特别小心。 
+\xn {χɤnku}是一种大锅，用生铁铸成。因为很薄，所以大而轻，最适合于煮猪草。因为用生铁做成，所以不结实，很脆，所以放下拿起的时候要特别小心。 
 \nqr
-
-\lx χɤnku
-\ps n
-\ge marmite pour cuire la pâté des cochons 
-\gn 煮猪草的锅
 
 \lx χcha
 \ps n
@@ -15936,7 +15937,7 @@
 \ge en sécurité
 \gn 安全、安康
 \xv ɯʑo ɯ-kha ra mɤ-kɯ-pe ku-me tɕe, χɕɯldɤn ɕti
-\xn 他的家里人都好，都安然无言
+\xn 他的家里人都好，平安无事
 \cf aχɕɯldɤn
 \dt 19/May/2014
 
@@ -15990,8 +15991,8 @@
 
 \lx χpi
 \ps n
-\ge histoire 
-\gn 故事 
+\ge histoire, exemple
+\gn 故事，例子
 \hbf 652 
 \et dpe
 \xv ɯʑo kɯ χpi wuma kɯ-mpɕɤr ci ɲɤ-sɤβzu
@@ -16008,7 +16009,7 @@
 \xv ɯ-rte nɯ χploʁploʁ kɯ-pa ci ɲɯ-ŋu
 \xn 他的帽子是球形的
 \xv tɤjmɤɣ thamtɕɤt nɯ mɯ-tɤ-kɯ-qawɤr nɯ χploʁploʁ kɯ-pa tu-kɯ-ti ɕti
-\xn 所有菌子在开放之前就是球形的
+\xn 菌子在开放之前都是球形的
 \cf ploʁploʁ
 \cf ɕploʁɕploʁ
 \dt 17/Jan/2015
@@ -16146,6 +16147,7 @@
 \ps n
 \ge bête sauvage
 \gn 野兽
+\et gtɕan.gzan
 \dt 18/May/2014
 
 \lx χtɕɤt
@@ -16169,13 +16171,14 @@
 \ps n
 \ge rhumatisme 
 \gn 风湿，关节疼 
+\et gtɕoŋ
 \hbf maladie 
 \dt 03/Aug/2013
 
 \lx χtɕɯrɯ
 \ps n
 \ge nu
-\gn 裸替
+\gn 裸体
 \cf χtɕɯrɯpa
 \cf rɯχtɕɯrɯ
 \cf nɯχtɕɯrɯ
@@ -16267,7 +16270,7 @@
 \ge ouvert (sac)
 \gn 形容向外展开的样子
 \xv ɯ-ŋga mɯ́j-pe tɕe χwɤrχwɤr ʑo ɲɯ-pa
-\xn 我的衣服不好，是破烂的样子
+\xn 我的衣服不好，破破烂烂的
 \dv thɯ-kɯ-ɴɢraʁ, mɤ-kɯ-ɤlɤɣɯ, kɯ-ɲɟɯ kɯ-fse
 \dt 09/Oct/2014
 
@@ -16329,7 +16332,7 @@
 \gn 形容房间里突然密闭昏闷的感觉，或岩石突然倒塌的声音 
 \hbf *kɯsɤr.137 
 \xv kɯm zbɯɣ ʑo ta-stu 
-\xn 他关了门，房间里一下子就闷了
+\xn 他关了门，房间里一下子就闷了起来
 
 \lx zbɯwa
 \ps n
@@ -16367,7 +16370,7 @@
 \hbf *kɯsɤr.6 
 \et sdug.tʰug
 \xv a-kɤ-nɤma zdɯxthɯɣ ʑo nɯ-sthɯ́t-a 
-\xn 我把工作完成得不是很成功
+\xn 我把工作完成得差强人意
 \dt 23/Mar/2014
 
 \lx zdɯɬa
@@ -16376,7 +16379,7 @@
 \gn 芍药 
 \hbf plante 
 \xv zdɯɬa nɯ zgo ku kɯ-mbro kɯ-mbɤr aʁɤndɯndɤt sɯŋgɯ tu-ɬoʁ cha. sɯjno mɤ-mbro tɯ-phɯ ɯ-ŋgɯ ɯ-ru lɤŋɤtʂɤ-ldʑa tu-ɬoʁ cha. tɯ-ldʑa ma kɯ-me ci tu. ɯ-mɯntoʁ kɯ-ɣɯrni ɲɯ-kɯ-lɤt ci tu, nɯ ɣɯ ɯ-qa ɯ-zrɤm nɯ ɣɯrni, mɤʑɯ tɯ-tɯ-phu tɕe, ɯ-mɯntoʁ ku-ɣrum ci tu tɕe, nɯ ɣɯ ɯ-qa ɯ-zrɤm nɯ ɣrum. ɯ-mɯntoʁ wxti, tɯ-rdoʁ tɯ-rdoʁ ɲɯ-lɤt ŋu. ɯ-jwaʁ nɯ thɯ-kɤ-rɤfɕɯ-fɕɤt fse, ʁnɯ-tɯ-phu ni ndʑi-jwaʁ ra naχtɕɯɣ. smɤn ɲɯ-sna. ɯ-di ɕŋaʁ ci tu. 
-\xn 芍药生长在山上山下的森林里，这种草长得不高，有的一棵可以长出五、六根茎，有的只长一根茎。有的开红花，根也是红色的，有的开白花，根也是白色的。花很大，一朵一朵地开，叶子好象是被撕下来的一样。两种芍药的叶子相同。可以入药。有一股臭味。
+\xn 芍药生长在山上山下的森林里。这种草长得不高，有的一棵可以长出五、六根茎，有的只长一根茎。有的开红花，根也是红色的，有的开白花，根也是白色的。花很大，一朵一朵地开，叶子好象是被撕下来的一样。两种芍药的叶子相同。可以入药。有一股臭味。
 
 \lx zdɯm
 \ps n
@@ -16399,7 +16402,7 @@
 \gn 一种菌子 
 \hbf champignon 
 \xv zdɯmqe nɯ ɕɤr tɯmɯ ka-lɤt tɕe, soz tɕe stɤmku xɕɤj ɣɯ ɯ-rchɤβ kɯ-ɤʁɟa nɯ ra ku-ndzoʁ ŋu. kɯ-ɤlɤɣɯ ŋu ma tɯ-rdoʁ tɯ-rdoʁ maʁ, tɤjmɤɣ fse ri tɯmɯ tɤ-jim tɕe ɲɯ-me ɕti 
-\xn {zdɯmqe}是在草地、草丛之间的空地上长出来。一般是在晚上下雨，早上有雾和雾刚散的时候才会发出。它不是单独生长的，也没有规则形状，象菌子，但是天一晴就会消失。 
+\xn {zdɯmqe}生长在草地、草丛之间的空地上。一般晚上下雨，早上有雾和雾刚散的时候才会长出。它不是单独生长的，也没有规则形状，象菌子，但是天一晴就会消失。 
 \dt 18/May/2014
 
 \lx zdɯzdu
@@ -16422,7 +16425,7 @@
 \lx zgɤrɕaŋ
 \ps n
 \ge mât de tente 
-\gn 搭帐篷用的杆子 
+\gn 帐篷杆子 
 \et sgar.ɕiŋ
 
 \lx zgɤrtshoʁ
@@ -16459,7 +16462,7 @@
 \ge courbé
 \gn 形容弓起来的样子
 \xv rgɤtpu nɯ ɯ-phoŋbu zgoŋzgoŋ ʑo ɲɯ-pa
-\xn 老年人是弓着背的
+\xn 老年人背是弓着的
 \dt 13/May/2014
 
 \lx zgotɕɯ
@@ -16544,7 +16547,7 @@
 \ge complètement rempli
 \gn 形容满
 \xv lʁa ɯ-ŋgɯ laχtɕha khro to-rku-nɯ zɟaŋzɟaŋ ʑo ɲɯpa
-\xn 他们在口袋里装了很多东西，显得很满
+\xn 他们在口袋里装了很多东西，显得鼓鼓囊囊的
 \sy zɟraŋzɟraŋ
 \dt 28/Aug/2012
 
@@ -16566,7 +16569,7 @@
 \ge petit
 \gn 形容身材矮小
 \xv tɤpɤtso nɯ zɟoʁzɟoʁ ʑo ɲɯ-pa
-\xn 那个孩子个子矮小
+\xn 那个孩子个子矮矮的
 \an zjɤɣzjɤɣ
 \an zjaŋzjaŋ
 \dt 04/May/2014
@@ -16576,7 +16579,7 @@
 \ge mou et enflé
 \gn 形容软而鼓起的样子
 \xv ɯ-xtu zɟraŋzɟraŋ ʑo pa
-\xn 他肚子鼓起来，很软的样子
+\xn 他肚子鼓起来，软乎乎的样子
 \sy zɟaŋzɟaŋ
 \dt 28/Aug/2012
 
@@ -16623,14 +16626,14 @@
 \pdl dir 
 \pdv thɯ-
 \ge chauffer au feu 
-\gn 烘干 、烤（在火塘边）
+\gn 烘干、烤（在火塘边）
 \hbf 1374 
 \xv smi ɯ-phe kɤ-znɯmgɯrjɯm-a
 \xn 我烤火了
 \xv @yangyu kɤ-kɤ-sqa kɤ-znɯmgɯrjɯm-a
 \xn 把煮过的洋芋烤了一下
 \xv qɤjɣi nɯ chɯ́-wɣ-znɯmgɯrjɯβ tɕe, nɯ kɯfse thɯ-kɯ-smi nɯ tú-wɣ-ndza tɕe mɯm
-\xn 把馍馍在火塘边烤熟的话就好吃
+\xn 把馍馍在火塘边烤熟很好吃
 \dt 24/Jun/2014
 
 \lx znɯrdɯl
@@ -16660,7 +16663,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv zɲɟɤʑru nɯ si kɯ-mbɤr ci ŋu, ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ ɯ-ru kɯ-ɣɯrni ŋu, ɯ-jwaʁ ɯ-ru taʁ chɯ-ɤʑɯrja ŋu, ɯ-mat nɯ ɯ-jwaʁ rca chɯ-ɤʑɯrja ŋu, tɕe thɯ-tɯt tɕe, ci kɯ-qarŋe ci tu, kɯ-ɲaʁ ci tu, tɕe kɯ-qarŋe nɯ jndʐɤz, kɯ-ɲaʁ nɯ ndɯβ, tú-wɣ-ndza tɕe chi, zɲɟɤʑru ɯ-ru cho ɯ-jwaʁ taʁ ra ɯ-mdzu kɯ-ndɯβ tsa tu. mɤʑɯ tɯ-tɯphu nɯ ɯ-ru cho ɯ-jwaʁ tɯ-ɣndʑɤr thɯ-kɤ-mar ʑo kɯ-fse kɯ-wɣrum tu. ɯ-mat pjɯ-ɴqoʁ tsa ŋu. thɯ-tɯt tɕe qarŋe. kɤ-ndza mɯm. li ɯ-ru cho ɯ-jwaʁ ra ɯ-mdzu tu. nɯ kɯ tu-mbro tsa cha. 
-\xn {zɲɟɤʑru}是矮小的树，有两种。一种有红色的树干，叶子排列在树干上，果实也和叶子长在一起。成熟后，有的是黄色，有的是黑色的，黄色的那些比较大，黑色的那些比较小，吃起来很甜。{zɲɟɤʑru}的干和叶子上有小刺。还有一种，树干和叶子上好象涂了白粉一样。果实是吊着的，成熟后变黄。可以吃。树干和叶子上也长有刺。这种{zɲɟɤʑru}长得比较高一些。
+\xn {zɲɟɤʑru}是一种矮小的树，分为两种。一种有红色的树干，叶子排列在树干上，果实也和叶子长在一起。成熟后，有的是黄色，有的是黑色的，黄色的较大，黑色的较小，吃起来很甜。{zɲɟɤʑru}的树干和叶子上有小刺。还有一种，树干和叶子上好象涂了白粉一样。果实垂吊着，成熟后变黄。可以吃。树干和叶子上也长有刺。这种{zɲɟɤʑru}长得比较高一些。
 \dt 02/Jan/2015
 
 \lx zraχtɕi
@@ -16689,7 +16692,7 @@
 \hbf plante 
 \et sran
 \xv zrɤntɕɯ nɯ li tɤ-rɤku ci ŋu, tɯ-ji nɯ mɤ-kɯ-sna tsa lu-ji khɯ, ɯʑo kɯ-xtɕi ci ŋu, tu-wxti mɤ-cha, ɯ-tshɯ́ɣa nɯ staʁpɯ cho naχtɕɯɣ, ɯ-jwaʁ, ɯ-ru, ɯ-mɯntoʁ, ɯ-cɤβ nɯ ra lonba staʁpɯ fsɯ-fse ʑo fse, staʁpɯ wuma ʑɤ tu-rɲɟi cha, ɯ-rdoʁ ɯ-jndʐɤz artɯm rloʁ-rloʁ. zrɤntɕɯ ɯ-rdoʁ xtɕi cho aɕpɯɕpa tsa. 
-\xn 绿豆是一种庄稼，可以种在不好的地里，它有点小，长不大，形状和豌豆一样，叶子、茎、花、荚果和豌豆一模一样。豌豆长得长，颗粒是球形的。绿豆的颗粒小而扁。
+\xn 绿豆是一种庄稼，可以种在贫瘠的地里。它较小，长不大，形状和豌豆一样，叶子、茎、花、荚果和豌豆一模一样。豌豆长得长，颗粒是球形的。绿豆的颗粒小而扁。
 \dt 18/Aug/2014
 
 \lx zrɯ¹
@@ -16723,7 +16726,7 @@
 \gn 螳螂 
 \hbf animal 
 \xv zrɯɣndza nɯ qajɯ ci ŋu, ɯ-mi kɯtʂɤ-ldʑa tu, ɯ-ku kɯ-xtɕi tɕe kɤ-mtɕoʁ ci ŋu, ɯ-phoŋbu kɯ-wxti tsa ci ŋu, ɯ-smɤt tɕe chɯ-ɤmtɕoʁ tsa ŋu, tɕe ɯ-mgɯr ɯ-qhu ra rko, ɯ-xtɤpa ra mpɯ tɕe zrɯɣ kɤ-ndza wuma rga, kɯ-mɤku tɕe, zrɯɣ pha ɯ-phoŋbu tɯ-tɯ-rca chɯ-mqlaʁ ŋu, khro tsa ta-ndza tɕe, tu-fka ɲɯ-ŋu tɕe zrɯɣ nɯ-atɯɣ tɕe ɯ-se ku-tshi tɕe ɲɯ-βde ɲɯ-ŋu. pha ɯ-phoŋbu kɤ-rŋi, sɯjno cho aɣɯmdoʁ. 
-\xn 螳螂是一种虫，有六只脚，头小而尖，身子较大，尾部是尖的，背部硬，肚皮软。它爱吃虱子，先整个吃掉，吃了几个以后，吃饱了，再遇到虱子的时候，喝了血就扔了。螳螂全身是绿色的，和草的颜色一样。 
+\xn 螳螂是一种虫，有六只脚，头小而尖，身子较大，尾部是尖的。背部硬，肚皮软。它爱吃虱子，开始是整个吃掉。吃了几个以后，饱了，再遇到虱子的时候，喝了血就扔了。螳螂全身是绿色的，和草的颜色一样。 
 \nqr
 
 \lx zʁɤɲcɯ
@@ -16734,7 +16737,7 @@
 \xv zʁɤɲcɯ ci to-lɤt tɕe pɣa to-sɯxtsɯɣ 
 \xn 他用投石带射中了鸟
 \xv zʁɤɲcɯ nɯ tɤ-fsɤri maʁ nɤ qase nɯ-kɤ-βzu ŋu tɕe ɯ-χcɤl nɯ tɕu rdɤstaʁ ɯ-sɤɣ-raʁ ci tú-wɣ-βzu tɕe, tú-wɣ-zdɤβ tɕe ɯ-ɕnɤz tɯka nɯ kú-wɣ-ndo, ɯ-χcɤl nɯ tɕu rdɤstaʁ kɯ-xtɕi tsa chɯ́-wɣ-sɯɣ-raʁ tɕe tɯ-ku taʁ tɯ-jaʁ ntsi kɯ χsɯ-tɤxɯr jamar ku-sɯ-sɯ-mtɕɯr tɕe ɯ-ɕnɤz tɯ-rdoʁ nɯ ɲɯ́-wɣ-ta tɕe ɲɯ́-wɣ-lɤt, tɕe rdɤstaʁ kɯ-ɤrqhi ʑo ju-ɕe cha. tɕe nɯ rdɤstaʁ sɤ-lɤt ɯ-spa ŋu. 
-\xn 投石带是麻绳或者皮绳做成的，中间做一个能卡住石子的（结），（从中间）叠一下，绳的两头拿在手上，在中间卡住小石子，然后在头上挥转三圈，之后再把绳子的一头放掉，打出去，这样石子就投得远一些。投石带是投掷石头的专用工具
+\xn 投石带用麻绳或者皮绳做成。中间做一个能卡住石子的（结），（从中间）叠一下。绳的两头拿在手上，在中间卡住小石子，然后在头上挥转三圈，之后再把绳子的一头放掉，打出去，这样石子就投得远一些。投石带是投掷石头的专用工具。
 \nqr
 \dt 19/Feb/2014
 
@@ -16784,7 +16787,7 @@
 \lx zɯn
 \ps n
 \ge argent de l'époque impériale 
-\gn 民国之前的货币 
+\gn 民国之前通行的货币 
 \hbf 573
 
 \lx zɯxtɕhɤl
@@ -16801,7 +16804,7 @@
 \ge mou, pas ferme
 \gn 形容物体绵软
 \xv tú-wɣ-ndza tɕe zwaʁnɤzwaʁ ɲɯ-ti
-\xn 吃起来软绵绵
+\xn 吃起来软绵绵的
 \an tɕʁɯznɤtɕʁɯz
 \dt 13/Jan/2014
 
@@ -16819,7 +16822,7 @@
 \gn 蒿 
 \hbf plante 
 \xv zwɤr nɯ ɯ-ru cho ɯ-jwaʁ kɤsɯfse kɯ-pɣi ŋu. ɯ-jwaʁ nɯ kɯ-ɤɣɯrʑɯɣʑɯɣ kɯ-fse ŋu. zwɤr ɯ-di χɕɤβ, kɤntɕhɯ-tɯphu tu, zwɤrqha kɯ-rmi ci tu, si ŋu. zwɤɣrum kɤ-ti ci tu tɕe nɯ aɣrɤɣrum. zwɤrɲaʁ kɤ-ti ci tu tɕe nɯ aɲaʁndzɯm. ɴqiazwɤr kɤ-ti ci tu tɕe nɯ ɯ-jwaʁ ra mba tsa ɯ-mdoʁ nɯ arŋi. kɤ-ndza sna. zwɤrqha, zwɤɣrum, zwɤrɲaʁ nɯ ra nɯ-jwaʁ taʁ ɯ-rme sɯβsɯβ tu, ɴqiazwɤr ɯ-jwaʁ taʁ ɯ-rme me. 
-\xn 蒿的茎和叶子全部都是灰色的。叶子上有菌褶。香味浓。有很多种。叫做{zwɤrqha}的那个是一种树。叫做{zwɤrɣrum}的那个是淡白色的。叫做{zwɤrɲaʁ}的那个颜色比较深。叫做{qiaβzwɤr}（香蒿）的那个叶子薄，绿色，可以吃。前三种蒿叶子上有细毛，香蒿叶子没有毛。
+\xn 蒿的茎和叶子全部都是灰色的，叶子上有褶，香味浓。蒿分很多种。叫做{zwɤrqha}的是一种树。叫做{zwɤrɣrum}的淡白色。叫做{zwɤrɲaʁ}的颜色比较深。叫做{qiaβzwɤr}（香蒿）的叶子薄，绿色，可以吃。前三种蒿叶子上有细毛，香蒿叶子没有毛。
 \cf zwɤɣrum
 \cf zwɤrqha
 \cf ɴqiazwɤr
@@ -16838,7 +16841,7 @@
 \gn 一种菌子 
 \hbf champignon 
 \xv zwɤrqhɤjmɤɣ nɯ zwɤrqha ŋgɯ tu-ɬoʁ ŋu, ɯ-taʁ ɯ-pa kɯ-fsɯ-fse ʑo kɯ-wɣrɯ-wɣrum ʑo ŋu, kɤ-ndza sna 
-\xn {zwɤrqhɤjmɤɣ }长在{zwɤrqha} 树林里，上面和下面一样都是白色的，能吃。
+\xn {zwɤrqhɤjmɤɣ }长在{zwɤrqha} 树林里，上部和下部一样都是白色的，能吃。
 \dt 02/Jan/2015
 
 \lx zwu
@@ -16890,13 +16893,7 @@
 \ge festin
 \gn 宴会
 \xv ʑaŋndza chɤ-lɤt-nɯ
-\xn 他们把
-\dt 28/Aug/2012
-
-\lx ʑaŋndza
-\ps n
-\ge festin
-\gn 宴会
+\xn 他们办了宴会
 \xv iʑora ʑaŋndza thɯ-lɤt-i
 \xn 我们办了宴会
 \dt 16/May/2014
@@ -16922,6 +16919,7 @@
 \ps n
 \ge pellicule de graisse 
 \gn 浮油 
+\et ʑag
 \dt 26/Oct/2011
 
 \lx ʑatsa
@@ -16969,9 +16967,9 @@
 \gn 刚好 
 \hbf *tɯxtsa.0 
 \xv jisŋi tɕe, tɯ-sla ʑgaʁ ʑo tu-tsu ŋu
-\xn 到今天就刚满一个月了 
+\xn 到今天就刚好满一个月了 
 \xv kɯtʂɤɣ ɯ-taʁ kɯβde pjɯ́-wɣ-ta tɕe, sqi ʑgaʁ ŋu 
-\xn 六加四刚等于十
+\xn 六加四正好等于十
 
 \lx ʑgɤβʑgɤβ
 \ps idph.2
@@ -17012,14 +17010,14 @@
 \lx ʑimkhɤm
 \ps n
 \ge la terre entière, beaucoup, un long moment, domaine 
-\gn 很多、很长时间、整个地球、管辖区 
+\gn 很多、很长时间、全世界、管辖区 
 \hbf *ɲimawozɤr.92 
 \et ʑiŋ.kʰams
 
 \lx ʑiwarɯmtɕhɤt
 \ps n
 \ge une célébration bouddhique 
-\gn 一种佛教活动 
+\gn 一种法事
 \et ʑi.ba ri.mtɕʰod
 \dt 02/Aug/2014
 
@@ -17038,7 +17036,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv ʑmbraʁlaʁli nɯ sɯjno ci ŋu, ɯ-ru kɯ-mpɯ tsa ŋu, kɤ-lɯlju ŋu, ɯ-jwaʁ ʁnɯz ma ku-tshoʁ mɤ-cha. ɯ-jwaʁ ni ndʑi-phɤrthɤβ ri ɯ-mɯntoʁ ɲɯ-βze tɕe ɯ-jwaʁ nɯ nɯ-ɴɢɤt tɕe, ɯ-mɯntoʁ pjɯ-ŋgra tɕe ɯ-mat nɯ ɯ-jwaʁ ɯ-pa pjɤ-ɴqoʁ ŋu. ɯ-mat thɯ-tɯt tɕe ɣɯrni. ɯ-ŋgɯ ɯ-ci cho ɯ-rdoʁ ra kɯ́nɤ ɣɯrni. mɤ-sɤndɤɣ. tɤ-potso ra kɯ tu-ndzá-nɯ ŋgrɤl. nɯ tú-wɣ-ndza tɕe "tɯ-rqo ʑmbraʁ mɤ-ɕe" tu-tí-nɯ ŋgrɤl. 
-\xn {ʑmbraʁlaʁli} 是一种植物，茎有点柔软，是圆柱形的，只长两片叶子。花夹在两片叶子中间，叶子展开了以后，花凋落结成果实吊在叶子下面。果实成熟后变红。没有毒性。小孩子们经常吃这个果实。据说吃了它“青稞的芒不会进入喉咙”。
+\xn {ʑmbraʁlaʁli} 是一种植物，茎有点柔软，呈圆柱形。只长两片叶子。花夹在两片叶子中间，叶子展开了以后，花凋落结成果实吊在叶子下面。果实成熟后变红。没有毒性。小孩子们经常吃这个果实。据说吃了它“青稞的芒不会进入喉咙”。
 \dt 01/Sep/2013
 
 \lx ʑmbri²
@@ -17053,7 +17051,7 @@
 \gn 猴头菌[杨柳菌] 
 \hbf champignon 
 \xv ʑmbrijmɤɣ nɯ ʑmbri kɯ-wxti taʁ tu-ɬoʁ ɲɯ-ŋu, kɯ-maʁ tɤjmɤɣ ra cho nɯ-tshɯɣa mɯ́j-naχtɕɯɣ, ɯʑo kɯ-ɤrtɯm rloŋrloŋ ɲɯ-ŋu, ɯ-βri nɯ tɤ-rme kɯ-fse ʁɟa ɲɯ-ŋu, kɤ-ndza ɲɯ-sna, ɯ-mdoʁ kɯ-ɤqarŋɯrŋe tsa ɲɯ-ŋu. 
-\xn 杨柳菌长在高大柳树上，样子和其他蘑菇不一样，呈圆球形，全身长满毛，可以吃，颜色是淡黄色。 
+\xn 杨柳菌长在较高大的柳树上，样子和其他蘑菇不同。呈圆球形，全身长满毛，可以吃。颜色是淡黄色。 
 \nqr
 \dt 12/May/2013
 
@@ -17063,7 +17061,7 @@
 \gn 苦苣菜[空洞菜] 
 \hbf plante 
 \xv ʑmbroko nɯ tɯ-xpa tu-kɯ-ɬoʁ sɯjno ŋu, ɯ-ru ɯ-ŋgɯ nɯ kɯ-so ŋu, pjɯ́-wɣ-qlɯt tɕe mpɯ, tɕe ɯ-lu tu, fsapaʁ ndza wuma pe ɯ-mɯntoʁ kɯ-qarŋe tɕe kɤ-rɯlaba ŋu 
-\xn 苦苣菜是一年生的植物，茎是空心的，撇断的时候是嫩的，有乳汁，是很好的饲草，花是黄色的，有喇叭的形状。
+\xn 苦苣菜是一年生的植物，茎是空心的，撇断的时候是嫩的，有乳汁。是很好的饲草。花黄色，喇叭形。
 
 \lx ʑmbrɯ
 \wav8 ZmbrW_kAlata
@@ -17073,7 +17071,7 @@
 \hbf 602 <2> 1377 
 \et gru
 \xv ʑmbrɯ kɤ-lat-a 
-\xn 我划船了
+\xn 我划了船
 \dt 12/Jan/2014
 
 \lx ʑmbrɯβɟɤj
@@ -17100,16 +17098,16 @@
 \gn 一种鸟 
 \hbf oiseau 
 \xv ʑmbrɯpɣa nɯ pɣa tɤ-ŋkhɯt stáʁnɤ wxti, ɯ-mi kɯ-qarŋe ŋu, ɯ-mtsioʁ nɯ ɲaʁ rɲɟi tsa ɯ-jme nɯ ɯ-phoŋbu sɤz rɲɟi, ɯ-muj ɯ-mdoʁ wuma mpɕɤr, kɯ-ɲaʁ ra kɯ́nɤ nɤmbju, ɯ-xtɤpa ra ʁmɯrsɤr ɯ-mdoʁ tu, ɯ-rqo pa cho ɯ-ʁar χchoʁe ra ku-ɣrum tɯ-snaʁ ka tu. tɯ-ji ŋgɯ ju-ɣi mɤ-ŋgrɤl, stɤmku cho sɯŋgɯ ra ku-rɤʑi ɕti. 
-\xn {ʑmbrɯpɣa }是一种鸟，比拳头大一点，脚是黄色的嘴是黑的，尾巴比身子长，羽毛的颜色很美，黑色的都有光泽，腹部是橙色的，脖子和翅膀上各有一块白点。不会来到庄稼地里，只是在草地和森林里生活。
+\xn {ʑmbrɯpɣa }是一种鸟，略大于拳头。脚黄色，嘴黑色，尾巴比身子长。羽毛颜色很美，黑色有光泽。腹部是橙色的，脖子和翅膀上各有一块白点。这种鸟不会来到庄稼地里，只是在草地和森林里生活。
 \dt 02/Jan/2015
 
 \lx ʑmbɯlɯm
 \ps n
 \ge une espèce de champignon 
-\gn [油辣苦] 
+\gn [油辣枯] 
 \hbf champignon 
 \xv ʑmbɯlɯm nɯ sɤjku cho mbrɤj ŋgɯ tu-ɬoʁ ŋu, ɯ-qhu nɯ kɤ-qarŋɯ-rŋe tɕe kɯ-nɤmbju tsa ŋu, ɯ-rʑɯɣ cho ɯ-ru nɯ ku-ɣrum ŋu, tú-wɣ-ndza tɕe kɯ-xtɕɯ-xtɕi qiaβ cho mɤrtsaβ 
-\xn 油辣苦长在白桦树和红桦树林里，背面带有黄色，有点光泽，下面菌褶和干是白色的。吃的时候，有点苦，有点辣。
+\xn 油辣枯长在白桦树和红桦树林里，背面带有黄色，有点光泽，下面菌褶和干是白色的。吃的时候，有点苦，有点辣。
 
 \lx ʑŋgri
 \ps n
@@ -17117,7 +17115,7 @@
 \gn 星星 
 \hbf 5 
 \xv ʑŋgri kɯ-nɯqambɯmbjom 
-\xn 流行
+\xn 流星
 \dt 04/Mar/2014
 
 \lx ʑɴɢɯloʁ
@@ -17128,7 +17126,7 @@
 \xv mbrɯtɕɯ kɯ ʑɴɢɯloʁ nɯ-sɯphaʁ-a
 \xn 我用刀子把核桃撬开了
 \xv ʑɴɢɯloʁ nɯ si kɯ-wxtɯ-wxti ci ŋu, ɯ-mat nɯ ɯ-rqhu kɯ-rkɯ-rko ŋu, ɯ-ŋgɯ nɯ tɯ-rnoʁ ɯ-tshɯɣa fse, tú-wɣ-ndza tɕe wuma ʑo mɯm, ɯ-kri tu, ɯ-mat nɯ tɤ-rtɕi sna. 
-\xn 核桃是一种高大的树，果子的壳很硬，形状向大脑，吃起来很香，含有油脂，可以补身。
+\xn 核桃是一种高大的树，果子壳很硬，形状像大脑，吃起来很香，含有油脂，有滋补的作用。
 \dt 01/Sep/2012
 
 \lx ʑro
@@ -17146,7 +17144,7 @@
 \lx ʑu
 \ps n
 \ge yaourt 
-\gn 奶酪 
+\gn 酸奶
 \et ʑo
 
 \lx ʑɯβdaʁ
@@ -17165,7 +17163,7 @@
 \gn 形容很多人、东西、动物等密密麻麻地站着的样子
 \hbf *kɯsɤr.280 
 \xv tɤ-rtsho ʑɯβʑɯβ ʑo ɲɯ-pa
-\xn 很多麦桩树立着
+\xn 麦桩密密麻麻地立在那里
 \xv tɯrme ʑɯβʑɯβ ʑo ɲɯ-ndzur-nɯ 
 \xn 很多人在那里站着
 \xv fsapaʁ ra zgoku zɯ ʑɯβʑɯβ ʑo ɲɯ-rɤʑi-nɯ
@@ -17177,7 +17175,7 @@
 \lx ʑɯɣsa
 \ps n
 \ge siège, place où l'on s'asseoit (honorifique) 
-\gn 坐位（敬语） 
+\gn 座位（敬语） 
 \et bʑugs.sa
 
 \lx ʑɯɣsɯr
@@ -17190,7 +17188,7 @@
 \wav8 ZWnmar_def
 \ps n
 \ge beurre clarifié
-\gn 融酥
+\gn 融酥，融化的酥油
 \et ʑun.mar
 \dv ʑɯnmar nɯ jiɕqha, tamar nɯ ɲɯ́-wɣ-ftʂi tɕe, kú-wɣ-sɯ-stɤm tɕe nɯnɯ ŋu
 \cf ta-mar
@@ -17439,7 +17437,7 @@
 \ge rapide
 \gn 快
 \xv ɯ-rju ɲɯ-ɤɕɤrɣi
-\xn 他说得快
+\xn 他话说得快
 \xv ɯ-mɢla ɲɯ-ɤɕɤrɣi
 \xn 他步子走得快
 \se sɤɕɤrɣi
@@ -17449,7 +17447,7 @@
 \ge faire rapidement
 \gn 做得快
 \xv ɯʑo kɯ tɯrju kɤ-ti ɲɯ-sɤɕɤrɣi
-\xn 他说得快
+\xn 他说话说得快
 \dt 12/Feb/2014
 
 \lx _aɕɣa
@@ -17609,10 +17607,10 @@
 \xn 我天天咳嗽
 \xv ɯ-ɲɯ-tɯ-ɤɕqhe ?
 \xn 你咳嗽吗？
-\xv xiangbolin ɲɯ-ɤɕqhe, ɯ-rʑaβ kɯ ɲɯ-nɯzdɯɣ
+\xv @xiangbolin ɲɯ-ɤɕqhe, ɯ-rʑaβ kɯ ɲɯ-nɯzdɯɣ
 \xn 向柏霖咳嗽，他的妻子很担心
 \xv a-mɤ-tu-sɤ-ɕqhɯ-ɕqhe, smɤn ci tɤ-ndza-t-a
-\xn 为了不要咳嗽，我吃了药
+\xn 为了不咳嗽，我吃了药
 \se sɤɕqhe
 \wav vt-sACqhe
 \wav8 sACqhe
@@ -17621,7 +17619,7 @@
 \ge faire tousser
 \gn 令人咳嗽
 \xv aʑo a-rtshɤz ŋgɯ thɯ-ari tɕe tɤ́-wɣ-sɤɕqhe-a
-\xn （茶）进到肺里了，令我咳嗽
+\xn （茶）进到肺里了，让我咳了起来
 \xv tɤ-khɯ ɯ-di pjɯ-tɯ-mtshɤm tɕe, tú-wɣ-sɤɕqhe-a ŋu
 \xn 我一闻到烟味都会咳嗽
 \dt 12/Feb/2014
@@ -17722,7 +17720,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge clair 
-\gn 颜色浅 、色彩亮丽、亮堂
+\gn 颜色浅、色彩亮丽、亮堂
 \xv afsoʁŋgi
 \xn 很亮
 \xv to-kɤfsoʁŋgi-ci
@@ -17956,7 +17954,7 @@
 \xv ɴɢoɕna ɲɯ-ɤɣɯjɯjaʁ ɲɯ-ɤɣɯmɯmi, ɯ-mɤlɤjaʁ ɲɯ-dɤn
 \xn 蜘蛛有很多脚
 \ge avoir l'habitude de toucher les objets des autres 
-\gn 乱摸别人的东西 （偷东西），做事很快
+\gn 乱摸别人的东西（偷东西），做事很快
 \xv tɤpɤtso nɯ kɯ-ɤɣɯjɯjaʁ ci ɲɯ-ŋu
 \xn 那个孩子习惯乱摸别人的东西 
 \xv jiɕqha nɯ ɲɯ-ɤɣɯjɯjaʁ
@@ -18038,7 +18036,7 @@
 \ge qui a beaucoup de trous, qui a des yeux
 \gn 有很多小洞，有眼睛
 \xv nɤki tshaʁ wuma ʑo ɲɯ-ɤɣɯmɲaʁ
-\xn 那个筛子有很多小洞
+\xn 那个筛子有很多眼儿
 \cf tɯ-mɲaʁ
 \dt 07/Aug/2012
 
@@ -18059,7 +18057,7 @@
 \ge faire de façon complète, cohérente
 \gn 做得连贯
 \xv χpi kɤ-fɕɤt kɤ-zɣɯmphɯmphru ɲɯ-tɯ-cha
-\xn 你会连贯地把故事讲出来
+\xn 你能够把故事连贯地讲出来
 \cf ɯ-mphru
 \dt 17/Jan/2015
 
@@ -18251,7 +18249,7 @@
 \ge qui a des oreilles
 \gn 长有耳朵
 \xv nɤki tɯrme ra kɯ-ɤɣɯrna ʁɟa ɕti tɕe mtshɤm-nɯ
-\xn 那些人长又耳朵，会听见的
+\xn 那些人是长了耳朵的，会听见的
 \cf tɯ-rna
 \dt 07/Aug/2012
 
@@ -18353,7 +18351,7 @@
 \ge en profiter pour 
 \gn 顺便进行
 \xv kɤ-nɤma ra tú-wɣ-zɣɯrɯru tɕe mbat
-\xn 可以顺利做的事情，不要专门耽误时间就会更方便
+\xn 可以顺道做的事情，不要专门耽误时间就会更方便
 \dt 20/May/2014
 
 \lx _aɣɯrɯru²
@@ -18368,13 +18366,13 @@
 \lx _aɣɯrɯz
 \ps vs
 \ge hériter (d'un trait)
-\gn 遗传
+\gn 继承
 \xv ɯʑo ɯ-skɤt kɯ-sna nɯ, ɯ-wa ɲɤ-kɤɣɯrɯz-ci
-\xn 他遗传了
+\xn 他的声音很好听，是继承了他父亲
 \xv aʑo a-wa fse-a ma ɲɤ-kɤɣɯrɯz-a-ci
-\xn 我像我父亲因为遗传了他
+\xn 我像我父亲因为他的遗传
 \xv nɤʑo ɲɤ-kɤɣɯrɯz-a-ci tɕe a-tɕhaʁa ɣɤʑu
-\xn 我遗传了你，因为我有双眼皮
+\xn 我有你的遗传，为我有双眼皮
 \dt 01/Sep/2014
 
 \lx _aɣɯrʑɯrʑɯɣ
@@ -18386,7 +18384,7 @@
 \gn 皱（脸） 
 \hbf 995 
 \xv tɕheme ra nɯ-rti nɯ ɲɯ-ɤɣɯrʑɯrʑɯɣ
-\xn 女子的裙子是皱着的
+\xn 女孩的裙子是皱着的
 \xv to-kɤɣɯrʑɯrʑɯɣ-ci
 \xn 变得有皱褶了
 \xv nɤki nɯ to-rgɤz ma ɯ-rŋa ra to-ɣɯrʑɯrʑɯɣ 
@@ -18446,9 +18444,9 @@
 \ge se correspondre
 \gn 相称
 \xv nɤ-ŋga cho nɤ-xtsa ra a-pɯ-ɤɣɯmdoʁ tɕe ɲɯ-ɤɣɯʂwaŋ
-\xn 你的衣服和鞋子如果颜色一样的话就相称
+\xn 你的衣服和鞋子如果颜色一样的话就很撘
 \xv tɯrju nɯ ɯ-qhu ɯ-ʁɤri kɯ-ɤɣɯʂwaŋ tu-kɯ-ti ra
-\xn 话要说得前后相称的
+\xn 话要说得前后一致
 \dt 03/Aug/2012
 
 \lx _aɣɯtɕha
@@ -18513,7 +18511,7 @@
 \xv βɣɤrtshi kɯ kó-wɣ-mtsɯɣa tɕe ɲɯ-ɤɣɯtɯɣ
 \xn 我被蚊子叮了，有毒
 \xv jɯfɕɯndʐi smɤn mɯ-pɯ-aɣɯtɯɣ, jɤxtshi pa-ɣɤjɯ tɕe ɲɯ-ɤɣɯtɯɣ
-\xn 前几天农药毒性不够大，这一次他多加了一些，现在就有毒性
+\xn 前几天农药毒性不够大，这一次他多加了一些，现在就有毒性了
 \dt 20/Jan/2015
 
 \lx _aɣɯxɕɤt
@@ -18671,7 +18669,7 @@
 \gn 累积 
 \hbf 1400 
 \xv tɯ-ci nɯ tɤ-ajtɯ
-\xn 水积累了
+\xn 水积起来了
 \xv tɤscoz nɯ tɤ-rʑaʁ kɯ-rɲɟi tu-kɯ-stu pjɯ́-wɣ-βzjoz tɕe, ku-ojtɯ kɯra ɕti 
 \xn 文化知识是要长期积累起来的
 \xv laχtɕha khro to-kɤjtɯ-ci
@@ -18689,7 +18687,7 @@
 \xv a-zda ra kɯ nɯ-kɤ-mbi ra tɤ-nɯ-ndza-nɯ, aʑo nɯ-nɯ-sɤjtɯ-t-a
 \xn 我的伙计们自己吃别人给的东西，我就全部积攒起来了
 \xv stoʁ tɤ-sɤjtɯ-t-a
-\xn 我积累了胡豆
+\xn 我攒了胡豆
 \xv tɯ-ci tɤ-sɤjtɯ-t-a
 \xn 我积累了水
 \xv kɤ-ndza tɤ-sɤjtɯ-t-a
@@ -18699,7 +18697,7 @@
 \ge s'accumuler vite, facilement 
 \gn 容易积累
 \xv laχtɕha ra ɯ-grɤl kɯ-me ma-tɤ́-wɣ-ntɕhoz tɕe, tɕe ɣɤjtɯ
-\xn 不要乱用东西，就容易积累
+\xn 东西不要乱用，就积得起来
 \dv kɯ-ɤjtɯ kɯ-mbat, kɤ-sɤjtɯ kɯ-ɣɤji
 \cf ndɯ²
 \dt 15/Sep/2013
@@ -18737,7 +18735,7 @@
 \xv qaʁ nɯ ɯ-jɯ cho-χɕoʁ qhe tɕe ɲɯ-ɤkɤlɤt ɕti
 \xn 他拿锄头的把子抽了一下就脱落了
 \xv nɤ-ŋga kɤ-tʂɯβ ma akɤlɤt ɲɯ-ŋu
-\xn 你把衣服补一下，不然就会脱节了
+\xn 你把衣服补一下，不然就会脱成两半
 \se sɤkɤlɤt
 \ps vt
 \pdl dir 
@@ -18745,7 +18743,7 @@
 \ge faire se détacher
 \gn 使脱节
 \xv sporɟɤlɯla nɯ-sɤkɤlat-a
-\xn 我令四脚蛇脱节了
+\xn 我把四脚蛇弄脱节了
 \sy lɯɣ
 
 \dt 13/Mar/2013
@@ -18862,7 +18860,7 @@
 \gn 叫（某人）
 \hbf 1368
 \xv atu tɯrme ci ɲɯ-ɤkhu
-\xn 上头，有个人在叫（你）
+\xn 上头有个人在叫（你）
 \xv aʑo a-ɕki ɲɯ-ɤkhu
 \xn 他在叫我
 \xv chɤ-kɤkhu-ci
@@ -18978,7 +18976,7 @@
 \xv ʑɤni alɯlɤt-ndʑi ɲɯ-ŋu tɕe tɤ-βri-t-a
 \xn 他们俩差一点打架了，我保护了他（把他们俩劝开了）
 \xv to-kɤnɯmqɤj-ndʑi-ci tɕe tu-olɯlɤt-ndʑi
-\xn 他们俩吵架并打架了
+\xn 他们俩吵架了，还打了起来
 \xv to-kɤlɯlɤt-ndʑi-ci 
 \xn 他们俩打架了
 \cf lɤt
@@ -19143,14 +19141,14 @@
 \pdl dir 
 \pdv nɯ-
 \ge claire (eau) 
-\gn 清凉（水） 
+\gn 清（水） 
 \hbf 1022 
 \xv ki tɯ-ci ɲɯ-ɤmgri 
-\xn 水很清凉
+\xn 水很清
 \xv kɯki tɯ-ci ɲɤ-kɤmgri-ci
-\xn 水变清凉了
+\xn 水变清了
 \xv ki cha mɯm ma ɲɯ-ɤmgri
-\xn 这个酒很清凉，好喝
+\xn 这个酒很清，好喝
 \an qarndɯm
 \cf arɤmgrɯndɯr
 \dt 06/Dec/2010
@@ -19309,7 +19307,7 @@
 \xv kɤ-ntɕhoz amthoʁmthɯt
 \xn 刚刚够用
 \xv japa qhu ʁo tɕe, ji-ŋga ji-ndza ra thɯ-amthoʁmthɯt 
-\xn 自从去年以后我们吃的，穿的就足够了
+\xn 从去年开始，我们吃的、穿的就足够了
 \se sɤmthoʁmthɯt
 \ps vt
 \ng caus
@@ -19356,9 +19354,9 @@
 \xv tɕiʑo amɯfse-tɕi
 \xn 我们俩互相认识
 \xv iʑo kɤ-amɯfse-j kɯmŋuxpa tɤ-tsu
-\xn 我们认识已经五年了
+\xn 我们几个认识已经五年了
 \xv tɕiʑo kɤ-amɯfse-tɕi nɯ kɯβdɤxpa tɤ-tsu 
-\xn 我们认识已经四年了
+\xn 我们俩认识已经四年了
 \dt 02/Aug/2012
 
 \lx _amɯmi
@@ -19371,9 +19369,9 @@
 \gn 和气、和睦 
 \hbf 1104 
 \xv ʑɤni ɲɯ-ɤmɯmi-ndʑi 
-\xn 他们俩很和气
+\xn 他们俩关系融洽
 \xv ndʑiʑo ni kɯ-ɤmɯmi ɲɯ-tɯ-ŋu-ndʑi
-\xn 你们俩很和气
+\xn 你们俩之间很和睦
 \dt 24/Aug/2012
 
 \lx _amɯmto
@@ -19394,7 +19392,7 @@
 \se sɤmɯmto
 \ps vt
 \ge faire se recontrer
-\gn 令几个人互相碰见
+\gn 使几个人互相碰见
 \cf mto
 \dt 24/Aug/2012
 
@@ -19447,11 +19445,11 @@
 \ge remplir
 \gn 装满、盛满、堆满
 \xv tɯsqar tɤ-zmɯrmbɯ-t-a
-\xn 我盛满糌粑了
+\xn 我盛满了糌粑
 \xv tɤjlu tɤ-zmɯrmbɯ-t-a
-\xn 我盛满面粉了
+\xn 我盛满了面粉
 \xv khɯtsa ɯ-ŋgɯ tɯsqar tɤ-zmɯrmbɯ-t-a
-\xn 我在碗里盛满糌粑了
+\xn 我在碗里盛满了糌粑
 \cf rmbɯ
 \dt 25/Oct/2013
 
@@ -19501,13 +19499,13 @@
 \pdl dir 
 \pdv kɤ-
 \ge être l'un à côté de l'autre (deux morceaux) 
-\gn 挨拢 （互相接触）
+\gn 互相接触
 \xv tɕiʑo kɤ-amɯsthaβ-tɕi
-\xn 我们俩互相接触
+\xn 我们俩挨在一起
 \xv tɤjmɤɣ to-ɬoʁ-nɯ tɕe ɲɯ-dɤn tɕe ɲɯ-ɤmɯsthaβ ʑo
-\xn 长出了很多菌子，互相接触
+\xn 长出了很多菌子，挨在一起
 \xv iʑora kɤ-amɯrmbat-i tɕe kɤ-amɯsthaβ-i ʑo ɕti
-\xn 我们挨得很近，互相接触
+\xn 我们挨得很近，挨在一起
 \se sɤmɯsthaβ
 \ps vt
 \ng caus
@@ -19677,7 +19675,7 @@
 \xv jiɕqha tɯrme nɯ kɯ "tʂha kɤ-tshi ra" ɲɯ-ti ri, aʑo "mɤ-tshi-a" tɤ-tɯt-a ri, mɯ́j-khɯ tɕe ta-nɤrkɯrko-tɕi
 \xn 那个人叫我喝茶，我说不喝，我们争了一段时间
 \xv ɯʑo kɯ "nɤʑo kɤ-rɤʑi, ɤj ju-ɕe-a" ɲɯ-ti ri, aʑo kɯ "nɤʑo kɤ-rɤʑi tɕe ɤj ju-ɕe-a" tɤ-tɯt-a tɕe, ta-nɤrkɯrko-tɕi
-\xn 那个人叫我留下，说自己会去，我叫他留下，我说自己去，互相争了一下
+\xn 那个人叫我留下，说他自己会去，我叫他留下，说我自己去，互相争了一下
 \cf nɤrko¹
 \dt 27/Nov/2011
 
@@ -19691,11 +19689,11 @@
 \ge s'entendre bien ensemble 
 \gn 合得来 
 \xv tɕiʑo tɯtsɣe kɤβzu ɲɯ-ɤnɤrpɯrpaʁ-tɕi
-\xn 我们做生意很和睦
+\xn 我们做生意很合得来
 \xv tɕiʑo ki tshoŋ βzu-tɕi tɕe, anɤrpɯrpaʁ-tɕi wo
 \xn 我们做生意，非常投合
 \xv ɯʑo cho ɲɯ-ɤnɤrpɯrpaʁ-tɕi
-\xn 我们俩互相投合
+\xn 我们俩关系融洽
 \cf aɣɯrpaʁ
 \cf nɤrpaʁ
 \dt 24/Aug/2012
@@ -19739,11 +19737,11 @@
 \gn 躲藏 
 \hbf 1295
 \xv pjɯ-kɯ-mto mɯ-tɤ-pe tɕe, ku-kɯ-ɤnbaʁ ra
-\xn 不应该被人发现的时候，应该躲起来
+\xn 不适合被人发现的时候，就应该躲起来
 \xv nɤʑo cɯschɯz ɕ-kɤ-anbaʁ tɕe a-mɤ-pɯ-tɯ́-wɣ-mto
 \xn 你在某个地方躲起来，免得别人看见你
 \xv ku-tɯ-ɤnbaʁ mɤ-ra ma taɣa jɤ-ɣi
-\xn 你不用躲起来，出来
+\xn 你别躲起来了，出来
 \se nɤnbɯnbaʁ
 \ps vi
 \ge se cacher partout
@@ -19793,7 +19791,7 @@
 \ge faire mal en touchant une blessure
 \gn 碰（伤口）
 \xv a-jaʁ na-sɤndɤr
-\xn 他碰了我的手，令我很痛
+\xn 他碰了我的手，把我弄得很痛
 \xv tɯ-ɣmaz nɯ-tɯ-sɤndɤr
 \xn 你碰了伤口
 \xv a-tɯ-ɣmaz ma-nɯ-tɯ-sɤndɤr
@@ -19964,7 +19962,7 @@
 \pdl dir
 \pdv tɤ-
 \ge être voisins
-\gn 居住在一起、挨着的
+\gn 住在一起、挨着的
 \cf tɤ-rɣa
 \dt 13/May/2014
 
@@ -19992,7 +19990,7 @@
 \ge être incomplet
 \gn 疏漏
 \xv nɤ-laχtɕha koŋla tɤ-rɤwum tɕe a-mɤ-nɯ-ɤntɕhoʁjɤr
-\xn 你把东西收拾好，不要疏漏
+\xn 你把东西收拾好，不要漏掉
 \xv ɯβrɤ-ɲɤ-kɤntɕhoʁjɤr-ci kɯ
 \xn 应该没有疏漏了吧
 \se sɤntɕhoʁjɤr
@@ -20053,9 +20051,9 @@
 \gn 无意中被交换 
 \hbf 1383 <2> 1419 
 \xv laχtɕha ɲɯ-ɤntsɤndu
-\xn 东西不小心交换了
+\xn 东西不小心调换了
 \xv tɕiʑo tɕi-ŋga nɯ ɲɤ-kɤntsɤndu-ci
-\xn 我们的衣服不小心交换了
+\xn 我们俩的衣服不小心弄错了
 \cf sɤntsɤndu
 \cf sɤndu
 \dt 13/Jan/2014
@@ -20108,7 +20106,7 @@
 \xv ɲɯ-ɤnɯpɕɯpɕoʁ-ndʑi
 \xn 他们俩朝同一个方向
 \xv ki tɯrju ʁnɯ-ŋka ki mɯ-ɲɯ-ɤnɯpɕɯpɕoʁ kɯ ɲɯ-ɤnɯɕqhɯɕqhu ɕti
-\xn 这两句话不相称，是有矛盾的
+\xn 这两句话不相符合，是有矛盾的
 \cf tɯ-pɕoʁ
 \dt 17/Aug/2012
 
@@ -20121,7 +20119,7 @@
 \ge être l'un en face de l'autre
 \gn 一个对着一个（隔着河、山对着山）
 \xv kɯki iʑora ɲɯ-ɤnɯphɤrɯri-j
-\xn 我们在这给的的两边，互相看得到
+\xn 我们在两边，互相看得到
 \xv tɕɤndi phari ra cho ɲɯ-ɤnɯphɤrɯri-j
 \xn 我们跟对面的（那一家人）互相看得到
 \xv tɯji cho praʁ ɲɯ-ɤnɯphɤrɯri-ndʑi
@@ -20164,9 +20162,9 @@
 \pdl dir 
 \pdv tɤ-
 \ge s'échanger des travaux les uns les autres
-\gn 互相还工
+\gn 互相换工
 \xv tɕiʑo anɯʁɤndɯndu-tɕi
-\xn 我们俩互相还工
+\xn 我们俩互相换工
 \cf taʁɤndu
 \dt 16/Aug/2012
 
@@ -20213,7 +20211,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge se battre pour 
-\gn 争夺 、互相抢
+\gn 争夺、互相抢
 \hbf 1796 
 \xv paʁtsa ni ndʑi-ndza ɲɯ-ɤnɯsɯkhɯkho-ndʑi
 \xn 两个小猪互相抢食物
@@ -20231,7 +20229,7 @@
 \ge assidu, qui travaille rapidement
 \gn 勤快
 \xv ta-ma ɲɯ-ɤnɯsɯslaʁ
-\xn 他把工作做得很快（很勤快）
+\xn 他工作做得很快（很勤快）
 \xv nɯ ta-ma kɤ-nɤma tu-kɯ-ɤnɯsɯslaʁ ʑo jɤɣ wo
 \xn 这个工作可以做得快一些（长辈对晚辈说的话）
 \xv kɯ-rɤma jɤ-tɯ-ɤri tɕe, a-tɤ-tɯ-ɤnɯsɯslaʁ ʑo je!
@@ -20440,7 +20438,7 @@
 \xv tɯ-ŋga ɯ-mdoʁ kɯ-ɤpɣɤpɣi ci ɲɯ-ŋu
 \xn 衣服的颜色是淡灰色 
 \xv rɯdaʁ kɯ-ɤpɣɤpɣi ci ɲɯ-ŋu
-\xn 是淡灰色的野兽
+\xn 是一头淡灰色的野兽
 \sy apɣɯlu
 \cf pɣi
 \dt 20/Apr/2013
@@ -20451,7 +20449,7 @@
 \pdl dir 
 \pdv thɯ-
 \ge grisâtre 
-\gn 灰朴朴 
+\gn 灰扑扑
 \hbf *mɲirgɤt1.6
 \xv jiɕqha nɯ kɯ-ɤpɣɯlu ci ɲɯŋu
 \xn 刚才那个是灰扑扑的
@@ -20491,7 +20489,7 @@
 \gn 弄平
 \xv sɤtɕha nɯ-sɤpjɤntam-a
 \xn 我把地弄平了
-\xv kha ɯsta ɯspa nɯ kɤ-sɤpjɤntɤm ra
+\xv kha ɯ-sta ɯ-spa nɯ kɤ-sɤpjɤntɤm ra
 \xn 要把房基（修房子的地方）弄平
 \cf antɤm
 \dt 22/Aug/2011
@@ -20506,7 +20504,7 @@
 \gn 美满 
 \hbf *qachɣa.185 
 \xv nɯnɯ tɯrme nɯ nɯ ɕɯŋgɯ tɕe wuma ʑo pɯ-ŋgɯ ri, tham tɕe chɤ-mɤɕi tɕe cho-kɤpupu-ci
-\xn 那个人以前很穷现在变得很富有了
+\xn 那个人以前很穷，现在变得很富有了
 \dt 24/Aug/2012
 
 \lx _apɯpa
@@ -20538,7 +20536,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge noirâtre, sombre, violacé 
-\gn 乌、紫 
+\gn 乌黑、紫 
 \xv tɯmɯ nɤmkha zdɯm kɯ-ɤqandʐɯlu ʑo ko-ɣi
 \xn 天上来了乌云
 \sy apɣɯlu
@@ -20592,7 +20590,7 @@
 \ps vt
 \ge préparer
 \gn 装备好
-\xv luyinji tɤ-sɤqɤtse
+\xv @luyinji tɤ-sɤqɤtse
 \xn 你把录音机准备好
 \xv mbɣo tɤ-sɤqɤtse
 \xn 你把犁准备好
@@ -20612,7 +20610,7 @@
 \xv tɤ-ri ɲɯ-ɤqɤtʂha
 \xn 线互相交叉
 \xv si ra pjɤ-kɤqɤtʂha-ci
-\xn 树交叉了
+\xn 树交叉在一起
 \se sɤqɤtʂha
 \ps vt
 \ng caus
@@ -20621,15 +20619,15 @@
 \ge croiser
 \gn 使交叉
 \xv ɯ-mɤlɤjaʁ pjɤ-sɤqɤtʂha
-\xn 他把四肢交叉了
+\xn 他把四肢交叉在一起
 \xv tɯmbri ra ɲɤ-sɤqɤtʂha-nɯ
-\xn 他们把绳子交叉了
+\xn 他们把绳子交叉了起来
 \xv laʁjɯɣ ɲɤ-sɤqɤtʂha
-\xn 他把棍子交叉了
+\xn 他把棍子交叉了起来
 \xv ɯ-mi pjɤ-sɤqɤtʂha
-\xn 他把脚交叉了
+\xn 他把脚交叉了起来
 \xv aʑo tɤ-ri pɯ-sɤqɤtʂha-t-a 
-\xn 我把线交叉了
+\xn 我把线交叉在一起
 \dt 26/Jun/2011
 
 \lx _aqhe
@@ -20725,7 +20723,7 @@
 \pdl dir
 \pdv nɯ-
 \ge dont la lie et la partie liquide ne se mélangent pas
-\gn 渣滓和水分得清楚
+\gn 渣滓和液体部分间隔分明
 \dv ɯ-ci nɯ ɯ-ci kɯ-χsɤl, ɯ-zwa nɯ ɯ-zwa kɯ-χsɤl ɲɯ-kɯ-ɤβzu nɯ, tɕe ɲɯ-ɤrɤmgrɯndɯt tu-kɯ-ti ŋu
 \cf amgri
 \dt 13/Jan/2015
@@ -20751,11 +20749,11 @@
 \pdl dir 
 \pdv tɤ-
 \ge collant 
-\gn 黏糊 
+\gn 黏糊
 \xv cha ɲɯ-mɯm ɲɯ-ɤrɤmtʂɯmtʂɤj
-\xn 酒好喝，有黏性
+\xn 酒好喝，很稠厚
 \xv ɲɤ-mɲɤt tɕe ɲɯ-ɤrɤmtʂɯmtʂɤj
-\xn （食物）变味了，有黏性
+\xn （食物）变味了，黏糊糊的
 \dt 30/Apr/2011
 
 \lx _arɤmɯzda
@@ -20810,7 +20808,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge pousser (plusieurs pousses à partir d'un grain) 
-\gn 一颗可以长成很多根苗 
+\gn 一颗种子可以长成很多根苗 
 \xv ki tshɤj ɲɯ-ɤrɤphejqa
 \xn 这种菜长很多根苗
 \xv tɤɕi ɲɯ-ɤrɤphejqa
@@ -20849,7 +20847,7 @@
 \xv si ɲɯ-ɤrɤrkhɯrkhe
 \xn 树不平整
 \xv jiɕqha ɯ-rju ɲɯ-ɤrɤrkhɯrkhe
-\xn 他说话 吞吞吐吐
+\xn 他说话吞吞吐吐
 \xv tɤrɤm ɲɯ-ɤrɤrkhɯrkhe
 \xn 木板不平整
 \cf rkhe
@@ -20881,7 +20879,7 @@
 \wav vi-arAstoRsta
 \ps vs
 \ge fiable
-\gn 稳定、说话算数
+\gn 可靠、说话算数
 \xv jiɕqha nɯ ɯ-rju mɤ-kɯ-ɤrɤstoʁsta ci ŋu
 \xn 这是说话不算数的一个人
 \dt 22/May/2014
@@ -20902,7 +20900,7 @@
 \ge trop cuit
 \gn 煮得很烂，变得像粥一样
 \xv kɤ́-wɣ-sqa tɕe a-mɤ-nɯ-ɤrɤtshi ra ma mɤ-mɯm
-\xn 煮饭的时候，不要煮得太烂不然不好吃
+\xn 煮饭的时候，不要煮得太烂，不然不好吃
 \se zrɤtshi
 \ps vt
 \pdl dir 
@@ -20979,7 +20977,7 @@
 \ge s'accumuler
 \gn 积累
 \xv tɯ-ci to-kɤrɣi-ci
-\xn 水积下来了
+\xn 水积起来了
 \se sɤrɣi
 \ps vt
 \pdl dir 
@@ -20988,7 +20986,7 @@
 \ge accumuler
 \gn 积累
 \xv tɯftsaʁ ɲɯ-ɣi tɕe, zɯm tɤ-ɕthɯz-a tɕe, nɯ ɯ-ŋgɯ tɤ-sɤrɣi-t-a tɕe, ɯ-thoʁ mɤ-kɯ-ɕe tɤ-sɤβzu-t-a
-\xn 屋顶在漏水，我用水桶把水积下来了，不让水流到地板上
+\xn 屋顶在漏水，我用水桶把水积下来了，免得水流到地板上
 \sy ajtɯ
 \dt 18/Aug/2012
 
@@ -21022,11 +21020,11 @@
 \gn 说话 
 \hbf *kɯsɤr.165
 \xv ɲɯ-tɯ-ɤrju tɕe pɯ-kɯ-sɯmtsham-a
-\xn 你说话，你令我听见了
+\xn 你说话，让我听见了
 \xv nɯ ɲɯ-ɤrju
 \xn 他在说那个
 \xv a-mɤ-tɯ-ɤrju
-\xn 不要说
+\xn 不要说话
 \xv tɤ-arju-a
 \xn 我说了
 \xv ma-tɯ-ɤrju
@@ -21076,7 +21074,7 @@
 \ge être dans 
 \gn 装在
 \xv a-tɯci tu, arku
-\xn 杯子里有水
+\xn 杯子里装着水
 \cf rku
 \dt 24/Aug/2012
 
@@ -21115,7 +21113,7 @@
 \gn 近 
 \hbf 975
 \xv kɤ-ɤrmbat nɯ-ɣi
-\xn 你来近一点
+\xn 你来近一点的地方
 \xv ki nɤj nɤ-ɕki ɯ-j-armbat?
 \xn 离你那里远不远？
 \se sɤrmbat
@@ -21207,7 +21205,7 @@
 \ps vt
 \ng caus
 \ge rendre bleu
-\gn 令他变蓝
+\gn 使变蓝
 \xv tɯ-ŋga ɲɤ-sɤrŋi-t-a
 \xn 我（不小心）把衣服弄蓝了
 \dt 20/Apr/2013
@@ -21219,9 +21217,9 @@
 \pdl dir 
 \pdv nɯ-
 \ge bleuâtre 
-\gn 淡兰色 
+\gn 淡蓝色 
 \xv laχtɕha ɯ-mdoʁ ɲɯ-ɤrŋɯlɯz
-\xn 那东西的颜色是淡蓝色的
+\xn 那个东西的颜色是淡蓝色的
 \xv jiɕqha nɯ ɯ-mdoʁ kɯ-ɤrŋɯlɯz ci ɲɯ-ŋu
 \xn 那个东西的颜色是淡蓝色的
 \cf arŋi
@@ -21266,11 +21264,11 @@
 \xv aʑo tɤ-rte aro-a
 \xn 我有帽子
 \xv tɯ-rɟɯ aro-a
-\xn 我有财
+\xn 我有财产
 \xv aʑo a-kɯ-ɤro nɯ lonba nɯ-kho-t-a
-\xn 我把拥有的东西全部给了
+\xn 我把拥有的东西全部给了（他）
 \xv aʑo qaʑo aro-a nɯra kɯki ŋu
-\xn 这是我拥有的绵羊
+\xn 这是我所拥有的绵羊
 \xv aʑo tɤ-rɟit χsɯm aro-a (= a-rɟit χsɯm tu)
 \xn 我有三个孩子
 \dt 19/Oct/2012
@@ -21327,9 +21325,9 @@
 \pdl dir 
 \pdv lɤ-
 \ge ramasser (ses jambes)
-\gn 收拢（脚）
+\gn 收回来（脚）
 \xv a-mi thɯ-sɤstɤko-t-a, a-mi lɤ-sɤrʁɯrʁu-t-a 
-\xn 我把脚伸出来了，我把脚收拢了
+\xn 我把脚伸出来了，我把脚收回来了
 \cf achɯrʁu
 \dt 09/May/2013
 
@@ -21340,7 +21338,7 @@
 \ge fourchu 
 \gn 分叉、成双 
 \xv ki si nɯ tɯ-ldʑa ma pɯ-me ri ɲɤ-kɤrtaʁ-ci
-\xn 这颗树原来只有一根，现在就分叉了
+\xn 这颗树原来只有一根，现在分叉了
 \dt 20/Apr/2013
 
 \lx _artsɯɣdu
@@ -21353,9 +21351,9 @@
 \gn 事务繁忙 
 \hbf 1082 
 \xv a-ma pɯ-artsɯɣdu
-\xn 我工作变忙
+\xn 我工作变忙了
 \xv stonka pɯ-ɣe tɕe ɯ-kɤtɣa cho kɤ-nɤma ra artsɯɣdu 
-\xn 秋天来了，因为要收割等活儿都非常忙碌
+\xn 秋天来了，收割等农活非常忙碌
 \se sɤrtsɯɣdu
 \ps vt
 \ng caus
@@ -21393,7 +21391,7 @@
 \ge rendre rond
 \gn 弄圆
 \xv si tɤ-kaɣ-a tɕe tɤ-sɤrtɯm-a
-\xn 我把木条弄成圆形了
+\xn 我把木条弯成了圆形
 \cf arŋɤrtɯm
 \dt 25/Apr/2014
 
@@ -21414,9 +21412,9 @@
 \pdl dir 
 \pdv tɤ-
 \ge faire une boulle (de tsampa)
-\gn 挼成一坨
+\gn （把糌粑）揉捏成团
 \xv rɟɤɣi tɤ-sɤrtɯmloʁ-a tɕe tɤ-βzu-t-a
-\xn 我把糌粑挼成一坨了
+\xn 我把糌粑捏成一团了
 \xv tɯ-ŋga to-sɤrtɯmloʁ ʑo tslɯɣtslɯɣ
 \xn 他把衣服乱裹成一团
 \dt 09/Oct/2014
@@ -21441,7 +21439,7 @@
 \ge emmêler
 \gn 缠线、缠着别人不放 
 \xv nɯ ma ma-kɯ-sɤrtɯrtaβ-a ma ɲɯ-sɤɣdɯɣ 
-\xn 你再也不要缠着我，很烦
+\xn 你不要再缠着我了，很烦
 \dt 17/Jan/2015
 
 \lx _arɯcɤrna
@@ -21464,6 +21462,7 @@
 \ps vs
 \ge poli
 \gn 文明、有礼貌
+\et ja.rabs
 \dt 22/May/2014
 
 \lx _arɯlaba
@@ -21528,7 +21527,7 @@
 \xv ɲɯ-ɤci tɕe pɯ-aʁdat-a
 \xn 地很湿，我就跌倒了
 \xv ɲɯ-ɣɤrɤβ tɕe pɯ-aʁdat-a
-\xn 很陡峭，我就就跌倒了
+\xn 坡很陡，我就跌倒了
 \xv pjɤ-kɤʁdɤt-ci
 \xn 他跌倒了
 \xv rdɤstaʁ ɯ-taʁ pɯ-aʁdat-a
@@ -21554,7 +21553,7 @@
 \ge donner à manger
 \gn 给别人吃
 \xv cha to-χtɯ tɕe pɯ́-wɣ-sɤʁe-a
-\xn 我买了酒就给我喝了
+\xn 他买了酒就给我喝了
 \xv mɯ-pɯ-kɯ-sɤʁe-a
 \xn 你没有给我吃
 \dt 12/Apr/2011
@@ -21579,7 +21578,7 @@
 \ge retarder
 \gn 耽误别人
 \xv ma-pɯ-kɯ-saʁjar-a
-\xn 我不要耽误我
+\xn 你不要耽误我的时间
 \xv pɯ-ta-saʁjɤr
 \xn 我耽误你了
 \xv tɯmɯ ɲɯ-lɤt tɕe ji-ma pɯ́-wɣ-saʁjɤr-i
@@ -21595,10 +21594,10 @@
 \gn 秃 
 \hbf 993 
 \xv jiɕqha stɤmku ɲɯ-ɤʁɟa
-\xn 草坪是光秃秃的
+\xn 草坪光秃秃的
 \xv ɯ-kɤrme chɤ-kɤʁɟa-ci
 \xn 他变成光头了
-\xv Wenchuan zgo ra ɲɯ-ɤʁɟa-nɯ
+\xv @Wenchuan zgo ra ɲɯ-ɤʁɟa-nɯ
 \xn 汶川的山是光秃秃的
 \se saʁɟa
 \ps vt
@@ -21628,13 +21627,13 @@
 \wav vi-aRloRlu.wav
 \ps vs
 \ge concave
-\gn 凹进去的
+\gn 凹陷
 \xv ko-kɤʁloʁlu-ci
 \xn 变成凹进去了
 \xv jiɕqha ɲɯ-ɤʁloʁlu tɕe, nɯ ɯ-stu nɯ to-kɤjtɯ-ci tɯ-ci
-\xn 那的东西是凹进去的，水在那给地方积累了
+\xn 那个东西是凹进去的，在那里就积了水
 \xv ki sɤtɕha ɲɯ-ɤʁloʁlu tɕe, tɯ-ci tu-orɣi mbat
-\xn 这个地方是凹进去的，水会在里面积下来不走
+\xn 这个地方是凹进去的，水会在里面积下来不流走
 \sy aχchowɤlu
 \cf ɯ-ʁlu
 \dt 23/Dec/2014
@@ -21685,9 +21684,9 @@
 \xv ɲɯ-ɤʁzɯɣβzaŋ
 \xn 他相貌堂堂
 \xv nɤki nɯ kɯ-ɤʁzɯɣβzaŋ ci ŋu
-\xn 那个是一个相貌堂堂的人
+\xn 那是一个相貌堂堂的人
 \xv nɯ ɕɯŋgɯ ɯ-ʁzɯɣ mɯ-pɯ-pe ri, tham to-kɤʁzɯɣβzaŋ-ci
-\xn 以前相貌不好，现在变得相貌很好
+\xn 以前相貌不好，现在相貌变得很好
 \et gzugs.bzaŋ
 \an aʁzɯŋɤn
 \dt 30/Nov/2013
@@ -21706,7 +21705,7 @@
 \pdl dir
 \pdv nɯ-
 \ge se transmettre les informations les uns aux autres
-\gn 互相传递信息
+\gn 互相传递消息
 \sy arɤmɯzda
 \sy arɤzdɯzda
 \sy asɤmɯmtshɯmtshɤm
@@ -21770,9 +21769,9 @@
 \ge être bouché
 \gn 堵塞着
 \xv kɯ-spoʁ ɯ-j-ásti?
-\xn 堵塞了没有
+\xn 堵了没有
 \xv kɯ-spoʁ ɲɤ-kɤstɯsti-ci tɕe, kɤ-ɣɤmɯt mɯ́j-khɯ
-\xn 洞堵塞了，不能吹了
+\xn 洞堵上了，不能吹了
 \cf sti¹
 \dt 24/Aug/2012
 
@@ -21843,7 +21842,7 @@
 \ge se pardonner 
 \gn 互相谅解 
 \xv ndʑiʑo ʁo tɯ-ɤsɯmɲɯmɲo-ndʑi ɕti nɤ
-\xn 你们俩倒很能互相谅解的
+\xn 你们俩倒挺能互相谅解的
 \dt 24/Aug/2012
 
 \lx _asɯsu
@@ -21853,7 +21852,7 @@
 \ge copuler
 \gn 交配
 \xv jiɕqha qajɯ ni ɲɯ-ɤsɯsu-ndʑi
-\xn 虫子在交配了
+\xn 虫子在交配
 \dt 18/May/2014
 
 \lx _aʂŋaʁ
@@ -21861,7 +21860,7 @@
 \ps vi
 \pdl dir 
 \pdv nɯ-
-\ge se faire une entorse , se fouler le pied
+\ge se faire une entorse, se fouler le pied
 \gn 扭伤、崴 
 \xv ɯ-mi ɲɯ-ɤʂŋaʁ
 \xn 他崴了脚
@@ -21870,7 +21869,7 @@
 \xv ɯ-mthɤɣ ɲɯ-ɤʂŋaʁ
 \xn 他崴了腰
 \xv a-mi "rŋaʁ" ʑo ɲɯ-ti tɕe nɯ-aʂŋaʁ 
-\xn 我的脚“逆”一声就扭伤了
+\xn 我的脚“喀嚓”一声就扭伤了
 \dt 06/Jun/2011
 
 \lx _ata
@@ -21884,9 +21883,9 @@
 \lx _ataʁki
 \ps vi
 \ge l'un au dessus et l'autre en dessous
-\gn 一个在上面一个在下面
+\gn 一个在上面，一个在下面
 \xv a-mtɕhi cho a-ɕna tu-otaʁki ŋu
-\xn 我的嘴巴和鼻子一个在上面一个在下面
+\xn 我的嘴巴和鼻子一个在上面，一个在下面
 \se sɤtaʁki
 \ps vt
 \pdl dir 
@@ -21945,7 +21944,7 @@
 \pdv tɤ-
 \ng caus
 \xv tɯtshi kú-wɣ-sɤla tɕe mɯ́jpe ma tɯthɯ cho scoʁ khɯtsa ɲɯ-sɤtɕaʁlaʁ ʑo ɲɯŋu
-\xn 煲粥不好，因为锅子、瓢和碗都会沾
+\xn 煲粥不好，因为锅子、瓢和碗上都会沾得到处都是
 \dt 31/Aug/2012
 
 \lx _atɕaʁlaʁ
@@ -21989,7 +21988,7 @@
 \xv nɯ-tɕhomba-a ɲɯ-ŋu ma ɲɯ-ɤtɕhɯz-a
 \xn 我在打喷嚏，感冒了
 \xv iʑoka tɕe, tu-kɯ-ɤtɕhɯz tɕe, tɯrme ra kɯ, nɤ-kɯ-nɤkhu tu ɲɯ-ŋu tu-ti-nɯ, nɯ maʁ nɤ, tɯ-ci kɯ a-pɯ-kɯ-sɯɣro tɕe, tɯ-ci nɤ-kɯ-mbi tu ŋu tu-ti-nɯ
-\xn 当人打喷嚏的时候，人家说“有人要请你”，当人被水呛到，其他人说“有人要给你水”
+\xn 人打喷嚏的时候，大家就说“有人要请你”；人被水呛到的时候，别人就说“有人要给你水”
 \se sɤtɕhɯz
 \ps vt
 \ng caus
@@ -21998,9 +21997,9 @@
 \ge faire éternuer
 \gn 令人打喷嚏
 \xv ɕnɤto tɤ-nɯ-lat-a tó-wɣ-sɤtɕhɯz-a
-\xn 我吸了鼻烟，令我打喷嚏
+\xn 我吸了鼻烟，被呛得打喷嚏
 \xv χeitsu chɯ́-wɣ-pu tɕe, kɯ-sɤtɕhɯz ŋgrɤl
-\xn 烧黑椒的时候会令人打喷嚏
+\xn 烧黑椒的时候会让人打喷嚏
 \dt 20/Aug/2012
 
 \lx _atɕitʂi
@@ -22009,12 +22008,12 @@
 \pdl dir 
 \pdv _
 \ge se produire en même temps 
-\gn 几件事同时进行、顺便进行 、没有变
+\gn 几件事同时进行、状况没有改变
 \hbf *kɯsɤr.200 
 \xv nɤ-kɯ-mŋɤm kɯ-mna ɯ-ɲɯ-ɤtɕitʂi
 \xn 你的病继续好转吗？
 \xv ɲɯ-ɤtɕitʂi ɕti
-\xn 没有变
+\xn 没有变化
 \cf sɤtɕitʂi
 \dt 17/May/2014
 
@@ -22040,7 +22039,7 @@
 \gn 遗漏 
 \hbf 1490 
 \xv a-tshɤj pɯ-atɕɯtɕit 
-\xn 我的菜丢了一些
+\xn 我的菜掉了一些
 \xv laχtɕha koŋla tɤ-rɤwum tɕe a-mɤ-nɯ-ɤtɕɯtɕit
 \xn 你要把东西带全，不要带漏
 \se sɤtɕɯtɕit
@@ -22255,7 +22254,7 @@
 \ge laisser à
 \gn 让给
 \xv kɯki laχtɕha kɯ-pe tɤ-tu tɕe, nɤʑo ɲɯ-ta-znɤtɯɣ jɤɣ
-\xn 有好东西的时候，我可以让给你
+\xn 有好东西，我可以让给你
 \se ʑɣɤsɤtɯɣ
 \ps vi
 \ge aller à la rencontrer de 
@@ -22293,7 +22292,7 @@
 \ge de taille différente
 \gn 大小不一
 \xv kɤndʑɯʁi ni wuma ɲɯ-ɤxtɕɯxte-ndʑi
-\xn 两兄弟大小不一
+\xn 两兄弟不是一个大小
 \xv kɯ-ɤxtɕɯxte ci ɣɤʑu-ndʑi
 \xn 有一个大一个小
 \cf xtɕi
@@ -22311,13 +22310,13 @@
 \gn 缺（口）
 \hbf 1582 
 \xv tʂu ɲɯ-ɤχa
-\xn 路破了
+\xn 路面破了坑
 \xv ɯ-ɕɣa ɲɯ-ɤχa
-\xn 他牙齿缺了一口
+\xn 他牙齿缺了个口子
 \xv pjɤ-kɤχa-ci
-\xn 少了一口
+\xn 少了个口子
 \xv khɯtsa ɲɯ-ɤχa 
-\xn 碗缺了一口
+\xn 碗缺了个口子
 \xv ɯ-sta ɲɯ-ɤχa
 \xn 他不在
 \se sɤχa
@@ -22328,7 +22327,7 @@
 \ge faire perdre un morceau
 \gn 使缺口
 \xv ɲɤ-sɤχa
-\xn 他令它缺了一口
+\xn 他（把这个东西）弄缺了个口子
 \cf ɕɣɤχa
 \dt 07/Aug/2014
 
@@ -22336,11 +22335,11 @@
 \ps vi
 \pdl dir 
 \pdv kɤ-
-\ge creux , concave 
+\ge creux, concave 
 \gn 凹 
 \hbf 971
 \xv tʂu kɯ-ɤχchowɤlu ɯ-stu nɯ tɕu, @qiche tu-ɣɤrkhoŋloŋ ʑo ɲɯ-ŋu tɕe ɲɯ-sɤɣdɯɣ
-\xn 路凹下去的地方，汽车就会颠簸，坐很不舒服
+\xn 路凹下去的地方，汽车就会颠簸，坐起来很不舒服
 \sy aʁloʁlu
 \a aqhoβlu
 \cf ʁlɯβʁlɯβ
@@ -22361,6 +22360,7 @@
 \xv tɕelo ɲɯ-ɤχɕɯβ-ndʑi tɕe ɲɯ-ndzur-ndʑi 
 \xn 他们俩一起在那里站着
 \cf saχɕɯβ
+\et gshib
 \dt 02/Jan/2015
 
 \lx _aχɕɯldɤn
@@ -22368,7 +22368,7 @@
 \ge en sécurité
 \gn 安全、安康
 \xv ku-oχɕɯldɤn-i
-\xn 我们都安然无恙的
+\xn 我们都平安无事
 \cf χɕɯldɤn
 \dt 19/May/2014
 
@@ -22397,9 +22397,9 @@
 \pdl dir 
 \pdv tɤ-
 \ge propre
-\gn 干净、没有剩余的
+\gn 干净、没有剩余
 \xv tɕhaʁla ra to-raʁrɯz-nɯ tɕe to-kɤχsi-ci
-\xn 他们扫了院子，显得很干净了
+\xn 他们扫了院子，现在院子显得很干净了
 \dt 04/Aug/2012
 
 \lx _aχsom
@@ -22426,7 +22426,7 @@
 \ge réveiller
 \gn 弄醒
 \xv aʑo nɯ-saχsom-a
-\xn 我把他弄清醒
+\xn 我把他弄醒
 \dt 10/Sep/2011
 
 \lx _aχsɯko
@@ -22483,12 +22483,12 @@
 \pdl dir 
 \pdv tɤ-
 \ge courber le dos 
-\gn 弯下腰 、鞠躬
+\gn 弯下腰、鞠躬
 \hbf *koŋzoŋ.74 
 \xv jiɕqha tɯrme nɯ ɲɯ-ɤzgrɯ
 \xn 那个人弯着腰
 \xv to-kɤzgrɯ-ci
-\xn 他弯了腰
+\xn 他弯下了腰
 \dt 13/Sep/2011
 
 \lx _azgɯr
@@ -22502,9 +22502,9 @@
 \xv ɯʑo to-ngo tɕe, ɲɯ-ɤzgɯr ʑo 
 \xn 因为他病了，所以全身蜷缩
 \xv a-mgɯr tɤ-mŋɤm tɕe tu-ostu-a ŋu, mɯ-tɤ-mŋɤm tɕe pjɯ-ɤzgɯr-a ŋu
-\xn 我背痛的时候坐直，不痛的时候弯腰
+\xn 我背痛的时候就坐直，不痛的时候就弯腰
 \xv to-kɤzgɯr-ci
-\xn 他变得驼背
+\xn 他背驼了
 \cf azgrɯ
 \cf azgɯrloʁ
 \dt 02/Aug/2012
@@ -22519,7 +22519,7 @@
 \hbf 1457 
 \et sgur
 \xv pjɤ-kɤzgɯrloʁ-ci
-\xn 他蜷缩了
+\xn 他缩成了一团
 \cf azgɯr
 \dt 14/Sep/2011
 
@@ -22562,7 +22562,7 @@
 \xv thɯ-aʑɯrja-j
 \xn 我们排队了
 \xv znde ɯ-taʁ zɯ tɯrme ra ɲɯ-ɤkɤʑɯrja-nɯ-ci
-\xn 人们对着墙排队了
+\xn 人们对着墙排起了队
 \se sɤʑɯrja
 \ps vt
 \pdl dir 
@@ -22651,7 +22651,7 @@
 \xv ɲo-βde
 \xn 他放弃了
 \xv ɯ-ma z-ɲɤ-βde 
-\xn 他去辞职了
+\xn 他辞职去了
 \xv nɤ-kɤ-nɤma nɯ mɤ-kɯ-ftɯɣ a-mɤ-nɯ-tɯ-βde 
 \xn 你不要放弃没有完成的工作
 \se nɯβde
@@ -22706,7 +22706,7 @@
 \gn 计划、设计、准备需要的材料 
 \et bgod
 \xv kɯki kha ci tɤ-βgoz-a
-\xn 我设计了这个家
+\xn 我设计了这个房子
 \xv tɯ-ŋga ɯ-spa ci tɤ-βgoz-a
 \xn 我准备了缝衣服的材料
 \xv tɯ-xtsa kɤ-βzu to-βgoz
@@ -22724,7 +22724,7 @@
 \pdv pɯ-
 \wav vi-BJAt
 \ge obtenir 
-\gn 得到（大家都在抢时，自己得到）、中奖 
+\gn 得到（某个大家在抢的东西）、中奖 
 \xv pɯ-βɟat-a, pɯ-βɟɤt
 \xn 我得到了，他得到了
 \xv tɤ-mbɣom tɕe a-pɯ-tɯ-βɟɤt
@@ -22742,7 +22742,7 @@
 \pdl dir 
 \pdv _
 \wav vt-BJi
-\ge suivre , poursuivre
+\ge suivre, poursuivre
 \gn 追赶 
 \hbf 1811 
 \xv tɤ-βɟi-t-a
@@ -22763,9 +22763,9 @@
 \ge ancien 
 \gn 陈旧 
 \xv tɤ-mthɯm ɲɤ-βɟi
-\xn 肉旧了
+\xn 肉放陈了
 \xv laχtɕha ɲɤ-βɟi
-\xn 东西陈旧了
+\xn 东西旧了
 \dt 19/Sep/2011
 
 \lx _βli
@@ -22824,7 +22824,7 @@
 \xv kɤ-βraʁ-a, kɤ-tɯ-βraʁ, ka-βraʁ
 \xn 我拴了，你拴了、他拴了 
 \xv khɯna ɲɤ-lɯɣ tɕe kɤ-βraʁ-a
-\xn 狗摆脱了绳子，我又把他拴了
+\xn 狗摆脱了绳子，我又把它拴起来了
 \xv tɯmbri kɤ-βraʁ-a (nɯ-lat-a)
 \se aβraʁ
 \ps vi
@@ -22846,10 +22846,10 @@
 \pdl dir 
 \pdv tɤ-
 \ge défendre 
-\gn 掩护 、守护
+\gn 掩护、维护
 
 \xv kɤ-βrit-a, tɤ-βrit-a, ka-βri
-\xn 我守护了，他守护了
+\xn 我维护了，他维护了
 \xv ɲɯ-ɤlɯlɤt-ndʑi tɕe, tɤ-βri-t-a
 \xn 他们打架，我维护了他
 \xv khɯna kɯ ɣɯ-mtsɯɣ ɲɯ-ŋu tɕe, kɤ-βri-t-a
@@ -22921,9 +22921,9 @@
 \se ʑɣɤβʁum
 \ps vi
 \ge s'allonger sur le ventre
-\gn 爬着（躺着）
+\gn 趴着（躺着）
 \xv pjɯ-ʑɣɤβʁum ku-nɯ-rŋgɯ ɲɯ-ŋu
-\xn 他爬着睡
+\xn 他趴着睡
 \dt 07/May/2014
 
 \lx _bɯɣ
@@ -22939,7 +22939,7 @@
 \xv ɲɯ-bɯɣ-a
 \xn 我想家
 \xv pjɤ-bɯɣ
-\xn 他以前想家
+\xn 他以前很想家
 \xv tɯrme sɤtɕha jɤ-kɯ-ɤri tɕe, tu-kɯ-bɯɣ ɕti
 \xn 去了其他地方，肯定会想家
 \cf nɯɣbɯɣ
@@ -22985,9 +22985,9 @@
 \xv tɤ-βzdɯ-t-a
 \xn 我捡了
 \xv stoʁ tɤ-βzdi
-\xn 捡一下胡豆
+\xn 把胡豆捡了起来
 \xv stoʁ pjɤ-ʁndɤr tɕe tɤ-βzdɯ-t-a
-\xn 胡豆撒了一地，我就捡了
+\xn 胡豆撒了一地，我就捡起来了
 
 \se aβzdoʁβzdɯ
 \ps vi
@@ -23009,7 +23009,7 @@
 \gn 整理，收拾
 \sy rɤwum
 \xv ɯʑo kɯ laχtɕha ra ta-sɤβzdoʁβzdɯ
-\xn 他把东西收拾了
+\xn 他把东西收拾好了
 \dt 06/Jun/2011
 
 \lx _βzgɤr
@@ -23039,7 +23039,7 @@
 \xv aʑo a-ku lɤ-kɯ-βzi ʑo ɲɯ-fse
 \xn 我头有点晕
 \xv cha ɯ-tshɤt kɤ-tshi ma tɯ-βzi
-\xn 酒喝少一些，不然你会喝醉
+\xn 酒少喝一些，不然你会喝醉
 \xv nɤʑo ɯ-mɤ-lɤ-tɯ-βzi-ci
 \xn 你喝醉了吧
 \se ɣɤβzi
@@ -23109,9 +23109,9 @@
 \xv kɤ-βzɟɯr mɯ́j-ra, ɲɯ-pe
 \xn 不用修改，很好
 \xv tɤscoz ɲɤ-βzɟɯr
-\xn 他把信改了
+\xn 他把信改了改
 \xv kɤ-nɯɣi ɲɤ-βzɟɯr
-\xn 他改了回来的计划
+\xn 他更改了回来的计划
 \dt 21/Sep/2013
 
 \lx _βzu
@@ -23153,7 +23153,7 @@
 \se sɯβzu
 \ps vt
 \ge faire faire
-\gn 令别人做
+\gn 使别人做
 \xv @zuoye tɯ-sɯ-βze ra ?
 \xn 你是不是让他们做作业？
 \cf aβzu
@@ -23229,13 +23229,13 @@
 \pdl dir 
 \pdv tɤ-
 \ge pouvoir 
-\gn 能够 ，能干
+\gn 能够，能干
 \hbf 1531 
 \xv aʑo a-kɤ-cha me
 \xv nɤʑo kɯ ɲɯ-tɯ-cha tɕe nɤʑo jɤ-ɕe
 \xn 你比较能干，你去吧
 \xv mɯ-pɯ-cha tɕe, tɕe tham tɕe ɯ-kɯ-mŋɤm to-mna tɕe, kɤ-rɯndzɤtshi to-cha
-\xn 她原来不能吃饭，现在病痊愈了就可以吃饭了
+\xn 她原来吃饭不行，现在病痊愈了就可以吃饭了
 \un 忧虑式的例句：
 \xv mɯ-ɕɯ-tɯ-cha nɯ-sɯso-t-a
 \xn 我怕你不行
@@ -23256,7 +23256,7 @@
 \xv tɤ-chaβ-a, ɯʑo kɯ ta-chɤβ
 \xn 我弄扁了，他弄扁了
 \xv kɯki laχtɕha ki kɤ-chɤβ mɤ-pe
-\xn 把这个东西压扁是不好的
+\xn 把这个东西压扁了不好
 \cf ɲɟɤβ
 \dt 06/Jun/2011
 
@@ -23311,7 +23311,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge sucrer
-\gn 放糖、令……变得更甜
+\gn 放糖、使……变得更甜
 \xv pɯ-ɣɤchi-t-a
 \xn 我放了糖
 \se nɤxchi
@@ -23376,7 +23376,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge ajouter des ingrédients 
-\gn 另加杂粮 
+\gn 另加配菜
 \xv ka-cu
 \xn 他加了
 \xv tshɤj ɯ-ŋgɯ tɕe ɕku kú-wɣ-cu tɕe mɯm
@@ -23473,7 +23473,7 @@
 \pdv tɤ-
 \ge vieillir (corne d'un cerf)
 \gn 老（鹿角） 
-\xv ɯ-rʁɯ to-ɕaŋ
+\xv ɯ-ʁrɯ to-ɕaŋ
 \xn 它的角老了
 \dt 19/Sep/2011
 
@@ -23562,7 +23562,7 @@
 \xv jɤ-ari-a, jɤ-ari
 \xn 我走了，他走了
 \xv tɯ-ci chɯ-ɕe ɲɯ-ŋu
-\xn 水流
+\xn 水在流淌
 \xv tɤrɲɟo nɯ jɯɣi ʁɟa ʑo ku-ɕe ɲɯ-ŋu
 \xn 架子上排过去的全都是书
 \xv kha tu-ɕe-a ŋu
@@ -23652,7 +23652,7 @@
 \ge qui a une ouverture large
 \gn 底部小，口很大
 \xv ki tɯthɯ ki ɲɯ-ɤɕkho
-\xn 这个锅子
+\xn 这个锅子底小口大
 \dt 11/Feb/2014
 
 \lx _ɕkɯt
@@ -23670,7 +23670,7 @@
 \xn 你把碗里的吃完
 \xv ɕkɯt-tɕi
 \xn 干杯
-\xv nɤ-beimu ɯ-thɯ-tɯ-nɯ-ɕkɯt
+\xv nɤ-@beimu ɯ-thɯ-tɯ-nɯ-ɕkɯt
 \xn 你把贝母吃完了吗？
 \xv qarma pjɤ-ɕkɯt-nɯ
 \xn 马鸡没有了
@@ -23683,7 +23683,7 @@
 \pdl dir 
 \pdv lɤ-
 \ge labourer 
-\gn 耕 地
+\gn 耕地
 \hbf 1347
 \xv tɤ-ɕlu-a, tɤ-ɕlu, ku-ɕlu-a
 \xn 我耕了地，他耕了地，我正在耕地
@@ -23697,11 +23697,11 @@
 \pdl dir 
 \pdv pɯ-
 \ge lâcher sans faire attention 
-\gn 失手 
+\gn 失手使物品掉落
 \xv nɯ-ɕlɯɣ-a, na-ɕlɯɣ
 \xn 我失手了，他失手了
 \xv ki kɤ-ɕlɯɣ mɤ-pe (ma ɴɢrɯ ɕti)
-\xn 不能失手，不然会破掉
+\xn 不能让它掉下来，不然会破掉
 \se sɯɕlɯɣ
 \ps vt
 \pdl dir 
@@ -23726,7 +23726,7 @@
 \xv tɤ-ɕmi-t-a, ta-ɕmi
 \xn 我搅拌了，他搅拌了
 \xv nɤ@cai tɤ-ɕmi ma tsha ra mɤ-amɯzɣɯt
-\xn 搅拌一下你的菜，盐放得不均匀
+\xn 拌一下你的菜，盐放得不均匀
 \dt 24/Oct/2011
 
 \lx _ɕo
@@ -23768,7 +23768,7 @@
 \xv nɤ-tɯ-ɕpaʁ thaŋnɤ 
 \xn 你渴了吧
 \xv a-mɤ-ɲɯ-sɤ-ɕpɯ-ɕpaʁ, tʂha ku-tshi-a
-\xn 为了不要渴，我喝茶
+\xn 我喝茶，免得渴着自己
 \dt 22/Apr/2013
 
 \lx _ɕphɤt
@@ -23833,14 +23833,14 @@
 \xv thɯ-ɕpɯt-a, kɤ-ɕpɯt, kɤ-tɯ-ɕpɯt, ɯʑo kɯ ka-ɕpɯt
 \xv kɤ-ɕpɯt sɤcha
 \xn 可以养
-\xv χpaltɕin kɯ wugui ka-ɕpɯt
+\xv χpaltɕin kɯ @wugui ka-ɕpɯt
 \xn 柏尔青养了乌龟
 \xv ɯʑo kɯ tɯrme ɯ-rɟit ci tha-ɕpɯt
 \xn 他养了别人的孩子
 \xv ɯʑo kɯ fsapaʁ ci ka-ɕpɯt
 \xn 他养了动物
 \xv rɯdaʁ cho fsapaʁ ra kɤ-ɕpɯt ɯ-tɯ-ɴqa mɤ-naχtɕɯɣ, rɯdaʁ kɤ-ɕpɯt ɴqa, fsapaʁ ra kɤ-ɕpɯt mbat
-\xn 养牲畜跟养野生动物难度不同，养牲畜容易，养野生动物难。
+\xn 养家畜跟养野生动物难度不同，养家畜容易，养野生动物难。
 \dt 10/Oct/2010
 
 \lx _ɕqhlɤt
@@ -23853,7 +23853,7 @@
 \pdl dir 
 \pdv _
 \ge tomber, sombrer 
-\gn 掉入、沉下去 
+\gn 掉进去、沉下去 
 \hbf 1722 
 \xv jɤ-ari tɕe jɤ-ɕqhlɤt
 \xn 他去了就掉进去了
@@ -23862,21 +23862,21 @@
 \xv aʑo kɯspoʁ mɯ-pjɤ-mto-t-a tɕe pjɤ-ɕqhlat-a
 \xn 我没有看见有洞，就掉进去了
 \xv nɤ-skɤt nɯ ju-ɕqhlɤt kɯ-fse li ju-nɯɬoʁ kɯ-fse ɲɯ-ŋu
-\xn 你的声音一会儿消失了一会儿又出现了一样（电话连接有问题）
+\xn 你的声音好像一会儿消失，一会儿又出现了（电话连接有问题）
 \se sɯɕqhlɤt
 \ps vt
 \ge faire disparaître
 \gn 使消失
 \xv ɯʑo kɯ ɯ-ʁi ta-ndo tɕe sɯŋgɯ zɯ ka-sɯɕqhlɤt
-\xn 他带走了弟弟，消失在森林里
+\xn 他把弟弟带走了，消失在森林里
 \se ʑɣɤsɯɕqhlɤt
 \ps vi
 \pdl dir 
 \pdv _
 \ge (se faire) disparaître
-\gn 令自己消失
+\gn 使自己消失
 \xv ɯʑo kɤ-ari nɤ kɤ-ari tɕe, kɤ-ʑɣɤsɯɕqhlɤt
-\xn 他去了又去了就消失了
+\xn 他走下去，走下去，最后不见了踪影
 \dt 04/Aug/2012
 
 \lx _ɕqraʁ
@@ -23903,7 +23903,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge se trouver intelligent les uns les autres
-\gn 互相觉得聪明
+\gn 互相觉得对方聪明
 \xv to-kɯ-ɤsɯɕqɯɕqraʁ-ndʑi-cɯ
 \cf _znɤɕqɯɕqraʁ
 \dt 07/Sep/2013
@@ -23911,13 +23911,13 @@
 \lx _ɕri¹
 \ps vs
 \ge avoir une fuite
-\gn （小的洞火缝里）漏出来
+\gn （从小的洞或缝里）漏出来
 \xv tɯ-ci pjɤ-ɕri
 \xn 漏了水
 \xv qale ɲɤ-ɕri
 \xn 漏了空气
 \xv tɯthɯ cho tɯŋgu ni ndʑi-pɤrthɤβ nɯtɕu, tɤjlɤβ mɤ-kɯ-ɕri tu-βzu-nɯ
-\xn 把锅子和锅子之间的缝隙做成密封，不让水蒸气冒出来
+\xn 把锅子和锅子之间的缝隙密封住，不让水蒸气冒出来
 \cf aɕoʁri
 \dt 13/Feb/2014
 
@@ -23949,7 +23949,7 @@
 \xv kɯki kɯ-mŋɤn nɯ tu-kɯ-rɯdzaŋspa ra ma kɯ-ɕte
 \xn 要注意这种病，因为会传染
 \xv tɕhomba nɯ́-wɣ-ɕte-a
-\xn 我感冒了
+\xn 我染上感冒了
 \xv a-tɕhomba ɣɤʑu tɕe, nɯ-ɕte-t-a (nɯ-ta-ɕte)
 \xn 我感冒了，传染给他（传染给你了）
 \se aɕtɯɕte
@@ -23964,7 +23964,7 @@
 \pdl dir 
 \pdv kɤ- ()
 \ge tourner vers 
-\gn 朝向 、对着
+\gn 朝向、对着
 \gn 接住（水）
 \hbf *qalakɯɕqraʁ.52
 \xv ɯʑo kɯ ko-ɕthɯz, ka-ɕthɯz
@@ -23997,11 +23997,11 @@
 \xv nɯ-ɕtʂat-a, nɯ-tɯ-ɕtʂat, na-ɕtʂat
 \xn 我节约了，你节约了，他节约了
 \xv kɯki laχtɕha nɯ kɤ-ɕtʂat ra
-\xn 这些东西要省点用
+\xn 这些东西要省着点用
 \xv rŋɯl ra kɤ-ɕtʂat ra ma ʑatsa arɕo
-\xn 钱要省点用，不然很快就用光了
+\xn 钱要省着点用，不然很快就用光了
 \xv tɯ-ŋga nɯ-ɕtʂat
-\xn 你要节约用衣服
+\xn 你要节约穿衣
 \se rɤɕtʂat
 \ps vi
 \pdl dir 
@@ -24027,7 +24027,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge mesurer 
-\gn 用瓢量 （食物）
+\gn 用瓢量（食物）
 \pdl dir 
 \pdv nɯ-
 \ge mesurer 
@@ -24038,7 +24038,7 @@
 \xv tɯ-kɤ-ndza nɯ ra kɤ-ɕtʂo kɯ-ra ɕti
 \xn 食物要量过（才能吃）
 \xv kɯɕɯŋgɯ tɕe, rɟama pjɤ-me tɕe tú-wɣ-ɕtʂo pjɤ-ŋu
-\xn 古时候没有称，人家用瓢量食物
+\xn 古时候没有秤，都用瓢来量食物
 \se rɤɕtʂo
 \ps vi
 \ge mesurer des choses
@@ -24057,15 +24057,15 @@
 \gn 寄存 
 \un 动词的宾语是寄放的人，不是寄放的东西
 \xv kɤ-ɕtʂɯ-t-a, kɤ-tɯ-ɕtʂɯt, ka-ɕtʂɯ
-\xn 我寄存了，你寄存了，他寄存了
+\xn 我存了，你存了，他存了
 \xv kɯki laχtɕha ki a-kɤ-tɯ-́wɣ-ɕtʂɯ tɕe, nɤʑo ɯ-pɯ tɤ-pe
-\xn 把这个东西寄存在你那里吧，你把它保管好
+\xn 把这个东西存在你那里吧，你把它保管好
 \xv kɯki laχtɕha ki nɤʑo ku-ta-ɕtʂɯ
-\xn 我把这个东西寄存在你那里
+\xn 我把这个东西存在你那里
 \xv ɕ-kú-wɣ-ɕtʂɯ
 \xn 有人去寄存
 \xv ɕ-kɤ-ɕtʂi
-\xn 你寄存在他那里吧
+\xn 你存在他那里吧
 \se rɤɕtʂɯ
 \ng apass
 \pdl dir 
@@ -24073,7 +24073,7 @@
 \ge confier, déposer
 \gn 寄存 
 \xv laχtɕha kɤ-rɤɕtʂɯ-a
-\xn 我把东西寄存了
+\xn 我把东西寄存起来了
 \dt 30/Apr/2014
 
 \lx _ɕur
@@ -24097,7 +24097,7 @@
 \pdl dir 
 \pdv pɯ-
 \ge faire payer une amende 
-\gn 令人罚款
+\gn 让人交罚款
 \dt 18/May/2014
 
 \lx _ɕɯfka
@@ -24190,7 +24190,7 @@
 \gn （跟孩子）一起睡
 \hbf 1326 
 \xv tɤpɤtso pɯ-ɕɯm-a 
-\xn 我让了孩子孙子跟我一起睡
+\xn 我让孩子跟我一起睡
 \xv kumpɣa kɯ tɤ-ŋgɯm ko-ɕɯm
 \xn 母鸡把蛋孵出来了
 \dt 06/Jun/2011
@@ -24203,9 +24203,9 @@
 \ge faire plus vite 
 \gn 加快速度
 \xv kɯki tɤscoz ɲɯ-mbɣom, tɤ-ɕɯmbɣom ʑo pɯ-rɤt
-\xn 这个封信很急，你要写得快些
+\xn 这封信很急，你要写得快些
 \xv ki laχtɕha ki kɤ-ndo ra ŋu ŋu nɤ, tɤ-ɕɯmbɣom ʑo jɤ-ɣɯt ma aʑo ɕe-a ŋu
-\xn 这个东西是要带的话，你快一点带来不然我要走了
+\xn 这个东西要带的话，你快一点带来，不然我要走了
 \cf mbɣom
 \dt 24/Aug/2012
 
@@ -24236,7 +24236,7 @@
 \xv tɤ-ɕɯmŋam-a, tɤ-tɯ-ɕɯmŋɤm, ta-ɕɯmŋɤm
 \xn 我弄痛了，你弄痛了，他弄痛了
 \xv a-mgɯr tɤ-ŋkhɯt ta-lɤt tɕe, ta-ɕɯmŋɤm
-\xn 他在我背上打了一拳，令我很痛
+\xn 他在我背上打了一拳，把我打得很痛
 \dt 17/Aug/2012
 
 \lx _ɕɯmthu
@@ -24258,7 +24258,7 @@
 \xv ɯʑo kha lo-nɯɕe tɕe, thɯ-ɕɯmthu-a 
 \xn 他回家了，我就问了很多问题
 \xv nɤʑo ndɤre nɤ-tɯ-ɕɯmthu nɯ!
-\xn 你倒是爱问问题的人
+\xn 你倒是个爱问问题的人
 \dt 26/Aug/2013
 
 \lx _ɕɯngo
@@ -24270,9 +24270,9 @@
 \ge rendre malade 
 \gn 使生病 
 \xv ta-ɕɯngo
-\xn 他使他生病了
+\xn 他让他生病了
 \xv kɤndza nɯ mɯ-nɯ-kɯ-sna ra a-mɤ-tɤ́-wɣ-ndza ra ma kɯ-ɕɯngo
-\xn 变了味的食物不能吃，不然会生病
+\xn 变了味的食物不能吃，不然会因此生病
 \dt 28/Apr/2014
 
 \lx _ɕɯnŋo
@@ -24283,14 +24283,14 @@
 \pdl dir 
 \pdv pɯ-
 \ge gagner 
-\gn 赢 、战胜、胜过
+\gn 赢、打败、战胜
 \hbf 1635
 \xv ta-ɕɯnŋo
-\xn 我战胜你
+\xn 我赢了你
 \xv kɯ-ɕɯnŋo-a
-\xn 你战胜我
+\xn 你赢了我
 \xv tɕiʑo ni tɤ-nɯ-saχɕɯβ-tɕi ri, pɯ́-wɣ-ɕɯnŋo-a
-\xn 我们俩比赛的时候，他胜过我了
+\xn 我们俩比赛的时候，他打败了我
 \xv ɯʑo kɯ ɯ-zda pa-ɕɯnŋo
 \xn 我把对方打败了
 \xv nɤʑo pɯ-ta-ɕɯnŋo
@@ -24307,7 +24307,7 @@
 \ps vi
 \ng refl
 \ge causer soi-même sa défaite
-\gn 令自己失败
+\gn 使自己失败
 \sy ko
 \cf nŋo
 \dt 28/Dec/2014
@@ -24337,11 +24337,11 @@
 \gn 挂 
 \hbf 1354 <2> 1355 
 \xv tɤ-ɕɯɴqoʁ-a, ta-ɕɯɴqoʁ
-\xn 我挂了，他挂了
+\xn 我挂了，他挂了（这个东西）
 \xv kɯki laχtɕha ki tɕɤtu nɯ tɕu tɤ-ɕɯɴqoʁ
 \xn 你把这个东西挂在上面
 \xv tɯpɤr znde taʁ tɤ-ɕɯɴqoʁ-a 
-\xn 我在墙上挂了一幅画。
+\xn 我在墙上挂了一幅画
 \xv ɯ-jme pa-ɕɯɴqoʁ nɤ, tɤ́-wɣ-rɤɕi ɲɯ-ŋu.
 \xn （狐狸）把尾巴伸进（洞）里，把弟弟拉上来了（狐狸.153)
 \se ʑɣɤɕɯɴqoʁ
@@ -24372,17 +24372,17 @@
 \xv aʑo mɤ-pe-a qhe, kɤ-ɕɯrga mɤ-cha-a
 \xn 我不好，不能令人高兴
 \xv kɯ-pe tú-wɣ-nɤma tɕe, tɯ-zda kɤ-ɕɯrga sɤcha
-\xn 把工作做好就可以让自己朋友高兴
+\xn 把工作做好就可以让自己的朋友高兴
 \xv nɯ-ɕɯrga-t-a
-\xn 我令他高兴了
+\xn 我让他高兴了
 \se ʑɣɤɕɯrga
 \ps vi
 \ng caus
 \ng refl
 \ge se faire plaisir
-\gn 令自己开心
+\gn 让自己开心
 \xv laχtɕha to-χtɯ tɕe ɲɤ-ʑɣɤɕɯrga
-\xn 他买了东西令自己开心
+\xn 他买了东西让自己开心
 \cf rga
 \dt 15/Jan/2015
 
@@ -24393,7 +24393,7 @@
 \pdl dir 
 \pdv kɤ-
 \ge faire dormir, fermenter le vin 
-\gn 让别人睡、躺下、发酵（酒） 
+\gn 使人睡、使人躺下、发酵（酒） 
 \hbf *ɲimawozɤr.51 
 \xv kɤ-ɕɯrŋgɯ-t-a , kɤ-tɯ-ɕɯrŋgɯ-t, kaɕɯrŋgɯ
 \xn 我让他睡了，你让他睡了，他让他睡了
@@ -24411,7 +24411,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge prêter (un objet) 
-\gn 借给别人（能归还原物） 
+\gn 借给别人（假定以后能归还原物） 
 \hbf 1443 
 \xv ta-ɕɯrŋo, kɯ-ɕɯrŋo-a, ɣɯ́-ɕɯrŋgo-a
 \xn 我借给你，你借给我，他借给我
@@ -24433,9 +24433,9 @@
 \xv tɯrme ɲɯ-dɤn
 \xn 人很多
 \xv pɯ-dɤn-i
-\xn （当时）我们很多
+\xn （当时）我们人很多
 \xv kɯ-dɤn me-j
-\xn 我们不多
+\xn 我们人不多
 \se nɤdɤn
 \ps vt
 \ng trop
@@ -24469,9 +24469,9 @@
 \xv tɯtun pjɯ-ŋgrɯ tɤ-ra tɕe kɯ-ɴqa kɤ-nɤma kɤ-dɯɣ mɤ-βze
 \xn 要达到自己的目标的话，不能怕辛苦
 \xv kɤ-nɤma tɤ-ɴqa tɕe, tu-dɯɣ ɲɯ-ɕti
-\xn 工作进行得很辛苦，他灰心不想坚持
+\xn 工作进行得很辛苦，他灰心了
 \xv kɤ-mdzɯ ɲɯ-dɯɣ-a 
-\xn 我不想坐了
+\xn 我坐烦了
 \se sɯɣdɯɣ
 \ps vt
 \pdl dir 
@@ -24480,7 +24480,7 @@
 \gn 令人不耐烦、厌倦
 \xv nɤ-kɤ-ti ɯ-tɯ-dɤn kɯ ɲɯ-kɯ-sɯɣdɯɣ-a
 \xv nɤ-kɤ-rɯrawa ɯ-tɯ-dɤn kɯ ɲɯ-kɯ-sɯɣdɯɣ-a
-\xn 你要求得太多，令我不耐烦
+\xn 你要求得太多，让我不耐烦了
 \se sɤɣdɯɣ
 \dt 25/Aug/2012
 
@@ -24496,7 +24496,7 @@
 \xv tɤ-fɕaʁ-a
 \xn 我忏悔了
 \xv kɯmaʁ tɤ́-wɣ-nɤma tɕe, laχtɕha ku-fɕaʁ ra
-\xn 做了不对的事情，就应该用东西赔偿
+\xn 做了错事，就应该用东西赔偿
 \xv pɯ-kɯ-ɣɤtɕa tɕe, mɤ-kɤ-fɕaʁ mɤ-khɯ
 \xn 有了过错就不能不赔偿
 \xv ɯ-sɤ-fɕaʁ me
@@ -31570,7 +31570,7 @@ da.lie 打猎
 \xn 他弄得比较体面一些
 \xv nɯ tu-kɯ-ti tɕe ɲɯ-mdzɤz
 \xn 好听
-\xv nɤ-sɯm mɯ-mɤ-ɲɯ-ɕe nɤ, kɯ-mdzɤz tɤβze ma, ma-tɤ-tɯ-nɯʁjo
+\xv nɤ-sɯm mɯ-mɤ-ɲɯ-ɕe nɤ, kɯ-mdzɤz tɤβze ma, ma-tɤ-tɯ-nɯjʁo
 \xn 你如果心里不高兴，你要做得好看一些，不要骂人
 \se znɤmdzɤz
 \ps vt
