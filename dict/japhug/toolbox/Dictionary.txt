@@ -3425,7 +3425,7 @@
 \ge une espèce d'arbrisseau 
 \gn 灌木的一种 
 \hbf plante 
-\xv kɯnɯmar nɯ si ci ŋu wuma ʑo tu-mbro cho ɲɯ-jpɯm mɤ-cha. ɯ-jwaʁ nɯ kɯ-tɕɤr kɯ-rɲɟi tsa ŋu, ɯ-ru nɯ kɯ-ɲaʁ ŋgɯz kɯ-ɣɯrni tsa ŋu, ɯ-ru ɯ-ŋgɯ nɯ ku-ɣrum kɯ-fse xtsoŋ-xtsoŋ ɕti tɕe, si mɤ-ngɯt. ɯ-mɯntoʁ ku-ɣrum kɯ-dɤn ʑo ɲɯ-ɬoʁ ŋu. si ɯ-kɤ-χcɤl ri ɲɯ-lɤt ŋu. 
+\xv kɯnɯmar nɯ si ci ŋu wuma ʑo tu-mbro cho ɲɯ-jpɯm mɤ-cha. ɯ-jwaʁ nɯ kɯ-tɕɤr kɯ-rɲɟi tsa ŋu, ɯ-ru nɯ kɯ-ɲaʁ ŋgɯz kɯ-ɣɯrni tsa ŋu, ɯ-ru ɯ-ŋgɯ nɯ kɯ-wɣrum kɯ-fse xtsoŋxtsoŋ ɕti tɕe, si mɤ-ngɯt. ɯ-mɯntoʁ kɯ-wɣrum kɯ-dɤn ʑo ɲɯ-ɬoʁ ŋu. si ɯ-kɤχcɤl ri ɲɯ-lɤt ŋu. 
 \xn {kɯnɯmar}是一种树，不能长高，也能长粗。叶子细长，树干黑里透红。树干里有白色泡沫，所以木质不结实。开很多白花，集中在树梢上。
 
 \lx kɯnɯwulaʁ
@@ -3506,7 +3506,7 @@
 \gn 豹子 
 \hbf animal 
 \et gzigs
-\xv kɯrtsɤɣ nɯ aʁɤndɯndɤt tu ŋgrɤl, ɯ-mdoʁ kɤ-qarŋɯrŋe ɯ-taʁ kɯ-ɲaʁ kɤ-khra ŋu, ɯ-mtɕhirme ku-ɣrum ŋu, ɯ-mɤlɤjaʁ ɯ-ndzrɯ cho lɯlu ɯ-mɤndzrɯ fse, ɯ-jme kɯ́nɤ akhra, ɯ-jme ɯ-ku tɯ-snaʁ ku-ɣrum ŋu. tshɤt qaʑo wuma kɤ-ndza rga, nɯŋa kɯ-fse li pjɯ-sat cha, jla mbro kɯ-fse nɯ ra kɯ-dɤn mɤ-kɤm. 
+\xv kɯrtsɤɣ nɯ aʁɤndɯndɤt tu ŋgrɤl, ɯ-mdoʁ kɤ-qarŋɯrŋe ɯ-taʁ kɯ-ɲaʁ kɤ-khra ŋu, ɯ-mtɕhirme kɯ-wɣrum ŋu, ɯ-mɤlɤjaʁ ɯ-ndzrɯ cho lɯlu ɯ-mɤndzrɯ fse, ɯ-jme kɯ́nɤ akhra, ɯ-jme ɯ-ku tɯ-snaʁ kɯ-wɣrum ŋu. tshɤt qaʑo wuma kɤ-ndza rga, nɯŋa kɯ-fse li pjɯ-sat cha, jla mbro kɯ-fse nɯ ra kɯ-dɤn mɤ-kɤm. 
 \xn 豹子到处都有，颜色是淡黄色，上有黑色的斑点，胡须是白色的，爪子和猫的一样，尾巴也是花的，尾巴的尖端有白点。很喜欢吃羊，也能杀死奶牛，但没有能力打败犏牛和马。 
 \nqr
 \dt 21/Oct/2011
@@ -5615,7 +5615,7 @@
 \gn 猪 
 \hbf animal 
 \et pʰag
-\xv paʁ nɯ kha pjɯ-kɯ-nɯ-χsu ŋu tɕe, ɯ-ɕa kɤ-ndza ɯ-spa ŋu, paʁ nɯ ɯ-rme kɯ-ɲaʁ tu, kɤ-khra tu, kɯ-ɣɯrni tu, ku-ɣrum tu, tsuku ɯ-xtu ku-ɣrum ɯ-ro ra kɯ-ɲaʁ tu, ɯ-mi ku-ɣrum tu, ɯ-jme ɯ-ku ku-ɣrum tu, ɯ-laz tɯ-snaʁ ku-ɣrum tu, paʁ kɯ mɤ-ndze ʑo me, tɯ-xpa ʁnɯ-xpa jamar cho-χsu tɕe kɤ-ntɕha tu-βze ŋu, paʁ ɯ-pɯ tɤ-ndo tɕe, kɯβdɤ-sla tɕe chɯ-rɤpɯ ŋu, ɯ-pɯ nɯ tɯ-ɣjɤn na-lɤt tɕe, kɯ-dɤn sqi sqaptɯɣ jamar kɯ-tu tu, ʁnɯz jamar ma kɯ-me tu, paʁɕa nɯ ɯ-ɕɤmi ɕa cho ɯ-rnom ɯ-ɕa nɯ stu kɯ-mɯm ŋu. paʁɕa laʑu chɯ́-wɣ-tɕɤt khɯ, tɤ-ŋgɤr pjɯ́-wɣ-qaʁ khɯ, tɕhi kɯ-ra tú-wɣ-stu khɯ. 
+\xv paʁ nɯ kha pjɯ-kɯ-nɯ-χsu ŋu tɕe, ɯ-ɕa kɤ-ndza ɯ-spa ŋu, paʁ nɯ ɯ-rme kɯ-ɲaʁ tu, kɤ-khra tu, kɯ-ɣɯrni tu, ku-ɣrum tu, tsuku ɯ-xtu kɯ-wɣrum ɯ-ro ra kɯ-ɲaʁ tu, ɯ-mi kɯ-wɣrum tu, ɯ-jme ɯ-ku kɯ-wɣrum tu, ɯ-laz tɯ-snaʁ kɯ-wɣrum tu, paʁ kɯ mɤ-ndze ʑo me, tɯ-xpa ʁnɯ-xpa jamar cho-χsu tɕe kɤ-ntɕha tu-βze ŋu, paʁ ɯ-pɯ ta-ndo tɕe, kɯβdɤ-sla tɕe chɯ-rɤpɯ ŋu, ɯ-pɯ nɯ tɯ-ɣjɤn na-lɤt tɕe, kɯ-dɤn sqi sqaptɯɣ jamar kɯ-tu tu, ʁnɯz jamar ma kɯ-me tu, paʁɕa nɯ ɯ-ɕɤmi ɕa cho ɯ-rnom ɯ-ɕa nɯ stu kɯ-mɯm ŋu. paʁɕa laʑu chɯ́-wɣ-tɕɤt khɯ, tɤ-ŋgɤr pjɯ́-wɣ-qaʁ khɯ, tɕhi kɯ-ra tú-wɣ-stu khɯ. 
 \xn 猪是自己在家里喂的，可以用来吃肉。猪有黑毛的，有花毛的，有红毛的，有白毛的。有些腹部是白色的，其它的腹部是黑色的。有的脚是白的，有的尾端白，有的额头上有白点。猪什么都吃，喂了一两年就可以宰了。猪怀小猪要四个月才下，每胎多的有十一头，少的只有两头。猪肉是大腿上和排骨最香。可以弄成腊肉，也可以剥成猪膘，根据需要怎么弄都行。 
 \nqr
 
@@ -6277,7 +6277,7 @@
 \ge poireau sauvage 
 \gn 高山上的野韭菜 
 \hbf plante 
-\xv qandzɤjo ɕku nɯ zgo ku kɯ-mbro ʑo tu-ɬoʁ ŋu, sɤtɕha kɯ-mɤɕtaʁ tsa tu-ɬoʁ cha. ɯ-mdoʁ pɣi, si kɯ-ndɯβ ɯ-rchɤβ ra tu-ɬoʁ ŋu. ɯ-qa ri ɯ-zrɤm sɤɣ-ndzoʁ ɯ-stu kɯ-xtɕɯ-xtɕi jpum. ɯ-zrɤm nɯ kɯ-xtshɯm, ku-ɣrum ŋu. ɯ-ru tu-tɯ-ɬoʁ ɯ-stu nɯ arɤʑɯʑrɤs, ɯ-ŋgɯ tɕe ɯ-spjɯŋ tu-ɬoʁ tɕe, ɯ-taʁ tɕe li ɯ-jwaʁ ɲɯ-βze ŋu. ɯ-jwaʁ nɯ tɕɤr tɕe rɲɟi, ɯ-jwaʁ χsɯm jamar tɤ-ɬoʁ ɯ-qhu tɕe, tɕe ɯ-spjɯŋ ŋgɯ ɯ-ku nɯ tɕu ɲɯ-rɯmɯntoʁ ŋu. pha ɯ-phoŋbu nɯ mɤrtsaβ, ɯ-dɯχɯn χɕɤβ. kɤ-ndza sna. 
+\xv qandzɤjo ɕku nɯ zgo ku kɯ-mbro ʑo tu-ɬoʁ ŋu, sɤtɕha kɯ-mɯɕtaʁ tsa tu-ɬoʁ cha. ɯ-mdoʁ pɣi, si kɯ-ndɯβ ɯ-rchɤβ ra tu-ɬoʁ ŋu. ɯ-qa ri ɯ-zrɤm sɤɣ-ndzoʁ ɯ-stu kɯ-xtɕɯ-xtɕi jpum. ɯ-zrɤm nɯ kɯ-xtshɯm, kɯ-wɣrum ŋu. ɯ-ru tu-tɯ-ɬoʁ ɯ-stu nɯ arɤʑɯʑrɤz, ɯ-ŋgɯ tɕe ɯ-spjɯŋ tu-ɬoʁ tɕe, ɯ-taʁ tɕe li ɯ-jwaʁ ɲɯ-βze ŋu. ɯ-jwaʁ nɯ tɕɤr tɕe rɲɟi, ɯ-jwaʁ χsɯm jamar tɤ-ɬoʁ ɯ-qhu tɕe, tɕe ɯ-spjɯŋ ŋgɯ ɯ-ku nɯ tɕu ɲɯ-rɯmɯntoʁ ŋu. pha ɯ-phoŋbu nɯ mɤrtsaβ, ɯ-dɯχɯn χɕɤβ. kɤ-ndza sna. 
 \xn {qandzɤjoɕku}生长在高山上，能生长在比较寒冷的地方，是灰色的，一般生长在灌木丛里。长根的部位有点粗。根又细又白。茎长出来的部位有条纹，里面长主心干，在上面又长叶子。叶子细而长。叶子长到两三片时，在顶部开花。全身都是辣的，香味很浓。可以吃。
 
 \lx qandzi
@@ -69443,10 +69443,8 @@ l
 \ge poils 
 \gn 毛 
 \hbf corps
-\se kɤ́rmɯrme
-\ps adv
-\ge avec les poils
-\gn 连同毛一起
+\pdl comit
+\pdv kɤ́rmɯrme
 \cf aɣɯrme
 \dt 15/Apr/2013
 
@@ -70509,13 +70507,12 @@ l
 \lx ^thɤlwa
 \wav n-thAlwa
 \ps n
+\pdl comit
+\pdv kɤ́thɤlwɯlwa
 \ge terre 
 \gn 土 
 \hbf 40 
 \et tʰal.ba
-\se kɤ́thɤlwɯlwa
-\ge avec de la terre
-\gn 连土一起
 \dt 22/Feb/2014
 
 \lx ^thɤtɕɯ
