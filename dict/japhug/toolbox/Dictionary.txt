@@ -1500,7 +1500,7 @@
 \gn 斑鸠 
 \hbf oiseau 
 \xv dɯdɯt nɯ pɣa khro mɤ-kɯ-wxti ci ŋu, qro jamar ma me, ɯ-tshɯɣa ra qro fse, ɯ-mdoʁ nɯ kɯ-ɤrŋi ɯ-ŋgɯz kɯ́nɤ kɯ-pɣi tsa ŋu, tu-mbri tɕe, 'du dɯt cɯ ŋgɯ lɤɣ' tu-ti ɲɯ-ŋu, tɤ-rɤku cho qajɯ ndze, tɤ-rɤku kɤ-ndza χɕu, kha tɤ-kɤ-nɯ-sɤro ʑo nɯ ɣɯ-tu-ndze ŋu. 
-\xn 斑鸠是一种不太大的鸟，只有鸽子那么大，样子也像鸽子，颜色蓝里带灰，叫声是‘du dɯt cɯ ŋgɯ lɤɣ’。吃粮食和虫子，吃粮食尤其厉害，专门来吃摆放在家里的粮食。 
+\xn 斑鸠是一种不太大的鸟，只有鸽子那么大，样子也像鸽子，颜色蓝里带灰，叫声是{du dɯt cɯ ŋgɯ lɤɣ}。吃粮食和虫子，吃粮食尤其厉害，专门来吃摆放在家里的粮食。 
 \nqr
 
 \lx dzɤjdzɤj
@@ -2638,7 +2638,7 @@
 \gn 房背上的栏杆 
 \hbf maison 
 \xv khɤxtɤndo laχtsɯ kú-wɣ-lɤt tɕe rorʁe ʁnɯ-ldʑa ntsɯ kú-wɣ-saχɕɯβ tɕe ɯ-rchɤβ nɯtɕu tɤ-rɤm kú-wɣ-sɤʑɯrja tɕe khɤxtu kú-wɣ-sɤɣur tɕe nɯ tɤ-rɤm nɯ khɤxtɤndorɤm rmi 
-\xn 在房背的边缘排几根小柱头，穿上成双的横杆，在中间插上一排木板，把房背拦住，这种木板叫{khɤxtɤndorɤm }
+\xn 在房背的边缘排几根小柱头，穿上成双的横杆，在中间插上一排木板，把房背拦住，这种木板叫{khɤxtɤndorɤm}
 \dt 18/May/2014
 
 \lx khɤzɟi
@@ -3021,7 +3021,7 @@
 \gn 横梁 
 \hbf maison 
 \xv koʑi komɤl nɯ jɤɣɤt laχtsɯ ɯ-taʁ tɤ-pjaʁ nɯ ŋu, nɯ jɤɣɤt ɯ-taʁ tɯ-sthoʁsi ɯ-kɯ-sthoʁ nɯ ŋu, rɟɯɣ sɤznɤ xtshɯm 
-\xn {koʑi komɤl }是走缘的柱头上的木方条，支撑走缘上面的小梁，比{rɟɯɣ}细一些 
+\xn {koʑi komɤl}是走缘的柱头上的木方条，支撑走缘上面的小梁，比{rɟɯɣ}细一些 
 \dt 18/May/2014
 
 \lx krɤlma
@@ -3254,7 +3254,7 @@
 \gn 红嘴山鸦[红嘴老鸦] 
 \hbf oiseau 
 \xv kɯjka nɯ pɣa kɯ-ɲaʁ ci ŋu, qɤjdo cho ndʑi-tɯ-wxti ndʑi-tshɯɣa ra naχtɕɯɣ, kɯjka nɯ ɯ-βri nɤmbju, ɯ-mtsioʁ cho ɯ-mi nɯ ra kɯ-ɣɯrni ŋu, jɤɣɤt pa znde ɯ-kɯ-spoʁ kɯ-wxti nɯ ra ku-rɤloʁ ŋu, ɯ-loʁ ɯ-spa nɯ si ɯ-rtaʁ kɯ-xtshɯm tsa z-ju-nɯzʁe tɕe ɯ-kɯr ŋgɯ ʁɟa ʑo tu-rke tɕe z-ju-nɯ-zʁe ŋu, ʁzɤmi ni tu-oqurle-ndʑi tɕe ku-rɤloʁ-ndʑi ŋu. tu-mbri tɕe, "ka ca kɤɣ" ntsɯ tu-ti ŋu. tɯmɯ cho sɤrwa lɤt tɤkha tɕe wuma ʑo mbri ma sɤrwa ɯ-kɯ-sɯ-lɤt tɤ-rca ɯ-ku a-rku tu-kɯ-ti ɲɯ-ŋu. tɤ-rɤku kɤ-ndza χɕu tɕe pɯ-kɤ-nɯji ɣɯ ɯ-rɣi ra kɯ́nɤ tu-nɯ-tɕɤt ɕti. srɯnmɯ ŋu tu-kɯ-ti ŋgrɤl. 
-\xn 红嘴老鸦是一种黑色的鸟，形状和大小和乌鸦一样，毛有光泽，嘴和脚是红色的。在走缘下面和墙壁上比较大的洞里作窝，垒窝的材料是比较细的树枝，全部是用嘴衔来的，公鸦和母鸦一起垒窝。叫声是 "ka ca kɤɣ"。下雨或下冰雹时，叫声特别欢快，据说它会参与商议下冰雹的事情。它吃粮食很厉害，连种下去的种子也会挖出来吃。人家说它是妖精。
+\xn 红嘴老鸦是一种黑色的鸟，形状和大小和乌鸦一样，毛有光泽，嘴和脚是红色的。在走缘下面和墙壁上比较大的洞里作窝，垒窝的材料是比较细的树枝，全部是用嘴衔来的，公鸦和母鸦一起垒窝。叫声是{ka ca kɤɣ}。下雨或下冰雹时，叫声特别欢快，据说它会参与商议下冰雹的事情。它吃粮食很厉害，连种下去的种子也会挖出来吃。人家说它是妖精。
 
 \lx kɯjra
 \ps n
@@ -3367,7 +3367,7 @@
 \gn 藏雪鸡[贝母鸡] 
 \hbf oiseau 
 \xv kɯmu nɯ pɤjmu ruŋgu zgoku stu kɯ-mbro ku-rɤʑi ŋu, ɯ-mdoʁ kɯ-pɣi ŋu. kɯ-wxti ra kɯ kɯmu kɯ "kɯ-ɣɤndʐo nɤ kɯ-ɣɤndʐo a-tɤ-nɯχsɤl, kɯ-mpja nɤ kɯ-mpja a-tɤ-nɯχsɤl" tu-ti ŋu tu-ti-nɯ ŋgrɤl ma tɤ-ɣɤndʐo tɕe rdzari ɯ-ku tu-ɕe ŋu, nɯ-mpja tɕe, co zɯ pjɯ-ɣi ŋu. chɯsɲu tu raŋ tɕe, kɯmu ɯ-skɤt a-pɯ-mtshɤm tɕe, phɤn tu-kɯ-ti ɲɯ-ŋgrɤl, kupa kɯ pɤjmu ɯ-kɯ-tɕɤt pɣa ŋu tu-kɯ-ti ɲɯ-ŋgrɤl, tɕe ŋu maʁ mɤ-xsi. tu-mbri tɕe, "ku ku ku ku ku" tu-ti ŋu. χsɯm kɯβde tɯtɯrca tu-ŋgrɤl. 
-\xn 贝母鸡栖息在最高山上，颜色是灰的。老人们有个说法：贝母鸡说：“要冷就冷个够，要热就热个够”，因为它在天气寒冷时到高山上去，天气温暖时就在山沟里出现。当有狂犬病的时候，据说患者听见贝母鸡的叫声就会好起来。汉人说是挖贝母的鸡，不知是不是正确的。叫的时候，叫声是“ku ku ku ku ku”。贝母鸡一般三四只一起活动。
+\xn 贝母鸡栖息在最高山上，颜色是灰的。老人们有个说法：贝母鸡说：“要冷就冷个够，要热就热个够”，因为它在天气寒冷时到高山上去，天气温暖时就在山沟里出现。当有狂犬病的时候，据说患者听见贝母鸡的叫声就会好起来。汉人说是挖贝母的鸡，不知是不是正确的。叫的时候，叫声是{ku ku ku ku ku}。贝母鸡一般三四只一起活动。
 \dt 24/Aug/2012
 
 \lx kɯnɤ
@@ -4042,7 +4042,7 @@
 \hbf 767 
 \et lo
 \xv nɤʑo tɕhi lu tɯ-ŋu 
-\xn 你属什么 
+\xn 你属什么？
 \xv a-lu na-rtsi
 \xn 他给我算了命
 \dt 29/May/2013
@@ -6233,7 +6233,7 @@
 \gn 昆虫是一种 
 \hbf animal 
 \xv qajɯ stoʁ nɯ qajɯ kɯ-ɲaʁ ci ŋu, ɯ-ʁar ɯ-rqhu nɯ kɯ-rkɯ-rko ci ŋu, tɕe nɤmbju, ɯ-xtu fka, ɯ-smɤt tɕe chɯ-ɤmtɕoʁ ŋu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi amtɕoʁ, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, zndɤrchɤβ, soʁma rchɤβ, aʁɤndɯndɤt kɯ-ɴqhi nɯ ra ku-rɤʑi ŋu. 
-\xn {qajɯ sto}ʁ是一种黑色的虫，翅膀的壳很硬，有光泽，肚子很胀，尾部是尖的，头部很小，嘴很尖，有六只脚，生活所有脏的地方，比如在墙壁缝和干草堆
+\xn {qajɯ stoʁ}是一种黑色的虫，翅膀的壳很硬，有光泽，肚子很胀，尾部是尖的，头部很小，嘴很尖，有六只脚，生活所有脏的地方，比如在墙壁缝和干草堆
 \nqr
 \dt 05/May/2014
 
@@ -8918,7 +8918,7 @@
 \gn 小的树支虫 
 \hbf animal 
 \xv tɤpɤtso βraʁ nɯ sɯjno mbro mbro cho kɯ-naχtɕɯ-χtɕɯɣ ŋu, li ʁnɯ-tɯphu tu, ldʑaŋkɯ ci kɯ-pɣi ci tu, ndʑi-tɯ-xtshɯm naχtɕɯɣ tɕe nɯ a-pɯ́-wɣ-mto tɕe nɯ maʁ nɤ tɯ-taʁ a-tɤ-ɣi tɕe, nɯ maʁ nɤ tɯʑo tɤ-rɟit tu, nɯ maʁ nɤ tɯ-kɯmdza ra nɯ-rɟit tu tu-kɯ-ti ɲɯ-ŋu tɕe núndʐa tɤpɤtso βraʁ ɲɯ-rmi
-\xn {tɤpɤtso βraʁ}和秤杆虫一模一样，也有两种，绿色的和灰色的，两种一样细。据说如果人看见了它，或者如果它爬到人的身上来了，要么自己会有身孕，要么自己亲戚会有身孕，所以叫tɤpɤtso βraʁ（小孩子的象征） 
+\xn {tɤpɤtso βraʁ}和秤杆虫一模一样，也有两种，绿色的和灰色的，两种一样细。据说如果人看见了它，或者如果它爬到人的身上来了，要么自己会有身孕，要么自己亲戚会有身孕，所以叫{tɤpɤtso βraʁ}小孩子的象征） 
 \nqr
 \dt 05/May/2014
 
@@ -12562,7 +12562,7 @@
 \gn 杉树 
 \hbf plante 
 \xv tɯrgi nɯ zgo kɯ-mbro ɴqiaβ tsa tu-ɬoʁ ŋu, si wuma ʑo kɯ-mbro, ɯ-ru nɯ kɯ-jpɯ-jpum kɯ-mbɯ-mbro ŋu, ɯ-rtaʁ nɯ khro mɤ-jpum tɕe, ɯ-βri nɯ tɕu mɤ-kɯ-ɤmtɕhoʁ tu-oʑɯrja ŋu. ɯ-rtaʁ maŋpa nɯ ra zri, taʁ tɤ-ari ɯ-jija ɯ-rtaʁ nɯ tu-xtɯt ŋu, ɯ-rtaʁ nɯ ɯ-taʁ nɯ tɕu, li ɯ-rtaʁ ɲɯ-nɯ-ɴɢɤt ŋu, ɯ-jwaʁ nɯ ta-qaβ fse ri, xtɯt　aɕpɯɕpa, tɕe ɯ-rtaʁ ɯ-taʁ ɯ-jwaʁ ɯ-tɯ-ndzoʁ nɯ tɤ-muj kɯ-fse ɯ-tshɯɣa ŋu. tɯ-rgi ɯ-jwaʁ nɯ arŋi tɕe pɣi tsa, ɯ-mat nɯ qaɟy ɯ-rqhu tsa fse, alɯlju tɕe rɲɟi tsa, tɕe nɯ ɯ-ŋgɯ nɯ tɕu, ɯ-rɣi arku, thɯ-tɯt tɕe, qaɟy rqhu kɯ-fse nɯ roŋri ʑo ɲɤ-ɴɢaʁ, tɕe ɯ-rɣi pjɯ-nɯɬoʁ ŋu ma ɯ-zrɤm taʁ tu-mphɯl mɤ-cha, tɕe ɯ-mat nɯ tɯ-rgi laŋlaŋ rmi. tɯ-rgi ɯ-ru nɯ wuma ʑo tɤ-rɤm ɯ-spa kɯ-ʑru, tɯ-rgi tɯ-phɯ nɯ kɯβdɤsqi-ɟom, kɯmŋɤsqi-ɟom kɯ-mbro ɲɯ-ɕti. tɕe nɯ nɯ́-wɣ-phɯt tɕe ɕoŋtɕa ɕnɤcɤt-rzɯɣ pjɤ-βzu ɲɤ-rtaʁ. tɕe ɯ-rtaʁ nɯ ra kɤ-nɯβlɯ ma mɯ́j-sna, ɯ-ru nɯ ŋgɤjpɤn chɯ́-wɣ-lɤt tɕe, laχtɕha tɕhi kɯ-ra kɤ-βzu sna. 
-\xn 杉树生长在比较高的阴山上，是一种高大的树。树干长得又粗又高，枝桠都不粗，在树上长得不整齐。树枝下面的长，越是长在上面就越短。在枝桠上有分杈，叶子长得象针，短而扁，叶子在枝桠上的长法象羽毛的形状。杉树的叶子青而灰，果实象鱼鳞，是圆柱形的，种子装在里面。成熟后，象鳞片的那些东西个个都展开了，种子就会出来，因为杉树不能用根繁殖。这种果实叫{tɯ-rgi laŋlaŋ}。杉树的树干是做木板最好的原料，一棵杉树有14-15米高，砍下来足够锯成七八节木料。枝桠只能烧火用，树干锯成木板，可以作成各种家具。
+\xn 杉树生长在比较高的阴山上，是一种高大的树。树干长得又粗又高，枝桠都不粗，在树上长得不整齐。树枝下面的长，越是长在上面就越短。在枝桠上有分杈，叶子长得象针，短而扁，叶子在枝桠上的长法象羽毛的形状。杉树的叶子青而灰，果实象鱼鳞，是圆柱形的，种子装在里面。成熟后，象鳞片的那些东西个个都展开了，种子就会出来，因为杉树不能用根繁殖。这种果实叫{tɯrgilaŋlaŋ}。杉树的树干是做木板最好的原料，一棵杉树有14-15米高，砍下来足够锯成七八节木料。枝桠只能烧火用，树干锯成木板，可以作成各种家具。
 
 \lx tɯrgigrɯβgrɯβ
 \ps n
@@ -15714,7 +15714,7 @@
 \ge chat sauvage 
 \gn 野猫 
 \hbf animal 
-\xv xtɯt nɯ lɯlu cho kɯ-naχtɕɯ-χtɕɯɣ ʑo ŋu, tɕeri xtɯt nɯ sɯŋgɯ, praʁ rchɤβ ku-rɤʑi ŋu, ɯʑo sɤ́znɤ rɯdaʁ kɯ-xtɕi ra tu-ndze ɲɯ-ŋu, lɯlu sɤ́znɤ kɯ-xtɕɯ-xtɕi ɲɯ-wxti cho ɲɯ-rkaŋ. ɯ-mdoʁ nɯ kɯ-pɣi tɕe ɯ-taʁ kɯ-ɲaʁ kɤ-khra ɲɯ-ŋu. ci ci tɕe lɯlu cho ɲawa tu-βzú-ndʑi ɲɯ-ŋgrɤl. 
+\xv xtɯt nɯ lɯlu cho kɯ-naχtɕɯ-χtɕɯɣ ʑo ŋu, tɕeri xtɯt nɯ sɯŋgɯ, praʁ rchɤβ ku-rɤʑi ŋu, ɯʑo sɤznɤ rɯdaʁ kɯ-xtɕi ra tu-ndze ɲɯ-ŋu, lɯlu sɤznɤ kɯ-xtɕɯ-xtɕi ɲɯ-wxti cho ɲɯ-rkaŋ. ɯ-mdoʁ nɯ kɯ-pɣi tɕe ɯ-taʁ kɯ-ɲaʁ kɤ-khra ɲɯ-ŋu. ci ci tɕe lɯlu cho ɲawa tu-βzu-ndʑi ɲɯ-ŋgrɤl. 
 \xn 野猫和家猫一模一样，但是野猫生活在森林里和岩洞里，吃比自己小的动物，比家猫大一些，强一些。颜色是灰色，上面有黑色的斑纹。有时候会和家猫交配。 
 \nqr
 
@@ -16384,7 +16384,7 @@
 \ge escargot 
 \gn 蜗牛 
 \hbf animal 
-\xv zdɯmlaʁrɯʁrɯ nɯ qajɯ ci ŋu, ɯ-rqhu tu, ɯ-rqhu nɯ kɯ-ɤrtɯm tɕe ɯ-ŋgɯ kɯ-spoʁ ɲɯ-ŋu, ɯʑo nɯ ɯ-rqhu ŋgɯ nɯ tɕu ku-rɤʑi ŋu, ftɕar tɕe ɯ-ŋgɯ chɯ-nɯɬoʁ tɕe, ɯ-rqhu nɯ ɯ-mgɯr taʁ ɲɯ-ndzoʁ tɕe tu-nɯfkɯfkur ɲɯ-ŋu, ɯʑo ɯ-phoŋbu nɯ ra kɯ-mpɯ-mpɯ ʑo ɲɯ-ŋu, ɯ-ɕɤrɯ maŋe, ɯ-ʁrɯ kɯ́nɤ kɯ-mpɯ-mpɯ ɲɯ-ŋu, tɕe ci ci lu-tɕɤt, ci ci chɯ-sɯ-ɕqhlɤt ɲɯ-ŋu, qartsɯ tɕe ɯ-ŋgɯ chɯ-ɕqhlɤt tɕe, kɤ-mto maŋe, ɯ-rqhu nɯ cɯrmbɯ ŋgɯ aʁɤndɯndɤt ɣɤʑu. 
+\xv zdɯmlaʁrɯʁrɯ nɯ qajɯ ci ŋu, ɯ-rqhu tu, ɯ-rqhu nɯ kɯ-ɤrtɯm tɕe ɯ-ŋgɯ kɯ-spoʁ ɲɯ-ŋu, ɯʑo nɯ ɯ-rqhu ŋgɯ nɯ tɕu ku-rɤʑi ŋu, ftɕar tɕe ɯ-ŋgɯ chɯ-nɯɬoʁ tɕe, ɯ-rqhu nɯ ɯ-mgɯr taʁ ɲɯ-ndzoʁ tɕe tu-nɯfkɯfkur ɲɯ-ŋu, ɯʑo ɯ-phoŋbu nɯ ra kɯ-mpɯ-mpɯ ʑo ɲɯ-ŋu, ɯ-ɕɤrɯ maŋe, ɯ-ʁrɯ kɯnɤ kɯ-mpɯ-mpɯ ɲɯ-ŋu, tɕe ci ci lu-tɕɤt, ci ci chɯ-sɯ-ɕqhlɤt ɲɯ-ŋu, qartsɯ tɕe ɯ-ŋgɯ chɯ-ɕqhlɤt tɕe, kɤ-mto maŋe, ɯ-rqhu nɯ cɯrmbɯ ŋgɯ aʁɤndɯndɤt ɣɤʑu. 
 \xn 蜗牛是一种虫子，有壳。壳是圆形的，有洞。它自己住在洞里面，夏天从壳里出来，把壳背来背去。它身子全是软软的，没有骨头，触角也是软软的，有时候伸出来，有时候收回去。冬天它缩进壳里，看不见。壳在石头堆里到处可以看到。 
 \nqr
 
@@ -16833,7 +16833,7 @@
 \gn 一种菌子 
 \hbf champignon 
 \xv zwɤrqhɤjmɤɣ nɯ zwɤrqha ŋgɯ tu-ɬoʁ ŋu, ɯ-taʁ ɯ-pa kɯ-fsɯ-fse ʑo kɯ-wɣrɯ-wɣrum ʑo ŋu, kɤ-ndza sna 
-\xn {zwɤrqhɤjmɤɣ }长在{zwɤrqha} 树林里，上部和下部一样都是白色的，能吃。
+\xn {zwɤrqhɤjmɤɣ}长在{zwɤrqha} 树林里，上部和下部一样都是白色的，能吃。
 \dt 02/Jan/2015
 
 \lx zwu
@@ -17027,7 +17027,7 @@
 \ge une plante 
 \gn 植物的一种 
 \hbf plante 
-\xv ʑmbraʁlaʁli nɯ sɯjno ci ŋu, ɯ-ru kɯ-mpɯ tsa ŋu, kɯ-ɤlɯlju ŋu, ɯ-jwaʁ ʁnɯz ma ku-tshoʁ mɤ-cha. ɯ-jwaʁ ni ndʑi-phɤrthɤβ ri ɯ-mɯntoʁ ɲɯ-βze tɕe ɯ-jwaʁ nɯ nɯ-ɴɢɤt tɕe, ɯ-mɯntoʁ pjɯ-ŋgra tɕe ɯ-mat nɯ ɯ-jwaʁ ɯ-pa pjɤ-ɴqoʁ ŋu. ɯ-mat thɯ-tɯt tɕe ɣɯrni. ɯ-ŋgɯ ɯ-ci cho ɯ-rdoʁ ra kɯ́nɤ ɣɯrni. mɤ-sɤndɤɣ. tɤ-potso ra kɯ tu-ndza-nɯ ŋgrɤl. nɯ tú-wɣ-ndza tɕe "tɯ-rqo ʑmbraʁ mɤ-ɕe" tu-ti-nɯ ŋgrɤl. 
+\xv ʑmbraʁlaʁli nɯ sɯjno ci ŋu, ɯ-ru kɯ-mpɯ tsa ŋu, kɯ-ɤlɯlju ŋu, ɯ-jwaʁ ʁnɯz ma ku-tshoʁ mɤ-cha. ɯ-jwaʁ ni ndʑi-phɤrthɤβ ri ɯ-mɯntoʁ ɲɯ-βze tɕe ɯ-jwaʁ nɯ nɯ-ɴɢɤt tɕe, ɯ-mɯntoʁ pjɯ-ŋgra tɕe ɯ-mat nɯ ɯ-jwaʁ ɯ-pa pjɤ-ɴqoʁ ŋu. ɯ-mat thɯ-tɯt tɕe ɣɯrni. ɯ-ŋgɯ ɯ-ci cho ɯ-rdoʁ ra kɯnɤ ɣɯrni. mɤ-sɤndɤɣ. tɤ-potso ra kɯ tu-ndza-nɯ ŋgrɤl. nɯ tú-wɣ-ndza tɕe "tɯ-rqo ʑmbraʁ mɤ-ɕe" tu-ti-nɯ ŋgrɤl. 
 \xn {ʑmbraʁlaʁli} 是一种植物，茎有点柔软，呈圆柱形。只长两片叶子。花夹在两片叶子中间，叶子展开了以后，花凋落结成果实吊在叶子下面。果实成熟后变红。没有毒性。小孩子们经常吃这个果实。据说吃了它“青稞的芒不会进入喉咙”。
 \dt 01/Sep/2013
 
@@ -17089,8 +17089,8 @@
 \ge espèce d'oiseau 
 \gn 一种鸟 
 \hbf oiseau 
-\xv ʑmbrɯpɣa nɯ pɣa tɤ-ŋkhɯt stáʁnɤ wxti, ɯ-mi kɯ-qarŋe ŋu, ɯ-mtsioʁ nɯ ɲaʁ rɲɟi tsa ɯ-jme nɯ ɯ-phoŋbu sɤz rɲɟi, ɯ-muj ɯ-mdoʁ wuma mpɕɤr, kɯ-ɲaʁ ra kɯ́nɤ nɤmbju, ɯ-xtɤpa ra ʁmɤrsɤr ɯ-mdoʁ tu, ɯ-rqo pa cho ɯ-ʁar χchoʁe ra kɯ-wɣrum tɯ-snaʁ ka tu. tɯ-ji ŋgɯ ju-ɣi mɤ-ŋgrɤl, stɤmku cho sɯŋgɯ ra ku-rɤʑi ɕti. 
-\xn {ʑmbrɯpɣa }是一种鸟，略大于拳头。脚黄色，嘴黑色，尾巴比身子长。羽毛颜色很美，黑色有光泽。腹部是橙色的，脖子和翅膀上各有一块白点。这种鸟不会来到庄稼地里，只是在草地和森林里生活。
+\xv ʑmbrɯpɣa nɯ pɣa tɤ-ŋkhɯt stáʁnɤ wxti, ɯ-mi kɯ-qarŋe ŋu, ɯ-mtsioʁ nɯ ɲaʁ rɲɟi tsa ɯ-jme nɯ ɯ-phoŋbu sɤz rɲɟi, ɯ-muj ɯ-mdoʁ wuma mpɕɤr, kɯ-ɲaʁ ra kɯnɤ nɤmbju, ɯ-xtɤpa ra ʁmɤrsɤr ɯ-mdoʁ tu, ɯ-rqo pa cho ɯ-ʁar χchoʁe ra kɯ-wɣrum tɯ-snaʁ ka tu. tɯ-ji ŋgɯ ju-ɣi mɤ-ŋgrɤl, stɤmku cho sɯŋgɯ ra ku-rɤʑi ɕti. 
+\xn {ʑmbrɯpɣa}是一种鸟，略大于拳头。脚黄色，嘴黑色，尾巴比身子长。羽毛颜色很美，黑色有光泽。腹部是橙色的，脖子和翅膀上各有一块白点。这种鸟不会来到庄稼地里，只是在草地和森林里生活。
 \dt 02/Jan/2015
 
 \lx ʑmbɯlɯm
@@ -35947,7 +35947,7 @@ da.lie 打猎
 \hbf 1271 
 \et gdan
 \xv smɤnmi mitoʁ kuɕana ɕ-ku-nɤʁdɤn tɕe, tɕetha aʑo a-kɯ-mŋɤm phɤn ɕti
-\xn 如果他请到古夏纳的话，我的病马上就会好（smanmi 22）
+\xn 如果他请到古夏纳的话，我的病马上就会好
 \se znɤʁdɤn
 \pdl dir 
 \pdv pɯ-
@@ -36183,7 +36183,7 @@ da.lie 打猎
 \xv a-zda ra nɯ ɲɯ-ɤro-nɯ tɕe ɲɯ-nɤsme-a-nɯ
 \xn 他们拥有那个东西，我很羡慕他们
 \xv jilco ra kɯ wuma ʑo pjɤ́-wɣ-nɤsma-ndʑi 
-\xn 村民们很羡慕他们（乌鸦嘴 11）
+\xn 村民们很羡慕他们
 \dt 06/Jan/2011
 
 \lx _nɤsna
@@ -36432,7 +36432,7 @@ da.lie 打猎
 \ge cacher, garder le secret 
 \gn 保密、藏起来
 \hbf 1169 <2> 1146 <3> 1759 
-\xv aʑo kɯ́nɤ kɤ-nɤtsɯ-t-a
+\xv aʑo kɯnɤ kɤ-nɤtsɯ-t-a
 \xn 我也保密了
 \xv kɤ-tɯ-nɤtsɯ-t
 \xn 你保密了
@@ -36811,7 +36811,7 @@ da.lie 打猎
 \xn 今天我去找蘑菇，你一起去吗？
 \xv kɯ-ɣɯɕoŋtɕa ɤj ɕe-a ŋu, tu-ta-nɤzda ɯ-tɯ-ɣi
 \xn 我去砍木头，你一起去吗？
-\xv nɤʑo si ɕɯ-tɯ-phɯt ɲɯ-ŋu, tu-kɯ-nɤzda-a tɕe ɤj kɯ́nɤ ɣi-a
+\xv nɤʑo si ɕɯ-tɯ-phɯt ɲɯ-ŋu, tu-kɯ-nɤzda-a tɕe ɤj kɯnɤ ɣi-a
 \xn 你要去砍树，我也一起去
 \xv tu-kɯ-nɤzda-a ɯ-jɤɣ 
 \xn 我能不能跟你一起去
@@ -40764,7 +40764,7 @@ da.lie 打猎
 \xv pɯ-tɯ-nɯphaʁɲɤl ntsɯ
 \xn 你总是在那里躺着
 \xv tɤ-tɕɯ nɯ ɯ-rkɯ nɯ tɕu pjɤ-nɯphaʁɲɤl
-\xn 那个男子在旁边躺着（乌鸦 21）
+\xn 那个男子在旁边躺着
 \cf phaʁɲɤl
 \dt 10/Nov/2011
 
@@ -40977,7 +40977,7 @@ da.lie 打猎
 \xv pɯ-nɯqhaɴɢaʁ-a tɕe pɯ-ndʐaβ-a
 \xn 我往后仰了一下就摔倒了
 \xv rɟɤlpu tɯ-ɲɟɤt kɯ ɯ-qhu pjɤ-nɯqhaɴɢaʁ tɕe pjɤ-si
-\xn 国王后悔不已，往后仰摔下来了就死了（smanmi 182）
+\xn 国王后悔不已，往后仰摔下来了就死了
 \pdl dir 
 \pdv _
 \ge s'écrouler vers l'arrière
@@ -41151,7 +41151,7 @@ da.lie 打猎
 \ge toucher légèrement, frotter en passant (avec un objet)
 \gn （用某个东西）轻轻地碰一下
 \xv nɯ-ari-ndʑi tɕe, lo rŋgɯ nɯ ɯ-ɕki nɯ tɕu phuɲi ɲɤ-znɯrɕɤt-ndʑi
-\xn 他们俩到了之后，在大石包上用树枝轻轻地擦过去了（smanmi 63）
+\xn 他们俩到了之后，在大石包上用树枝轻轻地擦过去了
 \dt 13/Jan/2015
 
 \lx _nɯrdɤstaʁ
@@ -42913,7 +42913,7 @@ da.lie 打猎
 \hbf *kɯɕar.362 
 \xv ɯʑo ɲɯ-nɯxtɕhɤz
 \xn 他有那个习惯
-\xv nɤʑo kɯ́nɤ tɯ-nɯxtɕhɤz
+\xv nɤʑo kɯnɤ tɯ-nɯxtɕhɤz
 \xn 你也有那个习惯
 \xv aʑo ɲɯ-nɯxtɕhaz-a
 \xn 我有这个习惯
@@ -47944,7 +47944,7 @@ da.lie 打猎
 \gn 请人算命
 \xv mphrɯmɯ ɕ-pɯ-sɯre
 \xn 你去请人算命吧
-\xv aʑɯɣ kɯ́nɤ a-mphrɯmɯ a-pɯ-tɯ-sɯre ɯ-tɯ́-cha
+\xv aʑɯɣ kɯnɤ a-mphrɯmɯ a-pɯ-tɯ-sɯre ɯ-tɯ́-cha
 \xn 你能不能教别人帮我算命
 \dt 07/Nov/2014
 
@@ -48668,7 +48668,7 @@ da.lie 打猎
 \gn 障碍、妨碍
 \xv ɲɯ-rɯʁdɯxpa
 \xn 他在妨碍人
-\xv phɤnba kɤ-βzu mɤ-kɯ-cha ci pɯ-ŋu kɯ́nɤ, ma-tɤ-kɯ-rɯʁdɯxpa ra
+\xv phɤnba kɤ-βzu mɤ-kɯ-cha ci pɯ-ŋu kɯnɤ, ma-tɤ-kɯ-rɯʁdɯxpa ra
 \xn 没有能力帮别人的话，也不可以妨碍别人
 \cf rɯʁdɯʁdɯɣ
 \cf ʁdɯxpa
@@ -49682,7 +49682,7 @@ da.lie 打猎
 \xn 我把孩子培养成有用的人了
 \xv tɤ-mu nɯ kɯ paʁ kɤ-ntɕha to-sɤβzu 
 \xn 那位大娘把猪喂肥了，可以宰了 
-\xv iʑora kɯ́nɤ tu-kɤ-ndza kɯ-me ɲɯ-tɯ-sɤβze ɲɯ-ŋu
+\xv iʑora kɯnɤ tu-kɤ-ndza kɯ-me ɲɯ-tɯ-sɤβze ɲɯ-ŋu
 \xn 你令我们没有东西吃
 \xv iʑora kɤ-nɯʑɯβ mɤ-kɯ-khɯ tu-tɯ-sɤβze ɲɯ-ŋu
 \xn 你令我们无法睡觉
@@ -51126,7 +51126,7 @@ da.lie 打猎
 \xn 他弄好了
 \xv kɤ-sɤpe ɯ-pɯ-tɯ-cha-nɯ ?
 \xn 你们弄好没有？
-\xv nɤʑo sɤ́znɤ aʑo kɤ-nɤma sɤpe-a 
+\xv nɤʑo sɤznɤ aʑo kɤ-nɤma sɤpe-a 
 \xn 我工作得比你好
 \cf pe
 \dt 26/Jun/2011
@@ -56395,7 +56395,7 @@ da.lie 打猎
 \xn 你观察一下你的同伴
 \xv aʑo ku-kɯ-χpjat-a
 \xn 你在观察我
-\un 跟为己前缀{nɯ-}连用时，{χpjɤt }具有“随便……”、“由……决定”等意思
+\un 跟为己前缀{nɯ-}连用时，{χpjɤt}具有“随便……”、“由……决定”等意思
 \xv nɤʑo tɯ-ɕe mɤ-tɯ-ɕe, nɤʑo tɤ-nɯ-χpjɤt
 \xn 去不去由你
 \xv nɤʑo ma-tɯ-ɤrju a-tɤ-nɯ-χpjɤt
@@ -59345,7 +59345,7 @@ da.lie 打猎
 \gn 青冈树、槲栎 
 \hbf plante 
 \xv ɕkrɤz nɯ zgoku aʁɤndɯndɤt tu-ɬoʁ cha, tu-wxti cha, aɣɯrtɯrtaʁ tɕe, ɯ-ru tɯ-ldʑa kɯ-jpum ɲɯ-βze mɤ-cha, ɯ-rtaʁ jpum, sɯŋgɯ kɯ-wxti nɯ ra ɯ-ru kɯ-zri tu-βze tɕe, ɯ-kɤχcɤl tɕe ɲɯ-ɤɣɯrtɯrtaʁ ŋu. ɯ-jwaʁ nɯ kɯ-ɤrtɯm tsa tɕe ɯ-βzɯr nɯ tɕu ɯ-mdzu kɯ-mtɕoʁ ʑo ku-nɯgrɤl ŋu. ɯ-jwaʁ ɯ-qhu chu kɯ-qarŋe tɯ-ɣndʑɤr kɯ-fse tu, ɯ-jwaʁ ɯ-ʁɤri arŋi mpɕu, ɯ-jwaʁ nɯ qamphoʁ rmi. ɕkrɤz ɯ-mat chɯ-βze ŋu tɕe, ɯ-mat nɯ thɣe rmi, paʁndza wuma ʑo pe, ɯ-ku ri ɯ-mat kɯ-maʁ kɯ-rko ci ku-ndzoʁ ŋu tɕe nɯ tɕamu sna. ɕkrɤz kɯ-do ɣɯ ɯ-ci tɤ-se kɯ-fse pjɯ-kɯ-nɯ-ɬoʁ ci ɣɤʑu tɕe, nɯ ku-jkrɯt tɕe, nɯ tʂha stu kɯ-ʑru ɲɯ-ŋu, smɤn ɲɯ-ŋu. ɕkrɤz ʁnɯ-tɯphu ɣɤʑu tɕe, tɯ-tɯphu nɯ ɯ-ru kɯ-xtshɯm kɯ-zri ɲɯ-ŋu, kɯ-ɤstɤko ɲɯ-ŋu, ɯnɯnɯ qaprɤsi ɲɯ-rmi, li ci tɯ-tɯphu nɯ praʁ kɯ-fse mɤ-kɯ-sɤɣa tu-ɬoʁ ɲɯ-ŋu tɕe, ɯ-ru cho ɯ-rtaʁ ra mɯ-ɲɯ-ɤstɤko, ɲɯ-ɤjʁu tɕe nɯ praʁkɤsi ɲɯ-rmi. 
-\xn 青冈树在山上到处都可以生长，长得很大，因为枝桠发达所以没有一棵比较粗的主干，枝桠很粗，在大森林里树干长得高，在顶端上才长枝桠。叶子有点圆，在边缘排列着锋利的刺。叶子的背面有黄色象粉一样的东西，叶子正面是绿色的，光滑的。叶子叫qamphoʁ。 青冈树也结果实，这种果实叫thɣe，可以是喂猪的好饲料。在树梢上长出一块不是果实的硬东西，可以熬茶。老青冈树上有一种象血一样的液体流出来，凝结后是最优质的茶，是一种药。有两种青冈树，一种树干细而长，很直，叫qaprɤsi（蛇树） ，另一种长在岩石和陡峭的地方，树干和树枝都长得不直，弯曲的，这种叫praʁkɤsi（岩石头上的树）。
+\xn 青冈树在山上到处都可以生长，长得很大，因为枝桠发达所以没有一棵比较粗的主干，枝桠很粗，在大森林里树干长得高，在顶端上才长枝桠。叶子有点圆，在边缘排列着锋利的刺。叶子的背面有黄色象粉一样的东西，叶子正面是绿色的，光滑的。叶子叫{qamphoʁ}。 青冈树也结果实，这种果实叫{thɣe}，可以是喂猪的好饲料。在树梢上长出一块不是果实的硬东西，可以熬茶。老青冈树上有一种象血一样的液体流出来，凝结后是最优质的茶，是一种药。有两种青冈树，一种树干细而长，很直，叫{qaprɤsi}（蛇树） ，另一种长在岩石和陡峭的地方，树干和树枝都长得不直，弯曲的，这种叫{praʁkɤsi}（岩石头上的树）。
 \dt 22/Apr/2013
 
 \lx $ɕkɯβɕkɯβ
@@ -59815,7 +59815,7 @@ da.lie 打猎
 \ge Anisodus tanguticus 
 \gn 山茛菪 
 \hbf plante 
-\xv ɕɯrɴɢo nɯ sɯjno kɯ-wxti kɯ-jpumqa ci ŋu. ɯ-mɯntoʁ kɯ́nɤ kɯ-jaʁjɯ kɯ-wxti tsa ci tshaŋlaŋ taʁ tɤ-kɯ-ɕthɯz kɯ-fse ci ŋu, ɯ-mɯntoʁ wɣrum, ɯ-taʁ kɯ-ɣɯrni kɤ-khra tu, ɯ-mɯntoʁ ɯ-rqhu nɯ wuma ʑo jaʁ cho rko. ɯ-mɯntoʁ pɯ-rom ɯ-qhu kɯ́nɤ ɯ-rqhu nɯ tu tɕe, ɯ-rɣi nɯ ku-mphɤr, ku-sɤsɯɣ ʑo ŋu, tɕe mɯ-pɯ́-wɣ-tɕɣaʁ mɤɕtʂa ɯ-rɣi mɤ-nɯɬoʁ. ɯ-mat thɯ-tɯt tɕe, ɯ-rɣi ndɯβ cho dɤn. ɯ-zrɤm wuma ʑo ngɯt, kɤ-phɯt ɴqa. tɤ-rɤku ŋgɯ tu-ɬoʁ mɤ-pe ma ɯ-sta ɴqa tɕe tɤ-rɤku mɤ-sɤpe. ɯ-jwaʁ cho ɯ-ru ra aɣɯmdoʁ. nɯŋa kɤ-mbi sna, nɯŋa ɲɯ́-wɣ-mbi tɕe ɯ-lu dɤn tu-ti-nɯ ɲɯ-ŋu. 
+\xv ɕɯrɴɢo nɯ sɯjno kɯ-wxti kɯ-jpumqa ci ŋu. ɯ-mɯntoʁ kɯnɤ kɯ-jaʁjɯ kɯ-wxti tsa ci tshaŋlaŋ taʁ tɤ-kɯ-ɕthɯz kɯ-fse ci ŋu, ɯ-mɯntoʁ wɣrum, ɯ-taʁ kɯ-ɣɯrni kɤ-khra tu, ɯ-mɯntoʁ ɯ-rqhu nɯ wuma ʑo jaʁ cho rko. ɯ-mɯntoʁ pɯ-rom ɯ-qhu kɯnɤ ɯ-rqhu nɯ tu tɕe, ɯ-rɣi nɯ ku-mphɤr, ku-sɤsɯɣ ʑo ŋu, tɕe mɯ-pɯ́-wɣ-tɕɣaʁ mɤɕtʂa ɯ-rɣi mɤ-nɯɬoʁ. ɯ-mat thɯ-tɯt tɕe, ɯ-rɣi ndɯβ cho dɤn. ɯ-zrɤm wuma ʑo ngɯt, kɤ-phɯt ɴqa. tɤ-rɤku ŋgɯ tu-ɬoʁ mɤ-pe ma ɯ-sta ɴqa tɕe tɤ-rɤku mɤ-sɤpe. ɯ-jwaʁ cho ɯ-ru ra aɣɯmdoʁ. nɯŋa kɤ-mbi sna, nɯŋa ɲɯ́-wɣ-mbi tɕe ɯ-lu dɤn tu-ti-nɯ ɲɯ-ŋu. 
 \xn 莨菪是粗壮的大草，花也很厚实，象朝上的铃铛。花是白色的，上面红色斑点，花萼又厚又硬。花凋谢了之后，花萼还在，包住种子，包得很紧，只有把它挤破种子才能出来。果实成熟后，种子细而多。根长得很结实，难以拔掉。长在庄稼地里不好，因为所占地面积宽，会影响庄稼。叶子和茎颜色一样。可以喂奶牛，据说奶牛吃了奶多。
 \dt 29/Dec/2011
 
@@ -60375,7 +60375,7 @@ da.lie 打猎
 \gn 蜜蜂 
 \hbf animal 
 \xv ɣʑo nɯ kɤntɕhɯ-tɯphu tu, ɯ-zga kɯ-tu ci tu, sɤtɕha ɣʑo kɤ-ti ci tu, ndzɯrnaʁ kɤ-ti ci tu, li nɯ ɣʑo ɕti, tɕe ɯ-zga kɯ-tu nɯ khro mɤ-wxti tɕe tɯ-khɤl kɯ-dɯdɤn ʑo ku-rɤʑi ɕti, ftɕar mɯntoʁ nɯ-ʁaʁ tɕe, nɯ-tɯ-mbɣom saχaʁ, tɕe ku-rɤzga-nɯ ŋu, tɕe khɤrka ri tu-ndzóʁ-nɯ tɕe, nɯ-zga ku-tshoʁ-nɯ ŋu tɕe tɯ-xpa tɕe zgo kɯ-fse nɯ kɯngɯsqi jamar ku-tshoʁ ɲɯ-cha, tɕe pjɯ́-wɣ-phɯt tɕe, ɕnɤcat tɯ-rpa jamar tu-ŋgrɤl tɕe ɣʑo nɯ ɯ-ku kɤ-mtɕoʁ ci ɯ-mthɤɣ kɯ-xtshɯm ci ɯ-xtu kɯ-wxti tsa ci ŋu, ɯ-ʁar kɯ-nɤmbju kɯ-mbɯ-mba ci ŋu ɯ-rɯmu tu, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, tɕeri sɤmtsɯɣ tɕe ɯ-mdzu nɯ ɯ-mphɯz ri ku-ndzoʁ ŋu, tɕe kɤ-kɯ-mtsɯɣ tɕe, ɯʑo ju-nɯɕe ŋu ri, ɯ-mdzu nɯ tɯ-ɕa ŋgɯ ku-raʁ tɕe ɯ-mphɯz ɯ-ntɕhɯr ɲɯ-nɯ-phɯt ŋu tɕe ɯʑo pjɯ-si ŋu tu-kɯ-ti ŋu. tɕe kɤ-kɯ-mtsɯɣ tɕe aɣɯtɯɣ tɕe tɯ-ɕa ra ɯ-kho kɯ-jom chɯ-z-nɯɣmbɤβ cha. ɯ-zga nɯ wuma ʑo chi, smɤn kɯ-sna ɲɯ-ŋu. sɤtɕha ɣʑo nɯ sɤtɕha ŋgɯ kɯ-spoʁ kɯ-tu nɯ tɕu ku-rɤʑi ɲɯ-ŋu, tɕe ɲɯ-dɤn. 
-\xn 蜂有几种，一种叫蜜蜂，另一种住在地洞里，还有一种叫马蜂，也是蜂的一种。蜜蜂不是很大，一个地方住着很多只。春天花开的时候，它们忙着酿蜜。它们在天花板上作巢，在那里酿蜜。一年可以产九十排蜂蜜，取下来时，至少都有七八斤。蜜蜂头部尖、腰部细、肚子大，翅膀很薄、有光泽、有纹路。有六只脚，蜇人，刺位于尾部。蜇人时，把刺插进人的皮肤后，自己飞走，但刺卡住在皮肤里，尾部的一块会留在刺上，据说蜜蜂会因而丧命。蜇后因为毒性大，皮肉上会起比较大的包。蜂蜜很甜，是一种好药。另一种蜂（sɤtɕha ɣʑo）成群住在地洞里。 
+\xn 蜂有几种，一种叫蜜蜂，另一种住在地洞里，还有一种叫马蜂，也是蜂的一种。蜜蜂不是很大，一个地方住着很多只。春天花开的时候，它们忙着酿蜜。它们在天花板上作巢，在那里酿蜜。一年可以产九十排蜂蜜，取下来时，至少都有七八斤。蜜蜂头部尖、腰部细、肚子大，翅膀很薄、有光泽、有纹路。有六只脚，蜇人，刺位于尾部。蜇人时，把刺插进人的皮肤后，自己飞走，但刺卡住在皮肤里，尾部的一块会留在刺上，据说蜜蜂会因而丧命。蜇后因为毒性大，皮肉上会起比较大的包。蜂蜜很甜，是一种好药。另一种蜂（{sɤtɕha ɣʑo}）成群住在地洞里。 
 \nqr
 \dt 29/Dec/2011
 
@@ -60441,7 +60441,7 @@ da.lie 打猎
 \hbf maison 
 \xv jɤɣɤt jɤ-ari-a
 \xn 我上了厕所
-\xv jɤɣɤt nɯ znde taʁ tɯ-mɢɯt kú-wɣ-sɤtsa tɕe ɯ-taʁ nɯ tɕu romɲa chɯ́-wɣ-lɤt, romɲa nɯ tɯ-mɢɯt cho pjɯ́-wɣ-sɯ-ɤqɤtʂha tɕe pjɯ́-wɣ-ta ra. romɲa ɯ-taʁ nɯ tɕu χɕaʁ chɯ́-wɣ-ta, tɕe nɯ ɯ-taʁ tɕe tɤ-lmɯz chɯ́-wɣ-ta, nɯ ɯ-taʁ tɕe thɤlwa chɯ́-wɣ-lɤt tɕe tɯ-mɢɯt ɯ-ɕnɤz ɯ-taʁ nɯ tɕu, koʑi komɤl tɯ-ldʑa ka kú-wɣ-lɤt, koʑi komɤl cho romɲa ni pjɯ-ɤnɯpɕɯ-pɕoʁ ɲɯ-ra. nɯ ɯ-taʁ nɯ tɕu jɤɣɤt laχtsɯ pjɯ́-wɣ-tshoʁ tɕe, tɯ-mɢɯt tɯ-ldza ɯ-taʁ nɯ tɕu jɤɣɤt laχtsɯ nɯ tɯ-ldʑa pjɯ-tu ra, nɯ ɯ-taʁ nɯ tɕu li koʑi komɤl pjɯ́-wɣ-tshoʁ, nɯ ɯ-taʁ nɯ tɕu, tɤsthoʁsi chɯ́-wɣ-lɤt tɕe tɤsthoʁsi nɯ tɯ-mɢɯt tú-wɣ-z-nɯjin tɕe pjɯ́-wɣ-ta, tɯ-ldʑa pjɯ-tu khɯ, ʁnɯ-ldʑa pɯ-tu kɯ́nɤ khɯ, tɕe jɤɣɤt laχtsɯ roŋri ɯ-taʁ chɯ́-wɣ-ta ra. nɯ ɯ-taʁ nɯ tɕu li romɲa tɤsthoʁsi cho pjɯ́-wɣ-sɯ-ɤqɤtʂha tɕe pjɯ́-wɣ-ta ra, nɯ ɯ-taʁ nɯ tɕu cupa chɯ́-wɣ-ta, tɕe thɤlwa chɯ́-wɣ-lɤt, tɕe pjɯ́-wɣ-ɣnda, tɕe khɤxtu ɲɯ-βze ŋu. tɕe jɤɣɤt laχtsɯ ɣɯ ɯ-kɯ-spoʁ tu tɕe, nɯ tɕu rorʁe ɲɯ́-wɣ-rʁe tɕe, ftɕar tɕe tɯ-ɣro tú-wɣ-sɤro ŋu, stonka tɕe tɤ-rɤku tú-wɣ-sɤro ŋu tɕe rasti kɯ́nɤ nɯ tɕu tú-wɣ-sɯɣrom khɯ. tɕe jɤɣɤt nɯ ŋkhorwapa ra ɣɯ nɯ-ɲɤm wuma phɤn. 
+\xv jɤɣɤt nɯ znde taʁ tɯ-mɢɯt kú-wɣ-sɤtsa tɕe ɯ-taʁ nɯ tɕu romɲa chɯ́-wɣ-lɤt, romɲa nɯ tɯ-mɢɯt cho pjɯ́-wɣ-sɯ-ɤqɤtʂha tɕe pjɯ́-wɣ-ta ra. romɲa ɯ-taʁ nɯ tɕu χɕaʁ chɯ́-wɣ-ta, tɕe nɯ ɯ-taʁ tɕe tɤ-lmɯz chɯ́-wɣ-ta, nɯ ɯ-taʁ tɕe thɤlwa chɯ́-wɣ-lɤt tɕe tɯ-mɢɯt ɯ-ɕnɤz ɯ-taʁ nɯ tɕu, koʑi komɤl tɯ-ldʑa ka kú-wɣ-lɤt, koʑi komɤl cho romɲa ni pjɯ-ɤnɯpɕɯ-pɕoʁ ɲɯ-ra. nɯ ɯ-taʁ nɯ tɕu jɤɣɤt laχtsɯ pjɯ́-wɣ-tshoʁ tɕe, tɯ-mɢɯt tɯ-ldza ɯ-taʁ nɯ tɕu jɤɣɤt laχtsɯ nɯ tɯ-ldʑa pjɯ-tu ra, nɯ ɯ-taʁ nɯ tɕu li koʑi komɤl pjɯ́-wɣ-tshoʁ, nɯ ɯ-taʁ nɯ tɕu, tɤsthoʁsi chɯ́-wɣ-lɤt tɕe tɤsthoʁsi nɯ tɯ-mɢɯt tú-wɣ-z-nɯjin tɕe pjɯ́-wɣ-ta, tɯ-ldʑa pjɯ-tu khɯ, ʁnɯ-ldʑa pɯ-tu kɯnɤ khɯ, tɕe jɤɣɤt laχtsɯ roŋri ɯ-taʁ chɯ́-wɣ-ta ra. nɯ ɯ-taʁ nɯ tɕu li romɲa tɤsthoʁsi cho pjɯ́-wɣ-sɯ-ɤqɤtʂha tɕe pjɯ́-wɣ-ta ra, nɯ ɯ-taʁ nɯ tɕu cupa chɯ́-wɣ-ta, tɕe thɤlwa chɯ́-wɣ-lɤt, tɕe pjɯ́-wɣ-ɣnda, tɕe khɤxtu ɲɯ-βze ŋu. tɕe jɤɣɤt laχtsɯ ɣɯ ɯ-kɯ-spoʁ tu tɕe, nɯ tɕu rorʁe ɲɯ́-wɣ-rʁe tɕe, ftɕar tɕe tɯ-ɣro tú-wɣ-sɤro ŋu, stonka tɕe tɤ-rɤku tú-wɣ-sɤro ŋu tɕe rasti kɯnɤ nɯ tɕu tú-wɣ-sɯɣrom khɯ. tɕe jɤɣɤt nɯ ŋkhorwapa ra ɣɯ nɯ-ɲɤm wuma phɤn. 
 \xn 在外墙上斜插小木梁，在上面交叉着放上横梁（作为走缘的地面）。在（横梁）上面铺一层劈好了的木料，再铺上麦草、豌豆草或者枝桠、然后铺上泥土。然后在小木梁的一头放上{koʑi}和{komɤl}各一条，{koʑi} {komɤl}和{romɲa}朝同一个方向。上面插上柱子，每一根{tɯ-mɢɯt}上面要有一根柱子。上面又插上{koʑi komɤl}，在上面就放上{tɤsthoʁsi}，{tɤ-sthoʁsi}要顺着{tɯ-mɢɯt}的方向装上去，可以是一根一根的，也可以是两根两根的，每根柱子上都要放。在那上面还要交叉着放{romɲa}，上面铺上石板，再铺上泥土，然后把泥土锤紧，也就成了房背。柱子上面有洞，在那里穿上横干，春天可以架饲草，秋天可以架粮食和圆根苗。走缘对农民用处很大。 
 \cf rɯjɤɣɤt
 \dt 02/Jan/2015
@@ -61252,8 +61252,8 @@ da.lie 打猎
 \ge rhododendron 
 \gn 羊角花 
 \hbf plante 
-\xv khɯjŋga nɯ ʁnɯ-tɯphu tu, sɤtɕha kɯ-mbɤr tu-kɯ-ɬoʁ ci tu, tɕe nɯ khɯjŋga rmi, khɯjŋga nɯ si mɤ-mbro, ɯ-ru mɤ-astu, ɯ-rtaʁ dɤn, ɯ-jwaʁ nɯ ɯ-ʁɤri nɯ ldʑaŋnaʁ ŋu, ɯ-qhu nɯ kɯ-wɣrɤɣrum tsa ŋu, ɯ-jwaʁ nɯ kɯ-ɤrtɯm ɯ-ŋgɯz kɯ-rɲɟi tsa ŋu. ɯ-mɯntoʁ nɯ kɯ-wɣrum ʁɟa tu, kɯ-wɣrum ɯ-ŋgɯz kɯ-ɤɣɯrnɯɕɯr tu, ɯ-mɯntoʁ nɯ kɯngɯsqi jamar tɯtɯrca ɲɯ-lɤt ŋu, wuma ʑo mpɕɤr. phaʁzla jamar ɲɯ-rɯmɯntoʁ ŋu. mɤʑɯ tɯ-tɯphu tu tɕe, zgo ku wuma ʑo kɯ-ɣɤndʐo tu-ɬoʁ ŋu, ɯ-ru nɯ khɯjŋga cho ɲɯ-naχtɕɯɣ, ɯ-jwaʁ ɯ-ʁɤri nɯ khɯjŋga ɣɯ cho naχtɕɯɣ, tɕeri ɯ-jwaʁ ɯ-qhu chu nɯ kɯ-qarŋe tɯ-ɣndʑɤr kɯ-fse tu, ɲɯ́-wɣ-nɤmɤle tɕe, pjɯ-kɯ-ŋgra ʑo tu. ɯ-mɯntoʁ khɯjŋga ɣɯ sɤ́znɤ nɤrko ri ndɯβ. nɯnɯ sŋo rmi. ɯ-ru nɯnɯ mɤ-ngɯt ma ndoʁ, nɯ ma mɤ-sna ri kɤ-nɯ-βlɯ pe. 
-\xn 羊角花有两种，一种生长在海拔比较低的地方，叫作khɯjŋga，树干不高，不直，枝桠多，叶子正面是深绿色的，后面带有点白色，叶子是椭圆形的，花有的是纯白的，也有的是粉红色的。花九朵十朵同时开，很美。一般五月份开花。另一种生长在高山比较寒冷的地方，树干和khɯjŋga的一样，叶子正面也是和khɯjŋga的一样，但叶子背面有黄色的粉，一碰就会散落。花比和khɯjŋga的结实，但小一些。这一种叫 sŋo 。树干不结实因为很脆，虽然不能用来制造什么东西，但很好烧。
+\xv khɯjŋga nɯ ʁnɯ-tɯphu tu, sɤtɕha kɯ-mbɤr tu-kɯ-ɬoʁ ci tu, tɕe nɯ khɯjŋga rmi, khɯjŋga nɯ si mɤ-mbro, ɯ-ru mɤ-astu, ɯ-rtaʁ dɤn, ɯ-jwaʁ nɯ ɯ-ʁɤri nɯ ldʑaŋnaʁ ŋu, ɯ-qhu nɯ kɯ-wɣrɤɣrum tsa ŋu, ɯ-jwaʁ nɯ kɯ-ɤrtɯm ɯ-ŋgɯz kɯ-rɲɟi tsa ŋu. ɯ-mɯntoʁ nɯ kɯ-wɣrum ʁɟa tu, kɯ-wɣrum ɯ-ŋgɯz kɯ-ɤɣɯrnɯɕɯr tu, ɯ-mɯntoʁ nɯ kɯngɯsqi jamar tɯtɯrca ɲɯ-lɤt ŋu, wuma ʑo mpɕɤr. phaʁzla jamar ɲɯ-rɯmɯntoʁ ŋu. mɤʑɯ tɯ-tɯphu tu tɕe, zgo ku wuma ʑo kɯ-ɣɤndʐo tu-ɬoʁ ŋu, ɯ-ru nɯ khɯjŋga cho ɲɯ-naχtɕɯɣ, ɯ-jwaʁ ɯ-ʁɤri nɯ khɯjŋga ɣɯ cho naχtɕɯɣ, tɕeri ɯ-jwaʁ ɯ-qhu chu nɯ kɯ-qarŋe tɯ-ɣndʑɤr kɯ-fse tu, ɲɯ́-wɣ-nɤmɤle tɕe, pjɯ-kɯ-ŋgra ʑo tu. ɯ-mɯntoʁ khɯjŋga ɣɯ sɤznɤ nɤrko ri ndɯβ. nɯnɯ sŋo rmi. ɯ-ru nɯnɯ mɤ-ngɯt ma ndoʁ, nɯ ma mɤ-sna ri kɤ-nɯ-βlɯ pe. 
+\xn 羊角花有两种，一种生长在海拔比较低的地方，叫作{khɯjŋga}，树干不高，不直，枝桠多，叶子正面是深绿色的，后面带有点白色，叶子是椭圆形的，花有的是纯白的，也有的是粉红色的。花九朵十朵同时开，很美。一般五月份开花。另一种生长在高山比较寒冷的地方，树干和{khɯjŋga}的一样，叶子正面也是和{khɯjŋga}的一样，但叶子背面有黄色的粉，一碰就会散落。花比和{khɯjŋga}的结实，但小一些。这一种叫{sŋo} 。树干不结实因为很脆，虽然不能用来制造什么东西，但很好烧。
 \dt 30/Dec/2011
 
 \lx ^khɯlu
@@ -61450,7 +61450,7 @@ da.lie 打猎
 \gn 大蒜 
 \hbf plante 
 \xv kɯmɕku nɯ tɯ-ji ŋgɯ lu-kɤ-nɯ-ji ci ŋu, ɯ-qa nɯ ɯ-tɯm rmi, ɯ-tɯm ɣɯ ɯ-ndzoʁ tu. ɯ-jwaʁ ma ɯ-ru me, ɯ-jwaʁ nɯ kɯ-pɣi tsa ŋu, kɯ-tɕɤr kɯ-rɲɟi tsa ŋu, ɯ-tho tu ri ɯ-mɯntoʁ me, ɯ-qa nɯ ɕku ɲɯ-βze ŋu, ɯ-zrɤm dɤn tɕe wɣrum, ɯ-qa nɯ-aβzu tɕe, tɯ-ndzoʁ tɯ-ndzoʁ ɯ-spjɯŋ taʁ ku-fskɤr ŋu, ɯ-pɕi ɯ-rqhu kɤntɕhɯ-tɤlɤβ kɯ tu-oluj ŋu, ɯ-ndzoʁ roŋri nɯ li ɯ-rqhu tu, ɣɯrni. thɯ-tɯt ɯ-jija nɯ ɲɯ-mba ŋu. ɯ-ndzoʁ tsuku kɯβde ma me, tsuku ɕnɤcɤt jamar kɯ-tu tu, tɕeri ɯ-ndzoʁ tɤ-wxti tɕe rkɯn, ɯ-ndzoʁ tɤ-xtɕi tɕe dɤn. tsuku tɯ-rdoʁ ma kɯ-me tu, tɕe nɯ ɕku phɤri rmi. 
-\xn 大蒜是是自己种在地里的（农作物）。根叫蒜头，蒜头有几个蒜瓣。只有叶子没有茎，叶子带有灰色，又窄又长，有花梗但是不开花，在根部结蒜头，是一瓣一瓣地围着主心干而长的，外面有很多层皮裹着，每个蒜瓣有自己的皮，是红色的。随着大蒜的成熟，外层的皮变得越来越薄。有的只有4个蒜瓣，有的有七八个。蒜瓣越大就越少，越小就越多。有的只有一个，这种叫“ɕku phɤri”（对面的葱）。
+\xn 大蒜是是自己种在地里的（农作物）。根叫蒜头，蒜头有几个蒜瓣。只有叶子没有茎，叶子带有灰色，又窄又长，有花梗但是不开花，在根部结蒜头，是一瓣一瓣地围着主心干而长的，外面有很多层皮裹着，每个蒜瓣有自己的皮，是红色的。随着大蒜的成熟，外层的皮变得越来越薄。有的只有4个蒜瓣，有的有七八个。蒜瓣越大就越少，越小就越多。有的只有一个，这种叫{ɕku phɤri}（对面的葱）。
 \dt 30/Apr/2014
 
 \lx ^kɯmdza
@@ -61524,7 +61524,7 @@ da.lie 打猎
 \hbf maison 
 \et la.btsas
 \xv lɤftsɤz nɯ khɤxtɤmbro ɣɯ ɯ-qhu znde tu-kɯ-ɣi ɣɯ akɯ andi ɯ-χcɤl li znde kɯ-xtɕi ci kɯ-ɤβʑɯrdu, kha ɯ-znde sɤznɤ tɤ-ʁaʁ jamar tu-ro ra, znde cho ɯ-tɯ-jaʁ kɯ-naχtɕɯɣ thɯ-kɤ-βzu ci ŋu, ɯ-χcɤl kɯ-spoʁ ŋu, ɯ-kɤχcɤl zɯ qapi tú-wɣ-rmbɯ ŋu, ɯ-χcɤl nɯ tɕu tshɤχɕaŋ, rloŋrta, nɯ ra pjɯ́-wɣ-sɤtsa ŋu, kɯrɯ kha ɯ-lɤftsɤz kɯ-me me. 
-\xn {lɤftsɤz}是房背墙顶上左右两边的中间再修一堵和外墙一样厚的四方形小墙，中间有小洞，顶上要堆上白石头，在中间插上tshɤχɕaŋ、风旗等。所有藏房都有lɤftsɤs。 
+\xn {lɤftsɤz}是房背墙顶上左右两边的中间再修一堵和外墙一样厚的四方形小墙，中间有小洞，顶上要堆上白石头，在中间插上{tshɤχɕaŋ}、风旗等。所有藏房都有{lɤftsɤz}。 
 \nq x
 \dt 19/May/2014
 
@@ -61724,7 +61724,7 @@ da.lie 打猎
 \gn 麻袋 
 \hbf objet traditionel 
 \xv lʁa nɯ tasa thɯ-kɤ-βzu tɤ-fkɯm ŋu, tasa kɤ́-wɣ-phɯt tɕe khɤxtu zɯ pjɯ́-wɣ-z-nɯɣur tɕe ɲɯ́-wɣ-ta, tɤ-rom tɕe ɯ-rɣi nɯ pjɯ́-wɣ-kra tɕe ɯ-pɯ tú-wɣ-pa tɕe ɯ-ru tú-wɣ-xtɕɤr tɕe ɲɯ́-wɣ-ta, ftɕar tɕe tɯmɯ kɤ-lɤt tɕe, ɯ-thoʁ pjɯ́-wɣ-sɤʑɯrja tɕe kɤ-la ʑo tɕe chɯ́-wɣ-ʑɴɢu tɕe tɯ-zboʁ tɯ-zboʁ tú-wɣ-xtɕɤr, tɕe tɤ-zbaʁ tɕe lú-wɣ-pɣo, lú-wɣ-rɯm, tɕe tɤ-βri tú-wɣ-βzu, tɤ-βri nɯ kú-wɣ-sqa, ɯ-ŋgɯ thɤfkɤlɤɣi lú-wɣ-lɤt tɕe ɲɯ́-wɣ-sɯ-ɤla. thɯ́-wɣ-tɕɤt nɯ-afɕu tɕe ɲɯ́-wɣ-χtɕi, ɲɯ́-wɣ-sɯ-wɣrum ʑo tɕe ɲɯ́-wɣ-ɕkho, nɯ a-tɤ-zbaʁ tɕe pjɯ́-wɣ-xtsɯ ra, ɲɯ́-wɣ-ɣɤmpɯ ʑo tɕe kú-wɣ-sɤrɤt tɕe kɤ-taʁ kú-wɣ-thɯ. kɤ-taʁ nɯ ŋgɤrom tu, tɯ-taχte tu, tɯ-taχte nɯ kɯ kɯ-mna kɤ-sɯpa ŋu, ɯ-spa ɴqa, kɤ-taʁ ɴqa, tɕeri ngɯt, ŋgɤrom nɯ ɯ-spa mbat, kɤ-taʁ mbat, tɕeri kɤ-ntɕhoz tɕe mɤ-ngɯt, kɤ-taʁ thɯ-jɤɣ tɕe, li nɯ ɣɯ-χtɕi ra tɤ-zbaʁ tɕe ɣɯ-xtsɯ ra, pɯ́-wɣ-xtsɯ kóʁmɯz nɤ ɲɯ́-wɣ-qrɯ tɕe, tɕe chɯ́-wɣ-tʂɯβ, tɕe kɯ-ɤβʑɯrdu kɯ-rɲɟi tsa ɲɯ́-wɣ-βzu, ɯ-qa χchoʁe nɯ tɕu ɯ-jndɯz kú-wɣ-tshoʁ ra, ɯ-mŋu zɯ tɤ-fsɤri maʁ nɤ qase ɯ-sɤ-xtɕɤr kú-wɣ-tshoʁ ra, tɕe nɯ kóʁmɯz nɤ lʁa kɤ-ntɕhoz tu-βze ŋu. nɯnɯ kɯrɯ ra ji-tɯjpu ɯ-sɤ-rku ŋu, tɤ-fkɯm lʁa kɯ-maʁ ʁnɯ-tɯ-phɯ tu, tɯ-ndʐi kɯ thɯ-kɤ-βzu ci tu tɕe, nɯ zgrawa rmi, smɤɣ kɯ thɯ-kɤ-βzu ci tu tɕe, nɯnɯ zɟi rmi. 
-\xn 麻袋是用大麻做成的口袋。大麻割了以后放在屋顶上，让它受霜。干了以后，把种子抖掉后收藏好，再把麻杆捆起来放好。到春天下雨的时候，把麻杆摆在地面上，让它浸泡，然后剥下麻皮，一把一把地捆在一起。晾干后先用手搓成细线，用吊干搓紧，再反搓成一绞一绞，然后再煮。里面要放比较多的灶灰，让它煮开一段时间才取出来。冷却后再洗白凉干，然后锤打到变柔和为止，才把线卸下来，再牵在牵杆上（准备织）。织布的方式有两种，单巴子和斜纹子。斜纹子是比较优质的，用的材料多一些，织起来难一些，但是比较结实。单巴子材料用得不多，织起来容易一些，但用起来不结实。织完后，又要洗，干了以后还要锤打，然后再裁下来，缝好，做成长方形的。在底部的左右两边要装饰上流苏，在口部要扎上麻绳或者皮绳用来封口。这样才能使用麻袋。那是我们藏民装粮食的口袋。除了麻袋，还有两种口袋，一种是用皮做成的，叫zgrawa，另一种是用羊毛做成的，叫zɟi。
+\xn 麻袋是用大麻做成的口袋。大麻割了以后放在屋顶上，让它受霜。干了以后，把种子抖掉后收藏好，再把麻杆捆起来放好。到春天下雨的时候，把麻杆摆在地面上，让它浸泡，然后剥下麻皮，一把一把地捆在一起。晾干后先用手搓成细线，用吊干搓紧，再反搓成一绞一绞，然后再煮。里面要放比较多的灶灰，让它煮开一段时间才取出来。冷却后再洗白凉干，然后锤打到变柔和为止，才把线卸下来，再牵在牵杆上（准备织）。织布的方式有两种，单巴子和斜纹子。斜纹子是比较优质的，用的材料多一些，织起来难一些，但是比较结实。单巴子材料用得不多，织起来容易一些，但用起来不结实。织完后，又要洗，干了以后还要锤打，然后再裁下来，缝好，做成长方形的。在底部的左右两边要装饰上流苏，在口部要扎上麻绳或者皮绳用来封口。这样才能使用麻袋。那是我们藏民装粮食的口袋。除了麻袋，还有两种口袋，一种是用皮做成的，叫{zgrawa}，另一种是用羊毛做成的，叫{zɟi}。
 \dt 19/Feb/2014
 
 \lx $ltɕhɯɣltɕhɯɣ
@@ -61928,7 +61928,7 @@ da.lie 打猎
 \hbf 1153 
 \xv mɤkɯftshi tú-wɣ-sɯ-ndza-a pɯ-ɕti
 \xn 他逼我吃
-\xv mɯ-pɯ-kɯ-nɯ-cha kɯ́nɤ, mɤkɯftshi tú-wɣ-z-nɤma kɯ-ra ɕti
+\xv mɯ-pɯ-kɯ-nɯ-cha kɯnɤ, mɤkɯftshi tú-wɣ-z-nɤma kɯ-ra ɕti
 \xn 虽然不能做，但是还是被迫做
 \xv tɤ-fka-a ɕti ri, mɤkɯftshi ʑo tɤ-ndza-t-a pɯ-ra
 \xn 我饱了，但是被迫吃了
@@ -62163,7 +62163,7 @@ da.lie 打猎
 \ge puce 
 \gn 跳蚤 
 \hbf animal 
-\xv mdzadi wuma kɯ-sɤndza ɲɯ-ŋu sɤɣdɯɣ ŋotɕu χtɕɯrɯpa ku-kɯ-rŋgɯ kɯ́nɤ tɯ-phe ju-zɣɯt ɕti
+\xv mdzadi wuma kɯ-sɤndza ɲɯ-ŋu sɤɣdɯɣ ŋotɕu χtɕɯrɯpa ku-kɯ-rŋgɯ kɯnɤ tɯ-phe ju-zɣɯt ɕti
 \xn 跳蚤咬人很不舒服，你在哪里睡觉，它都会跟着你的
 \dt 01/Jan/2012
 
@@ -62321,7 +62321,7 @@ da.lie 打猎
 \ge argousier 
 \gn 沙棘 
 \hbf plante 
-\xv mtɕhi nɯ zgo ku aʁɤndɯndɤt tu-ɬoʁ cha, ɯ-ru mɤ-astu, kɤ-jʁɯ-jʁu ŋu, ɯ-rtaʁ dɤn, ɯ-mdzu wuma ʑo mtɕoʁ, jpum. ɯ-ru nɯ kɯ-ɲaʁ ŋu. ɯ-rqhu jaʁ, ɯ-si nɯ kɤ-ɣɯŋgɯŋgɯ kɯ-fse ŋu, ɯ-rtaʁ ɯ-rqhu nɯ mpɕu, ɯ-si nɯ kɤ-βlɯ kɯ́nɤ mɤ-sna, ɯ-jwaʁ nɯ kɯ-pɣi tsa tɕe kɯ-ndɯ-ndɯβ, pɣɤmuj ɯ-tshɯɣa fse. ɯ-mɯntoʁ kɤ-mto me, ɯ-mat kɤ-tshoʁ ɕɯmɯma tɕe, ldʑaŋsɤr ŋu, thɯ-tɯt wuma ʑo qarŋe, ɯ-tɯ-tɕur saχaʁ ri mɤ-sɤndɤɣ. 
+\xv mtɕhi nɯ zgo ku aʁɤndɯndɤt tu-ɬoʁ cha, ɯ-ru mɤ-astu, kɤ-jʁɯ-jʁu ŋu, ɯ-rtaʁ dɤn, ɯ-mdzu wuma ʑo mtɕoʁ, jpum. ɯ-ru nɯ kɯ-ɲaʁ ŋu. ɯ-rqhu jaʁ, ɯ-si nɯ kɤ-ɣɯŋgɯŋgɯ kɯ-fse ŋu, ɯ-rtaʁ ɯ-rqhu nɯ mpɕu, ɯ-si nɯ kɤ-βlɯ kɯnɤ mɤ-sna, ɯ-jwaʁ nɯ kɯ-pɣi tsa tɕe kɯ-ndɯ-ndɯβ, pɣɤmuj ɯ-tshɯɣa fse. ɯ-mɯntoʁ kɤ-mto me, ɯ-mat kɤ-tshoʁ ɕɯmɯma tɕe, ldʑaŋsɤr ŋu, thɯ-tɯt wuma ʑo qarŋe, ɯ-tɯ-tɕur saχaʁ ri mɤ-sɤndɤɣ. 
 \xn 沙棘在高山上到处生长，树干不直，弯弯曲曲的，枝桠多，刺又锋利又粗。树干是黑色，树皮很厚。树木是由几一环组成的，枝桠的树皮是光滑的。木质连烧火都不好。叶子是灰色的，很小，形状象羽毛。看不见花，果实才开始结时是浅绿色，成熟厚是大黄色。吃起来很酸，但没有毒性。
 \dt 08/Jan/2012
 
@@ -62583,7 +62583,7 @@ da.lie 打猎
 \ge guêpe 
 \gn 马蜂 
 \hbf animal 
-\xv ndzɯrnaʁ nɯ ɯʑo mɯ́j-wxti ri, ku-kɯ-mtsɯɣ tɕe wuma ɲɯ-ɤɣɯtɯɣ tɕe ʁʑɯnɯ kɯ tɤ-ŋkhɯt tɤ-kɤ-lɤt fse tu-kɯ-ti ɲɯ-ŋu ma kɤ-kɯ-mtsɯɣ tɕe pjɯ-kɯ-tʂaβ ɲɯ-ŋgrɤl, laʁnɯ-sŋi ku-kɯ-ɕɯ-rŋgɯ ɲɯ-ngrɤl, tɕe ɯʑo sɯku ri ku-ndzoʁ tɕe ɯ-kho kɯ-wxtɯ-wxti tu-nɯ-βze ɲɯ-cha. ɯ-kho nɯ kɤ-rtɯ-rtɯm ɲɯ-ŋu. ɯ-spa nɯ tɕhi ŋu ma ku-nɤmɯma tɕe kɯ-mnɯ-mnu kɯ-mpɯ-mpɯ ci ɲɯ-ŋu, ɯ-ŋgɯ tɯmɯ cho qale ku-ɕe mɯ́j-cha, ɯ-kɯ-spoʁ pa pjɯ-ru ɲɯ-ŋu tɕe ɯʑo ɯ-kɯm ɲɯ-ŋu. kú-wɣ-nɯrca tɕe ɲɯ-kɯ-mtsɯɣ ma nɯmáʁnɯ mɯ́j-kɯ-mtsɯɣ. 
+\xv ndzɯrnaʁ nɯ ɯʑo mɯ́j-wxti ri, ku-kɯ-mtsɯɣ tɕe wuma ɲɯ-ɤɣɯtɯɣ tɕe ʁʑɯnɯ kɯ tɤ-ŋkhɯt tɤ-kɤ-lɤt fse tu-kɯ-ti ɲɯ-ŋu ma kɤ-kɯ-mtsɯɣ tɕe pjɯ-kɯ-tʂaβ ɲɯ-ŋgrɤl, laʁnɯ-sŋi ku-kɯ-ɕɯ-rŋgɯ ɲɯ-ngrɤl, tɕe ɯʑo sɯku ri ku-ndzoʁ tɕe ɯ-kho kɯ-wxtɯ-wxti tu-nɯ-βze ɲɯ-cha. ɯ-kho nɯ kɤ-rtɯ-rtɯm ɲɯ-ŋu. ɯ-spa nɯ tɕhi ŋu ma ku-nɤmɯma tɕe kɯ-mnɯ-mnu kɯ-mpɯ-mpɯ ci ɲɯ-ŋu, ɯ-ŋgɯ tɯmɯ cho qale ku-ɕe mɯ́j-cha, ɯ-kɯ-spoʁ pa pjɯ-ru ɲɯ-ŋu tɕe ɯʑo ɯ-kɯm ɲɯ-ŋu. kú-wɣ-nɯrca tɕe ɲɯ-kɯ-mtsɯɣ ma nɯ maʁ nɤ mɯ́j-kɯ-mtsɯɣ. 
 \xn 马蜂虽小，蜇人时毒性特别大，据说同被青年人打了一拳一样难受，会晕倒，一两天不能起床。它栖息在树上，可以作很大的窝，不知是什么材料作成的，摸起来很柔和、很软，风雨透不进。洞口朝下，是蜂窝的门。有人骚扰时就会蜇，不然不会轻易蜇人。 
 \nqr
 \dt 09/Jan/2012
@@ -62949,8 +62949,8 @@ da.lie 打猎
 \ge Rumex crispus 
 \gn 皱叶酸模 
 \hbf plante 
-\xv ɴɢɤjom nɯ ruŋgu kɯ-mbro tsa tu-ɬoʁ ŋu, ɯ-ru nɯ qhɤjmbaʁ ɯ-ru cho naχtɕɯɣ, ɯ-jwaʁ nɯ qhɤjmbaʁ ɯ-jwaʁ sɤ́znɤ khro ʑo ndɯβ, ɯ-rme kɯ-fse kɯ-xtɕɯ-xtɕi tu, ɯ-mɯntoʁ kɯ-wɣrum ŋu, kɯ-ndɯ-ndɯβ ʑo ŋu, ɯ-ru nɯ tú-wɣ-ndza tɕe wuma ʑo tɕur. zgo ku pa pɕoʁ ra maka mɤ-ɬoʁ. 
-\xn ɴɢɤjom 生长在比较高的草山上。茎和qhɤjmbaʁ的一样，叶子比qhɤjmbaʁ的叶子小得多，有点细毛。花是白色的，细小。茎吃起来很酸。山下根本不能生长。
+\xv ɴɢɤjom nɯ ruŋgu kɯ-mbro tsa tu-ɬoʁ ŋu, ɯ-ru nɯ qhɤjmbaʁ ɯ-ru cho naχtɕɯɣ, ɯ-jwaʁ nɯ qhɤjmbaʁ ɯ-jwaʁ sɤznɤ khro ʑo ndɯβ, ɯ-rme kɯ-fse kɯ-xtɕɯ-xtɕi tu, ɯ-mɯntoʁ kɯ-wɣrum ŋu, kɯ-ndɯ-ndɯβ ʑo ŋu, ɯ-ru nɯ tú-wɣ-ndza tɕe wuma ʑo tɕur. zgo ku pa pɕoʁ ra maka mɤ-ɬoʁ. 
+\xn 酸模生长在比较高的草山上。茎和{qhɤjmbaʁ}的一样，叶子比{qhɤjmbaʁ}的叶子小得多，有点细毛。花是白色的，细小。茎吃起来很酸。山下根本不能生长。
 \dt 09/Jan/2012
 
 \lx $ɴɢiɤβɴɢiɤβ
@@ -62996,7 +62996,7 @@ da.lie 打猎
 \gn 灌木的一种 
 \hbf plante 
 \xv ɴɢolo nɯ si kɯ-mbɤr tsa ci ŋu. ɯ-ru ɯ-pɕi nɯ ra kɯ-pɣi ci ŋu. ɯ-mdzu kɯ-rɲɟi kɯ-mtɕoʁ tɯ-khɤl ʑo χsɯ-ldʑa ntsɯ ku-ndzoʁ ŋu. ɯ-rtaʁ taʁ ra kɯnɤ ɯ-mdzu tu. ɯ-jwaʁ ɯ-tshɯɣa nɯ babɯ ɯ-jwaʁ cho naχtɕɯɣ. ɯ-mɯntoʁ tshaŋlaŋ kɯ-fse ɲɯ-βze ŋu, kɯ-wɣrum ɯ-rkɯ zɯ kɯ-ɣɯrni tu-fskɤr ŋu. kɯ-ɤrqhi jɯ-kɯ-ru mɤ-saχsɤl jɯ-kɯ-ɤrmbat tɕe, ɯ-mɯntoʁ tú-wɣ-rtoʁ tɕe mpɕɤr. ɯ-jɯ tu tɕe, pjɯ-ɴqoʁ tu-fse ŋu. ɯ-mat thɯ-aβzu tɕe, arŋi tɕe ʂɣɤl-ʂɣɤl ʑo pa, ɯ-ŋgɯ ɯ-rdoʁ ra kɯnɤ saχsɤl. ɯ-mat ɯ-βri ɯ-rme kɯ-xtɯt tsa tu. tú-wɣ-ndza tɕe, ɯ-tɯ-tɕur saχaʁ. tɤ-potso ra kɤ-ɤnɤɣro kɯ-fse ma kɤ-ndza mɤ-sna. ɯ-mnɯ kɯ-ɕɤɣ tɤ-kɯ-ɬoʁ nɯ ɣɯrni ɯ-mdzu tu ri ɯ-rqhu pjɯ́-wɣ-qaʁ tɕe tú-wɣ-ndza tɕe mpɯ, kɯ-xtɕɯ-xtɕi chi. tɤmdzɤqaqa rmi. 
-\xn {ɴɢolo}是一种矮小的树，树皮是灰色的，刺又长又锋利，三根长在一起。枝桠上也有刺。叶子的形状和babɯ的叶子一样。花象铃铛一样，花瓣是白色的，边上镶有红色。远处看不出，走近了看就觉得花很美。花有花梗，是吊着的。果实结了以后，看起来很透明，连里面的种子也看得见。果实外面也长有短毛。吃起来很酸。除了小孩子吃着玩以外就不能吃。发出的新苗是红色的，虽然有刺，但剥了皮吃起来很嫩，有点甜。这种新苗叫tɤ-mdzɤqaqa。
+\xn {ɴɢolo}是一种矮小的树，树皮是灰色的，刺又长又锋利，三根长在一起。枝桠上也有刺。叶子的形状和{babɯ}的叶子一样。花象铃铛一样，花瓣是白色的，边上镶有红色。远处看不出，走近了看就觉得花很美。花有花梗，是吊着的。果实结了以后，看起来很透明，连里面的种子也看得见。果实外面也长有短毛。吃起来很酸。除了小孩子吃着玩以外就不能吃。发出的新苗是红色的，虽然有刺，但剥了皮吃起来很嫩，有点甜。这种新苗叫{tɤmdzɤqaqa}。
 \dt 15/Jan/2014
 
 \lx ^ɴɢolophɯcɯ
@@ -63279,7 +63279,7 @@ da.lie 打猎
 \ge une plante 
 \gn 植物的一种 
 \hbf plante 
-\xv phɤri kɯnɤwu nɯ kha ɯ-rkɯ sɯjno kɯ-dɤn kɯ-fse fsapaʁ ɯ-ɣli kɯ-dɤn kɯ-fse ra tu-ɬoʁ ŋu. tɯrme tɯ-fsu jamar tu-βze cha. ɯ-jwaʁ nɯ ɕɤɣ ɯ-jwaʁ ɯ-tshɯɣa fse ri nɯ sɤz rɟum, ɯ-ru nɯ khro mɤ-jpum, ɯ-ru kɯ-zɯ-zri tɤ-ɬoʁ tɕe, ɯ-taʁ ɯ-mɯntoʁ ku-ndzoʁ ŋu, tɕe ɯ-mɯntoʁ ɯ-tshɯɣa nɯ stoʁ ɯ-mɯntoʁ fse, ɯ-mdoʁ nɯ nɤmkha ɯ-mdoʁ kɤ-ɲaʁndzɯm tsa ŋu. ɯʑo sɯjno nɯ tɯ-ɕɣa ɯ-smɤn kɤ-βʑu ɲɯ-khɯ khi, kɯ-ɕɯŋgɯ kɯ-wxti ra kɯ phɤri kɯnɤwu tu-sɤrmi-nɯ pɯ-ŋu. kɤ-ndza mɤ-sna. fsapaʁ ndza kɯ́nɤ mɤ-sna 
+\xv phɤri kɯnɤwu nɯ kha ɯ-rkɯ sɯjno kɯ-dɤn kɯ-fse fsapaʁ ɯ-ɣli kɯ-dɤn kɯ-fse ra tu-ɬoʁ ŋu. tɯrme tɯ-fsu jamar tu-βze cha. ɯ-jwaʁ nɯ ɕɤɣ ɯ-jwaʁ ɯ-tshɯɣa fse ri nɯ sɤz rɟum, ɯ-ru nɯ khro mɤ-jpum, ɯ-ru kɯ-zɯ-zri tɤ-ɬoʁ tɕe, ɯ-taʁ ɯ-mɯntoʁ ku-ndzoʁ ŋu, tɕe ɯ-mɯntoʁ ɯ-tshɯɣa nɯ stoʁ ɯ-mɯntoʁ fse, ɯ-mdoʁ nɯ nɤmkha ɯ-mdoʁ kɤ-ɲaʁndzɯm tsa ŋu. ɯʑo sɯjno nɯ tɯ-ɕɣa ɯ-smɤn kɤ-βʑu ɲɯ-khɯ khi, kɯ-ɕɯŋgɯ kɯ-wxti ra kɯ phɤri kɯnɤwu tu-sɤrmi-nɯ pɯ-ŋu. kɤ-ndza mɤ-sna. fsapaʁ ndza kɯnɤ mɤ-sna 
 \xn {phɤri kɯnɤwu} 是长在房子周围，草多、牲畜粪多的地方。可以长到人的高度。叶子形状象柏树的叶子，但宽一些，茎不粗，茎长得长了，就在上面开花。花的形状象胡豆的花，是深蓝色的。据说这种草可以作成牙痛的药。以前老人们称它是phɤri kɯnɤwu（为对面哭的意思）。不能吃，连牲畜都不能吃。
 \dt 06/May/2014
 
@@ -63505,7 +63505,7 @@ da.lie 打猎
 \gn 熊 
 \hbf animal 
 \xv pri nɯ χsɯ-tɯphu tu, ndzɤpri kɯ-rmi ci tu, prɤɲaʁ kɯ-rmi ci tu, prɤftsa kɯ-rmi ci tu, ndzɤpri nɯ pɤjmu ruŋgɯ nɯ tɕu tu ɲɯ-ngrɤl, sɤ-ndza ɲɯ-ŋgrɤl, ɯ-mdoʁ nɯ kɯ-pɣi kɯ-ɤɣɯrnɯɕɯr ɲɯ-ŋu, ɯ-mɤlɤjaʁ nɯ prɤɲaʁ cho kɯ-naχtɕɯɣ ɕti, qrorni cho sɯmat tu-ndze ɲɯ-ŋgrɤl. prɤɲaʁ nɯ kɯ-wxti ŋu, tɯ-ji ŋgɯ kɯ-nɤru ju-ɣi ŋgrɤl, jima stoʁ ndze ŋgrɤl, tú-wɣ-nɤrʁaʁ tɕe tɯ-phe jɤ-armbat tɕe χsɯ-mɢla jamar kɯ-tu tɕe tu-ndzur ɲɯ-ŋgrɤl, tɕe tu-kɯ-mtsɯɣ tɤ-ɣɯɣu ŋgrɤl. kɤ-nɯsɯku wuma rkaŋ, ɕkrɤz ɯ-mat tu-ndze tɕe pjɯ-χtsɤβ ŋgrɤl ɕti. ɯʑo nɯ kɯ-ɲaʁ ŋu, ɯ-ro χcɤl zɯ kɯ-wɣrum tɯ-snaʁ tu, ɯ-mtɕhi amtɕoʁ tsa. ɯ-mɤlɤjaʁ tɯrme ɣɯ tsa fse. prɤftsa kɯ-xtɕi tsa ŋu, prɤɲaʁ cho naχtɕɯɣ tsa, sɤ-ndza tu-kɯ-ti ɲɯ-ŋu. 
-\xn 熊有三种，一种叫马熊、一种叫狗熊、另一种叫prɤftsa。马熊一般生活在贝母山上，会吃人，颜色是灰里带红的，四肢和狗熊的一样，吃红蚂蚁和树果。狗熊很大，经常来到田地里来偷吃粮食，吃玉米和胡豆。捕猎它的时候，相隔距离只有三步的时候它就会站立起来，准备咬人。善于爬树，吃青冈树的果实的时候还要把（树的枝桠）搓揉起来。身子是黑色的，在胸部中间有白毛，嘴巴有点尖。四只脚和人的一样。 prɤftsa长得比较小，有点象狗熊，据说吃人。 
+\xn 熊有三种，一种叫马熊、一种叫狗熊、另一种叫{prɤftsa}。马熊一般生活在贝母山上，会吃人，颜色是灰里带红的，四肢和狗熊的一样，吃红蚂蚁和树果。狗熊很大，经常来到田地里来偷吃粮食，吃玉米和胡豆。捕猎它的时候，相隔距离只有三步的时候它就会站立起来，准备咬人。善于爬树，吃青冈树的果实的时候还要把（树的枝桠）搓揉起来。身子是黑色的，在胸部中间有白毛，嘴巴有点尖。四只脚和人的一样。{prɤftsa}长得比较小，有点象狗熊，据说吃人。 
 \nqr
 \dt 16/Apr/2012
 
@@ -63595,7 +63595,7 @@ da.lie 打猎
 \ge grosse mouche 
 \gn 大苍蝇 
 \hbf animal 
-\xv qaɕɣi nɯ βɣaza sɤ́znɤ wxti, βɣaza kɯβde jamar tu, ɯ-tshɯɣa nɯ βɣaza cho naχtɕɯɣ, ɯ-ku artɯm, ɯ-mɲaʁ kɯ-wxtɯ-wxti tu, ɯ-ʁrɯ tu, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, ɯ-ʁar mba ɯ-rɯmu tu, mɤ-sɤmtsɯɣ, tɕeri wuma ʑo ŋɤn ma ftɕar tɕe ɕɤkhe taʁ ʑo ɯ-qe ku-lɤt ŋu, nɯ ɯ-qe nɯ laʁnɤ-rʑaʁ ʑo tɕe tɯ-mɯnmɯ tu-ʑe, tɕe chɯ-wxti tɕe, ɕa tu-ndze ɲɯ-ŋu, kɯ-mɯm ɯ-stu ʑo tu-ndze ɲɯ-ŋu, tɕe tu-ndze mɤ-kɯ-jɤɣ kɯ ɯ-di ɲɯ-ɕɯmnɤm tɕe, mɯ-ta-ndza nɯ ra kɯ́nɤ ɯ-di ɲɯ-ɕɯmnɤm tɕe kɤ-ndza mɯ-ɲɯ-ɣɤsne ŋu. thu-wxti tɕe, pjɯ-nɯɬoʁ tɕe, kɯm ɯ-qhu zndɤrchɤβ nɯ ra ju-nɯrtsɯ-nɯ tɕe ju-ormbɯrmbɯ-nɯ ŋu, ɯntɕe nɯ-rqhu ɲɯ-βze tɕe, qartsɯ nɯ tɕu ku-rɤʑi-nɯ, χɕitka tɕe, ɯ-rqhu ɯ-ŋgɯ ri qaɕɣi ɲɯ-βze tɕe, li ju-nɯɬoʁ-nɯ ŋu, tɕe tɯrme ra kɯ qaɕɣi pa-mto-nɯ tɕe pjɯ-sat-nɯ ɕti ma ɯ-kɯ-qha ʁɟa ŋu. 
+\xv qaɕɣi nɯ βɣaza sɤznɤ wxti, βɣaza kɯβde jamar tu, ɯ-tshɯɣa nɯ βɣaza cho naχtɕɯɣ, ɯ-ku artɯm, ɯ-mɲaʁ kɯ-wxtɯ-wxti tu, ɯ-ʁrɯ tu, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, ɯ-ʁar mba ɯ-rɯmu tu, mɤ-sɤmtsɯɣ, tɕeri wuma ʑo ŋɤn ma ftɕar tɕe ɕɤkhe taʁ ʑo ɯ-qe ku-lɤt ŋu, nɯ ɯ-qe nɯ laʁnɤ-rʑaʁ ʑo tɕe tɯ-mɯnmɯ tu-ʑe, tɕe chɯ-wxti tɕe, ɕa tu-ndze ɲɯ-ŋu, kɯ-mɯm ɯ-stu ʑo tu-ndze ɲɯ-ŋu, tɕe tu-ndze mɤ-kɯ-jɤɣ kɯ ɯ-di ɲɯ-ɕɯmnɤm tɕe, mɯ-ta-ndza nɯ ra kɯnɤ ɯ-di ɲɯ-ɕɯmnɤm tɕe kɤ-ndza mɯ-ɲɯ-ɣɤsne ŋu. thu-wxti tɕe, pjɯ-nɯɬoʁ tɕe, kɯm ɯ-qhu zndɤrchɤβ nɯ ra ju-nɯrtsɯ-nɯ tɕe ju-ormbɯrmbɯ-nɯ ŋu, ɯntɕe nɯ-rqhu ɲɯ-βze tɕe, qartsɯ nɯ tɕu ku-rɤʑi-nɯ, χɕitka tɕe, ɯ-rqhu ɯ-ŋgɯ ri qaɕɣi ɲɯ-βze tɕe, li ju-nɯɬoʁ-nɯ ŋu, tɕe tɯrme ra kɯ qaɕɣi pa-mto-nɯ tɕe pjɯ-sat-nɯ ɕti ma ɯ-kɯ-qha ʁɟa ŋu. 
 \xn 大苍蝇比小苍蝇大四倍，形状完全和小苍蝇一样，头部是圆形的，有一对大眼睛，有触角，有六只脚。翅膀很薄，有纹路。不蜇人，但是很坏。夏天在瘦肉上下卵子（屙屎），过一两就开始动，吃肉，专门吃最好吃的部位，不但吃，还使肉变臭，连没有吃到的地方都会发臭，使得肉不能再吃了。长成了以后就出来掉到地上，爬到门后面墙壁缝里聚集在一起，然后变成蛹，在那里过冬天。到了春天蛹就变成苍蝇，从里面飞出来。人们看到苍蝇时就会把它弄死，因为都很讨厌它。
 \dt 17/Apr/2012
 
@@ -63677,7 +63677,7 @@ da.lie 打猎
 \ge avoine 
 \gn 燕麦 
 \hbf plante 
-\xv qaɟɤɣi nɯ sɯjno ci ŋu, ɯ-jwaʁ ɯ-ru nɯ ra tɤɕi cho naχtɕɯɣ, ɯ-jwaʁ ɯ-βzɯr nɯ ɯ-rme kɯ-xtɕɯ-xtɕi tu, ɯ-mat nɯ tɤɕi cho mɤ-naχtɕɯɣ, mbrɤz kɯɕnom cho naχtɕɯɣ, ɯ-mat nɯ ɯ-rqhu wuma ʑo jaʁ tɕe, pjɯ-tsɣi mɤ-cha, tɕe tɕhi kɯ-fse tɤ-nɯ-nɤrʑaʁ kɯ́nɤ pjɯ-tsɣi mɤ-cha tɕe tu-ɬoʁ ɕti, tɕe ɯ-ʑmbraʁ nɯ chɤ-ndzɯ-ndzri ŋu tɕe, nɯ-aci tɕe lu-orlɯ-rla ŋu, tɕe ɯ-mat tu-sɯ-mtɕɯr cha. qaɟɤɣi tɤ-rɤku rchɤβ tu-ɬoʁ tɕe, tɤ-rɤku ɯ-taʁ ʁnɤt tɕe, sɯjno wuma ʑo kɯ-ŋɤn ŋu. tɕe kɯ-rɤma ra kɯ wuma ʑo qha-nɯ tɕe, tɕhi kɤ-cha ɲɯ-kɤ-ɣɤme ftɕaka tu-βzu-nɯ ŋu. 
+\xv qaɟɤɣi nɯ sɯjno ci ŋu, ɯ-jwaʁ ɯ-ru nɯ ra tɤɕi cho naχtɕɯɣ, ɯ-jwaʁ ɯ-βzɯr nɯ ɯ-rme kɯ-xtɕɯ-xtɕi tu, ɯ-mat nɯ tɤɕi cho mɤ-naχtɕɯɣ, mbrɤz kɯɕnom cho naχtɕɯɣ, ɯ-mat nɯ ɯ-rqhu wuma ʑo jaʁ tɕe, pjɯ-tsɣi mɤ-cha, tɕe tɕhi kɯ-fse tɤ-nɯ-nɤrʑaʁ kɯnɤ pjɯ-tsɣi mɤ-cha tɕe tu-ɬoʁ ɕti, tɕe ɯ-ʑmbraʁ nɯ chɤ-ndzɯ-ndzri ŋu tɕe, nɯ-aci tɕe lu-orlɯ-rla ŋu, tɕe ɯ-mat tu-sɯ-mtɕɯr cha. qaɟɤɣi tɤ-rɤku rchɤβ tu-ɬoʁ tɕe, tɤ-rɤku ɯ-taʁ ʁnɤt tɕe, sɯjno wuma ʑo kɯ-ŋɤn ŋu. tɕe kɯ-rɤma ra kɯ wuma ʑo qha-nɯ tɕe, tɕhi kɤ-cha ɲɯ-kɤ-ɣɤme ftɕaka tu-βzu-nɯ ŋu. 
 \xn 燕麦是一种草，叶子和茎和青稞一样，但是叶子的边缘有小毛，果实和青稞的不一样，和大米的穗一样。果实的皮很厚，不容易腐烂，再长的时间也不会腐烂，能生长。它的芒是拧着长的，受潮时就会自然松开，使果实转动。燕麦生长在庄稼里，对庄稼造成危害，是很坏的草，所以劳动人民很讨厌它，用一切办法来消灭它。
 \dt 17/Apr/2012
 
@@ -63736,7 +63736,7 @@ da.lie 打猎
 \hbf oiseau 
 \et glag
 \xv qaliaʁ nɯ praʁ ɯ-ŋgɯ zɯ ku-rɤʑi ŋu, ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ thaŋkɤr rmi, ɯʑo ɯ-mdoʁ nɯ kɯ-ɲaʁ ŋu, ɯ-ʁar nɯ kɯ-wɣrum tɯ-tɯ-snaʁ kɯ-tu tu, qala, βʑɯ, paʁtsa cho ɲaɲa nɯ ra tu-ndze ŋgrɤl. li ci thaŋnaʁ kɯ-rmi ci tu tɕe, kɯ-ɲaʁ ʁɟa ʑo ŋu, nɯ kɯ-cha nɯ ŋu, paʁtsa cho ɲaɲa nɯ phɤri ɲɯ-nɯ-tsɯm cha, ca pjɤ-sat ŋgrɤl. ɯ-mi nɯ ɕɤmiɕtʂɤt fse. mphrɯmɯ pjɯ-re ŋgrɤl tu-kɯ-ti ɲɯ-ŋu ma nɤmkha ɯ-stu ʑo tu-ɕe tɕe ɯ-stu li pjɯ-jɣɤt tɕe ɴɢartɯm pjɯ-ɣɯt ŋu. ɯ-mɲaʁ wuma ʑo mto tu-kɯ-ti ɲɯ-ŋgrɤl, phɤri ku-ru tɕe qaʑo kɯ ɯ-qe thɤstɯ-rdoʁ pa-lɤt mtɤm tu-kɯ-ti ɲɯ-ŋgrɤl. ɕa a-tɤ-ndze tɤ-fka ɯ-qhu tɕe, co a-pɯ-ŋu tɕe chɯ-nɯqambɯmbjom mɤ-cha. 
-\xn 雕栖息在岩洞里，有两种，一种叫thaŋkɤr，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫thaŋnaʁ，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死獐子。爪子象铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
+\xn 雕栖息在岩洞里，有两种，一种叫[thaŋkɤr}，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫{thaŋnaʁ}，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死獐子。爪子象铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
 \nqr
 \dt 17/Apr/2012
 
@@ -63794,7 +63794,7 @@ da.lie 打猎
 \ge musaraigne 
 \gn 尖鼠、鼩鼱 
 \hbf animal 
-\xv qamtɕɯr nɯ βʑɯ cho ndʑi-rme ra naχtɕɯɣ, tɕeri qamtɕɯr nɯ ɯ-mtɕhi mɤʑɯ ʑo amtɕoʁ, ɯ-jme xtɯt cho xtshɯm, qamtɕɯr nɯ βʑɯ sɤ́znɤ khro xtɕi, βʑɯ kɯ tɤ-mthɯm, tɯ-jpu, tɯ-ŋga tɕhi kɯ-tu tu-ndze ŋu ma qamtɕɯr kɯ tɤ-mthɯm kɯ́nɤ kɯ-tshu ma mɤ-ndze tɕeri tɤ-mthɯm tu-ndze ɯ-qhu ɯ-sta rmbi ɲɯ-lɤt ŋu tɕe ɯ-di wuma ʑo sɤjloʁ tɤ-mthɯm kɤ-ndza mɤ-kɯ-sna ɲɯ-sɤβze cha, tɕe wuma ʑo ŋɤn. tu-mbri tɕe skɤt wuma ʑo amtɕoʁ χɕɤβ. 
+\xv qamtɕɯr nɯ βʑɯ cho ndʑi-rme ra naχtɕɯɣ, tɕeri qamtɕɯr nɯ ɯ-mtɕhi mɤʑɯ ʑo amtɕoʁ, ɯ-jme xtɯt cho xtshɯm, qamtɕɯr nɯ βʑɯ sɤznɤ khro xtɕi, βʑɯ kɯ tɤ-mthɯm, tɯ-jpu, tɯ-ŋga tɕhi kɯ-tu tu-ndze ŋu ma qamtɕɯr kɯ tɤ-mthɯm kɯnɤ kɯ-tshu ma mɤ-ndze tɕeri tɤ-mthɯm tu-ndze ɯ-qhu ɯ-sta rmbi ɲɯ-lɤt ŋu tɕe ɯ-di wuma ʑo sɤjloʁ tɤ-mthɯm kɤ-ndza mɤ-kɯ-sna ɲɯ-sɤβze cha, tɕe wuma ʑo ŋɤn. tu-mbri tɕe skɤt wuma ʑo amtɕoʁ χɕɤβ. 
 \xn 鼩鼱和老鼠的毛一样，但鼩鼱的嘴比较尖，尾巴细而短。鼩鼱比老鼠小得多。老鼠吃肉、衣服、粮食，有什么就吃什么，而鼩鼱只吃肥肉，吃肉之后还在那里撒尿，味道很臭，使得肉不能吃，是很坏的动物。叫起来声音又尖又大。
 \dt 17/Apr/2012
 
@@ -63841,7 +63841,7 @@ da.lie 打猎
 \ge salmonidé 
 \gn 鲑[猫儿鱼] 
 \hbf animal 
-\xv qandʐi nɯ qaɟy ɯ-ngɯz stu kɯ-wxti ŋu, ɯ-ɕɣa tu, ɯ-mtɕhirme tu, kú-wɣ-sqa te ɯ-ɕa ɲɯ-ndʐi mɤ-cha, ɯ-punaŋtɕa tɕhɯtɯɣ ɯ-smɤn ŋu, ʁnɯz ʁnɯz tɯtɯrca tu-ŋke ɲɯ-ŋgrɤl, qaɟy kɯ-fse kɯ-dɤn maŋe, zlawa χsɯmba raŋ tɕe tɯ-ci ŋgɯ tɤ-ton lu-ɣi ɲɯ-ŋgrɤl. nɯ lɤ-ɣe ɯ-raŋ mdaʁʑɯɣ pjɯ́-wɣ-sɤtsa tɕe, pjɯ́-wɣ-sat pjɤ-ŋgrɤl. kɯ-wxti kɯ tɯrme ɯ-fsu tu ɲɯ-ŋgrɤl, kɯ-xtɕi nɯ tɯ-tɯ-ɣa jamar ma kɯ-me tu ɲɯ-ŋgrɤl. nɯ kɯ́nɤ qaɟy kɯ-wxti chɯ-ndze ɲɯ-ŋu. 
+\xv qandʐi nɯ qaɟy ɯ-ngɯz stu kɯ-wxti ŋu, ɯ-ɕɣa tu, ɯ-mtɕhirme tu, kú-wɣ-sqa te ɯ-ɕa ɲɯ-ndʐi mɤ-cha, ɯ-punaŋtɕa tɕhɯtɯɣ ɯ-smɤn ŋu, ʁnɯz ʁnɯz tɯtɯrca tu-ŋke ɲɯ-ŋgrɤl, qaɟy kɯ-fse kɯ-dɤn maŋe, zlawa χsɯmba raŋ tɕe tɯ-ci ŋgɯ tɤ-ton lu-ɣi ɲɯ-ŋgrɤl. nɯ lɤ-ɣe ɯ-raŋ mdaʁʑɯɣ pjɯ́-wɣ-sɤtsa tɕe, pjɯ́-wɣ-sat pjɤ-ŋgrɤl. kɯ-wxti kɯ tɯrme ɯ-fsu tu ɲɯ-ŋgrɤl, kɯ-xtɕi nɯ tɯ-tɯ-ɣa jamar ma kɯ-me tu ɲɯ-ŋgrɤl. nɯ kɯnɤ qaɟy kɯ-wxti chɯ-ndze ɲɯ-ŋu. 
 \xn 鲑在鱼当中是最大的一种，有牙齿，有胡须。肉煮不化，其内脏是一种药材，如果牛因喝水而中毒，可以用此解毒。一般是一对一对地游动，没有象其它鱼那么多。到了三月，它们往河流的上游游去，正当这个时候，插下长矛把它杀死。大的和人一样大，小的只有一拃长。鲑可以吃其它比较大的鱼。 
 \nqr
 \dt 17/Apr/2012
@@ -63990,7 +63990,7 @@ da.lie 打猎
 \ge crossoptilon 
 \gn 马鸡 
 \hbf oiseau 
-\xv qarma nɯ ʁnɯ-tɯphu tu, kɯ-ɲaʁ ci tu, qarma ɲaʁ rmi, tɕe kɯ-wɣrum ci tu, qarmaɣrum rmi. qarma nɯ ɯ-ku ɲaʁ, ɯ-mɲaʁ ɯ-rkɯ nɯ ɣɯrni, ɯ-rna nɯ ɯ-rme ŋgɯ ku-raʁ ʑo ŋu, kɯ-ɤrqhi ju-kɯ-ru mɤ-saχsɤl, ɯ-jme rɲɟi, qarmaɲaʁ nɯ ɯ-ʁar ɯ-ku ɲaʁ, ɯ-jme ɯ-kɯ-ɲaʁ dɤn, ɯ-mi qarŋe. qarmaɣrum nɯ kɯmaʁ ra naχtɕɯɣ, ɯ-ʁar lonba wɣrum, ɯ-jme ɯ-kɯ-ɲaʁ rkɯn. ɯ-mi li kɯ-qarne ŋu. sɯŋgɯ wuma ʑo ku-rɤʑi-ndʑi ɕti. nɯ-ɕpaʁ tɕe, qarma kɯβdɤsqi kɯmŋɤsqi jamar tɯtɯrca co zɯ kɯ-nɯci pjɯ-ɣi-nɯ ŋgrɤl. qarma nɯ pɣa kɯ-wxti ci ɕti tɕe, tɯ-rdoʁ kɯ sqamŋu tɯ-rpa jamar kɯ-zɣɯt tu, ɯ-ŋgɯm kɯ́nɤ kɯmpɣa ŋgɯm sɤz wxti, qajɯ cho sɯmat ra tu-ndze ɲɯ-ŋu, tɤ-rɤku ra li ɣɯ-tu-ndze ngrɤl. tu-mbri tɕe, ɯ-mtɕhi tu-mbri ɯ-rca ɯ-mphɯz kɯ́nɤ tu-mbri ŋu, xɕiri kɯ tu-ti tɕe, 'a-pi qarma ɯ-ɕa mɯm ri, tɯ-sɤtɕha ɲɯ-kɯ-sɯ-spɤr ŋu' tu-ti ɲɯ-ŋgrɤl ma qarma lɤ-zo tɕe xɕiri kɯ ɯ-mke ku-ndɤm tɕe mɯ-ɲɯ-te tɕe, qarma ɲɯ-nɯqambɯmbjom tɕe phɤri ʑo ku-nɯɕe tɕe xɕiri tɤrcɯrca ku-tsɯm ɲɯ-ŋgrɤl, xɕiri kɯ nɯ kɯ́nɤ mɯ-ɲɯ-te tɕe núndʐa nɯ tu-ti ɲɯ-ŋu. 
+\xv qarma nɯ ʁnɯ-tɯphu tu, kɯ-ɲaʁ ci tu, qarma ɲaʁ rmi, tɕe kɯ-wɣrum ci tu, qarmaɣrum rmi. qarma nɯ ɯ-ku ɲaʁ, ɯ-mɲaʁ ɯ-rkɯ nɯ ɣɯrni, ɯ-rna nɯ ɯ-rme ŋgɯ ku-raʁ ʑo ŋu, kɯ-ɤrqhi ju-kɯ-ru mɤ-saχsɤl, ɯ-jme rɲɟi, qarmaɲaʁ nɯ ɯ-ʁar ɯ-ku ɲaʁ, ɯ-jme ɯ-kɯ-ɲaʁ dɤn, ɯ-mi qarŋe. qarmaɣrum nɯ kɯmaʁ ra naχtɕɯɣ, ɯ-ʁar lonba wɣrum, ɯ-jme ɯ-kɯ-ɲaʁ rkɯn. ɯ-mi li kɯ-qarne ŋu. sɯŋgɯ wuma ʑo ku-rɤʑi-ndʑi ɕti. nɯ-ɕpaʁ tɕe, qarma kɯβdɤsqi kɯmŋɤsqi jamar tɯtɯrca co zɯ kɯ-nɯci pjɯ-ɣi-nɯ ŋgrɤl. qarma nɯ pɣa kɯ-wxti ci ɕti tɕe, tɯ-rdoʁ kɯ sqamŋu tɯ-rpa jamar kɯ-zɣɯt tu, ɯ-ŋgɯm kɯnɤ kɯmpɣa ŋgɯm sɤz wxti, qajɯ cho sɯmat ra tu-ndze ɲɯ-ŋu, tɤ-rɤku ra li ɣɯ-tu-ndze ngrɤl. tu-mbri tɕe, ɯ-mtɕhi tu-mbri ɯ-rca ɯ-mphɯz kɯnɤ tu-mbri ŋu, xɕiri kɯ tu-ti tɕe, 'a-pi qarma ɯ-ɕa mɯm ri, tɯ-sɤtɕha ɲɯ-kɯ-sɯ-spɤr ŋu' tu-ti ɲɯ-ŋgrɤl ma qarma lɤ-zo tɕe xɕiri kɯ ɯ-mke ku-ndɤm tɕe mɯ-ɲɯ-te tɕe, qarma ɲɯ-nɯqambɯmbjom tɕe phɤri ʑo ku-nɯɕe tɕe xɕiri tɤrcɯrca ku-tsɯm ɲɯ-ŋgrɤl, xɕiri kɯ nɯ kɯnɤ mɯ-ɲɯ-te tɕe núndʐa nɯ tu-ti ɲɯ-ŋu. 
 \xn 马鸡有两种，一种是黑色的，叫黑马鸡（蓝马鸡），另一种是白色的，叫白马鸡。马鸡的头是黑色的，眼睛周围有一圈是红色的，耳朵陷在羽毛里，从远处看不清楚，尾巴长。黑马鸡的翅膀顶端是黑色的，尾巴非常黑，脚是黄色的。白马鸡其它部位和黑马鸡一样，只是翅膀全白，尾巴黑羽毛少一些，脚也是黄色的。两种都生活在森林深处。口渴的时候，就四五十只一起下到山沟边来喝水。马鸡是一种比较大的鸟，一只都有十五斤左右，蛋也比鸡蛋大。它喜欢吃虫子和野果，也会来偷吃粮食。叫起来的时候，嘴和尾巴都发出声音。据说黄鼠狼说：“虽然马鸡哥哥的肉好吃，但是它会使你离开自己的家乡”。因为马鸡着地时，黄鼠狼把它的脖子抓住不放，马鸡会飞到对面的山上，也会把黄鼠狼带到那边去，黄鼠狼也还是不放，所以就有这样的说法。 
 \nqr
 \dt 18/Apr/2012
@@ -64084,7 +64084,7 @@ da.lie 打猎
 \ge récipient en terre 
 \gn 沙锅 
 \hbf 545 
-\xv qarwoʁ nɯ tɤ-rcoʁ kɯ tɤ-kɤ-sɯ-βzu ŋu, kɯɕɯŋgɯ tɕe rgargɯn ra ɣɯ nɯ-tʂha ɯ-sɤ-ta pjɤ-ŋu, ɯ-mŋu ri ɯ-mtɕhi tu tɕe tʂha pɯ́-wɣ-rku tɕe mɤ-jit. qarwoʁ ɯ-ŋgɯ tʂha ŋotɕu tɤ-ala tɕe thɯ́-wɣ-nɯmɟa kɯ́nɤ pjɯ-mbuz pjɤ-ŋu, ʑaʑa ʑo tɤ-ala mɯ-pjɤ-ʑi tɕe tɯrme ɯ-ro kɯ-ŋgɤr ɯ-mbrɯ ʑa mɤ-kɯ-ʑi nɯ ra qarwoʁ tu-sɤrmi-nɯ tu-ŋgrɤl. 
+\xv qarwoʁ nɯ tɤ-rcoʁ kɯ tɤ-kɤ-sɯ-βzu ŋu, kɯɕɯŋgɯ tɕe rgargɯn ra ɣɯ nɯ-tʂha ɯ-sɤ-ta pjɤ-ŋu, ɯ-mŋu ri ɯ-mtɕhi tu tɕe tʂha pɯ́-wɣ-rku tɕe mɤ-jit. qarwoʁ ɯ-ŋgɯ tʂha ŋotɕu tɤ-ala tɕe thɯ́-wɣ-nɯmɟa kɯnɤ pjɯ-mbuz pjɤ-ŋu, ʑaʑa ʑo tɤ-ala mɯ-pjɤ-ʑi tɕe tɯrme ɯ-ro kɯ-ŋgɤr ɯ-mbrɯ ʑa mɤ-kɯ-ʑi nɯ ra qarwoʁ tu-sɤrmi-nɯ tu-ŋgrɤl. 
 \xn {qarwoʁ}是用泥捏成的，过去是专门给老年人熬茶的，开口呈嘴形，倒茶时不会撒。{qarwoʁ}里的茶一旦烧开了，即使把它从火边移开仍然要溢出来，开个不停，所以人们把脾气暴躁的人说成是{qarwoʁ}。 
 \nqr
 \dt 18/Apr/2012
@@ -64181,7 +64181,7 @@ da.lie 打猎
 \ge une espèce d'arbre 
 \gn 乔木的一种 
 \hbf plante 
-\xv qɤjdu nɯ si khro mɤ-kɯ-mbro tsa ci ŋu, zgo ku aʁɤndɯndɤt tu-ɬoʁ cha, si ɯ-βri nɯ kɯ-ɲaʁ ʁɟa ʑo ŋu, ɯ-jwaʁ kɯ́nɤ ldʑaŋnaʁ ɕti, ɯ-mdzu wuma ʑo mtɕoʁ, tɯ-ɕa taʁ kɤ-tsa tɕe tɤ-spɯ ʑo tu-sɤβze cha. ɯ-mat kɯ́nɤ thɯ-tɯt tɕe kɯ-ɲaʁ chɯ-βze ŋu
+\xv qɤjdu nɯ si khro mɤ-kɯ-mbro tsa ci ŋu, zgo ku aʁɤndɯndɤt tu-ɬoʁ cha, si ɯ-βri nɯ kɯ-ɲaʁ ʁɟa ʑo ŋu, ɯ-jwaʁ kɯnɤ ldʑaŋnaʁ ɕti, ɯ-mdzu wuma ʑo mtɕoʁ, tɯ-ɕa taʁ kɤ-tsa tɕe tɤ-spɯ ʑo tu-sɤβze cha. ɯ-mat kɯnɤ thɯ-tɯt tɕe kɯ-ɲaʁ chɯ-βze ŋu
 \xn {qɤjdu}是长得不是高的树种，山上山下到处都可以生长，树皮（树身）全是黑色的，连树叶都是深绿色的。刺很锋利，刺到皮肉上会长脓包。果实成熟后也是黑色的 
 \xv nɤ-sŋi ɯ-tɯ-ɲaʁ kɯ qɤjdu ʑo ɲɯ-tɯ-fse 
 \xn 你的心黑得象{qɤjdu}一样（你真狠心）。
@@ -64224,7 +64224,7 @@ da.lie 打猎
 \ge vautour (aegyptius monachus) 
 \gn 秃鹫 
 \hbf oiseau 
-\xv qɤjtʂha nɯ kuwu cho naχtɕɯɣ ri sɤ́znɤ xtɕi tsa, ɯ-ku kɯ-ɲaʁ ŋu, ɯ-mtɕhi-rme tu tɕe nɯ kɯ́nɤ kɯ-ɲaʁ ŋu, ɯ-phoŋbu kɯ-pɣi kɯ-ɤɲaʁndzɯm tsa ŋu, tɕe praʁ ŋgɯ ku-rɤʑi ŋu, kɯ-rgɤz ra kɯ qɤjtʂha tɤ-ŋke tɕe tɯmɯ khe tu-ti-nɯ grɤl. qajɯ kɯ-fse ra tu-ndze ma kɯmaʁ rɯdaʁ kɯ-fse ra mɤ-ndze, tɤ-rɤku ri mɤ-ndze. 
+\xv qɤjtʂha nɯ kuwu cho naχtɕɯɣ ri sɤznɤ xtɕi tsa, ɯ-ku kɯ-ɲaʁ ŋu, ɯ-mtɕhi-rme tu tɕe nɯ kɯnɤ kɯ-ɲaʁ ŋu, ɯ-phoŋbu kɯ-pɣi kɯ-ɤɲaʁndzɯm tsa ŋu, tɕe praʁ ŋgɯ ku-rɤʑi ŋu, kɯ-rgɤz ra kɯ qɤjtʂha tɤ-ŋke tɕe tɯmɯ khe tu-ti-nɯ grɤl. qajɯ kɯ-fse ra tu-ndze ma kɯmaʁ rɯdaʁ kɯ-fse ra mɤ-ndze, tɤ-rɤku ri mɤ-ndze. 
 \xn 秃鹫和胡兀鹫长得差不多，但小一点，头是黑色的，有胡须，也是黑色的，身子是灰里带黑的，栖息在岩洞里。老年人们说，当秃鹫出现时，天气会变阴。它吃虫子，不吃其它动物，也不吃粮食。
 \dt 20/Apr/2012
 
@@ -64250,7 +64250,7 @@ da.lie 打猎
 \ge Rumex sp. 
 \gn 酸模 
 \hbf plante 
-\xv qhɤjmbaʁ nɯ kha ɯ-rkɯ ra tɯ-ɣli kɯ-dɤn ɣɯ sɤtɕha pɕoʁ tu-ɬoʁ ŋu, ɯ-jwaʁ ɯ-tshɯɣa nɯ ŋɤnɯkɯmtsɯɣ cho naχtɕɯɣ, tɕeri qhɤjmbaʁ ɯ-jwaʁ nɯ mba ɯ-rme me, arŋi, qhɤjmbaʁ ɯ-ru tu-ɬoʁ tɕe, tɯ-rtsɤɣ tɕe ci ntsɯ ɯ-jwaʁ ku-ndzoʁ ŋu. ɯ-ru tɤ-ari ɯ-jija ɯ-jwaʁ tu-xtɕi ŋu. ɯ-ru ɯ-stɤt tɕe, ɯ-mɯntoʁ ɲɯ-lɤt. ɯ-mɯntoʁ aɣɯrnɯɕɯr. ɯʑo ɯ-ru nɯ kɯ-wxti nɯ tɯrme fsu jamar tu, nɯmáʁnɯ tɤ-mthɤɣ fsu jamar ma me, paʁndza sna ma tɯrme kɤ-ndza mɤ-sna. ɯ-di mɤ-χɕɤβ. qhɤjmbaʁ li ci tɯ-tɯphu tu tɕe, kɯ-maʁ ra naχtɕɯɣ tɕeri ɯ-jwaʁ rɲɟi cho jaʁ, mpɯ, tɯrme kɤ-ndza sna. ɯ-jwaʁ ɯ-sɤɣ-ndzoʁ nɯ tɕu ɯ-ru cho ɯ-phɤrthɤβ nɯ tɕu, tɯ-ci kɯ-fse kɤ-rɤmtʂɯmtʂɤj tu, ɯ-ru jpum tsa tɕe mpɯ. 
+\xv qhɤjmbaʁ nɯ kha ɯ-rkɯ ra tɯ-ɣli kɯ-dɤn ɣɯ sɤtɕha pɕoʁ tu-ɬoʁ ŋu, ɯ-jwaʁ ɯ-tshɯɣa nɯ ŋɤnɯkɯmtsɯɣ cho naχtɕɯɣ, tɕeri qhɤjmbaʁ ɯ-jwaʁ nɯ mba ɯ-rme me, arŋi, qhɤjmbaʁ ɯ-ru tu-ɬoʁ tɕe, tɯ-rtsɤɣ tɕe ci ntsɯ ɯ-jwaʁ ku-ndzoʁ ŋu. ɯ-ru tɤ-ari ɯ-jija ɯ-jwaʁ tu-xtɕi ŋu. ɯ-ru ɯ-stɤt tɕe, ɯ-mɯntoʁ ɲɯ-lɤt. ɯ-mɯntoʁ aɣɯrnɯɕɯr. ɯʑo ɯ-ru nɯ kɯ-wxti nɯ tɯrme fsu jamar tu, nɯ maʁ nɤ tɤ-mthɤɣ fsu jamar ma me, paʁndza sna ma tɯrme kɤ-ndza mɤ-sna. ɯ-di mɤ-χɕɤβ. qhɤjmbaʁ li ci tɯ-tɯphu tu tɕe, kɯ-maʁ ra naχtɕɯɣ tɕeri ɯ-jwaʁ rɲɟi cho jaʁ, mpɯ, tɯrme kɤ-ndza sna. ɯ-jwaʁ ɯ-sɤɣ-ndzoʁ nɯ tɕu ɯ-ru cho ɯ-phɤrthɤβ nɯ tɕu, tɯ-ci kɯ-fse kɤ-rɤmtʂɯmtʂɤj tu, ɯ-ru jpum tsa tɕe mpɯ. 
 \xn 酸模生长在房子旁边，肥料比较多的地方，叶子的形状和红青椒的相同，但是酸模的叶子比较薄，没有毛，是绿色的。qhɤjmbaʁ的茎上每一节都长叶子。随着茎的长高，叶子就变小。茎的顶端开花。花是淡红色的。茎可以长一个人的高度，但一般的只长到人的腰部。可以喂猪，人不能吃。味道不浓。还有一种qhɤjmbaʁ，其他（部分）和（前一种）一样，就是叶子比较长，比较厚，嫩，人可以吃。在茎上长叶子的部位之间，有一种粘液。茎粗而嫩。
 \dt 07/May/2014
 
@@ -64423,7 +64423,7 @@ da.lie 打猎
 \gn 鸽子 
 \hbf oiseau 
 \xv qro nɯ pɣa ci ŋu, khro mɤ-wxti, pha ɯ-phoŋbu ʑo wɣrum ri ɯ-jme ɯ-ku ri kɯ-ɲaʁ tu, ɯ-mi qarŋe, tɤ-rɤku cho qajɯ tu-ndze ŋu, ftɕar tɕe tɯ-tɕha tɯ-tɕha ku-rɤʑi ɲɯ-ŋu, qartsɯ tɕe ɯ-ɣurʑa ʑo tɯtɯrca ku-rɤʑi ɲɯ-ŋu. kha ku-kɤ-nɤχsu ci ɣɤʑu, ɯʑo ku-kɯ-nɯ-rɤʑi nɯ ɣɤʑu tɕe praʁ pa wuma ʑo kɯ-mbro zɯ ku-rma ɲɯ-ŋu. ɯ-ɕa nɯ wuma ʑo smɤn ɲɯ-ŋu, ɯ-ku nɯ tɯ-ku kɯ-mŋɤm smɤn ɲɯ-ŋu, ɯ-se nɯ li tɯ-ku tɯ-kɤrnoʁ kɯ-mtɕɯr kɯ-phɤn ɲɯ-ŋu. qro tɤ-rɤku ndze ri wuma mɤ-ʁnɤt tɕe ɯ-kɯ-qha rkɯn. qro kɯ-nɯkhɤβɣa kɤ-ti tu tɕe, khɤxtu zɯ ku-zo tɕe, qro nɯ χcha tɯ-tɤ-xɯr ku-mtɕɯr, ʁe tɯ-tɤ-xɯr ku-mtɕɯr, tɕe ɯ-khɯkha, 'kuku kuku' tu-ti ŋu. nɯ kɤntɕhɯ-ɣjɤn tu-fse ŋu. 
-\xn 鸽子是一种鸟，不是很大，身子是白的，但是尾巴顶端有黑点，脚是黄色的，吃粮食和虫子。夏天，它们成对地生活，冬天数百只在一起。有的是人在家里喂的，有的是（在野外）自己生活的，栖息在很高的岩洞里。鸽子肉一种药材，它的头可以治头疼病，血可以治头晕。虽然鸽子吃粮食，但是不是很厉害，讨厌它的人不多。有人也说鸽子会用手磨，因为着落在房背上的时候，就会向左转一圈，向右转一圈，同时又叫'kuku kuku'，这要重复很多次。
+\xn 鸽子是一种鸟，不是很大，身子是白的，但是尾巴顶端有黑点，脚是黄色的，吃粮食和虫子。夏天，它们成对地生活，冬天数百只在一起。有的是人在家里喂的，有的是（在野外）自己生活的，栖息在很高的岩洞里。鸽子肉一种药材，它的头可以治头疼病，血可以治头晕。虽然鸽子吃粮食，但是不是很厉害，讨厌它的人不多。有人也说鸽子会用手磨，因为着落在房背上的时候，就会向左转一圈，向右转一圈，同时又叫{kuku kuku}，这要重复很多次。
 \dt 20/Apr/2012
 
 \lx ^qrose
@@ -64516,7 +64516,7 @@ da.lie 打猎
 \ge navet (Brassica sp.) 
 \gn 芜菁[圆根] 
 \hbf plante 
-\xv rasti nɯ zgoku tsa tu-ɬoʁ cha. ɯ-mdoʁ nɯ kɯ-pɣi tsa ŋu. ɯ-qa nɯ kɯ-ɤrtɯm tɕe, kɯ-wxti ʑo ɲɯ-βze cha. stu kɯ-wxti nɯ sqamŋu spaprɤɣ ɯ-tɯ-rpa jamar ɲɯ-βze cha. ɯ-taʁ tɕe ɯ-sku nɯ kɯ-dɯ-dɤn tu-ɬoʁ cha, ɯ-pɕi nɯ pjɯ́-wɣ-nɯ-phɯt tɕe, ɯ-ŋgɯ mɤʑɯ ɲɯ-βze ɕti, tɕe nɯ pjɯ-kɯ-phɯt nɤ, ɲɯ-kɤ-nɤrqaʁ rmi. nɯ ɯ-ku nɯ rasti rmi, ɯ-qa nɯ rɤjndoʁ rmi. rasti nɯ kú-wɣ-sqa tɕe, kɤ-smi tɕe, pjɯ́-wɣ-sɯɣ-tɕur tɕe, tɤ-jko rmi, tɕe tɯ-mgo zmɤrɤβ wuma ʑo pe. tɯrme kɤ-ndza kɯmɯxte ʑo rga-nɯ. ɯ-jndoʁ nɯ paʁndza wuma ʑɤ pe. kú-wɣ-sqa tɕe, kɤ-smi tɕe, tɯrme kɯ́nɤ tú-wɣ-ndza ŋgrɤl. ɯ-jndoʁ kɤ-kɤ-sqa nɯ rɤsqa rmi. 
+\xv rasti nɯ zgoku tsa tu-ɬoʁ cha. ɯ-mdoʁ nɯ kɯ-pɣi tsa ŋu. ɯ-qa nɯ kɯ-ɤrtɯm tɕe, kɯ-wxti ʑo ɲɯ-βze cha. stu kɯ-wxti nɯ sqamŋu spaprɤɣ ɯ-tɯ-rpa jamar ɲɯ-βze cha. ɯ-taʁ tɕe ɯ-sku nɯ kɯ-dɯ-dɤn tu-ɬoʁ cha, ɯ-pɕi nɯ pjɯ́-wɣ-nɯ-phɯt tɕe, ɯ-ŋgɯ mɤʑɯ ɲɯ-βze ɕti, tɕe nɯ pjɯ-kɯ-phɯt nɤ, ɲɯ-kɤ-nɤrqaʁ rmi. nɯ ɯ-ku nɯ rasti rmi, ɯ-qa nɯ rɤjndoʁ rmi. rasti nɯ kú-wɣ-sqa tɕe, kɤ-smi tɕe, pjɯ́-wɣ-sɯɣ-tɕur tɕe, tɤ-jko rmi, tɕe tɯ-mgo zmɤrɤβ wuma ʑo pe. tɯrme kɤ-ndza kɯmɯxte ʑo rga-nɯ. ɯ-jndoʁ nɯ paʁndza wuma ʑɤ pe. kú-wɣ-sqa tɕe, kɤ-smi tɕe, tɯrme kɯnɤ tú-wɣ-ndza ŋgrɤl. ɯ-jndoʁ kɤ-kɤ-sqa nɯ rɤsqa rmi. 
 \xn 圆根生长在比较高的山地里，有点灰色，它的根是圆形的，长得很大。最大可以长到15、16斤。上面长很多苗，外层的苗拔下后，里面的苗会继续长。这种拔苗的方法叫{kɤ-nɤrqaʁ}。苗叫{rasti}，根叫{rɤjndoʁ}。圆根苗煮熟了以后弄酸了，叫酸菜，是很好的菜。大多数人喜欢吃。圆根是喂猪的好饲料。煮熟后，人也可以吃。煮熟的圆根叫{rɤsqa}。
 \sy tɤjkɤspa
 \dt 11/May/2014
@@ -65892,7 +65892,7 @@ da.lie 打猎
 \ps n
 \ge empêchement, gêne
 \gn 障碍、坏处
-\xv kɤ-rɤma tɤ-ŋu tɕe, tɯʑo kɯ-rɯsɯso mɤ-βdi ma, tɯ-zda ra nɯ-ndaŋ kɯ́nɤ pjɯ́-wɣ-lɤt ra ma, nɯ-ʁdɯxpa ɣɯ-βzu mɤ-βdi
+\xv kɤ-rɤma tɤ-ŋu tɕe, tɯʑo kɯ-rɯsɯso mɤ-βdi ma, tɯ-zda ra nɯ-ndaŋ kɯnɤ pjɯ́-wɣ-lɤt ra ma, nɯ-ʁdɯxpa ɣɯ-βzu mɤ-βdi
 \xn 工作的时候，不要按照自己的想法，要考虑到别人，不要妨碍别人
 \xv a-ʁdɯxpa ta-βzu
 \xn 他妨碍了我
@@ -66097,7 +66097,7 @@ da.lie 打猎
 \ge moustique 
 \gn 蚊子 
 \hbf animal 
-\xv ʁmɤrɲɯɣ nɯ qajɯ ɯ-ʁar kɯ-tu ci ŋu, ɲɯ-nɯqambɯmbjom cha, ɯ-mtɕhi kɤ-mtɕɯ-mtɕoʁ ci ŋu, ɯ-mtɕhi taʁ taqaβ kɯ-fse kɯ-xtshɯ-xtshɯm, tɤ-rme jamar ʑo kɯ-xtshɯm tu, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, kɯ-rɲɟɯ-rɲɟi kɯ-xtshɯ-xtshɯm ʑo tu, pha ɯ-phoŋbu nɯ kɯ-ɲaʁ ŋu, wuma ʑo sɤmtsɯɣ tɕe aɣɯtɯɣ tɕe, tɯ-ndʐi kɤ-mtsɯɣ tɕe, kɤ-mtsɯɣ ɯ-rkɯ nɯ ɯ-kho kɯ-jom ʑo tu-z-nɯɣmbɤβ cha tɕe wuma ʑo rɤʑa tɕe pɯ́-wɣ-qraʁ kɯ́nɤ ɣɯ-rɤβraʁ ra. 
+\xv ʁmɤrɲɯɣ nɯ qajɯ ɯ-ʁar kɯ-tu ci ŋu, ɲɯ-nɯqambɯmbjom cha, ɯ-mtɕhi kɤ-mtɕɯ-mtɕoʁ ci ŋu, ɯ-mtɕhi taʁ taqaβ kɯ-fse kɯ-xtshɯ-xtshɯm, tɤ-rme jamar ʑo kɯ-xtshɯm tu, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, kɯ-rɲɟɯ-rɲɟi kɯ-xtshɯ-xtshɯm ʑo tu, pha ɯ-phoŋbu nɯ kɯ-ɲaʁ ŋu, wuma ʑo sɤmtsɯɣ tɕe aɣɯtɯɣ tɕe, tɯ-ndʐi kɤ-mtsɯɣ tɕe, kɤ-mtsɯɣ ɯ-rkɯ nɯ ɯ-kho kɯ-jom ʑo tu-z-nɯɣmbɤβ cha tɕe wuma ʑo rɤʑa tɕe pɯ́-wɣ-qraʁ kɯnɤ ɣɯ-rɤβraʁ ra. 
 \xn 蚊子是带有翅膀的虫，会飞。嘴很尖，嘴有一种针，细得象毛一样。有六只脚，又细又长，全身都是黑色的。蜇人，有毒。蜇皮肤时，蜇过的地方周围会有较大面积的皮肤肿起来，很痒，而且抠破了还继续发痒。 
 \nqr
 \dt 23/Apr/2012
@@ -66150,7 +66150,7 @@ da.lie 打猎
 \ge grive (garrulax maximus) 
 \gn 大噪鹛[画眉鸟] 
 \hbf oiseau 
-\xv ʁmɯrcɯ nɯ khro mɤ-wxti, kha ɯ-rkɯ sɯŋgɯ ra ku-rɤʑi rga, ɯ-mdoʁ kɯ-pɣi ɯ-ŋgɯz kɯ́nɤ ldʑaŋkɯ kɯ-ɤrɤɕɯɕrɤz tu, ɯ-jme nɯ kɯ-ɲaʁ tɕe ɯ-ku kɯ-wɣrum tu, nɯ-nɯqambɯmbjom tɕe ɯ-ʁar ɯ-rca ɯ-jme kɯ́nɤ ɲɯ-sqhiar ŋu, tɤ-rɤku kɤ-ndza wuma rga, qajɯ nɯ ra kɤ-ndza rga tɕe qambalɯla ta-ndza tɕe ɯ-phoŋbu tu-ndze tɕe ɯ-ʁar nɯ ra pjɯ-βde ŋu. qambalɯla nɯ tɤ-tʂu ɯ-ɕki kɤ-ɣi rga tɕe ʁmɯrcɯ kɯ tɤ-tʂu ɯ-pa nɯ ra qambalɯla ɯ-ʁar pjɯ-prɤm ʑo ŋgrɤl. 
+\xv ʁmɯrcɯ nɯ khro mɤ-wxti, kha ɯ-rkɯ sɯŋgɯ ra ku-rɤʑi rga, ɯ-mdoʁ kɯ-pɣi ɯ-ŋgɯz kɯnɤ ldʑaŋkɯ kɯ-ɤrɤɕɯɕrɤz tu, ɯ-jme nɯ kɯ-ɲaʁ tɕe ɯ-ku kɯ-wɣrum tu, nɯ-nɯqambɯmbjom tɕe ɯ-ʁar ɯ-rca ɯ-jme kɯnɤ ɲɯ-sqhiar ŋu, tɤ-rɤku kɤ-ndza wuma rga, qajɯ nɯ ra kɤ-ndza rga tɕe qambalɯla ta-ndza tɕe ɯ-phoŋbu tu-ndze tɕe ɯ-ʁar nɯ ra pjɯ-βde ŋu. qambalɯla nɯ tɤ-tʂu ɯ-ɕki kɤ-ɣi rga tɕe ʁmɯrcɯ kɯ tɤ-tʂu ɯ-pa nɯ ra qambalɯla ɯ-ʁar pjɯ-prɤm ʑo ŋgrɤl. 
 \xn 画眉鸟长得不大，喜欢住在房子周围的树林里，身体是灰色的，上面有灰色的纹路，尾巴是黑色，顶端有白点。翅膀展开飞翔时，尾巴也跟着展开。喜欢吃庄稼、虫子。当它吃蝴蝶的时候，只吃身子，不吃翅膀，把翅膀扔在地上。因为蝴蝶喜欢靠近灯光，画眉鸟就会在灯下的地上留下很多蝴蝶翅膀。 
 \nqr
 \dt 23/Apr/2012
@@ -66314,7 +66314,7 @@ da.lie 打猎
 \ge abricot 
 \gn 杏 
 \hbf plante 
-\xv sarsi nɯ zgo kɯ-mbɤr tu-ɬoʁ ŋu, si mbro ɯ-rtaʁ dɤn, ɯ-βri nɯ kɯ-pɣi ŋu, ɯ-jwaʁ nɯ qaɕti ɯ-jwaʁ cho naχtɕɯɣ, ɯ-mɯntoʁ kɯ-ɣɯrni ɯ-ŋgɯz kɯ́nɤ kɯ-wɣrum tsa ŋu. ɯ-jwaʁ ɲɯ-lɤt ɕɯŋgɯ ɯ-mɯntoʁ ɲɯ-lɤt ŋu. ɯ-mat thɯ-aβzu tɕe, qaɕti tsa fse ri ndɯβ. thɯ-tɯt tɕe, ɯ-phaʁ ntsi ɣɯrni, ɯ-phaʁ ntsi qarŋe, tú-wɣ-ndza qaɕti sɤz mɯm ma chi tɕe, kɤ́rqhɯrqhu kɤ-ndza sna. sarsi nɯ kha ɯ-rkɯ pɯ-kɤ-nɯ-ji tɕi tu, ɕɯŋgɯ zɯ ɯʑo tu-kɯ-nɯ-ɬoʁ tɕi tu. 
+\xv sarsi nɯ zgo kɯ-mbɤr tu-ɬoʁ ŋu, si mbro ɯ-rtaʁ dɤn, ɯ-βri nɯ kɯ-pɣi ŋu, ɯ-jwaʁ nɯ qaɕti ɯ-jwaʁ cho naχtɕɯɣ, ɯ-mɯntoʁ kɯ-ɣɯrni ɯ-ŋgɯz kɯnɤ kɯ-wɣrum tsa ŋu. ɯ-jwaʁ ɲɯ-lɤt ɕɯŋgɯ ɯ-mɯntoʁ ɲɯ-lɤt ŋu. ɯ-mat thɯ-aβzu tɕe, qaɕti tsa fse ri ndɯβ. thɯ-tɯt tɕe, ɯ-phaʁ ntsi ɣɯrni, ɯ-phaʁ ntsi qarŋe, tú-wɣ-ndza qaɕti sɤz mɯm ma chi tɕe, kɤ́rqhɯrqhu kɤ-ndza sna. sarsi nɯ kha ɯ-rkɯ pɯ-kɤ-nɯ-ji tɕi tu, ɕɯŋgɯ zɯ ɯʑo tu-kɯ-nɯ-ɬoʁ tɕi tu. 
 \xn 杏树生长在下半山上，长得很高，枝桠多，树皮是灰色的，叶子和桃树的叶子一样，花是粉红色的。在长叶子之前就开花。结果时，象桃子但小一些。成熟，半边是黄色，半边是红色的。吃起来比桃子好吃，因为很甜，可以连皮一起吃。杏树，有的种在房子旁边，也有自己生长在野外的。
 \cf nɯsarsi
 \dt 14/Aug/2012
@@ -66416,7 +66416,7 @@ da.lie 打猎
 \ps n
 \ge dé à coudre 
 \gn 顶针 
-\xv kɤ-rɤtʂɯβ ɯ-tshɯɣa nɯ kɯrɯ cho kupa ɣɯ ɯ-tɕhɤjlɯz mɤ-naχtɕɯɣ tɕe, taqaβ kɤ-ndo ɯ-tshɯɣa mɤ-naχtɕɯɣ tɕe, sɤndɤr kɤ-ntɕhoz ɯ-tshɯɣa kɯ́nɤ mɤ-naχtɕɯɣ tɕe, kupa ra kɯ sɤndɤr nɯ-jaʁndzu mɤpaχcɤl ɣɯ ɯ-qa zɯ lu-rʁe-nɯ ŋu ma taqaβ nɯ kɯ chɯ-sɯ-sthoʁ nɯ ɲɯ-ra, kɯrɯ ra kɯ sɤndɤr nɯ ɯ-jaʁndzu maŋlo nɯ ɣɯ ɯ-kɤχcɤl nɯ tɕu tu-sɯ-ndo-j ŋu ma nɯ kɯ taqaβ sɯ-sthoʁ-i ra. tɕe kupa ra thɯ-rɤtʂɯβ-nɯ tɕe ɯ-ʁɤri lu-ɕe-nɯ ŋu, kɯrɯ ra chɯ-rɤtʂɯβ-i tɕe, ɯ-qhu chu chɯ-cit-i ŋu. 
+\xv kɤ-rɤtʂɯβ ɯ-tshɯɣa nɯ kɯrɯ cho kupa ɣɯ ɯ-tɕhɤjlɯz mɤ-naχtɕɯɣ tɕe, taqaβ kɤ-ndo ɯ-tshɯɣa mɤ-naχtɕɯɣ tɕe, sɤndɤr kɤ-ntɕhoz ɯ-tshɯɣa kɯnɤ mɤ-naχtɕɯɣ tɕe, kupa ra kɯ sɤndɤr nɯ-jaʁndzu mɤpaχcɤl ɣɯ ɯ-qa zɯ lu-rʁe-nɯ ŋu ma taqaβ nɯ kɯ chɯ-sɯ-sthoʁ nɯ ɲɯ-ra, kɯrɯ ra kɯ sɤndɤr nɯ ɯ-jaʁndzu maŋlo nɯ ɣɯ ɯ-kɤχcɤl nɯ tɕu tu-sɯ-ndo-j ŋu ma nɯ kɯ taqaβ sɯ-sthoʁ-i ra. tɕe kupa ra thɯ-rɤtʂɯβ-nɯ tɕe ɯ-ʁɤri lu-ɕe-nɯ ŋu, kɯrɯ ra chɯ-rɤtʂɯβ-i tɕe, ɯ-qhu chu chɯ-cit-i ŋu. 
 \xn 藏族和汉族缝针的风俗不同，拿针的方式不一样，所以戴顶针的部位也不一样。汉族是把顶针戴在中指的根部，用这个部位来顶针，而我们藏族是把顶针戴在食指顶上，用这个部位来顶针。汉族缝布时是往前逢，我们藏族是向后缝。
 \dt 02/May/2012
 
@@ -66647,7 +66647,7 @@ da.lie 打猎
 \gn 血雉[松鸡子] 
 \hbf oiseau 
 \xv scuz nɯ pɣa ci ŋu, kɯmpɣa jamar wxti. ɯ-kɤχcɤl kɯ-xtɕɯ-xtɕi ɲaʁ, ɯ-phoŋbu kɯ-ɤrŋi ŋgɯz kɯ-pɣi tsa ŋu. ɯ-mi kɯ-qarŋe ŋu, ɯ-mtsioʁ kɯ-qarŋe ŋu, ɯ-jme ɯ-ku kɯ-rɟum tsa ŋu, ɯ-mɲaʁ ɯ-rkɯ qarma ɣɯ kɯ-fse kɯ-ɣɯrni a-fskɤr, sɯŋgɯ ʁɟa ʑo ku-rɤʑi ma tɯ-ji ŋgɯ ɣi mɤ-ŋgrɤl, sɯmat cho qajɯ ʁɟa tu-ndze ŋu. tɤ-mbri tɕe, "tɕur tɕur tɕur tɕur tɕur" tu-ti ŋu tɕe núndʐa ɯ-ɕa tɕur tu-kɯ-ti ɲɯ-ŋu. 
-\xn 松鸡子是一种鸟，有鸡那么大。头顶上有黑点，身子是蓝里带灰色，脚是黄色的，嘴是黄色的，尾巴的顶端有点宽，眼睛周围有一圈红色的皮象马鸡的一样。它一直生活在森林里，从不下地，专门吃野果和虫子。叫起来时，它发出“tɕur tɕur tɕur tɕur tɕur”的声音，所以人家说它的肉很酸。
+\xn 松鸡子是一种鸟，有鸡那么大。头顶上有黑点，身子是蓝里带灰色，脚是黄色的，嘴是黄色的，尾巴的顶端有点宽，眼睛周围有一圈红色的皮象马鸡的一样。它一直生活在森林里，从不下地，专门吃野果和虫子。叫起来时，它发出{tɕur tɕur tɕur tɕur tɕur}的声音，所以人家说它的肉很酸。
 \dt 29/Apr/2012
 
 \lx ^sɣa
@@ -67524,7 +67524,7 @@ l
 \gn 灌木的一种 
 \hbf plante 
 \xv sɯbɣi χsɯ-tɯphu tu, tɯ-tɯphu nɯ kɯ-xtshɯm kɯ-rɲɟi ŋu, tɯ-phɯ ŋgɯ tɕe kɯ-dɯ-dɤn ʑo tu. ɯ-mat nɯ staʁpɯ ɯ-mat kɯ-fse ŋu, ɯ-ru nɯ kuxtɕo kɤ-βzu sna, mɤʑɯ tɯ-tɯphu nɯ, sɯbɣi nɯ jpum tsa mbro tsa ɯ-mnɯ nɯ ɯ-spjɯŋ nɯ kɯ-wɣrum tɕe kɯ-mpɯ ŋu, ɯ-mɯntoʁ nɯ kɯ-wɣrum ɲɯ-lɤt tɕe mpɕɤr, ɯ-mat me, mɤʑɯ tɯ-tɯphu nɯ sɯŋgɯ kɯ-wxti ŋgɯ tɯ-tɯphu ma me, xtɕi ri ɯ-ru nɯ ngɯt ɯ-mɯntoʁ cho ɯ-mat me. sɯbɣi χsɯ-tɯphu nɯ nɯ-rqhu kɯ-pɣi ŋu, tɕe núndʐa sɯbɣi rmi 
-\xn {sɯbɣi} 有三种，一种长得细长，一棵里许多根，果实象豌豆的果实一样，干了可以编背篼。另一种长得又粗又高，枝条主心是白色的，很软，开好看的白花，没有果实。还有一种长在高大的森林里，比较少见，虽然矮小但主干非常结实，又没有花，又没有果实。这三种sɯbɣi树皮都是灰色的，所以叫作sɯbɣi。
+\xn {sɯbɣi} 有三种，一种长得细长，一棵里许多根，果实象豌豆的果实一样，干了可以编背篼。另一种长得又粗又高，枝条主心是白色的，很软，开好看的白花，没有果实。还有一种长在高大的森林里，比较少见，虽然矮小但主干非常结实，又没有花，又没有果实。这三种{sɯbɣi}树皮都是灰色的，所以叫作{sɯbɣi}。
 \dt 30/Dec/2013
 
 \lx $sɯβsɯβ
@@ -67589,7 +67589,7 @@ l
 \ge pic-vert 
 \gn 啄木鸟 
 \hbf oiseau 
-\xv sɯkɯnthoʁ nɯ pɣa ci ŋu, qapɣɤmtɯmtɯ sɤ́znɤ wxti, ɯ-mtsioʁ kɯ-rɲɟɯ-rɲɟi kɤ-mtɕɯ-mtɕoʁ ŋu tɕe, si ɯ-ru ku-sɯspoʁ tɕe, ɯ-ŋgɯ qajɯ ɲɯ-nɯ-tɕɤt cha, tɕe si ɯ-ŋgɯ qajɯ nɯ ʁɟa ʑo tu-ndze ŋu, sɯkɯnthoʁ ɯ-βri kɯ-ɣɯrni tu, kɯ-ɲaʁ tu, kɯ-qarŋe tu, kɯ-wɣrum tu nɯ ra akhra tɕe wuma ʑo mpɕɤr. ɯ-jme rɲɟi tsa. aʁɤndɯndɤt ʑo ju-ɕe cha. 
+\xv sɯkɯnthoʁ nɯ pɣa ci ŋu, qapɣɤmtɯmtɯ sɤznɤ wxti, ɯ-mtsioʁ kɯ-rɲɟɯ-rɲɟi kɤ-mtɕɯ-mtɕoʁ ŋu tɕe, si ɯ-ru ku-sɯspoʁ tɕe, ɯ-ŋgɯ qajɯ ɲɯ-nɯ-tɕɤt cha, tɕe si ɯ-ŋgɯ qajɯ nɯ ʁɟa ʑo tu-ndze ŋu, sɯkɯnthoʁ ɯ-βri kɯ-ɣɯrni tu, kɯ-ɲaʁ tu, kɯ-qarŋe tu, kɯ-wɣrum tu nɯ ra akhra tɕe wuma ʑo mpɕɤr. ɯ-jme rɲɟi tsa. aʁɤndɯndɤt ʑo ju-ɕe cha. 
 \xn 啄木鸟是一种鸟，比戴胜大，嘴长而尖，在树干上打洞，自己能够取出虫子，专门吃树干里的虫子。啄木鸟身子上有红色、黑色、黄色、白色等颜色的花纹，非常美丽。尾巴有点长。到处都能去。
 \dt 05/May/2012
 
@@ -68758,7 +68758,7 @@ l
 \ge chardon 
 \gn 大蓟 
 \hbf plante 
-\xv tɤmdzɤrgi nɯ sɯjno ci ŋu, ɯ-zrɤm wɣrum khro mɤ-wxti, nɯɕɯmɯma ʑo kɤ-phɯt khɯ, ɯ-jwaʁ nɯ thoʁ pjɯ-tɯɣ ʑo ŋu, ɯ-jwaʁ ɯ-mdzu wuma ʑo dɤn, ɯ-jwaʁ ɯ-βzɯr ɣɯ ɯ-mdzu nɯ mɤʑɯ ʑo mtɕoʁ cho rɲɟi. ɯ-χcɤl ɯ-ru tu-ɬoʁ tɕe, ɯ-βzɯr tu. ɯ-ru taʁ nɯ ra kɯ́nɤ ɯ-mdzu tu. ɯ-ru tɤ-zri tsa tɕe, li ɯ-jwaʁ ɲɯ-ɬoʁ tɕe, ɯ-mɯntoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ ʁmɤrsmɯɣ tsa ŋu, ɯ-mɯntoʁ pɯ-ŋgra tɕe, ɯ-rɣi ɲɯ-βze tɕe, ɯ-rɣi ɯ-ku zɯ li ɯ-rme kɯ-fse tu, qale kɯ ju-nɯtsɯm cha. tɤmdzɤrgi nɯ ɲɯ́-wɣ-phɯt tɕe, ɯ-di ci tu. 
+\xv tɤmdzɤrgi nɯ sɯjno ci ŋu, ɯ-zrɤm wɣrum khro mɤ-wxti, nɯɕɯmɯma ʑo kɤ-phɯt khɯ, ɯ-jwaʁ nɯ thoʁ pjɯ-tɯɣ ʑo ŋu, ɯ-jwaʁ ɯ-mdzu wuma ʑo dɤn, ɯ-jwaʁ ɯ-βzɯr ɣɯ ɯ-mdzu nɯ mɤʑɯ ʑo mtɕoʁ cho rɲɟi. ɯ-χcɤl ɯ-ru tu-ɬoʁ tɕe, ɯ-βzɯr tu. ɯ-ru taʁ nɯ ra kɯnɤ ɯ-mdzu tu. ɯ-ru tɤ-zri tsa tɕe, li ɯ-jwaʁ ɲɯ-ɬoʁ tɕe, ɯ-mɯntoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ ʁmɤrsmɯɣ tsa ŋu, ɯ-mɯntoʁ pɯ-ŋgra tɕe, ɯ-rɣi ɲɯ-βze tɕe, ɯ-rɣi ɯ-ku zɯ li ɯ-rme kɯ-fse tu, qale kɯ ju-nɯtsɯm cha. tɤmdzɤrgi nɯ ɲɯ́-wɣ-phɯt tɕe, ɯ-di ci tu. 
 \xn 大蓟是一种植物，根是白色的，长得不大，一下子就可以拔掉，叶子贴住地面，叶子上长满刺，叶子边的刺（比叶面的刺）长和尖。中间长茎，有棱角。茎上也长有刺。茎长高后，又长叶子，开花。花是紫色的，花凋谢后，就结种子，种子上也长有象毛的东西，可以被风吹走。扯大蓟时会发出臭味。
 \dt 10/May/2012
 
@@ -68786,8 +68786,8 @@ l
 \ps n
 \ge tsampa 
 \gn 糌粑的一种吃法 
-\xv khɯtsa ŋgɯ tʂha ɯ-qiɯ kɯ-xtɕi tú-wɣ-rku tɕe ɯ-taʁ tɯ-sqar pjɯ́-wɣ-lɤt tɕe tɕhɯβroʁ ɯ-stáʁnɤ kɯ-spɯ tsa ɲɯ́-wɣ-ɕmi tɕe tú-wɣ-ndza tɕe nɯnɯ tɤ-mphoʁ rmi. 
-\xn 在碗里倒小半碗的水，再放上少量糌粑，搅均匀后就可以吃。比tɕhɯβroʁ干一点 。这种吃法叫作tɤ-mphoʁ。
+\xv khɯtsa ŋgɯ tʂha ɯ-qiɯ kɯ-xtɕi tú-wɣ-rku tɕe ɯ-taʁ tɯ-sqar pjɯ́-wɣ-lɤt tɕe tɕhɯβroʁ staʁnɤ kɯ-spɯ tsa ɲɯ́-wɣ-ɕmi tɕe tú-wɣ-ndza tɕe nɯnɯ tɤmphoʁ rmi. 
+\xn 在碗里倒小半碗的水，再放上少量糌粑，搅均匀后就可以吃。比{tɕhɯβroʁ}干一点 。这种吃法叫作{tɤmphoʁ}。
 \dt 10/May/2014
 
 \lx ^tɤmtɕar
@@ -68797,7 +68797,7 @@ l
 \ge pièce de tissu triangulaire utilisée dans les habits tibétains 
 \gn 藏式服装中的长三角形的布料 
 \hbf objet traditionel 
-\xv kɯrɯ ŋga chɯ́-wɣ-tʂɯβ tɕe, tɯ-ŋga ɣɯ χchoʁe ʑo tɤmtɕar tú-wɣ-lɤt ra ma nɯmɤɕtʂa mɤ-nɯɣɯ-ŋke 
+\xv kɯrɯ ŋga chɯ́-wɣ-tʂɯβ tɕe, tɯ-ŋga ɣɯ χchoʁe ʑo tɤmtɕar tú-wɣ-lɤt ra ma nɯmɤɕtʂa mɤ-nɯɣɯŋke 
 \xn 缝藏装时，衣服的左右两边必须要缝上三角形布料，不然不便于走路。
 \dt 12/May/2012
 
@@ -70105,8 +70105,8 @@ l
 \ge xanthoxyle 
 \gn 花椒 
 \hbf plante 
-\xv tɕɣom nɯ si mɤ-kɯ-mbro ci ŋu, ɯ-mdzu tu, ɯ-ru ɯ-taʁ ɯ-mdzu rkɯn, ɯ-rtaʁ taʁ ɯ-mdzu dɤn, tɕɣom nɯ sɯŋgɯ tɕɣom ci tu, kha rkɯ pɯ-kɤ-nɯ-ji tɕɣom ci tu, pɯ-kɤ-nɯji tɕɣom nɯ tɕɣomte rmi, sɯŋgɯ tɕɣom nɯ tɕɣomzaʁ rmi, tɕɣomzaʁ ɣɯ ɯ-mat ndɯβ, tɕɣomte ɣɯ ɯ-mat jndʐɤs, thɯ-tɯt tɕe, chɯ-ɣɯrni ŋu, ɯ-mat ɯ-pɕi zɯ ɯ-kri tu, tɕe kú-wɣ-rtoʁ tɕe nɤmbju ʑo. ɲɯ́-wɣ-phɯt tɕe, ɯ-kri nɯ tɯ-mɲaʁ ŋgɯ ku-ɕe tɕe toʁde wuma ʑo ɕɯmŋɤm. tú-wɣ-ndza tɕe mɤrtsaβ tɕe ɣɤzɯβzɯβ ʑo, ɯ-dɯχɯn mɯm. ndzɤtshi ɯ-ŋgɯ kú-wɣ-nɯ-lɤt tɕe mɯm. 
-\xn 花椒是矮小的树木，有刺，树干上刺不多，枝桠上刺多，有野生花椒，也有家边自己种的。自己种的叫tɕɣomte（真花椒），野生的叫tɕɣomzaʁ。野花椒的果实小一些，家花椒的果实大一些。成熟了就变红，果实外面有一层油，看起来有光泽。摘花椒的时候，油进了眼睛，暂时很痛。吃起来是麻的，很香。放在食物里很香。
+\xv tɕɣom nɯ si mɤ-kɯ-mbro ci ŋu, ɯ-mdzu tu, ɯ-ru ɯ-taʁ ɯ-mdzu rkɯn, ɯ-rtaʁ taʁ ɯ-mdzu dɤn, tɕɣom nɯ sɯŋgɯ tɕɣom ci tu, kha rkɯ pɯ-kɤ-nɯ-ji tɕɣom ci tu, pɯ-kɤ-nɯji tɕɣom nɯ tɕɣomte rmi, sɯŋgɯ tɕɣom nɯ tɕɣomzaʁ rmi, tɕɣomzaʁ ɣɯ ɯ-mat ndɯβ, tɕɣomte ɣɯ ɯ-mat jndʐɤz, thɯ-tɯt tɕe, chɯ-ɣɯrni ŋu, ɯ-mat ɯ-pɕi zɯ ɯ-kri tu, tɕe kú-wɣ-rtoʁ tɕe nɤmbju ʑo. ɲɯ́-wɣ-phɯt tɕe, ɯ-kri nɯ tɯ-mɲaʁ ŋgɯ ku-ɕe tɕe toʁde wuma ʑo ɕɯmŋɤm. tú-wɣ-ndza tɕe mɤrtsaβ tɕe ɣɤzɯβzɯβ ʑo, ɯ-dɯχɯn mɯm. ndzɤtshi ɯ-ŋgɯ kú-wɣ-nɯ-lɤt tɕe mɯm. 
+\xn 花椒是矮小的树木，有刺，树干上刺不多，枝桠上刺多，有野生花椒，也有家边自己种的。自己种的叫{tɕɣomte}（真花椒），野生的叫{tɕɣomzaʁ}。野花椒的果实小一些，家花椒的果实大一些。成熟了就变红，果实外面有一层油，看起来有光泽。摘花椒的时候，油进了眼睛，暂时很痛。吃起来是麻的，很香。放在食物里很香。
 \cf tɕɣomte
 \cf tɕɣomzaʁ
 \cf nɯtɕɣom
@@ -70294,7 +70294,7 @@ l
 \ps n
 \ge navet (Brassica sp.) 
 \gn 芜菁的一种[冬圆根] 
-\xv tɕhɯma nɯ ɯ-tshɯɣa ra rasti cho naχtɕɯɣ, tɕeri ɯ-mdoʁ mɤ-nɤχtɕɯɣ, tɕhɯma nɯ ɯ-jwaʁ nɯ mpɕu, kɯ-xtɕɯ-xtɕi nɤmbju, ɯ-jwaʁ cho ɯ-jndoʁ nɯ ra rasti sɤ́znɤ mpɯ, rasti nɯ χɕitka tɕe pjɯ́-wɣ-ji, tɕe zgoku nɯ ra stonka mɤɕtʂa mɤ-kɤ-phɯt khɯ. a-pɯ-nɯɣur tɕe, mɤʑɯ arŋi cho mpɯ. tɕhɯma nɯ χɕitka sthɯci mɤ-lɤ́-wɣ-ji kɯ stonka tɕe lú-wɣ-ji. kɯ-maʁ tɤ-rɤku kɤ́-wɣ-phɯt ɯ-mphru ɕɯmɯma tɕe lú-wɣ-ji tɕe tɯ-sla jamar tɕe kɤ-ndza tu-βze cha. li tɤjko ɯ-spa kɯ-pe ŋu. ɯ-jndoʁ nɯ paʁndza pe, kɤ́-wɣ-sqa tɕe tɯrme kɤ-ndza sna. 
+\xv tɕhɯma nɯ ɯ-tshɯɣa ra rasti cho naχtɕɯɣ, tɕeri ɯ-mdoʁ mɤ-nɤχtɕɯɣ, tɕhɯma nɯ ɯ-jwaʁ nɯ mpɕu, kɯ-xtɕɯ-xtɕi nɤmbju, ɯ-jwaʁ cho ɯ-jndoʁ nɯ ra rasti sɤznɤ mpɯ, rasti nɯ χɕitka tɕe pjɯ́-wɣ-ji, tɕe zgoku nɯ ra stonka mɤɕtʂa mɤ-kɤ-phɯt khɯ. a-pɯ-nɯɣur tɕe, mɤʑɯ arŋi cho mpɯ. tɕhɯma nɯ χɕitka sthɯci mɤ-lɤ́-wɣ-ji kɯ stonka tɕe lú-wɣ-ji. kɯ-maʁ tɤ-rɤku kɤ́-wɣ-phɯt ɯ-mphru ɕɯmɯma tɕe lú-wɣ-ji tɕe tɯ-sla jamar tɕe kɤ-ndza tu-βze cha. li tɤjko ɯ-spa kɯ-pe ŋu. ɯ-jndoʁ nɯ paʁndza pe, kɤ́-wɣ-sqa tɕe tɯrme kɤ-ndza sna. 
 \xn 冬圆根样子和圆根一样，但是颜色不同，冬圆根的叶子是光滑的，有点光泽，叶子和根比圆根嫩。圆根在春天种下，在高山上的那些可以等到秋天才拔，遭到霜后才收会更绿、更嫩。冬圆根不要在春天种，等其他庄稼收完以后，马上把它种下，不到一个月就可以吃了。也是煮酸菜的好材料，根有是喂猪的好饲料，煮熟后人也可以吃。
 \dt 06/May/2012
 
