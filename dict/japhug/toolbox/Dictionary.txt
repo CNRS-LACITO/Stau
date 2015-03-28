@@ -10682,12 +10682,12 @@
 \cf aɣɯci
 \dt 08/Jan/2014
 
-\lx tɯci ɕku
+\lx tɯciɕku
 \ps n
 \ge poireau sauvage 
 \gn 野韭菜 
 \hbf plante 
-\xv tɯ-ci ɕku nɯ tɯ-ci ɯ-rkɯ qambɯt ŋgɯ rdɤstaʁ ɯ-rchɤβ tu-ɬoʁ ŋu. ɯ-tshɯɣa ra lonba tɤ-spɯ ɕku fse, tɕeri ɯ-mdoʁ arŋi. kɯ-ɣɤjlu di me. tu-tɯ-ɬoʁ tú-wɣ-ndza tɕe mɯm. 
+\xv tɯciɕku nɯ tɯ-ci ɯ-rkɯ qambɯt ŋgɯ rdɤstaʁ ɯ-rchɤβ tu-ɬoʁ ŋu. ɯ-tshɯɣa ra lonba tɤ-spɯ ɕku fse, tɕeri ɯ-mdoʁ arŋi. kɯ-ɣɤjlu di me. tu-tɯ-ɬoʁ tú-wɣ-ndza tɕe mɯm. 
 \xn {tɯciɕku}生长在大河边的沙滩里和石头缝里，形状完全和{tɤspɯɕku} 一样，但是颜色是绿色的，没有腥味。刚长出来时吃起来很香。
 \dt 26/Jan/2015
 
@@ -21066,7 +21066,7 @@
 \pdv tɤ-
 \ge être dans 
 \gn 装在
-\xv a-tɯci tu, arku
+\xv a-tɯ-ci tu, arku
 \xn 杯子里装着水
 \cf rku
 \dt 24/Aug/2012
@@ -25061,7 +25061,7 @@
 \xn 天亮开了（原来是阴天）
 \xv kha ɲo-fsoʁ
 \xn 房间变亮了
-\xv tɯ-tshot kɯtʂɤɣ ko-zɣɯt tɕe lo-fsoʁ
+\xv tɯtshot kɯtʂɤɣ ko-zɣɯt tɕe lo-fsoʁ
 \xn 到了六点钟，天就亮
 \se ɣɤfsoʁ
 \ps vt
@@ -36735,7 +36735,7 @@ da.lie 打猎
 \ge être au milieu 
 \gn 到中间
 \et dkʲil
-\xv tɯ-ci kɤ-nɤχcɤl (tɯci ŋgɯ kɤ-ndʑaʁ tɕe kɤ-nɤχcɤl)
+\xv tɯ-ci kɤ-nɤχcɤl (tɯ-ci ŋgɯ kɤ-ndʑaʁ tɕe kɤ-nɤχcɤl)
 \xn 他到水的中间了
 \xv ndzom ɯ-taʁ kɤ-nɤχcɤl
 \xn 他到桥的中间
@@ -38250,7 +38250,7 @@ da.lie 打猎
 \xn 它喝了河流的水
 \xv cɯβloʁ pɯ-nɯci
 \xn 它喝了池塘的水
-\cf tɯci
+\cf tɯ-ci
 \dt 14/Jan/2011
 
 \lx _nɯcinthaʁ
@@ -47088,7 +47088,7 @@ da.lie 打猎
 \ps vs
 \ge vigoureux 
 \gn 硬朗 
-\xv a-mu kɯɕnɯsqaprɯɣ ʑo thɯ-azɣɯt ri, wuma ʑo rkaŋ 
+\xv a-mu kɯɕnɯsqaprɤɣ ʑo thɯ-azɣɯt ri, wuma ʑo rkaŋ 
 \xn 虽然我母亲已经76岁，但是她很能干
 
 \lx _rkɤl
@@ -47188,7 +47188,7 @@ da.lie 打猎
 \xn 我装进口袋里了
 \xv kɯɕnom ɯ-rdoʁ chɤ-rku
 \xn 青稞穗的颗粒结满了
-\uv tɤɕi, stoʁ, staʁpɯ, tɯci, nɯ 'tɤ-rku-t-a' tu-kɯ-ti ŋu, laχtɕha kɯfse nɯnɯ, nɯ 'pɯ-rku-t-a' tu-kɯ-ti ŋu
+\uv tɤɕi, stoʁ, staʁpɯ, tɯ-ci, nɯ 'tɤ-rku-t-a' tu-kɯ-ti ŋu, laχtɕha kɯfse nɯnɯ, nɯ 'pɯ-rku-t-a' tu-kɯ-ti ŋu
 \un 装青稞、胡豆、豌豆、水等应该说{tɤrkuta}，装东西的时候应该说{pɯrkuta}
 \xv nɤ-ku sɤ-rku kɯ-me, nɯra a-mɤ-thɯ-tɯ-nɯkon
 \xn 没有你的事，你不要管
@@ -54030,7 +54030,7 @@ da.lie 打猎
 \gn 认为，当作 
 \xv ɯʑo kɯ-ɕqraʁ tu-sɯpe-a pɯ-ŋu ri, mɯ́j-ɕqraʁ
 \xn 我以为他很聪明，其实他不聪明
-\xv jɯfɕɯr aʑo ʁnɯ-ɣjɤn kɤ-rŋgɯ-a tɕe, ci tú-wɣ-sɯpa tɕe tɯ-tshot kɯngɯt jamar pɯ-nɯʑɯβ-a 
+\xv jɯfɕɯr aʑo ʁnɯ-ɣjɤn kɤ-rŋgɯ-a tɕe, ci tú-wɣ-sɯpa tɕe tɯtshot kɯngɯt jamar pɯ-nɯʑɯβ-a 
 \xn 我昨天睡了两次,加起来一共睡大概九个小时。
 \dt 04/Nov/2013
 
@@ -63218,7 +63218,7 @@ da.lie 打猎
 \ge hibou 
 \gn 猫头鹰 
 \hbf oiseau 
-\xv pɣɤkhɯ nɯ pɣa ci ŋu, wxti tsa qandʑɣi jamar tu, lɤŋɤtʂɤ-tɯ-rpa jamar zɣɯt, ɯ-phoŋbu nɯ kɯ-pɣi tɕe kɯ-qandʐi tsa ŋu, ɯ-ku nɯ lɯlu ku tsa fse ri pɣa ŋu tɕe ɯ-mtsioʁ tu, ɯ-mtsioʁ moŋtaʁ ɣɯ ɯ-ku nɯ lu-ŋgɤɣ tsa ɲɯ-ŋu, ɯ-mɲaʁ nɯ ɕɤr tɕe ɲɯ-mto ma sŋi tɕe mɯ́j-mto tɕe ɯʑo ɯ-kɤ-ndza kɯ-ɕar nɯ ɕɤr ʁɟa ju-ɬoʁ ɲɯ-ŋu, tɕe βʑɯ tu-ndze, qaɲi tu-ndze, qala kɯ-fse nɯ ra tu-ndze ɲɯ-ŋu. ɕɤr tɕe tu-mbri ŋgrɤl, tɕe 'uhu' tu-ti ɲɯ-ŋu, tɕe tsuku tɯrme wuma ʑo kɯ-nɯrmɯ kɯ-nɯmtɕi tu-nɯ tɕe ɕɤr ɲɯ-kɯ-rɤmá-nɯ pɣɤkhɯ tu-sɤrmi-nɯ ŋgrɤl. 
+\xv pɣɤkhɯ nɯ pɣa ci ŋu, wxti tsa qandʑɣi jamar tu, lɤŋɤtʂɤ-tɯ-rpa jamar zɣɯt, ɯ-phoŋbu nɯ kɯ-pɣi tɕe kɯ-qandʐi tsa ŋu, ɯ-ku nɯ lɯlu ku tsa fse ri pɣa ŋu tɕe ɯ-mtsioʁ tu, ɯ-mtsioʁ moŋtaʁ ɣɯ ɯ-ku nɯ lu-ŋgɤɣ tsa ɲɯ-ŋu, ɯ-mɲaʁ nɯ ɕɤr tɕe ɲɯ-mto ma sŋi tɕe mɯ́j-mto tɕe ɯʑo ɯ-kɤ-ndza kɯ-ɕar nɯ ɕɤr ʁɟa ju-ɬoʁ ɲɯ-ŋu, tɕe βʑɯ tu-ndze, qaɲi tu-ndze, qala kɯ-fse nɯ ra tu-ndze ɲɯ-ŋu. ɕɤr tɕe tu-mbri ŋgrɤl, tɕe 'uhu' tu-ti ɲɯ-ŋu, tɕe tsuku tɯrme wuma ʑo kɯ-nɯrmɯ kɯ-nɯmtɕi tu-nɯ tɕe ɕɤr ɲɯ-kɯ-rɤma-nɯ pɣɤkhɯ tu-sɤrmi-nɯ ŋgrɤl. 
 \xn 猫头鹰是一种鸟，和隼一样大，可以达到五六斤重，身子灰里带黑。头有点象猫，但有鸟喙，因为是鸟。上鸟喙的顶端是钩着的。眼睛只有夜里才看见东西，白天看不见。它只有晚上才出来觅食，吃老鼠、鼹鼠、兔子等动物。它会在夜里叫，叫声是‘uhu’。所以人们把喜欢晚收工，早出工，晚上工作的人称作“猫头鹰”。 
 \nqr
 \dt 15/Apr/2012
@@ -64537,7 +64537,7 @@ da.lie 打猎
 \ge espèce d'arbrisseau 
 \gn 灌木的一种 
 \hbf plante 
-\xv razɴɢu nɯ si kɯ-mbɯ-mbɤr ci ŋu, rdɤstaʁ cho praʁ ɯ-taʁ jɯ-ʑɣɤ-ɲɟoʁ tɕe, tu-ɬoʁ ŋu. ɯ-jwaʁ cho ɯ-ru nɯ ra ɯ-mat nɯ ra tɤ-ru cho aɣɯmdoʁ, ɯ-mat cho ɯ-jwaʁ ra fsapaʁ ra kɯ tu-ndzá-nɯ ŋgrɤl 
+\xv razɴɢu nɯ si kɯ-mbɯ-mbɤr ci ŋu, rdɤstaʁ cho praʁ ɯ-taʁ jɯ-ʑɣɤ-ɲɟoʁ tɕe, tu-ɬoʁ ŋu. ɯ-jwaʁ cho ɯ-ru nɯ ra ɯ-mat nɯ ra tɤ-ru cho aɣɯmdoʁ, ɯ-mat cho ɯ-jwaʁ ra fsapaʁ ra kɯ tu-ndza-nɯ ŋgrɤl 
 \xn {razɴɢu} 是一种非常矮小的树，爬在石头和岩石上。叶子、干和果实颜色和火棘一样，牲畜都吃它的果实和叶子。
 \dt 20/Apr/2012
 
@@ -66910,7 +66910,7 @@ da.lie 打猎
 \ge feu 
 \gn 火 
 \hbf 18 
-\xv tɕetha mɤʑɯ tɯ-tshot kɯmŋu-skɤrma tɕe kɤ-lɤt ma, ɤj smi ci tu-βze-a ntshi ma ɲɯ-mɯɕtaʁ wo
+\xv tɕetha mɤʑɯ tɯtshot kɯmŋu-skɤrma tɕe kɤ-lɤt ma, ɤj smi ci tu-βze-a ntshi ma ɲɯ-mɯɕtaʁ wo
 \xn 你过五分钟再打电话，我先烧一点火因为很冷
 \dt 29/Apr/2012
 
@@ -66936,6 +66936,7 @@ da.lie 打猎
 \gn 火的热光
 \xv smɯɣot ɲɯ-mpja
 \xn 火光的热的
+\cf smi²
 \dt 29/Dec/2011
 
 \lx $smɯɣsmɯɣ
@@ -67132,7 +67133,6 @@ da.lie 打猎
 \ps n
 \ge jour et nuit 
 \gn 白天黑夜 
-\hbf *tɤmu.44
 \dt 02/May/2012
 
 \lx ^sŋo
@@ -67180,7 +67180,6 @@ da.lie 打猎
 \ps n
 \ge monde 
 \gn 世界 
-\hbf *kɤndʑɯxtɤɣ.3 
 \et sa.gʑi
 \dt 02/May/2012
 
@@ -67233,7 +67232,6 @@ da.lie 打猎
 \ps n
 \ge sol du grenier 
 \gn 仓库的地面 
-\hbf *koŋzoŋ.308
 \dt 02/May/2012
 
 \lx ^spjɤtɕha
