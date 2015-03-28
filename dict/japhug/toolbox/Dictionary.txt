@@ -1850,7 +1850,7 @@
 \ge Selaginella sp. 
 \gn 卷柏 
 \hbf plante 
-\xv ɣzɯthɯz nɯ praʁ ɯ-taʁ ku-ndzoʁ ŋu, cɤmi pɕoʁ sɤtɕha kɯ-mpja nɯ tɕu tu-ɬoʁ ɲɯ-ŋu. praʁ ɯ-taʁ ko-ɲɟoʁ ku-fse tu-ɬoʁ, tɕe ɯ-ru maŋe, ɯ-mɯntoʁ me, ɯ-jwaʁ nɯ ɕɤɣ ɣɯ ɯ-jwaʁ tsa ɲɯ-fse, ɯ-jwaʁ ɯ-χcɤl ɯ-ŋgɯ chu tu-ŋgɤɣ, tɕe ɯ-χcɤl pɕoʁ ku-wum kɯ-fse ɲɯ-ŋu. ɯ-mdoʁ nɯ ftɕar ɲɯ-ɤrŋi, qartsɯ ɲɯ-pɣi ɲɯ-ŋu ri, ɲɯ-rom mɯ́-j-cha. kɯɕɯŋgɯ tɕe, ɲɯ-phɯt-nɯ tɕe, tɯ-thɯ ɯ-sɤ-χtɕi tu-βzu-nɯ pɯ-ŋu. tham tɕe ɯ-kɯ-ntɕhoz me. 
+\xv ɣzɯthɯz nɯ praʁ ɯ-taʁ ku-ndzoʁ ŋu, cɤmi pɕoʁ sɤtɕha kɯ-mpja nɯ tɕu tu-ɬoʁ ɲɯ-ŋu. praʁ ɯ-taʁ ko-ɲɟoʁ ku-fse tu-ɬoʁ, tɕe ɯ-ru maŋe, ɯ-mɯntoʁ me, ɯ-jwaʁ nɯ ɕɤɣ ɣɯ ɯ-jwaʁ tsa ɲɯ-fse, ɯ-jwaʁ ɯ-χcɤl ɯ-ŋgɯ chu tu-ŋgɤɣ, tɕe ɯ-χcɤl pɕoʁ ku-wum kɯ-fse ɲɯ-ŋu. ɯ-mdoʁ nɯ ftɕar ɲɯ-ɤrŋi, qartsɯ ɲɯ-pɣi ɲɯ-ŋu ri, ɲɯ-rom mɯ́j-cha. kɯɕɯŋgɯ tɕe, ɲɯ-phɯt-nɯ tɕe, tɯ-thɯ ɯ-sɤ-χtɕi tu-βzu-nɯ pɯ-ŋu. tham tɕe ɯ-kɯ-ntɕhoz me. 
 \xn 卷柏生长在岩石上，在河坝气候温和的地方生长。长的样子好像是贴着岩石，没有茎，没有花，叶子有些类似柏树叶，叶子中间部分往里卷，合在一起。叶子的颜色夏绿冬灰，但不会干枯。以前，人们拆下来用来洗锅子，现在就没有人用了。
 
 \lx ɣʑɤzga ɯ-rqhu
@@ -6661,9 +6661,8 @@
 \wav8 tWrcu_Wmbe_WkWNga
 \ps n
 \ge personne qui porte une veste usée 
-\gn 穿破旧皮袄的人 
-\hbf *tɤrɯʁnɯs.144
-\dv tɯrcu ɯmbe ɯkɯŋga
+\gn 穿破旧皮袄的人
+\dv tɯrcu ɯ-mbe ɯ-kɯ-ŋga
 \dt 08/Jan/2012
 
 \lx rcɯɣrcɯɣ
@@ -6955,7 +6954,7 @@
 \gn 形容薄薄的层、不完全透明的样子
 \xv jisŋi zdɯm ci rmɤβrmɤβ ɣɤʑu
 \xn 今天云很薄，不完全透明
-\xv tɯ-ci ɲɤ-nɤrʑaʁ tɕe ɯ-taʁ ɯɕom kɯfse ci rmɤβrmɤβ ko-ta, tɕe kɤ-tshi mɯ-ɲɤ-sna
+\xv tɯ-ci ɲɤ-nɤrʑaʁ tɕe ɯ-taʁ ɯ-ɕom kɯ-fse ci rmɤβrmɤβ ko-ta, tɕe kɤ-tshi mɯ-ɲɤ-sna
 \xn 水放久了就会在表面上形成薄薄的一层，不能再喝了
 \sy ʂmɤβʂmɤβ
 \dt 28/Aug/2012
@@ -8574,7 +8573,7 @@
 \gn 咳嗽
 \xv nɤʑo tɤ-ɕqhe ɯ-ɲɯ-mna ?
 \xn 你的咳嗽好了没有？
-\xv nɤʑo nɤ-ɕqhe ɯβrɤɣɤʑu?
+\xv nɤʑo nɤ-ɕqhe ɯβrɤ-ɣɤʑu?
 \xn 你有没有咳嗽？
 \cf aɕqhe
 \dt 13/Nov/2013
@@ -12562,7 +12561,7 @@
 \ge sapin 
 \gn 杉树 
 \hbf plante 
-\xv tɯrgi nɯ zgo kɯ-mbro ɴqiaβ tsa tu-ɬoʁ ŋu, si wuma ʑo kɯ-mbro, ɯ-ru nɯ kɯ-jpɯ-jpum kɯ-mbɯ-mbro ŋu, ɯ-rtaʁ nɯ khro mɤ-jpum tɕe, ɯ-βri nɯ tɕu mɤ-kɯ-ɤmtɕhoʁ tu-oʑɯrja ŋu. ɯ-rtaʁ maŋpa nɯ ra zri, taʁ tɤ-ari ɯ-jija ɯ-rtaʁ nɯ tu-xtɯt ŋu, ɯ-rtaʁ nɯ ɯ-taʁ nɯ tɕu, li ɯ-rtaʁ ɲɯ-nɯ-ɴɢɤt ŋu, ɯ-jwaʁ nɯ ta-qaβ fse ri, xtɯt　aɕpɯɕpa, tɕe ɯ-rtaʁ ɯ-taʁ ɯ-jwaʁ ɯ-tɯ-ndzoʁ nɯ tɤ-muj kɯ-fse ɯ-tshɯɣa ŋu. tɯ-rgi ɯ-jwaʁ nɯ arŋi tɕe pɣi tsa, ɯ-mat nɯ qaɟy ɯ-rqhu tsa fse, alɯlju tɕe rɲɟi tsa, tɕe nɯ ɯ-ŋgɯ nɯ tɕu, ɯ-rɣi arku, thɯ-tɯt tɕe, qaɟy rqhu kɯ-fse nɯ roŋri ʑo ɲɤ-ɴɢaʁ, tɕe ɯ-rɣi pjɯ-nɯɬoʁ ŋu ma ɯ-zrɤm taʁ tu-mphɯl mɤ-cha, tɕe ɯ-mat nɯ tɯ-rgi laŋlaŋ rmi. tɯ-rgi ɯ-ru nɯ wuma ʑo tɤ-rɤm ɯ-spa kɯ-ʑru, tɯ-rgi tɯ-phɯ nɯ kɯβdɤsqi-ɟom, kɯmŋɤsqi-ɟom kɯ-mbro ɲɯ-ɕti. tɕe nɯ nɯ́-wɣ-phɯt tɕe ɕoŋtɕa ɕnɤcɤt-rzɯɣ pjɤ-βzu ɲɤ-rtaʁ. tɕe ɯ-rtaʁ nɯ ra kɤ-nɯβlɯ ma mɯ́-j-sna, ɯ-ru nɯ ŋgɤjpɤn chɯ́-wɣ-lɤt tɕe, laχtɕha tɕhi kɯ-ra kɤ-βzu sna. 
+\xv tɯrgi nɯ zgo kɯ-mbro ɴqiaβ tsa tu-ɬoʁ ŋu, si wuma ʑo kɯ-mbro, ɯ-ru nɯ kɯ-jpɯ-jpum kɯ-mbɯ-mbro ŋu, ɯ-rtaʁ nɯ khro mɤ-jpum tɕe, ɯ-βri nɯ tɕu mɤ-kɯ-ɤmtɕhoʁ tu-oʑɯrja ŋu. ɯ-rtaʁ maŋpa nɯ ra zri, taʁ tɤ-ari ɯ-jija ɯ-rtaʁ nɯ tu-xtɯt ŋu, ɯ-rtaʁ nɯ ɯ-taʁ nɯ tɕu, li ɯ-rtaʁ ɲɯ-nɯ-ɴɢɤt ŋu, ɯ-jwaʁ nɯ ta-qaβ fse ri, xtɯt　aɕpɯɕpa, tɕe ɯ-rtaʁ ɯ-taʁ ɯ-jwaʁ ɯ-tɯ-ndzoʁ nɯ tɤ-muj kɯ-fse ɯ-tshɯɣa ŋu. tɯ-rgi ɯ-jwaʁ nɯ arŋi tɕe pɣi tsa, ɯ-mat nɯ qaɟy ɯ-rqhu tsa fse, alɯlju tɕe rɲɟi tsa, tɕe nɯ ɯ-ŋgɯ nɯ tɕu, ɯ-rɣi arku, thɯ-tɯt tɕe, qaɟy rqhu kɯ-fse nɯ roŋri ʑo ɲɤ-ɴɢaʁ, tɕe ɯ-rɣi pjɯ-nɯɬoʁ ŋu ma ɯ-zrɤm taʁ tu-mphɯl mɤ-cha, tɕe ɯ-mat nɯ tɯ-rgi laŋlaŋ rmi. tɯ-rgi ɯ-ru nɯ wuma ʑo tɤ-rɤm ɯ-spa kɯ-ʑru, tɯ-rgi tɯ-phɯ nɯ kɯβdɤsqi-ɟom, kɯmŋɤsqi-ɟom kɯ-mbro ɲɯ-ɕti. tɕe nɯ nɯ́-wɣ-phɯt tɕe ɕoŋtɕa ɕnɤcɤt-rzɯɣ pjɤ-βzu ɲɤ-rtaʁ. tɕe ɯ-rtaʁ nɯ ra kɤ-nɯβlɯ ma mɯ́j-sna, ɯ-ru nɯ ŋgɤjpɤn chɯ́-wɣ-lɤt tɕe, laχtɕha tɕhi kɯ-ra kɤ-βzu sna. 
 \xn 杉树生长在比较高的阴山上，是一种高大的树。树干长得又粗又高，枝桠都不粗，在树上长得不整齐。树枝下面的长，越是长在上面就越短。在枝桠上有分杈，叶子长得象针，短而扁，叶子在枝桠上的长法象羽毛的形状。杉树的叶子青而灰，果实象鱼鳞，是圆柱形的，种子装在里面。成熟后，象鳞片的那些东西个个都展开了，种子就会出来，因为杉树不能用根繁殖。这种果实叫{tɯ-rgi laŋlaŋ}。杉树的树干是做木板最好的原料，一棵杉树有14-15米高，砍下来足够锯成七八节木料。枝桠只能烧火用，树干锯成木板，可以作成各种家具。
 
 \lx tɯrgigrɯβgrɯβ
@@ -13286,7 +13285,7 @@
 \hbf *qalakɯɕqraʁ.18 
 \xv a-sta ku-βze-a
 \xn 我在铺床
-\xv khɯtsa a-tʂha pɯ-kɤ-rku ɯsta nɯ tɕu a-tɯjno tɤ-rke
+\xv khɯtsa a-tʂha pɯ-kɤ-rku ɯ-sta nɯ tɕu a-tɯjno tɤ-rke
 \xn 在我原来喝过茶的那个碗给我装菜
 \xv a-sta na-βzu
 \xn 他给我留了床位（座位）
@@ -14034,7 +14033,7 @@
 \cf rɤcɤβ
 \dt 26/Apr/2014
 
-\lx ɯciqa
+\lx ɯ-ciqa
 \ps adv
 \ge origine, depuis toujours, en fait 
 \gn 根源、从来、说到底
@@ -14226,7 +14225,7 @@
 \hbf *βʑar.26 
 \xv tɯmɯ kɤ-lɤt ɯ-jɯja tɕe, ɯ-thoʁ tu-ɣɤrcoʁ ɲɯ-ŋu 
 \xn 雨水越大，地面的稀泥越多
-\xv tɤpɤtso thɯ-wxti ɯjɯja nɤ, ɯ-ndzɯmbra kɤ-sɤsɯɣ ra 
+\xv tɤpɤtso thɯ-wxti ɯ-jɯja nɤ, ɯ-ndzɯmbra kɤ-sɤsɯɣ ra 
 \xn 随着孩子长大，要加强对他的教育
 \dt 12/Mar/2014
 
@@ -14435,7 +14434,7 @@
 \xn 他们谈了很久
 \dt 22/Jul/2014
 
-\lx ɯndzɯndzoʁ
+\lx ɯ-ndzɯndzoʁ
 \ps n
 \ge suivre sans relâche 
 \gn 紧紧地跟着 
@@ -14457,7 +14456,7 @@
 \gn 里面 
 \hbf 715
 
-\lx ɯŋgɯmɤpɕi
+\lx ɯ-ŋgɯmɤpɕi
 \ps adv
 \ge à l'intérieur et à l'extérieur
 \gn 里里外外
@@ -14587,8 +14586,8 @@
 \xn 我听了一半
 \dt 15/May/2012
 
-\lx ɯraŋ
-\ps n
+\lx ɯ-raŋ
+\ps np
 \ge génération, au moment de 
 \gn 年代，正当那个时候 
 \et riŋ
@@ -14608,8 +14607,8 @@
 \cf ɯ-rcharchɤβ
 \dt 07/Feb/2014
 
-\lx ɯrdoʁ
-\ps n
+\lx ɯ-rdoʁ
+\ps np
 \ge nourriture pour animaux 
 \gn 整体的牲畜的粮食
 
@@ -14854,8 +14853,8 @@
 \gn 借口 
 \hbf *lɯlu.67
 
-\lx ɯscawa
-\ps n
+\lx ɯ-scawa
+\ps np
 \ge pitoyable 
 \gn 可怜，无奈 
 \xv nɤ-scawa ɲɯ-saχaʁ 
@@ -15493,7 +15492,7 @@
 \ge tique 
 \gn 蜱[草虱] 
 \hbf animal 
-\xv xɕelwi nɯ qajɯ ci ŋu. ɯ-mdoʁ kɯ-ɣɯrni ŋu. ɯ-mɤlɤjaʁ kɯβdɤ-ldʑa tu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi ɲɯ-ɤmtɕoʁ, sɯŋgɯ kɯ-mbɤr cho stɤmku ra ɣɤʑu tɕe nɯŋa cho jla mbala nɯ ra nɯ-taʁ kɤ-ndzoʁ rga, tɕe nɯ-se ku-tshi tɕe tɤ-fka tɕe ɯʑo kɯ-wxtɯ-wxti ʑo ɲɯ-βze ŋu, fsapaʁ ɯ-se ku-tshi ɕɯŋgɯ staʁ nɤ sqi jamar ɲɯ-wxti ɲɯ-ŋu. tɕe xɕelwi nɯ tɤ-fka tɕe pjɤ-tɤr ɲɯ-ɕti ma ɯ-jɤɣɤt sɤ-lɤt maŋe, tɕe tu-ndze nɤ tu-ndze ma nɯ ma kɤ-lɤt mɯ́-j-khɯ. tɕe wuma ʑo dɤn, fsapaʁ tɯ-rdoʁ ɯ-taʁ kɤ-rtsi mɤ-kɯ-sɤcha ʑo ku-ndzoʁ ɲɯ-ɕti, tɕe fsapaʁ taʁ wuma ʑo ʁnɤt, tɕe tham tɕe ɯ-smɤn ɣɤʑu tɕe, tú-wɣ-lɤt tɕe ɲɯ-ɣɤme ɲɯ-ŋu ri ɯ-qhu tɕe li ku-ndzoʁ ɲɯ-ɕti. tɯrme taʁ kɯ́nɤ ku-ndzoʁ ŋgrɤl tɕe ɣɯ-phɯt tɤ-kha tɕe ɯ-rmi tu-βzu mɤ-βdi ma tɕe ɯ-phoŋbu nɯ kɤ-phɯt khɯ ma ɯ-ku nɯ ku-raʁ ŋu tɕe kɤ-phɯt mɤ-khɯ. mɤ-kɤ-nɤrmi ɲɯ́-wɣ-phɯt tɕe kɤ-kɯ-ku kɤ-phɯt khɯ tu-kɯ-ti ɲɯ-ŋu. 
+\xv xɕelwi nɯ qajɯ ci ŋu. ɯ-mdoʁ kɯ-ɣɯrni ŋu. ɯ-mɤlɤjaʁ kɯβdɤ-ldʑa tu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi ɲɯ-ɤmtɕoʁ, sɯŋgɯ kɯ-mbɤr cho stɤmku ra ɣɤʑu tɕe nɯŋa cho jla mbala nɯ ra nɯ-taʁ kɤ-ndzoʁ rga, tɕe nɯ-se ku-tshi tɕe tɤ-fka tɕe ɯʑo kɯ-wxtɯ-wxti ʑo ɲɯ-βze ŋu, fsapaʁ ɯ-se ku-tshi ɕɯŋgɯ staʁ nɤ sqi jamar ɲɯ-wxti ɲɯ-ŋu. tɕe xɕelwi nɯ tɤ-fka tɕe pjɤ-tɤr ɲɯ-ɕti ma ɯ-jɤɣɤt sɤ-lɤt maŋe, tɕe tu-ndze nɤ tu-ndze ma nɯ ma kɤ-lɤt mɯ́j-khɯ. tɕe wuma ʑo dɤn, fsapaʁ tɯ-rdoʁ ɯ-taʁ kɤ-rtsi mɤ-kɯ-sɤcha ʑo ku-ndzoʁ ɲɯ-ɕti, tɕe fsapaʁ taʁ wuma ʑo ʁnɤt, tɕe tham tɕe ɯ-smɤn ɣɤʑu tɕe, tú-wɣ-lɤt tɕe ɲɯ-ɣɤme ɲɯ-ŋu ri ɯ-qhu tɕe li ku-ndzoʁ ɲɯ-ɕti. tɯrme taʁ kɯ́nɤ ku-ndzoʁ ŋgrɤl tɕe ɣɯ-phɯt tɤ-kha tɕe ɯ-rmi tu-βzu mɤ-βdi ma tɕe ɯ-phoŋbu nɯ kɤ-phɯt khɯ ma ɯ-ku nɯ ku-raʁ ŋu tɕe kɤ-phɯt mɤ-khɯ. mɤ-kɤ-nɤrmi ɲɯ́-wɣ-phɯt tɕe kɤ-kɯ-ku kɤ-phɯt khɯ tu-kɯ-ti ɲɯ-ŋu. 
 \xn 蜱是一种虫，是红色的。有四只脚，头部很小，嘴很尖。生活在灌木丛和草地上，喜欢爬在奶牛、犏牛和黄牛身上吸血。吸饱以后，它的身体就变得很大，是它吸血前的十倍以上，蜱吸饱了就会掉下来。因为身上没有肛门，只能吃了又吃，不能解便。蜱非常多，一头牛身上的蜱不计其数，对牲畜非常有害。现在有一种农药可以消灭它，但过了一段时间它会重新出现。蜱也会爬在人身上。据说拔掉的时候不能叫它的名字，不然只能拔掉它的身子，它的头部会卡在里面。不叫它的名字的话就可以连头一起拔掉。 
 \nqr
 
@@ -21443,7 +21442,7 @@
 \gn 圆形的
 \ge courbées l'une vers l'autre (cornes)
 \gn 往里面弯（角）
-\xv jla ɯʁrɯ ɲɯ-ɤrɯcɤrna
+\xv jla ɯ-ʁrɯ ɲɯ-ɤrɯcɤrna
 \xn 犏牛的角往里面弯，几乎形成了圆形
 \xv ɯ-mŋu ɲɯ-ɤrtɯm tɕe ɲɯ-ɤrɯcɤrna
 \xn （碗的）口是圆的
@@ -23572,7 +23571,7 @@
 \pdv jɤ-
 \ge rendre 
 \gn 还东西、退回 
-\xv ɯzo kɯ ja-ɕɣɤz
+\xv ɯʑo kɯ ja-ɕɣɤz
 \xn 他还了
 \xv kɯki mɯ́j-ra tɕe, kɤ-ɕɣɤz ɲɯ-ra
 \xn 不再需要的话请还（给我）
@@ -24605,7 +24604,7 @@
 \ge fanfaronade
 \gn 大话
 \xv fɕɤtpa khro ma-pɯ-tɯ-lɤt, ɯ-ma nɯ tɤ-nɤme
-\xv fɕɤtpa ɯtshɤt pɯ-lɤt tɕe ɯ-ma nɯ tɤ-nɤme
+\xv fɕɤtpa ɯ-tshɤt pɯ-lɤt tɕe ɯ-ma nɯ tɤ-nɤme
 \xn 少说大话，多办实事
 \dt 03/Aug/2012
 
@@ -26384,7 +26383,7 @@
 \gn 扭动
 \xv jla kɯ ɯ-βri ɲɯ-sɤɟɯɣɟɯɣ
 \xn 犏牛扭动它的身体（驱赶苍蝇）
-\xv ɯtʂɯmpari ɲɯ-sɤɟɯɣɟɯɣ
+\xv ɯ-tʂɯmpari ɲɯ-sɤɟɯɣɟɯɣ
 \xn
 \xv jɤlwa ɲɯ-sɤɟɯɣɟɯɣ
 \xn 他在扭动门帘
@@ -26611,7 +26610,7 @@
 \ge sourd 
 \gn 聋 
 \hbf 1504 
-\xv ɯrna mɯ́j-mtshɤm ɲɯ-ɣɤmbɣo
+\xv ɯ-rna mɯ́j-mtshɤm ɲɯ-ɣɤmbɣo
 \xn 他耳朵听不见，他是聋的
 \cf tɤmbɣo
 \dt 03/Oct/2011
@@ -26916,7 +26915,7 @@
 \ps vi
 \ge piétiner de partout
 \gn 到处乱踩、动作不雅观
-\xv a-tɯji ɯŋgɯ ma-tɯ-ɣɤndʑɣɤrlɤr ma a-kɤrkɯm tɯ-rɤtɕaʁ
+\xv a-tɯji ɯ-ŋgɯ ma-tɯ-ɣɤndʑɣɤrlɤr ma a-kɤrkɯm tɯ-rɤtɕaʁ
 \xn 你不要在我的田地里乱踩，会把我的菜苗踩死
 \dt 24/Aug/2012
 
@@ -27343,7 +27342,7 @@
 \gn 充满灰尘
 \xv kɤntɕhaʁ ɯ-tɯ-ɣɤrdɯl ɲɯ-sɤre ʑo
 \xn 街上很多灰尘
-\dv kɯ-ɣɤrdɯl nɯ, ɯʑo ɯtaʁ rdɯl tu-kɯ-ɬoʁ nɯ ŋu, kɯ-nɯrdɯl nɯ, ɯʑo ɯtaʁ rdɯl kɤ-kɯ-ndzoʁ nɯ ŋu
+\dv kɯ-ɣɤrdɯl nɯ, ɯʑo ɯ-taʁ rdɯl tu-kɯ-ɬoʁ nɯ ŋu, kɯ-nɯrdɯl nɯ, ɯʑo ɯ-taʁ rdɯl kɤ-kɯ-ndzoʁ nɯ ŋu
 \cf nɯrdɯl
 \cf rdɯl
 \dt 21/Aug/2012
@@ -28994,7 +28993,7 @@ da.lie 打猎
 \gn （用柱子）顶住、打柱头
 \xv kɯki tɤ-ɣɯjtsi-t-a
 \xn 我把这个顶住了
-\xv tɕɤtu nɯ ɯpa pjɤ-nɯɣi tɕe tɤ-ɣɯjtsi-t-a
+\xv tɕɤtu nɯ ɯ-pa pjɤ-nɯɣi tɕe tɤ-ɣɯjtsi-t-a
 \xn 上面的那个东西往下面来，我把往下来的部分顶住了
 \cf tɤ-jtsi
 \dt 26/Aug/2012
@@ -31657,7 +31656,7 @@ da.lie 打猎
 \ge recevoir un hôte
 \gn 待客
 \et mgron
-\xv ɯʑo kɯ ɯzda na-mgrɯn tɕe, tʂha na-jtshi
+\xv ɯʑo kɯ ɯ-zda na-mgrɯn tɕe, tʂha na-jtshi
 \xn 他待了客，给他茶喝
 \xv aʑo ci ɲɯ-ta-mgrɯn
 \xn 我给你办招待
@@ -31884,7 +31883,7 @@ da.lie 打猎
 \xn 酒有味道
 \xv ɯ-dɯχɯn ɲɯ-mnɤm
 \xn 香味很浓
-\xv nɤki kɤ-ndza nɯ ɲɯ-mɲɤt tɕe ɯdi ɲɯ-mnɤm 
+\xv nɤki kɤ-ndza nɯ ɲɯ-mɲɤt tɕe ɯ-di ɲɯ-mnɤm 
 \xn 那个食物坏了，有臭味了 
 \cf nɤmnɤm
 \cf ɕɯmnɤm
@@ -32340,7 +32339,7 @@ da.lie 打猎
 \xn 水渗入到衣服里，浸泡了衣服
 \xv aŋga ɲɤ-kɤci-ci tɕe tɯ-ci kɯ ɲɤ-mtɕhɯβ
 \xn 我的衣服湿了，浸泡了水
-\xv si (ɕoŋtɕa) ɯŋgɯ tɯ-ci ɲɤ-mtɕhɯβ
+\xv si (ɕoŋtɕa) ɯ-ŋgɯ tɯ-ci ɲɤ-mtɕhɯβ
 \xn 水渗透到木里
 \xv stoʁ ko-mtɕhɯβ
 \xn 胡豆泡了
@@ -33359,7 +33358,7 @@ da.lie 打猎
 \pdv kɤ-
 \ge se protéger du soleil 
 \gn 避暑 
-\xv si ɯpa kɤ-nɤɕu-a
+\xv si ɯ-pa kɤ-nɤɕu-a
 \xn 我在树下面避暑了
 \cf ɣɤɕu
 \dt 05/Jan/2011
@@ -35225,7 +35224,7 @@ da.lie 打猎
 \ge se protéger de la pluie
 \gn 遮雨
 \ng denom
-\xv @san ɯpa nɤprɯ-tɕi
+\xv @san ɯ-pa nɤprɯ-tɕi
 \xn 我们俩用伞遮雨
 \xv praʁpa nɤprɯ-tɕi
 \xn 我们俩在悬崖下遮雨
@@ -37552,7 +37551,7 @@ da.lie 打猎
 \gn 燃烧 
 \xv ɕoʁɕoʁ to-ndʑɤβ
 \xn 纸燃起来了
-\xv xɕɤj a-tɤ-ndʑɤβ tɕe pe ma ɯfsɤqhe tɕe tɕe nɯ ɯ-stu nɯ kɯ-tshu tu-ɬoʁ ŋu, tɕe fsapaʁ ra rga-nɯ
+\xv xɕɤj a-tɤ-ndʑɤβ tɕe pe ma ɯ-fsɤqhe tɕe tɕe nɯ ɯ-stu nɯ kɯ-tshu tu-ɬoʁ ŋu, tɕe fsapaʁ ra rga-nɯ
 \xn 草烧了是一件好事，因为第二捻那个地方就会长出茂盛的草，牲畜们喜欢
 \xv tɯ-ŋga pjɤ-ndʑɤβ
 \xn 衣服烧了
@@ -38067,7 +38066,7 @@ da.lie 打猎
 \pdv lɤ-
 \ge ne pas être poli en faisant une visite chez quelqu'un
 \gn 喧宾夺主
-\xv ki tɯrme ɯkha ɲɯ-ɕti tɕe, ma-lɤ-tɯ-nɯβdaʁpu ma βdaʁpu ri ɲɯ-tɯ-maʁ
+\xv ki tɯrme ɯ-kha ɲɯ-ɕti tɕe, ma-lɤ-tɯ-nɯβdaʁpu ma βdaʁpu ri ɲɯ-tɯ-maʁ
 \xn 这是别人的家，你不要喧宾夺主，你又不是主人
 \cf βdaʁpu
 \dt 28/Aug/2012
@@ -38295,7 +38294,7 @@ da.lie 打猎
 \gn 依照……的说法
 \xv ɯʑo kɯ kɤ-ɕe ɲɯsɯsɤm qhe, tɕe nɯ-znɯɲco-t-a
 \xn 他想去那里，我就依他了
-\dv ɯʑo ɯkɤti nɯ tu-kɤ-stu nɯ ɲɯ-kɤ-znɯɲco rmi
+\dv ɯʑo ɯ-kɤti nɯ tu-kɤ-stu nɯ ɲɯ-kɤ-znɯɲco rmi
 \cf nɯɴqhu
 \dt 14/Oct/2014
 
@@ -41966,9 +41965,9 @@ da.lie 打猎
 \pdv tɤ-
 \ge être ourdé de, être sali
 \gn 沾上
-\xv a-ŋga ɯthoʁ pjɤ-kɤtɤr-ci tɕe to-nɯslɯɣ
+\xv a-ŋga ɯ-thoʁ pjɤ-kɤtɤr-ci tɕe to-nɯslɯɣ
 \xn 我衣服掉到地上，沾上了灰尘
-\xv soʁma ɯŋgɯ ju-kɯ-ɕe tɕe, tɯ-ŋga tu-nɯslɯɣ ŋu
+\xv soʁma ɯ-ŋgɯ ju-kɯ-ɕe tɕe, tɯ-ŋga tu-nɯslɯɣ ŋu
 \xn 走进麦草里，衣服会沾上麦草
 \se znɯslɯɣ
 \ps vt
@@ -42871,7 +42870,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge être vide
 \gn 空的
-\xv khɯtsa to-nɯxso tɕe ɯŋgɯ kɤ-rku ɲɤ-me
+\xv khɯtsa to-nɯxso tɕe ɯ-ŋgɯ kɤ-rku ɲɤ-me
 \xn 碗空了
 \se so
 \dt 29/Aug/2012
@@ -43380,7 +43379,7 @@ da.lie 打猎
 \xn 你遇到灾难了
 \xv laχtɕha pjɤ-ɲɟo
 \xn 东西损坏了
-\xv ɯmi pjɤ-ɲɟo
+\xv ɯ-mi pjɤ-ɲɟo
 \xn 他的脚坏了
 \xv pɯ-ndʐaβ-a tɕe pɯ-ɲɟo-a
 \xn 他摔跤了就受伤了
@@ -43648,7 +43647,7 @@ da.lie 打猎
 \xn 木料滑了
 \xv rdɤstaʁ pjɤ-ŋgio
 \xn 石头滑了
-\xv ɯthoʁ ɲɯ-sɤŋgio tɕe, ɤj pɯ-ŋgio-a
+\xv ɯ-thoʁ ɲɯ-sɤŋgio tɕe, ɤj pɯ-ŋgio-a
 \xn 地很滑，我摔倒了
 \se nɤŋgiolo
 \ps vi
@@ -44020,7 +44019,7 @@ da.lie 打猎
 \hbf 1041
 \xv ta-ma ɲɯ-ɴɢu
 \xn 工作很轻松
-\xv ki ɯxtɕɤr ki ɲɯ-ɴɢu
+\xv ki ɯ-xtɕɤr ki ɲɯ-ɴɢu
 \xn 系得很松
 \xv ɯ-sɤ-xtɕɤr ɲɯ-ɴɢu
 \xn 系得很松
@@ -44716,7 +44715,7 @@ da.lie 打猎
 \ge se gonfler 
 \gn 膨胀 
 \hbf 1549
-\xv tɤɕi kɤ́-wɣ-sqa tɕe to-pɯɣ tɕe tɯthɯ ɯŋgɯ mɯ-ɲɤ-xtɕhɯt
+\xv tɤɕi kɤ́-wɣ-sqa tɕe to-pɯɣ tɕe tɯthɯ ɯ-ŋgɯ mɯ-ɲɤ-xtɕhɯt
 \xn 煮青稞的时候，煮熟了就发胀就锅里装不下了
 \dt 31/Aug/2012
 
@@ -45865,7 +45864,7 @@ da.lie 打猎
 \hbf 1183 <2> 1546
 \xv a-laχtɕha ɲɤ-tɯ-βde-t, tɤ-rɤli
 \xn 你把我的东西弄丢了，你要赔！
-\xv ɯl-aχtɕha ɲɤ-nɯβde-t-a, tɤ-rɤli-t-a
+\xv ɯ-laχtɕha ɲɤ-nɯβde-t-a, tɤ-rɤli-t-a
 \xn 我把他的东西弄丢了，我给他赔了
 \sy nɯmbe
 \dt 22/Feb/2014
@@ -49198,7 +49197,7 @@ da.lie 打猎
 \xn 我在怀疑我
 \xv ɯʑo kɯ-ti maŋe nɤri, aʑo tɤ-ʁnɯ-a ɕti ma 
 \xn 他倒没有说，是我自己怀疑的
-\xv ɯ*re wuma ʑo ɲɯ*ɬoʁ tɕe, tɤ-ʁnɯ-a ma ɯ-tshɯɣa mɯ́j-βdi
+\xv ɯ-re wuma ʑo ɲɯ-ɬoʁ tɕe, tɤ-ʁnɯ-a ma ɯ-tshɯɣa mɯ́j-βdi
 \xn 他很想笑的样子，所以我就有点怀疑了
 \se sɯʁnɯ
 \ps vt
@@ -50571,7 +50570,7 @@ da.lie 打猎
 \xn 水澄清了就可以喝
 \xv mɯ-nɯ-kɤ-sɤmgri nɯ kɤ-tshi mɤ-sna
 \xn 没有澄清的不能喝
-\uv tɯ-ci kɤ-sɤmgri nɯ, tɯ-ci kɯqarndɯm nɯ ɲɯ́wɣɣɤntaβ tɕe, penzi ɯŋgɯ túwɣrku tɕe ɲɯ́wɣɣɤntaβ tɕe ɯʑo ɲɤnɤmgri ɲɯŋu. kɯɴqhi nɯra ɯqa pjɯɕe ŋu, tɕe kɯmaŋtaʁ nɯra ɲɤmgri ŋu. 
+\uv tɯ-ci kɤ-sɤmgri nɯ, tɯ-ci kɯ-qarndɯm nɯ ɲɯ́-wɣ-ɣɤntaβ tɕe, @penzi ɯ-ŋgɯ tú-wɣ-rku tɕe ɲɯ́-wɣ-ɣɤntaβ tɕe ɯʑo ɲɯ-ɤnɯmgri ɲɯ-ŋu. kɯ-ɴqhi nɯra ɯ-qa pjɯ-ɕe ŋu, tɕe kɯ-moŋtaʁ nɯra ɲɯ-ɤmgri ŋu. 
 \dt 24/Aug/2012
 
 \lx _sɤmgro
@@ -51406,7 +51405,7 @@ da.lie 打猎
 \xn （把粮食）加进应神的粮食里
 \xv tɤlɤɕom pɯ-sɤri
 \xn 你把奶皮加进去
-\xv khɯtsa ɯ-ŋgɯ kɯki ɯro ki pɯ-sɤri-t-a
+\xv khɯtsa ɯ-ŋgɯ kɯki ɯ-ro ki pɯ-sɤri-t-a
 \xn 我把剩下的加进了碗里
 \se ʑɣɤsɤri
 \ps vi
@@ -52180,7 +52179,7 @@ da.lie 打猎
 \hbf 1791 
 \xv fsapaʁ ra tɤ-sɤwɯwum-a
 \xn 我把牲畜聚集在一起了
-\xv tɤpɤtso ɯkɯmtɕhɯ ra pjɤʁndɤr tɕe, pɯ-sɤwɯwum-a 
+\xv tɤpɤtso ɯ-kɯmtɕhɯ ra pjɤʁndɤr tɕe, pɯ-sɤwɯwum-a 
 \xn 因为孩子的玩具散了，我把这些收集在一起
 \dt 24/Aug/2012
 
@@ -53029,7 +53028,7 @@ da.lie 打猎
 \pdv pɯ-
 \ge rendre sec
 \gn 弄干
-\xv arɟɤɣi ɯŋgɯ tɯ-ci pjɤɣɤrkɯna tɕe, pjɤɣɤspɯta
+\xv a-rɟɤɣi ɯ-ŋgɯ tɯ-ci pjɤ-ɣɤrkɯn-a tɕe, pjɤ-ɣɤspɯ-t-a
 \xn 我减少了糌粑里的水分，令它很干
 \dt 09/Jan/2014
 
@@ -53794,7 +53793,7 @@ da.lie 打猎
 \ge enlever les mauvaises herbes 
 \gn 拔杂草
 \hbf 1210
-\xv tɤɕi qɤj ɯŋgɯ ɕ-pɯ-sɤjno-a
+\xv tɤɕi qɤj ɯ-ŋgɯ ɕ-pɯ-sɤjno-a
 \xn 我去拔了在青稞和麦子里面的杂草
 \xv ʑ-lo-sɯjno
 \xn 他去拔了杂草
@@ -54443,7 +54442,7 @@ da.lie 打猎
 \xn 我减了
 \xv @laoban kɯ a-ŋgra pjɤ-sɯxtɕhaʁ
 \xn 老板把我的工资给减少了
-\xv sqi ɯ-ngɯ kɯtʂɤɣ chɯ́-wɣ-sɯxtɕhaʁ tɕe, ɯro kɯβde ɲɯ-ri ŋu 
+\xv sqi ɯ-ngɯ kɯtʂɤɣ chɯ́-wɣ-sɯxtɕhaʁ tɕe, ɯ-ro kɯβde ɲɯ-ri ŋu 
 \xn 十减六等于四
 \cf tɕhaʁ
 \dt 31/Aug/2011
@@ -54924,7 +54923,7 @@ da.lie 打猎
 \xn 你们令他们不要打架
 \xv tɯ-ɣli thɯ-tɕɤt-i
 \xn 我们出圈肥了
-\xv ɯʑo taʁndo mɯ-pjɤ-tso tɕe ɯɣi ra kɯ pjɤ́-wɣ-tɕɤt
+\xv ɯʑo taʁndo mɯ-pjɤ-tso tɕe ɯ-ɣi ra kɯ pjɤ́-wɣ-tɕɤt
 \xn 他不听指挥，家人就把他赶出家了
 \xv tʂapa ɯ-ŋgɯ fsapaʁ ra chɯ́-wɣ-tɕɤt ɲɯ-ra
 \xn 要把圈里的牲畜赶出来
@@ -56218,7 +56217,7 @@ da.lie 打猎
 \gn 用……射中、打中
 \xv rdɤstaʁ kɯ tɤ́-wɣ-sɯxtsɯɣ-a
 \xn 他扔石头打中了我
-\xv ɯzgrɯ kɯ tɤ́-wɣ-sɯxtsɯɣ-a
+\xv ɯ-zgrɯ kɯ tɤ́-wɣ-sɯxtsɯɣ-a
 \xn 他用肘打中了我
 \xv tɯdi kɯ tɤ́-wɣsɯxtsɯɣ-a 
 \xn 他射箭射中了我
@@ -56490,7 +56489,7 @@ da.lie 打猎
 \ge élever 
 \gn 养、供他吃 
 \et gso
-\xv pɣɤtɕɯ kɯ ɯpɯ ɲɯ-ɤsɯ-χsu
+\xv pɣɤtɕɯ kɯ ɯ-pɯ ɲɯ-ɤsɯ-χsu
 \xn 鸟在喂它的小鸟
 \xv nɯ-χsu-t-a
 \xn 我养了他
@@ -56643,7 +56642,7 @@ da.lie 打猎
 \xn 小，你不要揉我（你不要一整天麻烦我）
 \xv ɯ-χtsɤβ pɯ-ɣe
 \xn （皮子）揉已经好了
-\ev ɯmar kú-wɣ-le tɕe, nɯ koʁmɯz pjɯ́-wɣ-χtsɤβ ŋu.
+\ev ɯ-mar kú-wɣ-le tɕe, nɯ koʁmɯz pjɯ́-wɣ-χtsɤβ ŋu.
 \dt 05/Dec/2012
 
 \lx _χtso
@@ -57178,7 +57177,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge faire des caprices
 \gn 撒娇 
-\xv ɯmu ɯphe ɲɯ-znɤlɯli
+\xv ɯ-mu ɯ-phe ɲɯ-znɤlɯli
 \xn 他向他母亲撒娇
 \xv a-mu ɯ-ɕki tɤ-znɤlɯli-a
 \xn 我在母亲面前撒娇了
@@ -59574,7 +59573,7 @@ da.lie 打猎
 \xn 那个人躺在地上不动
 \xv jla ɕphɤβɕphɤβ ko-nɯ-rŋgɯ
 \xn 犏牛躺在地不动了
-\xv ɯthoʁ ɕphɤβɕphɤβ ʑo ɲɯ-rɤʑi, kɤ-nɯqambɯmbjom mɯ́j-cha
+\xv ɯ-thoʁ ɕphɤβɕphɤβ ʑo ɲɯ-rɤʑi, kɤ-nɯqambɯmbjom mɯ́j-cha
 \xn （鸟）躺在地上，飞不起来了
 \dt 07/Nov/2011
 
@@ -59694,7 +59693,7 @@ da.lie 打猎
 \xn 吊着
 \se ɕtʂaŋnɤɕtʂaŋ
 \ps idph.3
-\xv ɯjaʁ ɕtʂaŋnɤɕtʂaŋ ɲɯ-ɤsɯ-stu kɤ-ari
+\xv ɯ-jaʁ ɕtʂaŋnɤɕtʂaŋ ɲɯ-ɤsɯ-stu kɤ-ari
 \xn 他甩着就去了
 \se ɕtʂaŋnɤlaŋ
 \ps idph.4
@@ -60248,7 +60247,7 @@ da.lie 打猎
 \ge renard volant 
 \gn 飞鼠 
 \hbf animal 
-\xv ɣni nɯ stɤmku cho sɯŋgɯ ku-rɤʑi ŋu, ɯ-mdoʁ nɯ βʑɯ ɯ-mdoʁ cho naχtɕɯɣ, ɯ-mgɯr ɯ-χcɤl nɯ tɕu kɯ-ɲaʁ tɯ-ʂɯl tu, ɯ-mi ɯ-ru me, ɯ-mɤpɤl ma me, ɯ-ndzrɯ tu, kú-wɣ-rtoʁ tɕe, ɯ-mɤlɤjaʁ stɤsmɤt ɯ-phɤrthɤβ nɯ tɯ-ndʐi kɯ ɲɯ-ɤlɤɣɯ ɕti, tɕe tɯ-ɕe jɤ-ʑa tɕe, ɯ-ndʐi nɯ ɯ-mɤlɤjaʁ kɯ ɲɯ-sqhiar tɕe sɤtɕha ɯ-taʁ pjɤ-sthaβ ʑo tɕe ɲɯ-nɯqambɯmbjom kɯ-fse ɲɯ-ŋu. kɤ-ŋke nɯ mɯ́-j-khɯ rca, ɯ-jme kɯ-xtɕɯ-xtɕi ci ɣɤʑu, ɯ-ku nɯ βʑɯ ɯ-ku ɲɯ-fse tɕe ri ɯ-rna kɯ-saχsɤl maŋe, tu-mbri tɕe, tɤ-potso nɯ-kɤ-ɣɤwu ɯ-skɤt kɯ-fse tu-lɤt ɲɯ-ŋu, mɤʑɯ kɯ-maʁ kɤntɕhɯ-tɯphu ɯ-skɤt tu-lɤt ɲɯ-ŋgrɤl 
+\xv ɣni nɯ stɤmku cho sɯŋgɯ ku-rɤʑi ŋu, ɯ-mdoʁ nɯ βʑɯ ɯ-mdoʁ cho naχtɕɯɣ, ɯ-mgɯr ɯ-χcɤl nɯ tɕu kɯ-ɲaʁ tɯ-ʂɯl tu, ɯ-mi ɯ-ru me, ɯ-mɤpɤl ma me, ɯ-ndzrɯ tu, kú-wɣ-rtoʁ tɕe, ɯ-mɤlɤjaʁ stɤsmɤt ɯ-phɤrthɤβ nɯ tɯ-ndʐi kɯ ɲɯ-ɤlɤɣɯ ɕti, tɕe tɯ-ɕe jɤ-ʑa tɕe, ɯ-ndʐi nɯ ɯ-mɤlɤjaʁ kɯ ɲɯ-sqhiar tɕe sɤtɕha ɯ-taʁ pjɤ-sthaβ ʑo tɕe ɲɯ-nɯqambɯmbjom kɯ-fse ɲɯ-ŋu. kɤ-ŋke nɯ mɯ́j-khɯ rca, ɯ-jme kɯ-xtɕɯ-xtɕi ci ɣɤʑu, ɯ-ku nɯ βʑɯ ɯ-ku ɲɯ-fse tɕe ri ɯ-rna kɯ-saχsɤl maŋe, tu-mbri tɕe, tɤ-potso nɯ-kɤ-ɣɤwu ɯ-skɤt kɯ-fse tu-lɤt ɲɯ-ŋu, mɤʑɯ kɯ-maʁ kɤntɕhɯ-tɯphu ɯ-skɤt tu-lɤt ɲɯ-ŋgrɤl 
 \xn 飞鼠生活在草山和森林里，（皮毛的）颜色和老鼠的一样，背上中间有一条黑色的纹路，（好像）没有腿，只有脚板和爪子。看起来前腿和后腿之间的皮子是连在一起的。它开始走动的时候，皮子就用四肢来展开，贴住地面（离地面很近）飞行。它可能不会走。有小尾巴，头有点象老鼠的头，但看不出耳朵。喊叫的时候，发出和小孩子哭一样的声音，还能发出其它好几种动物的叫声。 
 \nqr
 \dt 29/Dec/2011
@@ -61887,7 +61886,7 @@ da.lie 打猎
 \ps n
 \ge petit chien
 \gn 小狗（传说中是老鹰生出来的）
-\xv kuwu thɯ-rɤpɯ tɕe, ɯpɯ nɯnɯ tɯ-rdoʁ khɯna ɯ-pɯ ɲɯ-lɤt, nɯnɯ maχi tu-kɯ-ti ku-ŋgrɤl ɲɯ-ŋu
+\xv kuwu thɯ-rɤpɯ tɕe, ɯ-pɯ nɯnɯ tɯ-rdoʁ khɯna ɯ-pɯ ɲɯ-lɤt, nɯnɯ maχi tu-kɯ-ti ku-ŋgrɤl ɲɯ-ŋu
 \xn 老鹰生崽的时候，其中一个是狗，那个叫做{maχi}
 \dt 24/Aug/2012
 
@@ -62584,7 +62583,7 @@ da.lie 打猎
 \ge guêpe 
 \gn 马蜂 
 \hbf animal 
-\xv ndzɯrnaʁ nɯ ɯʑo mɯ́-j-wxti ri, ku-kɯ-mtsɯɣ tɕe wuma ɲɯ-ɤɣɯtɯɣ tɕe ʁʑɯnɯ kɯ tɤ-ŋkhɯt tɤ-kɤ-lɤt fse tu-kɯ-ti ɲɯ-ŋu ma kɤ-kɯ-mtsɯɣ tɕe pjɯ-kɯ-tʂaβ ɲɯ-ŋgrɤl, laʁnɯ-sŋi ku-kɯ-ɕɯ-rŋgɯ ɲɯ-ngrɤl, tɕe ɯʑo sɯku ri ku-ndzoʁ tɕe ɯ-kho kɯ-wxtɯ-wxti tu-nɯ-βze ɲɯ-cha. ɯ-kho nɯ kɤ-rtɯ-rtɯm ɲɯ-ŋu. ɯ-spa nɯ tɕhi ŋu ma ku-nɤmɯma tɕe kɯ-mnɯ-mnu kɯ-mpɯ-mpɯ ci ɲɯ-ŋu, ɯ-ŋgɯ tɯmɯ cho qale ku-ɕe mɯ́-j-cha, ɯ-kɯ-spoʁ pa pjɯ-ru ɲɯ-ŋu tɕe ɯʑo ɯ-kɯm ɲɯ-ŋu. kú-wɣ-nɯrca tɕe ɲɯ-kɯ-mtsɯɣ ma nɯmáʁnɯ mɯ́-j-kɯ-mtsɯɣ. 
+\xv ndzɯrnaʁ nɯ ɯʑo mɯ́j-wxti ri, ku-kɯ-mtsɯɣ tɕe wuma ɲɯ-ɤɣɯtɯɣ tɕe ʁʑɯnɯ kɯ tɤ-ŋkhɯt tɤ-kɤ-lɤt fse tu-kɯ-ti ɲɯ-ŋu ma kɤ-kɯ-mtsɯɣ tɕe pjɯ-kɯ-tʂaβ ɲɯ-ŋgrɤl, laʁnɯ-sŋi ku-kɯ-ɕɯ-rŋgɯ ɲɯ-ngrɤl, tɕe ɯʑo sɯku ri ku-ndzoʁ tɕe ɯ-kho kɯ-wxtɯ-wxti tu-nɯ-βze ɲɯ-cha. ɯ-kho nɯ kɤ-rtɯ-rtɯm ɲɯ-ŋu. ɯ-spa nɯ tɕhi ŋu ma ku-nɤmɯma tɕe kɯ-mnɯ-mnu kɯ-mpɯ-mpɯ ci ɲɯ-ŋu, ɯ-ŋgɯ tɯmɯ cho qale ku-ɕe mɯ́j-cha, ɯ-kɯ-spoʁ pa pjɯ-ru ɲɯ-ŋu tɕe ɯʑo ɯ-kɯm ɲɯ-ŋu. kú-wɣ-nɯrca tɕe ɲɯ-kɯ-mtsɯɣ ma nɯmáʁnɯ mɯ́j-kɯ-mtsɯɣ. 
 \xn 马蜂虽小，蜇人时毒性特别大，据说同被青年人打了一拳一样难受，会晕倒，一两天不能起床。它栖息在树上，可以作很大的窝，不知是什么材料作成的，摸起来很柔和、很软，风雨透不进。洞口朝下，是蜂窝的门。有人骚扰时就会蜇，不然不会轻易蜇人。 
 \nqr
 \dt 09/Jan/2012
@@ -63961,7 +63960,7 @@ da.lie 打猎
 \ge une plante 
 \gn [鹿茸花] 
 \hbf plante 
-\xv qarɣɤpɤt nɯ, zgo wuma ʑo ku-mbro, sɤtɕha kɯ-ɣɤndʐo ɯ-pɕoʁ tu-ɬoʁ ŋu. ɯ-zrɤm mɯ́-j-wxti, ɯ-ru ɯ-ŋgɯ qhoʁsjɯβ ɲɯ-ŋu, ɯ-ru ɯ-taʁ ɯ-jwaʁ ɲɯ-ɬoʁ tɕe, nɯ ɯ-rchɤβ ri ɯ-mɯntoʁ tu-ɬoʁ ɲɯ-ŋu. ɯ-ru cho ɯ-jwaʁ nɯ ra rme rsɯβ-rsɯβ ʑo ɲɯ-pa, ɯ-jwaʁ cho ɯ-ru kɤ-ɣrɤɣrum ɲɯ-ŋu, ɯ-rme nɯ kɯ-pɣi ɲɯ-ŋu, ɯ-mɯntoʁ tɯ-rdoʁ tɯ-rdoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɯ-rqhu nɯ li ɯ-rme rsɯβ-rsɯβ ɲɯ-pa, ɯ-rqhu nɯ pɯ-ɴɢaʁ tɕe, ɯ-mɯntoʁ wuma ʑo kɯ-qarŋe ɲɤ-ɬoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɲɯ-wxti, kɤ-rtɯ-rtɯm ɲɯ-ŋu, wuma ʑo ɲɯ-mpɕɤr. 
+\xv qarɣɤpɤt nɯ, zgo wuma ʑo ku-mbro, sɤtɕha kɯ-ɣɤndʐo ɯ-pɕoʁ tu-ɬoʁ ŋu. ɯ-zrɤm mɯ́j-wxti, ɯ-ru ɯ-ŋgɯ qhoʁsjɯβ ɲɯ-ŋu, ɯ-ru ɯ-taʁ ɯ-jwaʁ ɲɯ-ɬoʁ tɕe, nɯ ɯ-rchɤβ ri ɯ-mɯntoʁ tu-ɬoʁ ɲɯ-ŋu. ɯ-ru cho ɯ-jwaʁ nɯ ra rme rsɯβ-rsɯβ ʑo ɲɯ-pa, ɯ-jwaʁ cho ɯ-ru kɤ-ɣrɤɣrum ɲɯ-ŋu, ɯ-rme nɯ kɯ-pɣi ɲɯ-ŋu, ɯ-mɯntoʁ tɯ-rdoʁ tɯ-rdoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɯ-rqhu nɯ li ɯ-rme rsɯβ-rsɯβ ɲɯ-pa, ɯ-rqhu nɯ pɯ-ɴɢaʁ tɕe, ɯ-mɯntoʁ wuma ʑo kɯ-qarŋe ɲɤ-ɬoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɲɯ-wxti, kɤ-rtɯ-rtɯm ɲɯ-ŋu, wuma ʑo ɲɯ-mpɕɤr. 
 \xn 鹿茸花生长在高山上，比较寒冷的地方里。根不大，茎是空心的，茎上长叶子，叶子和茎的中间长花。茎和叶子看起来毛茸茸的，茎和叶子带有一点白色，毛是灰色的，叶子是一朵一朵地长出来，花的外层也是毛茸茸的，外层剖开时，就开大黄色的花，花很大，圆形，非常美。
 \dt 18/Apr/2012
 
@@ -66268,7 +66267,7 @@ da.lie 打猎
 \hbf plante 
 \xv saɕɯ nɯ ɯ-tshɯɣa tɯrgi ɲɯ-fse, ɯ-mdoʁ nɯ ra ɕɤɣ ɲɯ-fse, ɯ-ru nɯ tɯrgi ɲɯ-fse, tɕe tɯrgi cho ɕɤɣ ni pjɯ-nɯɕɯrɲɟo-ndʑi mɤ-cha, qartsɯmɤftɕar arŋi-ndʑi. saɕɯ pjɯ-nɯɕɯrɲɟo tɕe, ɯ-jwaʁ pjɤ-ŋgra ɕti, tɕe tɯrme ra kɯ saɕɯ nɯ tɯrgi ɣɯ ɯ-ftsa ŋu ri tɯrgi sɤz kɯ-mbro tu-ɬoʁ ŋu tɕe, nɯ mɤ-kɯ-tʂaŋ ɯ-ndʐa kɯ pjɯ-nɯɕɯrɲɟo ŋu tu-ti-nɯ ŋu. 
 \xn 落叶松的形状象杉树，但是颜色和柏树相同。树干象杉树的一样。杉树和柏树叶子秋天不会变色，不分冬夏都是绿的，落叶松叶子秋天变色，然后落叶。人们说落叶松虽然是杉树的侄子但生长的地区海拔比杉树生长的地区高，因为这样不合理，所以它叶子秋天变色。
-\xv saɕɯ cho tɯrgi nɯ ni kɤndʑɯrpɯftsa ɲɯ-ŋu-ndʑi. ndʑi-sta nɯnɯ, ɯrpɯ ɯsta saɕɯ lo-ɕe tɕe, qartsɯ tɕe kɯ-nɯɕɯrɲɟo ŋu. tɯrgi cho-maŋthi tɕe núndʐa nɯnɯ tɯrgi mɤ-nɯɕɯrɲɟo tu-kɯ-ti ɲɯ-ŋu.
+\xv saɕɯ cho tɯrgi nɯ ni kɤndʑɯrpɯftsa ɲɯ-ŋu-ndʑi. ndʑi-sta nɯnɯ, ɯ-rpɯ ɯ-sta saɕɯ lo-ɕe tɕe, qartsɯ tɕe kɯ-nɯɕɯrɲɟo ŋu. tɯrgi cho-maŋthi tɕe núndʐa nɯnɯ tɯrgi mɤ-nɯɕɯrɲɟo tu-kɯ-ti ɲɯ-ŋu.
 \xn 落叶松和杉树是舅甥的关系，落叶松去了舅舅的位子所以到了秋天变色，杉树到了下游所以不变色
 \dt 26/Jan/2015
 
@@ -67248,7 +67247,7 @@ da.lie 打猎
 \ge une plante 
 \gn 植物的一种 
 \hbf plante 
-\xv spoŋspoz nɯ sɤtɕha kɯ-mbɤr tsa pɕoʁ tu-ɬoʁ ɲɯ-ŋu, ɯ-zrɤm ɲɯ-dɤn, ɲɯ-zri, ɯ-ku ɯ-jwaʁ nɯ ɲɯ-pɣi tɕe ɯ-rme kɯ-fse ɣɤʑu, ɯ-jwaʁ nɯ ɯ-qa ri ɲɤ-ɬoʁ tɕe ɯ-thoʁ pjɤ-ɲɟoʁ kɯ-fse ɲɯ-ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-kɤχcɤl tɕe ɲɯ-rɯmɯntoʁ ɲɯ-ŋu. ɯ-mɯntoʁ χanɯni ɲɯ-ɣɯrni, ɯ-mɯntoʁ ɯ-rqhu kɤntɕhɯ-tɤlɤβ ɣɤʑu, ɯ-mɯntoʁ tɯ-rdoʁ ma maŋe, ɯ-rɣi ɣɤʑu ri tu-ɬoʁ mɯ́-j-cha, ɯ-zrɤm taʁ ɲɯ-mphɤl ɲɯ-ɕti. tɯ-xpa tu-ɬoʁ tɕe pjɯ-khrɯ ɲɯ-ɕti, ki sɯjno ki ɯ-di wuma ɲɯ-mɯm, smɤn ɲɯ-sna khi. 
+\xv spoŋspoz nɯ sɤtɕha kɯ-mbɤr tsa pɕoʁ tu-ɬoʁ ɲɯ-ŋu, ɯ-zrɤm ɲɯ-dɤn, ɲɯ-zri, ɯ-ku ɯ-jwaʁ nɯ ɲɯ-pɣi tɕe ɯ-rme kɯ-fse ɣɤʑu, ɯ-jwaʁ nɯ ɯ-qa ri ɲɤ-ɬoʁ tɕe ɯ-thoʁ pjɤ-ɲɟoʁ kɯ-fse ɲɯ-ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-kɤχcɤl tɕe ɲɯ-rɯmɯntoʁ ɲɯ-ŋu. ɯ-mɯntoʁ χanɯni ɲɯ-ɣɯrni, ɯ-mɯntoʁ ɯ-rqhu kɤntɕhɯ-tɤlɤβ ɣɤʑu, ɯ-mɯntoʁ tɯ-rdoʁ ma maŋe, ɯ-rɣi ɣɤʑu ri tu-ɬoʁ mɯ́j-cha, ɯ-zrɤm taʁ ɲɯ-mphɤl ɲɯ-ɕti. tɯ-xpa tu-ɬoʁ tɕe pjɯ-khrɯ ɲɯ-ɕti, ki sɯjno ki ɯ-di wuma ɲɯ-mɯm, smɤn ɲɯ-sna khi. 
 \xn {spoŋspoz} 生长在海拔低的地方（半山以下），根长得又多又长，苗、叶子的是灰色的，有毛。叶子长在根部上，好象贴住地面，茎长出来以后，顶端上开花。花有点红，花萼有几层，只有一朵花，虽然有种子但是不能发芽，是靠它的根繁殖的。长了一年就会干枯。这种草香味很浓，据说可以入药。
 \dt 02/May/2012
 
@@ -67644,7 +67643,7 @@ l
 \gn 构成了薄薄的一层 
 \xv tɤjpa sɯmsɯm ko-lɤt
 \xn 下了薄薄的一层雪
-\xv nɤ-βri ɯrme sɯmsɯm ci ɣɤʑu
+\xv nɤ-βri ɯ-rme sɯmsɯm ci ɣɤʑu
 \xn 你身上有点毛茸茸
 \xv tɤ-tsrɯ sɯmsɯm ʑo to-ɬoʁ 
 \xn 苗子刚刚发芽了，（很短）仿佛看得见
@@ -67871,7 +67870,7 @@ l
 \xn 萌芽上有透明发亮的露珠
 \xv kɯ-wxti ra kɯ tu-ti-nɯ, ftɕar tɤ-tsrɯ to-ɬoʁ tɕe, tɤ-tsrɯ ɯ-ku ɯ-taʁ zɯ tɤ-ʑri ʂɣɤlʂɣɤl rɯri ɣɯ tɯka tu tɕe, tɯrme tɯ-fsonam nɯ, nɯ kɯ-fse, rɯri tɯkaka tɯ-fsonam nɯ nɯ fse tu-ti-nɯ tu-raχpi-nɯ ɲɯ-ŋgrɤl
 \xn 老年人说，夏天出萌芽的时候，每个萌芽上面有透明的露珠，代表着每个人的运气
-\xv ɯj-aʁ ɯ-taʁ cimbɤrom ʂɣɤlʂɣɤl ʑo to-rku 
+\xv ɯ-jaʁ ɯ-taʁ cimbɤrom ʂɣɤlʂɣɤl ʑo to-rku 
 \xn 他手上起了透明的水疱 
 \dt 19/Feb/2014
 
@@ -68241,7 +68240,7 @@ l
 \hbf plante 
 \xv tɤɕi nɯ iʑo ra ji-kɤ-ndza pjɯ-me mɤ-kɯ-khɯ ʑo ŋu, tɤɕi nɯ tɤ-ɬoʁ ɕɯmɯma tɕe, ɯ-jwaʁ rɟum tsa tɕe tɤ-rɲɟi tɕe ɯ-ku amtɕoʁ, ɯ-zrɤm dɤn, ɯ-ru lo-rɤrtsɯrtsɤɣ ŋu, ɯ-rtsɤɣ ɯ-pɤrthɤβ nɯ ɯ-ru tɯ-tɣa ro ro ntsɯ tu, ɯ-rtsɤɣ kɯβde jamar ta-lɤt tɕe, ɯ-kɯɕnom tu-lɤt ŋu. ɯ-kɯɕnom ɣɯ ɯ-ru nɯ lɤ-ɬoʁ tɕe ɯ-rtsɤɣ me, tɕe ɯ-kɯɕnom kɯ-wxti nɯ ra tɯ-tɣa kɯ-tu tu, ɯ-kɯɕnom ɯ-rdoʁ roŋri ɣɯ ɯ-ʑmbraʁ kɯ-zɯ-zri ʑo tu, ɯ-ʑmbraʁ wuma rʁom. tɤɕi nɯ wuma ʑo arɤphɤjqa tɕe tɯ-phɯ nɯ tɕu ɕnɤcɤ-ldʑa ŋgɯsqɯ-ldʑa jamar ɲɯ-βze kɯ-cha tu. tɤɕi nɯ tɯ-sqar ɯ-spa ŋu. 
 \xn 青稞是我们必不可少的食物。青稞刚长出来的时候，叶子比较宽，顶端是尖的，根须多，茎是一节一节组成的，每一节之间的茎有一拃多长，一般长出四节就抽穗。穗干没有节，穗子有的有一拃长，穗子上每一颗粒上都有一根芒，十分粗糙。一颗青稞可以长出很多根苗，七八根，九十根的都有。青稞是糌粑的原料。
-\dv tɤɕi nɯ tɤ-ɬoʁ ɯ-qhu tɕe tu-wxti tɕe tɕe nɤ, tu-rɤrtsɤɣ ŋu, tɤ-rɤrtsɤɣ ɯqhu tɕe, tɕe tu-rɯtɯwɯ ŋu, tɤ-rɯtɯwɯ ɯ-qhu koʁmɯz nɤ tu-rɯkɯɕnom ŋu
+\dv tɤɕi nɯ tɤ-ɬoʁ ɯ-qhu tɕe tu-wxti tɕe tɕe nɤ, tu-rɤrtsɤɣ ŋu, tɤ-rɤrtsɤɣ ɯ-qhu tɕe, tɕe tu-rɯtɯwɯ ŋu, tɤ-rɯtɯwɯ ɯ-qhu koʁmɯz nɤ tu-rɯkɯɕnom ŋu
 \dt 06/Aug/2012
 
 \lx ^tɤɕiʑmbraʁ
@@ -69369,7 +69368,7 @@ l
 \ps n
 \ge exprès, de force 
 \gn 故意，强迫 
-\xv kɤ-ndza a-ʁjɯz mɯ́-j-ɣi ri ɯʑo kɯ tɤrkoz thɯ́-wɣ-sɯ-ndza-a 
+\xv kɤ-ndza a-ʁjɯz mɯ́j-ɣi ri ɯʑo kɯ tɤrkoz thɯ́-wɣ-sɯ-ndza-a 
 \xn 虽然我没饿，他强迫我吃 
 \xv tɤrkoz tɤ-ndza-t-a pɯ-ra
 \xn 我被迫吃了
@@ -70397,7 +70396,7 @@ l
 \ps adv
 \ge en mettre autant que possible
 \gn 能装多少就装多少
-\xv nɤ-khɯtsa tɕhɯtɕhɯtɕhɯt nɯ pɯnɯrke tɕe, ɯro nɯ nɯ-βde
+\xv nɤ-khɯtsa tɕhɯtɕhɯtɕhɯt nɯ pɯnɯrke tɕe, ɯ-ro nɯ nɯ-βde
 \xn 你碗里能装多少就装多少，把剩余的放在那里
 \dt 21/Aug/2012
 
@@ -71350,7 +71349,7 @@ l
 \xn 两岁的猪
 \xv phaʁrgot ɯ-jo
 \xn 两岁的野猪
-\dv japa thɯ-kɤ-lɤt ɣɯ paʁtsa nɯ, ɣɯjpa tɕe paʁ ɯjo tu-kɯ-ti ŋu
+\dv japa thɯ-kɤ-lɤt ɣɯ paʁtsa nɯ, ɣɯjpa tɕe paʁ ɯ-jo tu-kɯ-ti ŋu
 \dt 09/Jun/2013
 
 \lx ^ɯ-khɯkhɤl
@@ -71418,6 +71417,7 @@ l
 \gn 首先
 \xv ɯʑo ɯŋgu jɤznɤ taʁndo kɯ-tso ci pjɤ-ŋu ri, ɯ-ndo tɕe taʁndo mɯ-ɲɤ-tso
 \xn 他本来就很听话，后来就不听话了
+\et ɴgo
 \an ɯ-ndo
 \cf nɯŋgu
 \dt 11/Oct/2013
