@@ -4155,7 +4155,7 @@
 \gn 植物的一种 
 \hbf plante 
 \xv ɬɤndʐi tɤ-tsoʁ nɯ sɯjno ci ŋu. ɯ-ku nɯ tɤ-tsoʁ cho naχtɕɯɣ, ɬɤndʐi tɤ-tsoʁ ɯ-ku wxti. ɯ-ru me, ɯ-jwaʁ nɯ pɣɤ-muj ɯ-tshɯɣa kɯ-fse ŋu, ɯ-ri kɯ-fse kɯ-ɣɯrni ju-kɯ-ɕe ci tu. ɯ-jwaʁ nɯ pjɤ-ɕkho kɯ-fse ŋu tɕe, ɯ-χcɤl ri ɯ-mɯntoʁ ɲɯ-βze ŋu. ɯ-mɯntoʁ tɯ-rdoʁ ma me, kɯ-qarne ŋu. ɯ-qa nɯ tɤ-tsoʁ cho naχtɕɯɣ, tɕeri ɬɤndʐi tɤ-tsoʁ ɣɯ ɯ-qa nɯ ɯ-rme ci tu. ɯ-rme nɯ ɲaʁ, mɤ-dɤn ri rɲɟi. ɬɤndʐi tɤ-tsoʁ nɯ tú-wɣ-ndza tɕe, tɤ-mdʑu ɲɯ-sɤzɯβzɯβ ŋu, chɯ́-wɣ-mqlaʁ tɕe, tɯ-rqo kɤ-sɯɣ kɯ-fse ɲɯ-sɤβze ŋu tɕe, kɤ-ndza mɤ-sna. tɤ-tsoʁ nɯ tú-wɣ-ndza tɕe, chi, tɤ-mdʑu ɯ-kɯ-sɤzɯβzɯβ me, tɕe nɯ mɯm. 
-\xn ɬɤndʐi tɤ-tsoʁ是一种草，苗和人参果的一样，但大一些。没有茎，叶子象鸟的羽毛的形状，叶柄上好象有红线。叶子向四面展开，中间开花。只有一朵花，是黄色的。根也和人参果一样，但上面有毛，不多但是很长。吃了使舌头发麻，吞下去，使喉咙有很紧的感觉，所以不能吃。人参果吃起来是甜的，舌头没有麻的感觉，好吃。
+\xn {ɬɤndʐi tɤtsoʁ}是一种草，苗和人参果的一样，但大一些。没有茎，叶子象鸟的羽毛的形状，叶柄上好象有红线。叶子向四面展开，中间开花。只有一朵花，是黄色的。根也和人参果一样，但上面有毛，不多但是很长。吃了使舌头发麻，吞下去，使喉咙有很紧的感觉，所以不能吃。人参果吃起来是甜的，舌头没有麻的感觉，好吃。
 
 \lx ɬɤndʐithamaka
 \ps n
@@ -6119,7 +6119,7 @@
 \ge un mammifère 
 \gn 哺乳动物的一种 
 \et brag.sram
-\xv praʁsrɯm nɯ praʁ ŋgɯ ku-kɯ-rɤʑi tɕe ɯ-rme wuma ɲɯ-mpɕɤr tɕe spoŋsrɤm cho tɕhɯɕrɤm nɯra kɯ-naχtɕɯɣ ɲɯ-ŋú-nɯ ɯʑo praʁ ŋgɯ ku-rɤʑi ɲɯ-ŋu tɕe núndʐa praʁsrɯm ɲɯ-rmi 
+\xv praʁsrɯm nɯ praʁ ŋgɯ ku-kɯ-rɤʑi tɕe ɯ-rme wuma ɲɯ-mpɕɤr tɕe spoŋsrɤm cho tɕhɯɕrɤm nɯra kɯ-naχtɕɯɣ ɲɯ-ŋu-nɯ ɯʑo praʁ ŋgɯ ku-rɤʑi ɲɯ-ŋu tɕe núndʐa praʁsrɯm ɲɯ-rmi 
 \xn {praʁsrɯm}是生活在岩石里的一种动物，毛长得很美，同水獭和{spoŋsrɤm} 一样，因为生活在岩石里所以叫 {praʁsrɯm}
 \dt 26/Jan/2015
 
@@ -61975,7 +61975,7 @@ da.lie 打猎
 \ge partie de la charrue 
 \gn 犁杆 
 \hbf charrue 
-\xv mbɣopɤl ɯ-taʁ chɯ́-wɣ-tshoʁ tɕe ɯ-ɕnɤz nɯ stuxsi taʁ lú-βraʁ tɕe nɯ mbɣoru rmi 
+\xv mbɣopɤl ɯ-taʁ chɯ́-wɣ-tshoʁ tɕe ɯ-ɕnɤz nɯ stuxsi taʁ lú-wɣ-βraʁ tɕe nɯ mbɣoru rmi 
 \xn 固定铧头的部分上面再装一根木杆，木杆的另一头拴在牛轭上，这根木杆叫犁干。 
 \nqr
 \dt 01/Jan/2012
@@ -63280,7 +63280,7 @@ da.lie 打猎
 \gn 植物的一种 
 \hbf plante 
 \xv phɤri kɯnɤwu nɯ kha ɯ-rkɯ sɯjno kɯ-dɤn kɯ-fse fsapaʁ ɯ-ɣli kɯ-dɤn kɯ-fse ra tu-ɬoʁ ŋu. tɯrme tɯ-fsu jamar tu-βze cha. ɯ-jwaʁ nɯ ɕɤɣ ɯ-jwaʁ ɯ-tshɯɣa fse ri nɯ sɤz rɟum, ɯ-ru nɯ khro mɤ-jpum, ɯ-ru kɯ-zɯ-zri tɤ-ɬoʁ tɕe, ɯ-taʁ ɯ-mɯntoʁ ku-ndzoʁ ŋu, tɕe ɯ-mɯntoʁ ɯ-tshɯɣa nɯ stoʁ ɯ-mɯntoʁ fse, ɯ-mdoʁ nɯ nɤmkha ɯ-mdoʁ kɤ-ɲaʁndzɯm tsa ŋu. ɯʑo sɯjno nɯ tɯ-ɕɣa ɯ-smɤn kɤ-βʑu ɲɯ-khɯ khi, kɯ-ɕɯŋgɯ kɯ-wxti ra kɯ phɤri kɯnɤwu tu-sɤrmi-nɯ pɯ-ŋu. kɤ-ndza mɤ-sna. fsapaʁ ndza kɯnɤ mɤ-sna 
-\xn {phɤri kɯnɤwu} 是长在房子周围，草多、牲畜粪多的地方。可以长到人的高度。叶子形状象柏树的叶子，但宽一些，茎不粗，茎长得长了，就在上面开花。花的形状象胡豆的花，是深蓝色的。据说这种草可以作成牙痛的药。以前老人们称它是phɤri kɯnɤwu（为对面哭的意思）。不能吃，连牲畜都不能吃。
+\xn {phɤri kɯnɤwu} 是长在房子周围，草多、牲畜粪多的地方。可以长到人的高度。叶子形状象柏树的叶子，但宽一些，茎不粗，茎长得长了，就在上面开花。花的形状象胡豆的花，是深蓝色的。据说这种草可以作成牙痛的药。以前老人们称它是{phɤri kɯnɤwu}（为对面哭的意思）。不能吃，连牲畜都不能吃。
 \dt 06/May/2014
 
 \lx ^phɤrtɕaʁ
@@ -63324,12 +63324,11 @@ da.lie 打猎
 \ps idph.2
 \ge solide 
 \gn 结实，安然无恙，衣冠端正 
-\hbf *βʑar.8
-\xv laχtɕha ra phoʁphoʁ ʑo ɯ-pɯ to-nɯpanɯ
+\xv laχtɕha ra phoʁphoʁ ʑo ɯ-pɯ to-nɯ-panɯ
 \xn 他们很小心地保管了东西
-\xv kɯm phoʁphoʁ ʑo ko-nɯpa-nɯ
+\xv kɯm phoʁphoʁ ʑo ko-nɯ-pa-nɯ
 \xn 他们把门关得很紧
-\xv tɯ-ŋga phoʁphoʁ ʑo ɲɤ-nɯta (ɯ-kɯ-nɯndo pjɤ-me)
+\xv tɯ-ŋga phoʁphoʁ ʑo ɲɤ-nɯ-ta (ɯ-kɯ-nɯ-ndo pjɤ-me)
 \xn 衣服放在那里很安全（没有人拿）
 \se phoʁnɤphoʁ
 \ps idph.3
@@ -64126,7 +64125,7 @@ da.lie 打猎
 \ge edelweiss 
 \gn 火绒草 
 \hbf plante 
-\xv qawɯz nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu, sɯjno ɯ-jwaʁ nɯ ra ɯ-rme kɯ-tu, kɯ-jaʁ kɯ-fse ci ŋu. ɯ-mɯntoʁ ɯ-jwaʁ ɯ-ru lonba ʑo kɯ-wɣrum ŋu, tɕe ɲɯ́-wɣ-sɯɣ-rom tɕe, tú-wɣ-rŋu, tɕe tɯ-ɕke ta-ʑa tɕe, pjɯ́-wɣ-nɤtar tɕe pɯ-ndɯβ tɕe srɯn kɯ-fse ɲɯ-ɤndɯndo ŋu tɕe, ɯnɯ qawɯz ŋu tɕe, tɕaʁmɤr tɤ́-wɣ-lɤt tɕe, ɯ-smi sɤ-mɟa ŋu. tɕaʁmɤr kɤ-lɤt tɕe, qawɯz tɯ-snaʁ cho qapi ni tɯ-tɯ-ndo kú-wɣ-βzu tɕe tɯ-jaʁ ntsi kɯ tɕaʁmɤr pjɯ́-wɣ-sɯ-lɤt tɕe, qapi cho qawɯz ni ndʑi-ɕnɤz nɯtɕu tɕaʁmɤr pjɯ́-wɣ-lɤt, tɕe qapi ɯ-taʁ smɯtɕɣom tu-ɬoʁ tɕe, qawɯz taʁ smi nɯ tu-nɯt ŋu. kɯɕɯŋgɯ tɕe smi kɤ-sɯ-βzu nɯ tu-stú-nɯ pjɤ-ŋu, tham tɕe nɯ kɯ-ntɕhoz me. 
+\xv qawɯz nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu, sɯjno ɯ-jwaʁ nɯ ra ɯ-rme kɯ-tu, kɯ-jaʁ kɯ-fse ci ŋu. ɯ-mɯntoʁ ɯ-jwaʁ ɯ-ru lonba ʑo kɯ-wɣrum ŋu, tɕe ɲɯ́-wɣ-sɯɣ-rom tɕe, tú-wɣ-rŋu, tɕe tɯ-ɕke ta-ʑa tɕe, pjɯ́-wɣ-nɤtar tɕe pɯ-ndɯβ tɕe srɯn kɯ-fse ɲɯ-ɤndɯndo ŋu tɕe, ɯnɯ qawɯz ŋu tɕe, tɕaʁmɤr tɤ́-wɣ-lɤt tɕe, ɯ-smi sɤ-mɟa ŋu. tɕaʁmɤr kɤ-lɤt tɕe, qawɯz tɯ-snaʁ cho qapi ni tɯ-tɯ-ndo kú-wɣ-βzu tɕe tɯ-jaʁ ntsi kɯ tɕaʁmɤr pjɯ́-wɣ-sɯ-lɤt tɕe, qapi cho qawɯz ni ndʑi-ɕnɤz nɯtɕu tɕaʁmɤr pjɯ́-wɣ-lɤt, tɕe qapi ɯ-taʁ smɯtɕɣom tu-ɬoʁ tɕe, qawɯz taʁ smi nɯ tu-nɯt ŋu. kɯɕɯŋgɯ tɕe smi kɤ-sɯ-βzu nɯ tu-stu-nɯ pjɤ-ŋu, tham tɕe nɯ kɯ-ntɕhoz me. 
 \xn 火绒草是一种矮小的植物，叶子长有毛，有点厚。花、叶子和茎都是白色的。晒干了以后，干抄到开始焦黄时就用细条抽打，打细了以后就象棉花一样连在一起，这也是火绒草。打火镰时，是用来引火的东西。打火镰时，把燧石和一小块火绒草一起拿在手上另一只手拿着火镰，打在燧石和火绒草的一角，燧石上迸出火星，火绒草就会着火。过去取火就是这样的，现在没有人用这种方法了。
 \dt 18/Apr/2012
 
