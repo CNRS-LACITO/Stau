@@ -12636,15 +12636,16 @@
 \sy ɣurʑa
 \dt 18/Mar/2015
 
-\lx tɯrju
-\ps n
+\lx tɯ-rju
+\ps np
 \ge parole 
 \gn 话 
 \hbf 651 
-\xv tɯrju to-nɤtsɯmɣɯt 
+\xv tɯ-rju to-nɤtsɯmɣɯt 
 \xn 他传播了谣言 
-\xv tɯrju kɯ-ɕɤɣ tɯ-ŋka kɤ-spa-t-a 
+\xv tɯ-rju kɯ-ɕɤɣ tɯ-ŋka kɤ-spa-t-a 
 \xn 我学了一个新词
+\dt 30/Mar/2015
 
 \lx tɯrɟaʁ
 \ps n
@@ -21279,7 +21280,7 @@
 \wav8 aro
 \wav8 aro-tArJit
 \wav8 aro-tArJit2
-\ps vi
+\ps vi-t
 \pdl dir 
 \pdv tɤ-
 \ge posséder 
@@ -22242,7 +22243,7 @@
 \wav8 znAtWtWG
 \wav8 YWkWZGAnAtWG
 \wav8 YWtaznAtWG
-\ps vi
+\ps vi-t
 \pdl dir 
 \pdv nɯ-
 \ge toucher; rencontrer 
@@ -22293,7 +22294,7 @@
 \ge aller à la rencontrer de 
 \gn 去找（某人）
 \cf amɯtɯɣ
-\dt 19/Jan/2015
+\dt 30/Mar/2015
 
 \lx _awij
 \ps vi
