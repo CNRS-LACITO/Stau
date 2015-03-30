@@ -1633,7 +1633,7 @@
 \ps idph.3
 \ge qui marche sans efforts
 \gn 形容七八岁的小孩子走路很轻松的样子
-\xv tɤpɤtso fsjɤnɤfsjɤt ʑo lɤ-ari
+\xv tɤ-pɤtso fsjɤnɤfsjɤt ʑo lɤ-ari
 \xn 小孩子很轻松地进去了
 \dt 15/May/2014
 
@@ -1791,7 +1791,7 @@
 \ps idph.2
 \ge court et grassouillet
 \gn 形容胖而短，看起来很可爱的样子
-\xv tɤpɤtso ɲɯ-tshu, ɯ-mɤlɤjaʁ ra ɣdɤɣdɤt ʑo ɲɯ-pa
+\xv tɤ-pɤtso ɲɯ-tshu, ɯ-mɤlɤjaʁ ra ɣdɤɣdɤt ʑo ɲɯ-pa
 \xn 小孩子胖胖的，手脚又粗又短
 \dt 08/Aug/2012
 
@@ -1923,6 +1923,12 @@
 \xv jarmɤzdoʁzdoʁ nɯ pɣɤtɕɯ kɯ-xtɕɯ-xtɕi ci ŋu, ɯ-mdoʁ pɣi, ɯ-ʁar ɯ-rkɯ ra χanɯni ɲaʁ, ɲɯ-nɯqambɯmbjom tɕe wuma ʑo ɣɤji, ɯ-mtsioʁ kɯnɤ kɯ-xtɯ-xtɯt ma me, qajɯ tu-ndze ŋu, ɯʑo sti ma kɤ-mto me. ɯ-mi nɯ ra kɯ-pɣi ɯ-ŋgɯz kɯ-qarŋɯrŋe tsa ŋu. 
 \xn {jarmɤzdoʁzdoʁ}是很小的鸟，灰色，翅膀边缘略黑。起飞非常快，嘴很短，吃虫子。只能看见它单独飞行。脚也是黑里带黄的。
 \dt 09/May/2013
+
+\lx jɤɣɤrna
+\ps n
+\ge partie du balcon où l'on fait sécher la nourriture
+\gn 上走檐（晒粮食用的）
+\dt 03/Aug/2012
 
 \lx jɤlwa
 \ps n
@@ -3293,7 +3299,7 @@
 \ge coccinelle 
 \gn 瓢虫 
 \hbf animal 
-\xv kɯ-lɤɣ popo nɯ qajɯ ci ŋu, tɕe ɯ-βri nɯ ɣɯrni ɯ-taʁ kɯ-ɲaʁ kɯ-ɤkhra tu, rko, ɯ-ʁar ɣɯ ɯ-rqhu ɲɯ-ŋu, ɯ-ʁar nɯ li kɯ-mba tɕe ɯ-rɯmu kɯ-tu ci ŋu, tɕe tɤpɤtso ra kɯ nɯ-jaʁ taʁ tu-sɯxɕe-nɯ tɕe, ɯ-khɯkha tu-ti-nɯ kɯ "a-wɯ kɯ-lɤɣ popo, ŋotɕu tɯ-ɕɯ-ɕe nɤ-qhɯ-qhu ɣi-a nɤ-ŋga nɤ-xtsa fkur-a", tɕe nɯ-jaʁndzu ɯ-ku tɤ-nɯɬoʁ tɕe, ju-nɯqambɯmbjom ŋu tɕe, ci ci kɯ-ɤrqhɯ-rqhi ju-ɕe ŋu, ci ci kɯ-ɤrmbɯ-rmbat ku-rɤʑi ŋu tɕe, ŋotɕu jɤ-ari ɯ-pɕoʁ nɯ tɕu thɯ-kɯ-wxti tɕe nɯ-pɕoʁ tɯ-sɤɣ-ɕe ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. 
+\xv kɯ-lɤɣ popo nɯ qajɯ ci ŋu, tɕe ɯ-βri nɯ ɣɯrni ɯ-taʁ kɯ-ɲaʁ kɯ-ɤkhra tu, rko, ɯ-ʁar ɣɯ ɯ-rqhu ɲɯ-ŋu, ɯ-ʁar nɯ li kɯ-mba tɕe ɯ-rɯmu kɯ-tu ci ŋu, tɕe tɤ-pɤtso ra kɯ nɯ-jaʁ taʁ tu-sɯxɕe-nɯ tɕe, ɯ-khɯkha tu-ti-nɯ kɯ "a-wɯ kɯ-lɤɣ popo, ŋotɕu tɯ-ɕɯ-ɕe nɤ-qhɯ-qhu ɣi-a nɤ-ŋga nɤ-xtsa fkur-a", tɕe nɯ-jaʁndzu ɯ-ku tɤ-nɯɬoʁ tɕe, ju-nɯqambɯmbjom ŋu tɕe, ci ci kɯ-ɤrqhɯ-rqhi ju-ɕe ŋu, ci ci kɯ-ɤrmbɯ-rmbat ku-rɤʑi ŋu tɕe, ŋotɕu jɤ-ari ɯ-pɕoʁ nɯ tɕu thɯ-kɯ-wxti tɕe nɯ-pɕoʁ tɯ-sɤɣ-ɕe ŋu tu-kɯ-ti ɲɯ-ŋgrɤl. 
 \xn 瓢虫是一种虫，身子是红色的，上面有黑点，很硬，是翅膀的外壳。翅膀很薄，有纹路。小孩子们让它在手指上爬，并说：“瓢虫爷爷，不管你去哪里我都会在后面跟着你，我要背上你的衣服、鞋子”。当瓢虫爬到手指的顶端时，就会飞走，有时飞得远，有时在很近的地方停下来。据说飞到哪个方向，小孩子长大以后就会往哪里去。
 \dt 14/Mar/2014
 
@@ -3307,14 +3313,15 @@
 \lx kɯmaʁ
 \wav n-kWmaR
 \ps n
-\ge quelqu'un d'autre 
-\gn 别人 
+\ge autre
+\gn 其他 
 \hbf 941 
 \xv li kɯmaʁ nɯ-ari ɕti ma
 \xn （我们）又离题了
 \xv kɯmaʁ tɯrme
-\xn 令我一个人
-\dt 29/May/2013
+\xn 另一个人
+\cf maʁ
+\dt 30/Mar/2015
 
 \lx kɯmɤlɤxso
 \ps adv
@@ -3571,6 +3578,14 @@
 \gn 60 
 \hbf 820
 \dt 05/May/2014
+
+\lx kɯz
+\ps interj
+\ge vas-y d'abord!
+\gn 你在前面走！
+\xv kɯz, tɤ-mbɣom!
+\xn 走吧，快点！
+\dt 30/Mar/2015
 
 \lx kɯzɣa
 \ps adv
@@ -3985,7 +4000,7 @@
 \ps idph.2
 \ge lentement, en titubant
 \gn 形容走路慢而摇晃的样子
-\xv tɤpɤtso nɯ lqɤnɤlqɤt tu-ŋke ɲɯ-cha
+\xv tɤ-pɤtso nɯ lqɤnɤlqɤt tu-ŋke ɲɯ-cha
 \xn 小孩子能摇摇晃晃地走路
 \cf sɤlqɤlqɤt
 \dt 14/May/2014
@@ -4028,7 +4043,7 @@
 \ge petit et faible
 \gn 形容瘦而小的东西竖立着的样子
 \se ltshɤnɤltshɤt
-\xv tɤpɤtso ltshɤnɤltshɤt ʑo ɲɯ-ŋke
+\xv tɤ-pɤtso ltshɤnɤltshɤt ʑo ɲɯ-ŋke
 \xn 小孩子走路显得又小又弱
 \dv kɯ-nɯɲɤmkhe kɯ-fse, kɯ-ɲur kɯ-fse, khro kɤ-ŋke mɤ-cha kɯ-fse nɯ
 \cf ɣɤltshɤltshɤt
@@ -5711,7 +5726,7 @@
 \et fn:北瓜
 \xv pɤjka nɯ lu-kɤ-ji ci ŋu, tɤ-rɤku rca pjɯ́-wɣ-ji ŋu. sɤtɕha kɯ-mpja tsa ɬoʁ, rpɣo pɕoʁ kɯ-mɯɕtaʁ tu-ɬoʁ mɤ-cha. ɯ-jwaʁ ɯ-qhu pɕoʁ ɯ-mdzu dɤn tɕe ɯ-rʁom ʑo tɤ-jmɤɣ ɯ-sɤ-χtɕi pe, ɯ-jwaʁ wxti, ɯ-βzɯr kɯmŋu tu, ɯ-ru kɯ-zri tsa jɯ-ɕe ŋu, taʁ tu-ɬoʁ mɤ-cha, ɯ-thoʁ pjɤ-ɲɟoʁ tɕe jɯ-ɕe ŋu, si cho sɯjno ru na-tɯɣ tɕe, li tu-ortɯ-rtɤβ tɕe taʁ tu-ɕe cha. ɯ-ru taʁ kɯnɤ ɯ-mdzu tu. tɕe ɯ-ru taʁ tɕe, ɯ-jwaʁ ku-ndzoʁ tɕe, ɯ-jwaʁ χsɯm jamar nɯ-ɬoʁ tɕe, ɯ-mɯntoʁ ku-ndzoʁ ŋu. ɯ-mɯntoʁ ʁnɯ-tɯphu tɕe, tɯ-tɯphu nɯ ɯ-mat chɯ-βze mɤ-cha tɕe, nɯ phu ŋu tu-ti-nɯ ŋgrɤl, li ci tɯ-tɯphu nɯ, ɯ-mat chɯ-βze cha tɕe, nɯ mu ŋu tu-ti-nɯ ŋu, ɯ-mɯntoʁ ɯ-mdoʁ kɯ-qarŋɯ-rŋe ʑo ŋu, kɯ-ɤrɯlaba ŋu, ɯ-βzɯr kɯmŋu tu. pɤjka ɯ-mat kɯ-wxtɯ-wxti chɯ-βze cha, kɯ-ɤrtɯm tɕe kɯ-zri ŋu. sɤtɕha taʁ pjɯ-kɯ-ru nɯ aqarŋɯrŋe, tɯmɯ ɯ-pɕoʁ tu-kɯ-ru nɯ, ldʑaŋnaʁ ŋu. pɤjka stu kɯ-wxti nɯ ɣnɤ-sqi tɯ-rpa jarma chɯ-βze cha. thɯ-do tɕe ɯ-rqhu nɯ rko tɕe ɯ-ɕa ɣɯ ɯ-ŋgɯ ɯ-rɣi chɯ-fka ŋu. pɤjka nɯ kɤ-ndza sna, tɯ-mgo zmɤrɤβ ŋu. thɯ-do tɕe, nɯ fse kú-wɣ-nɯ-sqa tɕe, ɯ-lpɤɣ tú-wɣ-ndza tɕe mɯm. 
 \xn 南瓜是自己种的一种植物，是种在庄稼地里，种在气候比较温和的地方，山上气候冷的地方的能生长。叶子的背面有很多小刺，很粗糙，可以用来刷洗菌子。叶子大，有个棱角，茎可以长得比较长，不是往上长，是爬在地上的。遇到了树干或草茎就会缠着往上长。茎上也有刺。茎上长出三四片叶子的时候就开花。有两种花，一种是不能结果的，一种是不能结果的，有人说它是公的，另一种是可以结果的，有人说它是母的。花是大黄色的，形状象喇叭，有五个棱角。南瓜能结很大的果实，是椭圆形的。朝地的那面是淡黄色是，朝天的那面是深绿色的。最大的南瓜有20多斤左右。老了皮子变硬，种子也就饱满了。南瓜可以吃，是一种菜。老南瓜煮以后，成块的吃了很好吃。
-\xv pɤjka tɤ-kɯ-ɬoʁ nɯ, ɯ-mɯntoʁ ku-ndzoʁ ŋu, ɯ-mɯntoʁ kɤ-ndzoʁ tɕe, tɤpɤtso (ɯ-ɕki) "ma-ɕ-kɤ-tɯ-sɯjaʁndze ma mɯntoʁ mbɯt" tu-kɯ-ti ŋu
+\xv pɤjka tɤ-kɯ-ɬoʁ nɯ, ɯ-mɯntoʁ ku-ndzoʁ ŋu, ɯ-mɯntoʁ kɤ-ndzoʁ tɕe, tɤ-pɤtso (ɯ-ɕki) "ma-ɕ-kɤ-tɯ-sɯjaʁndze ma mɯntoʁ mbɯt" tu-kɯ-ti ŋu
 \xn 白瓜开花的时候，给孩子说：“你不要指，不然它的花会掉下来”
 \dt 26/Jan/2015
 
@@ -6765,7 +6780,7 @@
 \xn 猪膘显得很透明
 \se sɤrɣɤβrɣɤβ
 \ps vt
-\xv tɤpɤtso kɯ ɯ-qom ɲɯ-sɤrɣɤβrɣɤβ ʑo
+\xv tɤ-pɤtso kɯ ɯ-qom ɲɯ-sɤrɣɤβrɣɤβ ʑo
 \xn 小孩子快要眼泪哗哗的样子
 \dt 15/Nov/2011
 
@@ -7804,7 +7819,7 @@
 \ps idph.2
 \ge grand et gros (corps)
 \gn 形容身体大而胖
-\xv tɤpɤtso cho-wxti sɲɤɣsɲɤɣ ʑo
+\xv tɤ-pɤtso cho-wxti sɲɤɣsɲɤɣ ʑo
 \xn 小孩子长大了，变得又大又胖
 \ge bête
 \gn 形容笨重或是不聪明
@@ -8681,7 +8696,7 @@
 \ps n
 \ge valeur (d'une personne)
 \gn 身价
-\xv tɤpɤtso ɯ-jli ɲɯ-wxti tɕe kɤ-sɤβlo ɲɯ-ɴqa
+\xv tɤ-pɤtso ɯ-jli ɲɯ-wxti tɕe kɤ-sɤβlo ɲɯ-ɴqa
 \xn 小孩子很贵重，不好伺候
 \dt 03/Aug/2012
 
@@ -8911,13 +8926,13 @@
 \ge père (noble) 
 \gn 父亲（贵族用语）
 
-\lx tɤpɤtsoβraʁ
+\lx tɤ-pɤtsoβraʁ
 \ps n
 \ge petit phasme 
 \gn 小的树支虫 
 \hbf animal 
-\xv tɤpɤtso βraʁ nɯ sɯjno mbro mbro cho kɯ-naχtɕɯ-χtɕɯɣ ŋu, li ʁnɯ-tɯphu tu, ldʑaŋkɯ ci kɯ-pɣi ci tu, ndʑi-tɯ-xtshɯm naχtɕɯɣ tɕe nɯ a-pɯ́-wɣ-mto tɕe nɯ maʁ nɤ tɯ-taʁ a-tɤ-ɣi tɕe, nɯ maʁ nɤ tɯʑo tɤ-rɟit tu, nɯ maʁ nɤ tɯ-kɯmdza ra nɯ-rɟit tu tu-kɯ-ti ɲɯ-ŋu tɕe núndʐa tɤpɤtso βraʁ ɲɯ-rmi
-\xn {tɤpɤtso βraʁ}和秤杆虫一模一样，也有两种，绿色的和灰色的，两种一样细。据说如果人看见了它，或者如果它爬到人的身上来了，要么自己会有身孕，要么自己亲戚会有身孕，所以叫{tɤpɤtso βraʁ}小孩子的象征） 
+\xv tɤ-pɤtso βraʁ nɯ sɯjno mbro mbro cho kɯ-naχtɕɯ-χtɕɯɣ ŋu, li ʁnɯ-tɯphu tu, ldʑaŋkɯ ci kɯ-pɣi ci tu, ndʑi-tɯ-xtshɯm naχtɕɯɣ tɕe nɯ a-pɯ́-wɣ-mto tɕe nɯ maʁ nɤ tɯ-taʁ a-tɤ-ɣi tɕe, nɯ maʁ nɤ tɯʑo tɤ-rɟit tu, nɯ maʁ nɤ tɯ-kɯmdza ra nɯ-rɟit tu tu-kɯ-ti ɲɯ-ŋu tɕe núndʐa tɤ-pɤtso βraʁ ɲɯ-rmi
+\xn {tɤ-pɤtso βraʁ}和秤杆虫一模一样，也有两种，绿色的和灰色的，两种一样细。据说如果人看见了它，或者如果它爬到人的身上来了，要么自己会有身孕，要么自己亲戚会有身孕，所以叫{tɤ-pɤtso βraʁ}小孩子的象征） 
 \nqr
 \dt 05/May/2014
 
@@ -9184,6 +9199,14 @@
 \ge chef de village 
 \gn 寨首 
 \hbf 182
+
+\lx tɤ-ʁarndzom
+\wav8 WRarndzom
+\ps np
+\ge os des ailes
+\gn 翅膀的骨头
+\dv ɯ-ʁar ɯ-ɕɤrɯ kɤ-ti ɲɯ-ŋu
+\dt 30/Mar/2015
 
 \lx tɤsapɣɤtɕɯ
 \ps n
@@ -10581,7 +10604,7 @@
 \ps idph.3
 \ge bruit produit lorsque l'on se mouche le nez
 \gn 擤鼻涕的声音
-\xv tɤpɤtso kɯ ɯ-ɕna mɯ-chɯ-pɕiz tɕe, tʂhɯβnɤtʂhɯβ tu-sɯ-ti ɲɯ-ŋu
+\xv tɤ-pɤtso kɯ ɯ-ɕna mɯ-chɯ-pɕiz tɕe, tʂhɯβnɤtʂhɯβ tu-sɯ-ti ɲɯ-ŋu
 \xn 小孩子没有擤好鼻涕就发出呼哧呼哧的声音
 \se phɯtʂhɯβ
 \ps idph.7
@@ -10680,6 +10703,13 @@
 \cf aɣɯci
 \dt 08/Jan/2014
 
+\lx tɯci pɣɤtɕɯ
+\ps n
+\ge espèce d'oiseau 
+\gn 一种鸟 
+\hbf oiseau
+\dt 29/May/2013
+
 \lx tɯciɕku
 \ps n
 \ge poireau sauvage 
@@ -10688,13 +10718,6 @@
 \xv tɯciɕku nɯ tɯ-ci ɯ-rkɯ qambɯt ŋgɯ rdɤstaʁ ɯ-rchɤβ tu-ɬoʁ ŋu. ɯ-tshɯɣa ra lonba tɤ-spɯ ɕku fse, tɕeri ɯ-mdoʁ arŋi. kɯ-ɣɤjlu di me. tu-tɯ-ɬoʁ tú-wɣ-ndza tɕe mɯm. 
 \xn {tɯciɕku}生长在大河边的沙滩里和石头缝里，形状完全和{tɤspɯɕku} 一样，但是颜色是绿色的，没有腥味。刚长出来时吃起来很香。
 \dt 26/Jan/2015
-
-\lx tɯci pɣɤtɕɯ
-\ps n
-\ge espèce d'oiseau 
-\gn 一种鸟 
-\hbf oiseau
-\dt 29/May/2013
 
 \lx tɯcifkɯm
 \ps n
@@ -12770,7 +12793,7 @@
 \ps np
 \ge gencive 
 \gn 牙龈 
-\hbf 138 
+\hbf 138
 
 \lx tɯ-rnom
 \ps np
@@ -14136,7 +14159,7 @@
 \ge égal, autant 
 \gn 一样 
 \hbf *ndzaʁlaŋ.134 
-\xv tɤpɤtso cho-wxti tɕe, ɯ-mu ɯ-fsu ʑo cho-ɬoʁ 
+\xv tɤ-pɤtso cho-wxti tɕe, ɯ-mu ɯ-fsu ʑo cho-ɬoʁ 
 \xn 孩子长大了，长得跟他母亲一样高
 \dt 30/May/2013
 
@@ -14225,7 +14248,7 @@
 \hbf *βʑar.26 
 \xv tɯmɯ kɤ-lɤt ɯ-jɯja tɕe, ɯ-thoʁ tu-ɣɤrcoʁ ɲɯ-ŋu 
 \xn 雨水越大，地面的稀泥越多
-\xv tɤpɤtso thɯ-wxti ɯ-jɯja nɤ, ɯ-ndzɯmbra kɤ-sɤsɯɣ ra 
+\xv tɤ-pɤtso thɯ-wxti ɯ-jɯja nɤ, ɯ-ndzɯmbra kɤ-sɤsɯɣ ra 
 \xn 随着孩子长大，要加强对他的教育
 \dt 12/Mar/2014
 
@@ -14533,9 +14556,17 @@
 \dt 26/Jan/2015
 
 \lx ɯ-qa
+\wav8 Wqa_Zo_tunWlhoR_naRzia
+\wav8 Wqa_Zo_pjWnWlhoR
 \ps np
-\ge patte, racine, fond 
-\gn 野兽的脚、根、底部 
+\ge racine, fond 
+\gn 根、底部
+\ge patte
+\gn 野兽的脚
+\xv ɯ-qa ʑo tu-nɯɬoʁ naʁzi-a
+\xn 我想寻根问底
+\xv ɯ-kɤ-thu nɯ ɯ-qa ʑo tu-nɯɬoʁ naʁzi
+\xn 他想寻根问底
 \hbf animal2
 
 \lx ɯ-qhɤchu
@@ -15441,7 +15472,7 @@
 \gn 形容花等厚而结实的样子
 \xv ɯ-mɯntoʁ nɯ xchuxchu ʑo ɲɯ-pa
 \xn 它的花显得又厚又结实
-\xv tɤpɤtso kɯ ɯ-mtɕhi xchuxchu ʑo to-stu
+\xv tɤ-pɤtso kɯ ɯ-mtɕhi xchuxchu ʑo to-stu
 \xn 小孩子嘟着嘴巴
 \dt 05/May/2014
 
@@ -15506,6 +15537,7 @@
 \nqr
 
 \lx xɕɯβ
+\wav8 YAxCWB
 \ps vs
 \pdl dir 
 \pdv nɯ-
@@ -15513,11 +15545,12 @@
 \pdv pɯ-
 \pdl dir 
 \pdv lɤ-
-\ge se réduire
-\gn 缩小
+\ge se dégonfler
+\gn 瘪下去、缩下去
+\xv ɯ-ŋgɯ tɯ-ci ɲɤ-me tɕe ɲɤ-xɕɯβ
+\xn 里面的水没有了，缩下去了
 \sy ɲchoʁ
-\nq +ex
-\dt 26/Jan/2015
+\dt 30/Mar/2015
 
 \lx xoŋnɤxoŋ
 \ps idph.2
@@ -15568,7 +15601,7 @@
 \ps idph.2
 \ge épais et court
 \gn 形容粗而短的样子
-\xv tɤpɤtso ɯ-mi ɲɯ-tshu xtɤβxtɤβ ʑo
+\xv tɤ-pɤtso ɯ-mi ɲɯ-tshu xtɤβxtɤβ ʑo
 \xn 小伙子的腿又粗又短
 \dv kɯ-jpum tsa kɯ-xtɯt tsa kɤ-ti ŋu.
 \dt 11/May/2014
@@ -15803,7 +15836,7 @@
 \xn 他吃完了
 \xv khapa fsapaʁ pɯ-rɤʑi-nɯ ɕti tɕe, ɕɯ-nam-a pɯ-ŋu ri, khapa pɯ-azɣɯt-a tɕe, χɤlχɤl ʑo jo-ɕe-nɯ
 \xn 牲畜原来在楼下，我正要去赶它们的时候，它们就消失得无影无踪了
-\xv jɯfɕɯr tɤpɤtso wuma pɯ-nɯzdɯɣ-a ri, jɤ-azɣɯt tɕe, a-sɯm χɤlχɤl ʑo ɲo-pa
+\xv jɯfɕɯr tɤ-pɤtso wuma pɯ-nɯzdɯɣ-a ri, jɤ-azɣɯt tɕe, a-sɯm χɤlχɤl ʑo ɲo-pa
 \xn 昨天我很担心小孩子，他到了之后我就放心了
 \xv slama ra jɤ-nɤri-nɯ, sloχpɯn ɯ-rkɯ χɤlχɤl ʑo ɲɯ-pa
 \xn 当学生都走了之后，老师觉得心里空落落的
@@ -16560,7 +16593,7 @@
 \ps idph.2
 \ge petit
 \gn 形容身材矮小
-\xv tɤpɤtso nɯ zɟoʁzɟoʁ ʑo ɲɯ-pa
+\xv tɤ-pɤtso nɯ zɟoʁzɟoʁ ʑo ɲɯ-pa
 \xn 那个孩子个子矮矮的
 \an zjɤɣzjɤɣ
 \an zjaŋzjaŋ
@@ -17246,7 +17279,7 @@
 \xn 土豆成熟了
 \xv tɤɕi kɤ-tɣa to-kɤβzu-ci
 \xn 青稞可以收割了
-\xv kɯki tɤpɤtso ʁʑɯnɯ chɤ-kɤβzu-ci
+\xv kɯki tɤ-pɤtso ʁʑɯnɯ chɤ-kɤβzu-ci
 \xn 这个孩子已经长成青年了
 \cf βzu
 \dt 09/Apr/2014
@@ -17782,6 +17815,13 @@
 \cf ɣɤrlaʁ
 \dt 21/Aug/2011
 
+\lx _aɣrɤɣrum
+\ps vs
+\ge être blanchâtre
+\gn 微白的
+\cf wɣrum
+\dt 30/Mar/2015
+
 \lx _aɣro
 \wav vi-aGro
 \ps vi
@@ -17947,7 +17987,7 @@
 \xn 蜘蛛有很多脚
 \ge avoir l'habitude de toucher les objets des autres 
 \gn 乱摸别人的东西（偷东西），做事很快
-\xv tɤpɤtso nɯ kɯ-ɤɣɯjɯjaʁ ci ɲɯ-ŋu
+\xv tɤ-pɤtso nɯ kɯ-ɤɣɯjɯjaʁ ci ɲɯ-ŋu
 \xn 那个孩子习惯乱摸别人的东西 
 \xv jiɕqha nɯ ɲɯ-ɤɣɯjɯjaʁ
 \xn 这个人做事很快
@@ -18216,7 +18256,7 @@
 \ps vs
 \ge qui urine souvent
 \gn 经常撒尿
-\xv nɤki tɤpɤtso nɯ ɲɯ-ɤɣɯrmbi
+\xv nɤki tɤ-pɤtso nɯ ɲɯ-ɤɣɯrmbi
 \xn 那个小孩子经常撒尿
 \cf tɯ-rmbi
 \dt 07/Aug/2012
@@ -18706,7 +18746,8 @@
 \xn 他肚子瘪了
 \xv tɤ-fkɯm nɯ ɲɯ-ɤjχoʁ
 \xn 口袋是瘪的
-\dt 01/Dec/2010
+\cf ɲchoʁ
+\dt 30/Mar/2015
 
 \lx _akɤlɤt
 \wav8 akAlAt
@@ -19840,7 +19881,7 @@
 \gn 召集、聚集
 \xv kɯ-nɯkheihui ra to-kɤndɯja-nɯ-ci tɤ-sɤndɯja-t-a-nɯ
 \xn 开会的人聚在一起，我把他们聚集在一起了
-\xv tɤpɤtso ra tɤ-sɤndɯjat-a-nɯ
+\xv tɤ-pɤtso ra tɤ-sɤndɯjat-a-nɯ
 \xn 我把孩子们聚集在一起了
 \dt 18/Jun/2011
 
@@ -20207,7 +20248,7 @@
 \hbf 1796 
 \xv paʁtsa ni ndʑi-ndza ɲɯ-ɤnɯsɯkhɯkho-ndʑi
 \xn 两个小猪互相抢食物
-\xv tɤpɤtso ni ndʑi-kɯmtɕhɯ ɲɯ-ɤnɯsɯkhɯkho-ndʑi
+\xv tɤ-pɤtso ni ndʑi-kɯmtɕhɯ ɲɯ-ɤnɯsɯkhɯkho-ndʑi
 \xn 两个小孩子互相抢玩具
 \cf nɯsɯkho
 \dt 19/Mar/2011
@@ -22408,7 +22449,7 @@
 \xn 他醒了
 \xv jiɕqha pɯ-nɯʑɯβa ri, tham tɕe nɯ-aχsom-a
 \xn 我刚才睡着了，现在就醒了
-\xv nɤki tɤpɤtso nɯ kɯ-ɤχsom ci ɲɯ-ŋu 
+\xv nɤki tɤ-pɤtso nɯ kɯ-ɤχsom ci ɲɯ-ŋu 
 \xn 这个小孩子看起来很聪明
 \se saχsom
 \ps vt
@@ -24181,7 +24222,7 @@
 
 \gn （跟孩子）一起睡
 \hbf 1326 
-\xv tɤpɤtso pɯ-ɕɯm-a 
+\xv tɤ-pɤtso pɯ-ɕɯm-a 
 \xn 我让孩子跟我一起睡
 \xv kumpɣa kɯ tɤ-ŋgɯm ko-ɕɯm
 \xn 母鸡把蛋孵出来了
@@ -24343,7 +24384,7 @@
 \pdv tɤ-
 \ge se laisser pendre
 \gn 自己挂自己
-\xv tɤpɤtso to-ʑɣɤɕɯɴqoʁ tɕe, ɲɯ-ɤnɯɣro, ɲɯ-ɣɤɕtʂaŋlaŋ ʑo
+\xv tɤ-pɤtso to-ʑɣɤɕɯɴqoʁ tɕe, ɲɯ-ɤnɯɣro, ɲɯ-ɣɤɕtʂaŋlaŋ ʑo
 \xn 小孩子把自己挂上去了，在那里吊着玩
 \dt 25/Mar/2013
 
@@ -24389,7 +24430,7 @@
 \hbf *ɲimawozɤr.51 
 \xv kɤ-ɕɯrŋgɯ-t-a , kɤ-tɯ-ɕɯrŋgɯ-t, kaɕɯrŋgɯ
 \xn 我让他睡了，你让他睡了，他让他睡了
-\xv tɤpɤtso nɯʑɯβ ɲɯ-ŋu tɕe kɤ-ɕɯrŋgɯ-t-a
+\xv tɤ-pɤtso nɯʑɯβ ɲɯ-ŋu tɕe kɤ-ɕɯrŋgɯ-t-a
 \xn 小孩子快睡着了，我就让他躺下休息
 \xv cha kɤ-sqa-t-a tɕe kɤ-ɕɯrŋgɯ-t-a 
 \xn 我让酒发酵了 
@@ -24709,7 +24750,7 @@
 \xn 你喂饱了
 \xv ɯʑo kɯ ta-ɕɯfka
 \xn 他喂饱了
-\xv tɤpɤtso kɤ-ngu-t-a tɕe tɤ-ɕɯfka-t-a
+\xv tɤ-pɤtso kɤ-ngu-t-a tɕe tɤ-ɕɯfka-t-a
 \xn 我把孩子喂饱了
 \xv ɯ-ɣmba qale kɯ ɲɤ-ɕɯfka
 \xn 他鼓起了腮帮子
@@ -26037,7 +26078,7 @@
 \xn 你动来动去
 \xv kɤ-nɤma tɤra tɕe, ku-ɣɤdzɯlɯt ra
 \xn 要工作了，要活跃起来
-\xv tɤpɤtso ɲɯ-ɣɤdzɯlɯt 
+\xv tɤ-pɤtso ɲɯ-ɣɤdzɯlɯt 
 \xn 小孩子在动来动去
 \xv nɤ-mi ɲɯ-ɣɤdzɯlɯt
 \xn 你的脚在动
@@ -26353,13 +26394,13 @@
 \ge cajoler un enfant 
 \gn 哄 
 \hbf 1375
-\xv tɤpɤtso kɤ-ɣɤɟaʁ-a
+\xv tɤ-pɤtso kɤ-ɣɤɟaʁ-a
 \xn 我哄了小孩子
 \xv kɤ-tɯ-ɣɤɟaʁ
 \xn 你哄了他
 \xv ka-ɣɤɟaʁ
 \xn 他哄了他
-\xv tɤpɤtso kú-wɣ-ɣɤɟaʁ tɕe rga
+\xv tɤ-pɤtso kú-wɣ-ɣɤɟaʁ tɕe rga
 \xn 小孩子被哄就高兴
 \dt 21/Nov/2010
 
@@ -28017,7 +28058,7 @@ da.lie 打猎
 \ge gigoter
 \gn 不停地乱动，令人讨厌
 \un 特别指小孩子 
-\xv tɤpɤtso mɯ́j-khɯ tɕe ɲɯ-ɣɤsɯɣsɯɣ ʑo
+\xv tɤ-pɤtso mɯ́j-khɯ tɕe ɲɯ-ɣɤsɯɣsɯɣ ʑo
 \xn 小孩子不听话，不停地乱动
 \xv ma-tɯ-ɣɤsɯɣsɯɣ kɯ kɤ-rɤʑi
 \xn 不要乱动
@@ -28390,7 +28431,7 @@ da.lie 打猎
 \xn 我哭了
 \xv ɯʑo nɯ-ɣɤwu
 \xn 他哭了
-\xv jiɕqha tɤpɤtso nɯ ɲɯ-ɣɤwu
+\xv jiɕqha tɤ-pɤtso nɯ ɲɯ-ɣɤwu
 \xn 这个小孩子在哭
 \xv jiɕqha nɯ ɲɯ-nɯzdɯɣ-a tɕe, nɯ-ɣɤwu-a
 \xn 我为他担心所以哭了
@@ -28438,7 +28479,7 @@ da.lie 打猎
 \xn 我使唤了他
 \xv tɤ́-wɣ-ɣɤxpra
 \xn 他使唤了我
-\xv tɤpɤtso tɤ-ɣɤxpra-t-a
+\xv tɤ-pɤtso tɤ-ɣɤxpra-t-a
 \xn 我使唤了小孩子
 \xv tɤ-ɣɤxpra-t-a tɕe tɕe tɕɤndi laχtɕha ɯ-kɯ-ru nɯ-sɤɣri-t-a
 \xn 我使唤了他要去那边拿东西
@@ -29385,12 +29426,6 @@ da.lie 打猎
 \xn 你可以说，我有空
 \dt 29/May/2013
 
-\lx jɤɣɤrna
-\ps n
-\ge partie du balcon où l'on fait sécher la nourriture
-\gn 上走檐（晒粮食用的）
-\dt 03/Aug/2012
-
 \lx _jɣɤt
 \wav vi-jGAt
 \ps vi
@@ -29708,7 +29743,7 @@ da.lie 打猎
 \xn 你不用给他喝了，已经给了
 \xv smɤn ɯ-j-ajtshi
 \xn 给他喝药了没有
-\xv tɤpɤtso ra tɤ-lu ajtshi
+\xv tɤ-pɤtso ra tɤ-lu ajtshi
 \xn 牛奶已经给小孩喝了
 \dt 09/May/2013
 
@@ -29941,7 +29976,7 @@ da.lie 打猎
 \gn 布置 
 \xv jɯfɕɯr ŋgumdʑɯɣ kɯ ji-ma pa-khrɤt
 \xn 昨天领导布置了我们的工作
-\xv tɤpɤtso ɯ-ma nɯ-khrat-a 
+\xv tɤ-pɤtso ɯ-ma nɯ-khrat-a 
 \xn 我给小孩子布置了这个任务
 \dt 02/Oct/2013
 
@@ -30186,7 +30221,7 @@ da.lie 打猎
 \xn 孩子不成材怪父母
 \xv laʁtɕha ɲo-me tɕe, nɤʑo pɯ-tɯ-lɤn
 \xn 东西丢了，你有有责任 
-\xv tɤpɤtso mɤ-kɯ-khɯ nɯ chɯ-kɤ-sɯɣli ɲɯ-lɤn 
+\xv tɤ-pɤtso mɤ-kɯ-khɯ nɯ chɯ-kɤ-sɯɣli ɲɯ-lɤn 
 \xn 小孩子不听话，就是因为平时惯养了他
 \se nɯlɤn
 \ps vi
@@ -30304,7 +30339,7 @@ da.lie 打猎
 \hbf 1101 
 \xv ki tɯrme ki kɯ-ldɯm ci ɲɯ-ŋu 
 \xn 这个人很稳重
-\xv tɤpɤtso ɲɯ-ldɯm
+\xv tɤ-pɤtso ɲɯ-ldɯm
 \xn 孩子很听话
 \dt 08/Oct/2011
 
@@ -30723,8 +30758,8 @@ da.lie 打猎
 \cf rɯkɯmaʁ
 \cf nɯkɯmaʁ
 \cf nɤɣmaʁ
-
-\dt 14/Mar/2014
+\cf kɯmaʁ
+\dt 30/Mar/2015
 
 \lx _mɤɕi
 \ps vs
@@ -31146,7 +31181,7 @@ da.lie 打猎
 \hbf 969
 \xv nɤʑo ɲɯ-tɯ-mbro, aʑo ɲɯ-mbar-a
 \xn 你很高，我很矮
-\xv tɤpɤtso kɯ-mbro ɣɤʑu, kɯ-mbɤr ɣɤʑu
+\xv tɤ-pɤtso kɯ-mbro ɣɤʑu, kɯ-mbɤr ɣɤʑu
 \xn 有的孩子长得高，有的长得矮
 \xv ɯ-phoŋbu ɲɯ-mbɤr
 \xn 他身材很矮
@@ -31240,9 +31275,9 @@ da.lie 打猎
 \gn 给了
 \xv ɯʑo ambi ma jɯfɕɯr nɯ-mbi-t-a
 \xn 已经给了他，我昨天就给了
-\xv tɤpɤtso ɯ-smɤn ambi
+\xv tɤ-pɤtso ɯ-smɤn ambi
 \xn 小孩子的药已经给了
-\xv ki tɤpɤtso saχsɯ ɣɯ ɯ-smɤn ambi, tɯrmɯ ɣɯ nɯ mɤ-ambi
+\xv ki tɤ-pɤtso saχsɯ ɣɯ ɯ-smɤn ambi, tɯrmɯ ɣɯ nɯ mɤ-ambi
 \xn 给了中午的药，没有给下午的（药）
 \se ambɯmbi
 \ps vi
@@ -32903,7 +32938,7 @@ da.lie 打猎
 \gn 捏（惩罚人的方式） 
 \xv nɯ́-wɣ-mɯrtsɯɣ-a
 \xn 他捏了我
-\xv tɤpɤtso taʁndo mɯ-tɤ-tso tɕe, ɲɯ́-wɣ-mɯrtsɯɣ tɕe phɤn
+\xv tɤ-pɤtso taʁndo mɯ-tɤ-tso tɕe, ɲɯ́-wɣ-mɯrtsɯɣ tɕe phɤn
 \xn 小孩子不听话的时候捏一下就会好
 \se sɤmɯrtsɯɣ
 \ps vi
@@ -35100,7 +35135,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge s'occuper de (enfant)
 \gn 抚养（孩子）
-\xv tɤpɤtso tɤ-nɤpɤβdaʁ-a
+\xv tɤ-pɤtso tɤ-nɤpɤβdaʁ-a
 \xn 我抚养了孩子
 \dt 13/Jan/2011
 
@@ -36917,7 +36952,7 @@ da.lie 打猎
 \gn 觉得恶心
 \xv pɯ-nɤʑɯloʁ-a
 \xn 我觉得恶心
-\xv tɤpɤtso kɯ ɯ-qe na-lɤt tɕe pɯ-nɤʑɯloʁ-a
+\xv tɤ-pɤtso kɯ ɯ-qe na-lɤt tɕe pɯ-nɤʑɯloʁ-a
 \xn 小孩子屙了屎，我觉得很恶心
 \xv khɯna lo-qioʁ tɕe pɯ-nɤʑɯloʁ-a
 \xn 狗在那里吐了，我觉得很恶心
@@ -36971,8 +37006,7 @@ da.lie 打猎
 
 \lx _ndo
 \wav vt-ndo
-\wav vt-sWndo
-\wav vt-sAndWndo
+\wav8 WpW_tondo
 \ps vt
 \pdl dir 
 \pdv _
@@ -36988,9 +37022,10 @@ da.lie 打猎
 \xv kɯβdesqamnɯz ko-ndo
 \xn 他开始进入42岁了
 \un 可以跟{ɯ-mdoʁ}“颜色”连用，表示“带着……颜色”
-\xv ɯ-pɯ to-ndo
+\xv paʁ ɣɯ ɯ-pɯ to-ndo
 \xn 她怀了胎
 \se sɯndo
+\wav vt-sWndo
 \ps vt
 \ng caus
 \pdl dir 
@@ -37009,6 +37044,7 @@ da.lie 打猎
 \ge s'attacher
 \gn 粘在一起
 \se sɤndɯndo
+\wav vt-sAndWndo
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -37018,7 +37054,7 @@ da.lie 打猎
 \xn 铧头中间有个洞，在那里钉个钉子，把铧头钉在犁头上
 \cf nɤndɯndo
 \cf ando
-\dt 02/Sep/2014
+\dt 30/Mar/2015
 
 \lx _ndom
 \wav vi-ndom
@@ -37275,7 +37311,7 @@ da.lie 打猎
 \hbf 1786 <2> 1617
 \xv stoʁ ɕɤxɕo tɕe to-ndzɤt
 \xn 胡豆这几天长大
-\xv tɤpɤtso cho-ndzɤt
+\xv tɤ-pɤtso cho-ndzɤt
 \xn 孩子长大了
 \dt 13/Jan/2015
 
@@ -38109,7 +38145,7 @@ da.lie 打猎
 \ge tromper 
 \gn 欺骗 
 \hbf 1564
-\xv tɤpɤtso pɯ-nɯβlu-t-a
+\xv tɤ-pɤtso pɯ-nɯβlu-t-a
 \xn 我骗了小孩子
 \xv jiɕqha nɯ kɯ pɯ́-wɣ-nɯβlu-a
 \xn 这个人把我骗了
@@ -38406,11 +38442,13 @@ da.lie 打猎
 \hbf *qaɕpa.6 
 \xv staʁthɤr kɯ ɯ-pi ta-nɯɕpɯz
 \xn 斯达塔尔学了他的哥哥
-\xv tɤpɤtso ra kɯ ʁmaʁmi ɲɯ-ɤz-nɯɕpɯz-nɯ
+\xv tɤ-pɤtso ra kɯ ʁmaʁmi ɲɯ-ɤz-nɯɕpɯz-nɯ
 \xn 孩子们在打扮成士兵
-\xv tɤpɤtso ra kɯ ɕɤmɯɣdɯ ɯ-kɯ-lɤt ɲɯ-ɤz-nɯɕpɯz-nɯ
+\xv tɤ-pɤtso ra kɯ ɕɤmɯɣdɯ ɯ-kɯ-lɤt ɲɯ-ɤz-nɯɕpɯz-nɯ
 \xn 孩子们装作在打枪
-\dt 15/Sep/2012
+\xv tɤ́-wɣ-nɯɕpɯz-a
+\xn 他模仿了我我模样
+\dt 30/Mar/2015
 
 \lx _nɯɕqhu
 \wav vt-nWCqhu
@@ -39479,7 +39517,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge attraper une maladie de l'intestin
 \gn 啦肚子（孩子）
-\xv tɤpɤtso ɲɯ-nɯkrɤlma
+\xv tɤ-pɤtso ɲɯ-nɯkrɤlma
 \xn 小孩子在啦肚子
 \dt 07/Sep/2013
 
@@ -40569,7 +40607,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge s'occuper de 
 \gn 照顾 
-\xv tɤpɤtso tɤ-nɯŋgumtha-t-a
+\xv tɤ-pɤtso tɤ-nɯŋgumtha-t-a
 \xn 我照顾了孩子
 \xv rgargɯn ɲɯ-ŋu tɕe tɤ-nɯŋgumtha-t-a
 \xn 我照顾了老人家
@@ -40616,7 +40654,7 @@ da.lie 打猎
 \gn 侮辱 、欺负
 \un 不能用于动物
 \et ŋo.med
-\xv jiɕqha tɤpɤtso nɯ ɲɯ-ɤz-nɯŋumit-nɯ
+\xv jiɕqha tɤ-pɤtso nɯ ɲɯ-ɤz-nɯŋumit-nɯ
 \xn 他们在欺负那个小孩子
 \xv jiɕqha tɯrme ɲɯ-ɤz-nɯŋumit-nɯ
 \xn 他们在欺负那个人
@@ -40869,7 +40907,7 @@ da.lie 打猎
 \hbf 1575
 \xv ɯ-rʑaβ ka-nɯpoʁ
 \xn 他把妻子亲了一下了
-\xv tɤpɤtso ka-nɯpoʁ
+\xv tɤ-pɤtso ka-nɯpoʁ
 \xn 他把孩子亲了一下
 \xv waiguoren ra kɤ-nɯpoʁ rga-nɯ
 \xn 外国人喜欢亲嘴
@@ -41242,7 +41280,7 @@ da.lie 打猎
 \gn 喜欢别人的
 \xv nɤʑo ɲɯ-tɯ-sɤnɯrga
 \xn 你喜欢别人
-\xv nɤki tɤpɤtso nɯ kɯ-sɤnɯrga ci ŋu
+\xv nɤki tɤ-pɤtso nɯ kɯ-sɤnɯrga ci ŋu
 \xn 那个小孩子喜欢人
 \cf rga
 \an qha
@@ -41371,7 +41409,7 @@ da.lie 打猎
 \xn 那个人很喜欢表现自己
 \xv ma-tɤ-tɯ-nɯrmɤʑu
 \xn 你不要耍人来疯
-\xv tɤpɤtso ɲɯ-nɯrmɤʑu
+\xv tɤ-pɤtso ɲɯ-nɯrmɤʑu
 \xn 小孩子很喜欢表现自己
 \dt 17/Apr/2011
 
@@ -41570,7 +41608,7 @@ da.lie 打猎
 \gn 爬行 
 \hbf 1285
 \un 只用于人，爬行动物要用{ŋke}“走”，如{tɕhɯχpri ɲɯ-ŋke} “四脚蛇在爬行”
-\xv tɤpɤtso ɲɯ-nɯrtsɯ
+\xv tɤ-pɤtso ɲɯ-nɯrtsɯ
 \xn 小孩子在爬行
 \dt 06/Mar/2011
 
@@ -42279,7 +42317,7 @@ da.lie 打猎
 \xn 你不要抢这个东西
 \xv paʁmu kɯ ɯ-rɟit kɤ-ndza ɲɯ-nɯsɯkhɤm ɲɯ-ŋu
 \xn 母猪总是抢他仔仔的食物
-\xv tɤpɤtso kɯ ɯ-zda ɯ-kɯmtɕhɯ na-nɯsɯkho
+\xv tɤ-pɤtso kɯ ɯ-zda ɯ-kɯmtɕhɯ na-nɯsɯkho
 \xn 小孩子抢了他的同学的玩具
 \xv ma-nɯ-kɯ-nɯsɯkho-a
 \xn 你别抢我的东西
@@ -42421,15 +42459,15 @@ da.lie 打猎
 \xn 火燃起了
 \dt 24/Aug/2012
 
-\lx _nɯtɤpɤtso
+\lx _nɯtɤ-pɤtso
 \ps vt
 \pdl dir
 \pdv tɤ-
 \ge considérer comme un enfant
 \gn 把……当成小孩子
-\xv tú-wɣ-nɯtɤpɤtso-a ŋgrɤl
+\xv tú-wɣ-nɯtɤ-pɤtso-a ŋgrɤl
 \xn 他把我当成小孩子
-\cf tɤpɤtso
+\cf tɤ-pɤtso
 \dt 11/May/2014
 
 \lx _nɯtɤraʁ
@@ -42886,7 +42924,7 @@ da.lie 打猎
 \gn 偷看 
 \xv ku-nɯxsɯ ɲɯ-ŋu
 \xn 他在偷看
-\xv tɤpɤtso ɲɯ-nɯxsɯ
+\xv tɤ-pɤtso ɲɯ-nɯxsɯ
 \xn 小孩子在偷看
 \xv nɯ tɯrme ɲɯ-nɯxsɯ
 \xn 那个人在偷看
@@ -42972,7 +43010,7 @@ da.lie 打猎
 \ps vt
 \ge déshabiller complètement
 \gn 把……的衣服脱光
-\xv tɤpɤtso nɯ-znɯχtɕɯrɯ-t-a
+\xv tɤ-pɤtso nɯ-znɯχtɕɯrɯ-t-a
 \xn 我把小孩子的衣服脱光了
 \cf χtɕɯrɯ
 \dt 26/Apr/2014
@@ -43292,21 +43330,25 @@ da.lie 打猎
 \lx _ɲchoʁ
 \wav def-YchoR
 \wav vi-YchoR
+\wav8 axtu_YAYchoR
 \ps vi
 \pdl dir 
 \pdv pɯ-
 \pdl dir 
 \pdv nɯ-
-\ge diminuer
-\gn 缩小、减少
+\ge se dégonfler
+\gn 瘪下去
 \xv @piqiu pjɤ-ɲchoʁ
-\xn 皮球缩小了
+\xn 皮球瘪下去了
 \xv kɤrŋi kú-wɣ-sqa tɕe, lú-wɣ-sqa ɕɯmɯma dɤn ri, kɤ-smi tɕe tɕe ɲɯ-rkɯn ŋu tɕe tɕe ɲɤ-ɲchoʁ tu-kɯ-ti ŋu
 \xn 蔬菜熟了以后就缩小
 \xv ɯ-lɯm ɲɯ-kɯ-xtɕi nɯ tɕe ɲɯ-kɯ-ɲchoʁ tu-kɯ-ti
-\xn 体积变小就做“缩小”
+\xn 体积变小就做“瘪下去”
+\xv ɲɯ-mtsɯr-a tɕe a-xtu ɲɤ-ɲchoʁ
+\xn 我很饿，肚子瘪了
 \dv @qiqiu nɯ chɯ́-wɣ-ɣɤmɯt tɕe, ɲɯ-fka ʑo ŋu ri, qale ɲɯ́-wɣ-lɤt tɕe, tɕe ɲɯ-xɕɯβ ŋu tɕe tɕe ɲɯ-ɲchoʁ tu-kɯ-ti ŋu
-\dt 11/Feb/2014
+\sy xɕɯβ
+\dt 30/Mar/2015
 
 \lx _ɲɟa
 \wav vi-YJa
@@ -43829,7 +43871,7 @@ da.lie 打猎
 \gn 使走动
 \ge emporter
 \gn 带走
-\xv aʑo tɤpɤtso tu-fkur-a tɕe tu-ɕɯŋke-a ŋu
+\xv aʑo tɤ-pɤtso tu-fkur-a tɕe tu-ɕɯŋke-a ŋu
 \xn 我背着小孩子走动
 \cf nɯɣɯŋke
 \cf nɯŋke
@@ -44108,7 +44150,7 @@ da.lie 打猎
 \pdv kɤ-
 \ge salir
 \gn 弄脏
-\xv tɤpɤtso kɯ ɯ-ŋga ko-sɯɴqhi
+\xv tɤ-pɤtso kɯ ɯ-ŋga ko-sɯɴqhi
 \xn 小孩子把自己衣服弄脏了
 \xv tɤ-lu kɯ ɯ-sɤ-rku thamtɕɤt sɯ-ɴqhi ɕti
 \xn 牛奶会弄脏容器
@@ -44226,7 +44268,7 @@ da.lie 打猎
 \xv nɯ kɯ-fse kɯ-pe me
 \xn 那是最好的了，没有比这个好的
 \un {mɤ-kɯ-pe kɯ-me ʑo}表示“没有什么原因就……”的意思
-\xv tɤpɤtso pɯ-ŋke ri mɤ-kɯ-pe kɯ-me ʑo pɯ-ndʐaβ
+\xv tɤ-pɤtso pɯ-ŋke ri mɤ-kɯ-pe kɯ-me ʑo pɯ-ndʐaβ
 \xn 小孩子走路的时候，没有什么原因就摔倒了
 \se nɤpe
 \ps vt
@@ -47730,7 +47772,7 @@ da.lie 打猎
 \hbf 1220 
 \xv laʁjɯɣ pa-rtɤβ
 \xn 他用棍子打了
-\xv tɤpɤtso mɯ́j-khɯ tɕe, tɤtar pɯ-rtaβ-a 
+\xv tɤ-pɤtso mɯ́j-khɯ tɕe, tɤtar pɯ-rtaβ-a 
 \xn 小孩子不听话，我用了一根木条打他
 \xv mthɯxtɕɤr na-rtɤβ
 \xn 他拴了腰带
@@ -49678,7 +49720,7 @@ da.lie 打猎
 \xv tɤɕi kɤ-rŋu tɤ-sɤβzu-t-a 
 \xn 我把青稞准备好了，可以炒了
 \xv tɤɕi tɯsqar nɯ-sɤβzu-t-a 
-\xv tɤpɤtso kɤ-ntɕhoz kɯsna nɯ-sɤβzu-t-a 
+\xv tɤ-pɤtso kɤ-ntɕhoz kɯsna nɯ-sɤβzu-t-a 
 \xn 我把孩子培养成有用的人了
 \xv tɤ-mu nɯ kɯ paʁ kɤ-ntɕha to-sɤβzu 
 \xn 那位大娘把猪喂肥了，可以宰了 
@@ -50996,7 +51038,7 @@ da.lie 打猎
 \ge être réticent
 \gn 令人不愿意、不还意思
 \dv kú-wɣ-rtoʁ tɕe mɤ-kɯ-sɤmgro
-\xv tɤpɤtso ɲɯ-sɤŋɤβ, ɲɯ-xtɕi
+\xv tɤ-pɤtso ɲɯ-sɤŋɤβ, ɲɯ-xtɕi
 \xn 小孩子又小又弱
 \xv kɤ-ɕe ɲɯ-sɤŋɤβ
 \xn 不想去
@@ -52072,7 +52114,7 @@ da.lie 打猎
 \xn 把（几根）绳子连接起来
 \xv nɤki tɤ-ri nɯ nɯ-sɤthɤri-t-a
 \xn 我把那几根线连接在一起
-\xv tɤpɤtso kɯ ji-xtsa ɲɯ-sɤthɤri 
+\xv tɤ-pɤtso kɯ ji-xtsa ɲɯ-sɤthɤri 
 \xn 小孩子把我们的鞋子系在一起
 \cf athɤri
 \sy sɤtɕɯmthɯt
@@ -52179,7 +52221,7 @@ da.lie 打猎
 \hbf 1791 
 \xv fsapaʁ ra tɤ-sɤwɯwum-a
 \xn 我把牲畜聚集在一起了
-\xv tɤpɤtso ɯ-kɯmtɕhɯ ra pjɤʁndɤr tɕe, pɯ-sɤwɯwum-a 
+\xv tɤ-pɤtso ɯ-kɯmtɕhɯ ra pjɤʁndɤr tɕe, pɯ-sɤwɯwum-a 
 \xn 因为孩子的玩具散了，我把这些收集在一起
 \dt 24/Aug/2012
 
@@ -53440,7 +53482,7 @@ da.lie 打猎
 \gn 茂盛、丰富 
 \xv jiɕqha nɯ ɯ-ɲɤm ɲɯ-sɯ
 \xn 那个很壮
-\xv tɤpɤtso ɯ-rgu ɲɯ-sɯ 
+\xv tɤ-pɤtso ɯ-rgu ɲɯ-sɯ 
 \xn 小孩子还可以（没想到他做得那么多）
 \xv ɣɯjpa taχpa ɲɯ-sɯ
 \xn 今年的庄稼很好
@@ -53621,7 +53663,7 @@ da.lie 打猎
 \xn 他把柱子立起来了
 \xv romɲa ta-sɯɣndzur
 \xn 他把小梁立起来了
-\xv tɤpɤtso ta-sɯɣndzur
+\xv tɤ-pɤtso ta-sɯɣndzur
 \xn 他把孩子扶起来了
 \cf ndzur
 \dt 20/May/2013
@@ -53667,7 +53709,7 @@ da.lie 打猎
 \pdv nɯ-
 \ge se noircir
 \gn 给自己抹黑
-\xv tɤpɤtso ni tɤɣro kɯ ɲɯ-ʑɣɤsɯɣɲaʁ-ndʑi ʑo
+\xv tɤ-pɤtso ni tɤɣro kɯ ɲɯ-ʑɣɤsɯɣɲaʁ-ndʑi ʑo
 \xn 小孩子玩着把自己弄黑了
 \se asɯɣɲɯɣɲaʁ
 \ps vi
@@ -54612,7 +54654,7 @@ da.lie 打猎
 \ps vs
 \ge gêner les gens
 \gn 麻烦别人
-\xv nɤki tɤpɤtso nɯ kɤ-ndo ɲɯ-ɴqa ma ɲɯ-sɤsɯzdɯɣ
+\xv nɤki tɤ-pɤtso nɯ kɤ-ndo ɲɯ-ɴqa ma ɲɯ-sɤsɯzdɯɣ
 \xn 带这个小孩子很难，因为他很麻烦
 \cf zdɯɣ
 \cf nɯzdɯɣ
@@ -54969,7 +55011,7 @@ da.lie 打猎
 \xn 少了一个
 \xv mɯ́j-tɕhaʁ-a
 \xn 我坐不住
-\xv tɤpɤtso kɤ-rɤʑi mɯ́j-tɕhaʁ
+\xv tɤ-pɤtso kɤ-rɤʑi mɯ́j-tɕhaʁ
 \xn 小孩子坐不住
 \cf sɯtɕhaʁ
 \cf zndɤtɕhaʁ
@@ -55961,7 +56003,8 @@ da.lie 打猎
 \ng caus
 \ge blanchir, rendre blanc
 \gn 使其变白
-\dt 29/Nov/2011
+\cf aɣrɤɣrum
+\dt 30/Mar/2015
 
 \lx _wum
 \ps vt
@@ -55990,7 +56033,7 @@ da.lie 打猎
 \ge grand 
 \gn 大 
 \hbf 964 <2> 1787 
-\xv tɤpɤtso chɤ-wxti
+\xv tɤ-pɤtso chɤ-wxti
 \xn 小孩子大了
 \xv tɯ-ci chɤ-wxti 
 \xn 水涨了
@@ -56587,8 +56630,8 @@ da.lie 打猎
 \lx _χtɕi
 \wav vt-XtCi
 \wav vt-XtCi2
-\wav vi-raXtCi
-\wav8 ZGAXtCi
+\wav8 pjAkAnWsWXtCici2
+\wav8 pjAkAnWsWXtCici
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -56607,7 +56650,10 @@ da.lie 打猎
 \xn 我洗了身体
 \xv a-ɕɣa nɯ-χtɕi-t-a
 \xn 我刷了牙
+\xv aʑo jɤ-azɣɯt-a nɯ tɕu, ɯʑo kɯ ɯ-jaʁ pjɤ-kɤ<nɯ>sɯ-χtɕi-ci
+\xn 我到那里的时候，他正在洗手
 \se raχtɕi
+\wav vi-raXtCi
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -56620,11 +56666,12 @@ da.lie 打猎
 \xv jisŋi nɯ-raχtɕi-a
 \xn 今天洗了衣服
 \se ʑɣɤχtɕi
+\wav8 ZGAXtCi
 \ps vi
 \ng refl
 \ge se laver
 \gn 洗自己
-\dt 08/Dec/2011
+\dt 30/Mar/2015
 
 \lx _χtsɤβ
 \wav vt-XtsAB
@@ -56638,7 +56685,7 @@ da.lie 打猎
 \xn 他揉了皮子
 \xv pɯ́-wɣ-χtsaβ-a
 \xn 他揉了我
-\xv tɤpɤtso, ma-pɯ-kɯ-χtsaβ-a
+\xv tɤ-pɤtso, ma-pɯ-kɯ-χtsaβ-a
 \xn 小，你不要揉我（你不要一整天麻烦我）
 \xv ɯ-χtsɤβ pɯ-ɣe
 \xn （皮子）揉已经好了
@@ -56699,7 +56746,7 @@ da.lie 打猎
 \ps idph.2
 \ge qui a une petite ouverture
 \gn 形容洞口很小
-\xv tɤpɤtso ɯ-mtɕhi ɲɯ-xtɕi χuχu ʑo ɲɯ-pa
+\xv tɤ-pɤtso ɯ-mtɕhi ɲɯ-xtɕi χuχu ʑo ɲɯ-pa
 \xn 小孩子的嘴很小
 \dt 13/May/2014
 
@@ -57702,7 +57749,7 @@ da.lie 打猎
 \gn 留下 
 \xv ɯʑo kɯre kɤ-zrɤʑi-t-a
 \xn 我让他待在这里了
-\xv izora tɤpɤtso kha ɯ-ngɯ ɯʑosti kɤ-zrɤʑi-j 
+\xv izora tɤ-pɤtso kha ɯ-ngɯ ɯʑosti kɤ-zrɤʑi-j 
 \xn 我们把孩子一个人留在家里
 \dt 20/Jul/2014
 
@@ -58776,7 +58823,7 @@ da.lie 打猎
 \xn 火上加了水就会马上一下子灭掉
 \se boʁnɤboʁ
 \ps idph.3
-\xv tɤpɤtso ra boʁboʁ nɤ boʁboʁ jɤ-ari-nɯ
+\xv tɤ-pɤtso ra boʁboʁ nɤ boʁboʁ jɤ-ari-nɯ
 \xn 一个都不留动作快
 \dt 08/Nov/2013
 
@@ -59013,7 +59060,7 @@ da.lie 打猎
 \xn 脚印很小
 \xv karkɯm cotcot ʑo to-ɬoʁ
 \xn 圆根的子叶很小
-\xv tɤpɤtso ɯ-jaʁ cotcot ʑo ko-ɕthɯz 
+\xv tɤ-pɤtso ɯ-jaʁ cotcot ʑo ko-ɕthɯz 
 \xn 小孩子伸了手，很可爱
 \dt 29/Oct/2011
 
@@ -60005,7 +60052,7 @@ da.lie 打猎
 \ps idph.3
 \xv dʑɤrnɤdʑɤr kɤ-ari
 \xn 他身子又细又高地去了
-\xv tɤpɤtso dʑɤrdʑɤr nɤ dʑɤrdʑɤr ɲɯ-ɤnɯɣro
+\xv tɤ-pɤtso dʑɤrdʑɤr nɤ dʑɤrdʑɤr ɲɯ-ɤnɯɣro
 \xn 小孩子一个人（在草坪上）玩
 \xv nɤki nɯ ɯ-tɯ-nɯɲɤmkhe kɯ tu-ŋke tɕe dʑɤrnɤdʑɤr ʑo pa ɕti wo
 \xn 那个人很瘦，走路的时候显得又细又高
@@ -60251,7 +60298,7 @@ da.lie 打猎
 \ge renard volant 
 \gn 飞鼠 
 \hbf animal 
-\xv ɣni nɯ stɤmku cho sɯŋgɯ ku-rɤʑi ŋu, ɯ-mdoʁ nɯ βʑɯ ɯ-mdoʁ cho naχtɕɯɣ, ɯ-mgɯr ɯ-χcɤl nɯ tɕu kɯ-ɲaʁ tɯ-ʂɯl tu, ɯ-mi ɯ-ru me, ɯ-mɤpɤl ma me, ɯ-ndzrɯ tu, kú-wɣ-rtoʁ tɕe, ɯ-mɤlɤjaʁ stɤsmɤt ɯ-phɤrthɤβ nɯ tɯ-ndʐi kɯ ɲɯ-ɤlɤɣɯ ɕti, tɕe tɯ-ɕe jɤ-ʑa tɕe, ɯ-ndʐi nɯ ɯ-mɤlɤjaʁ kɯ ɲɯ-sqhiar tɕe sɤtɕha ɯ-taʁ pjɤ-sthaβ ʑo tɕe ɲɯ-nɯqambɯmbjom kɯ-fse ɲɯ-ŋu. kɤ-ŋke nɯ mɯ́j-khɯ rca, ɯ-jme kɯ-xtɕɯ-xtɕi ci ɣɤʑu, ɯ-ku nɯ βʑɯ ɯ-ku ɲɯ-fse tɕe ri ɯ-rna kɯ-saχsɤl maŋe, tu-mbri tɕe, tɤpɤtso nɯ-kɤ-ɣɤwu ɯ-skɤt kɯ-fse tu-lɤt ɲɯ-ŋu, mɤʑɯ kɯmaʁ kɤntɕhɯ-tɯphu ɯ-skɤt tu-lɤt ɲɯ-ŋgrɤl 
+\xv ɣni nɯ stɤmku cho sɯŋgɯ ku-rɤʑi ŋu, ɯ-mdoʁ nɯ βʑɯ ɯ-mdoʁ cho naχtɕɯɣ, ɯ-mgɯr ɯ-χcɤl nɯ tɕu kɯ-ɲaʁ tɯ-ʂɯl tu, ɯ-mi ɯ-ru me, ɯ-mɤpɤl ma me, ɯ-ndzrɯ tu, kú-wɣ-rtoʁ tɕe, ɯ-mɤlɤjaʁ stɤsmɤt ɯ-phɤrthɤβ nɯ tɯ-ndʐi kɯ ɲɯ-ɤlɤɣɯ ɕti, tɕe tɯ-ɕe jɤ-ʑa tɕe, ɯ-ndʐi nɯ ɯ-mɤlɤjaʁ kɯ ɲɯ-sqhiar tɕe sɤtɕha ɯ-taʁ pjɤ-sthaβ ʑo tɕe ɲɯ-nɯqambɯmbjom kɯ-fse ɲɯ-ŋu. kɤ-ŋke nɯ mɯ́j-khɯ rca, ɯ-jme kɯ-xtɕɯ-xtɕi ci ɣɤʑu, ɯ-ku nɯ βʑɯ ɯ-ku ɲɯ-fse tɕe ri ɯ-rna kɯ-saχsɤl maŋe, tu-mbri tɕe, tɤ-pɤtso nɯ-kɤ-ɣɤwu ɯ-skɤt kɯ-fse tu-lɤt ɲɯ-ŋu, mɤʑɯ kɯmaʁ kɤntɕhɯ-tɯphu ɯ-skɤt tu-lɤt ɲɯ-ŋgrɤl 
 \xn 飞鼠生活在草山和森林里，（皮毛的）颜色和老鼠的一样，背上中间有一条黑色的纹路，（好像）没有腿，只有脚板和爪子。看起来前腿和后腿之间的皮子是连在一起的。它开始走动的时候，皮子就用四肢来展开，贴住地面（离地面很近）飞行。它可能不会走。有小尾巴，头有点象老鼠的头，但看不出耳朵。喊叫的时候，发出和小孩子哭一样的声音，还能发出其它好几种动物的叫声。 
 \nqr
 \dt 29/Dec/2011
@@ -61235,7 +61282,7 @@ da.lie 打猎
 \ge une plante 
 \gn 植物的一种 
 \hbf plante 
-\xv khɯdi nɯ ruŋgu kɯ-mbro tu-kɯ-ɬoʁ sɯjno kɯ-xtɕi ci ŋu, ɯ-jwaʁ nɯ kɯ-zri tɕe kɤ-mtɕoʁ ci ŋu, ɯ-jwaʁ ɯ-qhu nɯ wɣrum, ɯ-jwaʁ mpɕu, ɯ-ru nɯ jima ɯ-ru ʑo fse, ɣɯrni, tɯ-rtsɤɣ tɯ-rtsɤɣ lu-ɬoʁ ŋu. ɯ-mɯntoʁ nɯ ɯ-ru ɯ-kɤχcɤl lu-ɬoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ wɣrum. pɯ-ŋgra tɕe, jima ɯ-mat kɯ-fse ɲɯ-βze ŋu, tɕeri jima kɯ-fse ɯ-rqhu me, kɯ-ɣɯrni ŋu. khɯdi nɯ tɤ-χpɯm ɯ-fsu ɕoŋtaʁ tu-mbro mɤ-cha. ɯ-qa nɯ tɤpɤtso ɯ-ŋgo kɯ-phɤn ɲɯ-ŋu khi. 
+\xv khɯdi nɯ ruŋgu kɯ-mbro tu-kɯ-ɬoʁ sɯjno kɯ-xtɕi ci ŋu, ɯ-jwaʁ nɯ kɯ-zri tɕe kɤ-mtɕoʁ ci ŋu, ɯ-jwaʁ ɯ-qhu nɯ wɣrum, ɯ-jwaʁ mpɕu, ɯ-ru nɯ jima ɯ-ru ʑo fse, ɣɯrni, tɯ-rtsɤɣ tɯ-rtsɤɣ lu-ɬoʁ ŋu. ɯ-mɯntoʁ nɯ ɯ-ru ɯ-kɤχcɤl lu-ɬoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ wɣrum. pɯ-ŋgra tɕe, jima ɯ-mat kɯ-fse ɲɯ-βze ŋu, tɕeri jima kɯ-fse ɯ-rqhu me, kɯ-ɣɯrni ŋu. khɯdi nɯ tɤ-χpɯm ɯ-fsu ɕoŋtaʁ tu-mbro mɤ-cha. ɯ-qa nɯ tɤ-pɤtso ɯ-ŋgo kɯ-phɤn ɲɯ-ŋu khi. 
 \xn {khɯdi}是长在很高的草地上的小草。叶子长而尖，叶子背面是白色的，叶子光滑。茎象玉米的茎一样，是红色的，是一节一节长出来的。花开在茎的顶端，是白色的。花凋谢后，果实象玉米的一样，但是没有象玉米棒子一样的皮裹着，是红色的。{khɯdi}只能长到人的膝盖那么高。根对孩子的病有疗效。
 \dt 27/Aug/2012
 
@@ -61256,7 +61303,7 @@ da.lie 打猎
 \ge rhododendron 
 \gn 羊角花 
 \hbf plante 
-\xv khɯjŋga nɯ ʁnɯ-tɯphu tu, sɤtɕha kɯ-mbɤr tu-kɯ-ɬoʁ ci tu, tɕe nɯ khɯjŋga rmi, khɯjŋga nɯ si mɤ-mbro, ɯ-ru mɤ-astu, ɯ-rtaʁ dɤn, ɯ-jwaʁ nɯ ɯ-ʁɤri nɯ ldʑaŋnaʁ ŋu, ɯ-qhu nɯ kɯ-wɣrɤɣrum tsa ŋu, ɯ-jwaʁ nɯ kɯ-ɤrtɯm ɯ-ŋgɯz kɯ-rɲɟi tsa ŋu. ɯ-mɯntoʁ nɯ kɯ-wɣrum ʁɟa tu, kɯ-wɣrum ɯ-ŋgɯz kɯ-ɤɣɯrnɯɕɯr tu, ɯ-mɯntoʁ nɯ kɯngɯsqi jamar tɯtɯrca ɲɯ-lɤt ŋu, wuma ʑo mpɕɤr. phaʁzla jamar ɲɯ-rɯmɯntoʁ ŋu. mɤʑɯ tɯ-tɯphu tu tɕe, zgo ku wuma ʑo kɯ-ɣɤndʐo tu-ɬoʁ ŋu, ɯ-ru nɯ khɯjŋga cho ɲɯ-naχtɕɯɣ, ɯ-jwaʁ ɯ-ʁɤri nɯ khɯjŋga ɣɯ cho naχtɕɯɣ, tɕeri ɯ-jwaʁ ɯ-qhu chu nɯ kɯ-qarŋe tɯ-ɣndʑɤr kɯ-fse tu, ɲɯ́-wɣ-nɤmɤle tɕe, pjɯ-kɯ-ŋgra ʑo tu. ɯ-mɯntoʁ khɯjŋga ɣɯ sɤznɤ nɤrko ri ndɯβ. nɯnɯ sŋo rmi. ɯ-ru nɯnɯ mɤ-ngɯt ma ndoʁ, nɯ ma mɤ-sna ri kɤ-nɯ-βlɯ pe. 
+\xv khɯjŋga nɯ ʁnɯ-tɯphu tu, sɤtɕha kɯ-mbɤr tu-kɯ-ɬoʁ ci tu, tɕe nɯ khɯjŋga rmi, khɯjŋga nɯ si mɤ-mbro, ɯ-ru mɤ-astu, ɯ-rtaʁ dɤn, ɯ-jwaʁ nɯ ɯ-ʁɤri nɯ ldʑaŋnaʁ ŋu, ɯ-qhu nɯ kɯ-ɤɣrɤɣrum tsa ŋu, ɯ-jwaʁ nɯ kɯ-ɤrtɯm ɯ-ŋgɯz kɯ-rɲɟi tsa ŋu. ɯ-mɯntoʁ nɯ kɯ-wɣrum ʁɟa tu, kɯ-wɣrum ɯ-ŋgɯz kɯ-ɤɣɯrnɯɕɯr tu, ɯ-mɯntoʁ nɯ kɯngɯsqi jamar tɯtɯrca ɲɯ-lɤt ŋu, wuma ʑo mpɕɤr. phaʁzla jamar ɲɯ-rɯmɯntoʁ ŋu. mɤʑɯ tɯ-tɯphu tu tɕe, zgo ku wuma ʑo kɯ-ɣɤndʐo tu-ɬoʁ ŋu, ɯ-ru nɯ khɯjŋga cho ɲɯ-naχtɕɯɣ, ɯ-jwaʁ ɯ-ʁɤri nɯ khɯjŋga ɣɯ cho naχtɕɯɣ, tɕeri ɯ-jwaʁ ɯ-qhu chu nɯ kɯ-qarŋe tɯ-ɣndʑɤr kɯ-fse tu, ɲɯ́-wɣ-nɤmɤle tɕe, pjɯ-kɯ-ŋgra ʑo tu. ɯ-mɯntoʁ khɯjŋga ɣɯ sɤznɤ nɤrko ri ndɯβ. nɯnɯ sŋo rmi. ɯ-ru nɯnɯ mɤ-ngɯt ma ndoʁ, nɯ ma mɤ-sna ri kɤ-nɯ-βlɯ pe. 
 \xn 羊角花有两种，一种生长在海拔比较低的地方，叫作{khɯjŋga}，树干不高，不直，枝桠多，叶子正面是深绿色的，后面带有点白色，叶子是椭圆形的，花有的是纯白的，也有的是粉红色的。花九朵十朵同时开，很美。一般五月份开花。另一种生长在高山比较寒冷的地方，树干和{khɯjŋga}的一样，叶子正面也是和{khɯjŋga}的一样，但叶子背面有黄色的粉，一碰就会散落。花比和{khɯjŋga}的结实，但小一些。这一种叫{sŋo} 。树干不结实因为很脆，虽然不能用来制造什么东西，但很好烧。
 \dt 30/Dec/2011
 
@@ -61743,7 +61790,7 @@ da.lie 打猎
 \xn 杨树叶子在吊着
 \se ltɕhɯɣnɤlɯɣ
 \ps idph.4
-\xv tɤpɤtso kɯ ɯ-jaʁ tatar ltɕhɯɣnɤlɯɣ ɲɯ-ɤsɯ-stu
+\xv tɤ-pɤtso kɯ ɯ-jaʁ tatar ltɕhɯɣnɤlɯɣ ɲɯ-ɤsɯ-stu
 \xn 小孩子在摇动棍子
 \se sɤltɕhɯɣlɯɣ
 \ps vt
@@ -61808,7 +61855,7 @@ da.lie 打猎
 \ps vt
 \xv tɤ-sɤlɯrlɯr-a thɯ-tʂaβ-a
 \xn 我令（球）滚下去了
-\xv tɤpɤtso kɯ ɯ-kɯmtɕhɯ ɲɯ-sɤlɯrlɯr tha-tʂaβ
+\xv tɤ-pɤtso kɯ ɯ-kɯmtɕhɯ ɲɯ-sɤlɯrlɯr tha-tʂaβ
 \xn 小孩子令玩具滚下去了
 \se lɯrɯri
 \ge s'élever lentement (fumée, vapeur) 
@@ -62652,7 +62699,7 @@ da.lie 打猎
 \ge Sonchus brachyotus 
 \gn 苣荬菜[苦苦草] 
 \hbf plante 
-\xv ndʑɯrwɯz nɯ sɯjno ci ŋu, ɯ-jwaʁ nɯ kɯ-tɕɤr kɯ-rɲɟi tsa ŋu, kɤ-ɣrɤɣrum tsa ŋu, ɯ-spjɯŋ tu-ɬoʁ tɕe, kɯ-zri tsa tɯ-ɟom jarma tu-βze cha. ɯ-ru taʁ ɯ-jwaʁ tu-oʑɯrja ŋu. ɯ-kɤχcɤl tɕe ɲɯ-rɯmɯntoʁ ŋu. ɯ-mɯntoʁ kɯ-qarŋe ŋu. ɯ-jwaʁ ɯ-βzɯr nɯ ra ɯ-mdzu kɯ-fse kɯ-xtɕɯ-xtɕi tu. pɯ́-wɣ-qlɯt tɕe, ɯ-lu tu, qiaβ. fsapaʁ ndza ma mɤ-sna. 
+\xv ndʑɯrwɯz nɯ sɯjno ci ŋu, ɯ-jwaʁ nɯ kɯ-tɕɤr kɯ-rɲɟi tsa ŋu, kɯ-ɤɣrɤɣrum tsa ŋu, ɯ-spjɯŋ tu-ɬoʁ tɕe, kɯ-zri tsa tɯ-ɟom jarma tu-βze cha. ɯ-ru taʁ ɯ-jwaʁ tu-oʑɯrja ŋu. ɯ-kɤχcɤl tɕe ɲɯ-rɯmɯntoʁ ŋu. ɯ-mɯntoʁ kɯ-qarŋe ŋu. ɯ-jwaʁ ɯ-βzɯr nɯ ra ɯ-mdzu kɯ-fse kɯ-xtɕɯ-xtɕi tu. pɯ́-wɣ-qlɯt tɕe, ɯ-lu tu, qiaβ. fsapaʁ ndza ma mɤ-sna. 
 \xn 苦苦草是一种植物，叶子窄而长，带有白色，茎长出来时，可以长到一米来高。叶子排列在茎上。茎的顶上开花。花是黄色的。叶子边缘有小刺。折断时有乳汁，很苦，只能喂牲畜。
 \dt 09/Jan/2012
 
@@ -62999,7 +63046,7 @@ da.lie 打猎
 \ge une espèce d'arbrisseau 
 \gn 灌木的一种 
 \hbf plante 
-\xv ɴɢolo nɯ si kɯ-mbɤr tsa ci ŋu. ɯ-ru ɯ-pɕi nɯ ra kɯ-pɣi ci ŋu. ɯ-mdzu kɯ-rɲɟi kɯ-mtɕoʁ tɯ-khɤl ʑo χsɯ-ldʑa ntsɯ ku-ndzoʁ ŋu. ɯ-rtaʁ taʁ ra kɯnɤ ɯ-mdzu tu. ɯ-jwaʁ ɯ-tshɯɣa nɯ babɯ ɯ-jwaʁ cho naχtɕɯɣ. ɯ-mɯntoʁ tshaŋlaŋ kɯ-fse ɲɯ-βze ŋu, kɯ-wɣrum ɯ-rkɯ zɯ kɯ-ɣɯrni tu-fskɤr ŋu. kɯ-ɤrqhi jɯ-kɯ-ru mɤ-saχsɤl jɯ-kɯ-ɤrmbat tɕe, ɯ-mɯntoʁ tú-wɣ-rtoʁ tɕe mpɕɤr. ɯ-jɯ tu tɕe, pjɯ-ɴqoʁ tu-fse ŋu. ɯ-mat thɯ-aβzu tɕe, arŋi tɕe ʂɣɤl-ʂɣɤl ʑo pa, ɯ-ŋgɯ ɯ-rdoʁ ra kɯnɤ saχsɤl. ɯ-mat ɯ-βri ɯ-rme kɯ-xtɯt tsa tu. tú-wɣ-ndza tɕe, ɯ-tɯ-tɕur saχaʁ. tɤpɤtso ra kɤ-ɤnɤɣro kɯ-fse ma kɤ-ndza mɤ-sna. ɯ-mnɯ kɯ-ɕɤɣ tɤ-kɯ-ɬoʁ nɯ ɣɯrni ɯ-mdzu tu ri ɯ-rqhu pjɯ́-wɣ-qaʁ tɕe tú-wɣ-ndza tɕe mpɯ, kɯ-xtɕɯ-xtɕi chi. tɤmdzɤqaqa rmi. 
+\xv ɴɢolo nɯ si kɯ-mbɤr tsa ci ŋu. ɯ-ru ɯ-pɕi nɯ ra kɯ-pɣi ci ŋu. ɯ-mdzu kɯ-rɲɟi kɯ-mtɕoʁ tɯ-khɤl ʑo χsɯ-ldʑa ntsɯ ku-ndzoʁ ŋu. ɯ-rtaʁ taʁ ra kɯnɤ ɯ-mdzu tu. ɯ-jwaʁ ɯ-tshɯɣa nɯ babɯ ɯ-jwaʁ cho naχtɕɯɣ. ɯ-mɯntoʁ tshaŋlaŋ kɯ-fse ɲɯ-βze ŋu, kɯ-wɣrum ɯ-rkɯ zɯ kɯ-ɣɯrni tu-fskɤr ŋu. kɯ-ɤrqhi jɯ-kɯ-ru mɤ-saχsɤl jɯ-kɯ-ɤrmbat tɕe, ɯ-mɯntoʁ tú-wɣ-rtoʁ tɕe mpɕɤr. ɯ-jɯ tu tɕe, pjɯ-ɴqoʁ tu-fse ŋu. ɯ-mat thɯ-aβzu tɕe, arŋi tɕe ʂɣɤl-ʂɣɤl ʑo pa, ɯ-ŋgɯ ɯ-rdoʁ ra kɯnɤ saχsɤl. ɯ-mat ɯ-βri ɯ-rme kɯ-xtɯt tsa tu. tú-wɣ-ndza tɕe, ɯ-tɯ-tɕur saχaʁ. tɤ-pɤtso ra kɤ-ɤnɤɣro kɯ-fse ma kɤ-ndza mɤ-sna. ɯ-mnɯ kɯ-ɕɤɣ tɤ-kɯ-ɬoʁ nɯ ɣɯrni ɯ-mdzu tu ri ɯ-rqhu pjɯ́-wɣ-qaʁ tɕe tú-wɣ-ndza tɕe mpɯ, kɯ-xtɕɯ-xtɕi chi. tɤmdzɤqaqa rmi. 
 \xn {ɴɢolo}是一种矮小的树，树皮是灰色的，刺又长又锋利，三根长在一起。枝桠上也有刺。叶子的形状和{babɯ}的叶子一样。花象铃铛一样，花瓣是白色的，边上镶有红色。远处看不出，走近了看就觉得花很美。花有花梗，是吊着的。果实结了以后，看起来很透明，连里面的种子也看得见。果实外面也长有短毛。吃起来很酸。除了小孩子吃着玩以外就不能吃。发出的新苗是红色的，虽然有刺，但剥了皮吃起来很嫩，有点甜。这种新苗叫{tɤmdzɤqaqa}。
 \dt 15/Jan/2014
 
@@ -63969,7 +64016,7 @@ da.lie 打猎
 \ge une plante 
 \gn [鹿茸花] 
 \hbf plante 
-\xv qarɣɤpɤt nɯ, zgo wuma ʑo ku-mbro, sɤtɕha kɯ-ɣɤndʐo ɯ-pɕoʁ tu-ɬoʁ ŋu. ɯ-zrɤm mɯ́j-wxti, ɯ-ru ɯ-ŋgɯ qhoʁsjɯβ ɲɯ-ŋu, ɯ-ru ɯ-taʁ ɯ-jwaʁ ɲɯ-ɬoʁ tɕe, nɯ ɯ-rchɤβ ri ɯ-mɯntoʁ tu-ɬoʁ ɲɯ-ŋu. ɯ-ru cho ɯ-jwaʁ nɯ ra rme rsɯβ-rsɯβ ʑo ɲɯ-pa, ɯ-jwaʁ cho ɯ-ru kɤ-ɣrɤɣrum ɲɯ-ŋu, ɯ-rme nɯ kɯ-pɣi ɲɯ-ŋu, ɯ-mɯntoʁ tɯ-rdoʁ tɯ-rdoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɯ-rqhu nɯ li ɯ-rme rsɯβ-rsɯβ ɲɯ-pa, ɯ-rqhu nɯ pɯ-ɴɢaʁ tɕe, ɯ-mɯntoʁ wuma ʑo kɯ-qarŋe ɲɤ-ɬoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɲɯ-wxti, kɤ-rtɯ-rtɯm ɲɯ-ŋu, wuma ʑo ɲɯ-mpɕɤr. 
+\xv qarɣɤpɤt nɯ, zgo wuma ʑo ku-mbro, sɤtɕha kɯ-ɣɤndʐo ɯ-pɕoʁ tu-ɬoʁ ŋu. ɯ-zrɤm mɯ́j-wxti, ɯ-ru ɯ-ŋgɯ qhoʁsjɯβ ɲɯ-ŋu, ɯ-ru ɯ-taʁ ɯ-jwaʁ ɲɯ-ɬoʁ tɕe, nɯ ɯ-rchɤβ ri ɯ-mɯntoʁ tu-ɬoʁ ɲɯ-ŋu. ɯ-ru cho ɯ-jwaʁ nɯ ra rme rsɯβ-rsɯβ ʑo ɲɯ-pa, ɯ-jwaʁ cho ɯ-ru kɯ-ɤɣrɤɣrum ɲɯ-ŋu, ɯ-rme nɯ kɯ-pɣi ɲɯ-ŋu, ɯ-mɯntoʁ tɯ-rdoʁ tɯ-rdoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɯ-rqhu nɯ li ɯ-rme rsɯβ-rsɯβ ɲɯ-pa, ɯ-rqhu nɯ pɯ-ɴɢaʁ tɕe, ɯ-mɯntoʁ wuma ʑo kɯ-qarŋe ɲɤ-ɬoʁ ɲɯ-ŋu, ɯ-mɯntoʁ ɲɯ-wxti, kɤ-rtɯ-rtɯm ɲɯ-ŋu, wuma ʑo ɲɯ-mpɕɤr. 
 \xn 鹿茸花生长在高山上，比较寒冷的地方里。根不大，茎是空心的，茎上长叶子，叶子和茎的中间长花。茎和叶子看起来毛茸茸的，茎和叶子带有一点白色，毛是灰色的，叶子是一朵一朵地长出来，花的外层也是毛茸茸的，外层剖开时，就开大黄色的花，花很大，圆形，非常美。
 \dt 18/Apr/2012
 
@@ -64441,7 +64488,7 @@ da.lie 打猎
 \ge une espèce d'arbrisseau 
 \gn 灌木的一种[酸酸泡儿] 
 \hbf plante 
-\xv qrose nɯ si wuma mɤ-kɯ-mbro ci ŋu. ɯ-ru ɣɯrni, aɣɯrtɯrtaʁ, mɤ-jpum. ɯ-jwaʁ ɯ-βzɯr kɯmŋu kɯ-tu nɯ ŋu, ɯ-jwaʁ taʁ ɯ-rme kɯ-fse kɯ-xtɕi tu ri, mɤ-rʁom. babɯ ɯ-jwaʁ sɤznɤ jndʐɤz. ɯ-mat nɯ thɯ-kɤ-ɣɯri kɯ-fse tɯ-tɤri tɯ-tɤri pjɤ-ɴqoʁ ŋu, tɕe ɯ-mat thɯ-tɯt kɯ-mɤku ɣɯrni, konla thɯ-tɯt tɕe ɲaʁ. ɲɯ́-wɣ-tɕɣaʁ tɕe, ɯ-ŋgɯ tɤ-se kɯ-fse ɲɯ-nɯɬoʁ ŋu. tú-wɣ-ndza tɕe wuma ʑo tɕur, tɤpɤtso ra rga-nɯ ma tɯrme kɯ-wxti ra kɤ-ndza mɤ-kɯ-cha. 
+\xv qrose nɯ si wuma mɤ-kɯ-mbro ci ŋu. ɯ-ru ɣɯrni, aɣɯrtɯrtaʁ, mɤ-jpum. ɯ-jwaʁ ɯ-βzɯr kɯmŋu kɯ-tu nɯ ŋu, ɯ-jwaʁ taʁ ɯ-rme kɯ-fse kɯ-xtɕi tu ri, mɤ-rʁom. babɯ ɯ-jwaʁ sɤznɤ jndʐɤz. ɯ-mat nɯ thɯ-kɤ-ɣɯri kɯ-fse tɯ-tɤri tɯ-tɤri pjɤ-ɴqoʁ ŋu, tɕe ɯ-mat thɯ-tɯt kɯ-mɤku ɣɯrni, konla thɯ-tɯt tɕe ɲaʁ. ɲɯ́-wɣ-tɕɣaʁ tɕe, ɯ-ŋgɯ tɤ-se kɯ-fse ɲɯ-nɯɬoʁ ŋu. tú-wɣ-ndza tɕe wuma ʑo tɕur, tɤ-pɤtso ra rga-nɯ ma tɯrme kɯ-wxti ra kɤ-ndza mɤ-kɯ-cha. 
 \xn 酸酸泡儿是长得不高的一种树。树干是红色的，长很多枝条，不粗。叶子有五个角，叶上有毛，但不粗糙。比 babɯ 的叶子大。果实象穿起来的，一串一串地挂在枝上。果实开始成熟时，是红色，完全成熟时，是黑色的，把它捏破时，里面会流出血一样的液体。吃起来很酸，小孩子喜欢吃，但大人不敢吃。
 \dt 20/Apr/2012
 
@@ -64649,7 +64696,7 @@ da.lie 打猎
 \ge souriant
 \gn 笑嘻嘻
 \un 多指小孩子
-\xv tɤpɤtso rcharcha ɲɯ-nɤre
+\xv tɤ-pɤtso rcharcha ɲɯ-nɤre
 \xn 小孩子是笑嘻嘻的
 \dt 18/Nov/2011
 
@@ -64663,7 +64710,7 @@ da.lie 打猎
 \ps vi
 \se sɤrchɤrchɤt
 \ps vt
-\xv tɤpɤtso kɯ ɯ-kɯmtɕhɯ ɲɯ-ɤz-nɤkhɯkhrɯt ɲɯ-sɤrchɤrchɤt
+\xv tɤ-pɤtso kɯ ɯ-kɯmtɕhɯ ɲɯ-ɤz-nɤkhɯkhrɯt ɲɯ-sɤrchɤrchɤt
 \xn 小孩子把玩具拖着，发出叮当声
 \xv tɤmɯmɯm ɲɯ-sɤrchɤrchɤt
 \xn 铃铛发出叮当声
@@ -64776,7 +64823,7 @@ da.lie 打猎
 \gn 神气勃勃（小植物）
 \xv a-phe kɯ-nɯkhaja ci rdzardza ɲɯ-tɯ-ŋu
 \xn 你跟我顶嘴
-\xv nɤki tɤpɤtso nɯ taʁndo mɤ-tso tɕe rdzardza ʑo tu-ʑɣɤstu ɕti 
+\xv nɤki tɤ-pɤtso nɯ taʁndo mɤ-tso tɕe rdzardza ʑo tu-ʑɣɤstu ɕti 
 \xn 那个孩子不听话，总是爱顶嘴
 \se rdzanɤrdza
 \ps idph.3
@@ -65226,9 +65273,9 @@ da.lie 打猎
 \ps idph.3
 \ge qui a une tête ronde
 \gn 头部圆圆的，动作又灵魂又可爱
-\xv tɤpɤtso rloʁrloʁ nɤ rloʁrloʁ ɲɯ-ɤnɯɣro
+\xv tɤ-pɤtso rloʁrloʁ nɤ rloʁrloʁ ɲɯ-ɤnɯɣro
 \xn 小孩子在玩
-\xv tɤpɤtso chɤ-wxti tɕe rloʁnɤrloʁ ʑo tu-ŋke to-cha
+\xv tɤ-pɤtso chɤ-wxti tɕe rloʁnɤrloʁ ʑo tu-ŋke to-cha
 \xn 小孩子大了就能走路了
 \cf rloŋrloŋ
 \cf rwoʁrwoʁ
@@ -65810,7 +65857,7 @@ da.lie 打猎
 \gn 很多小球或大小一致的小块 
 \xv staʁpɯ rwoʁrwoʁ ʑo ɲɯ-pa
 \xn 豌豆是圆形的
-\xv tɤpɤtso kɯxtɕɯxtɕi rwoʁrwoʁ ɲɯ-ɤʑɯrja-nɯ
+\xv tɤ-pɤtso kɯxtɕɯxtɕi rwoʁrwoʁ ɲɯ-ɤʑɯrja-nɯ
 \xn 小孩子在排队
 \cf rloʁrloʁ
 \cf rloŋrloŋ
@@ -67886,7 +67933,7 @@ l
 \ps idph.2
 \ge svelte 
 \gn 身材苗条、细高
-\xv tɤpɤtso ɯ-phoŋbu ʂɲoʁʂɲoʁ ɲɯ-pa
+\xv tɤ-pɤtso ɯ-phoŋbu ʂɲoʁʂɲoʁ ɲɯ-pa
 \xn 小孩子身体细高细高的
 \dt 07/Nov/2011
 
@@ -68041,7 +68088,7 @@ l
 \gn 哭得大吵大闹（小孩子）、跳过去（马） 
 \un 只能和{lɤt, (nɯ-)}连用
 \hbf *tɯxtsa.99 
-\xv tɤpɤtso tɤ-wu ɯ-tɯ-χɕu kɯ taʁmbra ʑo ɲɯ-lɤt ɲɯ-ɕti 
+\xv tɤ-pɤtso tɤ-wu ɯ-tɯ-χɕu kɯ taʁmbra ʑo ɲɯ-lɤt ɲɯ-ɕti 
 \xn 小孩哭乱叫乱吼
 \dt 19/Feb/2014
 
@@ -68364,7 +68411,7 @@ l
 \ps n
 \ge jeu 
 \gn 游戏 
-\xv tɤpɤtso nɯ tɤɣro kɤ-βzu rga
+\xv tɤ-pɤtso nɯ tɤɣro kɤ-βzu rga
 \xn 小孩子喜欢游戏
 \pdl emphatic
 \pdv tɤɣro tɤle
@@ -68565,7 +68612,7 @@ l
 \ge insolation 
 \gn 中暑 
 \hbf maladie 
-\xv tɤkɤʑmbri nɯ, nɯ-ɣɯtshɤdɯɣ nɯ-tɕhom tɕe tɯ-kɯr ŋgɯ tɯ-mdʑu taʁ tɤ-ndɤr ɲɯ-ɬoʁ ŋu tɕe wuma ʑo sɤɣdɯɣ. tɤpɤtso nɯ-kɤʑmbri kɯ-ɣi ŋgrɤl 
+\xv tɤkɤʑmbri nɯ, nɯ-ɣɯtshɤdɯɣ nɯ-tɕhom tɕe tɯ-kɯr ŋgɯ tɯ-mdʑu taʁ tɤ-ndɤr ɲɯ-ɬoʁ ŋu tɕe wuma ʑo sɤɣdɯɣ. tɤ-pɤtso nɯ-kɤʑmbri kɯ-ɣi ŋgrɤl 
 \xn 气候太热容易导致中暑。嘴里，舌头上出很多痘痘，很难受。小孩子中暑得比较多。 
 \xv tɤŋe wuma ʑo ɲɯ-sɤɕke tɕe a-kɤʑmbri pjɯ-sɯɣe ɲɯ-ŋu 
 \xn 太阳很热，令我中暑
@@ -69134,16 +69181,18 @@ l
 \sy mpɕimɤr
 \dt 28/Aug/2012
 
-\lx ^tɤpɤtso
+\lx ^tɤ-pɤtso
 \wav n-tApAtso
-\ps n
+\ps np
 \ge enfant 
 \gn 孩子 
 \hbf 169 
-\xv tɤpɤtso skɤt 
+\xv tɤ-pɤtso skɤt 
 \xn 小孩子的语气
-\cf nɯtɤpɤtso
-\dt 11/May/2014
+\xv ɯ-pɤtso ɣɤʑu
+\xn 她怀上了小孩
+\cf nɯtɤ-pɤtso
+\dt 30/Mar/2015
 
 \lx ^tɤpɣi
 \wav n-tApGi
@@ -70282,9 +70331,9 @@ l
 \gn 水边
 \xv ftɕar tɕe tɕhɯkɤɣar ɲ-ɯkɯ-nɯrɤχtɕi tɕe sɤscit
 \xn 夏天的时候在水边洗东西很舒服
-\xv tɤpɤtso ra tɕhɯkɤɣar k-ɤɕe rga-nɯ
+\xv tɤ-pɤtso ra tɕhɯkɤɣar k-ɤɕe rga-nɯ
 \xn 小孩子喜欢到水边去
-\xv tɤpɤtso ra tɕhɯkɤɣar kɤ-ɤnɯɣro rga-nɯ
+\xv tɤ-pɤtso ra tɕhɯkɤɣar kɤ-ɤnɯɣro rga-nɯ
 \xn 小孩子喜欢在水边玩
 \dt 08/Jan/2014
 
@@ -71757,13 +71806,13 @@ l
 \ge sage et très actif (enfant, petit animal) 
 \gn 看起来很乖，很灵活的样子，小巧玲珑（小孩子，小动物） 
 \hbf *koŋzoŋ.303
-\xv jiɕqha tɤpɤtso χtshɤχtshɤt ci ɲɯ-ŋu
+\xv jiɕqha tɤ-pɤtso χtshɤχtshɤt ci ɲɯ-ŋu
 \xn 那个小孩子很灵活
 \xv tshɯtho χtshɤχtshɤt ʑo ɲɯ-pa
 \xn 羔羊很灵活
 \se χtshɤnɤχtshɤt
 \ps idph.3
-\xv tɤpɤtso nɯ χtshɤnɤχtshɤt ʑo ɯ-mu ɯ-phe ko-ɕe
+\xv tɤ-pɤtso nɯ χtshɤnɤχtshɤt ʑo ɯ-mu ɯ-phe ko-ɕe
 \xn 那个小孩子很灵活地去了他母亲身边
 \dt 29/Oct/2011
 
