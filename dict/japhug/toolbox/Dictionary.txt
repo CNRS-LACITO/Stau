@@ -72115,7 +72115,7 @@ l
 \wav8 ZgrAGZgrAG
 \ps idph.2
 \ge dur et froid (sensation lorsqu'on s'allonge sur le sol) 
-\gn 又硬又冷，没有衣服盖（躺在地上的感觉
+\gn 又硬又冷，没有衣服盖（躺在地上的感觉）
 \xv ʑgrɤɣʑgrɤɣ ʑo ɲɯ-rŋgɯ
 \xn 他躺在地上，感觉又硬又冷
 \cf nɯʑgrɤɣ
