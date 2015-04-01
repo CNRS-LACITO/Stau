@@ -8,7 +8,7 @@
 \hbf plante 
 \xv akarɯ nɯ sɯjno kɯ-xtɕi ci ŋu, ɯ-ru kɯ-xtshɯ-xtshɯm kɯ-ɣɯrni ci ŋu, ʁnɯ-tɣa jamar ma mɤ-mbro, ɯ-jwaʁ kɯ-ɤrtɯm, kɯ-rɲɟi tsa ci ŋu, ɯ-di mnɤm, ɯ-mɯntoʁ kɯ-ɣɯrni ŋgɯ kɯ-wɣrum tsa ci ŋu, ɯ-zrɤm kɯ-xtɕɯ-xtɕi ma me, ɯʑo smɤn ɯ-ŋgɯ kɤ-lɤt ɲɯ-sna.
 \xn 牛至是一种小型植物，茎很细，呈红色，只有约两拃高，有椭圆形小叶，花红里透白，有香味，根很小。可入药。
-\dt 18/Mar/2015
+\dt 31/Mar/2015
 
 \lx akɯ
 \ps adv
