@@ -9162,7 +9162,7 @@
 \dt 12/Aug/2012
 
 \lx tɤ-rtsɤɣ
-\ps cl
+\ps clf
 \ge un étage 
 \gn 一层楼 
 \hbf *kɯsɤr.149 
@@ -10673,7 +10673,7 @@
 \dt 20/May/2013
 
 \lx tɯ-boʁ
-\ps cl
+\ps clf
 \ge troupeau, groupe 
 \gn 一群、一队 
 \hbf 882 
@@ -10769,7 +10769,7 @@
 \dt 29/May/2013
 
 \lx tɯ-ɕkat
-\ps cl
+\ps clf
 \ge charge sur une bête de somme 
 \gn 驮子 
 \hbf 880
@@ -10908,7 +10908,7 @@
 
 \lx tɯ-fɕɤt²
 \wav8 tWfCAt
-\ps cl
+\ps clf
 \ge un brin
 \gn 一股、一根
 \xv tɤrɤm χsɯ-fɕɤt ci tɤ-kɤ-sɯpa
@@ -10916,7 +10916,7 @@
 \dt 29/May/2013
 
 \lx tɯ-fkur
-\ps cl
+\ps clf
 \ge fardeau 
 \gn 一背
 \hbf 876 
@@ -10950,7 +10950,7 @@
 \et dug
 
 \lx tɯ-ɣdɤt
-\ps cl
+\ps clf
 \ge section 
 \gn 一段 
 \hbf 868 
@@ -10961,7 +10961,7 @@
 \dt 19/May/2014
 
 \lx tɯ-ɣjɤn
-\ps cl
+\ps clf
 \ge fois 
 \gn 一次 
 \hbf 917
@@ -11013,7 +11013,7 @@
 \gn 脓包
 
 \lx tɯ-ɣna
-\ps cl
+\ps clf
 \ge trente boisseaux
 \gn 三十升
 \dt 15/May/2014
@@ -11113,7 +11113,7 @@
 \hbf 110
 
 \lx tɯ-jaʁmundzoʁ
-\ps cl
+\ps clf
 \ge un doigt
 \gn 一根指头
 \cf tɯ-ndzoʁ
@@ -11230,7 +11230,7 @@
 \dt 29/May/2013
 
 \lx tɯ-jroʁ
-\ps cl
+\ps clf
 \ge une rangée 
 \gn 一行，一路线（参考tɯ-rɣɯt） 
 \xv qɤj tɯ-jroʁ 
@@ -11251,7 +11251,7 @@
 \dt 29/May/2013
 
 \lx tɯ-jɯɣ
-\ps cl
+\ps clf
 \ge pièce de tissu 
 \gn 一匹布 
 \hbf 873 
@@ -11266,7 +11266,7 @@
 \dt 29/May/2013
 
 \lx tɯ-ɟom
-\ps cl
+\ps clf
 \ge longeur des deux bras 
 \gn 一庹[一排] 
 \hbf 899 
@@ -11295,20 +11295,20 @@
 \dt 29/May/2013
 
 \lx tɯ-kha
-\ps cl
+\ps clf
 \ge pied 
 \gn 尺 
 \et kʰa
 \hbf 901
 
 \lx tɯ-khɤftsɯɣ
-\ps cl
+\ps clf
 \ge un tour d'aiguille
 \gn 一针（缝衣服的时候）
 \dt 21/Dec/2013
 
 \lx tɯ-khɤl
-\ps cl
+\ps clf
 \ge endroit 
 \gn 一个地方 
 \hbf *kɯsɤr.125 
@@ -11432,7 +11432,7 @@
 \dt 29/May/2013
 
 \lx tɯ-lchɯɣ
-\ps cl
+\ps clf
 \ge section (d'un sac, d'un récipient) 
 \gn 一节（口袋、容器） 
 \hbf *kɯɕar.304
@@ -11445,7 +11445,7 @@
 \dt 29/May/2013
 
 \lx tɯ-ltɕhɯz
-\ps cl
+\ps clf
 \ge une touffe
 \gn 一绺（头发）
 \xv tɯ-kɤrme tɯ-ltɕhɯz
@@ -11465,7 +11465,7 @@
 \dt 18/May/2014
 
 \lx tɯ-ɬɯm
-\ps cl
+\ps clf
 \ge une période de sommeil
 \gn (睡）一觉
 \xv tɯ-ɬɯm pɯ-nɯʑɯβ-a
@@ -11696,7 +11696,7 @@
 \hbf 91
 
 \lx tɯ-mɢla
-\ps cl
+\ps clf
 \ge pas 
 \gn 一步 
 \hbf 916
@@ -11809,7 +11809,7 @@
 \hbf corps
 
 \lx tɯ-mɲitsi
-\ps cl
+\ps clf
 \ge vie 
 \gn 一辈子 
 \hbf 915 
@@ -11835,7 +11835,7 @@
 \dt 01/Feb/2013
 
 \lx tɯ-mpɕar
-\ps cl
+\ps clf
 \ge feuille, un yuan 
 \gn 一张、一元 
 \hbf 906 
@@ -11846,7 +11846,7 @@
 \dt 23/Oct/2012
 
 \lx tɯ-mphɯr
-\ps cl
+\ps clf
 \ge rouleau, paquet 
 \gn 一包、一卷 
 \hbf 872 
@@ -11908,7 +11908,7 @@
 \dt 25/Apr/2014
 
 \lx tɯ-mtɕoʁ
-\ps cl
+\ps clf
 \ge une pincée; une touffe 
 \gn 一撮
 \dt 05/Jan/2015
@@ -11999,7 +11999,7 @@
 \gn 天堂
 
 \lx tɯ-mɯm
-\ps cl
+\ps clf
 \ge une gorgée 
 \gn 一口（水）
 
@@ -12029,7 +12029,7 @@
 \hbf corps
 
 \lx tɯ-ndzoʁ
-\ps cl
+\ps clf
 \ge gousse
 \gn 蒜瓣
 \hbf plante
@@ -12098,14 +12098,14 @@
 \dt 20/Jul/2014
 
 \lx tɯ-ntɕhaʁ
-\ps cl
+\ps clf
 \ge goutte 
 \gn 一滴 
 \hbf 885
 \dt 07/Jan/2015
 
 \lx tɯ-ntɕhɯr
-\ps cl
+\ps clf
 \ge morceau, débrit 
 \gn 粹片 
 \hbf 859 
@@ -12113,7 +12113,7 @@
 \xn
 
 \lx tɯ-nthoʁ
-\ps cl
+\ps clf
 \ge petit rond 
 \gn 小圆点 
 \xv tɤ-se tɯ-nthoʁ pjɤ-ɕe
@@ -12121,7 +12121,7 @@
 \dt 18/May/2014
 
 \lx tɯ-ntsi
-\ps cl
+\ps clf
 \ge un membre d'une paire 
 \gn 一只 
 \hbf 871 
@@ -12222,7 +12222,7 @@
 \hbf corps
 
 \lx tɯ-ŋgɯl
-\ps cl
+\ps clf
 \ge une boucle, un tour (à propos d'intestins enroulés comme des cordes)
 \gn 一圈（肠子）
 \xv tɯ-pu tɯ-ŋgɯl
@@ -12230,7 +12230,7 @@
 \dt 22/Jul/2014
 
 \lx tɯ-ŋka
-\ps cl
+\ps clf
 \ge parole, bruit, nourriture mâchée que l'on recrache 
 \gn 一声、咬过的东西 
 \hbf 862 
@@ -12292,7 +12292,7 @@
 
 \lx tɯ-pɤrme
 \wav8 thWtAzGWt
-\ps cl
+\ps clf
 \ge année 
 \gn 一岁（年龄） 
 \hbf 914
@@ -12310,7 +12310,7 @@
 
 \lx tɯ-pɕirtɕhaʁ
 \wav8 tWpCirtChaR
-\ps cl
+\ps clf
 \ge une génération
 \gn 一辈、一代
 \dt 23/Feb/2014
@@ -12351,7 +12351,7 @@
 \hbf famille
 
 \lx tɯ-phoŋ
-\ps cl
+\ps clf
 \ge bouteille 
 \gn 一瓶 
 \hbf 891 
@@ -12378,7 +12378,7 @@
 \dt 02/Dec/2010
 
 \lx tɯ-phɯ
-\ps cl
+\ps clf
 \ge tronc 
 \gn 一棵 
 \hbf 848 
@@ -12424,7 +12424,7 @@
 \dt 06/Oct/2011
 
 \lx tɯ-po
-\ps cl
+\ps clf
 \ge unité de mesure 
 \gn 斗 
 \hbf 571 
@@ -12465,7 +12465,7 @@
 
 \lx tɯ-qartsɯ
 \wav n-tWqartsW
-\ps cl
+\ps clf
 \ge coup de pied 
 \gn 踢一脚 
 \hbf 1667 
@@ -12548,7 +12548,7 @@
 \dt 29/Dec/2011
 
 \lx tɯ-rdoʁ
-\ps cl
+\ps clf
 \ge morceau 
 \gn 一块 
 \ge grains
@@ -12624,13 +12624,13 @@
 \dt 23/Sep/2013
 
 \lx tɯ-rɣɯt
-\ps cl
+\ps clf
 \ge brin de fil 
 \gn 一股线
 \dt 26/Jan/2015
 
 \lx tɯ-ri
-\ps cl
+\ps clf
 \ge cent
 \gn 一百
 \sy ɣurʑa
@@ -12678,7 +12678,7 @@
 \et rkos
 
 \lx tɯ-rkoŋɕɤl
-\ps cl
+\ps clf
 \ge are 
 \gn 一亩 
 \hbf 908 
@@ -12712,7 +12712,7 @@
 \hbf 152
 
 \lx tɯ-rmbɯ
-\ps cl
+\ps clf
 \ge tas 
 \gn 一堆 
 \hbf 855 
@@ -12913,7 +12913,7 @@
 \hbf 485
 
 \lx tɯ-rqoʁ
-\ps cl
+\ps clf
 \ge quantité qui peut tenir entre l'avant-bras et le bras fléchi
 \gn 一抱
 \hbf corps
@@ -12964,7 +12964,7 @@
 
 \lx tɯ-rtsɤɣ
 \wav8 tWrtsAG-def
-\ps cl
+\ps clf
 \ge une section, un étage, une toise 
 \gn 一节、一层楼、一丈 
 \dt 19/Oct/2012
@@ -13171,7 +13171,7 @@
 \dt 11/Jan/2015
 
 \lx tɯ-sla
-\ps cl
+\ps clf
 \ge un mois 
 \gn 一个月 
 \hbf 912
@@ -13186,7 +13186,7 @@
 \dt 20/Dec/2012
 
 \lx tɯ-snaʁ
-\ps cl
+\ps clf
 \ge morceau 
 \gn 一小块 
 \hbf 858 
@@ -13204,7 +13204,7 @@
 
 \lx tɯ-sŋi
 \wav WsNi
-\ps cl
+\ps clf
 \ge un jour 
 \gn 一天 
 \hbf 910
@@ -13233,7 +13233,7 @@
 \dt 05/Sep/2011
 
 \lx tɯ-spra
-\ps cl
+\ps clf
 \ge poignée 
 \gn 一捧 
 \hbf 878 
@@ -13266,7 +13266,7 @@
 \dt 26/May/2013
 
 \lx tɯ-sraŋ
-\ps cl
+\ps clf
 \ge once 
 \gn 一两 
 \hbf 894 
@@ -13293,7 +13293,7 @@
 \dt 25/Apr/2014
 
 \lx tɯ-srɯt
-\ps cl
+\ps clf
 \ge un filet de lumière
 \gn 细小缝隙里透过的光
 \xv tɤŋe tɯ-srɯt
@@ -13318,7 +13318,7 @@
 
 \lx tɯ-staʁ
 \wav8 tWstaR
-\ps cl
+\ps clf
 \ge une poëllée 
 \gn 一锅，炒出一锅糌粑的时间
 \xv tɯ-staʁ thɯ-rŋu-t-a
@@ -13383,7 +13383,7 @@
 \dt 23/Jun/2013
 
 \lx tɯ-ʂɯl
-\ps cl
+\ps clf
 \ge une bande de couleur 
 \gn 一条很细的条纹 
 \et srol
@@ -13413,7 +13413,7 @@
 \dt 11/May/2014
 
 \lx tɯ-tɤfskɤr
-\ps cl
+\ps clf
 \ge un tour
 \gn 一圈
 \xv tɯ-tɤfskɤr to-lɤt-nɯ
@@ -13422,13 +13422,13 @@
 \dt 01/Jan/2015
 
 \lx tɯ-tɤkhar
-\ps cl
+\ps clf
 \ge une muraille, une troupe de gens qui entourent un endroit 
 \gn 一堵围墙，包围一个地方的一群人，包围的一圈 
 \hbf *qachɣa.27
 
 \lx tɯ-tɤkhrɤz
-\ps cl
+\ps clf
 \ge une rayure, une ligne
 \gn 一排、一路、一层
 \xv ki tɯ-ŋga ki kɯ-wɣrum tɯ-tɤkhrɤz kɯ-ɲaʁ tɯ-tɤkhrɤz ku-ɕe ɲɯ-ŋu
@@ -13439,14 +13439,14 @@
 \dt 05/Jul/2014
 
 \lx tɯ-tɤlia
-\ps cl
+\ps clf
 \ge un petit écheveau
 \gn 一小绞
 \cf tɤβri
 \dt 17/May/2014
 
 \lx tɯ-tɤlkɯɣ
-\ps cl
+\ps clf
 \ge un tour de corde (enroulée en cercle)
 \gn 一圈绳子
 \cf tɯ-tɤjŋgɤɣ
@@ -13461,7 +13461,7 @@
 \dt 26/Jan/2015
 
 \lx tɯ-tɤndzri
-\ps cl
+\ps clf
 \ge une poignée
 \gn 一绞
 \xv tɯɣro tɯ-tɤndzri
@@ -13469,18 +13469,18 @@
 \dt 24/Aug/2012
 
 \lx tɯ-tɤri
-\ps cl
+\ps clf
 \ge ligature 
 \gn 一串 
 \hbf 884
 
 \lx tɯ-tɤrtsɯɣ
-\ps cl
+\ps clf
 \ge pile 
 \gn 一堆
 
 \lx tɯ-tɤrzɯɣ
-\ps cl
+\ps clf
 \ge une section
 \gn 一段
 \cf tɯ-rzɯɣ
@@ -13493,7 +13493,7 @@
 \hbf *kɯsɤr.84
 
 \lx tɯ-tɤsɯm
-\ps cl
+\ps clf
 \ge une partie 
 \gn 一份 
 \xv χsɯ-tɤsɯm ɯ-ŋgɯ zɯ tɯ-tɯsɯm 
@@ -13502,13 +13502,13 @@
 \dt 17/Jan/2015
 
 \lx tɯ-tɤtɕhɯ
-\ps cl
+\ps clf
 \ge un coup de bêche 
 \gn 挖一锄头 
 \hbf *qachɣa.85
 
 \lx tɯ-tɤxɯr
-\ps cl
+\ps clf
 \ge un tour 
 \gn 一圈 
 \xv iʑo tɯ-tɤxɯr tɤ-lɤt-i 
@@ -13548,7 +13548,7 @@
 \dt 02/Jan/2015
 
 \lx tɯ-tɕha²
-\ps cl
+\ps clf
 \ge paire 
 \gn 一对 
 \hbf 865 
@@ -13559,7 +13559,7 @@
 \dt 25/Dec/2012
 
 \lx tɯ-tɕhaʁ
-\ps cl
+\ps clf
 \ge bouquet, boisseau 
 \gn 一捆 
 \hbf *ndzaʁlaŋ.115
@@ -13573,7 +13573,7 @@
 \dt 22/Nov/2014
 
 \lx tɯ-tɕɯlɤβ
-\ps cl
+\ps clf
 \ge temps de fumer une pipe
 \gn 一个烟斗的功夫
 \xv thamakha tɯ-tɕɯlɤβ kɤ-sko ɯ-raŋ jamar
@@ -13588,7 +13588,7 @@
 \dt 15/May/2014
 
 \lx tɯ-tɣa¹
-\ps cl
+\ps clf
 \ge longeur entre deux doigts 
 \gn 一拃，张指测距的长度单位。 
 \hbf 902
@@ -13659,7 +13659,7 @@
 \dt 09/Dec/2013
 
 \lx tɯ-tshoz
-\ps cl
+\ps clf
 \ge un ensemble 
 \gn 一套
 \dt 04/May/2014
@@ -13697,7 +13697,7 @@
 \dt 19/Oct/2012
 
 \lx tɯ-tɯcɤβ
-\ps cl
+\ps clf
 \ge espèce
 \gn 一类、一种
 \xv nɯ tɯ-tɯcɤβ ɲɯ-maʁ-nɯ
@@ -13708,7 +13708,7 @@
 \lx tɯ-tɯcɯr
 \wav8 tWtWcWr1
 \wav8 kWmNutWcWr
-\ps cl
+\ps clf
 \ge une partie 
 \gn 一份 
 \xv χsɯ-tɯcɯr tú-wɣ-lɤt tɕe tɯ-tɯcɯr 
@@ -13719,12 +13719,12 @@
 \dt 17/Jan/2015
 
 \lx tɯ-tɯkro
-\ps cl
+\ps clf
 \ge une part 
 \gn 一份
 
 \lx tɯ-tɯm
-\ps cl
+\ps clf
 \ge gousse d'ail 
 \gn 一头蒜 
 \hbf plante
@@ -13732,7 +13732,7 @@
 
 \lx tɯ-tɯmbrɯ
 \wav cl-tWtWmbrW
-\ps cl
+\ps clf
 \ge section (du balcon, pour mettre la nourriture)
 \gn 一格、一空（走檐上，两个柱头之间可以装的粮食）
 \xv tɤ-rɤku jɤɣɤt zɯ kɯtʂɤɣ-tɯmbrɯ tú-wɣ-ta tɕe mɤro ɯ-taʁ tɕe tɯ-tɯmbrɯ ma me
@@ -13740,13 +13740,13 @@
 \dt 03/Aug/2012
 
 \lx tɯ-tɯndzɯm
-\ps cl
+\ps clf
 \ge bœuf (pour tirer la charrue) 
 \gn 一架牛 
 \hbf 904
 
 \lx tɯ-tɯnɯna
-\ps cl
+\ps clf
 \ge borne (entre deux auberge de repos) 
 \gn 一里（两个休息的地点之间的距离） 
 \hbf 898
@@ -13758,7 +13758,7 @@
 \hbf 67
 
 \lx tɯ-tɯrpa
-\ps cl
+\ps clf
 \ge livre 
 \gn 一斤 
 \hbf 893
@@ -13806,7 +13806,7 @@
 \dt 28/Aug/2012
 
 \lx tɯ-xpa
-\ps cl
+\ps clf
 \ge une année 
 \gn 一年 
 \hbf 913
@@ -13875,7 +13875,7 @@
 \dt 08/Jan/2012
 
 \lx tɯ-xtshi
-\ps cl
+\ps clf
 \ge une fois 
 \gn 一次
 
@@ -13950,7 +13950,7 @@
 \dt 18/May/2014
 
 \lx tɯ-zboʁ
-\ps cl
+\ps clf
 \ge une poignée (herbes, oignon) 
 \gn 一把（草，葱）
 
@@ -13979,7 +13979,7 @@
 \hbf 106
 
 \lx tɯ-zloʁ
-\ps cl
+\ps clf
 \ge fois 
 \gn 一倍 
 \hbf 927 
@@ -14010,7 +14010,7 @@
 \dt 02/Jan/2015
 
 \lx tɯ-ʑrɤz
-\ps cl
+\ps clf
 \ge une bande (couleur) 
 \gn 一路（颜色）
 
@@ -56548,7 +56548,7 @@ da.lie 打猎
 
 \lx _χsɯ-skɤl
 \wav cl-XsWskAl
-\ps cl
+\ps clf
 \ge trois repas
 \gn 三顿
 \xv zama χsɯ-skɤl nɯ koŋla tu-kɯ-rɯndzɤtshi ra
@@ -63793,7 +63793,7 @@ da.lie 打猎
 \hbf oiseau 
 \et glag
 \xv qaliaʁ nɯ praʁ ɯ-ŋgɯ zɯ ku-rɤʑi ŋu, ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ thaŋkɤr rmi, ɯʑo ɯ-mdoʁ nɯ kɯ-ɲaʁ ŋu, ɯ-ʁar nɯ kɯ-wɣrum tɯ-tɯ-snaʁ kɯ-tu tu, qala, βʑɯ, paʁtsa cho ɲaɲa nɯ ra tu-ndze ŋgrɤl. li ci thaŋnaʁ kɯ-rmi ci tu tɕe, kɯ-ɲaʁ ʁɟa ʑo ŋu, nɯ kɯ-cha nɯ ŋu, paʁtsa cho ɲaɲa nɯ phɤri ɲɯ-nɯ-tsɯm cha, ca pjɤ-sat ŋgrɤl. ɯ-mi nɯ ɕɤmiɕtʂɤt fse. mphrɯmɯ pjɯ-re ŋgrɤl tu-kɯ-ti ɲɯ-ŋu ma nɤmkha ɯ-stu ʑo tu-ɕe tɕe ɯ-stu li pjɯ-jɣɤt tɕe ɴɢartɯm pjɯ-ɣɯt ŋu. ɯ-mɲaʁ wuma ʑo mto tu-kɯ-ti ɲɯ-ŋgrɤl, phɤri ku-ru tɕe qaʑo kɯ ɯ-qe thɤstɯ-rdoʁ pa-lɤt mtɤm tu-kɯ-ti ɲɯ-ŋgrɤl. ɕa a-tɤ-ndze tɤ-fka ɯ-qhu tɕe, co a-pɯ-ŋu tɕe chɯ-nɯqambɯmbjom mɤ-cha. 
-\xn 雕栖息在岩洞里，有两种，一种叫[thaŋkɤr}，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫{thaŋnaʁ}，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死獐子。爪子象铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
+\xn 雕栖息在岩洞里，有两种，一种叫{thaŋkɤr}，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫{thaŋnaʁ}，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死獐子。爪子象铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
 \nqr
 \dt 17/Apr/2012
 
@@ -71191,7 +71191,7 @@ l
 \dt 05/Nov/2011
 
 \lx ^tɯ-ldʑa
-\ps cl
+\ps clf
 \ge brin 
 \gn 一根、一条 
 \hbf 843 
@@ -71206,7 +71206,7 @@ l
 \lx ^tɯ-lpɤɣ
 \wav cl-tWlpAG
 \wav cl-tWlpAG2
-\ps cl
+\ps clf
 \ge gros morceau 
 \gn 一大块 
 \hbf 892 
@@ -71312,7 +71312,7 @@ l
 
 \lx ^tɯ-rzɯɣ
 \wav cl-tWrzWG
-\ps cl
+\ps clf
 \ge section 
 \gn 一段 
 \ge un moment
@@ -71328,7 +71328,7 @@ l
 
 \lx ^tɯ-tɤjŋgɤɣ
 \wav cl-tWtAjNgAG
-\ps cl
+\ps clf
 \ge un tour de corde (enroulée en cercle)
 \gn 一圈
 \xv tɯmbri tɯ-tɤjŋgɤɣ
@@ -71338,7 +71338,7 @@ l
 
 \lx ^tɯ-tɤlɤβ
 \wav cl-tAlAB
-\ps cl
+\ps clf
 \ge couche
 \gn 层
 \xv tɤ-βɟu kɤntɕhɯ-tɤlɤβ lɤ-ta-j
@@ -71347,7 +71347,7 @@ l
 
 \lx ^tɯ-tɤmphrɯm
 \wav cl-tWtAmphrWm
-\ps cl
+\ps clf
 \ge une rangée
 \gn 一路、一排
 \xv iʑora kutɕu ɲɯ-ɤʑɯrja-j tɕe, tɤ-tɕɯ tɯ-tɤmphrɯm, tɕheme tɯ-tɤmphrɯm nɯ kɯfse tu-kɯ-ndzur ɲɯ-ra
@@ -71356,7 +71356,7 @@ l
 \dt 21/Aug/2014
 
 \lx ^tɯ-tɯŋgɯ
-\ps cl
+\ps clf
 \ge
 \gn 一房背满满的青稞穗
 \xv saχsɯ ɕɯŋgɯ tɯ-tɯŋgɯ pɯ-tɤβ-i
