@@ -71968,7 +71968,7 @@ l
 \se phɯzjɤɣ
 \ps idph.6
 \xv tɯrme phɯzjɤɣ tɤ-nɯɬoʁ
-\xn 人突然冒出来了
+\xn 突然冒出个人来
 \se zjɤɣɯɣi
 \ps idph.7
 \xv tɯrme zjɤɣɯɣi lɤ-ari
