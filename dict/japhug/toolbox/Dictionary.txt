@@ -72104,6 +72104,7 @@ l
 \wav8 ZdWGZdWG
 \ps idph.2
 \ge compact, solide
+\gn 形容物体紧凑或牢固
 \xv nɤki tʂɤm ɲɯ-ɤrku tɕe, ʑdɯɣʑdɯɣ ʑo ɲɯ-ɤstu
 \xn 板子装得很紧凑
 \xv ɯ-ɕɣa ɯ-tɯ-pe kɯ ʑdɯɣʑdɯɣ ʑo ɲɯ-pa
