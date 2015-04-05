@@ -72091,7 +72091,7 @@ l
 \lx $ʑdrɤβʑdrɤβ
 \ps idph.2
 \ge objet long et mou
-\gn 又长又软的东西
+\gn 形容物体长而软的样子
 \xv razmbe ʑdrɤβʑdrɤβ ʑo ɲɯ-ɴqoʁ
 \xn 烂布条又脏又长地在那里挂着
 \xv razmbe ʑdrɤβʑdrɤβ ʑo ɲɯ-ɤta
@@ -72104,7 +72104,6 @@ l
 \wav8 ZdWGZdWG
 \ps idph.2
 \ge compact, solide
-\gn 紧凑、牢固
 \xv nɤki tʂɤm ɲɯ-ɤrku tɕe, ʑdɯɣʑdɯɣ ʑo ɲɯ-ɤstu
 \xn 板子装得很紧凑
 \xv ɯ-ɕɣa ɯ-tɯ-pe kɯ ʑdɯɣʑdɯɣ ʑo ɲɯ-pa
