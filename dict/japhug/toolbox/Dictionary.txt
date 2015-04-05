@@ -71846,13 +71846,13 @@ l
 \wav8 zdWmkhAtChW
 \ps n
 \ge humidité de la brume
-\gn 早上有雾的时候的水分
+\gn 早上起雾时的水分
 \xv zdɯm lɤ-ɣe tɕe, zdɯmkhɤtɕhɯ ɣɤʑu
 \xn 起雾的时候空气中就有水分
 \xv zdɯmkhɤtɕhɯ kɯ tɯ-ŋga ɲɤ-znɯrlɤn
-\xn 水分把衣服弄湿了
+\xn 雾气把衣服弄湿了
 \xv tɯmɯ zdɯmkhɤtɕhɯ jamar ɲɯ-ɤsɯ-lɤt
-\xn 下雨，雨点又细又密
+\xn 下雨l，雨点又细又密
 \dt 08/Dec/2011
 
 \lx $zdɯzdɯr
