@@ -71821,7 +71821,7 @@ l
 \wav ideo-zaN-b
 \ps idph.2
 \ge ébouriffés et longs (cheveux)
-\gn 乱蓬蓬
+\gn 形容头发等乱蓬蓬样子
 \xv ɯ-ku tɤrpɯ zaŋzaŋ ʑo
 \xn 他的头发又长又脏，乱蓬蓬的
 \cf zoŋzoŋ
