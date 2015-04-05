@@ -71852,7 +71852,7 @@ l
 \xv zdɯmkhɤtɕhɯ kɯ tɯ-ŋga ɲɤ-znɯrlɤn
 \xn 雾气把衣服弄湿了
 \xv tɯmɯ zdɯmkhɤtɕhɯ jamar ɲɯ-ɤsɯ-lɤt
-\xn 下雨l，雨点又细又密
+\xn 下雨了，雨点又细又密
 \dt 08/Dec/2011
 
 \lx $zdɯzdɯr
