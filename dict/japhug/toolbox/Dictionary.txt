@@ -72040,7 +72040,7 @@ l
 \lx $zoŋzoŋ
 \ps idph.2
 \ge ébouriffé, en désordre 
-\gn 乱蓬蓬的样子（人）、毛长而粗的样子（动物的尾巴） 
+\gn 形容人蓬头垢面，头发乱蓬蓬的样子，或形容动物的尾巴粗而毛发多 
 \xv nɤ-ku pɯ-sɤɕɤt ma zoŋzoŋ ʑo ɲɯpa 
 \xn 你梳一下头，你的头发乱蓬蓬的
 \cf zaŋzaŋ
@@ -72050,7 +72050,7 @@ l
 \wav ideo-zWG-b
 \ps idph.2
 \ge stable, immobile
-\gn 稳定的状态，一动都不动 
+\gn 稳定的状态，一动也不动 
 \hbf *tɤmu.95 
 \xv zɯɣzɯɣ ʑo ɲɯ-ɤsɯ-ndo
 \xn 他拿着不放，动也不动
