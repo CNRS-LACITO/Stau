@@ -72073,7 +72073,7 @@ l
 \wav vt-sAZdraNlaN
 \ps idph.2
 \ge objet long et flexible
-\gn 又长又软（衣服，软树枝）
+\gn 形容物体（衣服，软树枝等）又长又软的样子
 \xv tɯmbri ʑdraŋʑdraŋ ʑo ɲɯ-ɤta
 \xn 绳子放在那里，很凌乱的样子
 \se ʑdraŋnɤʑdraŋ
