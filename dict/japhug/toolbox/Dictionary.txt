@@ -71805,7 +71805,7 @@ l
 \wav ideo-XtshAt-b
 \ps idph.2
 \ge sage et très actif (enfant, petit animal) 
-\gn 看起来很乖，很灵活的样子，小巧玲珑（小孩子，小动物） 
+\gn 形容小孩子或者小动物看起来很乖很灵活的样子，小巧玲珑。 
 \hbf *koŋzoŋ.303
 \xv jiɕqha tɤ-pɤtso χtshɤχtshɤt ci ɲɯ-ŋu
 \xn 那个小孩子很灵活
