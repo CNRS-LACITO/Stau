@@ -71435,7 +71435,7 @@ l
 \wav n-mNu
 \ps n
 \ge ouverture du sac, partie du toit sous laquelle il n'y a pas de balcon, côté du champs près de la montagne 
-\gn 背篼、口袋的扣子，房顶的靠墙的一边（没有走檐），土坎（靠山的那一边）
+\gn 背篼、口袋的扣子，房顶靠墙的一边（没有走檐），土坎（靠山的那一边）
 \hbf *qalakɯɕqraʁ.52
 \dt 29/Apr/2014
 
