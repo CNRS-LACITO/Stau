@@ -71367,7 +71367,7 @@ l
 \wav n-tWtWphu
 \ps np
 \ge espèce 
-\gn 种类 
+\gn 种类，物种 
 \ge une ruche (abeilles)
 \gn 一窝（蜜蜂）
 \hbf *βʑar.1 
