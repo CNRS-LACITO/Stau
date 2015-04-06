@@ -71919,7 +71919,7 @@ l
 \se zjaŋɯŋi
 \ps idph.7
 \xv zjaŋɯŋi ʑo jɤ-ari
-\xn 他慢慢地去了（身子很高的人）
+\xn 他慢慢地走了（身子很高的人）
 \se zjɯŋɯzjaŋi
 \ps idph.8
 \xv zjɯŋɯzjaŋi ɲɯ-xcat
