@@ -71351,7 +71351,7 @@ l
 \ge une rangée
 \gn 一路、一排
 \xv iʑora kutɕu ɲɯ-ɤʑɯrja-j tɕe, tɤ-tɕɯ tɯ-tɤmphrɯm, tɕheme tɯ-tɤmphrɯm nɯ kɯfse tu-kɯ-ndzur ɲɯ-ra
-\xn 我们在这里排队，男的一排、女的一排地站着
+\xn 我们在这里排队，男的一排、女的一排
 \cf rɤmphrɯm
 \dt 21/Aug/2014
 
