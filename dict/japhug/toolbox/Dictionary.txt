@@ -71601,9 +71601,9 @@ l
 \wav ideo-xcaN-b
 \ps idph.2
 \ge gros et plat
-\gn 又大又扁
+\gn 又大又扁状
 \xv ɯ-xtsa ɲɯ-nɤwxti-a tɕe xcaŋxcaŋ mɯ́j-nɯɣɯŋga
-\xn 他的鞋子我穿起太大了，不好穿
+\xn 他的鞋子我穿太大了，不合适
 \se xcaŋnɤxcaŋ
 \ps idph.3
 \xv xcaŋnɤxcaŋ ʑo ɲɯ-nɤŋkɯŋke
