@@ -71954,7 +71954,7 @@ l
 \se zjɤɣnɤzjɤɣ
 \ps idph.3
 \xv laχtɕha zjɤɣnɤzjɤɣ ɲɯ-ɤsɯ-fkur kɤ-ari
-\xn 他背着一大堆东西去了
+\xn 他背着一大堆东西，走了
 \xv zjɤɣnɤzjɤɣ ɲɯ-ŋke
 \xn 他走路一高一低
 \se zjɤɣnɤlɤɣ
