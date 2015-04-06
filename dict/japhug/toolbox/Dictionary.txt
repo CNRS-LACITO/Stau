@@ -71757,7 +71757,7 @@ l
 \xv nɤ-khɯtsa ɯ-tɯ-wxti nɯ χɤnχɤn kɯ 
 \xn 你的碗很大！
 \xv χɤnχɤn ʑo ma-tɤ-tɯ-ʑɣɤstu
-\xn 不不要那样傻乎乎的样子
+\xn 不要傻乎乎的那样
 \dt 13/Dec/2011
 
 \lx {χɕu}{rnaʁ}
