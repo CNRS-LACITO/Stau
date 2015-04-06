@@ -71643,9 +71643,9 @@ l
 \wav8 GAxWBxWB
 \ps idph.2
 \ge rose
-\gn 粉红
+\gn 粉红状
 \ge chaud 
-\gn 暖（天气） 
+\gn 形容（天气） 暖暖的
 \xv kɯ-ɣɯrni xɯβxɯβ ci ɲɯ-ŋu
 \xn 是粉红色的
 \xv tɯrme ɯ-rŋa kɯ-ɣɯrni xɯβxɯβ ci ɲɯ-ŋu
