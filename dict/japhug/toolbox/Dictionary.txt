@@ -71471,9 +71471,9 @@ l
 \wav gram-WNgujAznA
 \ps adv
 \ge autrefois, d'abord
-\gn 首先
+\gn 本来，首先
 \xv ɯʑo ɯŋgu jɤznɤ taʁndo kɯ-tso ci pjɤ-ŋu ri, ɯ-ndo tɕe taʁndo mɯ-ɲɤ-tso
-\xn 他本来就很听话，后来就不听话了
+\xn 他本来很听话的，后来就不听话了
 \et ɴgo
 \an ɯ-ndo
 \cf nɯŋgu
