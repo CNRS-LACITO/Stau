@@ -71540,13 +71540,13 @@ l
 \ge vérité
 \gn 实话
 \ge vers l'avant, directement
-\gn 对着的地方、对着的方向、直接
+\gn 对着的地方或方向，直接
 \xv a-stu tu-ti-a
 \xn 我说实话
 \xv nɤ-stu tɤ-ti
 \xn 你说实话吧
 \xv nɤ-stu tu-tɯ-ti ɯ-ŋu ?
-\xn 你说实话吗
+\xn 你说实话吗？
 \xv ɯ-stu ʑo kɤ-ɕe tɕe tɤ-atɯɣ
 \xn 你直走就会遇到
 \dt 20/Dec/2011
