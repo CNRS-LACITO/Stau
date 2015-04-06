@@ -71697,7 +71697,7 @@ l
 \wav id-xWNxWN
 \ps idph.2
 \ge claire (pièce) 
-\gn 明亮（房间） 
+\gn 形容（房间）明亮 
 \xv kha ɲɯ-fsoʁ kɯ xɯŋxɯŋ ʑo
 \xn 房子很明亮
 \xv ɲɯ-qarŋe xɯŋxɯŋ ʑo
@@ -71707,9 +71707,9 @@ l
 \se xɯŋɯŋi
 \ps idph.7
 \xv tɤŋe xɯŋɯŋi ʑo pɯ-ɣe
-\xn 太阳慢慢地下山，很明亮
+\xn 太阳慢慢地下山了，很明亮
 \xv tɤŋe xɯŋɯŋi ʑo to-nɯ-ɬoʁ
-\xn 太阳慢慢地出来，很明亮
+\xn 太阳慢慢地出来了，很明亮
 \cf ʂɯŋʂɯŋ
 \dt 19/Sep/2014
 
