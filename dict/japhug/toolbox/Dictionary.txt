@@ -71775,7 +71775,7 @@ l
 \wav n-Xsiu
 \ps n
 \ge peau de serpent 
-\gn 蛇的蜕皮 
+\gn 蛇蜕的皮 
 \hbf 1693 
 \xv qapri ɯ-χsjɯβ chɤ-βde
 \xn 蛇脱皮了
