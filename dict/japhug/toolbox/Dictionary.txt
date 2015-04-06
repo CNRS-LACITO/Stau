@@ -71435,7 +71435,7 @@ l
 \wav n-mNu
 \ps n
 \ge ouverture du sac, partie du toit sous laquelle il n'y a pas de balcon, côté du champs près de la montagne 
-\gn 背篼、口袋的扣子、房顶的靠墙的一边（没有走檐）、土坎（靠山的那一边）
+\gn 背篼、口袋的扣子，房顶的靠墙的一边（没有走檐），土坎（靠山的那一边）
 \hbf *qalakɯɕqraʁ.52
 \dt 29/Apr/2014
 
@@ -71443,12 +71443,12 @@ l
 \wav8 ndaN
 \ps n
 \ge penser à
-\gn 着想
+\gn (为某人)着想
 \et ɴdaŋ
 \xv nɯ ɯ-ndaŋ pjɯ-lat-a ŋu
 \xn 我为他着想
 \xv tɯ-zda ra nɯ-ndaŋ pjɯ́-wɣ-lɤt ra ma nɯ-ʁdɯxpa ɣɯ-βzu mɤ-βdi
-\xn 他考虑到别人，不要妨碍别人
+\xn 他考虑到别人，不妨碍别人
 \cf rɤndaŋ
 \dt 01/Nov/2011
 
