@@ -71632,7 +71632,7 @@ l
 \wav n-xtWrYJI
 \ps n
 \ge longueur
-\gn 长短
+\gn 长度
 \dt 05/Nov/2011
 
 \lx $xɯβxɯβ
