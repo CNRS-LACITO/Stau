@@ -71749,7 +71749,7 @@ l
 \wav8 XAnXAn
 \ps idph.2
 \ge large et vide 
-\gn 又大又空的样子 
+\gn 形容又大又空的样子 
 \xv χɤnχɤn ʑo ɲɯ-ɤz-nɤjo
 \xn 他呆呆地站在那里等着（望着一个方向不动）
 \xv kha ɯ-tɯ-wxti kɯ χɤnχɤn ʑo ɲɯ-pa
