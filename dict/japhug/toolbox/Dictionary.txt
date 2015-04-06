@@ -71972,7 +71972,7 @@ l
 \se zjɤɣɯɣi
 \ps idph.7
 \xv tɯrme zjɤɣɯɣi lɤ-ari
-\xn 那个人慢慢地去了
+\xn 那个人慢慢地离开了
 \se ɣɤzjɤɣlɤɣ
 \ps vi
 \pdl dir 
