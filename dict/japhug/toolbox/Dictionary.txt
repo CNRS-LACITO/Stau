@@ -71787,11 +71787,11 @@ l
 \wav8 XsxAXsxAt2
 \ps idph.2
 \ge léger (vêtements)
-\gn 单薄
+\gn 形容衣衫等单薄
 \ge regard très intelligent
 \gn 眉目清秀，聪明的样子
 \ge léger (habit) 
-\gn 单薄，透风（衣服） 
+\gn 形容(衣服)单薄，透风
 \xv nɤ-ŋga kɯ-mba ci χʂɤχʂɤt tɯ-asɯ-ŋga
 \xn 你穿的衣服很单薄
 \xv ɯ-ŋga ɲɯ-mba ʑo χʂɤχʂɤt
