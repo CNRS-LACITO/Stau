@@ -71284,11 +71284,11 @@ l
 \gn 饱嗝 
 \hbf corps
 \xv a-qhrɯmbɤβ ɲɯ-sɯɣe
-\xn 我打嗝
+\xn 我打了个嗝儿
 \xv tɕɣom tɤ-ndza-t-a, a-qhrɯmbɤβ la-sɯɣe
-\xn 我吃了花椒就打嗝了
+\xn 我一吃花椒就要打嗝
 \xv @pijiu kɤ-tshi-t-a, a-qhrɯmbɤβ ja-sɯɣe
-\xn 我喝了啤酒就打嗝了
+\xn 我一喝啤酒就要打嗝
 \cf nɤqhrɯmbɤβ
 \dt 05/Jan/2015
 
