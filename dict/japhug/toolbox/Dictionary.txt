@@ -71249,10 +71249,10 @@ l
 \lx ^tɯmɯrtsɯɣ
 \ps n
 \ge pincer
-\gn 捏
+\gn 捏，掐，拧
 \un 一般和{lɤt}连用
 \xv a-rʑaβ kɯ tɯmɯrtsɯɣ ta-lɤt
-\xn 我的妻子捏了我一下
+\xn 我的妻子掐了我一下
 \xv nɤ-qe thɯ-tɯ-rɤrɕɯβ tɕe, kutɕu tɯrme kɯmŋu ɣɤʑu-j tɕe, tɯmɯrtsɯɣ kɯmŋu tu-lat-a ra 
 \xn 你放了屁，我们这里有五个人，所以我就要掐你五次
 \cf mɯrtsɯɣ
