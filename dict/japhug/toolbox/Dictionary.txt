@@ -70807,7 +70807,7 @@ l
 \wav vi-GAtshWptshWp
 \ps idph.2
 \ge sensation de condensation (dans la brume)
-\gn 空气中弥漫着潮气（水蒸气凝结的感觉）
+\gn 形容空气中弥漫着潮气（水蒸气凝结的感觉）的感觉
 \un {tshɯptshɯp}和{tɕhɯβtɕhɯβ}的区别在于，前者只表示有水分的感觉（看不到水），而后者看得到水珠
 \se ɣɤtshɯptshɯp
 \ps vs
