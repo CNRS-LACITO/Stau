@@ -70705,7 +70705,7 @@ l
 \gn 灌木的一种 
 \hbf plante 
 \xv tshɤmdzu nɯ si ci ŋu, wuma ʑo mbɤr, ɯ-mdzu rɲɟi cho mtɕoʁ, ɯ-jwaʁ ɯ-βzɯr ra kɯnɤ ɯ-mdzu tu, ɯ-zrɤm nɯ kɯ-qarŋe kɯ-qiaβ ŋu tɕe tɯ-xtu kɯ-mŋɤm ɯ-smɤn ɯ-spa ŋu 
-\xn {tshɤmdzu}是一种树，比较矮，刺长而尖，叶子边缘也有刺，根是黄色的，带有苦味，是治拉肚子的药的原料致之一。
+\xn {tshɤmdzu}是一种树，比较矮，刺长而尖，叶子边缘也有刺，根是黄色的，带有苦味，是治拉肚子的药材原料之一。
 \dt 15/May/2012
 
 \lx ^tshɤɲcɤnɯ
@@ -70716,7 +70716,7 @@ l
 \gn [刷把菌] 
 \hbf champignon 
 \xv tshɤɲcɤnɯ nɯ ɕkrɤz ŋgɯ tɯrgi ŋgɯ tu-ɬoʁ ŋu, ɯ-mdoʁ nɯ kɯ-qarŋe tu, ɕa ɯ-mdoʁ tu, ɯ-tshɯɣa nɯ zɣombu fse, ɯ-ku nɯ tɯ-jaʁndzu kɯ-fse kɯ-xtshɯm-xtshɯm ʑo ŋu, kɤ-ndza sna 
-\xn 刷把菌长在青冈树林里，有的是黄色的，有的颜色象人的皮肤一样，形状象扫把，末端顶部像细小的手指，能吃。
+\xn 刷把菌长在青冈树林里，有的是黄色的，有的颜色象人的皮肤一样，形状象扫把，尖端像细小的手指，能吃。
 \dt 24/May/2012
 
 \lx ^tshɤrqhu
