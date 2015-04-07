@@ -71122,11 +71122,11 @@ l
 \gn 牙齿 
 \hbf 137 
 \xv a-ɕɣa qajɯ kɯ ɲɤsɯ-ndza 
-\xn 我得了蛀牙
+\xn 我长了虫牙了。
 \xv tɯ-ɕɣa qajɯ kɯ tu-ndze tɕe wuma ʑo mŋɤm
 \xn 有蛀牙，很痛
 \xv a-ɕɣa ɲɯ-mŋɤm
-\xn 牙齿很痛
+\xn 牙疼！
 \dt 16/May/2012
 
 \lx ^tɯɕɣɤŋɤm
