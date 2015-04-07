@@ -70684,7 +70684,7 @@ l
 \lx ^tshɤdɯɣ
 \ps n
 \ge chaleur
-\gn 热的天气
+\gn 天气热
 \cf ɣɯtshɤdɯɣ
 \cf nɯtshɤdɯɣ
 \an tɤndʐo
