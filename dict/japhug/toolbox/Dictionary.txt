@@ -70793,12 +70793,12 @@ l
 \wav ideo-tshWn-b
 \ps idph.2
 \ge en bon état 
-\gn 塌实、齐全 
+\gn 形容塌实、齐全的状态
 \hbf *sqar.8 
 \xv laχtɕha nɯtɕu nɯ-ta-t-a tɕe, tshɯntshɯn ɲɯ-ɤnɯta
-\xn 我把东西放在那里，没有人碰
+\xn 我把东西放在那里，没人会碰
 \xv nɤ-ŋga tɤ-tɯ-ɕɯɴqoʁ ɯ-sta tshɯntshɯn ɲɯ-ɤnɯta
-\xn 你把衣服挂在那里，没有人碰
+\xn 你把衣服挂在那里，没人会碰
 \xv kha ra tɤ-rɤwum-a tshɯntshɯn ʑo 
 \xn 我把家的东西收拾得很好
 \dt 30/Oct/2011
