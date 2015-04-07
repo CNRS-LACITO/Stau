@@ -70575,7 +70575,7 @@ l
 \wav n-thGe
 \ps n
 \ge gland 
-\gn 橡树 
+\gn 橡子
 \hbf plante2
 \cf nɯthɣe
 \dt 08/Aug/2012
@@ -70795,9 +70795,9 @@ l
 \ge en bon état 
 \gn 形容塌实、齐全的状态
 \hbf *sqar.8 
-\xv laχtɕha nɯtɕu nɯ-ta-t-a tɕe, tshɯntshɯn ɲɯ-ɤnɯta
+\xv laχtɕha nɯtɕu nɯ-ta-t-a tɕe, tshɯntshɯn ɲɯ-ɤ<nɯ>ta
 \xn 我把东西放在那里，没人会碰
-\xv nɤ-ŋga tɤ-tɯ-ɕɯɴqoʁ ɯ-sta tshɯntshɯn ɲɯ-ɤnɯta
+\xv nɤ-ŋga tɤ-tɯ-ɕɯɴqoʁ ɯ-sta tshɯntshɯn ɲɯ-ɤ<nɯ>ta
 \xn 你把衣服挂在那里，没人会碰
 \xv kha ra tɤ-rɤwum-a tshɯntshɯn ʑo 
 \xn 我把家的东西收拾得很好
