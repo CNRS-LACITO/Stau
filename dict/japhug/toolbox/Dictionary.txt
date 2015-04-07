@@ -71133,7 +71133,7 @@ l
 \wav n-tWCGANAm
 \ps n
 \ge mal aux dents 
-\gn 牙齿疼 
+\gn 牙疼 
 \hbf maladie
 \cf tɯ-ɕɣa
 \cf mŋɤm
