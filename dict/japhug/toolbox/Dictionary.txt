@@ -70843,15 +70843,15 @@ l
 \wav8 tslWGtslWG
 \ps idph.2
 \ge envelopper complètement
-\gn 包成一团（成了圆形）、包得又紧又大
+\gn 形容包成一团（成了圆形）、包得又紧又大状
 \ge rond et dur
-\gn 又圆又硬
+\gn 形容又圆又硬的样子
 \xv ɯ-ku pjɤ-ɴɢraʁ tɕe, tslɯɣtslɯɣ to-mphɯr
-\xn 他的头破了，把它包成一团了
+\xn 他的头破了，被包成一团了
 \xv ɯ-jaʁ to-mphɯr tslɯɣtslɯɣ ʑo
 \xn 他把手包成一团了
 \xv a-rqo ci thɯci chɤ-ɕe tɕe tslɯɣtslɯɣ ʑo ɲɯ-ɤrku tɕe kɤ-tɕɤt mɯ́j-khɯ
-\xn 我喉咙里有个东西卡住，取不出来
+\xn 我喉咙里卡了个东西，取不出来
 \se tslɯɣnɤtslɯɣ 
 \ps idph.3
 \ge bouillir en faisant de grosses bulles 
@@ -70859,7 +70859,7 @@ l
 \se ɣɤtslɯɣtslɯɣ
 \ps vi
 \xv tɯ-ci ɲɯ-ɤla ɲɯ-ɣɤtslɯɣtslɯɣ
-\xn 水在沸腾
+\xn 水开了
 \dt 27/Sep/2014
 
 \lx ^tsɯʁot
