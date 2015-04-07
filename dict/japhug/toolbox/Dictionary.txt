@@ -70606,7 +70606,7 @@ l
 \wav n-thWrnaR
 \ps n
 \ge balance de précision 
-\gn 称 
+\gn 秤
 \hbf 570 
 \et tʰur.sraŋ
 \dt 09/May/2012
