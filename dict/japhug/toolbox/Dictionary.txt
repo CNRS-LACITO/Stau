@@ -70575,7 +70575,7 @@ l
 \wav n-thGe
 \ps n
 \ge gland 
-\gn 橡栗 
+\gn 橡树 
 \hbf plante2
 \cf nɯthɣe
 \dt 08/Aug/2012
