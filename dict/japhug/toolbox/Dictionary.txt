@@ -70694,7 +70694,7 @@ l
 \wav n-tshAko
 \ps n
 \ge tas de pierre, symbole bouddhique 
-\gn 马尼堆 
+\gn 玛尼堆 
 \hbf objet traditionel
 \dt 15/May/2012
 
