@@ -70420,7 +70420,7 @@ l
 \lx ^tɕhɯrkɯ
 \ps n
 \ge gamelle de chien
-\gn 狗碗
+\gn 狗的饭盆，给狗吃饭的盆
 \dt 05/Nov/2011
 
 \lx ^tɕhɯrtsɤm
