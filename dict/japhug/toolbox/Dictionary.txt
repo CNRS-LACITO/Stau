@@ -70387,7 +70387,7 @@ l
 \wav ideo-tChWN-b
 \ps idph.2
 \ge pure, propre (eau) 
-\gn 纯净、干净 
+\gn 形容(水)纯净、干净的样子
 \xv tɯ-ci tɕhɯŋtɕhɯŋ ɲɤmgri
 \xn 水澄清得一点渣滓也没有的样子
 \dt 20/Nov/2011
