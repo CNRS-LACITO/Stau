@@ -70367,7 +70367,7 @@ l
 \wav vt-sAtChWNtChWN
 \ps idph.1
 \ge cliquetis de métaux 
-\gn (金属）撞击声、叮当声 
+\gn 形容(金属）撞击声、叮当声 
 \se sɤtɕhɯŋtɕhɯŋ
 \ps vt
 \xv ɲɯ-sɤtɕhɯŋtɕhɯŋ ɲɯ-ɤsɯ-ʑmbri
