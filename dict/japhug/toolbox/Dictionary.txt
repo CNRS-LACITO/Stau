@@ -70444,7 +70444,7 @@ l
 \wav n-tChWRnAz
 \ps n
 \ge monstre aquatique 
-\gn 水怪物 
+\gn 水怪
 \hbf animal
 \dt 15/May/2013
 
