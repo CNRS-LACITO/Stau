@@ -70668,7 +70668,7 @@ l
 \xv ki tɤɕi ki tshaʁ pɯ-lat-a
 \xn 我筛了青稞
 \xv tshaʁ ɯ-mɲaʁ
-\xn 筛子的漏孔
+\xn 筛子的漏孔，眼子
 \cf sɯxtshaʁ
 \dt 19/Oct/2012
 
