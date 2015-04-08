@@ -70581,7 +70581,7 @@ l
 \wav n-thAtCW
 \ps n
 \ge marteau 
-\gn 锤子，榔头
+\gn 二锤
 \xv thɤtɕɯ nɯ kɯ-rɤznde ra ɣɯ nɯ-laʁdɤn ŋu rdɤstaʁ ra ɯ-sɤz-ɣɤβdoʁβdi ŋu, ɯ-ku nɯ ɕom tɕe ɯ-jɯ laʁjɯɣ thɯ-kɤ-tshoʁ ci ŋu 
 \xn 榔头是石匠的工具，是用来修理石头的，头是铁作成，把子是一节木棒。
 \dt 06/May/2012
