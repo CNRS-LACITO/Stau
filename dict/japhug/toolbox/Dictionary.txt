@@ -71987,7 +71987,7 @@ l
 \xv pri ɲɯ-ɣɤzjɤɣlɤɣ ntsɯ
 \xn 老熊在扭动
 \xv χpɯn kɤ-ndɯn ɯ-raŋ tɕe tu-ɣɤzjɤɣlɤɣ ntsɯ ŋu
-\xn 和尚念经的时候扭动
+\xn 和尚念经的时候扭动(摇头晃脑的样子)
 \se sɤzjɤɣlɤɣ
 \ps vt
 \pdl dir 
