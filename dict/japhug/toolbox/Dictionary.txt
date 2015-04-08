@@ -440,7 +440,7 @@
 \gn [獐子菌] 
 \hbf champignon 
 \xv cɤjmɤɣ nɯ tɯrgi ŋgɯ tu-ɬoʁ ɲɯ-ŋu, ɯ-mdoʁ nɯ kɯ-ɤpɣɯlu ʁɟa ʑo nɯ ŋu, ɯ-rʑɯɣ nɯ ca ɯ-rme ɲɯ-fse, kɯ-wxti tsa ci ɲɯ-ŋu, ɯ-mdoʁ cho ɯ-rʑɯɣ nɯ ra ndʐa cɤjmɤɣ ɲɯ-rmi 
-\xn 獐子菌生长在杉木林里，全是灰色，菌褶象獐子的毛，有点大，因为它的颜色和菌褶象獐子，所以称它为“獐子菌”。 
+\xn 獐子菌生长在杉木林里，通体灰色，菌褶象獐子的毛，有点大，因为它的颜色和菌褶象獐子，所以称它为“獐子菌”。 
 \cf ca
 \cf tɤjmɤɣ
 \nqr
