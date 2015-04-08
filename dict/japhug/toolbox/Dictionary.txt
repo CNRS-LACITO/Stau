@@ -56543,8 +56543,23 @@ da.lie 打猎
 \xn 我喂了猪
 \xv rgali thɯ-χsu-t-a
 \xn 我喂了小奶牛
+\se sɯχsu
+\ps vt
+\ge nourrir avec
+\gn 用……喂
+\se ʑɣɤsɯχsu
+\ps vi
+\ng refl
+\ge se nourrir
+\gn 自己喂自己
 \sy ngu
 \dt 24/Aug/2012
+
+\lx _sɯχsu
+\cf χsu
+
+\lx _ʑɣɤsɯχsu
+\cf χsu
 
 \lx _χsɯ-skɤl
 \wav cl-XsWskAl
