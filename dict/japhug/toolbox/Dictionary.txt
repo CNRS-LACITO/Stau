@@ -70167,7 +70167,7 @@ l
 \wav ideo-tCGAt-b
 \ps idph.2
 \ge qui retient ses larmes
-\gn （眼泪）含在眼眶里，快要流出来
+\gn 形容（眼泪）含在眼眶里，快要流出来的样子
 \xv ɯ-qom tɕɣɤtɕɣɤt ʑo to-stu 
 \xn 他的眼泪含在眼眶里
 \dt 24/Dec/2011
