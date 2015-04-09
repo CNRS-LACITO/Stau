@@ -69636,7 +69636,7 @@ l
 \gn [火棘] 
 \hbf plante 
 \xv tɤ-ru nɯ si wuma mɤ-kɯ-mbro ci ŋu, ɯ-jwaʁ ɯ-qhu nɯ kɯ-pɣi tsa ŋu, ɯ-ru ɯ-rqhu nɯ li kɯ-pɣi tsa ŋu, kɯ-nɤrko ci ŋu, kɯ-rɤma ra ɣɯ nɯ-laʁdɯn ɯ-jɯ kɤ-nɯ-βzu sna. ɯ-mat nɯ thɯ-tɯt tɕe ɣɯrni, paʁ kɤ-sɯχsu sna. zgoku taʁ pa ʑo tu-ɬoʁ cha. 
-\xn 火棘是一种比较矮的树，叶子背面是灰色的，树皮也是灰色的，比较坚实，农民可以用来制造各种农具的把子。果实成熟时是红色的，可以喂猪。山上山下都可以生长。
+\xn 火棘是一种比较矮的树，叶子背面是灰色的，树皮也是灰色的，比较坚实，农民可以用来制造各种农具的把儿。果实成熟时是红色的，可以喂猪。山上山下都可以生长。
 \dt 29/Apr/2012
 
 \lx ^tɤ-rʑaβ
@@ -69667,7 +69667,7 @@ l
 \xv a-rʑaʁ mɯ́j-ɕe
 \xn 我很无聊
 \xv tɤ-rʑaʁ kɯmɤlɤxso a-mɤ-nɯ-ɕe ma nɤja
-\xn 不要浪费时间因为可惜
+\xn 不要浪费时间，因为可惜
 \xv tɤ-rʑaʁ nɯ pɤrmɤloŋ ɲɯ-ɕe mɤ-pe
 \xn 浪费时间是不好的
 \xv nɤ-rʑaʁ nɯ fse ʑo a-mɤ-nɯ-tɯ-nɯɕe
