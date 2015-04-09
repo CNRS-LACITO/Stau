@@ -70148,7 +70148,7 @@ l
 \se tɕɣɤrnɤtɕɣɤr
 \ps idph.3
 \xv tɤrmbja tɕɣɤrnɤtɕɣɤr ɲɯ-ɤsɯ-βzu
-\xn 形容闪电一道一道地闪过发光的
+\xn 形容闪电一道一道地闪过发光
 \se ɣɤtɕɣɤrtɕɣɤr
 \ps vi
 \ge hurler
