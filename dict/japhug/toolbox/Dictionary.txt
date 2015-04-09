@@ -70158,7 +70158,7 @@ l
 \xv paʁ ɲɯ-ɣɤwu ɲɯ-ɣɤtɕɣɤrtɕɣɤr
 \xn 猪在叫唤（要宰猪的时候）
 \xv tɤrmbja ɲɯ-ɣɤtɕɣɤrtɕɣɤr (ʑo ɲɯ-ɤsɯ-βzu)
-\xn 闪电一闪一闪地发光
+\xn 一道道电光闪过。
 \se sɤtɕɣɤrtɕɣɤr
 \ps vt
 \dt 13/Nov/2013
