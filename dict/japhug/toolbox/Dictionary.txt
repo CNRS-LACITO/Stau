@@ -69912,7 +69912,7 @@ l
 \wav n-tAtCW
 \ps n
 \ge garçon 
-\gn 男人 
+\gn 男孩，男子 
 \hbf 173 <2> 220
 \xv a-tɕɯ
 \xn 我的儿子
@@ -69938,7 +69938,7 @@ l
 \hbf plante 
 \et tʰaŋ
 \xv tɤtho nɯ zgo ku kɯ-mbro tsa tu-ɬoʁ ŋu, ɯ-jwaʁ nɯ taqaβ kɯ-fse kɯ-zri ŋu, ɯ-jwaʁ nɯ ɯ-rtaʁ ɣɯ ɯ-βri aʁɤndɯndɤt ku-ndzoʁ ŋu, aɣɯjwaʁ, ɯ-mdoʁ nɯ tɯrgi ɯ-jwaʁ mdoʁ cho naχtɕɯɣ, tɯ-xpa lɤ-skɤr ɯ-mdoʁ ɲɯ-nɤsci mɤ-cha. ɯ-ru jpum tsa aɣɯrtɯrtaʁ, ɯ-tɯ-ɤɣɯrtɯrtaʁ nɯ ɕɤɣ ʑo fse, ɯ-mat tu, tɯrgi laŋlaŋ cho naχtɕɯɣ ri, artɯm. tɤtho ɯ-ru nɯ li ɕɤɣ jamar ma kɤ-rɤɣdɤt mɤ-rtaʁ. ŋgɤjpɤn nɯ li kɯ-ʑru kɤ-sɯpa ŋu, ma qajɯ kɯ mɤ-ndze. tɤtho si nɯ wuma ʑo ɯ-tɤ-ndʑɯɣ dɤn tɕe wuma ʑo kɤ-βlɯ pe. 
-\xn 松树生长在高山上，叶子长得象针一样，比较长，叶子在枝桠上到处生长，很茂盛，颜色和杉树的颜色一样，一年四季不变色。树干比较粗，长出很多枝桠，长枝桠的方式很象柏树，有果实，象杉树的果实一样但是是球形的。松树的树干也只能锯成和柏树那么多的几段。用松树的木料制造的木板算是比较优质的，因为蛀虫不爱吃。因为松树的树脂多，所以很好烧。
+\xn 松树生长在高山上，叶子长得象针一样，比较长，叶子在枝桠上到处生长，很茂盛，颜色和杉树的颜色一样，一年四季不变色。树干比较粗，长出很多枝桠，枝桠生长的方式很像柏树，有果实，像杉树的果实一样但是是球形的。松树的树干也只能锯成和柏树那么多的几段。用松树的木料制造的木板算是比较优质的，因为蛀虫不爱咬。因为松树的树脂多，所以很好烧。
 \dt 11/Sep/2013
 
 \lx ^tɤ-tshɯɣ
