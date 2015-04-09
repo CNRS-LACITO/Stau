@@ -69442,7 +69442,7 @@ l
 \ge exprès, de force 
 \gn 故意，强迫 
 \xv kɤ-ndza a-ʁjɯz mɯ́j-ɣi ri ɯʑo kɯ tɤrkoz thɯ́-wɣ-sɯ-ndza-a 
-\xn 虽然我没饿，他强迫我吃 
+\xn 虽然我没饿，但他强迫我吃 
 \xv tɤrkoz tɤ-ndza-t-a pɯ-ra
 \xn 我被迫吃了
 \xv ɯʑo kɯ tɤrkoz ta-lɤt ɕti
