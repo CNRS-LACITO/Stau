@@ -69969,7 +69969,7 @@ l
 \wav n-tAtsxAm
 \ps n
 \ge huile animale 
-\gn 脂肪油 
+\gn 动物的油脂
 \hbf 445
 \dt 14/May/2012
 
