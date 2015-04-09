@@ -70142,13 +70142,13 @@ l
 \wav8 sAtCGartCGar
 \ps idph.2
 \ge rouge vif 
-\gn 红艳艳 
+\gn 形容(颜色)红艳艳
 \xv ɯ-ŋga ɲɯ-ɣɯrni tɕɣɤrtɕɣɤr ʑo 
 \xn 衣服颜色非常红
 \se tɕɣɤrnɤtɕɣɤr
 \ps idph.3
 \xv tɤrmbja tɕɣɤrnɤtɕɣɤr ɲɯ-ɤsɯ-βzu
-\xn 闪电一闪一闪地发光
+\xn 形容闪电一道一道地闪过发光的
 \se ɣɤtɕɣɤrtɕɣɤr
 \ps vi
 \ge hurler
