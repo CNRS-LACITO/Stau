@@ -70179,7 +70179,7 @@ l
 \gn 花椒 
 \hbf plante 
 \xv tɕɣom nɯ si mɤ-kɯ-mbro ci ŋu, ɯ-mdzu tu, ɯ-ru ɯ-taʁ ɯ-mdzu rkɯn, ɯ-rtaʁ taʁ ɯ-mdzu dɤn, tɕɣom nɯ sɯŋgɯ tɕɣom ci tu, kha rkɯ pɯ-kɤ-nɯ-ji tɕɣom ci tu, pɯ-kɤ-nɯji tɕɣom nɯ tɕɣomte rmi, sɯŋgɯ tɕɣom nɯ tɕɣomzaʁ rmi, tɕɣomzaʁ ɣɯ ɯ-mat ndɯβ, tɕɣomte ɣɯ ɯ-mat jndʐɤz, thɯ-tɯt tɕe, chɯ-ɣɯrni ŋu, ɯ-mat ɯ-pɕi zɯ ɯ-kri tu, tɕe kú-wɣ-rtoʁ tɕe nɤmbju ʑo. ɲɯ́-wɣ-phɯt tɕe, ɯ-kri nɯ tɯ-mɲaʁ ŋgɯ ku-ɕe tɕe toʁde wuma ʑo ɕɯmŋɤm. tú-wɣ-ndza tɕe mɤrtsaβ tɕe ɣɤzɯβzɯβ ʑo, ɯ-dɯχɯn mɯm. ndzɤtshi ɯ-ŋgɯ kú-wɣ-nɯ-lɤt tɕe mɯm. 
-\xn 花椒是矮小的树木，有刺，树干上刺不多，枝桠上刺多，有野生花椒，也有家边自己种的。自己种的叫{tɕɣomte}（真花椒），野生的叫{tɕɣomzaʁ}。野花椒的果实小一些，家花椒的果实大一些。成熟了就变红，果实外面有一层油，看起来有光泽。摘花椒的时候，油进了眼睛，暂时很痛。吃起来是麻的，很香。放在食物里很香。
+\xn 花椒是一种矮小的树木，有刺，树干上刺不多，枝桠上刺多，有野生花椒，也有家边自己种的。自己种的叫{tɕɣomte}（真花椒），野生的叫{tɕɣomzaʁ}。野花椒的果实小一些，家花椒的果实大一些。成熟了就变红，果实外面有一层油，看起来有光泽。摘花椒的时候，油进了眼睛，会痛一阵子。吃起来是麻的，很香。放在食物里很香。
 \cf tɕɣomte
 \cf tɕɣomzaʁ
 \cf nɯtɕɣom
