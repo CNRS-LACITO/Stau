@@ -70264,7 +70264,7 @@ l
 \wav ideo-tChGaR
 \ps idph.2
 \ge propre, sans dommage 
-\gn 完整、干净、没有受到损伤
+\gn 形容完整、干净的样子，没有受到损伤
 \xv tɕhɣaʁtɕhɣaʁ ɲɤ-χtɕi
 \xn 他洗得很干净了
 \xv si tɕhɣaʁtɕhɣaʁ lo-ftɕhur
