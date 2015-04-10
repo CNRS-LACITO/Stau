@@ -68702,7 +68702,7 @@ l
 \wav n-tAlAndZu
 \ps n
 \ge bâton à baratter
-\gn 搅奶棍
+\gn 搅奶的棍子
 \dt 10/May/2012
 
 \lx ^tɤlɤrpjɯ
