@@ -68782,7 +68782,7 @@ l
 \wav n-tAmbe
 \ps np
 \ge habit rapiécé 
-\gn 烂衣服
+\gn 烂衣服(背缝缝补补很多次的破旧衣服)
 \dt 25/Aug/2012
 
 \lx ^tɤ-mbrɯ
