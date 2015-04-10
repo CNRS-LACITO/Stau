@@ -23146,15 +23146,7 @@
 \xn 他把信改了改
 \xv kɤ-nɯɣi ɲɤ-βzɟɯr
 \xn 他更改了回来的计划
-\se ʑɣɤβzɟɯr
-\ps vi
-\ng refl
-\ge se transformer
-\gn 转变
 \dt 21/Sep/2013
-
-\lx _ʑɣɤβzɟɯr
-\cf βzɟɯr
 
 \lx _βzu
 \wav vt-Bzu
@@ -68937,7 +68929,7 @@ l
 \ge nœudp 
 \gn 结 
 \xv tɤ-mtɯ tɤ-lat-a 
-\xn 我打了结
+\xn 我打了(个)结
 \un 沙尔宗方言
 \xv ɯ-ku ɯ-mtɯ (= ɯ-kɤχcɤl)
 \xn 他头顶上
