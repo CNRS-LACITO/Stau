@@ -68627,7 +68627,7 @@ l
 \gn 头风病 
 \hbf maladie 
 \xv tɤ-kɤzbɣaʁ nɯ jɯsŋi soz tɕe a-tɤ-ʑe tɕe, fsosoz tɕe ɯ-tɯ-mŋɤm ɲɯ-ʑi ŋu 
-\xn 头风病，如果今天早上得了这个病，要到明天早上才好起来。 
+\xn 头风病，如果今天早上得了这个病，要到明天早上才能好起来。 
 \nqr
 \dt 10/May/2012
 
