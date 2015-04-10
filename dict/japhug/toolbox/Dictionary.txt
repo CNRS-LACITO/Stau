@@ -1780,8 +1780,7 @@
 \ps vi
 \ge y avoir, exister (sensoriel)
 \gn 有（亲见）
-\pdl 2sg
-\pdv ɣɤtɤʑu
+\2s ɣɤtɤʑu
 \xv nɯ ma mɤ-kɯ-pe ɯ-ɣɤ́ʑu?
 \xn 还有没有错误？
 \cf maŋe
@@ -4226,8 +4225,7 @@
 \ps vi 
 \ge ne pas avoir (sensoriel)
 \gn 没有（亲验）
-\pdl 2sg
-\pdv mataŋe
+\2s mataŋe
 \hbf 1519 
 \xv @shangge @xingqi @dianhua ɯ-kɯ-lɤt mataŋe
 \xn 你上个星期没有打电话来
@@ -30264,7 +30262,7 @@ da.lie 打猎
 \xn 撒了水
 \ge appliquer
 \gn 涂
-\xv tɤmthɯm ɯ-taʁ tsha to-lɤt (=to-mar)
+\xv tɤ-mthɯm ɯ-taʁ tsha to-lɤt (=to-mar)
 \xn 把盐擦在肉上（腌制腊肉的方法）
 \sy mar
 \ge utiliser
@@ -30276,7 +30274,7 @@ da.lie 打猎
 \xv tɤ-mtsɯ to-lɤt 
 \xn 他扣了扣子
 \xv tɤ-mtɯ ko-lɤt, cho-lɤt
-\xn 他打了结
+\xn 他打了（个）结
 \xv mbro ɯ-jme nɯ tɤ-mtɯ χsɯm tha-lɤt
 \xn 在马尾巴上打了三个结（三姐妹386）
 \xv taqaβ to-lɤt
@@ -68937,7 +68935,7 @@ l
 \ge nœudp 
 \gn 结 
 \xv tɤ-mtɯ tɤ-lat-a 
-\xn 我打了结
+\xn 我打了（个）结
 \un 沙尔宗方言
 \xv ɯ-ku ɯ-mtɯ (= ɯ-kɤχcɤl)
 \xn 他头顶上
