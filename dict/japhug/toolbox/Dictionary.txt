@@ -68830,7 +68830,7 @@ l
 \gn 大蓟 
 \hbf plante 
 \xv tɤmdzɤrgi nɯ sɯjno ci ŋu, ɯ-zrɤm wɣrum khro mɤ-wxti, nɯɕɯmɯma ʑo kɤ-phɯt khɯ, ɯ-jwaʁ nɯ thoʁ pjɯ-tɯɣ ʑo ŋu, ɯ-jwaʁ ɯ-mdzu wuma ʑo dɤn, ɯ-jwaʁ ɯ-βzɯr ɣɯ ɯ-mdzu nɯ mɤʑɯ ʑo mtɕoʁ cho rɲɟi. ɯ-χcɤl ɯ-ru tu-ɬoʁ tɕe, ɯ-βzɯr tu. ɯ-ru taʁ nɯ ra kɯnɤ ɯ-mdzu tu. ɯ-ru tɤ-zri tsa tɕe, li ɯ-jwaʁ ɲɯ-ɬoʁ tɕe, ɯ-mɯntoʁ ɲɯ-lɤt ŋu. ɯ-mɯntoʁ ʁmɤrsmɯɣ tsa ŋu, ɯ-mɯntoʁ pɯ-ŋgra tɕe, ɯ-rɣi ɲɯ-βze tɕe, ɯ-rɣi ɯ-ku zɯ li ɯ-rme kɯ-fse tu, qale kɯ ju-nɯtsɯm cha. tɤmdzɤrgi nɯ ɲɯ́-wɣ-phɯt tɕe, ɯ-di ci tu. 
-\xn 大蓟是一种植物，根是白色的，长得不大，一下子就可以拔掉，叶子贴住地面，叶子上长满刺，叶子边的刺（比叶面的刺）长和尖。中间长茎，有棱角。茎上也长有刺。茎长高后，又长叶子，开花。花是紫色的，花凋谢后，就结种子，种子上也长有象毛的东西，可以被风吹走。扯大蓟时会发出臭味。
+\xn 大蓟是一种植物，根是白色的，长得不大，一下子就可以拔掉，叶子贴在地面上，叶子上长满刺，叶子边的刺（比叶面的刺）长和尖。中间长茎，有棱角。茎上也长有刺。茎长高后，又长叶子，开花。花是紫色的，花凋谢后，就结种子，种子上也长有细毛状的东西，可以被风吹走。扯大蓟时会发出臭味。
 \dt 10/May/2012
 
 \lx ^tɤ-mdzu
