@@ -69132,7 +69132,7 @@ l
 \gn 猪皮 
 \hbf animal2
 \xv paʁ ɯ-ŋkɯ ɲɯ-jaʁ
-\xn 猪的皮子很厚
+\xn 猪的皮很厚
 \dt 15/May/2012
 
 \lx ^tɤɴqhi
