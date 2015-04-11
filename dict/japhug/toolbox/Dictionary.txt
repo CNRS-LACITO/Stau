@@ -68191,7 +68191,7 @@ l
 \hbf 1137 
 \et dad.pa
 \xv tatpa tɤ-ta-t-a
-\xn 我崇拜了他
+\xn 我崇拜(了)他
 \dt 22/Feb/2014
 
 \lx ^taχpa
