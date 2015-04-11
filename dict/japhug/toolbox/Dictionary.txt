@@ -9060,7 +9060,7 @@
 \cf tɤ-rɟit
 \dt 25/Mar/2014
 
-\lx tɤrka
+\lx tɤrka¹
 \ps n
 \ge mule 
 \gn 骡子 
@@ -68383,7 +68383,7 @@ l
 \xv kɯki qala ɯ-fsa tɤ-lat-a
 \xn 这是我给兔子布下的陷阱
 \xv kɯki aʑo a-tɤ-fsa ŋu
-\xn 着是我的圈套
+\xn 这是我的圈套
 \dt 14/May/2014
 
 \lx ^tɤfsɯr
