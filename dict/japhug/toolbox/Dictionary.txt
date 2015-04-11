@@ -68201,7 +68201,7 @@ l
 \ge récolte d'un an 
 \gn 一年的庄稼 
 \xv ɣɯjpa taχpa ɯ-ɲɯ-pe ? 
-\xn 今天庄稼好不好？ 
+\xn 今年收成好不好？ 
 \xv taχpa ɲɯ-nɤkɤro, ɲɯ-pe ɕti
 \xn 庄稼还可以
 \dt 12/May/2012
