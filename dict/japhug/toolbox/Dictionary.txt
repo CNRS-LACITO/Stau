@@ -68108,11 +68108,11 @@ l
 \wav n-taRmbra
 \ps n
 \ge pleurer en s'agitant de toutes ses forces (enfant), s'élancer en sautant (cheval) 
-\gn 哭得大吵大闹（小孩子）、跳过去（马） 
+\gn 哭得大吵大闹（小孩子）, 跳过去（马） 
 \un 只能和{lɤt, (nɯ-)}连用
 \hbf *tɯxtsa.99 
 \xv tɤ-pɤtso tɤ-wu ɯ-tɯ-χɕu kɯ taʁmbra ʑo ɲɯ-lɤt ɲɯ-ɕti 
-\xn 小孩哭乱叫乱吼
+\xn 小孩哭,乱叫乱吼
 \dt 19/Feb/2014
 
 \lx ^taʁndo
