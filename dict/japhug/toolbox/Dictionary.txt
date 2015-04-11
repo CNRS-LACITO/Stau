@@ -68165,7 +68165,7 @@ l
 \wav n-taRrWm
 \ps n
 \ge endroit frais à l'ombre, reflet 
-\gn 阴凉的地方、影子、倒影 
+\gn 阴凉的地方, 影子、倒影 
 \xv tɯ-ci ɯ-ŋgɯ a-ʁrɯm pjɤ-ntɕhɤz
 \xn 水中有我的倒影
 \dt 05/May/2012
