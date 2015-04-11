@@ -68381,7 +68381,7 @@ l
 \gn 圈套、陷阱 
 \hbf 638
 \xv kɯki qala ɯ-fsa tɤ-lat-a
-\xn 这是我给兔子布下的圈套
+\xn 这是我给兔子布下的陷阱
 \xv kɯki aʑo a-tɤ-fsa ŋu
 \xn 着是我的圈套
 \dt 14/May/2014
