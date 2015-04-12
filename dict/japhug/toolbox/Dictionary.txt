@@ -67991,7 +67991,7 @@ l
 \wav ideo-sxXi-c
 \ps idph.2
 \ge haletant 
-\gn 喘吁吁 
+\gn 形容气喘吁吁的样子 
 \xv jiɕqha nɯ ɲɯ-nɯtɕhomba tɕe, ɯ-rqo ʂχinɤʂχi ɲɤ-stu
 \xn 他感冒了，气喘吁吁的
 \dt 26/Jan/2015
