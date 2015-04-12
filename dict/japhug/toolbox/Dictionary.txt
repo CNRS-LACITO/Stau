@@ -67905,9 +67905,9 @@ l
 \wav n-sWtChaR
 \ps n
 \ge se rétrécir (bois)
-\gn 缩小（木头）
+\gn 缩小，(木头)收缩
 \xv sɯtɕhaʁ ko-ɕe
-\xn 木头缩小了
+\xn 木头收缩了
 \cf si¹
 \cf tɕhaʁ
 \dt 05/Nov/2011
