@@ -68003,7 +68003,7 @@ l
 \wav8 sxXWwWsxXawi2
 \ps idph.2
 \ge ayant de grosses narines 
-\gn 鼻孔很大 
+\gn 形容鼻孔很大 
 \xv mbro ɯ-ɕna ʂχɯʂχi to-stu, tɕe ndʐoʁ ɯβrɤ-ŋu ma
 \xn 马把鼻孔张大了，是不是要调皮了
 \se ʂχɯwɯʂχawi
