@@ -67955,9 +67955,9 @@ l
 \wav ideo-sxYoR-b
 \ps idph.2
 \ge svelte 
-\gn 身材苗条、细高
+\gn 形容身材苗条、瘦高瘦高的模样
 \xv tɤ-pɤtso ɯ-phoŋbu ʂɲoʁʂɲoʁ ɲɯ-pa
-\xn 小孩子身体细高细高的
+\xn 小孩子瘦高瘦高的。
 \dt 07/Nov/2011
 
 \lx $ʂɯɣʂɯɣ
