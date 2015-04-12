@@ -67940,7 +67940,7 @@ l
 \wav ideo-sxGAl
 \ps idph.2
 \ge transparent et brillant comme la rosée du matin 
-\gn 象草叶上滚动的露珠一样透明发亮 
+\gn 形容像草叶上滚动的露珠一样透明发亮的样子 
 \xv tɤ-rɣe ʂɣɤlʂɣɤl ci ɲɯ-ŋu
 \xn 珍珠透明发亮
 \xv tɤ-tsrɯ ɯ-taʁ tɤ-ʑri ʂɣɤlʂɣɤl ɲɯ-pa
