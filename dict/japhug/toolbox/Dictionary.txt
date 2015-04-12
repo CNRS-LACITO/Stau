@@ -67817,7 +67817,7 @@ l
 \wav ideo-sWN-b
 \ps idph.2
 \ge blanc, pur, propre 
-\gn 又白又清洁 
+\gn 形容又白又清洁的样子
 \xv ɯ-khɯtsa sɯŋsɯŋ to-nɯntsɯɣ
 \xn 他把碗舔得很干净了
 \xv sɯŋsɯŋ ʑo to-ɕkɯt
