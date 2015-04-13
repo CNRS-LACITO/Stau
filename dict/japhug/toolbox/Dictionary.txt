@@ -67473,9 +67473,9 @@ da.lie 打猎
 \wav ideo-sthoN-e
 \ps idph.2
 \ge être déformé après avoir été trop rempli
-\gn 口袋里的东西装得很满，变形了（指软的东西，如口袋、枕头棉花等等）
+\gn 形容口袋里的东西装得很满，变形了（指软的东西，如口袋、枕头棉花等等）
 \xv tɤ-mkɯm ɯ-rku mɯ-chɤ-βdi, sthoŋsthoŋ ʑo ɲɯ-pa
-\xn 枕头没有装好，显得很满，不平整（显得很鼓鼓的）
+\xn 枕头没有塞好，显得很满，不平整（显得很鼓鼓的）
 \se sthoŋ
 \ps idph.1
 \xv tɯmbri kɯ pjɤ-kɤsɯxtɕɤr-ci ri ɲɤ-mbrɤt sthoŋ ʑo to-ti
@@ -67483,16 +67483,16 @@ da.lie 打猎
 \se sthoŋnɤsthoŋ
 \ps idph.3
 \xv ɯ-skhrɯ mɯ́j-βdi tɕe, sthoŋnɤsthoŋ ʑo ɲɯ-ŋke
-\xn 她怀孕了，走路显得很胀
+\xn 她怀孕了，走路显得很臃肿
 \se sthoŋnɤloŋ
 \xv ɯ-mbrɯ ɯ-tɯ-ŋgɯ kɯ sthoŋnɤloŋ ʑo ɲɯ-rɤma
 \xn 他一边发脾气一边做事的样子
 \se lɤmɤsthoŋ
 \xv lɤmɤtshoŋ ci ʑo tu
-\xn 他身材又胖又大
+\xn 他膀大腰粗的
 \se phɯsthoŋ
 \xv ɯ-re phɯsthoŋ ʑo ɲɤ-ɕlɯɣ
-\xn 他失身突然笑出来
+\xn 他失声突然笑出来
 \dt 25/Oct/2013
 
 \lx ^stonka
