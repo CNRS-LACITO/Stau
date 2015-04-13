@@ -67572,7 +67572,7 @@ l
 \wav vi-GAstWrlWr
 \ps idph.2
 \ge objet ronds et petits
-\gn 圆形，很细小的东西（如珠子、豌豆等）
+\gn 形容圆形，很细小的东西（如珠子、豌豆等）
 \se ɣɤstɯrlɯr
 \ps vi
 \ge sautiller, rebondir (petits objets ronds)
