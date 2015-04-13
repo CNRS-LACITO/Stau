@@ -67370,10 +67370,10 @@ da.lie 打猎
 \wav n-spWrtWm
 \ps n
 \ge une espèce de champignon 
-\gn 一种菌子 
+\gn 一种菌
 \hbf champignon 
 \xv spɯrtɯm nɯ tɯrgi ɯ-ŋgɯ tu-ɬoʁ ŋu, ɯ-mdoʁ nɯ kɯ-qandʐi ŋu, ɯ-tshɯɣa nɯ tɯrgi grɯβgrɯβ cho naχtɕɯɣ, kɯ-rko tsa ŋu ɯ-ru nɯ mɤ-ndoʁ, kɤ-ndza sna 
-\xn {spɯrtɯm} 长在杉木林里，颜色是乌色的，形状和杉木菌一样，比较硬，干不脆，可以吃。 
+\xn {spɯrtɯm} 长在杉木林里，颜色是浅黑色，形状和杉木菌一样，比较硬，干而不脆，可以吃。 
 \nqr
 \dt 14/May/2013
 
