@@ -67637,10 +67637,10 @@ l
 \wav n-sWjnombrombro
 \ps n
 \ge phasme 
-\gn 树支虫[秤杆虫] 
+\gn 树枝虫，竹节虫[秤杆虫] 
 \hbf animal 
 \xv sɯjno mbro mbro nɯ qajɯ ci ŋu, ɯ-phoŋbu nɯ qaʑmbri kɤ-rtɯ-rtaʁ fse, ɯ-mdoʁ ldʑaŋkɯ ci tu, kɯ-pɣi ci tu, kɯ-pɣi nɯ kɯ-jpum. ftɕar tɕe kɤ-mto tu ma qartsɯ tɕe kɤ-mto me. 
-\xn 秤杆虫是一种虫子，身子象藤子树的枝桠。有一种是绿色的，还有一种是灰色的，灰色的那个粗壮一些。夏天常见，冬天看不到。 
+\xn 秤杆虫是一种虫子，身子象藤子树的枝桠。有一种是绿色的，还有一种是灰色的，灰色的那种粗壮一些。夏天常见，冬天看不到。 
 \nqr
 \dt 05/May/2012
 
