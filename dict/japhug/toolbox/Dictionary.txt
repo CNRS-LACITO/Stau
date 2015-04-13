@@ -67538,7 +67538,7 @@ l
 \gn 植物的一种 
 \hbf plante 
 \xv stoʁtsa nɯ li sɯjno ci ŋu, stɤmku cho tɯji ɯ-rkɯ ra tu-ɬoʁ ŋu, mɤ-mbro. ɯ-ru nɯ kɯ-ngɯ-ngɯt ŋu, kɯ-pɣi tsa ŋu, ɯ-jwaʁ ŋɯ arŋi, mba ri nɤrko, ɯ-mɯntoʁ kɯ-dɤn ʑo tɯtɯrca kɯ-ɤʑɯrja ɲɯ-lɤt ŋu. ɯ-mdoʁ aɣɯrnɯɕɯr. ɯ-tshɯɣa stoʁ ɯ-mɯntoʁ fse. ɯ-cɤβ chɯ-βze ŋu, thɯ-tɯt tɕe, ɯ-rdoʁ nɯ rko, tɕe stoʁtsa rmi tɕe, stoʁ ɯ-ftsa kɤ-ti ɲɯ-ŋu. fsapaʁ ra kɤ-ndza rga-nɯ, tɯrme kɤ-ndza mɤ-sna. 
-\xn {stoʁtsa}是一种草，生长在草地和地边，长得不高。茎长得很结实，是灰色的，叶子是绿色的，薄而结实。花在一起排列着，是淡红色的，形状象胡豆的花一样。结的是荚果，成熟后，种子变硬，所以叫作 {stoʁtsa}，就是“胡豆的侄子”的意思。牲畜喜欢吃，人不能吃。
+\xn {stoʁtsa}是一种草，生长在草地和田野边，长得不高。茎长得很结实，是灰色的，叶子是绿色的，薄而结实。花在一起排列着，是淡红色的，形状象胡豆的花一样。结的是荚果，成熟后，种子变硬，所以叫作 {stoʁtsa}，就是“胡豆粒粒儿”的意思。牲畜喜欢吃，人不能吃。
 \dt 02/Oct/2013
 
 \lx ^stukɤr
