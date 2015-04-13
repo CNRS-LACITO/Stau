@@ -67396,7 +67396,7 @@ da.lie 打猎
 \wav n-srWndAr
 \ps n
 \ge acné 
-\gn 青春疹 
+\gn 青春疹
 \hbf maladie
 \xv nɤ-srɯndɤr ɲɤ-ɬoʁ
 \xn 你长了青春痘
@@ -67428,7 +67428,7 @@ da.lie 打猎
 \hbf plante 
 \xv staʁpɯrɟɤskhi nɯ sɯjno kɯ-ʁjɤr ɯ-ŋgɯ tu-ɬoʁ ŋu, ɯ-jwaʁ kɯ-ɤrtɯ-rtɤm kɯ-xtɕɯ-xtɕi ŋu, ɯ-rme kɯ-fse tu, jaʁ tsa. ɯ-ru kɯ-xtɯ-xtɯt ma me, ɯ-mɯntoʁ staʁpɯ mɯntoʁ fse tɕe kɯ-ɣɯrni ɲɯ-lɤt ŋu. ɯ-mat nɯ ɯ-cɤβ chɯ-βze ŋu. fsapaʁ ra kɯ tu-ndza-nɯ sna, tɯrme kɤ-ndza mɤ-sna. 
 \xn {staʁpɯ rɟɤskhi} 生长茂盛的草丛里，叶子圆圆的、小小的，上面有毛。
-叶子有点厚。只有短短的茎，花象豌豆一样，是红色的，结的是荚果。
+叶子有点厚。只有短短的茎，花像豌豆的一样，是红色的，结的是荚果。
 牲畜可以吃，人不能吃。
 \dt 05/May/2012
 
