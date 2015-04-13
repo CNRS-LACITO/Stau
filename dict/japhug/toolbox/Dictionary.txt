@@ -67436,15 +67436,15 @@ da.lie 打猎
 \wav vi-GAstAjlAj
 \ps idph.2
 \ge petit et trapu
-\gn 又矮又圆 
+\gn 形容又矮又圆的样子 
 \hbf *qachɣa.168
 \se ɣɤstɤjlɤj
 \ps vi
 \ge qui rembondit, qui saute
-\gn 弹来弹去、跳来跳去（圆的、小的）
+\gn 弹来弹去、跳来跳去（圆的、小的东西）
 \un {ɣɤstɯlɯr}、{ɣɤstɤlɤj}和{ɣɤstalaŋ}都表示圆形的东西在跳来跳去，但是大小不同，{stɯrstɯr}用于细小的东西（珠子等），{stɤjstɤj}用于小孩子、小动物、皮球，{staŋstaŋ}用于大石头、大的动物
 \xv @piqiu ɲɯ-ɣɤstɤjlɤj ntsɯ
-\xn 皮球在弹来弹去
+\xn 皮球弹来弹去
 \sy stɯrstɯr
 \sy zdɯzdɯr
 \sy ɣɤstaŋlaŋ
