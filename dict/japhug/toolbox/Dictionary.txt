@@ -67396,7 +67396,7 @@ da.lie 打猎
 \wav n-srWndAr
 \ps n
 \ge acné 
-\gn 青春疹
+\gn 青春痘
 \hbf maladie
 \xv nɤ-srɯndɤr ɲɤ-ɬoʁ
 \xn 你长了青春痘
