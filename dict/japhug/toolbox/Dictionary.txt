@@ -67609,12 +67609,12 @@ l
 \wav8 sWBsWB-def
 \ps idph.2
 \ge recouvert de poils fins 
-\gn 毛茸茸的样子 
+\gn 形容毛茸茸的样子 
 \xv ɯ-jaʁ sɯβsɯβ ʑo ɲɯ-pa
 \xn 他手上长满了毛
 \se sɯβnɤsɯβ
 \ge douleur lancinante
-\gn 一阵一阵地痛 
+\gn 形容一阵一阵地痛 
 \xv a-tɯ-ɣmaz sɯβnɤsɯβ ɲɯ-mŋɤm
 \xn 我的伤口一阵一阵地痛
 \se ɣɤsɯβsɯβ
