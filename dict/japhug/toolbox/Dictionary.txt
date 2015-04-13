@@ -67667,7 +67667,7 @@ l
 \gn 啄木鸟 
 \hbf oiseau 
 \xv sɯkɯnthoʁ nɯ pɣa ci ŋu, qapɣɤmtɯmtɯ sɤznɤ wxti, ɯ-mtsioʁ kɯ-rɲɟɯ-rɲɟi kɤ-mtɕɯ-mtɕoʁ ŋu tɕe, si ɯ-ru ku-sɯspoʁ tɕe, ɯ-ŋgɯ qajɯ ɲɯ-nɯ-tɕɤt cha, tɕe si ɯ-ŋgɯ qajɯ nɯ ʁɟa ʑo tu-ndze ŋu, sɯkɯnthoʁ ɯ-βri kɯ-ɣɯrni tu, kɯ-ɲaʁ tu, kɯ-qarŋe tu, kɯ-wɣrum tu nɯ ra akhra tɕe wuma ʑo mpɕɤr. ɯ-jme rɲɟi tsa. aʁɤndɯndɤt ʑo ju-ɕe cha. 
-\xn 啄木鸟是一种鸟，比戴胜大，嘴长而尖，在树干上打洞，自己能够取出虫子，专门吃树干里的虫子。啄木鸟身子上有红色、黑色、黄色、白色等颜色的花纹，非常美丽。尾巴有点长。到处都能去。
+\xn 啄木鸟是一种鸟，比戴胜大，嘴长而尖，在树干上打洞，自己能够啄出虫子，专门吃树干里的虫子。啄木鸟身子上有红、黑、黄、白等颜色的花纹，非常美丽。尾巴有点长。到处都能去。
 \dt 05/May/2012
 
 \lx ^sɯmat
