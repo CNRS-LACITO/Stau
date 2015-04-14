@@ -67011,7 +67011,7 @@ da.lie 打猎
 \ge lumière du feu
 \gn 火的热光
 \xv smɯɣot ɲɯ-mpja
-\xn 火光的热的
+\xn 火光发热
 \cf smi²
 \dt 29/Dec/2011
 
