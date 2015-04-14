@@ -66928,7 +66928,7 @@ da.lie 打猎
 \wav ideo-sloN-c
 \ps idph.3
 \ge vagues déferlantes 
-\gn 波浪汹涌的样子 
+\gn 形容波浪汹涌的样子 
 \xv tɯ-ci chɤ-wxti tɕe sloŋnɤsloŋ ɲɯ-ʑɣɤstu
 \xn 河水暴涨，波浪汹涌
 \dt 17/Dec/2011
