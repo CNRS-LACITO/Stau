@@ -67322,10 +67322,10 @@ da.lie 打猎
 \wav n-spoNspoz
 \ps n
 \ge une plante 
-\gn 植物的一种 
+\gn 一种植物 
 \hbf plante 
 \xv spoŋspoz nɯ sɤtɕha kɯ-mbɤr tsa pɕoʁ tu-ɬoʁ ɲɯ-ŋu, ɯ-zrɤm ɲɯ-dɤn, ɲɯ-zri, ɯ-ku ɯ-jwaʁ nɯ ɲɯ-pɣi tɕe ɯ-rme kɯ-fse ɣɤʑu, ɯ-jwaʁ nɯ ɯ-qa ri ɲɤ-ɬoʁ tɕe ɯ-thoʁ pjɤ-ɲɟoʁ kɯ-fse ɲɯ-ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-kɤχcɤl tɕe ɲɯ-rɯmɯntoʁ ɲɯ-ŋu. ɯ-mɯntoʁ χanɯni ɲɯ-ɣɯrni, ɯ-mɯntoʁ ɯ-rqhu kɤntɕhɯ-tɤlɤβ ɣɤʑu, ɯ-mɯntoʁ tɯ-rdoʁ ma maŋe, ɯ-rɣi ɣɤʑu ri tu-ɬoʁ mɯ́j-cha, ɯ-zrɤm ɯ-taʁ ɲɯ-mphɤl ɲɯ-ɕti. tɯ-xpa tu-ɬoʁ tɕe pjɯ-khrɯ ɲɯ-ɕti, ki sɯjno ki ɯ-di wuma ɲɯ-mɯm, smɤn ɲɯ-sna khi. 
-\xn {spoŋspoz} 生长在海拔低的地方（半山以下），根长得又多又长，苗、叶子的是灰色的，有毛。叶子长在根部上，好象贴住地面，茎长出来以后，顶端上开花。花有点红，花萼有几层，只有一朵花，虽然有种子但是不能发芽，是靠它的根繁殖的。长了一年就会干枯。这种草香味很浓，据说可以入药。
+\xn {spoŋspoz} 生长在海拔低的地方（半山以下），根又多又长，苗、叶子的是灰色的，有毛。叶子长在根部上，好像贴在地面上，茎长出来以后，顶端上开花。花有点红，花萼有几层，只有一朵花，虽然有种子但是不能发芽，是靠它的根繁殖的。长了一年就会干枯。这种草香味很浓，据说可以入药。
 \dt 02/May/2012
 
 \lx ^sporɟɤlɯla
