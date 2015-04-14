@@ -67019,7 +67019,7 @@ da.lie 打猎
 \wav ideo-smWG-b
 \ps idph.2
 \ge vert vif 
-\gn 绿油油 
+\gn 形容绿油油的色泽 
 \hbf *kɯsɤr.163
 \xv tɯji nɯ smɯɣsmɯɣ ɲɯ-pa
 \xn 田是绿油油的
