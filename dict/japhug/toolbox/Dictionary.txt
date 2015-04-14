@@ -67116,7 +67116,7 @@ da.lie 打猎
 \wav n-sYAt
 \ps n
 \ge harnais 
-\gn 后鞧 
+\gn 鞍辔
 \hbf 595 
 \et rmed
 \dt 02/May/2012
