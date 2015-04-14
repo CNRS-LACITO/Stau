@@ -67132,7 +67132,7 @@ da.lie 打猎
 \lx $sɲɯɣ
 \ps idph.1
 \ge douleur lancinante
-\gn 痛得钻心
+\gn 形容痛得钻心
 \xv ɯ-tɯ-mŋɤm kɯ sɲɯɣ ʑo ɲɯ-ti
 \xn 他一下子就痛得钻心
 \se sɲɯɣnɤsɲɯɣ
@@ -67192,7 +67192,7 @@ da.lie 打猎
 \wav n-sNarW
 \ps n
 \ge avant de la selle 
-\gn 前鞍桥 
+\gn 前鞍桥
 \et sŋa.ru
 \dt 29/Apr/2012
 
