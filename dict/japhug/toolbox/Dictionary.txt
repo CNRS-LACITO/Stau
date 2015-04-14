@@ -66890,7 +66890,7 @@ da.lie 打猎
 \ge en plusieurs coups
 \gn 几下
 \xv ta-ma slaʁnɤslaʁ ɲɯ-ɤz-nɤma
-\xn 他工作做几下就做完
+\xn 他几下子就做完了工作
 \se phɯslaʁ
 \ps idph.5
 \xv pɣa phɯslaʁ ʑo thɯ-nɯqambɯmbjom
