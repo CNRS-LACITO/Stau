@@ -66987,7 +66987,7 @@ da.lie 打猎
 \gn 火 
 \hbf 18 
 \xv tɕetha mɤʑɯ tɯtshot kɯmŋu-skɤrma tɕe kɤ-lɤt ma, ɤj smi ci tu-βze-a ntshi ma ɲɯ-mɯɕtaʁ wo
-\xn 你过五分钟再打电话，我先烧一点火因为很冷
+\xn 你过五分钟再打电话，我先烧一点火,因为很冷
 \dt 29/Apr/2012
 
 \lx ^smɯ
