@@ -67264,7 +67264,7 @@ da.lie 打猎
 \wav adv-soskWsku
 \ps adv
 \ge tous les matins 
-\gn 天天早上 
+\gn 每天早上 
 \hbf 925
 \dt 02/May/2012
 
