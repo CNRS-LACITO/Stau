@@ -67335,7 +67335,7 @@ da.lie 打猎
 \gn 玻璃蛇 
 \hbf animal 
 \xv sporɟɤlɯla nɯ qapri kɯ-fse ci ŋu ri kɯ-xtɯt kɯ-xtshɯm ci ŋu. ɯ-βri ɯ-mdoʁ nɯ ra qapri fsɯ-fse ʑo fse, rdɤstaʁ rchɤβ, praʁ rchɤβ ra ku-rɤʑi ŋu. ɯ-βri nɯ mbju ʑo ku-sɤmtsɯɣ kɤ-mtshɤm me ri ɯ-kɯ-nɯɣmu wuma dɤn. kɯ-sɤmtshɤr ci tu tɕe, tɯ-jaχpa ɣɯ ɯ-βzɯr "hu" tu-kɯ-ti tɕe ɯ-taʁ pjɯ́-wɣ-lɤt tɕe, tɯ-jaʁ pjɯ-tɯɣ ʑo ma mɤ-ra ma tɕe ɲɯ-mbrɤt ɕti. nɯ-mbrɤt tɕe, ɯ-rtshɯm nɯ pɤjkhu tu-nɤrɟɯrɟɯɣ ɕti. 
-\xn 玻璃蛇象蛇一样，但比较短，也比较细。身子的颜色和蛇完全相同，生活石头缝和岩石缝里。身子有光泽。没有听说过咬人，但很多人怕它。奇怪的是，人们把手掌的边缘吹一下，然后打在它身上，只要轻轻地碰一下它就会断裂。断裂后的那一节还在继续奔跑。 
+\xn 玻璃蛇像蛇一样，但比较短，也比较细。身子的颜色和蛇完全相同，生活石头缝和岩石缝里。身体有光泽。没有听说过咬人，但很多人怕它。奇怪的是，人们把手掌的边缘吹一下，然后打在它身上，只要轻轻地碰一下它就会断裂。断裂后的那一节还能继续跑。 
 \nqr
 \dt 24/May/2012
 
