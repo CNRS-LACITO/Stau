@@ -66859,10 +66859,10 @@ da.lie 打猎
 \wav ideo-slaN-b
 \ps idph.2
 \ge blanc et rond 
-\gn 又白又圆（美观）
+\gn 形容又白又圆（美观）的样子
 \hbf *koŋzoŋ.231 
 \xv sla slaŋslaŋ to-nɯɬoʁ
-\xn 月亮又白又圆地出来了
+\xn 月亮出来了，皎洁圆润
 \xv ʑara nɯtɕu ʁʑɯnɯ ɲɤ-βzu tɕe slaŋslaŋ ʑo ɲɯ-pa, wuma ʑo ɲɯ-ɣɤχsrɯ 
 \xn 他们的儿子现在长成了小伙子了，又白又胖，非常英俊
 \se slaŋnɤslaŋ
