@@ -66684,7 +66684,7 @@ da.lie 打猎
 \gn 茶漏勺 
 \hbf objet traditionel 
 \xv scoʁtshaʁ nɯ tʂha tɤ́-wɣ-rku tɕe ɯ-sɤ-sɯxtshaʁ ŋu, tʂha ɯ-ŋgɯ tʂhɤzwa tu tɕe ɯ-tshaʁ pɕoʁ nɯ tɕu pjɯ́-wɣ-lɤt tɕe, tʂha ɯ-ci nɯ pjɯ-nɯɬoʁ ŋu ma ɯ-zwa nɯ scoʁ ɯ-ŋgɯ ku-nɯ-rɤʑi ŋu tɕe núndʐa scoʁtshaʁ rmi. ɯ-jɯ nɯ lú-wɣ-ltɤβ kɯ-khɯ ŋu, tɕe ndʐɯnbu kɤ-nɤndɯndo pe. 
-\xn 茶漏勺是倒茶的时候用来滤茶的器具。因为茶里有茶叶等渣滓，朝着漏勺的方向倒过去，这样茶水会流出来，渣滓就会留在勺子里，所以这种勺子叫漏勺（勺滤具）。勺子把可以折起来，所以出远门时带着方便。 
+\xn 茶漏勺是倒茶的时候用来滤茶的器具。因为茶里有茶叶等渣滓，朝着漏勺的方向倒过去，这样茶水会流出来，渣滓就会留在勺子里，所以这种勺子叫漏勺（滤器）。勺子把可以折起来，所以出远门时带着方便。 
 \nqr
 \dt 29/Apr/2012
 
