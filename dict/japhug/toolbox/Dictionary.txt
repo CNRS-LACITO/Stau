@@ -66731,7 +66731,7 @@ da.lie 打猎
 \gn 血雉[松鸡子] 
 \hbf oiseau 
 \xv scuz nɯ pɣa ci ŋu, kɯmpɣa jamar wxti. ɯ-kɤχcɤl kɯ-xtɕɯ-xtɕi ɲaʁ, ɯ-phoŋbu kɯ-ɤrŋi ŋgɯz kɯ-pɣi tsa ŋu. ɯ-mi kɯ-qarŋe ŋu, ɯ-mtsioʁ kɯ-qarŋe ŋu, ɯ-jme ɯ-ku kɯ-rɟum tsa ŋu, ɯ-mɲaʁ ɯ-rkɯ qarma ɣɯ kɯ-fse kɯ-ɣɯrni a-fskɤr, sɯŋgɯ ʁɟa ʑo ku-rɤʑi ma tɯ-ji ɯ-ŋgɯ ɣi mɤ-ŋgrɤl, sɯmat cho qajɯ ʁɟa tu-ndze ŋu. tɤ-mbri tɕe, "tɕur tɕur tɕur tɕur tɕur" tu-ti ŋu tɕe núndʐa ɯ-ɕa tɕur tu-kɯ-ti ɲɯ-ŋu. 
-\xn 松鸡子是一种鸟，有鸡那么大。头顶上有黑点，身子是蓝里带灰色，脚是黄色的，嘴是黄色的，尾巴的顶端有点宽，眼睛周围有一圈红色的皮象马鸡的一样。它一直生活在森林里，从不下地，专门吃野果和虫子。叫起来时，它发出{tɕur tɕur tɕur tɕur tɕur}的声音，所以人家说它的肉很酸。
+\xn 松鸡子是一种鸟，有鸡那么大。头顶上有黑点，身子蓝里带灰，脚是黄色的，嘴是黄色的，尾巴的顶端有点宽，眼睛周围有一圈红色的皮像马鸡的一样。它一直生活在森林里，从不下地，专门吃野果和虫子。叫起来时，它发出{tɕur tɕur tɕur tɕur tɕur}的声音，所以人家说它的肉很酸。
 \dt 29/Apr/2012
 
 \lx ^sɣa
