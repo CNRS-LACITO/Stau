@@ -61604,7 +61604,7 @@ da.lie 打猎
 \gn 屋顶上插有风旗、用白燧石堆积而成的石堆（嘉绒式敖包） 
 \hbf maison 
 \et la.btsas
-\xv lɤftsɤz nɯ khɤxtɤmbro ɣɯ ɯ-qhu znde tu-kɯ-ɣi ɣɯ akɯ andi ɯ-χcɤl li znde kɯ-xtɕi ci kɯ-ɤβʑɯrdu, kha ɯ-znde sɤznɤ tɤ-ʁaʁ jamar tu-ro ra, znde cho ɯ-tɯ-jaʁ kɯ-naχtɕɯɣ thɯ-kɤ-βzu ci ŋu, ɯ-χcɤl kɯ-spoʁ ŋu, ɯ-kɤχcɤl zɯ qapi tú-wɣ-rmbɯ ŋu, ɯ-χcɤl nɯ tɕu tshɤχɕaŋ, rloŋrta, nɯ ra pjɯ́-wɣ-sɤtsa ŋu, kɯrɯ kha ɯ-lɤftsɤz kɯ-me me. 
+\xv lɤftsɤz nɯ khɤxtɤmbro ɣɯ ɯ-qhu znde tu-kɯ-ɣi ɣɯ akɯ andi ɯ-χcɤl li znde kɯ-xtɕi ci kɯ-ɤβʑɯrdu, kha ɯ-znde sɤznɤ tɤ-ʁar jamar tu-ro ra, znde cho ɯ-tɯ-jaʁ kɯ-naχtɕɯɣ thɯ-kɤ-βzu ci ŋu, ɯ-χcɤl kɯ-spoʁ ŋu, ɯ-kɤχcɤl zɯ qapi tú-wɣ-rmbɯ ŋu, ɯ-χcɤl nɯ tɕu tshɤχɕaŋ, rloŋrta, nɯ ra pjɯ́-wɣ-sɤtsa ŋu, kɯrɯ kha ɯ-lɤftsɤz kɯ-me me. 
 \xn {lɤftsɤz}是房背墙顶上左右两边的中间再修一堵和外墙一样厚的四方形小墙，中间有小洞，顶上要堆上白石头，在中间插上{tshɤχɕaŋ}、风旗等。所有藏房都有{lɤftsɤz}。 
 \nq x
 \dt 19/May/2014
