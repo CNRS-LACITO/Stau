@@ -47568,10 +47568,10 @@ da.lie 打猎
 \gn 多余的
 \xv ki tɯ-ŋga ki ɲɯ-ro, kɤ-ɕɣɤz ɲɯra
 \dn 这件衣服是多余的，要还给人家（多拿了属于别人的衣服）
-\xv ki ɯ-phɯ ki kɤ-kho ɲɤ-ro tɕe ɲɯ-ta-sɯɣ
+\xv ki ɯ-phɯ ki kɤ-kho ɲɤ-ro tɕe ɲɯ-ta-fsɯɣ
 \xn 你多给了钱，我找一下零钱给你
 \pdl dir 
-\pdv tu-
+\pdv tɤ-
 \ge qui ressort
 \gn 高出、凸出来
 \xv tu-ro ʑɣɤrʑɣɤr ʑo ɲɯ-ŋu
