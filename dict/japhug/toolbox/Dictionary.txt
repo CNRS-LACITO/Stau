@@ -66661,7 +66661,7 @@ da.lie 打猎
 \wav ideo-sclaN-b
 \ps idph.2
 \ge chauve
-\gn 光溜溜
+\gn 形容光溜溜的样子
 \xv ɯ-ku sclaŋsclaŋ ɲɯ-pa
 \xn 他的头是光溜溜的
 \xv ɯ-ku sclaŋsclaŋ chɤ-nɯ-sɯ-qrɤz
