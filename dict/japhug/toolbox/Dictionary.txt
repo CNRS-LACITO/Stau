@@ -66804,9 +66804,9 @@ da.lie 打猎
 \wav ideo-skra-b
 \ps idph.2
 \ge mal poli
-\gn 调皮的样子 
+\gn 形容调皮的样子 
 \ge gris et nu
-\gn 灰扑扑、光秃秃（地方）
+\gn 形容（地方）灰扑扑、光秃秃
 \xv sɤtɕha skraskra ʑo ɲɯ-pa, mɯ́j-sɤscit
 \xn 那个地方是灰扑扑、光秃秃的，不舒服
 \xv tɯrme ɯ-stu mɤ-kɯ-fse ci skraskra ɲɯ-ŋu
