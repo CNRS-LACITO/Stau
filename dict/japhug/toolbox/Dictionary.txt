@@ -66350,7 +66350,7 @@ da.lie 打猎
 \gn 落叶松 
 \hbf plante 
 \xv saɕɯ nɯ ɯ-tshɯɣa tɯrgi ɲɯ-fse, ɯ-mdoʁ nɯ ra ɕɤɣ ɲɯ-fse, ɯ-ru nɯ tɯrgi ɲɯ-fse, tɕe tɯrgi cho ɕɤɣ ni pjɯ-nɯɕɯrɲɟo-ndʑi mɤ-cha, qartsɯmɤftɕar arŋi-ndʑi. saɕɯ pjɯ-nɯɕɯrɲɟo tɕe, ɯ-jwaʁ pjɤ-ŋgra ɕti, tɕe tɯrme ra kɯ saɕɯ nɯ tɯrgi ɣɯ ɯ-ftsa ŋu ri tɯrgi sɤz kɯ-mbro tu-ɬoʁ ŋu tɕe, nɯ mɤ-kɯ-tʂaŋ ɯ-ndʐa kɯ pjɯ-nɯɕɯrɲɟo ŋu tu-ti-nɯ ŋu. 
-\xn 落叶松的形状象杉树，但是颜色和柏树相同。树干象杉树的一样。杉树和柏树叶子秋天不会变色，不分冬夏都是绿的，落叶松叶子秋天变色，然后落叶。人们说落叶松虽然是杉树的侄子但生长的地区海拔比杉树生长的地区高，因为这样不合理，所以它叶子秋天变色。
+\xn 落叶松的形状象杉树，但是颜色和柏树相同。树干像杉树的一样。杉树和柏树叶子秋天不会变色，不分冬夏都是绿的，落叶松叶子秋天变色，然后落叶。人们说落叶松虽然是杉树的侄子但生长的地区海拔比杉树生长的地区高，因为这样不合理，所以它叶子秋天变色。
 \xv saɕɯ cho tɯrgi nɯ ni kɤndʑɯrpɯftsa ɲɯ-ŋu-ndʑi. ndʑi-sta nɯnɯ, ɯ-rpɯ ɯ-sta saɕɯ lo-ɕe tɕe, qartsɯ tɕe kɯ-nɯɕɯrɲɟo ŋu. tɯrgi cho-maŋthi tɕe núndʐa nɯnɯ tɯrgi mɤ-nɯɕɯrɲɟo tu-kɯ-ti ɲɯ-ŋu.
 \xn 落叶松和杉树是舅甥的关系，落叶松去了舅舅的位子所以到了秋天变色，杉树到了下游所以不变色
 \dt 26/Jan/2015
