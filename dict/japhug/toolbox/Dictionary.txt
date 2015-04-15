@@ -66635,7 +66635,7 @@ da.lie 打猎
 \wav n-scaRa
 \ps n
 \ge pie, animal domestique dont le corps est noir et le milieu du corps blanc 
-\gn 喜鹊、全身黑色，腰白色的牲畜 
+\gn 喜鹊,全身黑色，腰白色的牲畜 
 \hbf oiseau 
 \et skʲa.ka
 \dt 29/Apr/2012
