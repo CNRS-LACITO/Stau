@@ -14029,11 +14029,18 @@
 
 \lx ɯ-βlu
 \ps np
-\ge méthode, astuce 
+\ge méthode, astuce, stratagème
 \gn 办法，计谋 
 \et blo
+\cf ɯ-βlaβlu
 \cf nɯβlu
 \dt 09/Jun/2013
+
+\lx ɯ-βlaβla
+\ps np
+\ge méthode, astuce, stratagème
+\gn 办法，计谋 
+\cf ɯ-βlu
 
 \lx ɯ-βzɯr
 \ps np
