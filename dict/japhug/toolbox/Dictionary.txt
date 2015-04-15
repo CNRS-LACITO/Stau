@@ -66719,7 +66719,7 @@ da.lie 打猎
 \wav ideo-YcrWG-scri-Ycri-b
 \ps idph.2
 \ge liquide, dilué (boue)
-\gn 稀（泥巴）
+\gn 形容（泥巴）稀，流体状
 \cf ɲcrɯɣɲcrɯɣ
 \cf χcrɯχcri
 \dt 16/May/2013
