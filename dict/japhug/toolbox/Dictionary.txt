@@ -66370,7 +66370,7 @@ da.lie 打猎
 \gn 马勃 
 \hbf champignon 
 \xv salaboŋboŋ nɯ stɤmku ri tu-ɬoʁ ŋu tɕe, kɯ-wɣrum ŋu kɯ-ɤrtɯm rloʁ rloʁ ŋu ɯ-ru me, wuma ʑo mpɯ, nɯ-rom tɕe pjɯ́-wɣ-rɤtɕaʁ tɕe rdɯl ɲɯ-nɯɬoʁ ŋu. 
-\xn 马勃长在草地上，全白色，呈球形，没有杆，很软，干了以后踩上去就会发出灰尘（孢子粉）来。 
+\xn 马勃长在草地上，全白色，呈球形，没有杆，很软，干了以后踩上去就会扬起灰尘（孢子粉）来。 
 \nqr
 \dt 29/Apr/2012
 
