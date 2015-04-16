@@ -68250,7 +68250,7 @@ l
 \wav n-tABGo2
 \ps n
 \ge oncle (frère du père, mari de la sœur du père ou mari de la sœur de la mère). on appelle le père ainsi s'il s'est fait moine 
-\gn 伯父、叔叔、父亲当了和尚也叫如此 
+\gn 伯父、叔叔,以及父亲当了和尚都这么叫
 \hbf famille
 \dt 09/May/2012
 
