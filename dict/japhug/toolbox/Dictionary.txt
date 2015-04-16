@@ -65900,7 +65900,7 @@ da.lie 打猎
 \wav ideo-rzi-b2
 \ps idph.2
 \ge inquiet
-\gn 放心不下的样子
+\gn 形容担心，放心不下的状态
 \ge frais (temps),
 \gn 冷飕飕
 \xv rdzɯrdzi ɲɯ-mu-a
@@ -65908,7 +65908,7 @@ da.lie 打猎
 \xv rzɯrzi ɲɯ-mu-a
 \xn 我害怕
 \xv jisŋi tɯmɯ rzɯrzi ci ɲɯ-ŋu, ɲɯ-ɣɤndʐo
-\xn 今天天气冷飕飕
+\xn 今天冷飕飕的
 \cf rdzɯrdzi
 \dt 20/Nov/2011
 
