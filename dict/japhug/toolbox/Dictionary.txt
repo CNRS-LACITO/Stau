@@ -65804,7 +65804,7 @@ da.lie 打猎
 \ge confus
 \gn 心情烦乱
 \xv ɯ-kɤ-nɯzdɯɣ ɲɯ-dɤn tɕe, ɯ-sɯm rɯwɯrawi ɲɯ-xtsu
-\xn 他担心的事情很多，心情很烦乱
+\xn 他担心的事情很多，心烦意乱
 \xv ɯ-sɯm rɯwɯrawi ʑo ɲɯ-βze
 \xn 心情很烦乱
 \se ɣɤrɯβrɯβ
@@ -65826,7 +65826,7 @@ da.lie 打猎
 \wav n-rWlW
 \ps n
 \ge boulette 
-\gn 丸、小球 
+\gn 小丸、小团、小球 
 \dt 29/Apr/2012
 
 \lx ^rɯmba
