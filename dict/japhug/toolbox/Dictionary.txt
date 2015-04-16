@@ -65946,7 +65946,7 @@ da.lie 打猎
 \wav ideo-RdWB-b
 \ps idph.2
 \ge rectangulaire 
-\gn 四四方方（手上拿得起的东西）
+\gn 形容四四方方的形状（手上拿得起的东西）
 \xv @larou ʁdɯβʁdɯβ ci nɯ́-wɣ-mbi-a
 \xn 他把腊肉给我了
 \xv tɤ-ŋgɤr ci ʁdɯβʁdɯβ pjɤ-phɯt
