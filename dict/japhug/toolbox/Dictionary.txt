@@ -66098,7 +66098,7 @@ da.lie 打猎
 \wav n-RJoRJe
 \ps n
 \ge vin ou lait dilué dans l'eau 
-\gn 冲了水的酒或者牛奶 
+\gn 掺了水的酒或者牛奶 
 \hbf *koŋzoŋ.87
 \dt 21/Apr/2012
 
