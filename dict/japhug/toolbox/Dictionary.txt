@@ -66184,7 +66184,7 @@ da.lie 打猎
 \gn 蚊子 
 \hbf animal 
 \xv ʁmɤrɲɯɣ nɯ qajɯ ɯ-ʁar kɯ-tu ci ŋu, ɲɯ-nɯqambɯmbjom cha, ɯ-mtɕhi kɤ-mtɕɯ-mtɕoʁ ci ŋu, ɯ-mtɕhi ɯ-taʁ taqaβ kɯ-fse kɯ-xtshɯ-xtshɯm, tɤ-rme jamar ʑo kɯ-xtshɯm tu, ɯ-mɤlɤjaʁ kɯtʂɤ-ldʑa tu, kɯ-rɲɟɯ-rɲɟi kɯ-xtshɯ-xtshɯm ʑo tu, pha ɯ-phoŋbu nɯ kɯ-ɲaʁ ŋu, wuma ʑo sɤmtsɯɣ tɕe aɣɯtɯɣ tɕe, tɯ-ndʐi kɤ-mtsɯɣ tɕe, kɤ-mtsɯɣ ɯ-rkɯ nɯ ɯ-kho kɯ-jom ʑo tu-z-nɯɣmbɤβ cha tɕe wuma ʑo rɤʑa tɕe pɯ́-wɣ-qraʁ kɯnɤ ɣɯ-rɤβraʁ ra. 
-\xn 蚊子是带有翅膀的虫，会飞。嘴很尖，嘴有一种针，细得象毛一样。有六只脚，又细又长，全身都是黑色的。蜇人，有毒。蜇皮肤时，蜇过的地方周围会有较大面积的皮肤肿起来，很痒，而且抠破了还继续发痒。 
+\xn 蚊子是带有翅膀的昆虫，会飞。嘴很尖，嘴有一种针，细得象毛一样。有六只脚，又细又长，全身都是黑色的。蜇人，有毒。蜇皮肤时，蜇过的地方周围会有较大面积的皮肤肿起来，很痒，而且抠破了还继续发痒。 
 \nqr
 \dt 23/Apr/2012
 
