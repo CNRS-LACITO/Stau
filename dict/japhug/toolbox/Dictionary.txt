@@ -66329,7 +66329,7 @@ da.lie 打猎
 \gn 白眼病
 \hbf animal2
 \xv tɯrme ʁzɯlu nɯ mbro ɯ-phɯ ci ŋu, mbro ʁzɯlu nɯ khɯna ɯ-phɯ ci ŋu, khɯna ʁzɯlu nɯ mbro ɯ-phɯ ci ŋu
-\xn 患白眼病的人有马的价格，患白眼病的马只有马的价格，患白眼病的狗有马价格
+\xn 患白眼病的人有马的价格，患白眼病的马只有马的价格，患白眼病的狗有马价格(茶堡话谚语)
 \dt 29/Apr/2012
 
 \lx ^ʁʑɯnɯ
