@@ -72043,9 +72043,9 @@ l
 \wav n-zndAtChaR
 \ps n
 \ge se rétrécir (mur)
-\gn 缩进去（墙）
+\gn 收缩，变形（墙因受潮等原因）
 \xv zndɤtɕhaʁ pjɤ-ɕe 
-\xn 墙缩进去了
+\xn 墙(因为受了潮)收缩变形了。
 \cf znde¹
 \cf tɕhaʁ
 \dt 09/Oct/2011
