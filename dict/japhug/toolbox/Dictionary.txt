@@ -68722,7 +68722,7 @@ l
 \wav n-tAlAtshaR
 \ps n
 \ge filtre à lait 
-\gn 用来过滤牛奶的飘 
+\gn 用来过滤牛奶的瓢
 \cf tɤ-lu
 \dt 10/May/2012
 
