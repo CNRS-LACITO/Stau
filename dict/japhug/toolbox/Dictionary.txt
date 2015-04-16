@@ -70136,7 +70136,7 @@ l
 \hbf *taʁrdo.14 
 \et ltɕags.tsʰigs
 \xv tɕaʁtshɯɣ ko-ta
-\xn 他烙了他
+\xn 他给他烙了印子。
 \xv smɤnba kɯ tu-kɯ-nɯsmɤn, tɯ-ku ɯ-taʁ ku-te nɯ tɕaʁtshɯɣ
 \xn 医生治病的时候，放在头上的那个叫{tɕaʁtshɯɣ}
 \dt 07/Jan/2015
