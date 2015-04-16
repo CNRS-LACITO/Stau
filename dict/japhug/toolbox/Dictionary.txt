@@ -65979,9 +65979,9 @@ da.lie 打猎
 \ge empêchement, gêne
 \gn 障碍、坏处
 \xv kɤ-rɤma tɤ-ŋu tɕe, tɯʑo kɯ-rɯsɯso mɤ-βdi ma, tɯ-zda ra nɯ-ndaŋ kɯnɤ pjɯ́-wɣ-lɤt ra ma, nɯ-ʁdɯxpa ɣɯ-βzu mɤ-βdi
-\xn 工作的时候，不要按照自己的想法，要考虑到别人，不要妨碍别人
+\xn 工作的时候，不要只按照自己的想法来，要考虑到别人，不要妨碍别人
 \xv a-ʁdɯxpa ta-βzu
-\xn 他妨碍了我
+\xn 他妨碍我了
 \cf rɯʁdɯxpa
 \an phɤnpa
 \dt 28/Oct/2011
