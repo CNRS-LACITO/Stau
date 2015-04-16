@@ -68714,7 +68714,7 @@ l
 \wav n-tAlArpjW
 \ps n
 \ge lait caillé 
-\gn 腥了的牛奶 
+\gn 变质了的牛奶 
 \cf tɤ-lu
 \dt 10/May/2012
 
