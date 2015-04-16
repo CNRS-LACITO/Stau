@@ -65859,7 +65859,7 @@ da.lie 打猎
 \gn 妒忌 
 \hbf 1410 
 \xv rɯtʂa ʁo kɯ-pe ci maʁ 
-\xn 妒忌不是好东西
+\xn 妒忌是不好的
 \cf nɯrɯtʂa
 \dt 29/Apr/2012
 
