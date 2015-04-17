@@ -24284,6 +24284,7 @@
 \xn 我弄痛了，你弄痛了，他弄痛了
 \xv a-mgɯr tɤ-ŋkhɯt ta-lɤt tɕe, ta-ɕɯmŋɤm
 \xn 他在我背上打了一拳，把我打得很痛
+\cf mŋɤm
 \dt 17/Aug/2012
 
 \lx _ɕɯmthu
@@ -24306,6 +24307,7 @@
 \xn 他回家了，我就问了很多问题
 \xv nɤʑo ndɤre nɤ-tɯ-ɕɯmthu nɯ!
 \xn 你倒是个爱问问题的人
+\cf thu¹
 \dt 26/Aug/2013
 
 \lx _ɕɯngo
@@ -24320,6 +24322,7 @@
 \xn 他让他生病了
 \xv kɤndza nɯ mɯ-nɯ-kɯ-sna ra a-mɤ-tɤ́-wɣ-ndza ra ma kɯ-ɕɯngo
 \xn 变了味的食物不能吃，不然会因此生病
+\cf ngo
 \dt 28/Apr/2014
 
 \lx _ɕɯnŋo
