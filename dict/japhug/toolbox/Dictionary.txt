@@ -65302,7 +65302,7 @@ da.lie 打猎
 \se rloʁnɤrloʁ
 \ps idph.3
 \ge qui a une tête ronde
-\gn 头部圆圆的，动作又灵魂又可爱
+\gn 头部圆圆的，动作又灵活又可爱
 \xv tɤ-pɤtso rloʁrloʁ nɤ rloʁrloʁ ɲɯ-ɤnɯɣro
 \xn 小孩子在玩
 \xv tɤ-pɤtso chɤ-wxti tɕe rloʁnɤrloʁ ʑo tu-ŋke to-cha
