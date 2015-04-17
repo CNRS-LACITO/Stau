@@ -65625,7 +65625,7 @@ da.lie 打猎
 \xv ɯ---mi ɯ-rme rsɯprsɯp ʑo ɲɯ-pa 
 \xn 他脚上的毛很多
 \xv sɤtɕha ra rsɯprsɯp ʑo ɲɯ-pa
-\xn 地上草草和多
+\xn 地上草很多
 \se rsɯβnɤrsɯβ 
 \ge bruit de feuilles mortes 
 \gn 树叶沙沙响的的声音 
