@@ -65483,7 +65483,7 @@ da.lie 打猎
 \xv fsapaʁ mɤ-kɯ-mthu ci rŋɯzrŋɯz ɲɯ-ŋu
 \xn 那个牲畜又弱又瘦
 \xv tɯrme mɤ-kɯ-mthu ci rŋɯzrŋɯz ɲɯ-ŋu
-\xn 那个人畜又弱又瘦
+\xn 那个人又弱又瘦
 \se rŋɯznɤrŋɯz
 \ps idph.2
 \xv rŋɯznɤrŋɯz ɲɯ-tɯ-nɤŋkɯŋke
@@ -65597,7 +65597,7 @@ da.lie 打猎
 \ge pressé
 \gn 急躁
 \xv jiɕqha tɯrme rcánɯ rʁɯβnɤrʁɯβ kɯ-znɤʁamɟa ci ɲɯ-ŋu
-\xn 那个人是做事很急躁
+\xn 那个人做事很急躁
 \xv rʁɯβnɤrʁɯβ ɲɯ-ɤsɯ-ndza
 \xn 他在大声地吃（又脆又干的东西）
 \cf sɤrʁɯrʁɯβ
