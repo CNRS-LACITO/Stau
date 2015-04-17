@@ -65608,7 +65608,7 @@ da.lie 打猎
 \ge se recroqueviller d'un seul coup 
 \gn 突然间卷起来、收拢起来
 \xv qarma mtshalu ɣɯ ɯ-mat, tɯ-jaʁ a-nɯ-ɤtɯɣ qhe, rʁɯm ʑo ɲɯ-ti tɕe, ɯ-rɣi nɯ pjɯ-nɯɬoʁ, ɯ-rqhu nm lu-orʁɯrʁu ŋu
-\xn 荨麻的果子碰到手就会突然间收拢起来，种子很会落地
+\xn 荨麻的果子碰到手就会突然间收拢起来，种子很快落地
 \xv tɤŋkɯ chɯ́-wɣ-nɯ-pu tɕe tɤ-sɤɕke tɕe, rʁɯm ʑo tu-ti tɕe ku-owɯwum ŋu
 \xn 烤猪皮的时候，烧烫了就会马上卷起来，收拢起来
 \dt 25/Oct/2013
