@@ -65453,7 +65453,7 @@ da.lie 打猎
 \ge morceau dur 
 \gn 硬块、固体
 \xv χɕɤlkara ɯ-rŋgɤm ɲɯ-ŋu ma ɯ-ɣndʑɤr ɲɯ-maʁ 
-\xn 冰糖是由硬块组成的，不是粉壮的。
+\xn 冰糖是由硬块组成的，不是粉状的。
 \dt 28/Apr/2012
 
 \lx ^rŋgɯ²
