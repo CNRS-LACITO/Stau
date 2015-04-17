@@ -65394,9 +65394,9 @@ da.lie 打猎
 \wav vt-sArYWGrYWG
 \ps idph.2
 \ge long, fin et flexible
-\gn 又细又长又柔软，很没有精神的样子 
+\gn 形容又细又长又柔软，很没有精神的样子 
 \xv khɯɣɲɟɯ zɯ, laʁjɯɣ rɲɯɣrɲɯɣ ɲɤ-tɕɤt
-\xn 他把木棒从窗里（往外面）探出来了
+\xn 他把从窗户（往外面）探出来根木棒
 \xv jiɕqha nɯ rɲɯɣrɲɯɣ ɲɤ-nɯ-ɬoʁ
 \xn （细长的东西）出来了
 \se sɤrɲɯɣrɲɯɣ
