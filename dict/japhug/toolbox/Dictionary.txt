@@ -65429,13 +65429,13 @@ da.lie 打猎
 \wav ideo-mAlArNAt
 \ps idph.2
 \ge imposant 
-\gn 雄伟、又高又宽 
+\gn 形容雄伟、又高又宽样子
 \xv praʁ rŋɤrŋɤt ʑo ɲɯ-pa
 \xn 悬崖又高又宽
 \se mɤlɤrŋɤt
 \ps idph.6
 \xv @wenchuan zgo ra mɤlɤrŋɤt ɲɯ-ŋu
-\xn 汶川的山又搞又宽
+\xn 汶川的山又高又宽
 \dt 19/Nov/2011
 
 \lx ^rŋɤʁjoʁ
