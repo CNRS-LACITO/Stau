@@ -37477,7 +37477,17 @@ da.lie 打猎
 \xv a-mu kɯ tɤ́-wɣ-ndzɯ-a
 \xn 我母亲教育了我
 \cf ndzɯmbra
+\cf sindzɯ
 \dt 26/Aug/2012
+
+\lx sindzɯ
+\ps n
+\ge testament
+\gn 遗嘱
+\xv sindzɯ ci ra chɤ-rɤt.
+\xn 他写了遗嘱
+\cf ndzɯ
+\cf si¹
 
 \lx _ndzɯmbra
 \ps vt
