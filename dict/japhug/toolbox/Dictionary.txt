@@ -64764,7 +64764,7 @@ da.lie 打猎
 \wav vt-sArchWGlWG
 \ps idph.4
 \ge bruit de deux objets durs qui s'entrechoquent 
-\gn 硬的东西相撞时发出的声音 
+\gn 形容硬的东西相撞时发出的声音 
 \hbf *kɯɕar.376
 \se sɤrchɯɣrchɯɣ
 \se sɤrchɯɣlɯɣ
