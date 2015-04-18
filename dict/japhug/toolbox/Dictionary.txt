@@ -64791,7 +64791,7 @@ da.lie 打猎
 \wav ideo-rchi-b
 \ps idph.2
 \ge être souriant 
-\gn 笑得很高兴
+\gn 形容笑得很高兴的模样
 \xv rchirchi ɲɯ-nɤre
 \xn 他笑得很高兴
 \xv ɯʑo ɲɯ-rga tɕe rcirci ʑo ɲɯ-ʑɣɤstu 
