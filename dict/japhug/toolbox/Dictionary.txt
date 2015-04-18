@@ -64522,7 +64522,7 @@ da.lie 打猎
 \gn 鸽子 
 \hbf oiseau 
 \xv qro nɯ pɣa ci ŋu, khro mɤ-wxti, pha ɯ-phoŋbu ʑo wɣrum ri ɯ-jme ɯ-ku ri kɯ-ɲaʁ tu, ɯ-mi qarŋe, tɤ-rɤku cho qajɯ tu-ndze ŋu, ftɕar tɕe tɯ-tɕha tɯ-tɕha ku-rɤʑi ɲɯ-ŋu, qartsɯ tɕe ɯ-ɣurʑa ʑo tɯtɯrca ku-rɤʑi ɲɯ-ŋu. kha ku-kɤ-nɤχsu ci ɣɤʑu, ɯʑo ku-kɯ-nɯ-rɤʑi nɯ ɣɤʑu tɕe praʁ pa wuma ʑo kɯ-mbro zɯ ku-rma ɲɯ-ŋu. ɯ-ɕa nɯ wuma ʑo smɤn ɲɯ-ŋu, ɯ-ku nɯ tɯ-ku kɯ-mŋɤm smɤn ɲɯ-ŋu, ɯ-se nɯ li tɯ-ku tɯ-kɤrnoʁ kɯ-mtɕɯr kɯ-phɤn ɲɯ-ŋu. qro tɤ-rɤku ndze ri wuma mɤ-ʁnɤt tɕe ɯ-kɯ-qha rkɯn. qro kɯ-nɯkhɤβɣa kɤ-ti tu tɕe, khɤxtu zɯ ku-zo tɕe, qro nɯ χcha tɯ-tɤ-xɯr ku-mtɕɯr, ʁe tɯ-tɤ-xɯr ku-mtɕɯr, tɕe ɯ-khɯkha, 'kuku kuku' tu-ti ŋu. nɯ kɤntɕhɯ-ɣjɤn tu-fse ŋu. 
-\xn 鸽子是一种鸟，不是很大，身子是白的，但是尾巴顶端有黑点，脚是黄色的，吃粮食和虫子。夏天，它们成对地生活，冬天数百只在一起。有的是人在家里喂的，有的是（在野外）自己生活的，栖息在很高的岩洞里。鸽子肉一种药材，它的头可以治头疼病，血可以治头晕。虽然鸽子吃粮食，但是不是很厉害，讨厌它的人不多。有人也说鸽子会用手磨，因为着落在房背上的时候，就会向左转一圈，向右转一圈，同时又叫{kuku kuku}，这要重复很多次。
+\xn 鸽子是一种鸟，不是很大，身子是白的，但是尾巴末端有黑点，脚是黄色的，吃粮食和虫子。夏天，它们成对地生活，冬天数百只在一起。有的是人在家里喂的，有的是（在野外）自己生活的，栖息在很高的岩洞里。鸽子肉是一种药材，它的头可以治头疼病，血可以治头晕。虽然鸽子吃粮食，但是不是很厉害，讨厌它的人不多。有人也说鸽子会用手磨，因为着落在房背上的时候，就会向左转一圈，向右转一圈，同时又叫{kuku kuku}，这要重复很多次。
 \dt 20/Apr/2012
 
 \lx ^qrose
