@@ -64581,7 +64581,7 @@ da.lie 打猎
 \wav ideo-raN-g
 \ps idph.7
 \ge qui pend (substance visqueuse)
-\gn 吊着（黏稠的物质，如鼻涕）
+\gn 形容（黏稠的物质，如鼻涕）吊着的样子
 \et raŋ
 \xv nɤɕnaβ raŋɯŋi ʑo pɯ-nɯɬoʁ 
 \xn 你的鼻涕流出来了
