@@ -64479,7 +64479,7 @@ da.lie 打猎
 \wav ideo-qlW-b
 \ps idph.2
 \ge air de chien battu (expression du visage) 
-\gn 受委屈、心头不齐的样子
+\gn 形容受委屈、垂头丧气的样子
 \xv qlɯqlɯ ʑo ku-ru ɲɯŋ-u
 \xn 他用一副受委屈的样子看着他
 \cf ɕquɕqu
