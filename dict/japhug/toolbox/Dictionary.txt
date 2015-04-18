@@ -64568,7 +64568,7 @@ da.lie 打猎
 \wav ideo-qli-b
 \ps idph.2
 \ge qui a les yeux grand ouverts
-\gn 眼睛睁得很大
+\gn 形容眼睛睁得很大的样子
 \hbf *qachɣa.6
 \xv qala kɯ ɯ-mɲaʁ qɯqli ʑo to-stu
 \xn 兔子把眼睛睁得很大
