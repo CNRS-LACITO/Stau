@@ -64725,7 +64725,7 @@ da.lie 打猎
 \wav n-rcaNpCaR
 \ps n
 \ge prosternations le long d'une route jusqu'à un lieu saint 
-\gn 超声、磕长头 
+\gn 朝圣、磕长头 
 \et skʲaŋ.pʰʲag
 \xv ɬasa rcaŋpɕaʁ to-tsɯm
 \xn 他去拉萨朝圣
