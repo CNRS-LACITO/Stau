@@ -64463,7 +64463,7 @@ da.lie 打猎
 \wav ideo-qlWB-b
 \ps idph.1
 \ge bruit d'un objet jeté dans l'eau
-\gn 东西跳到水里的声音
+\gn 形容东西跳到水里的声音
 \xv tɯ-ci ɯ-ŋgɯ qlɯβ ʑo pa-βde
 \xn 他啪哒一声扔到水里了
 \xv qlɯβ ʑo ka-tshi
