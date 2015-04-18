@@ -64451,10 +64451,10 @@ da.lie 打猎
 \wav ideo-qla-b
 \ps idph.2
 \ge regard étonné, les yeux écarquillés
-\gn 惊奇的眼光，眼睛睁得很大的样子
+\gn 形容惊奇的眼光，眼睛睁得很大的样子
 \un 多指小孩子
 \xv a-rŋa qlaqla ku-ru ɲɯ-ŋu
-\xn 他把眼睛睁得很大看着我的脸
+\xn 他把眼睛睁得很大，看着我的脸
 \xv ɯ-mɲaʁ qlaqla ʑo to-stu
 \xn 他把眼睛睁得很大
 \dt 18/Nov/2011
