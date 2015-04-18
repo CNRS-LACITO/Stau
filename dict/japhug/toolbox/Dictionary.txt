@@ -64804,7 +64804,7 @@ da.lie 打猎
 \wav ideo-rCWB-b
 \ps idph.2
 \ge rugueux 
-\gn 粗糙（象砂纸一样）、快要脱皮的样子
+\gn 形容粗糙（象砂纸一样）、快要脱皮的样子
 \xv tɯrgi ɯ-rqhu rɕɯβrɕɯβ ʑo ɲɯpa
 \xn 杉树的树皮很粗糙，快要脱皮的样子
 \cf sɤrɕɯβrɕɯβ
@@ -65012,7 +65012,7 @@ da.lie 打猎
 \ge long et fin, aux mouvements agiles 
 \gn 又细又长、动作灵活 
 \xv βʑɯ nɯ kha zɯ rjɤnɤlɤt ʑo tu-ŋke ŋu 
-\xn 老鼠，身子和尾巴又细又长在房间里走动
+\xn 老鼠，身子和尾巴又细又长，在房间里走动
 \se stɤrjɤt
 \ge long et fin, agile
 \gn 又细又长、很灵活
