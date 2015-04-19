@@ -63974,7 +63974,7 @@ da.lie 打猎
 \gn 豺 
 \hbf animal 
 \xv qapar nɯ khɯna kɯ-fse ŋu, kɯ-pɣi k%-ɤɣɯrnɯɕɯr ŋu, ɕnɤcat tɯtɯrca tu ɲɯ-ngrɤl, fsapaʁ tu-ndze tɕe, tu-βɟi ɯ-ʑɤrʑɯr tɤ-sŋɯt tu-lɤt tɕe fsapaʁ tu-ndze ɲɯ-ŋgrɤl, fsapaʁ pjɯ-si ɕɯŋgɯ tɕe ɯ-xtu ɯ-ŋgɯ chɯ-ɕe tɕe ɯ-punaŋtɕa chɯ-ɕkɯt ɲɯ-ŋgrɤl. ɯ-mɤlɤjaʁ khɯna ɯ-mɤlɤjaʁ kɯ-fse ɲɯ-ŋu, ɯ-jme khɯna jme staʁ jpum, zoŋ-zoŋ pa. 
-\xn 豺狗象狗一样，灰里带红色，八九只一起行动，吃牲畜，一边追一边咬住就吃，在牲畜死之前，它钻进牲畜肚子里把内脏吃完。四肢和狗的一样，尾巴比狗的粗，毛茸茸的。
+\xn 豺狗像狗一样，灰里带红色，八九只一起行动，吃牲畜，一边追一边咬住就吃，在牲畜死之前，它钻进牲畜肚子里把内脏吃完。四肢和狗的一样，尾巴比狗的粗，毛茸茸的。
 \dt 17/Apr/2012
 
 \lx ^qapɤtɯm
