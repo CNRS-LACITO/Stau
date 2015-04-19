@@ -52539,8 +52539,19 @@ da.lie 打猎
 \et skʲe
 \xv ɯ-rɟit to-sci
 \xn 她的孩子生了
+\se sɯsci
+\ps vt
+\pdl dir 
+\pdv tɤ-
+\ng caus
+\ge donner naissance
+\gn 生（小孩子）
 \cf tɯ-sɤsci
 \dt 05/Jun/2011
+
+
+\lx _sɯsci
+\cf sci
 
 \lx _scit
 \ps vs
