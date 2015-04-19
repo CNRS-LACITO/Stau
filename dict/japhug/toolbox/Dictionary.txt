@@ -64053,7 +64053,7 @@ da.lie 打猎
 \gn [剪刀菜] 
 \hbf plante 
 \xv qapri mdʑu nɯ sɯjno ɯ-zrɤm ra kɯ-xtɕi ci ŋu, ɯ-ru cho ɯ-jwaʁ nɯ ra kɯ-ɤrŋi ɯ-ŋgɯz kɯ-pɣi ŋu, ɯ-jwaʁ nɯ qapri mdʑu ɯ-tshɯɣa ɲɯ-fse, ɯ-mɯntoʁ nɤmkha mdoʁ ŋu, pjɯ́-wɣ-qlɯt tɕe ɯ-lu tu. fsapaʁ ra kɤ-ndza rga-nɯ, tɯrme kɤ-ndza mɤ-sna. 
-\xn 剪刀菜是根不发达的植物，茎和叶子绿里带有灰色，叶子的形状象蛇的舌头，花是天蓝色的。折断的时候有乳汁。牲畜喜欢吃，人不能吃。
+\xn 剪刀菜是根部不发达的植物，茎和叶子绿里带有灰色，叶子的形状像蛇的舌头，花是天蓝色的。折断的时候有乳汁。牲畜喜欢吃，人不能吃。
 \dt 17/Apr/2012
 
 \lx ^qarɤt
