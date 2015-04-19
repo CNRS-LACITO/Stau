@@ -64335,7 +64335,7 @@ da.lie 打猎
 \gn 秃鹫 
 \hbf oiseau 
 \xv qɤjtʂha nɯ kuwu cho naχtɕɯɣ ri sɤznɤ xtɕi tsa, ɯ-ku kɯ-ɲaʁ ŋu, ɯ-mtɕhi-rme tu tɕe nɯ kɯnɤ kɯ-ɲaʁ ŋu, ɯ-phoŋbu kɯ-pɣi kɯ-ɤɲaʁndzɯm tsa ŋu, tɕe praʁ ɯ-ŋgɯ ku-rɤʑi ŋu, kɯ-rgɤz ra kɯ qɤjtʂha tɤ-ŋke tɕe tɯmɯ khe tu-ti-nɯ grɤl. qajɯ kɯ-fse ra tu-ndze ma kɯmaʁ rɯdaʁ kɯ-fse ra mɤ-ndze, tɤ-rɤku ri mɤ-ndze. 
-\xn 秃鹫和胡兀鹫长得差不多，但小一点，头是黑色的，有胡须，也是黑色的，身子是灰里带黑的，栖息在岩洞里。老年人们说，当秃鹫出现时，天气会变阴。它吃虫子，不吃其它动物，也不吃粮食。
+\xn 秃鹫和胡兀鹫长得差不多，但小一点，头是黑色的，有胡须，也是黑色的，身子是灰里带黑的，栖息在岩洞里。老年人们说，当秃鹫出现时，天会变阴。它吃虫子，不吃其它动物，也不吃粮食。
 \dt 20/Apr/2012
 
 \lx ^qɤjʑmbraʁ
