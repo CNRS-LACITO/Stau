@@ -64022,7 +64022,7 @@ da.lie 打猎
 \gn 天南星 
 \hbf plante 
 \xv qaprɤkhɯsloŋ nɯ sɯjno ci ŋu, kɯ-mɤku ɯ-ru kɯ-jpum ʑo tu-ɬoʁ tɕe, ɯ-taʁ tsa ri tɕe, ɯ-jwaʁ ɲɯ-ɬoʁ, ɯ-jwaʁ ɯ-sɤɣɬoʁ tɯ-ldʑa ma me, ɯ-mat nɯ jima ɯ-mat cho naχtɕɯɣ, thɯ-tɯt tɕe chɯ-ɣɯrni ŋu. ɯ-qa nɯ kɯ-ɤrtɯm ɲɯ-βze ŋu, sɤndɤɣ. 
-\xn 天南星是一种植物。首先，长出一根粗壮的茎，长了一段后，才开始长出叶子，长叶的枝只有一根，果实象玉米果实一样，成熟了就变红。根是圆形的。有毒性。
+\xn 天南星是一种植物。首先，长出一根粗壮的茎，长了一段后，才开始长出叶子，长叶的枝只有一根，果实像玉米果实一样，成熟了就变红。根是圆形的。有毒性。
 \dt 07/Nov/2013
 
 \lx ^qaprɤsi
