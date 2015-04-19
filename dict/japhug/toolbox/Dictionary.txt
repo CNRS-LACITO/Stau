@@ -63886,7 +63886,7 @@ da.lie 打猎
 \wav n-qamdWxtsa
 \ps n
 \ge botte dont le haut est est en peau de chevrotain, et le milieu en cuir teint en rouge 
-\gn 靴筒上部是獐皮子，下部是红色染成的牛皮的一种靴子 
+\gn 靴筒上部是獐皮子，下部是染成红色的牛皮的一种靴子 
 \hbf objet traditionel
 \dt 17/Apr/2012
 
@@ -63938,7 +63938,7 @@ da.lie 打猎
 \wav n-qandzxe
 \ps n
 \ge ver de terre 
-\gn 蚯蚓、星宿的名字、东边升起来落到西边去 
+\gn 蚯蚓,星宿的名字,东边升起来落到西边去 
 \hbf 363 astronomie 
 \xv qandʐe ɯ-jme 
 \xn 蚯蚓星宿 
