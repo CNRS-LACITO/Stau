@@ -64112,7 +64112,7 @@ da.lie 打猎
 \gn 植物的一种 
 \hbf plante 
 \xv qarma mtshalu nɯ sɯjno ci ŋu, mtshalu cho naχtɕɯɣ, tɕeri ɯ-mdoʁ nɯ afsoʁŋgi, ɯ-rme kɯ-xtɕɯ-xtɕi tu ri mɤ-sɤmtsɯɣ, kɤ-ndza sna. qarma mtshalu kɤntɕhɯ tɯ-phu tu tɕe, tɯtɯphu nɯ ɯ-mɯntoʁ kɯ-wɣrum ɲɯ-lɤt ŋu, ɯ-mat tha-βzu tɕe, kɯ-rɲɟi tsa chɯ-βze tɕe, thɯ-fka tsaʁ tɕe, kú-wɣ-ndo tɕe ɲɤ-mboʁ ŋu. ɲɤ-mboʁ tɕe ɯ-rdoʁ pjɯ-nɯɬoʁ, ɯ-fkɯm rʁoʁ ʑo tu-ti tɕe lo-rʁɯrʁu ŋu. tɯrme nɯɕɯmɯma ʑo tu-kɯ-sɤmbrɯ nɤ qarma mtshalu tu-sɤrmi-nɯ ŋgrɤl 
-\xn {qarma mtshalu}是一种植物，和荨麻一样，但颜色浅一些，虽然有一些毛，但不蜇人，可以吃{qarma mtshalu}有几种。其中一个开白花，结果实的时候，果实有点长，结得饱满时，用手一摸就会突然破烂，漏出种子，种子的壳就会卷起来。突然生气的人，人们说他是{qarma mtshalu}。
+\xn {qarma mtshalu}是一种植物，和荨麻一样，但颜色浅一些，虽然有一些毛，但不蜇人，有几种{qarma mtshalu}可以吃。其中一个开白花，结果实的时候，果实有点长，结得饱满时，用手一摸就会突然破掉，滑漏出种子，种子的壳就会卷起来。突然生气的人，人们说他是{qarma mtshalu}。
 \dt 18/Apr/2012
 
 \lx ^qartsɤβ
