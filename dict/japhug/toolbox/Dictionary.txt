@@ -58861,7 +58861,7 @@ da.lie 打猎
 \ge blaireau 
 \gn 獾[臭猪子] 
 \hbf animal 
-\xv βɣɯz nɯ sɤtɕha kɯ-spoʁ ɯ-ŋgɯ ku-rɤʑi ɲɯ-ŋu, praʁ pa tɕu ku-rɤʑi ɲɯ-ŋu, ftɕar tɕe ma qartsɯ tɕe kɤ-mto me, βɣɯz nɯ ɯ-mtɕhi nɯ ra kɯ-ɤmtɕoʁ, ɯ-ku ɯ-tshɯɣa nɯ ra βʑɯ tsa fse, ɯ-rme nɯ pɣi ri paʁ ɯ-rme ʑo fse tɕe nɤrko. ɯ-xtɤpa ɯ-rme ra aqarŋɯrŋe, qandʐe kɤ-nza wuma ʑo rga, tɕe ɕɤr tɕe, kha ɯ-rkɯ tɯ-ɣli kɯ-dɤn ɣɯ sɤtɕha ɲɯ-sloʁ tɕe, tɕe tɤ-rɤku ra ɯ-qa chɯ-tɕɤt tɕe chɯ-tʂaβ tɕe pjɯ-sɯ-lni ŋu. ju-phɣo tɕe, kɯ-spoʁ ɯ-ŋgɯ lu-nɯɕe tɕe, tɕe kɤ-sat mɤ-khɯ tɕe, ɯ-kɯm smi pjɯ-βlɯ-nɯ tɕe, lu-sɤkhɯ-nɯ tɕe, tɕe mɯ-tɤ-tɕhaʁ tɕe chɯ-nɯɬoʁ tɕe pjɯ-sat-nɯ ŋgrɤl. βɣɯz nɯ ɯ-di wuma ʑo kɯ-χɕɤβ ci tu, tɕe ɯ-ndʐi nɯ pjɯ́-wɣ-nɤβɟu nɯ maʁ nɤ tɯ-mthɤɣ ɲɯ́-wɣ-rtɤβ tɕe χtɕoŋ kɯ-phɤn ɲɯ-ŋu
+\xv βɣɯz nɯ sɤtɕha kɯ-spoʁ ɯ-ŋgɯ ku-rɤʑi ɲɯ-ŋu, praʁ pa tɕu ku-rɤʑi ɲɯ-ŋu, ftɕar tɕe ma qartsɯ tɕe kɤ-mto me, βɣɯz nɯ ɯ-mtɕhi nɯ ra kɯ-ɤmtɕoʁ, ɯ-ku ɯ-tshɯɣa nɯ ra βʑɯ tsa fse, ɯ-rme nɯ pɣi ri paʁ ɯ-rme ʑo fse tɕe nɤrko. ɯ-xtɤpa ɯ-rme ra aqarŋɯrŋe, qandʐe kɤ-ndza wuma ʑo rga, tɕe ɕɤr tɕe, kha ɯ-rkɯ tɯ-ɣli kɯ-dɤn ɣɯ sɤtɕha ɲɯ-sloʁ tɕe, tɕe tɤ-rɤku ra ɯ-qa chɯ-tɕɤt tɕe chɯ-tʂaβ tɕe pjɯ-sɯ-lni ŋu. ju-phɣo tɕe, kɯ-spoʁ ɯ-ŋgɯ lu-nɯɕe tɕe, tɕe kɤ-sat mɤ-khɯ tɕe, ɯ-kɯm smi pjɯ-βlɯ-nɯ tɕe, lu-sɤkhɯ-nɯ tɕe, tɕe mɯ-tɤ-tɕhaʁ tɕe chɯ-nɯɬoʁ tɕe pjɯ-sat-nɯ ŋgrɤl. βɣɯz nɯ ɯ-di wuma ʑo kɯ-χɕɤβ ci tu, tɕe ɯ-ndʐi nɯ pjɯ́-wɣ-nɤβɟu nɯ maʁ nɤ tɯ-mthɤɣ ɲɯ́-wɣ-rtɤβ tɕe χtɕoŋ kɯ-phɤn ɲɯ-ŋu
 \xn 獾住在土洞和岩洞里，只在夏天出现，冬天看不到。獾的嘴很尖，头部的形状象老鼠，毛是灰色的，象猪的毛一样，但比较硬。肚子下面的毛是淡黄色。它很喜欢吃蚯蚓，所以晚上它去拱房子旁边的肥地，会把庄稼拱倒，使庄稼枯萎。逃跑的时候就会钻进洞里，没法打死它，就在洞口烧火让烟子熏它，它受不了从洞里跑出来的时候才能把它打死。獾有很浓的臭味，它的皮子要么作坐垫，，要么围在腰部，可以治风湿病。 
 \nqr
 \cf nɯβɣɯz
