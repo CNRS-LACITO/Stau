@@ -64399,17 +64399,17 @@ da.lie 打猎
 \ge de couleur terne
 \gn 颜色不明显
 \xv tɕoχtsi ɯ-mdoʁ nɯ kɯ-qarŋe qhjɯqhjɯ ɲɯ-ŋu
-\xn 桌子是微黄色的
+\xn 桌子是淡黄色的
 \xv nɤ-@diannao ɯ-mdoʁ kɯ-ɤrŋi qhjɯqhjɯ ɲɯ-ŋu
-\xn 你电脑的颜色是微蓝色的
+\xn 你电脑的颜色是淡蓝色的
 \xv a-ʑi ɲɯ-loʁ tɕe, a-rqo qhjɯqhjɯ ʑo ɲɯ-pa
 \xn 我感到恶心，喉咙里很不舒服
 \se qhjɯnɤqhjɯ
 \ps idph.3
 \ge bruit d'essoufflement
-\gn 喘吁吁
+\gn 形容气喘吁吁的样子
 \xv a-fkur ɲɯ-rʑi tɕe, qhjɯnɤqhjɯ ʑo tɤ-tɯt-a pɯ-ra
-\xn 因为我背的东西太重，所以有点喘吁吁
+\xn 因为我背的东西太重，所以有点气喘吁吁
 \nq qhjɯ / qhji
 \dt 20/Nov/2014
 
