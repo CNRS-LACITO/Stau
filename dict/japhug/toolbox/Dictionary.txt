@@ -64532,7 +64532,7 @@ da.lie 打猎
 \gn 灌木的一种[酸酸泡儿] 
 \hbf plante 
 \xv qrose nɯ si wuma mɤ-kɯ-mbro ci ŋu. ɯ-ru ɣɯrni, aɣɯrtɯrtaʁ, mɤ-jpum. ɯ-jwaʁ ɯ-βzɯr kɯmŋu kɯ-tu nɯ ŋu, ɯ-jwaʁ ɯ-taʁ ɯ-rme kɯ-fse kɯ-xtɕi tu ri, mɤ-rʁom. babɯ ɯ-jwaʁ sɤznɤ jndʐɤz. ɯ-mat nɯ thɯ-kɤ-ɣɯri kɯ-fse tɯ-tɤri tɯ-tɤri pjɤ-ɴqoʁ ŋu, tɕe ɯ-mat thɯ-tɯt kɯ-mɤku ɣɯrni, konla thɯ-tɯt tɕe ɲaʁ. ɲɯ́-wɣ-tɕɣaʁ tɕe, ɯ-ŋgɯ tɤ-se kɯ-fse ɲɯ-nɯɬoʁ ŋu. tú-wɣ-ndza tɕe wuma ʑo tɕur, tɤ-pɤtso ra rga-nɯ ma tɯrme kɯ-wxti ra kɤ-ndza mɤ-kɯ-cha. 
-\xn 酸酸泡儿是长得不高的一种树。树干是红色的，长很多枝条，不粗。叶子有五个角，叶上有毛，但不粗糙。比 babɯ 的叶子大。果实像穿起来的，一串一串地挂在枝上。果实开始成熟时，是红色，完全成熟时，是黑色的，把它捏破时，里面会流出血一样的液体。吃起来很酸，小孩子喜欢吃，但大人不敢吃。
+\xn 酸酸泡儿是长得不高的一种树。树干是红色的，长很多枝条，不粗。叶子有五个角，叶上有毛，但不粗糙。比{babɯ}的叶子大。果实像穿起来的，一串一串地挂在枝上。果实开始成熟时，是红色，完全成熟时，是黑色的，把它捏破时，里面会流出血一样的液体。吃起来很酸，小孩子喜欢吃，但大人不敢吃。
 \dt 20/Apr/2012
 
 \lx ^qrotsoʁ
