@@ -64247,7 +64247,7 @@ da.lie 打猎
 \gn 藤子 
 \hbf plante 
 \xv qaʑmbri nɯ tɯ-mbri kɯ-fse kɯ-rɲɟɯ-rɲɟi tɕe ɯ-rtsɤɣ roŋri ɯ-mɯntoʁ cho ɯ-jwaʁ ku-ndzoʁ ŋu. ɯ-jwaʁ ɯ-mdoʁ ldʑaŋnaʁ ŋu. ɯ-mɯntoʁ tshanlaŋ kɯ-fse kɯ-qarŋe ŋu 
-\xn 藤子长得象绳子一样，很长，分节长叶开花。叶子呈深绿色，花象铃铛一样，呈黄色
+\xn 藤子长得像绳子一样，很长，分节长叶开花。叶子呈深绿色，花像铃铛一样，呈黄色
 \dt 18/Apr/2012
 
 \lx ^qaʑo
