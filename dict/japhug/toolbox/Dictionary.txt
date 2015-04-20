@@ -12950,7 +12950,7 @@
 \lx tɯ-rtsa
 \ps np
 \ge pouls 
-\gn 手脉 
+\gn 脉搏
 \hbf 131 
 \et rtsa
 
