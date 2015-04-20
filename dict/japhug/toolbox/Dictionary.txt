@@ -63147,7 +63147,7 @@ da.lie 打猎
 \wav n-NqiAB
 \ps n
 \ge ubac 
-\gn 阴山 
+\gn 山阴，背阴的山坡
 \dt 03/Oct/2013
 
 \lx $pakuku
