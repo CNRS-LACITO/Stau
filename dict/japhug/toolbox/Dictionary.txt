@@ -13058,7 +13058,7 @@
 \xv tɤtʂu nɯ ɕɤr tɕe tɯ-ʁejtshɯz ɲɯ-ɕe
 \xn 晚上的时候，灯发挥很大的作用
 \xv nɤ-rɟit nɯ ju-nɯ-ɕe ɲɯ-ɕti tɕe, nɤ-ʁejtshɯz mɯ́j-ɕe
-\xn 你的孩子离开家了，对你没有作用了（不会再照顾你了）
+\xn 你的孩子离开家了，对你没有用了（不会再照顾你了）
 \dt 20/May/2014
 
 \lx tɯ-ʁjɯz
@@ -13246,7 +13246,7 @@
 \ps n
 \ge soupe d'avoine, de blé et de haricots que l'on donne aux enfants et à ceux qui récupèrent les excréments de chevaux pour faire de l'engrais 
 \gn 粥
-\un 把莜麦小麦和豌豆煮在一起，再加一些香料，给小孩子和出圈肥的人吃 
+\un 把莜麦,小麦和豌豆煮在一起，再加一些香料，给小孩子和出圈肥的人吃 
 \hbf *kɤndʑɯsqhɤj.23
 \xv tɯsqa kɤ-βzu-t-a
 \xn 我熬了粥
