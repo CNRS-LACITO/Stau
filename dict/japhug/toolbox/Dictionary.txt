@@ -13406,7 +13406,7 @@
 \lx tɯ-tɤɕrɤz
 \ps n
 \ge une bande colorée
-\gn 一流（花纹）
+\gn 一溜（花纹）
 \cf arɤɕɯɕrɤz
 \dt 11/May/2014
 
