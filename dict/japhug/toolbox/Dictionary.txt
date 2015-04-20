@@ -13284,7 +13284,7 @@
 \hbf 163 
 \et srog
 \xv a-sroʁ ngɯt
-\xn 我命大（不容易去世）
+\xn 我命大（不容易死）
 \xv jla nɯ ŋkhorwapa ra nɯ-sroʁ ɯ-kɯ-ndo pɯ-ŋu
 \xn 犏牛是农民们的命根子
 \cf nɯsroʁmbrɤt
