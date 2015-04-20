@@ -12591,7 +12591,7 @@
 \gn [杉木蘑菇] 
 \hbf champignon 
 \xv tɯrgi grɯβgrɯβ nɯ tɯ-rgi kɯ-wxti kɤ-ʁjɤr ɯ-ŋgɯ tu-ɬoʁ ŋu, stonka mɤɕtʂa mɤ-ɬoʁ, grɯβgrɯβ cho ɯ-mdoʁ naχtɕɯɣ ɯ-ru jpum cho wxti ɯ-di mɤ-naχtɕɯɣ 
-\xn 杉木蘑菇是长在茂密的高大杉木林里，到秋天才能生长，颜色和松茸一样，但主干比较粗大，味道不一样。 
+\xn 杉木蘑菇是长在茂密高大的杉木林里，到秋天才能生长，颜色和松茸一样，但主干比较粗大，味道不一样。 
 \nqr
 
 \lx tɯrgilaŋlaŋ
