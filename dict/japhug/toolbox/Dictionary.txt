@@ -13430,7 +13430,7 @@
 \ge une rayure, une ligne
 \gn 一排、一路、一层
 \xv ki tɯ-ŋga ki kɯ-wɣrum tɯ-tɤkhrɤz kɯ-ɲaʁ tɯ-tɤkhrɤz ku-ɕe ɲɯ-ŋu
-\xn 这件衣服的花纹是有一路白色、一路黑色的
+\xn 这件衣服的花纹是一路白色、一路黑色的
 \sy tɯ-tɤmphrɯm
 \sy tɯ-tɤɕrɤz
 \cf khrɤt¹
