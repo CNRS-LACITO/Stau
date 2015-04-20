@@ -13308,7 +13308,7 @@
 \xv a-sta ku-βze-a
 \xn 我在铺床
 \xv khɯtsa a-tʂha pɯ-kɤ-rku ɯ-sta nɯ tɕu a-tɯjno tɤ-rke
-\xn 在我原来喝过茶的那个碗给我装菜
+\xn 在我原来喝过茶的那个碗里给我装菜
 \xv a-sta na-βzu
 \xn 他给我留了床位（座位）
 \nqr
