@@ -10611,13 +10611,13 @@
 \lx tʂhɯznɤtʂhɯz
 \ps idph.3
 \ge petit bruit d'explosion
-\gn 爆炸的细小声音
+\gn 形容爆炸的细小声音
 \xv tɤɕi chɯ́-wɣ-rŋu tɕe, tɤ-smi tɕe, tʂhɯznɤtʂhɯz ʑo ɲɯ-ɤmboʁ ŋu
 \xn 炒青稞的时候，炒熟了就会爆炸发出声音
 \se phɯtʂhɯz
 \ps idph.7
 \ge bruit d'explosion soudaine
-\gn 突然爆炸的声音
+\gn 形容突然爆炸的声音
 \xv tɤntɤβ phɯtʂhɯz ʑo ɲɯ-ɤmboʁ
 \xn 水泡噗嗤一声就爆裂了
 \dt 26/Apr/2014
