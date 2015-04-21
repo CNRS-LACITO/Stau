@@ -10754,7 +10754,7 @@
 \ge qualité de la dentition
 \gn 牙齿的质量
 \xv ɯ-ɕɣɤrgu ɲɯ-sna
-\xn 他牙齿质量很好
+\xn 他牙口很好
 \cf tɯ-ɕɣa
 \dt 29/May/2013
 
