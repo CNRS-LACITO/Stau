@@ -10728,7 +10728,7 @@
 \ge sac amniotique
 \gn 羊膜囊
 \xv ɯ-tɯciste chɤ-ndʑɣaʁ
-\xn 她破了羊水
+\xn 她羊水破了
 \dt 01/Nov/2013
 
 \lx tɯɕɤt
