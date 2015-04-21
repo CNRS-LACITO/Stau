@@ -12115,7 +12115,7 @@
 \ge petit rond 
 \gn 小圆点 
 \xv tɤ-se tɯ-nthoʁ pjɤ-ɕe
-\xn 地上滴了血的小圆点
+\xn 地上滴了一滴血
 \dt 18/May/2014
 
 \lx tɯ-ntsi
