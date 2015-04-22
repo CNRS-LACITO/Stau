@@ -9887,7 +9887,7 @@
 \lx tɕhɯlɤɣrum
 \ps n
 \ge habit tibétain blanc
-\gn 白色的藏式藏装
+\gn 白色的藏式服装
 \cf wɣrum
 \cf tɕhɯla
 \dt 17/Dec/2014
