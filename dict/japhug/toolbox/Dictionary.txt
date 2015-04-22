@@ -10094,7 +10094,7 @@
 \hbf tissage 
 \et ɴtʰag.ɕa
 \xv thaʁɕa nɯ tɤ-rɤm thɯ-kɤ-βʑoʁ tɕe nɯ-kɤ-ɣɤmpɕu tɕe stɤsmɤt thɯ-kɤ-sɤmtɕoʁ ŋu, thɯ-kɯ-taʁ tɕe kɤ-taʁ ɯ-sqar ɯ-sɤ-lɤt ɯ-spa ŋu 
-\xn {thaʁɕa}是把木板削平了以后，两头削尖了，是用来让经线和纬线的交叉部分上下移动的工具
+\xn {thaʁɕa}是把木板削平了以后，两头削尖了，用来让经线和纬线的交叉部分上下移动的工具
 \dt 20/May/2013
 
 \lx thaʁŋkhor
