@@ -10221,7 +10221,7 @@
 \hbf 1247 
 \et tʰog
 \xv thoʁ pjɤ-ɣi
-\xn 打了雷电
+\xn 打雷了
 \xv ɣɯjpa kɯ-nɯtʂoŋtshaβ lo-ɕe-nɯ tɕe, tɤ-tɕɯ ci thoʁ kɯ tó-wɣ-tsɯɣ tɕe pjɤ-si 
 \xn 今年，他们去采虫草时，有一个男人给雷劈死了。 
 \nqr
