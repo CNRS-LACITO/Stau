@@ -9670,7 +9670,7 @@
 \xv cha nɯ tɕhaŋkha kɯ tɤ-sɯ-rku-t-a
 \xn 我用漏斗倒了酒进去
 \xv tɕhaŋkha a-pɯ-tu tɕe, cha kɤ-rku tɤ-mda tɕe mɤ-jit
-\xn 有漏斗的话，倒酒就不会撒
+\xn 有漏斗的话，倒酒就不会洒
 \dt 21/Aug/2012
 
 \lx tɕhaʁla
