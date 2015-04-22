@@ -10240,7 +10240,7 @@
 \gn 乔木的一种[马鹿柴] 
 \hbf plante 
 \xv thowum nɯ si kɯ-mbro kɯ-jpum tsa ci ŋu, aʁɤndɯndɤt ʑo tu-ɬoʁ cha. wuma ʑo ɲɯ-ɤɣɯrtɯrtaʁ cha. ɯ-jwaʁ artɯm tɕe ɯ-ku lu-omtɕoʁ ŋu. si ɯ-ru cho ɯ-rtaʁ nɯ kɯ-ɣɯrni ŋu. ɯ-si mɤ-ngɯt, ndoʁ, sna me, kɤ-nɯβlɯ kɯnɤ khro mɤ-pe, ɯ-mɯntoʁ kɯ-wɣrum ɲɯ-lɤt ŋu. ɯ-mɯntoʁ ɯ-jɯ nɯ zri tsa ɯ-mat thɯ-tɯt tɕe kɯ-ɣɯrni ʂɣɤlʂɣɤl ʑo kɯ-pa ŋu, laŋlaŋ ɯ-mat cho naχtɕɯɣ, tɕeri kɤ-ndza mɤ-sna ma wuma ʑo qiaβ. 
-\xn 马鹿柴是长得又高又粗的树种，到处都可以生长，长很多枝条。叶子是圆形的，一头尖。树干和树枝都是紫红色的。木质不结实，很脆，不能做什么材料，连烧火都不好。开白色的花。花梗有点长。果实成熟时是红而透明的，象{laŋlaŋ}的果实，但是不能吃因为很苦。
+\xn 马鹿柴是长得又高又粗的树种，到处都可以生长，长很多枝条。叶子是圆形的，一头尖。树干和树枝都是紫红色的。木质不结实，很脆，不能做什么材料，连烧火都不好。开白色的花。花梗有点长。果实成熟时是红而透明的，像{laŋlaŋ}的果实，但是不能吃，因为很苦。
 \dt 05/May/2014
 
 \lx thu²
