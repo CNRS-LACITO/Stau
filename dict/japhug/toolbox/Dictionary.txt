@@ -9755,8 +9755,8 @@
 \ge une plante 
 \gn 植物的一种 
 \hbf plante 
-\xv tɕhemekɤtsa nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu. ɯ-ru kɯ-ɤβʑɯrdu fse, ɯ-mdoʁ ɣɯrni. ɯ-βzɯr kɯ-fse kɯ-tu ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-jwaʁ nɯ ɯ-ru ɯ-taʁ tɯ-rtsɤɣ tɯ-rtsɤɣ ku-fskɤr tɕe ku-ndzoʁ ŋu. ɯ-jwaʁ rchɤβ nɯ tɕu ɯ-mɯntoʁ ku-oʑɯrja ŋu, tɕe ɯ-mɯntoʁ ku-kɤ-fskɤr nɯ ndʐa tɕhemekɤtsa ɲɯ-rmi. ɯ-ru tɯ-ldʑa ɯ-taʁ nɯ ɯ-jwaʁ χsɯ-tɤxɯr kɯβde-tɤxɯr jamar ma me, ɯ-jwaʁ nɯ kɯ-ɤɲaʁndzɯm ŋu. 
-\xn {tɕheme kɤtsa}是矮小的植物。茎四方形、红色、有棱角。茎长出来时，叶子就在茎上一节绕一圈的生长。花排列在叶子之间。因为花是绕着茎而长的，所以叫它{tɕheme kɤ-tsa}（母女难分的意思）。一根茎上只有三四圈叶子，叶子是深绿色的。
+\xv tɕhemekɤtsa nɯ sɯjno kɯ-mbɯ-mbɤr ci ŋu. ɯ-ru kɯ-ɤβʑɯrdu fse, ɯ-mdoʁ ɣɯrni. ɯ-βzɯr kɯ-fse kɯ-tu ŋu. ɯ-ru tu-ɬoʁ tɕe, ɯ-jwaʁ nɯ ɯ-ru ɯ-taʁ tɯ-rtsɤɣ tɯ-rtsɤɣ ku-fskɤr tɕe ku-ndzoʁ ŋu. ɯ-jwaʁ rchɤβ nɯ tɕu ɯ-mɯntoʁ ku-oʑɯrja ŋu, tɕe ɯ-mɯntoʁ ku-kɤ-fskɤr nɯ ndʐa tɕhemekɤtsa ɲɯ-rmi. ɯ-ru tɯ-ldʑa ɯ-taʁ nɯ ɯ-jwaʁ χsɯ-tɤxɯr kɯβde-tɤxɯr jamar ma me, ɯ-jwaʁ nɯ kɯ-ɤɲaʁndzɯm ŋu.
+\xn {tɕheme kɤtsa}是矮小的植物。茎四方形、红色、有棱角。茎长出来时，叶子就在茎上一节绕一圈地生长。花排列在叶子之间。因为花是绕着茎而长的，所以叫它{tɕheme kɤ-tsa}（母女难分的意思）。一根茎上只有三四圈叶子，叶子是深绿色的。
 \dt 07/May/2014
 
 \lx tɕhi¹
