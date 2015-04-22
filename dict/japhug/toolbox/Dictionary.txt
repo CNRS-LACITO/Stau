@@ -10583,7 +10583,7 @@
 \lx tʂhazwa
 \ps n
 \ge feuilles de thé qui restent après que le thé ait été bu 
-\gn 茶喝完了以后流下的茶叶
+\gn 茶喝完了以后留下的茶叶
 
 \lx tʂhɤlu
 \ps n
