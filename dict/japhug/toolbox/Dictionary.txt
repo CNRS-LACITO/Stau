@@ -63323,7 +63323,7 @@ da.lie 打猎
 \gn 猫头鹰 
 \hbf oiseau 
 \xv pɣɤkhɯ nɯ pɣa ci ŋu, wxti tsa qandʑɣi jamar tu, lɤŋɤtʂɤ-tɯ-rpa jamar zɣɯt, ɯ-phoŋbu nɯ kɯ-pɣi tɕe kɯ-qandʐi tsa ŋu, ɯ-ku nɯ lɯlu ku tsa fse ri pɣa ŋu tɕe ɯ-mtsioʁ tu, ɯ-mtsioʁ moŋtaʁ ɣɯ ɯ-ku nɯ lu-ŋgɤɣ tsa ɲɯ-ŋu, ɯ-mɲaʁ nɯ ɕɤr tɕe ɲɯ-mto ma sŋi tɕe mɯ́j-mto tɕe ɯʑo ɯ-kɤ-ndza kɯ-ɕar nɯ ɕɤr ʁɟa ju-ɬoʁ ɲɯ-ŋu, tɕe βʑɯ tu-ndze, qaɲi tu-ndze, qala kɯ-fse nɯ ra tu-ndze ɲɯ-ŋu. ɕɤr tɕe tu-mbri ŋgrɤl, tɕe 'uχu' tu-ti ɲɯ-ŋu, tɕe tsuku tɯrme wuma ʑo kɯ-nɯrmɯ kɯ-nɯmtɕi tu-nɯ tɕe ɕɤr ɲɯ-kɯ-rɤma-nɯ pɣɤkhɯ tu-sɤrmi-nɯ ŋgrɤl. 
-\xn 猫头鹰是一种鸟，和隼一样大，可以达到五六斤重，身子灰里带黑。头有点象猫，但有鸟喙，因为是鸟。上鸟喙的顶端是钩着的。眼睛只有夜里才看见东西，白天看不见。它只有晚上才出来觅食，吃老鼠、鼹鼠、兔子等动物。它会在夜里叫，叫声是‘uhu’。所以人们把喜欢晚收工，早出工，晚上工作的人称作“猫头鹰”。 
+\xn 猫头鹰是一种鸟，和隼一样大，可以达到五六斤重，身子灰里带黑。头有点像猫，但有鸟喙，因为是鸟。上鸟喙的顶端是钩着的。眼睛只有夜里才看见东西，白天看不见。它只有晚上才出来觅食，吃老鼠、鼹鼠、兔子等动物。它会在夜里叫，叫声是‘uhu’。所以人们把喜欢晚收工，早出工，晚上工作的人称作“猫头鹰”。 
 \nqr
 \dt 15/Apr/2012
 
