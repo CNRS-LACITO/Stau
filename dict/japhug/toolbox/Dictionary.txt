@@ -63339,9 +63339,9 @@ da.lie 打猎
 \wav8
 \ps idph.2
 \ge brillant
-\gn 精光闪闪
+\gn 形容光芒耀眼，金光闪闪的样子
 \xv χɕɤl ɲɯ-nɤmbju pɣɤlpɣɤl ʑo
-\xn 玻璃精光闪闪
+\xn 玻璃金光闪闪
 \xv ʁmbɣi pɣɤlpɣɤl ʑo ɲɤ-ɬoʁ
 \xn 太阳出来了，光芒四射
 \dt 25/Oct/2013
