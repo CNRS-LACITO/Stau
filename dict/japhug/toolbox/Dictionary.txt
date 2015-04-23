@@ -51110,11 +51110,12 @@ da.lie 打猎
 \wav vt-sANo
 \wav8 sANo
 \wav8 sANo2
-\ps vl
+\ps vi-t
 \pdl dir 
 \pdv nɯ-
 \ge écouter, ressentir
 \gn 听、感受到
+\ps vt
 \pdl dir 
 \pdv kɤ-
 \ge obéir
