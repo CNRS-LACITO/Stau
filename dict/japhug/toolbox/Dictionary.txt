@@ -27213,7 +27213,7 @@
 
 \lx _ɣɤphɯɕlaʁ
 \wav vi-GAphWClaR
-\ps vi-
+\ps vi
 \pdl dir 
 \pdv tɤ-
 \ge zélé, assidu 
@@ -31373,7 +31373,7 @@ da.lie 打猎
 \lx _mblɯt
 \wav vi-mblWt
 \wav vi-mblWt2
-\ps vinh
+\ps vi.nh
 \ng acaus
 \pdl dir 
 \pdv nɯ-
@@ -31483,7 +31483,7 @@ da.lie 打猎
 
 \lx _mbuz
 \wav vi-mbuz
-\ps vinh
+\ps vi.nh
 \pdl dir 
 \pdv tɤ-
 \pdl dir 
@@ -31532,7 +31532,7 @@ da.lie 打猎
 \lx _mda
 \wav vi-mda
 \wav8 tAmda
-\ps vinh
+\ps vi.nh
 \pdl dir 
 \pdv tɤ-
 \ge arriver au moment de 
@@ -37075,7 +37075,7 @@ da.lie 打猎
 
 \lx _ndom
 \wav vi-ndom
-\ps vinh
+\ps vi.nh
 \pdl dir 
 \pdv nɯ-
 \ng acaus
@@ -43651,7 +43651,7 @@ da.lie 打猎
 
 \lx _ŋgɤɣ
 \wav vi-kAG
-\ps vinh
+\ps vi.nh
 \ng acaus
 \pdl dir 
 \pdv _
@@ -55625,7 +55625,7 @@ da.lie 打猎
 \wav8 zGAsWGtso
 \wav8 sAtso
 \wav8 mAtsonW
-\ps vi
+\ps vi-t
 \pdl dir 
 \pdv kɤ-
 \ge comprendre , se rendre compte, savoir
@@ -56938,7 +56938,7 @@ da.lie 打猎
 \lx _zgɤt
 \wav vi-zgAt
 \wav zgAt
-\ps vinh
+\ps vi.nh
 \ge devoir
 \gn 应该
 \xv ɲɯ-khɤm zgɤt
