@@ -63491,7 +63491,7 @@ da.lie 打猎
 \hbf oiseau 
 \et bʲa.rgod
 \xv pjɤrgɤt nɯ praʁ kɯ-mbro ɯ-ku zɯ ɕ-ku-rma ɲɯ-ŋu, ɯ-ro cho ɯ-ku nɯ kɯ-wɣrum ɲɯ-ŋu, wuma ʑo ɲɯ-wxti. fsusqɯ-tɯrpa jamar tu, kɯ-ɤɲaʁndzɯm tu ɲɯ-ŋgrɤl, pjɤrgɤt ɯ-ŋgɯz kɯ-wxti ɲɯ-ŋu, pjɤrgɤt βlama ŋu nɯ tu-kɯ-ti ɲɯ-ŋgrɤl, fsapaʁ cho tɯrme ɕa tu-ndze ɲɯ-ŋgrɤl, co ra mɤ-ɣi, nɤmkha zɯ tu-nɯpjɤŋkhɤr rga, ɯ-mɤlɤjaʁ ɯ-ndzrɯ ɕɤmiɕtʂɤt fse. ɯ-rme kɯ-wɣrum kɯ-zri ɲɯ-ŋu, ɯ-mtsioʁ nɯ tu-ŋgɤɣ ŋu. 
-\xn 兀鹫一般栖息在悬崖峭壁上，胸部和头部是白色的，很大，有三十来斤。有的是黑色的，是在兀鹫之中比较大的，据说是它们的喇嘛。它吃牲畜和人肉。不会飞到山谷里，喜欢在空中旋转。爪子象铁钩一样，羽毛白而长，嘴是钩起来的。 
+\xn 兀鹫一般栖息在悬崖峭壁上，胸部和头部是白色的，很大，有三十来斤。有的是黑色的，是在兀鹫之中比较大的，据说是它们的喇嘛。它吃牲畜和人肉。不会飞到山谷里，喜欢在空中旋转。爪子像铁钩一样，羽毛白而长，嘴是钩起来的。 
 \nqr
 \dt 15/Apr/2012
 
