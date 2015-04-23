@@ -64157,7 +64157,7 @@ da.lie 打猎
 \gn 蝉、蟋蟀 
 \hbf animal 
 \xv qartshi nɯ sɯjno ŋgɯ, tɤ-rɤku ɯ-ŋgɯ ku-rɤʑi ŋu, tɤ-rɤku tu-ndze ŋgrɤl, qartshi nɯ ʁrɯ tu, ɯ-mɲaʁ kɯ-wxtɯ-wxti ŋu, χɕɤlmɯɣ tɤ-kɯ-nɯ-ta ʑo fse, ɯ-ku xtɕi tsa ɯ-phoŋbu wxti, ɯ-mi kɯ-wxti ʑo tu, ɯ-mɤpɤl ɲɯ-zɲɟa, ɯ-ʁar mba, ɯ-rʑɯɣ tu, tɤ-ŋke tɕe kɯ-ɤrqhi ʑo ju-mtsaʁ cha, ɯ-ʁar kɯ-dɤn kɤ-ntɕhoz mɤ-ra. 
-\xn 蟋蟀生活在草丛和庄稼里，吃庄稼。蟋蟀有触角，眼睛很大，好象戴了眼镜一样。头小，身子大。有很大的脚，爪子抓东西很稳，翅膀很薄，有褶皱。走动时，可以跳到较远的距离，翅膀起不了很大的作用。 
+\xn 蟋蟀生活在草丛和庄稼里，吃庄稼。蟋蟀有触角，眼睛很大，好像戴了眼镜一样。头小，身子大。有很大的脚，爪子抓东西很稳，翅膀很薄，有褶皱。走动时，可以跳到较远的距离，翅膀起不了很大的作用。 
 \nqr
 \dt 18/Apr/2012
 
