@@ -63111,7 +63111,7 @@ da.lie 打猎
 \gn 砂岩 
 \hbf *tɯxtsa.115 
 \xv ɴɢolophɯcɯ, kɤ́wɣrtoʁ tɕe, tɤ-phɯ fse ri rdɤstaʁ jamar rko 
-\xn 砂岩看起来象土块，但是象石头那么硬
+\xn 砂岩看起来像土块，但是像石头那么硬
 \dt 09/Jan/2012
 
 \lx ^ɴɢorna
@@ -63204,7 +63204,7 @@ da.lie 打猎
 \gn 蒲公英 
 \hbf plante 
 \xv paʁzwa mɯntoʁ nɯ ɯ-jwaʁ lu-orɤrkhɯrkhe, ɯ-ku lu-omtɕoʁ ŋu, ɯ-spjɯŋ nɯ qhoʁsjɯβ ŋu. ɯ-spjɯŋ tu-ɬoʁ tɕe, ɯ-kɤχcɤl ri ɲɯ-rɯmɯntoʁ ŋu. ɯ-mɯntoʁ nɯ-rom tɕe, tu-ɣɤmɯt tɕe qale rca ju-nɯɕe ŋu. ki sɯjno ki tɤ-ɕqhe smɤn, tɯ-ɕɣa kɯ-mŋɤm smɤn, tshɤtʂot smɤn ŋu 
-\xn 蒲公英叶子不连贯而尖，茎是空心的。茎长出来时，顶上开花。当花凋谢的时候，一吹花序就顺着风飞走。这种草有治咳、治牙痛，退烧等作用。
+\xn 蒲公英叶子不连贯而尖，茎是空心的。茎长出来时，顶上开花。当花凋谢的时候，一吹花絮就顺着风飞走。这种草有治咳、治牙痛，退烧等作用。
 \dt 15/Apr/2012
 
 \lx ^paskɤɣ
@@ -63307,7 +63307,7 @@ da.lie 打猎
 \ge asperger dans tous les sens
 \gn 泼过去泼过来
 \xv khɯtsa ɯ-ŋgɯ tɯ-ci tɯ-asɯ-ndo tɕe, dal tsa tɤ-ŋke ma ɲɯ-ɣɤpɕɯlɯɣ ʑo tɕe jit
-\xn 你在碗里端水，走路慢一点不然就会到处流出来
+\xn 你在碗里端水，走路慢一点，不然就会到处流出来
 \se sɤpɕɯlɯɣ
 \ps vt
 \ge faire tomber de l'eau dans tous les sens (en transportant un bol)
