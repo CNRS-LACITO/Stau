@@ -64368,11 +64368,11 @@ da.lie 打猎
 \wav n-qhAjNgW
 \ps n
 \ge voie d'eau du moulin 
-\gn 磨房引水槽 
+\gn 磨坊引水槽 
 \hbf 625
 \hbf moulin 
 \xv qhɤjŋgɯ nɯ ɕoŋtɕa kɯ-wxti ʑo chɯ́-wɣ-phɯt tɕe chɯ́-wɣ-nɯrtaʁ chɯ́-wɣ-nɤrqhu tɕe ɯ-rqhioʁ chɯ́-wɣ-tɕɤt tɕe βɣa ɯ-lɤcu chɯ́-wɣ-tshoʁ tɕe ɯ-ŋgɯ tɯ-ci chɯ́-wɣ-sɯ-ɣe tɕe tɕhɯŋkhɤr ɯ-taʁ chɯ́-wɣ-sɯ-lɤt ɯ-spa ŋu 
-\xn {qhɤjŋgɯ}（是一种引水槽）。把一棵大树砍下，砍掉枝桠，刨去树皮然后挖一道槽，然后装在磨房上，引水通过槽冲转水车。 
+\xn {qhɤjŋgɯ}（是一种引水槽）。把一棵大树砍下，砍掉枝桠，刨去树皮然后挖一道槽，然后装在磨坊上，引水通过槽冲转水车。 
 \nqr
 \dt 20/Apr/2012
 
