@@ -63386,7 +63386,7 @@ da.lie 打猎
 \gn 植物的一种 
 \hbf plante 
 \xv phɤri kɯnɤwu nɯ kha ɯ-rkɯ sɯjno kɯ-dɤn kɯ-fse fsapaʁ ɯ-ɣli kɯ-dɤn kɯ-fse ra tu-ɬoʁ ŋu. tɯrme tɯ-fsu jamar tu-βze cha. ɯ-jwaʁ nɯ ɕɤɣ ɯ-jwaʁ ɯ-tshɯɣa fse ri nɯ sɤz rɟum, ɯ-ru nɯ khro mɤ-jpum, ɯ-ru kɯ-zɯ-zri tɤ-ɬoʁ tɕe, ɯ-taʁ ɯ-mɯntoʁ ku-ndzoʁ ŋu, tɕe ɯ-mɯntoʁ ɯ-tshɯɣa nɯ stoʁ ɯ-mɯntoʁ fse, ɯ-mdoʁ nɯ nɤmkha ɯ-mdoʁ kɯ-ɤɲaʁndzɯm tsa ŋu. ɯʑo sɯjno nɯ tɯ-ɕɣa ɯ-smɤn kɤ-βʑu ɲɯ-khɯ khi, kɯɕɯŋgɯ kɯ-wxti ra kɯ phɤri kɯnɤwu tu-sɤrmi-nɯ pɯ-ŋu. kɤ-ndza mɤ-sna. fsapaʁ ndza kɯnɤ mɤ-sna 
-\xn {phɤri kɯnɤwu} 是长在房子周围，草多、牲畜粪多的地方。可以长到人的高度。叶子形状象柏树的叶子，但宽一些，茎不粗，茎长得长了，就在上面开花。花的形状象胡豆的花，是深蓝色的。据说这种草可以作成牙痛的药。以前老人们称它是{phɤri kɯnɤwu}（为对面哭的意思）。不能吃，连牲畜都不能吃。
+\xn {phɤri kɯnɤwu} 是长在房子周围，草多、牲畜粪多的地方。可以长到人的高度。叶子形状像柏树的叶子，但宽一些，茎不粗，茎长得长了，就在上面开花。花的形状像胡豆的花，是深蓝色的。据说这种草可以作成牙痛的药。以前老人们称它是{phɤri kɯnɤwu}（为对面哭的意思）。不能吃，连牲畜都不能吃。
 \dt 06/May/2014
 
 \lx ^phɤrtɕaʁ
