@@ -14764,7 +14764,7 @@
 \gn 一段（不完整）
 
 \lx ɯ-rtɯrtɤβ
-\ps nP
+\ps np
 \ge personne collante
 \gn 缠着别人不放 
 \dt 02/Nov/2014
