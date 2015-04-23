@@ -33801,8 +33801,6 @@ da.lie 打猎
 \wav vt-nAjo
 \wav vt-nAjo2
 \wav8 nAjo
-\wav8 ZGAznAjo
-\wav8 tuwGznAjo
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -33819,16 +33817,17 @@ da.lie 打猎
 \xn 你有没有等我？
 \xv tɕe nɯ ɣɯ-nɤjo ɲɯ-ra
 \xn 那件事情，需要等
-\xv li tɯrme dianhua kɤ-nɤjo-t-a pɯ-ra (kɤsɤŋoa pɯra)
+\xv li tɯrme @dianhua kɤ-nɤjo-t-a pɯ-ra
 \xn 我又接了人家的电话
-\xv tɤ-lu pɯ-tɕat-a tɕe, βʑɤzu kɯ tɤ-z-nɤjo-t-a
-\xn 我挤奶的时候用奶桶接住
 \se znɤjo
+\wav8 tuwGznAjo
 \pdl dir 
 \pdv tɤ-
 \ps vt
 \ge prendre (de l'eau) avec
 \gn 用……来接（液体）
+\xv tɤ-lu pɯ-tɕat-a tɕe, βʑɤzu kɯ tɤ-z-nɤjo-t-a
+\xn 我挤奶的时候用奶桶接住
 \xv ki tɯthɯ kɯ tú-wɣ-znɤjo
 \xn 用这个锅子接水
 \se sɤznɤjo
@@ -33841,6 +33840,7 @@ da.lie 打猎
 \xv ma-kɤ-tɯ-sɤznɤjo
 \xn 你不要等别人了
 \se ʑɣɤznɤjo
+\wav8 ZGAznAjo
 \ps vi
 \pdl dir 
 \pdv kɤ-
@@ -51105,16 +51105,17 @@ da.lie 打猎
 \cf ŋgio
 \dt 15/Jan/2015
 
-\lx _sɤŋo
+\lx _sɤŋo¹
 \wav vi-sANo
-\wav vt-sANo
 \wav8 sANo
-\wav8 sANo2
 \ps vi-t
 \pdl dir 
 \pdv nɯ-
 \ge écouter, ressentir
 \gn 听、感受到
+\se sɤŋo²
+\wav vt-sANo
+\wav8 sANo2
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -51125,10 +51126,10 @@ da.lie 打猎
 \xn 我听了
 \xv kɤ-sɤŋo-t-a
 \xn 我听从他了
-\xv @dianhua khro jɤ-lat-a ri, kɯ-sɤŋo maŋe
-\xn 我打了很多次电话，没有人接
 \xv wuma ɣɯ-sɤŋo-a
 \xn 他很听我的话
+\xv @dianhua khro jɤ-lat-a ri, kɯ-sɤŋo maŋe
+\xn 我打了很多次电话，没有人接
 \xv ŋgumdʑɯɣ ra kɯ ta-tɯt nɯ kɤ-sɤŋo-t-a
 \xn 他听从了领导的话
 \xv a-wa kɯ ta-tɯt nɯ kɤ-sɤŋo-t-a
