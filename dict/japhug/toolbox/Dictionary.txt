@@ -63952,7 +63952,7 @@ da.lie 打猎
 \gn 鲑[猫儿鱼] 
 \hbf animal 
 \xv qandʐi nɯ qaɟy ɯ-ngɯz stu kɯ-wxti ŋu, ɯ-ɕɣa tu, ɯ-mtɕhirme tu, kú-wɣ-sqa te ɯ-ɕa ɲɯ-ndʐi mɤ-cha, ɯ-punaŋtɕa tɕhɯtɯɣ ɯ-smɤn ŋu, ʁnɯz ʁnɯz tɯtɯrca tu-ŋke ɲɯ-ŋgrɤl, qaɟy kɯ-fse kɯ-dɤn maŋe, zlawa χsɯmba raŋ tɕe tɯ-ci ɯ-ŋgɯ tɤ-ton lu-ɣi ɲɯ-ŋgrɤl. nɯ lɤ-ɣe ɯ-raŋ mdaʁʑɯɣ pjɯ́-wɣ-sɤtsa tɕe, pjɯ́-wɣ-sat pjɤ-ŋgrɤl. kɯ-wxti kɯ tɯrme ɯ-fsu tu ɲɯ-ŋgrɤl, kɯ-xtɕi nɯ tɯ-tɯ-ɣa jamar ma kɯ-me tu ɲɯ-ŋgrɤl. nɯ kɯnɤ qaɟy kɯ-wxti chɯ-ndze ɲɯ-ŋu. 
-\xn 鲑在鱼当中是最大的一种，有牙齿，有胡须。肉煮不化，其内脏是一种药材，如果牛因喝水而中毒，可以用此解毒。一般是一对一对地游动，没有象其它鱼那么多。到了三月，它们往河流的上游游去，正当这个时候，插下长矛把它杀死。大的和人一样大，小的只有一拃长。鲑可以吃其它比较大的鱼。 
+\xn 鲑在鱼当中是最大的一种，有牙齿，有胡须。肉煮不化，其内脏是一种药材，如果牛因喝水而中毒，可以用此解毒。一般是一对一对地游动，没有像其它鱼那么多。到了三月，它们往河流的上游游去，正当这个时候，插下长矛把它杀死。大的和人一样大，小的只有一拃长。鲑可以吃其它比较大的鱼。 
 \nqr
 \dt 17/Apr/2012
 
