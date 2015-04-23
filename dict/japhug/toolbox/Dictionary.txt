@@ -63815,7 +63815,7 @@ da.lie 打猎
 \gn 野棉花 
 \hbf plante 
 \xv qalamɯjpɤt nɯ tɯ-ji ɯ-rkɯ si ɯ-rchɤβ ra tu-ɬoʁ ŋu, ɯ-jwaʁ nɯ aɣrɤɣrum tɕe rme kɯ-fse tu, ɯ-ru nɯ kɯ-ngɯ-ngɯt ʑo ŋu, ɯ-mɯntoʁ nɯ ɯ-ʁɤri nɯ kɯ-wɣrum, ɯ-qhuchu nɯ ʁmɤrsmɯɣ ŋu, ɯ-mat nɯ thɯ-tɯt tɕe, ɯ-ŋgɯ srɯn kɯ-fse ɲɯ-nɯɬoʁ ŋu, ɯ-rɣi nɯ kɯ-ndɯ-ndɯβ ʑo ŋu. 
-\xn 野棉花生长在田地边缘和树木之间，叶子淡白，有毛，茎很结实，花正面白色，背面紫色，果实成熟后，里面就漏出象棉花一样的东西，种子非常小。
+\xn 野棉花生长在田地边缘和树木之间，叶子淡白，有毛，茎很结实，花正面白色，背面紫色，果实成熟后，里面就漏出像棉花一样的东西，种子非常小。
 \dt 17/Apr/2012
 
 \lx ^qale
