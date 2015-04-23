@@ -63623,7 +63623,7 @@ da.lie 打猎
 \wav ideo-prWG-b
 \ps idph.2
 \ge très serré 
-\gn 很紧，不容易解开 
+\gn 形容很紧，不容易解开 
 \xv rgɤm ɯ-ŋgɯ prɯɣprɯɣ ʑo pjɯ-ɤrku ɕti
 \xn 箱子里装得很满
 \xv tɤ-fkɯm ɯ-ŋgɯ prɯɣprɯɣ ʑo chɯ-ɤrku 
