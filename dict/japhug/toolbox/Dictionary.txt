@@ -11081,7 +11081,6 @@
 \ge main 
 \gn 手 
 \hbf 107 
-\et lag
 \xv a-jaʁqhu / a-jaʁ ɯ-qhu
 \xn 我的手背
 \xv a-jaχpa
@@ -11230,9 +11229,10 @@
 \lx tɯ-jroʁ
 \ps clf
 \ge une rangée 
-\gn 一行，一路线（参考tɯ-rɣɯt） 
+\gn 一行，一路线
 \xv qɤj tɯ-jroʁ 
 \xn 一行麦子
+\sy tɯ-rɣɯt
 \cf tɤ-jroʁ
 \cf nɯjroʁ
 \cf rejroʁ
@@ -12452,7 +12452,6 @@
 \ge intestin 
 \gn 肠 
 \hbf 149 
-\et pʰo.ba
 
 \lx tɯ-pɯsqhɯt
 \ps np
@@ -13029,7 +13028,7 @@
 \gn 空的时间 
 \xv jisŋi a-ʁa tu
 \xn 我今天有空
-\xv xingqi er a-ʁa me ma ɯ-ro ra tu
+\xv @xingqier a-ʁa me ma ɯ-ro ra tu
 \xn 星期二没有空，剩下的时间有空
 \xv a-ʁa qɤjdo-ʁa 
 \xn 我像乌鸦一样闲
@@ -13745,7 +13744,7 @@
 
 \lx tɯ-tɯnɯna
 \ps clf
-\ge borne (entre deux auberge de repos) 
+\ge borne (entre deux auberges de repos) 
 \gn 一里（两个休息的地点之间的距离） 
 \hbf 898
 
@@ -13994,7 +13993,6 @@
 \ge cartilage 
 \gn 软骨 
 \hbf 133 
-\et pʰrum
 
 \lx tɯʑo-sɯso
 \wav8 aZosWso
