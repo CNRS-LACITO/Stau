@@ -63638,7 +63638,7 @@ da.lie 打猎
 \wav ideo-prWN-b
 \ps idph.2
 \ge solide
-\gn （绑得）很紧、很扎实
+\gn 形容（绑得）很紧、很扎实
 \xv prɯŋprɯŋ ʑo ko-tʂɯβ
 \xn 他缝得很扎实
 \dt 13/May/2014
