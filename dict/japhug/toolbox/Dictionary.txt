@@ -1393,7 +1393,7 @@
 \cf ɕɯmthu
 
 \lx ɕɯmɯma
-\ps post
+\ps postp
 \ge juste au moment où
 \gn 正当……的时候
 \xv nɯ ɕɯmɯma ʑo
@@ -1408,7 +1408,7 @@
 
 \lx ɕɯŋgɯ
 \wav8 CWNGW
-\ps post
+\ps postp
 \ge avant
 \gn 之前
 \xv ku-ɣi ɕɯŋgɯ χsɯ-sŋi tɕe a-@dianhua tu-lɤt ɯ-ŋu?
@@ -2010,7 +2010,7 @@
 \hbf plante
 
 \lx jinbalazɯ
-\ps conj
+\ps cnj
 \ge non seulement... mais... 
 \gn 既……又…… 
 \hbf *srɤs.91 
@@ -3177,7 +3177,7 @@
 \xn 刚才那个人叫什么名字呢？
 
 \lx kɯ¹
-\ps post
+\ps postp
 \ge ergatif/instrumental
 \gn 施事格，工具格
 \dt 18/Mar/2015
@@ -3662,7 +3662,7 @@
 \dt 01/Sep/2014
 
 \lx laʁma
-\ps conj
+\ps cnj
 \ge bien que, à part 
 \gn 虽然，除此以外 
 \hbf *lɯlu.38
@@ -3712,14 +3712,14 @@
 \dt 17/Aug/2012
 
 \lx laʁsɯɣma
-\ps conj
+\ps cnj
 \ge à part ça 
 \gn 除此以外 
 \xv tɯmɯ ci kɤ-lɤt laʁsɯɣma, jisŋi pɯ-sɤscit 
 \xn 今天很开心，只不过下了一点雨
 
 \lx laʁsɯɣnɤma
-\ps conj
+\ps cnj
 \ge à part ça 
 \gn 除此以外、只是 
 \hbf *srɤs.18 
@@ -4107,7 +4107,7 @@
 \dt 08/Jun/2013
 
 \lx lɯski
-\ps conj
+\ps cnj
 \ge bien sûr 
 \gn 当然 
 \hbf *taruʁnɯs.101
@@ -4267,7 +4267,7 @@
 \lx matɕi
 \wav8 matCi
 \wav8 WkWtsa
-\ps conj
+\ps cnj
 \ge sinon, parce que 
 \gn 不然，因为 
 \xv nɤ-ŋga nɯ-nɯ-tɕɤt matɕi ɲɯ-ɣɯtshɤdɯɣ nɤ
@@ -4286,13 +4286,13 @@
 \dt 11/Feb/2014
 
 \lx mɤ́ɣrɤz
-\ps conj
+\ps cnj
 \ge de toute manière, en revanche
 \gn 反而
 \dt 30/Jan/2015
 
 \lx mɤkɯjɤɣkɯ
-\ps conj
+\ps cnj
 \ge non seulement
 \gn 不但
 \dt 31/Aug/2011
@@ -5082,7 +5082,7 @@
 \dt 31/Aug/2012
 
 \lx ndɤre
-\ps conj
+\ps cnj
 \ge par contre 
 \gn 反而 
 \dt 08/Oct/2014
@@ -6572,7 +6572,7 @@
 \dt 01/May/2012
 
 \lx raʁmaʁ
-\ps Part
+\ps part
 \ge d'accord ? 
 \gn 好吗？ 
 \xv nɤ-ŋga tɤ-ŋge raʁmaʁ ma ɲɯ-ɣɤndʐo 
@@ -6795,13 +6795,13 @@
 \dt 13/Mar/2013
 
 \lx ri¹
-\ps post
+\ps postp
 \ge locatif
 \gn 在
 \dt 18/Mar/2015
 
 \lx ri²
-\ps conj
+\ps cnj
 \ge mais
 \gn 但是
 \dt 18/Mar/2015
@@ -7200,7 +7200,7 @@
 \et rigs.pa
 
 \lx rɯtɕi
-\ps conj
+\ps cnj
 \ge mais
 \gn 但是
 \dt 23/Dec/2014
@@ -8742,7 +8742,7 @@
 \dt 13/Jul/2014
 
 \lx tɤkha
-\ps conj
+\ps cnj
 \ge au moment de 
 \gn 临作之前 
 \dt 11/Sep/2013
@@ -9520,7 +9520,7 @@
 \xn {tɕamu}有三种，其中一个是一种草，叶子有点粗糙，长得不高，花茎比较细长，开白花，花背面是暗红色的，把叶子晒干了以后，可以熬茶喝，所以叫作{tɕamu}。还有一种是比较老的青冈树上流出红色像血一样的液体滴在某个地方时，时间一长就会凝结成的坚硬的固体，那是一种优质的茶，据说可以治胃病，但是很罕见。在青冈树上也会长出一种硬东西，以前曾经有人把它当茶喝。还有一种是长在白桦树上的硬东西，打碎了里面是红色的，把它放在马茶里熬使茶水颜色好看。
 
 \lx tɕaŋnɤ
-\ps conj
+\ps cnj
 \ge alors, sinon 
 \gn 那就，不然就（提出自己的条件才答应别人的请求） 
 \hbf *kɯsɤr.142
@@ -9629,18 +9629,18 @@
 \dt 18/Mar/2015
 
 \lx tɕendɤre
-\ps conj
+\ps cnj
 \ge ensuite
 \gn 然后
 \dt 18/Mar/2015
 
 \lx tɕeri
-\ps conj
+\ps cnj
 \ge mais 
 \gn 但是
 
 \lx tɕetha
-\ps conj
+\ps cnj
 \ge sinon, un moment 
 \gn 不然、一会儿 
 \hbf *qaɕpa.251
@@ -14088,7 +14088,7 @@
 \hbf plante 2
 
 \lx ɯ-ɕki
-\ps post
+\ps postp
 \ge datif
 \gn 与格
 \sy ɯ-phe
@@ -14470,7 +14470,7 @@
 \hbf *qachɣa.106
 
 \lx ɯntɕe
-\ps conj
+\ps cnj
 \ge ensuite 
 \gn 以后
 
@@ -14530,7 +14530,7 @@
 \dt 30/May/2013
 
 \lx ɯ-phe
-\ps post
+\ps postp
 \ge datif
 \gn 与格
 \sy ɯ-ɕki
@@ -15052,7 +15052,7 @@
 \lx ɯtɕhɯβ
 \wav8 WtChWB
 \wav8 WtChWB2
-\ps conj
+\ps cnj
 \ge pour 
 \gn 为了 
 \xv fso tɕe a-tɤ-tɯ-nɯmtɕi, ʑa a-tɤ-tɯ-rɤru tɕe, kɤ-nɤma a-mɤ-nɯ-maqhu ɯtɕhɯβ a-pɯ-ŋu
@@ -16773,7 +16773,7 @@
 \dt 19/Feb/2014
 
 \lx zɯ
-\ps post
+\ps postp
 \ge locatif
 \gn 在
 \dt 18/Mar/2015
@@ -63847,7 +63847,7 @@ da.lie 打猎
 \hbf oiseau 
 \et glag
 \xv qaliaʁ nɯ praʁ ɯ-ŋgɯ zɯ ku-rɤʑi ŋu, ʁnɯ-tɯphu tu, tɯ-tɯphu nɯ thaŋkɤr rmi, ɯʑo ɯ-mdoʁ nɯ kɯ-ɲaʁ ŋu, ɯ-ʁar nɯ kɯ-wɣrum tɯ-tɯ-snaʁ kɯ-tu tu, qala, βʑɯ, paʁtsa cho ɲaɲa nɯ ra tu-ndze ŋgrɤl. li ci thaŋnaʁ kɯ-rmi ci tu tɕe, kɯ-ɲaʁ ʁɟa ʑo ŋu, nɯ kɯ-cha nɯ ŋu, paʁtsa cho ɲaɲa nɯ phɤri ɲɯ-nɯ-tsɯm cha, ca pjɤ-sat ŋgrɤl. ɯ-mi nɯ ɕɤmiɕtʂɤt fse. mphrɯmɯ pjɯ-re ŋgrɤl tu-kɯ-ti ɲɯ-ŋu ma nɤmkha ɯ-stu ʑo tu-ɕe tɕe ɯ-stu li pjɯ-jɣɤt tɕe ɴɢartɯm pjɯ-ɣɯt ŋu. ɯ-mɲaʁ wuma ʑo mto tu-kɯ-ti ɲɯ-ŋgrɤl, phɤri ku-ru tɕe qaʑo kɯ ɯ-qe thɤstɯ-rdoʁ pa-lɤt mtɤm tu-kɯ-ti ɲɯ-ŋgrɤl. ɕa a-tɤ-ndze tɤ-fka ɯ-qhu tɕe, co a-pɯ-ŋu tɕe chɯ-nɯqambɯmbjom mɤ-cha. 
-\xn 雕栖息在岩洞里，有两种，一种叫[thaŋkɤr}，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫{thaŋnaʁ}，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死獐子。爪子象铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
+\xn 雕栖息在岩洞里，有两种，一种叫{thaŋkɤr}，是黑色的，翅膀下面有白点，吃兔子、老鼠、小猪、小羊等。另一种叫{thaŋnaʁ}，全身都是黑色的，比较凶，不但可以把小猪和小羊带走，而且能杀死獐子。爪子象铁钩一样。人家说它会算卦，因为它在空中往上直飞，又转回往下直飞。据说它视力很强，能看清对面山上的羊屙的屎有多少颗。吃肉吃饱了以后，如果在山沟里的话就飞不起来。 
 \nqr
 \dt 17/Apr/2012
 
@@ -72190,7 +72190,7 @@ l
 \cf tɤ-rmi
 
 \lx tɯ-xsoz
-\ps cl
+\ps clf
 \ge un matin
 \gn 一个早晨
 
