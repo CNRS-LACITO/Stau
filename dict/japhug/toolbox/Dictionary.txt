@@ -63763,7 +63763,7 @@ da.lie 打猎
 \gn 尺蠖 
 \hbf animal 
 \xv qajɯ kɯ-rɤtɣa nɯ qajɯ kɯ-mpɯ-mpɯ kɯ-xtɕɯ-xtɕi ci ŋu, tɕe ɯ-zda ra kɯ-fse tu-nɯrtsɯ ɲɯ-maʁ, ju-rɤtɣe tɕe, ju-ɕe ɲɯ-ŋu, ɯ-ku nɯ kɤ-rqhi tsa ju-tsrɤt ju-te tɕe, jme nɯ ju-mɟe tɕe ɯ-ku ɕki ʑo ju-sɤzɣɯt tɕe, li ɯ-ku nɯ ju-tsrɤt, tɕe nɯ kɯ-fse ju-ɕe ɲɯ-ŋu tɕe, núndʐa qajɯ kɯ-rɤtɣa ɲɯ-rmi. 
-\xn 尺蠖是一种又软又小的虫子，不象其它虫子一样爬着走，好象是人用手指量尺寸一样的走动，先把头部往前伸出去，然后把尾部收到头部那里，然后又把头部伸出去，就这样行走，所以叫作尺蠖。 
+\xn 尺蠖是一种又软又小的虫子，不像其它虫子一样爬着走，好像是人在用手指量尺寸那样走动，先把头部往前伸出去，然后把尾部收到头部那里，然后又把头部伸出去，就这样行走，所以叫作尺蠖。 
 \nqr
 \dt 17/Apr/2012
 
