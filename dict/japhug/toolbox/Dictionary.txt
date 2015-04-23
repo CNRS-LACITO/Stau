@@ -63735,7 +63735,7 @@ da.lie 打猎
 \gn 桃子 
 \hbf plante 
 \xv qaɕti nɯ si kɯ-wxti tsa ci ŋu, ɯ-ru nɯ kɯ-pɣi ŋu, ɯ-rtaʁ dɤn, wuma ʑo ɲɯ-jpum mɤ-cha, ɯ-jwaʁ nɯ kɯ-tɕɤr tɕe kɤ-mtɕoʁ tsa ci ŋu. ɯ-mɯntoʁ nɯ ɯ-jwaʁ ɲɤ-lɤt ɕɯŋgɯ ɲɯ-lɤt ŋu, ɯ-mɯntoʁ kɯ-wɣrum tu, kɯ-ɣɯrni tu, ɯ-mat nɯ ɯ-rme kɯ-fse sɯβ-sɯβ tu, arŋi tsa thɯ-tɯt tɕe qarŋe. tú-wɣ-ndza tɕe kɯ-chi tu, kɯ-tɕur tu. ɯ-si nɯ ngɯt tɕe laʁdɯn ɯ-jɯ kɤ-nɯ-βzu sna. 
-\xn 桃树是比较高大的树种，树干是灰色的，枝桠多，都长不不是很粗，叶子细而尖，花开在叶子长出来之前，有的是白色的，有的是红色的。果实上有绒毛，先是绿色的，成熟后变黄。吃起来有的是甜的，有的是酸的。木质结实，可以用来作农具的把子。
+\xn 桃树是比较高大的树种，树干是灰色的，枝桠多，都长得不是很粗，叶子细而尖，花开在叶子长出来之前，有的是白色的，有的是红色的。果实上有绒毛，先是绿色的，成熟后变黄。吃起来有的是甜的，有的是酸的。木质结实，可以用来作农具的把子。
 \cf nɯqaɕti
 \dt 14/Aug/2012
 
