@@ -62984,7 +62984,7 @@ da.lie 打猎
 \wav ideo-NgWr-b
 \ps idph.2
 \ge large et profonde (étendue d'eau) 
-\gn 水面很宽，水很深的样子 
+\gn 形容水面很宽，水很深的样子 
 \hbf *ndzaʁlaŋ.135 
 \xv tɯ-ci ŋgɯrŋgɯr ʑo ɲɯ-pa
 \xn 水很深
