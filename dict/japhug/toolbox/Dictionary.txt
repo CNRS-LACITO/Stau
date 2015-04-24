@@ -63036,9 +63036,9 @@ da.lie 打猎
 \hbf piquer (rapace) 
 \gn 俯冲 
 \xv qaliaʁ kɯ ɴɢartɯm pjɤ-ɣɯt 
-\xn 老鹰俯冲了
+\xn 老鹰俯冲(下去)了
 \xv kɯjka kɯ ɴɢartɯm pa-ɣɯt 
-\xn 红嘴乌鸦俯冲了
+\xn 红嘴乌鸦俯冲(下去)了
 \dt 09/Jan/2012
 
 \lx ^ɴɢaʁrɯm
