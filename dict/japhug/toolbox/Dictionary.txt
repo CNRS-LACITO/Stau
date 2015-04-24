@@ -62479,7 +62479,7 @@ da.lie 打猎
 \ps idph.2
 \wav ideo-mWG-b
 \ge souriant
-\gn 笑嘻嘻
+\gn 形容笑嘻嘻的模样
 \xv mɯɣmɯɣ ɲɯ-nɤre
 \xn 他笑嘻嘻的
 \dt 18/Nov/2011
