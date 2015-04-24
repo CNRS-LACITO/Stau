@@ -63062,7 +63062,7 @@ da.lie 打猎
 \wav ideo-NGiAB-c
 \ps idph.2
 \ge nonchalant 
-\gn 不慌不忙的样子
+\gn 形容不慌不忙的样子
 \se ɴɢiɤβnɤɴɢiɤβ 
 \ps idph.3
 \ge nonchalant 
