@@ -62689,7 +62689,7 @@ da.lie 打猎
 \gn 马蜂 
 \hbf animal 
 \xv ndzɯrnaʁ nɯ ɯʑo mɯ́j-wxti ri, ku-kɯ-mtsɯɣ tɕe wuma ɲɯ-ɤɣɯtɯɣ tɕe ʁʑɯnɯ kɯ tɤ-ŋkhɯt tɤ-kɤ-lɤt fse tu-kɯ-ti ɲɯ-ŋu ma kɤ-kɯ-mtsɯɣ tɕe pjɯ-kɯ-tʂaβ ɲɯ-ŋgrɤl, laʁnɯ-sŋi ku-kɯ-ɕɯ-rŋgɯ ɲɯ-ngrɤl, tɕe ɯʑo sɯku ri ku-ndzoʁ tɕe ɯ-kho kɯ-wxtɯ-wxti tu-nɯ-βze ɲɯ-cha. ɯ-kho nɯ kɤ-rtɯ-rtɯm ɲɯ-ŋu. ɯ-spa nɯ tɕhi ŋu ma ku-nɤmɯma tɕe kɯ-mnɯ-mnu kɯ-mpɯ-mpɯ ci ɲɯ-ŋu, ɯ-ŋgɯ tɯmɯ cho qale ku-ɕe mɯ́j-cha, ɯ-kɯ-spoʁ pa pjɯ-ru ɲɯ-ŋu tɕe ɯʑo ɯ-kɯm ɲɯ-ŋu. kú-wɣ-nɯrca tɕe ɲɯ-kɯ-mtsɯɣ ma nɯ maʁ nɤ mɯ́j-kɯ-mtsɯɣ. 
-\xn 马蜂虽小，蜇人时毒性特别大，据说同被青年人打了一拳一样难受，会晕倒，一两天不能起床。它栖息在树上，可以作很大的窝，不知是什么材料作成的，摸起来很柔和、很软，风雨透不进。洞口朝下，是蜂窝的门。有人骚扰时就会蜇，不然不会轻易蜇人。 
+\xn 马蜂虽小，蜇人时毒性特别大，据说同被年轻人打了一拳一样难受，会晕倒，一两天不能起床。它栖息在树上，可以做很大的窝，不知是什么材料作成的，摸起来很柔和、很软，风雨透不进。洞口朝下，是蜂窝的门。有人骚扰时就会蜇，不然不会轻易蜇人。 
 \nqr
 \dt 09/Jan/2012
 
