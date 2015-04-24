@@ -62849,7 +62849,7 @@ da.lie 打猎
 \wav ideo-YcrWG-b
 \ps idph.2
 \ge mou et peu épais (boue, crotte) 
-\gn 又稀又软的样子（泥巴、牛粪） 
+\gn 形容（泥巴、牛粪） 又稀又软的样子
 \xv tɤrcoʁ ɲcrɯɣɲcrɯɣ ɲɯ-ŋu
 \xn 泥巴很稀
 \cf ɲcriɲcri
