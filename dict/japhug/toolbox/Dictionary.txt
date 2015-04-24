@@ -62905,7 +62905,7 @@ da.lie 打猎
 \wav8 YWGnAYWG
 \ps idph.2
 \ge objets granulaires entassés
-\gn 粉状的东西堆得很高、很软的样子
+\gn 形容粉状的东西堆得很高、很软的样子
 \hbf *kɯsɤr.193 
 \xv qɤjβɣi ɲɯɣɲɯɣ ʑo ɲɯ-ɤrmbɯ 
 \xn 糠秕堆得很高
@@ -62916,7 +62916,7 @@ da.lie 打猎
 \se ɲɯɣnɤɲɯɣ
 \ps idph.3
 \ge (se déplacer sur) un sol poudreux et mou
-\gn 在泥沙里走动时很不方便（地很软）的样子
+\gn 形容在泥沙里走动时很不方便（地很软）的样子
 \xv nɯ ɯ-taʁ tu-kɯ-ŋke tɕe, ɲɯɣnɤɲɯɣ ʑo ɲɯ-ti
 \xn 在那上面走动很不方便
 \dt 05/Feb/2014
