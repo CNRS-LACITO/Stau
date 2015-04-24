@@ -62873,15 +62873,15 @@ da.lie 打猎
 \wav ideo-mAlAYJAr
 \ps idph.2
 \ge dodu 
-\gn 肥嘟嘟、庞大 
+\gn 形容体貌肥嘟嘟、庞大
 \xv mtshu ɲɟɤrɲɟɤr ʑo ɲɯ-pa
 \xn 湖又大又满
 \xv ɯʑo ɯ-tɯ-tshu kɯ ɲɟɤrɲɟɤr ʑo ɲɯ-pa 
 \xn 他胖得满身都是肉
 \xv jla ɲɟɤrɲɟɤr ɲɯ-rɤʑi
-\xn 犏牛庞大地站在那里
+\xn 犏牛身躯庞大地站在那里
 \xv paʁ ɲɯ-tshu ɲɟɤrɲɟɤr ʑo
-\xn 猪是肥嘟嘟
+\xn 猪肥嘟嘟的
 \xv tɤɕi tɯ-fkur ʑo ɲɟɤrɲɟɤr to-rku
 \xn 青稞袋子装得很满（大）
 \se ɲɟɤrnɤɲɟɤr
@@ -62893,7 +62893,7 @@ da.lie 打猎
 \se mɤlɤɲɟɤr
 \ps idph.6
 \ge énorme
-\gn 高大（搬都搬不动）
+\gn 形容高大（搬都搬不动）
 \xv rŋgɯ mɤlɤɲɟɤr ci ɲɯŋu tɕe kɤ-ɣɤrɤt mɯ́j-sɤcha
 \xn 石包很高大，搬也搬不动
 \cf ɣɤɲɟɤrɲɟɤr
