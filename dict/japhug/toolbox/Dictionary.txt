@@ -63081,7 +63081,7 @@ da.lie 打猎
 \gn 大蜘蛛 
 \hbf animal 
 \xv ɴɢoɕna cho porɤt ni ɲɯ-naχtɕɯɣ-ndʑi, ɴɢoɕna kɯ-wxti, ɯ-mi ra jpum, porɤt nɯ xtɕi, ɯ-mi ra xtshɯm, kɯ-pɣi ŋu-ndʑi, ɴɢoɕna kɯ aɲaʁndzɯm. ɴɢoɕna cho porɤt ni ndʑi-xtu ɯ-ŋgɯ ndʑi-ri kɯ-fse chɯ-nɯ-tɕɤt-ndʑi tɕe, kha tu-nɯ-βzu-nɯ ɲɯ-ŋgrɤl. nɯ kha nɯ ɴɢoɕnamɤjɯ rmi. ndʑi-kha nɯ tɕu kɯmaʁ qajɯ ra nɯ-fsa tu-sɯpa-nɯ tɕe, ka-ndo tɕe tu-ndza-nɯ ɲɯ-ŋu. nɯ-pɯ wuma ɲɯ-dɤn, koŋla mɯ-thɯ-wxti-nɯ mɤɕtʂa ɯ-fkɯm ci ɣɤʑu tɕe tu-nɤfkɯ-fkur ɲɯ-ra. 
-\xn 大蜘蛛和小蜘蛛很相似，大蜘蛛比较大，脚粗一点，小蜘蛛比较小，脚细一点。两种都是灰色的，大蜘蛛是暗灰色的。它们从肚子里抽出丝来制造“房子”，这种房子叫蜘蛛网，用这个网作其它虫子的圈套，一旦网缠住了（小虫），它们就会把它吃掉。蜘蛛有很多幼虫，在幼虫尚未长大之前，一直把它们放在一种袋子里背来背去。 
+\xn 大蜘蛛和小蜘蛛很相似，大蜘蛛比较大，脚粗一点，小蜘蛛比较小，脚细一点。两种都是灰色的，大蜘蛛是暗灰色的。它们从肚子里抽出丝来制造“房子”，这种房子叫蜘蛛网，用这个网作抓其它虫子的圈套，一旦网缠住了（小虫），它们就会把它吃掉。蜘蛛有很多幼虫，在幼虫尚未长大之前，一直把它们放在一种袋子里背来背去。 
 \nqr
 \dt 09/Jan/2012
 
