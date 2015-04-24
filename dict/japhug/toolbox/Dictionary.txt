@@ -63028,7 +63028,7 @@ da.lie 打猎
 \hbf *tɤrɯʁnɯs.151
 \dt 09/Jan/2012
 
-\lx ^ɴɢartɯm
+\lx ^ɴɢartɯm{ɣɯt}
 \a ɴɢaftɯm
 \wav n-NGartWm
 \wav n-NGartWm2 
