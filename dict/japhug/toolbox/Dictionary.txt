@@ -62701,7 +62701,7 @@ da.lie 打猎
 \gn 客人 
 \hbf 21
 \xv jisŋi a-ndʐuwa ɣɤʑu wo
-\xn 我今天我客人
+\xn 我今天有我客人
 \dt 09/Jan/2012
 
 \lx $ndʑɤrndʑɤr
