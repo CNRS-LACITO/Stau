@@ -61669,7 +61669,7 @@ da.lie 打猎
 \wav8 lbjWG-def
 \ps idph.2
 \ge qui pend en grand nombre, mou
-\gn 又多又柔软的样子，往下垂吊
+\gn 形容又多又柔软的样子，往下垂吊
 \xv ʑmbri ɣɯ ɯ-rtaʁ ɲɯ-mpɯ tɕe ɯ-jwaʁ ɲɯ-dɤn pjɯ-ɴqoʁ kɯ-fse tɕe, lbjɯlbjɯɣ ʑo ɲɯ-pa
 \xn 柳树的枝桠很软，叶子很多，往下垂的样子
 \dv tɤ-ri kɯ-fse pjɯ-kɯ-ɴqoʁ
