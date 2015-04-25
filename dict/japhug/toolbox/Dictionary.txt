@@ -61839,7 +61839,7 @@ da.lie 打猎
 \wav ideo-ltChWG-d
 \ps idph.2
 \ge long et fin, suspendu
-\gn 细长吊着
+\gn 形容细长，吊着的样子
 \xv ʑmbri ɯ-jwaʁ ltɕhɯɣltɕhɯɣ ɲɯ-pa
 \xn 杨树叶子在吊着
 \se ltɕhɯɣnɤlɯɣ
