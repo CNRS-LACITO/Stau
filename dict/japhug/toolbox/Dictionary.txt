@@ -61900,20 +61900,20 @@ da.lie 打猎
 \wav ideo-lWr-g
 \ps idph.2
 \ge petit objet rond (qui roule)
-\gn 又小又圆的东西在滚（如皮球、洋芋、乒乓球等）
+\gn 形容又小又圆的东西在滚（如皮球、洋芋、乒乓球等）的样子
 \se ɣɤlɯrlɯr
 \ps vi
 \xv staʁpɯ ɲɯ-ɣɤlɯrlɯr chɯ-ndʐaβ ɲɯ-ŋu
-\xn 绿豆在滚下去
+\xn 绿豆滚下去
 \se sɤlɯrlɯr
 \ps vt
 \xv tɤ-sɤlɯrlɯr-a thɯ-tʂaβ-a
 \xn 我令（球）滚下去了
 \xv tɤ-pɤtso kɯ ɯ-kɯmtɕhɯ ɲɯ-sɤlɯrlɯr tha-tʂaβ
-\xn 小孩子令玩具滚下去了
+\xn 小孩子把玩具滚了下去
 \se lɯrɯri
 \ge s'élever lentement (fumée, vapeur) 
-\gn 烟，蒸汽慢慢冒上来的样子 
+\gn 形容烟，蒸汽慢慢冒上来的样子 
 \xv tɤ-khɯ lɯrɯri tu-ɬoʁ ɲɯ-ŋu
 \xn 烟慢慢地冒上来
 \xv smi ɲɯ-ɤsɯ-βlɯ tɕe, tɤ-khɯ lɯrɯri ta-tɕɤt
@@ -61938,7 +61938,7 @@ da.lie 打猎
 \wav ideo-lxi-b
 \ps idph.2
 \ge épais, lourd
-\gn 厚实、笨重
+\gn 形容厚实、笨重
 \xv kɯ-rʑi tsa ci lxɯlxi ɲɯ-ŋu
 \xn 很笨重
 \xv tɯ-ŋga kɯ-jaʁ tsa ci lxɯlxi ɲɯ-ŋu
