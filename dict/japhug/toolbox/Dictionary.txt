@@ -62427,7 +62427,7 @@ da.lie 打猎
 \gn 沙棘 
 \hbf plante 
 \xv mtɕhi nɯ zgo ku aʁɤndɯndɤt tu-ɬoʁ cha, ɯ-ru mɤ-astu, kɤ-jʁɯ-jʁu ŋu, ɯ-rtaʁ dɤn, ɯ-mdzu wuma ʑo mtɕoʁ, jpum. ɯ-ru nɯ kɯ-ɲaʁ ŋu. ɯ-rqhu jaʁ, ɯ-si nɯ kɤ-ɣɯŋgɯŋgɯ kɯ-fse ŋu, ɯ-rtaʁ ɯ-rqhu nɯ mpɕu, ɯ-si nɯ kɤ-βlɯ kɯnɤ mɤ-sna, ɯ-jwaʁ nɯ kɯ-pɣi tsa tɕe kɯ-ndɯ-ndɯβ, pɣɤmuj ɯ-tshɯɣa fse. ɯ-mɯntoʁ kɤ-mto me, ɯ-mat kɤ-tshoʁ ɕɯmɯma tɕe, ldʑaŋsɤr ŋu, thɯ-tɯt wuma ʑo qarŋe, ɯ-tɯ-tɕur saχaʁ ri mɤ-sɤndɤɣ. 
-\xn 沙棘在高山上到处生长，树干不直，弯弯曲曲的，枝桠多，刺又锋利又粗。树干是黑色，树皮很厚。树木是由几一环组成的，枝桠的树皮是光滑的。木质连烧火都不好。叶子是灰色的，很小，形状像羽毛。看不见花，果实才开始结时是浅绿色，成熟厚是大黄色。吃起来很酸，但没有毒性。
+\xn 沙棘在高山上到处生长，树干不直，弯弯曲曲的，枝桠多，刺又锋利又粗。树干是黑色，树皮很厚。树木是由几一环组成的，枝桠的树皮是光滑的。木质连烧火都不好。叶子是灰色的，很小，形状像羽毛。看不见花，果实才开始结时是浅绿色，成熟后是黄色。吃起来很酸，但没有毒性。
 \dt 08/Jan/2012
 
 \lx ^mtɕhortɯn
