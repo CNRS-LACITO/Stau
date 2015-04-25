@@ -62134,7 +62134,7 @@ da.lie 打猎
 \gn 正方形的麻布 
 \hbf objet traditionel 
 \xv mboʁ nɯ ɯ-spa tɤ-sa ŋu, tɤ-sa lú-wɣ-pɣo tɕe lú-wɣ-rɯm tɕe tú-wɣ-rɯtɤβri tɕe kú-wɣ-sqa, kɤ́-wɣ-sqa tɕe ɯ-ŋgɯ thɤfkɤlɤɣi kú-wɣ-lɤt ra, nɯ mɤɕtʂa ku-smi mɤ-cha. kɤ-smi tɕe, ɲɯ́-wɣ-z-mɯɕtaʁ tɕe ɲɯ́-wɣ-χtɕi tɕe tɤ-zbaʁ tɕe kú-wɣ-sɤrɤt tɕe kɤ-taʁ kú-wɣ-thɯ ŋu. tɕe kɤ-taʁ thɯ-jɤɣ tɕe tɯ-rtɯthɯ ŋu tɕe ɣɯ-xtsɯ ra ɯ-xtsɯ pɯ-rtaʁ tɕe ɲɯ-mba ŋu ɲɯ-mpɕu ŋu tɕe chɯ́-wɣ-tʂɯβ tɕe, kɤ-βʑɯrdɯ-rdu ʑo ɲɯ́-wɣ-βzu tɕe ɯ-βzɯr tɯ-ka nɯ tɕu ɯ-jndɯz cho ɯ-ltɕi kú-wɣ-tshoʁ tɕe kɤ-ntɕhoz tu-βze ŋu. tɕe ɯ-mboʁ nɯ kɯ-tɣa tɕe tɯ-fcaʁ ŋu, tɯ-mbri cho tɯ-ɲcɣa ɣɯ ɯ-fkɯm ŋu, tɯ-mthɤɣ ɲɯ́-wɣ-rtɤβ ŋu tɕe mɤ-saʁdɯɣ. 
-\xn {mboʁ} 的材料是大麻。要把麻捻成细线，搓紧，再反搓成一绞一绞的，然后煮了。煮的时候，要放大量的草木灰，不然煮不熟。煮熟了以后晾凉，然后洗干净。干了以后，把线卸下来堆在一旁，然后在牵杆上牵起来。织完了以后就成麻布，还要锤打。锤打好了以后，麻布就变薄了，变得很光滑，然后就把麻布缝成四方形的，在四个角做上流苏和彩色布条，这样就可以用了。{mboʁ}在收割的时候可以垫背或者裹绳子和镰刀，可以围在腰间，不碍事。
+\xn {mboʁ} 的材料是大麻。要把麻捻成细线，搓紧，再反搓成一绞一绞的，然后煮了。煮的时候，要放大量的草木灰，不然煮不熟。煮熟了以后晾凉，然后洗干净。干了以后，把线卸下来堆在一旁，然后在牵杆上牵起来。织完了以后就成麻布，还要捶打。捶打好了以后，麻布就变薄了，变得很光滑，然后就把麻布缝成四方形的，在四个角做上流苏和彩色布条，这样就可以用了。{mboʁ}在收割的时候可以垫背或者裹绳子和镰刀，可以围在腰间，不碍事。
 \dt 01/Jan/2012
 
 \lx ^mbrɤj
