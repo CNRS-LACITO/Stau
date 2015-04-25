@@ -61857,7 +61857,7 @@ da.lie 打猎
 \wav ideo-lthjAlthjAt-b2
 \ps idph.2
 \ge propre et bien repassé 
-\gn 又干净又柔软又平整 
+\gn 形容又干净又柔软又平整样子
 \xv naŋʁɯ lthjɤlthjɤt ci ɲɯ-ŋu
 \xn 衬衣很柔软
 \xv ɯ-ŋga ɯ-tɯ-ɕo kɯ lthjɤlthjɤt ʑo ɲɯ-pa 
@@ -61870,7 +61870,7 @@ da.lie 打猎
 \wav ideo-lthWG-b
 \ps idph.2
 \ge moëlleux, mou
-\gn 又平整又柔软 
+\gn 形容又平整又柔软的感觉
 \xv tshɤrtɯl lthɯlthɯɣ ɲɯ-ŋu
 \xn 羔羊皮衣里面是毛茸茸的
 \xv tɯji pɯ-kɯ-jɤɣ ɣɯ sɤtɕha lthɯlthɯɣ ʑo pa 
@@ -61882,7 +61882,7 @@ da.lie 打猎
 \wav ideo-lthWm-g
 \ps idph.2
 \ge faible,
-\gn 没有精神、软弱
+\gn 形容没有精神、软弱的样子
 \xv ɲɯ-ngo rca ma, lthɯmlthɯm ʑo ɲɯ-rɤʑi
 \xn 他病了，在那里很软弱，没有精神的样子
 \se lthɯmɯmi 
