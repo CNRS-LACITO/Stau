@@ -62036,7 +62036,7 @@ da.lie 打猎
 \xv mɯ-pɯ-kɯ-nɯ-cha kɯnɤ, mɤkɯftshi tú-wɣ-z-nɤma kɯ-ra ɕti
 \xn 虽然不能做，但是还是被迫做
 \xv tɤ-fka-a ɕti ri, mɤkɯftshi ʑo tɤ-ndza-t-a pɯ-ra
-\xn 我饱了，但是被迫吃了
+\xn 我饱了，但还是被迫吃了
 \dt 02/Aug/2012
 
 \lx &mɤmbrɯmɤmbrɤt
@@ -62064,7 +62064,7 @@ da.lie 打猎
 \ge endroit sur lequel on fait sécher la nourriture 
 \gn 粮架 
 \xv mɤro nɯ ɕoŋtɕa mɤ-kɯ-jpum tsa pjɯ́-wɣ-phɯt tɕe, choʁe chɯ́-wɣ-βʑoʁ tɕe ɲɯ́-wɣ-sɤɕpɯɕpa tɕe kɯ-spoʁ χsɯm tú-wɣ-sɤʑɯrja, tɕe nɯ kɯ-spoʁ ɯ-ŋgɯ rorʁe nɯ mɤro ɯ-kɯ-spoʁ ɯ-ŋgɯ ɲɯ-ɕe kɯ-tɕhɯt ɯ-tshɤt ma mɤ-kɯ-jpum pjɯ-ŋu ra. tɕe mɤ-ro ɯ-thoʁ pjɯ́-wɣ-lɣa tɕe ɲɯ́-wɣ-sɤʑɯrja tɕe pjɯ́-wɣ-sɤtsa tɕe, ɯ-kɯ-spoʁ mɤro roŋri ɣɯ tú-wɣ-z-nɯstɯ-stu tɕe rorʁe ɲɯ́-wɣ-rʁe tɕe tɤ-rɤku kú-wɣ-sɤro ŋu. tɕe nɯ tɤ-rɤku tú-wɣ-rɤwum cho tú-wɣ-sɯɣ-rom kɤ-nɯmga ŋu. 
-\xn 粮架就是把不太粗的木料砍下来，左右两边削下来，使它变扁，然后顺着木料的长度打三个洞，然后在洞里穿木帮，木帮的粗度要刚好配合洞的大小。在地面挖洞把粮架插在里面，这样排成一行，使粮架的每一个洞对端，然后穿木棒就把粮食架上去。粮架的作用是收拾粮食让它干。
+\xn 粮架就是把不太粗的木料砍下来，左右两边削下来，使它变扁，然后顺着木料的长度打三个洞，然后在洞里穿木棒，木棒的粗度要刚好配合洞的大小。在地面挖洞把粮架插在里面，这样排成一行，使粮架的每一个洞对端，然后穿木棒就把粮食架上去。粮架的作用是收拾粮食让它干。
 \dt 08/Jan/2012
 
 \lx ^mbɣɤjroʁ
