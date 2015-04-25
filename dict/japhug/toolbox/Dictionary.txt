@@ -61681,13 +61681,13 @@ da.lie 打猎
 \wav8 lchAlchAt
 \ps idph.2
 \ge petit
-\gn 矮墩墩（人）、没有满（口袋）
+\gn 形容矮墩墩（人）、没有满（口袋）
 \xv tɤ-fkɯm lchɤlchɤt ci ɲɯ-ŋu
 \xn 口袋不满
 \xv tɯrme ɯ-phoŋbu kɯ-mbɤr ci lchɤlchɤt ɲɯ-ŋu
-\xn 那个人是矮墩墩的
+\xn 那个人矮墩墩的
 \xv ɯ-phoŋbu mɤ-kɯ-mbro lchɤlchɤt ci ɲɯ-ŋu
-\xn 他是矮墩墩的
+\xn 他矮墩墩的
 \xv lchɤlchɤt ci ɲɤ-rku
 \xn 没有装满
 \dt 01/Nov/2011
