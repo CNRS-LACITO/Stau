@@ -62190,7 +62190,7 @@ da.lie 打猎
 \gn 一种蘑菇 
 \hbf champignon 
 \xv mbrɤʑim nɯ stɤmku kɯ-ɤmɯrmbɯrmbat ʑo tu-ɬoʁ, tɤ-jmɤɣ kɯ-ndɯβ-ndɯβ ʑo ŋu, thɯ-kɤ-ɣɯri ʑo fse, kɯ-wɣrum ŋu, kɤ-ndza wuma mɯm, ftɕar tɕe tu-ɬoʁ ŋu 
-\xn {mbrɤʑim}是长在草地上一丛丛的小菌子，像是用线串起来的，呈白色，好吃，夏天生长。
+\xn {mbrɤʑim}是长在草地上的一丛丛的小菌子，像是用线串起来的，呈白色，好吃，夏天生长。
 \dt 01/Jan/2012
 
 \lx ^mbroŋ
