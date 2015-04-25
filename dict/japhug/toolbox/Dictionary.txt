@@ -61696,7 +61696,7 @@ da.lie 打猎
 \wav ideo-lchGaR-b
 \ps idph.2
 \ge souple, agréable à porter
-\gn 柔软（衣服、皮子）
+\gn 形容柔软（衣服、皮子）的触感
 \xv tɯ-ndʐi lchɣaʁlchɣaʁ ci ɲɯ-ŋu
 \xn 是很柔软的皮子
 \xv ɯ-ŋga lchɣaʁlchɣaʁ ci ɲɯ-ŋu
