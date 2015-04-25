@@ -61774,9 +61774,9 @@ da.lie 打猎
 \ge épais (vêtements)
 \gn 沉重、厚实（衣服）
 \xv a@pugai lɣɤβlɣɤβ ʑo ɲɯ-pa
-\xn 我的被盖很沉重
+\xn 我的被子很沉重
 \xv lɣɤβlɣɤβ ʑo pɯ́-wɣ-ɲcar-a
-\xn 他把我压得很重
+\xn 他重重地压着我
 \xv ɲɯ-rʑi lɣɤβlɣɤβ ʑo
 \xn 比较重
 \se lɣɤβnɤlɣɤβ
@@ -61806,7 +61806,7 @@ da.lie 打猎
 \se lŋɤnɤlŋɤt
 \ps idph.3
 \xv lŋɤnɤlŋɤt ɲɯ-nɯndzɯlŋɯz
-\xn 他在打瞌睡，头一点一点
+\xn 他在打瞌睡，头一点一点的
 \dt 02/Nov/2013
 
 \lx $loŋloŋ
