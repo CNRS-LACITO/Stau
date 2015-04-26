@@ -60533,7 +60533,7 @@ da.lie 打猎
 \wav n-jaRpatar
 \ps n
 \ge frapper dans mains, applaudir 
-\gn 拍掌。鼓掌
+\gn 拍掌,鼓掌
 \xv jaχpatar to-lɤt-nɯ 
 \xn 他们鼓掌了
 \dt 18/Mar/2014
