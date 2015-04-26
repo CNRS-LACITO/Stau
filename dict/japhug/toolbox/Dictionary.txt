@@ -60764,7 +60764,7 @@ da.lie 打猎
 \xv kachijmɤɣ kɤ-ndza sna
 \xn “甜菌”可以吃
 \ev kachijmɤɣ nɯ ɯ-mdoʁ mɤ-kɯ-naχtɕɯɣ χsɯ-tɯphu tu, kɯ-ɤrŋɯlɯz ci tu, kɯ-ɤɣɯrnɯɕɯr ci tu, kɯ-ɤqarŋɯrŋe ci tu, tɕeri nɯ-pa cho nɯ-ru ra kɯ-wɣrum ʁɟa ŋu, tɯrgi cho ɕkrɤz ɯ-ŋgɯ tu-ɬoʁ ŋu. tú-wɣ-ndza tɕe kɯ-xtɕɯ-xtɕi chi, tɕe núndʐa kachijmɤɣ rmi 
-\en {kachijmɤɣ}有三种不同的颜色，一种是蓝色的，一种是红色的，一种是黄色的，但它们的下面和主干都是白色的。它们生长在杉木和青冈树林里。 吃的时候，带有一点甜味，所以叫“甜菌”
+\en {kachijmɤɣ}有三种不同的颜色，一种是蓝色的，一种是红色的，一种是黄色的，但它们下面的部分和主干都是白色的。它们生长在杉木和青冈树林里。 吃的时候，带有一点甜味，所以叫“甜菌”
 \nqr
 \dt 02/Jan/2015
 
