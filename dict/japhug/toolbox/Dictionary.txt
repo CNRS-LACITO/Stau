@@ -60558,7 +60558,7 @@ da.lie 打猎
 \wav8 nAjArjAr
 \ps idph.2
 \ge allure de qqun portant une lourde charge
-\gn 背很重的东西、很难受的样子、歪歪斜斜的样子
+\gn 形容背着很重的东西、很难受的样子、歪歪斜斜的样子
 \xv jɤrjɤr ʑo ɲɯ-ɤsɯ-ndo
 \xn 他拿着很重的东西
 \xv jɤrjɤr ʑo ɲɯ-rɤʑi
@@ -60566,7 +60566,7 @@ da.lie 打猎
 \xv jiɕqha tɕheme ɲɤ-sɤfɕi ɯ-xtu jɤrjɤr ɲɤ-pa
 \xn 那个女怀孕了，肚子显得很重
 \xv jɤrjɤr ʑo ma-tɯ-ʑɣɤstu 
-\xn 你别做出一副这么笨拙的样子！
+\xn 你别做出这么一副笨拙的样子！
 \xv ɯ-fkur ɲɯ-nɤrʑi tɕe, jɤrjɤr ʑo tɤ-ʑɣɤstu
 \xn 他觉得背的东西很重，显得很难受
 \se jɤrnɤjɤr
