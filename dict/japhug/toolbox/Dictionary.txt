@@ -61585,7 +61585,7 @@ da.lie 打猎
 \ge partout
 \gn 统统、到处
 \xv sɤtɕha laloŋ ʑo ɕ-to-khɤt
-\xn 他统统走遍了所有的地方
+\xn 他把所有地方都统统走了一遍
 \cf saloŋ
 \dt 15/Jun/2012
 
