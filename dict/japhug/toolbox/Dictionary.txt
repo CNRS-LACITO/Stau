@@ -60449,7 +60449,7 @@ da.lie 打猎
 \gn 崖兔[岩兔儿] 
 \hbf animal 
 \xv ɣzɯɬa nɯ zndɤrchɤβ cho praʁ rchɤβ ku-rɤʑi ŋu, ɯ-rme ɯ-mdoʁ nɯ βʑɯ ɯ-mdoʁ asɯndo, kɯ-pɣi ŋu. ɯ-tshɯɣa nɯ ra qala fse, ɯ-rna rɲɟi, ɯ-mtɕhi amtɕoʁ ɯ-jme xtɯt, ɯ-jaʁ xtɯt, ɯ-mi rɲɟi, xɕɤj tu-ndze ŋu, tɯ-ji ɯ-rkɯ tɤ-rɤku ra tu-ndze ŋgrɤl, ɯ-zda ra nɯ ɯ-taʁ mɤ-ʁnɤt, ɯʑo ɯ-kɯ-ndza dɤn. 
-\xn 岩兔住在墙壁缝里和岩洞里，毛的颜色和老鼠的一样，是灰色的。形状像兔子，耳朵长，嘴尖，尾巴短，前腿短，后腿长，吃草，也吃地里的庄稼。不危害其他动物，但是是很多动物的猎物。 
+\xn 岩兔住在墙壁缝里和岩洞里，毛的颜色和老鼠的一样，是灰色的。形状像兔子，耳朵长，嘴尖，尾巴短，前腿短，后腿长，吃草，也吃地里的庄稼。不危害其它动物，但是是很多动物的猎物。 
 \nqr
 \dt 29/Dec/2011
 
