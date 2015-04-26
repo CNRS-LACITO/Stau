@@ -60738,7 +60738,7 @@ da.lie 打猎
 \wav8 JWGnAJWG
 \ps idph.2
 \ge meuble (terre), déluré 
-\gn 土地松散、衣冠不整 
+\gn 形容土地松散，或衣冠不整的样子
 \ge nombreux (objets longs)
 \gn 很多（条状的物体）
 \hbf *sqar.5 
