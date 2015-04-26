@@ -60819,7 +60819,7 @@ da.lie 打猎
 \wav n-kAjpW
 \ps n
 \ge poulain 
-\gn 马驹子 
+\gn 马驹，小马 
 \hbf animal
 \dt 29/Nov/2010
 
@@ -60944,7 +60944,7 @@ da.lie 打猎
 \wav n-kAndZWzda
 \ps n
 \ge compagnons 
-\gn 伙伴 们
+\gn 伙伴们
 \hbf 214
 \cf tɯ-zda
 \dt 24/Oct/2011
