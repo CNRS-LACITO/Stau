@@ -61139,9 +61139,9 @@ da.lie 打猎
 \wav n-khAdArdAr2
 \ps n
 \ge neige en grains
-\gn 雪米子
+\gn 雪籽
 \xv khɤdɤrdɤr pa-lɤt
-\xn 下了雪米子
+\xn 下了雪籽
 \dt 02/May/2012
 
 \lx ^khɤdi
