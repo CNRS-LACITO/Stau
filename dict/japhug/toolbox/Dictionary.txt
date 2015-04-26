@@ -61555,7 +61555,7 @@ da.lie 打猎
 \gn 大蒜 
 \hbf plante 
 \xv kɯmɕku nɯ tɯ-ji ɯ-ŋgɯ lu-kɤ-nɯ-ji ci ŋu, ɯ-qa nɯ ɯ-tɯm rmi, ɯ-tɯm ɣɯ ɯ-ndzoʁ tu. ɯ-jwaʁ ma ɯ-ru me, ɯ-jwaʁ nɯ kɯ-pɣi tsa ŋu, kɯ-tɕɤr kɯ-rɲɟi tsa ŋu, ɯ-tho tu ri ɯ-mɯntoʁ me, ɯ-qa nɯ ɕku ɲɯ-βze ŋu, ɯ-zrɤm dɤn tɕe wɣrum, ɯ-qa nɯ-aβzu tɕe, tɯ-ndzoʁ tɯ-ndzoʁ ɯ-spjɯŋ ɯ-taʁ ku-fskɤr ŋu, ɯ-pɕi ɯ-rqhu kɤntɕhɯ-tɤlɤβ kɯ tu-oluj ŋu, ɯ-ndzoʁ roŋri nɯ li ɯ-rqhu tu, ɣɯrni. thɯ-tɯt ɯ-jija nɯ ɲɯ-mba ŋu. ɯ-ndzoʁ tsuku kɯβde ma me, tsuku ɕnɤcɤt jamar kɯ-tu tu, tɕeri ɯ-ndzoʁ tɤ-wxti tɕe rkɯn, ɯ-ndzoʁ tɤ-xtɕi tɕe dɤn. tsuku tɯ-rdoʁ ma kɯ-me tu, tɕe nɯ ɕku phɤri rmi. 
-\xn 大蒜是是自己种在地里的（农作物）。根叫蒜头，蒜头有几个蒜瓣。只有叶子没有茎，叶子带有灰色，又窄又长，有花梗但是不开花，在根部结蒜头，是一瓣一瓣地围着主心干而长的，外面有很多层皮裹着，每个蒜瓣有自己的皮，是红色的。随着大蒜的成熟，外层的皮变得越来越薄。有的只有4个蒜瓣，有的有七八个。蒜瓣越大就越少，越小就越多。有的只有一个，这种叫{ɕku phɤri}（对面的葱）。
+\xn 大蒜是是自己种在地里的（农作物）。根叫蒜头，蒜头有几个蒜瓣。只有叶子没有茎，叶子带有灰色，又窄又长，有花梗但是不开花，在根部结蒜头，是一瓣一瓣地围着主心干而长的，外面有很多层皮裹着，每个蒜瓣有自己的皮，是红色的。随着大蒜的成熟，外层的皮变得越来越薄。有的只有四个蒜瓣，有的有七八个。蒜瓣越大就越少，越小就越多。有的只有一个，这种叫{ɕku phɤri}（对面的葱）。
 \dt 30/Apr/2014
 
 \lx ^kɯmdza
