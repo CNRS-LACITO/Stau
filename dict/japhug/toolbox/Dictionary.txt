@@ -59901,7 +59901,7 @@ da.lie 打猎
 \wav8 CWrCWr
 \ps idph.2
 \ge calme
-\gn 静悄悄、一点声音也没有
+\gn 形容静悄悄的，一点声音也没有
 \xv ɕɯrɕɯr ʑo lo-pa lo-fsoʁ
 \xn 天亮都没有亮
 \xv jiɕqha ɕɯrɕɯr ʑo ɲɯ-pa mɯ-ɲɯ-ɤrju-nɯ
