@@ -60058,7 +60058,7 @@ da.lie 打猎
 \wav ideo-dzWr-b
 \ps idph.2
 \ge bien droit 
-\gn 端正的样子(又小又乖）
+\gn 形容端正的样子(又小又乖）
 \xv dzɯrdzɯr ʑo ɲɯ-rɤʑi
 \xn 他端端正正地（站）在那里
 \xv dzɯrdzɯr ʑo ɲɯ-ɤmdzɯt 
