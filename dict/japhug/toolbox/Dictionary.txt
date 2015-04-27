@@ -59771,7 +59771,7 @@ da.lie 打猎
 \wav8 CtrWNWCtraNi2
 \ps idph.2
 \ge mou et long
-\gn 又软又长
+\gn 形容又软又长的样子
 \xv razmbe ɕtraŋɕtraŋ ʑo ɲɯ-ɴqoʁ
 \xn 烂布条又长又脏地挂在那里
 \se ɕtraŋnɤɕtraŋ
