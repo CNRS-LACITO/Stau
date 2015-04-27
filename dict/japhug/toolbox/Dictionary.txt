@@ -60026,11 +60026,11 @@ da.lie 打猎
 \wav vi-GAdzaNdzaN
 \ps idph.2
 \ge dru
-\gn 又茂盛又粗糙（植物的刺、头发等）
+\gn 形容又茂盛又粗糙的样子（植物的刺、头发等）
 \xv ɯ-ku dzaŋdzaŋ ʑo to-stu
 \xn 他头发蓬乱
 \xv si tɯ-phɯ dzaŋdzaŋ ɣɤʑu
-\xn 有一颗树枝茂盛的大树
+\xn 有一棵枝桠茂盛的大树
 \xv ɯ-ku to-rpɯ dzaŋdzaŋ ʑo
 \xn 他的头发又长又脏，乱蓬蓬的
 \ge ne pas être en possession de ses facultés
