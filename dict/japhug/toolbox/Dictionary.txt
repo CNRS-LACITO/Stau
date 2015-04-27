@@ -59975,13 +59975,13 @@ da.lie 打猎
 \wav8 drABdrAB
 \ps idph.2
 \ge plein de saleté (eau) 
-\gn 浑浊，装满渣滓的样子 
+\gn 形容浑浊，装满渣滓的样子 
 \xv tɯtshi drɤβdrɤβ ʑo ɲɯ-pa
 \xn 粥很浑浊
 \xv tɯmɯ chɤ-qandʐi drɤβdrɤβ ʑo
 \xn 天气很阴，乌云很黑
 \xv tɯ-ci chɤ-qarndɯm drɤβdrɤβ ʑo
-\xn 水发出浑浊
+\xn 水是浑浊的
 \dt 17/Apr/2013
 
 \lx $drɯβ
