@@ -59964,9 +59964,9 @@ da.lie 打猎
 \wav ideo-dioR-b
 \ps idph.2
 \ge bien mélangé
-\gn 非常均匀
+\gn 形容非常均匀
 \xv tɤjlu pɯ́-wɣ-rɤpɣi tɕe, tɯ-ci cho tɤjlu ni tú-wɣ-sɤtʂoʁloʁ dioʁdioʁ ʑo ra ma nɯ mɤɕtʂa mɤ-mɯm
-\xn 和面的时候，要把水喝面和得很均匀
+\xn 和面的时候，要把水和面和得很均匀
 \dv wuma ʑo kɯ-ɤtʂoʁloʁ, kɯ-ɤmɯzɣɯt kɤ-ti ɲɯ-ŋu
 \dt 12/Feb/2014
 
