@@ -60189,13 +60189,13 @@ da.lie 打猎
 \wav ideo-gAG-f
 \ps idph.2
 \ge courbé
-\gn 不灵活、站得不稳
+\gn 形容不灵活、站得不稳的样子
 \xv tɯ-ŋga ɕ-tɤ-ɕkho-t-a ri, ɲɯ-ɤqɤjpɣom tɕe gɤgɤɣ ʑo ɲɤ-pa
 \xn 我去晒了衣服，冻到了就变硬了
 \xv ki tɤ-wɯ ki chɤ-rgɤz tɕe, gɤgɤɣ ʑo ɲɯ-pa
 \xn 这位老年人变老了，站得不稳
 \xv ɯʑo lo-βzi tɕe, gɤgɤɣ ʑo ɲɯ-ndzur 
-\xn 他喝醉，站得不稳定
+\xn 他喝醉了，站不稳
 \se gɤɣnɤgɤɣ
 \ps idph.3
 \xv gɤgɤɣ nɤ gɤgɤɣ kɤ-anɯri
@@ -60203,7 +60203,7 @@ da.lie 打猎
 \se gɤɣɯɣi
 \ps idph.6
 \xv rgɤtpu gɤɣɯɣi ʑo kɤ-ŋke ɲɯ-cha
-\xn 老年人治能走一点点
+\xn 老年人只能走一点点
 \dt 25/Oct/2013
 
 \lx $glɤɣglɤɣ
