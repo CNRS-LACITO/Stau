@@ -60412,7 +60412,7 @@ da.lie 打猎
 \wav ideo-GWrGWr-b
 \ps idph.2
 \ge beaucoup de gens rassemblés 
-\gn 人密集的样子
+\gn 形容人密集的样子
 \xv ɣɯrɣɯr ʑo pjɤ-kɤkhar-nɯ-ci
 \xn 很多人围着他
 \se ɣɯrnɤɣɯr
