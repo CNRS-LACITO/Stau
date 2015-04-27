@@ -60295,7 +60295,7 @@ da.lie 打猎
 \wav ideo-GdWB-b
 \ps idph.2
 \ge court et épais
-\gn 又粗又短
+\gn 形容又粗又短的样子
 \xv ɯ-rtshɯm ci ɣdɯβɣdɯβ ɣɤʑu
 \xn 树墩又粗又短
 \dt 11/Nov/2011
