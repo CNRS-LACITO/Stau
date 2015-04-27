@@ -59954,7 +59954,7 @@ da.lie 打猎
 \wav ideo-dGAr-b
 \ps idph.2
 \ge bête
-\gn 不聪明、发呆
+\gn 形容不聪明，发呆的模样
 \xv jiɕqha tɯrme nɯ dɣɤrdɣɤr ʑo ɲɯ-rɤʑi ɲɯ-khe ʑo
 \xn 那个人在那里发呆
 \cf ɣɤrɣɤr
