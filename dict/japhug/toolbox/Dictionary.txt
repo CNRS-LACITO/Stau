@@ -60216,7 +60216,7 @@ da.lie 打猎
 \xv glɤɣglɤɣ ʑo pjɤ-sɯ-ɲcɤr
 \xn 压得很紧
 \xv mbrɤz tɯfkur tɤ-fkur-a ɯ-tɯ-rʑi glɤɣglɤɣ ʑo ɲɯ-pa 
-\xn 我背了一袋大米，把我压得很重
+\xn 我背了一袋大米，很重地压着我
 \cf ɣɤglɤglɤɣ
 \dt 19/Dec/2011
 
