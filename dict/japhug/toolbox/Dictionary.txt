@@ -18611,7 +18611,7 @@
 \xn 毒性比以前大
 \xv jiɕqha ɣʑo kɯ kó-wɣ-mtsɯɣ-a tɕe, wuma ɲɯ-ɤɣɯtɯɣ
 \xn 我被蜜蜂叮了，毒性很大
-\xv βɣɤrtshi kɯ kó-wɣ-mtsɯɣa tɕe ɲɯ-ɤɣɯtɯɣ
+\xv βɣɤrtshi kɯ kó-wɣ-mtsɯɣ-a tɕe ɲɯ-ɤɣɯtɯɣ
 \xn 我被蚊子叮了，有毒
 \xv jɯfɕɯndʐi smɤn mɯ-pɯ-aɣɯtɯɣ, jɤxtshi pa-ɣɤjɯ tɕe ɲɯ-ɤɣɯtɯɣ
 \xn 前几天农药毒性不够大，这一次他多加了一些，现在就有毒性了
@@ -18696,6 +18696,8 @@
 \xn 你把录音机放歪了
 \se ʑɣɤsɤjɤr
 \ps vt
+\ng refl
+\ng caus
 \ge se mettre de travers
 \gn 斜着身子
 \xv ɯ-stu kɤ-ɤmdzɯ, ma-nɯ-tɯ-ʑɣɤsɤjɤr ʑo
@@ -22237,10 +22239,13 @@
 \xn 钉子是插着的
 \se sɤtsa
 \ps vt
+\ng caus
 \ge planter
 \gn 插
 \se ʑɣɤsɤtsa
 \ps vi
+\ng refl
+\ng caus
 \pdl dir 
 \pdv thɯ-
 \ge se verrouiller automatiquement
@@ -22341,6 +22346,7 @@
 \ps vi
 \pdl dir 
 \pdv _
+\ng refl
 \ge faire en sorte de rencontrer, d'obtenir
 \gn 想办法拿到/遇到
 \xv laχtɕha kɯ-pe tɤ-tu tɕe, ɲɯ-kɯ-ʑɣɤ-nɤtɯɣ ra
@@ -22368,6 +22374,8 @@
 \xn 有好东西，我可以让给你
 \se ʑɣɤsɤtɯɣ
 \ps vi
+\ng refl
+\ng caus
 \ge aller à la rencontrer de 
 \gn 去找（某人）
 \cf amɯtɯɣ
@@ -23031,6 +23039,7 @@
 \ev ɯ-mŋu ɯ-pa pjɯ-ru ɲɯ-ŋu kɤ-ti
 \se ʑɣɤβʁum
 \ps vi
+\ng refl
 \ge s'allonger sur le ventre
 \gn 趴着（躺着）
 \xv pjɯ-ʑɣɤβʁum ku-nɯ-rŋgɯ ɲɯ-ŋu
@@ -23165,6 +23174,8 @@
 \gn 灌醉
 \se ʑɣɤsɯβzi
 \ps vi
+\ng refl
+\ng caus
 \ge se rendre saoul
 \gn 喝醉
 \xv kɤ-ʑɣɤsɯβzi mɤ-ra 
@@ -23992,6 +24003,8 @@
 \ps vi
 \pdl dir 
 \pdv _
+\ng refl
+\ng caus
 \ge (se faire) disparaître
 \gn 使自己消失
 \xv ɯʑo kɤ-ari nɤ kɤ-ari tɕe, kɤ-ʑɣɤsɯɕqhlɤt
@@ -24134,6 +24147,7 @@
 \ps vi
 \pdl dir 
 \pdv nɯ-
+\ng refl
 \ge économiser ses forces
 \gn 节省自己的体力
 \xv ɕɤxɕo ɲɯ-ʑɣɤɕtʂat-a ɲɯ-ntshi ma a-phoŋbu mɤ-cha ɲɯ-ŋu
@@ -24428,6 +24442,7 @@
 \se ʑɣɤɕɯnŋo
 \ps vi
 \ng refl
+\ng caus
 \ge causer soi-même sa défaite
 \gn 使自己失败
 \sy ko
@@ -24469,6 +24484,7 @@
 \se ʑɣɤɕɯɴqoʁ
 \ps vi
 \ng refl
+\ng caus
 \pdl dir 
 \pdv tɤ-
 \ge se laisser pendre
@@ -25680,6 +25696,8 @@
 \xn 把你的东西收拾一下，把它们堆整齐
 \se ʑɣɤɣɤβdi
 \ps vi
+\ng refl
+\ng caus
 \ge se soulager (en se massant, par exemple)
 \gn 令自己好受一些（例如：揉自己的身体）
 \xv tɯʑo kɤ-ʑɣɤɣɤβdi mɤ-sɤcha
@@ -26651,6 +26669,7 @@
 \xn 我把皮子浸泡在水里了
 \se ʑɣɤɣɤla
 \ps vi
+\ng refl
 \pdl dir 
 \pdv pɯ-
 \ng refl
@@ -30015,6 +30034,7 @@ da.lie 打猎
 \xn 他要换给我
 \se ʑɣɤkho
 \ps vi
+\ng refl
 \ge se donner à
 \gn 把自己交给
 \xv nɤʑo ʁgra ɯ-jaʁ nɯtɕu ɲɯ-tɯ-nɯ-ʑɣɤkho ʑo ɯ-mɤ-kɯ-ɕti-ci?
@@ -30228,6 +30248,7 @@ da.lie 打猎
 \gn 分给
 \se ʑɣɤkro
 \ps vi
+\ng refl
 \pdl dir 
 \pdv pɯ-
 \ge se séparer
@@ -30778,6 +30799,7 @@ da.lie 打猎
 \gn 在上游 
 \se ʑɣɤmaŋlo
 \ps vi
+\ng refl
 \pdl dir 
 \pdv lɤ-
 \ge se mettre en amont
@@ -30951,6 +30973,7 @@ da.lie 打猎
 \se ʑɣɤmɤmu
 \pdl dir 
 \pdv tɤ-
+\ng refl
 \ge occuper la place la plus importante
 \gn 自己占主要地位
 \xv jiɕqha nɯ-phe tɯrju kɤ-βzu ɲɯra ri, aʑo tɤ-ʑɣɤmɤmu-a
@@ -31008,6 +31031,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng refl
 \ge se mettre au milieu
 \gn 走到中间
 \ue réfléchi dérivé d'un verbe intransitif
@@ -32349,6 +32373,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ng refl
+\ng caus
 \ge s'envelopper dans
 \gn 把自己裹在
 \se amphɯmphɯr
@@ -33930,6 +33955,8 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv kɤ-
+\ng refl
+\ng caus
 \ge faire attendre les autres
 \gn 令别人等
 \xv ma-kɤ-tɯ-ʑɣɤ-z-nɤjo
@@ -34952,6 +34979,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv nɯ-
+\ng refl
 \ge attraper froid
 \gn 令自己受凉
 \xv nɯ-ʑɣɤnɤndʐo-a
@@ -35719,6 +35747,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng refl
 \ge se forcer
 \gn 强迫自己
 \xv kɤ-ndza a-tɤ-tɯ-ʑɣɤnɤrko
@@ -38111,6 +38140,7 @@ da.lie 打猎
 \se ʑɣɤntsɣe
 \wav8 YWtWnWntsGe
 \ps vi
+\ng refl
 \ge se trahir
 \gn 出卖自己
 \xv nɤʑo ɲɯ-tɯ-nɯ-ʑɣɤntsɣe ʑo ɲɯ-ɕti
@@ -38857,7 +38887,7 @@ da.lie 打猎
 \pdv thɯ-
 \ge enfler 
 \gn 肿起来 
-\xv βɣaza (βɣɤrtshi) kɯ kó-wɣ-mtsɯɣa tɕe chɤ-nɯɣmbɤβ
+\xv βɣaza (βɣɤrtshi) kɯ kó-wɣ-mtsɯɣ-a tɕe chɤ-nɯɣmbɤβ
 \xn 苍蝇（蚊子）叮了我就肿了
 \xv aj-aʁ, a-mi chɤ-nɯɣmbɤβ
 \xn 我的手，我的脚肿了
@@ -39500,6 +39530,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng refl
 \ge être trompé
 \gn 被骗
 \cf khramba
@@ -40616,6 +40647,8 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv nɯ-
+\ng refl
+\ng caus
 \ge se faire maigrir
 \gn 令自己变瘦
 \an nɯɲɤmsɯ
@@ -42181,6 +42214,7 @@ da.lie 打猎
 \xn 医生给我治了病
 \se ʑɣɤnɯsmɤn
 \ps vi
+\ng refl
 \ge se traiter
 \gn 看病
 \xv nɤʑo ɕɯ-tɯ-ʑɣɤ-nɯsmɤn ɯ-ŋu?
@@ -42880,6 +42914,7 @@ da.lie 打猎
 \gn 照顾
 \et fn:照顾
 \se ʑɣɤnɯtʂawku
+\ng refl
 \ge prendre soin de soi
 \gn 照顾自己
 \xv nɤʑo tu-tɯ-ʑɣɤnɯtʂawku mɯ́j-tɯ-cha ɕti 
@@ -43596,6 +43631,8 @@ da.lie 打猎
 \se ʑɣɤsɤɲɟoʁ
 \wav8 kAZGAsAYJoRa
 \ps vi
+\ng refl
+\ng caus
 \pdv kɤ-
 \pdl dir 
 \ge se coller sur
@@ -45553,6 +45590,7 @@ da.lie 打猎
 \xn 那位大娘是关心别人的
 \se ʑɣɤraχtɕɤz
 \ps vi
+\ng refl
 \ge bien se traiter soi-même
 \gn 优待自己
 \dt 17/May/2014
@@ -45627,6 +45665,7 @@ da.lie 打猎
 \xn 装过牛奶的瓶子里面干硬了，很难洗，我只好用指甲扣掉
 \se ʑɣɤrɤβraʁ
 \ps vi
+\ng refl
 \ge se gratter
 \gn 给自己抓痒
 \xv paʁ khrɯɣnɤkhrɯɣ ɲɯ-ʑɣɤrɤβraʁ
@@ -47380,6 +47419,8 @@ da.lie 打猎
 \xn 我把东西收拾好了
 \se ʑɣɤsɯrku
 \ps vi
+\ng refl
+\ng caus
 \ge se mettre dans
 \gn 让自己加入
 \sy ʑɣɤsɤri
@@ -47785,9 +47826,10 @@ da.lie 打猎
 \xv nɤ-ku ko-tɯ-nɯrpu-t tɕe pjɤ-tɯ-phɤβ pjɤ-ra
 \xn 你撞了头，你本来应该低头
 \se ʑɣɤrpu
+\ps vi
 \pdl dir 
 \pdv kɤ-
-\ps vi
+\ng refl
 \ge se cogner 
 \gn 撞到自己 
 \nq revoir
@@ -47937,8 +47979,9 @@ da.lie 打猎
 \xv smɤnba kɯ tɤ́-wɣ-sɯ-rto-ʁa
 \xn 他请了医生给我看病
 \se ʑɣɤsɯrtoʁ
-\ps vi
 \wav8 ZGAsWrtoR
+\ps vi
+\ng refl
 \xv smɤnba ɯ-phe kɯ-ʑɣɤsɯrtoʁ lɤ-ari
 \xn 他去看病了
 \xv ɕ-tɤ-ʑɣɤsɯrtoʁ
@@ -49011,6 +49054,7 @@ da.lie 打猎
 \xn 我应该尊重他
 \se ʑɣɤrɯxtɯwxti
 \ps vi
+\ng refl
 \ge être vaniteux
 \gn 自大
 \cf wxti
@@ -51978,11 +52022,12 @@ da.lie 打猎
 \se ʑɣɤsɤsɯɣ
 \ps vi
 \pdl dir 
+\pdv tɤ-
+\ng refl
 \ge faire le maximum
 \gn 努力、抓紧时间
 \xv tɯ-βzjoz kɤ-ʑɣɤsɤsɯɣ ra
 \xn 要努力学习
-\pdv tɤ-
 \cf asɯɣ
 \dt 18/May/2014
 
@@ -52474,6 +52519,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv _
+\ng refl
 \ge revenir
 \gn 回来
 \xv @jieshang kɤ-ari-a tɕe, nɯ-ʑɣɤsɤzɣɯt-a
@@ -53200,6 +53246,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng refl
 \ge se livrer (à la justice)
 \gn 把自己交给上级、自首
 \xv aʑo tɤ-ʑɣɤsprat-a
@@ -53716,6 +53763,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng refl
 \ge faire des fumigations rituelles pour soi-même
 \gn 为自己求烟子
 \xv tɤ-ʑɣɤsɯfsaŋ-a
@@ -53861,6 +53909,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv nɯ-
+\ng refl
 \ge se noircir
 \gn 给自己抹黑
 \xv tɤ-pɤtso ni tɤɣro kɯ ɲɯ-ʑɣɤsɯɣɲaʁ-ndʑi ʑo
@@ -54595,6 +54644,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv nɯ-
+\ng refl
 \ge s'entraîner
 \gn 训练自己
 \xv ɲɯ-ʑɣɤsɯxɕat-a
@@ -55764,6 +55814,8 @@ da.lie 打猎
 \xn 我令他明白了这句话的意思
 \se ʑɣɤsɯxtso
 \ps vi
+\ng refl
+\ng caus
 \ge faire en sorte de comprendre
 \gn 让自己明白
 \xv tɯrju kɤ-ʑɣɤsɯxtso ra
@@ -56765,6 +56817,7 @@ da.lie 打猎
 \xn 我在墙上靠了背
 \se ʑɣɤχtɤt 
 \ps vi
+\ng refl
 \ge s'appuyer sur 
 \gn 靠 
 \un “靠”的引申意义（如“这件事靠你了”）不能用{ʑɣɤχtɤt}或{ʑɣɤta}来表示，参看{ti}“说”
@@ -58210,6 +58263,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv pɯ-
+\ng refl
 \ge faire semblant, orgueilleux 
 \gn 装做、傲慢 
 \hbf 1105 
@@ -58257,6 +58311,7 @@ da.lie 打猎
 \wav vi-ZGAsACke
 \wav8 ZGAsACke
 \ps vi
+\ng refl
 \ge se brûler
 \gn 烫到自己
 \xv ma-pɯ-tɯ-ʑɣɤsɤɕke
@@ -58301,20 +58356,12 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv nɯ-
-\ge se transformer 
-\gn 转换成 
-\hbf *kɯsɤr.234 
-\et sprul
-\dt 24/Aug/2012
-
-\lx _ʑɣɤsprɯl
-\ps vi
-\pdl dir 
-\pdv nɯ-
+\ng refl
 \ge se déguiser, se transformer 
 \gn 装扮成，转变成 
 \xv ɬandʐi nɯ tɯrme ɲɯ-ʑɣɤsprɯl ŋgrɤl
 \xn 鬼会把自己变成
+\et sprul
 \dt 24/Aug/2012
 
 \lx _ʑɣɤstu
@@ -58337,6 +58384,8 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv pɯ-
+\ng refl
+\ng caus
 \ge être jeté
 \gn 被摔下来
 \xv mbro to-nɯmbrɤpɯ tɕe pjɤ-ʑɣɤsɯβde
@@ -58404,6 +58453,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv _
+\ng refl
 \ge se rapprocher et entrer en contact avec
 \gn 靠拢
 \xv ma-thɯ-tɯ-ʑɣɤsɯxtɯɣ ma nɤ-ŋga sɯ-pɣi
@@ -58421,6 +58471,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv _
+\ng refl
 \ge s’adosser à, s'appuyer 
 \gn 靠 
 \hbf 1475 
@@ -58438,6 +58489,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng refl
 \ge se pendre 
 \gn 上吊 
 \hbf 1275
@@ -58496,6 +58548,8 @@ da.lie 打猎
 \xn 她平息了怒气
 \se ʑɣɤsɯɣʑi
 \ps vi
+\ng refl
+\ng caus
 \ge se calmer
 \gn 平静下来
 \dt 02/Nov/2014
