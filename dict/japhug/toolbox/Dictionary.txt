@@ -59557,7 +59557,7 @@ da.lie 打猎
 \wav vi-GACnWGlWG
 \ps idph.4
 \ge irrespectueux
-\gn 不稳重、说话没有礼貌、不尊重人的样子
+\gn 形容不稳重、说话没有礼貌、不尊重人的样子
 \xv jiɕqha nɯ ɯ-zda ra nɯ-phe ɕnɯɣnɤlɯɣ ɲɯ-ʑɣɤstu
 \xn 那个人在伙计面前不稳重
 \se ɣɤɕnɯɣlɯɣ
