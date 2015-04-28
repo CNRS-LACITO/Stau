@@ -17901,6 +17901,7 @@
 \lx _aɣɯβluβra
 \wav vi-asGWBluBra
 \ps vs
+\ng denom
 \ge habile
 \gn 办法很多的
 \xv jiɕqha nɯ kɯ-ɤɣɯβluβra ci ɲɯ-ŋu
@@ -17921,6 +17922,7 @@
 \ps vs
 \pdl dir 
 \pdv thɯ-
+\ng denom
 \ge qui a beaucoup de chair
 \gn 肉多
 \xv ki paʁ ki ɲɯ-ɤɣɯɕa
@@ -17931,6 +17933,7 @@
 
 \lx _aɣɯɕɤrɯ
 \ps vs
+\ng denom
 \ge qui a la peau sur les os
 \gn 瘦
 \sy nɯɲɤmkhe
@@ -17939,14 +17942,17 @@
 
 \lx _aɣɯɕnɯɕna
 \ps vs
+\ng denom
 \ge qui a le sens de l'odorat
 \gn 有嗅觉
 \xv kɯ-ɤɣɯɕnɯɕna ʁɟa ɕti tɕe, tɤ-di mtshɤm-nɯ
 \xn 他们都有嗅觉，也会闻到臭味
+\cf tɯ-ɕna
 \dt 07/Aug/2012
 
 \lx _aɣɯɕnɯɕnaβ
 \ps vs
+\ng denom
 \ge visqueux
 \gn 黏稠、像胶水
 \cf tɯ-ɕnaβ
@@ -17972,6 +17978,7 @@
 
 \lx _aɣɯɣli
 \ps vs
+\ng denom
 \ge qui produit beacoup de purin
 \gn 粪多的
 \cf tɯ-ɣli
@@ -18053,6 +18060,7 @@
 
 \lx _aɣɯlu
 \ps vi
+\ng denom
 \ge qui a beaucoup de lait
 \gn 奶水多（母牛）
 \xv ki nɯŋa ki ɲɯ-ɤɣɯlu
@@ -18062,6 +18070,7 @@
 
 \lx _aɣɯmar
 \ps vi
+\ng denom
 \ge qui peut produire beaucoup de beurre
 \gn 可以打出很多酥油
 \xv ki nɯŋa ɯ-lu ɲɯ-ɤɣɯmar
@@ -18103,6 +18112,7 @@
 
 \lx _aɣɯmɲaʁ
 \ps vs
+\ng denom
 \ge qui a beaucoup de trous, qui a des yeux
 \gn 有很多小洞，有眼睛
 \xv nɤki tshaʁ wuma ʑo ɲɯ-ɤɣɯmɲaʁ
@@ -18133,6 +18143,7 @@
 
 \lx _aɣɯmtɕhi
 \ps vs
+\ng denom
 \ge bavard
 \gn 说话很多
 \xv ki tɯrme ki kɯ-ɤɣɯmtɕhi ci ŋu
@@ -18142,6 +18153,7 @@
 
 \lx _aɣɯmɯmi
 \ps vs
+\ng denom
 \ge qui a beaucoup de pattes
 \gn 脚很多
 \cf aɣɯjɯjaʁ
@@ -18150,6 +18162,7 @@
 
 \lx _aɣɯndzɣi
 \ps vs
+\ng denom
 \ge qui a des crocs
 \gn 有獠牙
 \xv srɯnmɯ ɲɯ-ɤɣɯndzɯndzrɯ ɲɯ-ɤɣɯndzɯndzɣi
@@ -18159,6 +18172,7 @@
 
 \lx _aɣɯndzrɯ
 \ps vs
+\ng denom
 \ge qui a des griffes
 \gn 有爪子
 \xv srɯnmɯ ɲɯ-ɤɣɯndzɯndzrɯ ɲɯ-ɤɣɯndzɯndzɣi
@@ -18184,6 +18198,7 @@
 
 \lx _aɣɯŋgɤr
 \ps vs
+\ng denom
 \ge qui a beaucoup de lard
 \gn 猪膘多
 \xv ki paʁ ki ɲɯ-ɤɣɯŋgɤr
@@ -18196,6 +18211,7 @@
 \ps vi
 \pdl dir 
 \pdv thɯ-
+\ng denom
 \ge être l'un dans l'autre (sac etc)
 \gn 一层层叠在一起（袋子）、由很多层组成的
 \xv cho-kɤɣɯŋgɯŋgɯ-ci
@@ -18220,6 +18236,7 @@
 
 \lx _aɣɯŋkɯ
 \ps vs
+\ng denom
 \ge qui a la couenne épaisse
 \gn 皮子很厚（猪）
 \xv ki paʁ ki ɲɯ-ɤɣɯŋkɯ
@@ -18256,6 +18273,7 @@
 
 \lx _aɣɯpɯpɯ
 \ps vs
+\ng denom
 \ge qui a beaucoup de petits
 \gn 生很多崽子
 \cf tɤ-pɯ
@@ -18263,6 +18281,7 @@
 
 \lx _aɣɯqe
 \ps vs
+\ng denom
 \ge qui produit beaucoup d'excréments
 \gn 屙很多屎
 \xv ki paʁ ki ɲɯ-ɤɣɯqe
@@ -18272,6 +18291,7 @@
 
 \lx _aɣɯrɟit
 \ps vs
+\ng denom
 \ge qui a beaucoup d'enfants
 \gn 生很多孩子
 \cf tɤ-rɟit
@@ -18292,6 +18312,7 @@
 
 \lx _aɣɯrmbi
 \ps vs
+\ng denom
 \ge qui urine souvent
 \gn 经常撒尿
 \xv nɤki tɤ-pɤtso nɯ ɲɯ-ɤɣɯrmbi
@@ -18316,6 +18337,7 @@
 
 \lx _aɣɯrna
 \ps vs
+\ng denom
 \ge qui a des oreilles
 \gn 长有耳朵
 \xv nɤki tɯrme ra kɯ-ɤɣɯrna ʁɟa ɕti tɕe mtshɤm-nɯ
@@ -18339,6 +18361,7 @@
 
 \lx _aɣɯrŋa
 \ps vs
+\ng denom
 \ge se ressembler
 \gn 脸很像
 \xv a-pi cho ɯ-ɲɯ-ɤ́ɣɯrŋa-tɕi?
@@ -18349,15 +18372,18 @@
 \lx _aɣɯrpaʁ
 \wav vi-AGWrpaR
 \ps vi
+\ng denom
 \ge s'entendre bien
 \gn 合得来
 \xv nɯni ɲɯ-ɤɣɯrpaʁ-ndʑi
 \xn 那两个人很合得来
 \cf anɤrpɯrpaʁ
+\cf tɯ-rpaʁ
 \dt 05/Jan/2011
 
 \lx _aɣɯrqhu
 \ps vs
+\ng denom
 \ge qui a une écorce épaisse
 \gn 树皮很厚、很多
 \xv sɤjku cho mbrɤj ni aɣɯrqhu-ndʑi
@@ -18369,6 +18395,7 @@
 \ps vs
 \pdl dir 
 \pdv thɯ-
+\ng denom
 \ge qui produit beaucoup de graisse
 \gn 白油多
 \xv ki paʁ ki ɲɯ-ɤɣɯrtsi
@@ -18426,6 +18453,7 @@
 
 \lx _aɣɯrɯru²
 \ps vs
+\ng denom
 \ge qui a plusieurs troncs, et peu de feuilles et de branches
 \gn 树干很多，叶子和树枝不多
 \xv ki si ki kɯ-ɤɣɯrɯru ci ɲɯ-ŋu ma ɯ-jwaʁ mɯ́j-dɤn
@@ -18435,6 +18463,7 @@
 
 \lx _aɣɯrɯz
 \ps vs
+\ng denom
 \ge hériter (d'un trait)
 \gn 继承
 \xv ɯʑo ɯ-skɤt kɯ-sna nɯ, ɯ-wa ɲɤ-kɤɣɯrɯz-ci
@@ -18450,6 +18479,7 @@
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge ridé 
 \gn 皱（脸） 
 \hbf 995 
@@ -18466,6 +18496,7 @@
 \ps vs
 \pdl dir 
 \pdv thɯ-
+\ng denom
 \ge qui a beaucoup de laine
 \gn 毛长得多
 \xv ki qaʑo ki ɲɯ-ɤɣɯsmɤɣ
@@ -18522,9 +18553,9 @@
 \lx _aɣɯtɕha
 \wav vi-aGWtCha
 \ps vi
-\ng denom
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge être par paire
 \gn 成双 
 \xv ki tɯ-xtsa ki ɲɯ-ɤɣɯtɕha
@@ -18543,6 +18574,7 @@
 \ps vs
 \pdl dir 
 \pdv thɯ-
+\ng denom
 \ge qui produit beaucoup de graisse
 \gn 白油多
 \xv ki paʁ ki ɲɯ-ɤɣɯtʂɤm
@@ -18571,6 +18603,7 @@
 \ng denom
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge vénéneux 
 \gn 有毒性 
 \et dug
@@ -18586,6 +18619,7 @@
 
 \lx _aɣɯxɕɤt
 \ps vs
+\ng denom
 \ge efficace
 \gn 效果好
 \xv ki smɤn ki ɲɯ-ɤɣɯxɕɤt
@@ -18607,9 +18641,10 @@
 \ps vi
 \pdl dir 
 \pdv kɤ-
+\ng denom
 \ge être ensemble 
 \gn 互相陪伴 
-\xv ko-kɤɣɯzdandʑi-ci
+\xv ko-kɤɣɯzda-ndʑi-ci
 \xn 他们俩互相陪伴了
 \dt 24/Aug/2012
 
@@ -18889,7 +18924,7 @@
 \ps vi
 \pdl dir 
 \pdv tɤ-
-\ng pass
+\ng denom
 \ge bariolé 
 \gn 花 的（颜色）
 \hbf 1098 
@@ -38325,9 +38360,10 @@ da.lie 打猎
 \ps vs
 \pdl dir
 \pdv lɤ-
+\ng denom
 \ge être saoûl
 \gn 喝醉
-\an βzi
+\sy βzi
 \cf cha
 \dt 06/May/2014
 
@@ -38482,6 +38518,7 @@ da.lie 打猎
 \lx _nɯɕkat
 \wav8 nWCkat
 \ps vi
+\ng denom
 \ge transporter à dos d'animal
 \gn 驮东西
 \xv aʑo kɯ-nɯɕkat ŋu-a
@@ -38675,6 +38712,7 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge préparer 
 \gn 准备、收拾 
 \hbf 1812 
@@ -39072,7 +39110,7 @@ da.lie 打猎
 \ge avoir comme passion 
 \gn 有这个 爱好
 \hbf *srɤs.2 
-\et yon.tan
+\et jon.tan
 \xv nɤ-mɲitsi kɤ-rɤβzjoz ntsɯ pɯ-tɯ-nɯjɤntɤn
 \xn 这一辈子你的爱好是学习
 \xv kɯ-fɕi pɯ-tɯ-nɯjɤntɤn
@@ -39177,6 +39215,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv pɯ-
+\ng denom
 \ge être l'objet du rêve de quelqu'un 
 \gn 出现在别人的梦中 
 \un 表示好兆头
@@ -39264,6 +39303,7 @@ da.lie 打猎
 \pdv nɯ-
 \pdl dir
 \pdv pɯ-
+\ng denom
 \ge aller chercher des herbes sauvages
 \gn 去采集野菜
 \xv sɯŋgɯ ʑ-nɯ-nɯkɤrŋi-a
@@ -39364,6 +39404,7 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge faire un souhait
 \gn 许愿 
 \hbf 1196
@@ -39417,6 +39458,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge habiter chez quelqu'un 
 \gn 借住 
 \xv jɯfɕɯr ji-kɯ-nɯkho ʁnɯz pɯtu, χsɯm pɯtu
@@ -39557,6 +39599,7 @@ da.lie 打猎
 \ng denom
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge cher 
 \gn 贵 
 \hbf 1054 
@@ -39736,6 +39779,7 @@ da.lie 打猎
 \ps vt
 \pdl dir
 \pdv thɯ-
+\ng denom
 \ge porter aux grandes occasions
 \gn 打扮、在特定的情况才穿
 \xv tɤrɣe nɯ chɯ-nɯkɯmpɕɤr ɕti ma ɯ-xso tɕe mɤ-ntɕhoz
@@ -39776,6 +39820,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge fêter le nouvel an 
 \gn 过年 
 \hbf 1362 
@@ -40040,6 +40085,7 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv _
+\ng denom
 \ge traverser 
 \gn 越过 
 \hbf 1771
@@ -40227,6 +40273,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv thɯ-
+\ng denom
 \ge tôt 
 \gn 起得早 
 \hbf 1018
@@ -40484,7 +40531,6 @@ da.lie 打猎
 \lx _nɯnthoʁnthɯɣ
 \wav vt-nWnthoRnthWG
 \ps vi
-\ng rdpl
 \pdl dir 
 \pdv tɤ-
 \pdl dir 
@@ -40496,17 +40542,10 @@ da.lie 打猎
 \xn 我捡了地上的垃圾
 \xv χanɯni ɕ-tu-nɯnthoʁnthɯɣ-a nɤ
 \xn 我要去捡一下！
-\dt 15/Jan/2015
-
-\lx _nɯnthoʁnthɯɣ
-\ps vt
-\pdl dir
-\pdv tɤ-
-\ge ramasser les ordures partout
-\gn （到处）捡垃圾
 \xv kɤ-nɯthoʁnthɯɣ mɤ-ra
 \xn 不要到处捡垃圾
-\dt 22/May/2014
+\dt 15/Jan/2015
+
 
 \lx _nɯntsho
 \wav vt-nWntsho
@@ -40648,6 +40687,7 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\ng denom
 \ge être payé pour un travail 
 \gn 拿到工钱
 \xv laχtɕha kɤ-tsɯm tɤ-nɯŋgra-a
