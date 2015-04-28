@@ -56198,7 +56198,7 @@ da.lie 打猎
 \pdv tɤ-
 \ng apass
 \xv z-rɤxsɯr
-\gn 炒锅（用来炒菜的工具）
+\xn 炒锅（用来炒菜的工具）
 \dt 20/Oct/2012
 
 \lx _xtɕɤr
