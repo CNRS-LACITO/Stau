@@ -59145,13 +59145,13 @@ da.lie 打猎
 \wav ideo-crWG-b
 \ps idph.2
 \ge en désordre
-\gn 乱七八糟（很多东西）
+\gn 形容乱七八糟的样子（很多东西）
 \xv laχtɕha crɯɣcrɯɣ ʑo ko-rmbɯ
 \xn 他乱七八糟地堆了东西
 \se ɣɤcrɯɣlɯɣ
 \ps vi
 \ge beaucoup d'objets en désordre qui s'entrechoquent
-\gn 很多硬的乱七八糟东西相碰发出声音 
+\gn 很多硬的乱七八糟的东西相碰发出声音 
 \dt 18/May/2014
 
 \lx $crɯmcrɯm
