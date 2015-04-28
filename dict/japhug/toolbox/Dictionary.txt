@@ -59473,11 +59473,11 @@ da.lie 打猎
 \ge rond et lisse
 \gn 又圆又光滑（发光）
 \xv ɯ-laz ɕlaŋɕlaŋ to-tɕɤt
-\xn 他把头探出来了，是光头的
+\xn 他把头探出来了，是光头
 \xv ɯ-ku ɕlaŋɕlaŋ to-stu
-\xn 他的头光滑得发光
+\xn 他的头光滑得发亮
 \xv ɯ-ku pjɤ-nɯ-sɯ-qrɤz tɕe, ɕlaŋɕlaŋ ʑo ɲɯ-pa
-\xn 他理了发（把头发剃光了就）光滑得发光
+\xn 他理了发（把头发剃光了就）光滑得发亮
 \cf slaŋslaŋ
 \cf claŋclaŋ
 \cf rlaŋrlaŋ
