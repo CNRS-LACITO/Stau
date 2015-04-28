@@ -59645,7 +59645,7 @@ da.lie 打猎
 \wav8 CpArCpAr
 \ps idph.2
 \ge rond et large
-\gn 又圆又大（难看） 
+\gn 形容又圆又大的样子（难看） 
 \xv nɯŋaqe ɕpɤɕpɤr ʑo ɲɯ-pa
 \xn 牛屎又圆又大
 \xv jlaqe ɕpɤɕpɤr ʑo ɲɯ-pa
