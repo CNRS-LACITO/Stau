@@ -20523,7 +20523,6 @@
 \pdv thɯ-
 \ge grisâtre 
 \gn 灰扑扑
-\hbf *mɲirgɤt1.6
 \xv jiɕqha nɯ kɯ-ɤpɣɯlu ci ɲɯŋu
 \xn 刚才那个是灰扑扑的
 \sy apɤpɣi
@@ -51216,7 +51215,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \pdl dir 
-\pdv t1-
+\pdv tɤ-
 \ge hocher de la tête
 \gn 点头 
 \hbf 1267 
@@ -51813,7 +51812,7 @@ da.lie 打猎
 \gn 听别人的劝告 
 \xv ɲɯ-sɤsɤŋo
 \xn 他听别人的意见
-\cf sɤŋo
+\cf sɤŋo¹
 \dt 20/Nov/2011
 
 \lx _sɤschrɤβlɤβ
@@ -62106,7 +62105,6 @@ da.lie 打猎
 \ps adv
 \ge jusqu'à, sinon
 \gn 一直到、不然
-\hbf *mɲirgɤt1.14
 \xv lɤsɤr ɯ-qhu mɤɕtʂa a-ʁa me ɲɯ-ŋu
 \xn 直到新年以后我没有空
 \xv nɯ mɤɕtʂa nɯ kɤ-ti mɯ-pɯ-mtsha-ma
