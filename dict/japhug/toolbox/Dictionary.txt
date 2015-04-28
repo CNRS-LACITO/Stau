@@ -59589,7 +59589,7 @@ da.lie 打猎
 \lx $ɕŋaʁɕŋaʁ²
 \ps idph.2
 \ge malin et agaçant (enfant) 
-\gn 小孩子又机灵又瘦小又讨厌的样子 
+\gn 形容小孩子又机灵又瘦小又讨厌的样子 
 \xv ki tɤ-rɟit ki ɕŋaʁɕŋaʁ ʑo ɲɯ-pa 
 \xn 这个孩子摆出一副机灵的样子，真令人讨厌
 \se ɣɤɕŋaʁɕŋaʁ
@@ -59599,7 +59599,7 @@ da.lie 打猎
 \ge parler sans arrêt à tort et à travers
 \gn 不停地乱说话
 \xv aʁɤndɯndɤt pɯ-tɯ-ɣɤɕŋaʁɕŋaʁ ntsɯ
-\xn 你处制造谎言
+\xn 你四处制造谎言
 \dt 16/Nov/2011
 
 \lx ^ɕom¹
