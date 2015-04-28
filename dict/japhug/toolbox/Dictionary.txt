@@ -47004,6 +47004,7 @@ da.lie 打猎
 \xn 我呆在家里了
 \xv ʁnɯ-sŋi, χsɯ-sŋi jamar ma mɤ-rɤʑi
 \xn 他只待两三天（就回来）
+\cf zrɤʑi
 \dt 24/Jun/2011
 
 \lx _rdɤβ
@@ -57877,6 +57878,10 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv kɤ-
+\sn 1
+\ge faire habiter 
+\gn 使……住在
+\sn 2
 \ge laisser 
 \gn 留下 
 \xv ɯʑo kɯre kɤ-zrɤʑi-t-a
