@@ -59673,11 +59673,11 @@ da.lie 打猎
 \wav ideo-CphAB-b2
 \ps idph.2
 \ge couché par terre sans bouger 
-\gn 卧在地上不动的样子 
+\gn 形容卧在地上不动的样子 
 \xv nɯ tɯrme ɕphɤβɕphɤβ ɲɯ-nɯ-rŋgɯ
 \xn 那个人躺在地上不动
 \xv jla ɕphɤβɕphɤβ ko-nɯ-rŋgɯ
-\xn 犏牛躺在地不动了
+\xn 犏牛躺在地上不动了
 \xv ɯ-thoʁ ɕphɤβɕphɤβ ʑo ɲɯ-rɤʑi, kɤ-nɯqambɯmbjom mɯ́j-cha
 \xn （鸟）躺在地上，飞不起来了
 \dt 07/Nov/2011
