@@ -59036,7 +59036,7 @@ da.lie 打猎
 \xv kha nɯ chɯpchɯp ma-kɤ-tɯ-ste
 \xn 你不要把家里弄得那么乱
 \xv tɕhaχɯ ɲɯ-ɲaʁ chɯβchɯβ ʑo ɲɯ-pa 
-\xn 茶壶又脏有黑的样子
+\xn 茶壶又脏又黑的样子
 \se chɯβ
 \ps idph.1
 \ge bruit d'objet qui se casse
