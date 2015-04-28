@@ -59704,7 +59704,7 @@ da.lie 打猎
 \se ɕphɯɣnɤɕphɯɣ
 \ps idph.3
 \xv a-taʁ tɯ-ci ɕphɯɣnɤɕphɯɣ ta-lɤt
-\xn （互相洒水），他对我洒水了（一次又一次）
+\xn （互相洒水），他朝我洒水了（一次又一次）
 \dt 07/Nov/2011
 
 \lx $ɕqɤt
