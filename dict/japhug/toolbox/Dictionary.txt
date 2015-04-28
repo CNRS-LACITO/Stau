@@ -2567,8 +2567,7 @@
 \gn 楼房 
 \hbf maison 
 \cf kha
-\cf tɤrtsɤɣ
-\xn
+\cf tɤ-rtsɤɣ
 
 \lx khɤʁɤri
 \ps n
@@ -72373,6 +72372,40 @@ l
 \gn 挼成一坨
 \cf artɯm
 
-
 \lx sɤrtɯmloʁ
 \cf artɯmloʁ
+
+\lx Katɕa
+\ps n
+\ge Katcha (village de Gdongbrgyad)
+\gn 尕渣
+
+\lx Rqaco
+\ps n
+\ge Rqakyo (village de Gdongbrgyad)
+\gn 尕脚
+
+\lx Smɯlju
+\ps n
+\ge Smeliou (village de Gdongbrgyad)
+\gn 石木留
+
+\lx Mɯrʑa
+\ps n
+\ge Merja (village de Gdongbrgyad)
+\gn 木尔渣
+
+\lx mɤŋi
+\ps n
+\ge Mangi (village de Gdongbrgyad)
+\gn 蒙岩
+
+\lx ɣɟɯtshapa
+\ps n
+\ge Ercha (village de Gdongbrgyad)
+\gn 二茶
+
+\lx ʁdɯrɟɤt
+\ps n
+\ge Gdongbrgyad
+\gn 龙尔甲乡
