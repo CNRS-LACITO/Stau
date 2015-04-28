@@ -59092,10 +59092,10 @@ da.lie 打猎
 \wav ideo-clW-b
 \ps idph.2
 \ge noir et chauve
-\gn 又光头又黑 
+\gn 形容脑袋光溜溜又黑的模样
 \hbf *koŋzoŋ.348
 \xv jiɕqha tɤ-rɟit nɯ clɯclɯ ɲɯ-ɲaʁ
-\xn 小孩子，脸是黑的，又是光头的
+\xn 小孩子，脸是黑的，又是光头
 \se clɯnɤclɯ
 \ps idph.3
 \xv clɯnɤclɯ ɲɯ-ŋke
