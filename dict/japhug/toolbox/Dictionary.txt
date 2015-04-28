@@ -59457,7 +59457,7 @@ da.lie 打猎
 \wav ideo-CkWB-b
 \ps idph.2
 \ge dos courbé 
-\gn 驼着背的样子 （个子高）
+\gn 形容驼着背的样子 （个子高）
 \xv ɕkɯβɕkɯβ ʑo ɲɯ-ŋu
 \xn 他驼着背站在那里
 \se ɕkɯβnɤɕkɯβ
