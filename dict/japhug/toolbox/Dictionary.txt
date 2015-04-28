@@ -59504,7 +59504,7 @@ da.lie 打猎
 \ge rond et lisse
 \gn 又圆又光滑（发光）
 \xv ɕlinɤɕli kɤ-ari
-\xn 他（光头发光）地去了
+\xn 他（光头发光地)去了
 \cf claŋclaŋ
 \cf ɕlaŋɕlaŋ
 \dt 22/Apr/2013
