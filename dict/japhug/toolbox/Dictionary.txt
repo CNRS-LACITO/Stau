@@ -6041,11 +6041,12 @@
 \lx plaʁplaʁ
 \wav8 plaRplaR_Zo_kosWGrum
 \ps idph.2
+\sn 1
 \ge doux au toucher 
 \gn 形容摸起来很光滑的样子 
+\sn 2
 \ge tout blanc
 \gn 形容一片纯白的样子
-\hbf *taʁrdo.22 
 \xv tɤjpa plaʁplaʁ ʑo ko-sɯwɣrum
 \xn 雪把大地染成了白茫茫的一片
 \xv ɕɤfɕo ndɤre, thɯ-nɯrmɤmbe-nɯ, koŋla plaʁplaʁ ʑo thɯ-pa-nɯ
@@ -6412,8 +6413,10 @@
 
 \lx qhlɤβqhlɤβ
 \ps idph.2
+\sn 1
 \ge moyen, pas extrême (température, lumière etc)
 \gn 形容温度、光等等中等，不极端
+\sn 2
 \ge grisâtre
 \gn 灰扑扑的
 \xv tɯmɯ kɯ-jim tɕi ɲɯ-maʁ, kɯ-lɯβ tɕi ɲɯ-maʁ, qhlɤβqhlɤβ ʑo ɲɯ-pa
@@ -7060,8 +7063,10 @@
 
 \lx rʁɤβrʁɤβ
 \ps idph.2
+\sn 1
 \ge rugueux
 \gn 形容粗糙
+\sn 2
 \ge séparées, pas ramassées ensemble (feuilles)
 \gn 不连贯、分散（叶子）
 \xv zdɯɬa ɣɯ ɯ-jwaʁ nɯ kú-wɣ-rtoʁ qhe mɤ-andzoʁjoʁ kɯ rʁɤβrʁɤβ ʑo pa, tɕeri ɲɯ́-wɣ-nɤmɯma tɕe mnu ma mɤ-rʁom
@@ -7372,8 +7377,10 @@
 \lx ʁɟɯʁɟri
 \wav8 RJri
 \ps idph.2
+\sn 1
 \ge gras et mou
 \gn 形容胖而软的样子
+\sn 2
 \ge humide
 \gn 形容潮湿的样子
 \cf χcɯχcri
@@ -8039,8 +8046,10 @@
 \lx srɯnloʁ
 \wav n-srWnloR
 \ps n
+\sn 1
 \ge diadème en argent 
 \gn 头上的银制装饰品 、戒指
+\sn 2
 \ge anneau 
 \gn 戒指 
 \xv srɯnloʁ lɤ-nɯrʁe-t-a
@@ -8794,8 +8803,10 @@
 \lx tɤ-loʁ¹
 \wav n-tAloR
 \ps np
+\sn 1
 \ge terrier, nid 
 \gn 鸟窝，野兽的洞 
+\sn 2
 \ge berceau
 \gn 摇篮
 \hbf animal
@@ -8953,8 +8964,10 @@
 
 \lx tɤ-pɯ
 \ps n
+\sn 1
 \ge petit (animal)
 \gn 崽子
+\sn 2
 \ge intérêt 
 \gn 利息 
 \hbf 576 
@@ -9109,8 +9122,10 @@
 \wav8 tAro
 \wav8 ro
 \ps np
+\sn 1
 \ge en trop
 \gn 多余的
+\sn 2
 \ge reste 
 \gn 剩下的部分 
 \xv kɯki tɤ-ro tɕe, nɯ ma mɯ́j-ra
@@ -10691,8 +10706,10 @@
 \lx tɯ-ci
 \ps np
 \wav8 tWci_kAlAt
+\sn 1
 \ge eau 
 \gn 水 
+\sn 2
 \ge jus, lait (d'une plante)
 \gn 汁（植物）
 \hbf 47 
@@ -12546,8 +12563,10 @@
 
 \lx tɯ-rdoʁ
 \ps clf
+\sn 1
 \ge morceau 
 \gn 一块 
+\sn 2
 \ge grains
 \gn 粮食
 \sy tɯjpu
@@ -12719,8 +12738,10 @@
 
 \lx tɯrme
 \ps n
+\sn 1
 \ge homme 
 \gn 人 
+\sn 2
 \ge quelqu'un d'autre
 \gn 别人
 \hbf 167 
@@ -14316,8 +14337,10 @@
 
 \lx ɯ-khɯkha
 \ps np
+\sn 1
 \ge l'un après l'autre
 \gn 一个接着一个
+\sn 2
 \ge au moment où 
 \gn 的时候 
 \hbf *kɤndʑɯxtɤɣ.90 
@@ -14563,8 +14586,10 @@
 \wav8 Wqa_Zo_tunWlhoR_naRzia
 \wav8 Wqa_Zo_pjWnWlhoR
 \ps np
+\sn 1
 \ge racine, fond 
 \gn 根、底部
+\sn 2
 \ge patte
 \gn 野兽的脚
 \xv ɯ-qa ʑo tu-nɯɬoʁ naʁzi-a
@@ -14793,8 +14818,10 @@
 
 \lx ɯ-rɯz
 \ps np
+\sn 1
 \ge sorte, tour (travail) 
 \gn 类别、轮到自己（办事） 
+\sn 2
 \ge clairvoyance
 \gn 预见
 \hbf *ɲimawozɤr.101 
@@ -15169,8 +15196,10 @@
 \wav8 tshWGa2
 \wav8 ndZitWrWndzAtshi
 \ps np
+\sn 1
 \ge forme 
 \gn 形状
+\sn 2
 \ge méthode
 \gn 方法
 \xv kɤ-rɯɕmi kɯnɤ ɯ-tshɯɣa tɕe tu
@@ -15830,8 +15859,10 @@
 \wav8 XAlXAl
 \wav8 XAlXAl2
 \ps idph.2
+\sn 1
 \ge relâché, guéri, rassuré
 \gn 形容捆绑以后解开的宽松感、痊愈、放心的感觉
+\sn 2
 \ge disparaître
 \gn 消失得无影无踪（比较嘈杂的人或者动物）
 \xv χɤlχɤl chɤ-kɤrɕo-ci
@@ -16294,8 +16325,10 @@
 
 \lx χwɤrχwɤr
 \ps idph.2
+\sn 1
 \ge abîmé et déchiré
 \gn 形容破烂的样子
+\sn 2
 \ge ouvert (sac)
 \gn 形容向外展开的样子
 \xv ɯ-ŋga mɯ́j-pe tɕe χwɤrχwɤr ʑo ɲɯ-pa
@@ -16963,8 +16996,10 @@
 
 \lx ʑaʑa
 \ps n
+\sn 1
 \ge longtemps avant 
 \gn 早就 
+\sn 2
 \ge pendant longtemps
 \gn 很久
 \hbf *kɤndʑɯxtɤɣ.10
@@ -20359,8 +20394,10 @@
 \ps vi
 \pdl dir 
 \pdv nɯ-
+\sn 1
 \ge devenir
 \gn 变成（自然形成的）
+\sn 2
 \ge être fermé 
 \gn 关着
 \xv kɯm ɲɯ-ɤpa
@@ -21483,8 +21520,10 @@
 \ps vs
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge rond
 \gn 圆形的
+\sn 2
 \ge courbées l'une vers l'autre (cornes)
 \gn 往里面弯（角）
 \xv jla ɯ-ʁrɯ ɲɯ-ɤrɯcɤrna
@@ -22278,8 +22317,10 @@
 \ps vt
 \pdl dir 
 \pdv _
+\sn 1
 \ge mettre bien en place 
 \gn 对端、对着放
+\sn 2
 \ge profiter de l'occasion
 \gn 趁……的机会、恰恰在那个时候……
 \xv kɤ-qanɯ ʑo a-jɤ-tɯ-znɤtɯɣ tɕe a-jɤ-tɯ-ɣi nɯ!
@@ -27566,8 +27607,10 @@
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge ramper
 \gn 蠕动
+\sn 2
 \ge percer rapidement
 \gn 钻得很快
 \xv qapri ɲɯ-ɣɤrɲɯɣrɲɯɣ nɯ-ari
@@ -27798,8 +27841,10 @@ da.lie 打猎
 \wav8 YWGArWBrWB
 \ps vi
 \ng deidph
+\sn 1
 \ge couler sans arrêt
 \gn 不停地往下流
+\sn 2
 \ge radoter
 \gn 不停地唠叨
 \xv tɯ-ci ɲɯ-ɣɤrɯβrɯβ
@@ -30732,8 +30777,10 @@ da.lie 打猎
 \ps vs
 \pdl dir 
 \pdv nɯ-
+\sn 1
 \ge être tard 
 \gn 迟到
+\sn 2
 \ge être après
 \gn 以后
 \hbf 1019
@@ -31886,8 +31933,10 @@ da.lie 打猎
 \ng caus
 \pdl dir 
 \pdv pɯ-
+\sn 1
 \ge faire que quelqu'un s'étrangle, avale de travers
 \gn 呛到
+\sn 2
 \ge faire en sorte que quelqu'un n'arrive pas à répondre
 \gn 使人答不上来（开玩笑的时候）
 \xv tshɤj ɯ-ŋgɯ tɕɣom ɣɤʑu tɕe pɯ́-wɣ-sɯmkɯt-a
@@ -31903,8 +31952,10 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge meilleur
 \gn 优秀
+\sn 2
 \ge guérir
 \gn 痊愈、康复 
 \hbf 1580
@@ -33182,8 +33233,10 @@ da.lie 打猎
 \ng caus
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge faire pareil, rendre semblable
 \gn 使一样
+\sn 2
 \ge trouver semblable
 \gn 觉得一样
 \xv ndʑi-mbɯlwa ta-znaχtɕɯɣ
@@ -33804,8 +33857,10 @@ da.lie 打猎
 \pdv pɯ-
 \pdl dir 
 \pdv kɤ-
+\sn 1
 \ge attendre 
 \gn 等候 
+\sn 2
 \ge prendre (de l'eau) 
 \gn 接（液体、颗粒）
 \hbf 1264 
@@ -34205,8 +34260,10 @@ da.lie 打猎
 \pdv pɯ-
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge toucher 
 \gn 摸、弄 
+\sn 2
 \ge faire une tâche
 \gn 做一个工作（完成整个制作过程）
 \xv pɯ-nɤmɤle-t-a
@@ -37235,8 +37292,10 @@ da.lie 打猎
 \pdv tɤ-
 \pdl dir 
 \pdv thɯ-
+\sn 1
 \ge manger 
 \gn 吃 
+\sn 2
 \ge mâcher
 \gn 咀嚼
 \hbf 1198
@@ -42304,8 +42363,10 @@ da.lie 打猎
 \ng caus
 \pdl dir 
 \pdv _
+\sn 1
 \ge faire correctement 
 \gn 做得准
+\sn 2
 \ge atteindre la cible 
 \gn 射中 
 \hbf 1612
@@ -43892,8 +43953,10 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv caus
+\sn 1
 \ge faire marcher
 \gn 使走动
+\sn 2
 \ge emporter
 \gn 带走
 \xv aʑo tɤ-pɤtso tu-fkur-a tɕe tu-ɕɯŋke-a ŋu
@@ -44211,8 +44274,10 @@ da.lie 打猎
 \pdv kɤ-
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge fermer 
 \gn 关
+\sn 2
 \ge faire
 \gn 办
 \hbf 1356 
@@ -46512,8 +46577,10 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge se lever
 \gn 起床
+\sn 2
 \ge fermenter (vin) 
 \gn 发酵（酒） 
 \hbf 1567 
@@ -47631,8 +47698,10 @@ da.lie 打猎
 \pdv kɤ-
 \pdl dir 
 \pdv thɯ-
+\sn 1
 \ge graver
 \gn 雕刻
+\sn 2
 \ge acculer (chasseur) 
 \gn 追到最险要的地方不让动物逃走（猎人） 
 \xv ɕoŋβzu kɯ ji-lɤtɕhom tha-roʁ
@@ -50221,8 +50290,10 @@ da.lie 打猎
 \ps vs
 \pdl dir 
 \pdv nɯ-
+\sn 1
 \ge laid 
 \gn 丑陋、难看
+\sn 2
 \ge dégoutant
 \gn 难吃
 \hbf 1061
@@ -51058,8 +51129,10 @@ da.lie 打猎
 \ps vs
 \pdl dir 
 \pdv nɯ-
+\sn 1
 \ge faible, en mauvaise santé
 \gn 弱、不健康
+\sn 2
 \ge être réticent
 \gn 令人不愿意、不还意思
 \dv kú-wɣ-rtoʁ tɕe mɤ-kɯ-sɤmgro
@@ -52645,8 +52718,10 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv nɯ-
+\sn 1
 \ge rendre un objet 
 \gn 退 （东西）
+\sn 2
 \ge refuser
 \gn 拒绝
 \un 不能带补语从句
@@ -53067,8 +53142,10 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv tɤ-
+\sn 1
 \ge installer 
 \gn 安装 
+\sn 2
 \ge remettre entre les mains de
 \gn 上缴
 \un 把零件拼起来
@@ -56810,8 +56887,10 @@ da.lie 打猎
 \ps vs
 \pdl dir 
 \pdv nɯ-
+\sn 1
 \ge s'émousser
 \gn 磨损
+\sn 2
 \ge disparaître
 \gn 消失
 \xv qraʁ ɲɤ-zɤt
@@ -58724,8 +58803,10 @@ da.lie 打猎
 \wav vi-GAbAbAB
 \wav8 GAbAbAB
 \ps idph.2
+\sn 1
 \ge obstiné
 \gn 形容固执的样子
+\sn 2
 \ge épais, lourd et peu pratique, poussant en touffe (champignons) 
 \gn 形容物体笨重、或者菌子长在一块的样子 
 \hbf champignon 
@@ -59864,8 +59945,10 @@ da.lie 打猎
 \wav ideo-CWm-g
 \wav8 CWmCWm
 \ps idph.2
+\sn 1
 \ge formant une couche fine 
 \gn 构成了薄薄的一层 
+\sn 2
 \ge calme et agréable
 \gn 很安静、很舒服
 \hbf *kɯsɤr.86
@@ -60503,8 +60586,10 @@ da.lie 打猎
 \lx $jaŋjaŋ
 \wav ideo-jaN-b
 \ps idph.2
+\sn 1
 \ge calme
 \gn 安静 
+\sn 2
 \ge complètement plat 
 \gn 又平坦又宽阔（田地、草地） 
 \hbf *qachɣa.87
@@ -60737,8 +60822,10 @@ da.lie 打猎
 \wav ideo-JWG-2
 \wav8 JWGnAJWG
 \ps idph.2
+\sn 1
 \ge meuble (terre), déluré 
 \gn 形容土地松散，或衣冠不整的样子
+\sn 2
 \ge nombreux (objets longs)
 \gn 很多（条状的物体）
 \hbf *sqar.5 
@@ -64871,8 +64958,10 @@ da.lie 打猎
 \wav ideo-rdza-b
 \wav ideo-rdza-c
 \ps idph.2
+\sn 1
 \ge qui n'accepte pas les critiques
 \gn 爱顶嘴（不愿意接受批评）
+\sn 2
 \ge plein de vie (petite plante)
 \gn 神气勃勃（小植物）
 \xv a-phe kɯ-nɯkhaja ci rdzardza ɲɯ-tɯ-ŋu
@@ -64999,8 +65088,10 @@ da.lie 打猎
 \wav8 rjArjAt
 \wav8 stArjAt_Zo
 \ps idph.2
+\sn 1
 \ge long et fin
 \gn 细长
+\sn 2
 \ge rester peu de temps 
 \gn 耽误很短时间 
 \xv rjɤrjɤt ci ɲɯ-ŋu
@@ -65366,8 +65457,10 @@ da.lie 打猎
 \wav n-rnABZi
 \wav n-rnABZi2
 \ps n
+\sn 1
 \ge chapeau à quatre bords 
 \gn 圆盔耳帽 
+\sn 2
 \ge casserole en fer 
 \gn 生铁锅，有四个把子 
 \hbf 545 
@@ -65586,8 +65679,10 @@ da.lie 打猎
 \wav ideo-rRoR-b
 \wav ideo-rRoR-b2
 \ps idph.2
+\sn 1
 \ge frisé (cheveu) 
 \gn 卷（头发） 
+\sn 2
 \ge peu agile
 \gn 不灵活
 \xv ɯ-ku rʁoʁrʁoʁ ʑo ɲɯ-pa 
@@ -65604,8 +65699,10 @@ da.lie 打猎
 \wav ideo-rRWB-c
 \se rʁɯβrʁɯβ
 \ps idph.2
+\sn 1
 \ge qui porte beaucoup de fruit
 \gn 结的果子很多
+\sn 2
 \ge devenu rugeux après avoir été séché 
 \gn 由于干燥而变得很粗糙 
 \xv jiɕqha si nɯ rʁɯβrʁɯβ kɯ-ɤɣɯmat ci ɲɯ-ŋu
@@ -65923,8 +66020,10 @@ da.lie 打猎
 \wav ideo-rzi-b
 \wav ideo-rzi-b2
 \ps idph.2
+\sn 1
 \ge inquiet
 \gn 形容担心，放心不下的状态
+\sn 2
 \ge frais (temps),
 \gn 冷飕飕
 \xv rdzɯrdzi ɲɯ-mu-a
@@ -66800,8 +66899,10 @@ da.lie 打猎
 \lx ^skɤrma
 \wav n-skArma
 \ps n
+\sn 1
 \ge règle 
 \gn 尺 
+\sn 2
 \ge jour
 \gn 日子
 \hbf 577 
@@ -66827,8 +66928,10 @@ da.lie 打猎
 \lx $skraskra
 \wav ideo-skra-b
 \ps idph.2
+\sn 1
 \ge mal poli
 \gn 形容调皮的样子 
+\sn 2
 \ge gris et nu
 \gn 形容（地方）灰扑扑、光秃秃
 \xv sɤtɕha skraskra ʑo ɲɯ-pa, mɯ́j-sɤscit
@@ -69734,8 +69837,10 @@ l
 \lx ^tɤ-ʁar
 \wav n-tARar
 \ps n
+\sn 1
 \ge ailes 
 \gn 翅膀 
+\sn 2
 \ge longueur d'un bras
 \gn 人的一只手那么长
 \hbf oiseau2
@@ -69892,8 +69997,10 @@ l
 \lx ^tɤsthoʁsi
 \wav n-tAsthoRsi
 \ps n
+\sn 1
 \ge poutre 
 \gn 梁 
+\sn 2
 \ge poutre du jɤɣɤt 
 \gn 走缘上的小梁[撑杆] 
 \hbf maison 
@@ -70188,8 +70295,10 @@ l
 \xn 形容闪电一道一道地闪过发光
 \se ɣɤtɕɣɤrtɕɣɤr
 \ps vi
+\sn 1
 \ge hurler
 \gn 叫唤
+\sn 2
 \ge scintiller
 \gn 一闪一闪地发光
 \xv paʁ ɲɯ-ɣɤwu ɲɯ-ɣɤtɕɣɤrtɕɣɤr
@@ -70895,8 +71004,10 @@ l
 \wav tslWGtslWG_Zo_YArku
 \wav8 tslWGtslWG
 \ps idph.2
+\sn 1
 \ge envelopper complètement
 \gn 形容包成一团（成了圆形）、包得又紧又大状
+\sn 2
 \ge rond et dur
 \gn 形容又圆又硬的样子
 \xv ɯ-ku pjɤ-ɴɢraʁ tɕe, tslɯɣtslɯɣ to-mphɯr
@@ -71366,8 +71477,10 @@ l
 \lx ^tɯ-rzɯɣ
 \wav cl-tWrzWG
 \ps clf
+\sn 1
 \ge section 
 \gn 一段 
+\sn 2
 \ge un moment
 \gn 一会儿
 \hbf 868 
@@ -71419,8 +71532,10 @@ l
 \lx ^tɯ-tɯphu
 \wav n-tWtWphu
 \ps np
+\sn 1
 \ge espèce 
 \gn 种类，物种 
+\sn 2
 \ge une ruche (abeilles)
 \gn 一窝（蜜蜂）
 \hbf *βʑar.1 
@@ -71508,8 +71623,10 @@ l
 \lx ^ɯ-ndo
 \wav n-Wndo
 \ps n
+\sn 1
 \ge bord, côté du champs en direction du fleuve 
 \gn 边缘，田地靠河流的那一边 
+\sn 2
 \ge fin
 \gn 结尾
 \xv tɯ-ŋga ɯ-ndo 
@@ -71590,8 +71707,10 @@ l
 
 \lx ^ɯ-stu
 \ps n
+\sn 1
 \ge vérité
 \gn 实话
+\sn 2
 \ge vers l'avant, directement
 \gn 对着的地方或方向，直接
 \xv a-stu tu-ti-a
@@ -71695,8 +71814,10 @@ l
 \wav8 xWB
 \wav8 GAxWBxWB
 \ps idph.2
+\sn 1
 \ge rose
 \gn 粉红状
+\sn 2
 \ge chaud 
 \gn 形容（天气） 暖暖的
 \xv kɯ-ɣɯrni xɯβxɯβ ci ɲɯ-ŋu
@@ -71839,10 +71960,13 @@ l
 \wav id-XsxAXsxAt
 \wav8 XsxAXsxAt2
 \ps idph.2
+\sn 1
 \ge léger (vêtements)
 \gn 形容衣衫等单薄
+\sn 2
 \ge regard très intelligent
 \gn 眉目清秀，聪明的样子
+\sn 3
 \ge léger (habit) 
 \gn 形容(衣服)单薄，透风
 \xv nɤ-ŋga kɯ-mba ci χʂɤχʂɤt tɯ-asɯ-ŋga
