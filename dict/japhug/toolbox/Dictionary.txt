@@ -59716,7 +59716,7 @@ da.lie 打猎
 \xv ɕqɤt ʑo ɲɯ-ti
 \xn 突然痛起来
 \xv a-ku rdɤstaʁ ɕqɤt ʑo ta-lɤt
-\xn 他用石头向我投掷，啪一声地打到我头上
+\xn 他朝我扔了一块石头，啪的一声打到我头上
 \dt 25/Oct/2013
 
 \lx $ɕqhɯɕqhi
@@ -59738,7 +59738,7 @@ da.lie 打猎
 \xv ɕqlɯβnɤɕqlɯβ kɤ-tshi-t-a
 \xn 我咕噜咕噜地喝了
 \xv ɯ-jaʁndzu ɕqlɯβnɤɕqlɯβ ʑo ta-ʑmbri
-\xn 他把手指关节拉得嘎嘣嘎嘣地响
+\xn 他把手指关节拉得嘎嘣嘎嘣响
 \cf qlɯβ
 \dt 07/Oct/2014
 
