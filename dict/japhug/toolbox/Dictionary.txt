@@ -59686,11 +59686,11 @@ da.lie 打猎
 \wav ideo-CphAG-b
 \ps idph.3
 \ge bruit (produit en frappant les habits avec force)
-\gn 啪啪声（洗衣服时，使劲地把衣服拍打）
+\gn 啪啪声（洗衣服时，使劲地拍打衣服）
 \xv tɯ-ŋga ɲɯ-ɤsɯ-χtɕi tɕe, ɕphɤɣnɤɕphɤɣ ɲɯ-ɤsɯ-stu
 \xn 她在洗衣服，发出“啪啪”声
 \xv tɯ-ŋga kɯ-jaʁ nɯ ra ɲɯ́-wɣ-χtɕi tɕe ɕphɤɣnɤɕphɤɣ pjɯ́-wɣ-rtɤβ tɕe ɲɯ-ɕo ɕti 
-\xn 洗厚一点的衣服的时候，要使劲地把衣服拍打会干净
+\xn 洗厚一点的衣服的时候，要使劲地把衣服拍打才会干净
 \cf sɤɕphɤɣɕphɤɣ
 \dt 07/Nov/2011
 
