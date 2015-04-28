@@ -59106,7 +59106,7 @@ da.lie 打猎
 \wav ideo-cot-b
 \ps idph.2
 \ge petit et mignon 
-\gn 又小又可爱的样子
+\gn 形容又小又可爱的样子
 \hbf *kɯsɤr.87
 \xv wɯɟa cotcot ɲɯ-pa
 \xn 调羹很小
