@@ -59076,13 +59076,13 @@ da.lie 打猎
 \wav ideo-claN-b
 \ps idph.2
 \ge rond et lisse
-\gn 又圆又光滑（油光发亮）
+\gn 形容又圆又光滑的样子（油光发亮）
 \xv ɯ-ku pjɤ-nɯ-sɯ-qrɤz tɕe, claŋclaŋ ʑo ɲɯ-pa
-\xn 他理了发，头光滑得发光
+\xn 他理了发，头光滑得发亮
 \se claŋnɤclaŋ
 \ps idph.3
 \xv claŋnɤclaŋ kɤ-ari
-\xn 他（光头发光）地去了
+\xn 他（头光溜得发亮）地去了
 \cf ɕlaŋɕlaŋ
 \cf slaŋslaŋ
 \cf ɕliɕli
