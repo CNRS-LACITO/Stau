@@ -59210,7 +59210,7 @@ da.lie 打猎
 \gn 玻璃被砸碎
 \ps idph.2
 \xv χɕɤl pjɤ-xtsɯ cɯmcɯm ʑo
-\xn 玻璃被砸得粉碎
+\xn 玻璃砸得粉碎
 \cf crɯmcrɯm
 \cf crɯβcrɯβ
 \dt 01/Nov/2013
