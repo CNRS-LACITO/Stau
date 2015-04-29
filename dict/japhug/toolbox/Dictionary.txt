@@ -58484,7 +58484,7 @@ da.lie 打猎
 \xv tɯrme ɯ-taʁ ɲɤ-ʑɣɤta
 \xn 他来到人家的屋子里不肯走
 \xv aʑo ɲɤ-ɲat-a tɕe, ɯ-taʁ kɤ-ʑɣɤta-a
-\xn 我很累，所以靠在他身边
+\xn 我很累，所以靠在他身上
 \sy zɣɤχtɤt
 \cf ta
 \dt 19/Feb/2014
