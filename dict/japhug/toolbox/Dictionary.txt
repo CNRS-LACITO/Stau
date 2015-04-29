@@ -58836,7 +58836,7 @@ da.lie 打猎
 \xv ɯ-ŋgu mɯ́j-thon
 \xn 他什么都没有
 \xv jiɕqha nɯ ɯ-ŋgu thon, mɤɕi
-\xn 他很有钱，和富有
+\xn 他很有钱，很富有
 \xv iʑo ɕoŋtaʁ tɯ-ŋgu mɤ-kɯ-thon me
 \xn 没有比我们穷的人了
 \dt 22/Jul/2014
