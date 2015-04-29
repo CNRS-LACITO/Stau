@@ -57316,7 +57316,7 @@ da.lie 打猎
 \ge manger ensemble 
 \gn 合着吃 
 \xv qɤjɣi cho tɤjko tɤ-zmɤraβ-a 
-\xn 我把馍馍和菜合着吃了
+\xn 我把馍馍和菜和着吃了
 \dt 15/Sep/2011
 
 \lx _zmɤrtsaβ
