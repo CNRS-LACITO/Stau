@@ -56613,7 +56613,7 @@ da.lie 打猎
 \xv jla ɲɯ-χɕu
 \xn 犏牛很强壮
 \xv mkhɯrlu ɲɯ-χɕu
-\xn 汽车很强
+\xn 汽车很坚固
 \xv pɯ-tɯ-χɕu
 \xn 谢谢
 \dt 11/Feb/2014
