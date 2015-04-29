@@ -54030,10 +54030,9 @@ da.lie 打猎
 \xn 虽然他往上游去了，但是我令他转会来了
 \dt 24/Aug/2012
 
-\lx _sɯjno
+\lx _sɯjno²
 \wav vi-sWjno
 \ps vi 
-\ng denom.zero
 \pdl dir 
 \pdv pɯ-
 \pdl dir 
@@ -57637,7 +57636,6 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv tɤ-
-\ng denom.zero
 \ge réparer un mur à un endroit, empiler des briques là où le mur s'est abîmé
 \gn 堵住石墙的缺口
 \xv tɤ-znde-t-a
@@ -67860,7 +67858,7 @@ l
 \cf rsɯβrsɯβ
 \dt 07/Dec/2013
 
-\lx ^sɯjno
+\lx ^sɯjno¹
 \wav n-sWjno
 \ps n
 \ge herbe 
