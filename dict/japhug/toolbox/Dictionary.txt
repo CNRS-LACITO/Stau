@@ -56659,9 +56659,9 @@ da.lie 打猎
 \pdv tɤ-
 \un 只出现在未然式和不定式
 \xv nɯ-βde a-tɤ-naχpjɤt
-\xn 你放弃，没有必要坚持
+\xn 你放弃吧，没有必要坚持
 \xv mɯ-ɲɯ-ɣi nɤ a-tɤ-naχpjɤt
-\xn 如果他不来也算了吧
+\xn 如果他不来就算了吧
 \xv kɤ-naχpjɤt mɤ-βze
 \xn 不能这样就过去了（不能放弃）
 \se aχpɯχpjɤt
