@@ -17891,6 +17891,7 @@
 \pdv tɤ-
 \pdl dir 
 \pdv pɯ-
+\ng appl
 \ge jouer à, taquiner
 \gn 玩、逗
 \xv @lanqiu nɯ-nɤɣro-t-a
@@ -18689,13 +18690,13 @@
 \hbf 1000
 \xv ɲɤ-kɤjɤr-ci
 \xn 以前不歪，现在歪了
-\xv luyinji nɯ ɲɯ-ɤjɤr
+\xv @luyinji nɯ ɲɯ-ɤjɤr
 \xn 录音机放歪了
 \se sɤjɤr
 \ps vt
 \pdl dir 
 \pdv nɯ-
-\xv nɤkɤcu luyinji nɯ kɤ-ta ɲɤ-tɯ-sɤjɤr
+\xv nɤkɤcu @luyinji nɯ kɤ-ta ɲɤ-tɯ-sɤjɤr
 \xn 你把录音机放歪了
 \se ʑɣɤsɤjɤr
 \ps vt
@@ -27556,7 +27557,7 @@
 \ge causer la perte
 \gn 令人破产，弄丢
 \un 表达“弄丢”这个意思干木鸟话一般说{ɲɤɣɤme}
-\xv a-laχtɕha ɲɤɣɤrlaʁ-a
+\xv a-laχtɕha ɲɤ-ɣɤrlaʁ-a
 \xn 我把东西弄丢了
 \se aɣɤrlɯrlaʁ
 \ps vi
@@ -27614,7 +27615,7 @@
 \xn 我把他扶起来
 \xv ki laχtɕha ki kɤ-ɣɤrndi
 \xn 你把这个东西扶起来
-\xv ki huatong ki a-mɤ-pɯ-ndʐaβ, kɤ-ɣɤrndi
+\xv ki @huatong ki a-mɤ-pɯ-ndʐaβ, kɤ-ɣɤrndi
 \xn 不要让这个话筒掉下去，你把它扶起来吧
 \xv jiɕqha tɯrme nɯ χanɯni ngo, ɤj kɤ-ɣɤrndi-t-a
 \xn 这个人身体有点不舒服，我把他扶起来了
@@ -30617,7 +30618,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge recouvrir complètement la surface pour cacher 
 \gn 包起来、遮蔽、裹住 
-\xv kɯki huatong ki tú-wɣ-luj
+\xv kɯki @huatong ki tú-wɣ-luj
 \xn 把这个话筒遮住
 \se sɯluj
 \ps vt
@@ -56359,7 +56360,7 @@ da.lie 打猎
 \gn 横着放 、放平
 \xv ɕoŋtɕa na-xthom
 \xn 他把木料横着放了
-\xv ɯ-ndɤcu luyinji na-xthom
+\xv ɯ-ndɤcu @luyinji na-xthom
 \xn 他把录音机放平了
 \xv laʁjɯɣ pɯ-xthom-a
 \xn 我把棍子放平了
