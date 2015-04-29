@@ -56958,7 +56958,7 @@ da.lie 打猎
 \xv jɯfɕɯr @cai mɯ-ɕ-tɤ-χtɯ-t-a
 \xn 我昨天没有去买菜
 \xv aʑo kɤntɕhaʁ tɯ-ŋga ɯ-kɯ-χtɯ jɤ-ari-a
-\xn 我在街上去买衣服了（还没有买回来）
+\xn 我到街上去买衣服了（还没有买回来）
 \xv tɤmthɯm ɕ-tɤ-χtɯ-t-a.
 \xn 我去买肉了（已经买回来了）
 \se raχtɯ
