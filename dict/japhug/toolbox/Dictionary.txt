@@ -58895,7 +58895,7 @@ da.lie 打猎
 \gn 黑茶藨子 
 \hbf plante 
 \xv babɯ nɯ si kɯ-mbɤr tsa ci ŋu. tɯrme ɯ-taʁ kɯ-xtɕɯ-xtɕi ma tu-mbro mɤ-cha. ɯ-ru nɯ kɯ-pɣi tɕe, ɯ-rqhu pjɯ-kɯ-ɴɢaʁ kɯ-fse kɯ-tu ŋu, tɯ-xpa ɲɯ-rɯmɯntoʁ tɕe, nɯɕima ɯ-mat chɯ-βze ŋu, ɯ-mat nɯ thɯ-tɯt tɕe ɲaʁ, kɤ-ndza mɯm, chi. ɯ-mat ɯ-ŋgɯ ɯ-rɣi kɯ-ndɯβ kɯ-dɤn tsa tɕe kɯ-mpɯ ŋu. ɯ-jwaʁ ndɯβ cho dɤn. zgoku ɯ-taʁ ɯ-pa ʑo tu-ɬoʁ cha. 
-\xn {babɯ} 是矮小的树种，比人高不出多少。树干是灰色的，有好象快要脱落的树皮。当年开花，马上结果，果实成熟后是黑色的，好吃，很甜。果实里有又小又多的种子，是很嫩的，叶子小而多。山上山下都能生长。
+\xn {babɯ} 是矮小的树种，比人高不出多少。树干是灰色的，有好像快要脱落的树皮。当年开花，马上结果，果实成熟后是黑色的，好吃，很甜。果实里有又小又多的种子，是很嫩的，叶子小而多。山上山下都能生长。
 \dt 21/Apr/2013
 
 \lx $bɤbɤβ
