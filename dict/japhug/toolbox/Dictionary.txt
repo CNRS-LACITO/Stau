@@ -2216,11 +2216,12 @@
 \xv nɤj nɤ-kɤ-nɤma cho aʑo a-kɤ-nɤma nɯ ʑaka ɕti ma kɤmbrɤβraʁ me
 \xn 你的工作和我的工作没有什么瓜葛
 
-\lx Kɤmɲɯ
+\lx kɤmɲɯ
 \wav8 kAmYW
 \ps n
+\ng n.lieu
 \ge Kamnyu
-\gn 干木鸟
+\gn 干木鸟村
 \xv ʑatsa kɤmɲɯ nɯɕe-a
 \xn 我很快就要回干木鸟了
 \dt 19/Jan/2015
@@ -4377,8 +4378,9 @@
 \gn 黑皮鞋 
 \hbf objet traditionel
 
-\lx Mbarkhom
+\lx mbarkhom
 \ps n
+\ng n.lieu
 \ge Mbarkham
 \gn 马尔康
 \dt 19/Jan/2015
@@ -9625,8 +9627,9 @@
 \lx tɕɤphɯ
 \a tɕhɤphɯ
 \ps n
+\ng n.lieu
 \ge Japhug
-\gn 茶堡
+\gn 茶堡区
 \dt 19/Jan/2015
 
 \lx tɕɤthi
@@ -72472,37 +72475,93 @@ l
 \lx sɤrtɯmloʁ
 \cf artɯmloʁ
 
-\lx Katɕa
+\lx katɕa
 \ps n
+\ng n.lieu
 \ge Katcha (village de Gdongbrgyad)
-\gn 尕渣
+\gn 尕渣村
 
-\lx Rqaco
+\lx rqaco
 \ps n
+\ng n.lieu
 \ge Rqakyo (village de Gdongbrgyad)
-\gn 尕脚
+\gn 尕脚村
 
-\lx Smɯlju
+\lx smɯlju
 \ps n
+\ng n.lieu
 \ge Smeliou (village de Gdongbrgyad)
-\gn 石木留
+\gn 石木留村
 
-\lx Mɯrʑa
+\lx mɯrʑa
 \ps n
+\ng n.lieu
 \ge Merja (village de Gdongbrgyad)
-\gn 木尔渣
+\gn 木尔渣村
 
 \lx mɤŋi
 \ps n
+\ng n.lieu
 \ge Mangi (village de Gdongbrgyad)
-\gn 蒙岩
+\gn 蒙岩村
 
 \lx ɣɟɯtshapa
 \ps n
+\ng n.lieu
 \ge Ercha (village de Gdongbrgyad)
-\gn 二茶
+\gn 二茶村
 
 \lx ʁdɯrɟɤt
 \ps n
+\ng n.lieu
 \ge Gdongbrgyad
 \gn 龙尔甲乡
+
+\lx ɣɟɯthoʁ
+\ps n
+\ng n.lieu
+\ge hameau de Ercha près du fleuve
+\gn 二茶村的河坝地区
+
+\lx tɯlu
+\ps n
+\ng n.lieu
+\ge l'un des hameaux de Kamnyu
+\gn 干木鸟的大队之一
+
+\lx tɤɣɤco
+\ps n
+\ng n.lieu
+\ge l'un des hameaux de Kamnyu
+\gn 干木鸟的大队之一
+
+\lx taʁrdo
+\ps n
+\ng n.lieu
+\ge l'un des hameaux de Kamnyu
+\gn 干木鸟的大队之一
+
+\lx ɣɤrti
+\ps n
+\ng n.lieu
+\ge l'un des hameaux de Kamnyu
+\gn 干木鸟的大队之一
+
+\lx rpɤŋgɯ
+\ps n
+\ng n.lieu
+\ge l'un des hameaux de Kamnyu
+\gn 干木鸟的大队之一
+
+\lx prɤku
+\ps n
+\ng n.lieu
+\ge l'un des hameaux de Kamnyu
+\gn 干木鸟的大队之一
+
+\lx prɤschɯ
+\ps n
+\ng n.lieu
+\ge l'un des hameaux de Kamnyu
+\gn 干木鸟的大队之一
+
