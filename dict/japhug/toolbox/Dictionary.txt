@@ -58069,7 +58069,7 @@ da.lie 打猎
 \gn 开始 
 \hbf *qɤjdorju.98 
 \xv ɯ-mphru pjɯ-ʑe-a tɕe pjɯ-ndɯn-a ŋu ŋɤ 
-\xn 我连续地念一遍
+\xn 我紧接着(从头)开始读
 \xv tɯ-nɯrɤɣo chɤ-ʑa
 \xn 他开始唱起歌来
 \cf sɤʑa
