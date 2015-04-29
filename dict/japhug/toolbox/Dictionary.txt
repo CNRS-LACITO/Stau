@@ -56829,13 +56829,13 @@ da.lie 打猎
 \hbf 1757 
 \et gtad
 \xv si ɯ-taʁ ko-ʑɣɤχtɤt
-\xn 他靠了树
+\xn 他靠在树上
 \xv znde ɯ-taʁ ko-ʑɣɤχtɤt 
-\xn 我靠了墙
+\xn 我靠在墙上
 \xv ɯ-zda ɯ-taʁ ko-ʑɣɤχtɤt
-\xn 他靠了他的伙伴
+\xn 他依靠了他的伙伴
 \xv aʑo ɲɯ-ɤɲat-a tɕe, ɯ-taʁ kɤ-ʑɣɤχtat-a tɕe tɤ-nɯna-a
-\xn 我累了所以靠在他身边休息了
+\xn 我累了所以靠在他身上休息了
 \sy ʑɣɤta
 \dt 09/May/2013
 
