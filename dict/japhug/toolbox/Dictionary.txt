@@ -57434,7 +57434,7 @@ da.lie 打猎
 \xv pɯ́-wɣ-znɤltɕam-a
 \xn 他盖了我
 \xv tɯ-ŋga ɯ-βzɯr nɯ ɯ-zda ɯ-taʁ zɯ pa-znɤltɕɤm
-\xn 他顺便把铺盖的一角盖在帮朋友身上
+\xn 他顺便把铺盖的一角帮朋友盖在身上
 \se aznɤltɕɯltɕɤm
 \ps vi
 \ng recip
