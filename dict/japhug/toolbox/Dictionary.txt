@@ -58364,7 +58364,7 @@ da.lie 打猎
 \ge se déguiser, se transformer 
 \gn 装扮成，转变成 
 \xv ɬandʐi nɯ tɯrme ɲɯ-ʑɣɤsprɯl ŋgrɤl
-\xn 鬼会把自己变成
+\xn 鬼会把自己变成人
 \et sprul
 \dt 24/Aug/2012
 
