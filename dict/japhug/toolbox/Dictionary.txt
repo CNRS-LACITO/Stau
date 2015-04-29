@@ -55525,6 +55525,8 @@ da.lie 打猎
 \pdv tɤ-
 \pdl past stem
 \pdv tɯt
+\pdl generic 
+\pdv kɯ-ti
 \ge dire 
 \gn 说 
 \hbf 1649 
