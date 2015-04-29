@@ -56819,7 +56819,7 @@ da.lie 打猎
 \xv kɤ-ɤmdzɯ-a tɕe, a-mgɯr kɤ-nɯ-χtat-a
 \xn 我坐下的时候就靠了背
 \xv znde ɯ-taʁ a-mgɯr kɤ-nɯ-χtat-a
-\xn 我在墙上靠了背
+\xn 我把背靠在墙上了
 \se ʑɣɤχtɤt 
 \ps vi
 \ng refl
