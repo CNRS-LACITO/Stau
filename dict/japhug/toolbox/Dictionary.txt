@@ -57857,7 +57857,7 @@ da.lie 打猎
 \xv tɤ-fsɯr ɯ-taʁ tɤ-znɯχcal-a ʑo tɤ-lat-a
 \xn 我射中了靶子
 \xv ɕɤmɯɣdɯ tɤ-znɯχcal-a pɯ-cha-a
-\xn 我射抢成功地射中了
+\xn 我射枪成功地射中了
 \cf ɯ-χcɤl
 \dt 17/Sep/2011
 
