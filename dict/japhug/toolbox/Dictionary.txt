@@ -54926,7 +54926,7 @@ da.lie 打猎
 \xv nɤ-ku ɯ-taʁ tɤ-rte ma-pɯ-tɯ-nɯ-te ma nɤ-tɯ-sɤjloʁ
 \xn 你不要戴上帽子，不好看
 \xv tɯrɣi nɯ-ta-t-a
-\xn 我留了种
+\xn 我留了种子
 \xv qɤjɣi khon kɤ-ta-t-a 
 \xn 我蒸了馍馍
 \xv tʂha kɤ-ta-t-a 
