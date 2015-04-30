@@ -55950,7 +55950,7 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge faire tomber (un arbre) 
-\gn 打倒（树） 
+\gn 弄倒（树） 
 \hbf 1258 <2> 1237
 \xv pɯ-kɯ-tʂaβ-a
 \xn 你把我绊倒了
