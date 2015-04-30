@@ -55053,7 +55053,7 @@ da.lie 打猎
 \wav n-tABzdAr
 \ps n
 \ge beurre que l'on met dans la tsampa
-\gn 加在糌粑的酥油
+\gn 加在糌粑上的酥油
 \xv amu kɯ a-βzdɤr pa-lɤt
 \xn 他给倒了酥油
 \cf βzdɤr
