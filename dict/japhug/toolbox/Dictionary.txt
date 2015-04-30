@@ -12907,7 +12907,7 @@
 \hbf 141 
 \et lkog
 \xv a-pɯ-sɤtso ra ma a-rqo ɲɯ-qhrɯt ʑo tɕe, mɤ-tɯ-tso thaŋ ɲɯ-sɯsam-a ŋu
-\xn 希望听得清楚，因为我的喉咙倒了，我怕你听不清楚
+\xn 希望听得清楚，因为我的喉咙倒了(嗓子哑了)，我怕你听不清楚
 \dt 07/Apr/2011
 
 \lx tɯ-rqoloʁloʁ
