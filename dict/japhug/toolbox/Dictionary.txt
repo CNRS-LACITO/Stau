@@ -55343,7 +55343,7 @@ da.lie 打猎
 \ge faire de la place
 \gn 令……容得下
 \xv kɯmaʁ laχtɕha ra nɯ-nɤscɯscat-a tɕe, rgɤm kɤ-ta tɤ-ɣɤtɕhɯt-a
-\xn 我吧其他东西搬走了，空出了放箱子的位子
+\xn 我把其他东西搬走了，空出了放箱子的位子
 \xv tɤ-sɯxtɕhɯt-a
 \xn 我都装进去了
 \xv ɯʑo kɤ-mdzɯ tɤ-sɯxtɕhɯt-a
