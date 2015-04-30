@@ -55258,7 +55258,7 @@ da.lie 打猎
 \ge supprimer
 \gn 消除
 \xv ji-@baicai pɯ-dɤn ri, ɲɤ-sɯxtɕhɤt-nɯ
-\xn 以前我们的白菜很多，但他们把它消除了
+\xn 以前我们的白菜很多，但他们把它们拔除了
 \dt 11/Sep/2013
 
 \lx _tɕhom
