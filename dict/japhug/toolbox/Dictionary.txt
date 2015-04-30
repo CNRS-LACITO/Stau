@@ -3383,9 +3383,12 @@
 \xn 他是借住的，居然还有那么多要求
 
 \lx kɯndzarmɯ
+\wav8 kWndzarmW2
 \ps n
-\ge signe qu'il ne va plus pleuvoir
-\gn 不再下雨的预兆
+\ge ondée
+\gn 阵雨（以后不再下雨的预兆）
+\xv kɯndarmɯ ɲɯ-ɤsɯ-βzu tɕe, ki ɯ-qhu tɕe mɤ-lɤt ɲɯ-ŋu
+\xn 现在在下阵雨，以后不会再下
 \cf tɯmɯ
 \cf ndzar
 
@@ -15162,9 +15165,12 @@
 \dt 01/Sep/2012
 
 \lx ɯ-tsa
+\wav8 Wtsa_YWBze
 \ps np
 \ge qui convient 
 \gn 适合别人的东西 
+\xv a-mi ɯ-tsa ɲɯ-βze, mɯ́j-wxti, mɯ́j-xtɕi
+\xn （那双鞋子）很适合我的脚，不大也不小
 \xv ɯ-ŋga ɯ-tsa ʑo ɲɯ-βze 
 \xn 这件衣服穿着很合身
 \dt 25/Aug/2012
@@ -23371,10 +23377,9 @@
 \xn 你比较能干，你去吧
 \xv mɯ-pɯ-cha tɕe, tɕe tham tɕe ɯ-kɯ-mŋɤm to-mna tɕe, kɤ-rɯndzɤtshi to-cha
 \xn 她原来吃饭不行，现在病痊愈了就可以吃饭了
-\un 忧虑式的例句：
 \xv mɯ-ɕɯ-tɯ-cha nɯ-sɯso-t-a
-\xn 我怕你不行
-\cf sɯxcha
+\xn 我怕你不行（忧虑式的例句）
+\cf sɯxcha 
 \cf sɤcha
 \dt 02/Jan/2015
 
