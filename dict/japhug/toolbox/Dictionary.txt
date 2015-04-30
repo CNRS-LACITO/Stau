@@ -11209,7 +11209,7 @@
 \lx tɯjindo
 \ps n
 \ge le bord du champs du côte opposé à la montagne 
-\gn 靠水、靠山的反方面的田边 
+\gn 靠水,靠山的反方面的田边 
 \dt 29/May/2013
 
 \lx tɯ-jmetɕɯrɯrɯ
@@ -68168,7 +68168,7 @@ l
 \gn 烙印
 \un 必须同{ta}“放”连用，趋向前缀是{kɤ-}
 \xv a-jaʁ ʂaʁ kɤ-nɯ-sɯta-t-a
-\xn 我烙到了手
+\xn 我烙(烫)到了手
 \xv ʂaʁ ɯ-rŋa ko-ta
 \xn 在他脸上烙了印
 \xv ɕom chɤ-z-ɣɯrni tɕe, ɯ-ɕa ɯ-taʁ ʂaʁ ko-ta
