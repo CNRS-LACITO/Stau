@@ -7147,6 +7147,8 @@
 \ps idph.2
 \ge un peu rugueux
 \gn 形容略粗糙的样子
+\xv (qaɕparaz) khro mɤ-mpɕu, rʁom tsa rtshartsha
+\xn （那种草）不光滑，有点粗糙
 \dt 12/May/2014
 
 \lx rtshɤrtshɤt
