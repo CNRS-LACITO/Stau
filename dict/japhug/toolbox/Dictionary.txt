@@ -55777,7 +55777,7 @@ da.lie 打猎
 \xv nɤʑo nɤ-tshuxtoʁ ɣɤʑu
 \xn 你讲信用
 \xv aʑo ki tshuxtoʁ ɯ-ku rɤʑi-a ɕti
-\xn 我会守这个信用
+\xn 我会守信用的
 \xv nɤʑo tshuxtoʁ a-kɤ-tɯ-rɤʑi ra nɤ!
 \xn 你要讲信用
 \dt 23/Mar/2014
