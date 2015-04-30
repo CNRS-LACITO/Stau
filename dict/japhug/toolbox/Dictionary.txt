@@ -55652,9 +55652,9 @@ da.lie 打猎
 \se nɯɣɯtshi
 \ps vs
 \ge agréable à boire
-\gn 喝着顺口
+\gn 喝着爽口
 \xv ki tʂha ki wuma ɲɯ-nɯɣɯtshi
-\xn 这个茶喝着很顺口
+\xn 这个茶喝着很爽口
 \dt 07/Nov/2014
 
 \lx _tshi²
