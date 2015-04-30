@@ -56441,16 +56441,16 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge piler
-\gn 杂碎
+\gn 捣碎，砸碎，碾磨
 \hbf 1201 
 \xv tʂha pa-xtsɯ
-\xn 他砸碎了（马茶）
+\xn 他捣碎了（马茶）
 \xv ɕom pa-xtsɯ
 \xn 他打了铁
 \xv χeitsu pa-xtsɯ
-\xn 他砸碎了辣椒
+\xn 他捣碎了辣椒
 \xv mɯzi pa-xtsɯ
-\xn 他砸碎了黑火药
+\xn 他捣碎了黑火药
 \dt 20/Oct/2011
 
 \lx _xtsɯɣ
