@@ -55596,7 +55596,7 @@ da.lie 打猎
 \ge laisser pourrir
 \gn 让腐烂
 \xv kɯki kɤ-ndza ki ʑa mɯ-tɤ-nɯβdaʁ-a tɕe, pɯ-sɯtsɣi-t-a
-\xn 我很久没有管这个食物就腐烂了
+\xn 我很久没有管这个食物,它就腐烂了
 \dt 12/Oct/2011
 
 \lx _tshɤt¹
