@@ -54245,7 +54245,7 @@ da.lie 打猎
 \xv nɯtɕu nɯ-sɯndzɯpe
 \xn 你坐在那里
 \xv nɯ-sɯndzɯpe-a
-\xn 我坐了
+\xn 我坐下了
 \dt 21/May/2014
 
 \lx _sɯndʑaʁfskɯfsko
