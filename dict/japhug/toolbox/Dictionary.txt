@@ -56540,7 +56540,7 @@ da.lie 打猎
 \pdl dir 
 \pdv lɤ-
 \ge boire complètement 
-\gn 喝干 、喝最后一滴
+\gn 喝干 、喝尽最后一滴
 \hbf 1711 
 \xv kɤ-χɤβ kɯ-fse ci ɲɯ-ɕti
 \xn 只剩下一点点
@@ -56606,7 +56606,7 @@ da.lie 打猎
 \xv si thɯ-χɕoʁ
 \xn （从柴堆里）取一根
 \xv scapa la-χɕoʁ
-\xn 他把剑抽出来 了
+\xn 他把剑抽出来了
 \dt 24/Aug/2012
 
 \lx _χɕu
