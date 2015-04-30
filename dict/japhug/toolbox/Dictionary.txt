@@ -56228,7 +56228,7 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge recevoir, fermer 
-\gn 收到、闭 
+\gn 收到、关闭 
 \hbf 1631 
 \xv san pɯ-wum-a 
 \xn 我收了伞 
