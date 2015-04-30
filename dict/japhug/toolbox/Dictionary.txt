@@ -55161,7 +55161,7 @@ da.lie 打猎
 \xv a-ŋga nɯ-tɕat-a
 \xn 我脱了衣服
 \xv sɤcɯ nɯ-tɕat-a
-\xn 我从锁里把要是取出来了
+\xn 我从锁里把钥匙取出来了
 \xv qaɟy tɤ-tɕat-a
 \xn 钓鱼
 \xv qaɟy ɯ-naŋtɕɯ thɯ-tɕat-a 
