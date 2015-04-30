@@ -55832,7 +55832,7 @@ da.lie 打猎
 \xv tɯrju kɤ-ʑɣɤsɯxtso ra
 \xn 要弄明白这句话的意思
 \xv tɤ-kɤ-tɯt nɯra kɤ-ʑɣɤsɯxtso ma tha nɤ-ɕɯ-kɤ-rɤfɕɤt me
-\xn 你要弄清他所讲的话，不然的话你转告不出
+\xn 你要弄清他所讲的话，不然的话你转述不出来
 \se sɤtso
 \wav8 masAtso
 \ps vs
