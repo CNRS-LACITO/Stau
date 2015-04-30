@@ -64327,10 +64327,10 @@ da.lie 打猎
 \wav n-qartshACku
 \ps n
 \ge oignon 
-\gn 葱 
+\gn 葱(即我们通常说的“洋葱”) 
 \hbf plante 
 \xv ^qartshaɕku nɯ ruŋgu kɯ-mbro ɣɯ tɕhitoʁ ku tsa tu-ɬoʁ ɲɯ-ŋu, ɯ-tshɯɣa nɯ ɕkɤtshoŋ cho ɲɯ-naχtɕɯɣ, ɯ-ru maŋe, ɯ-jwaʁ nɯ kɯ-ɤlɯlju tɕe qhoʁsjɯβ ɲɯ-ŋu, ɯ-tho ɣɤʑu, ɯ-qa li ɯ-rqhu kɤntɕhɯ-tɤlɤβ ɣɤʑu. ɯ-dɯχɯn wuma ɲɯ-mɯm. 
-\xn {qartshɤɕku}生长在高山的水草地里，形状和葱子一样，没有茎，叶子是空心的、圆柱形的。有花梗。根也有很多层皮。味道很香。
+\xn {qartshɤɕku}生长在高山的水草地里，形状和葱子(即通常说的“野葱”)一样，没有茎，叶子是空心的、圆柱形的。有花梗。根也有很多层皮。味道很香。
 \cf qartshaz
 \dt 18/Apr/2012
 
