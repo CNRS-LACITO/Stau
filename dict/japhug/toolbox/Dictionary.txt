@@ -60288,7 +60288,7 @@ da.lie 打猎
 \wav8 dZArnAdZAr
 \ps idph.2
 \ge debout tout droit 
-\gn 站得很直、身子又细又高 、看起来很单个
+\gn 站得很直、身子又细又高 、看起来很单薄又孤零零的样子
 \hbf *tɤmu.35
 \xv si dʑɤrdʑɤr ta-sɯɣndzur-a
 \xn 我把树立起来了
