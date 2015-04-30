@@ -56512,7 +56512,7 @@ da.lie 打猎
 \xv nɤʑo tɕheme tɯ-ɕti tɕe, nɤ-ŋga kɤ-ɣɤxtɯt mɤ-ra
 \xn 你是女孩子，衣服不能穿得太短
 \xv aʑo mɯ-torɯndzaŋspa-a tɕe, tɯ-ŋga kɤ-qrɯ ɲɤ-ɣɤxtɯt-a
-\xn 我不小心把衣服减得很短
+\xn 我不小心把衣服裁得很短
 \se zɣɤxtɯt
 \ps vt
 \ge raccourcir avec, faire raccourcir
