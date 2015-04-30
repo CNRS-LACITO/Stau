@@ -62903,7 +62903,7 @@ da.lie 打猎
 \ge très fin
 \gn 很细
 \xv kɯ-xtshɯ-xtshɯm ndʑɤrndʑɤr ɲɯ-ŋu
-\xn 发出细
+\xn 非常细
 \xv tɤ-ri kɯ-fse ci ndʑɤrndʑɤr pjɤ-ri
 \xn
 \dt 16/Oct/2011
