@@ -56118,7 +56118,7 @@ da.lie 打猎
 \hbf 1456 
 \et sgril
 \xv thɯ-tʂɯl-a
-\xn 我卷了
+\xn 我卷了(布)
 \xv tɯ-ŋga thɯ-tʂɯl
 \xn 你把衣服卷起来吧
 \dt 06/Sep/2011
