@@ -57503,7 +57503,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge faire toutes sortes de choses 
 \gn 做各种事情 
-\un 只用于非人称完成体形式
+\un 只用于无人称完成体形式
 \xv tɕhi tɤ́-wɣ-znɤmɯma ʑo tu-kɯ-rɯndzaŋspa ra 
 \xn 不管做什么，一定要小心
 \xv tɕhi tɤ́-wɣ-znɤmɯma ʑo mɯ́j-cha
