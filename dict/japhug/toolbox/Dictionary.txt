@@ -55519,7 +55519,7 @@ da.lie 打猎
 \xv kɤ-thɯɣ!
 \xn 糟糕！
 \xv ko-tɯ-thɯɣ
-\xn 你没有的救了
+\xn 你没有救了
 \dt 23/Mar/2014
 
 \lx _ti
