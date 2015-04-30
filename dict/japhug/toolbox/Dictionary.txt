@@ -57436,9 +57436,9 @@ da.lie 打猎
 \ge couvrir 
 \gn 用自己衣服的一角盖在别人身上，跟别人分享 
 \xv pɯ-znɤltɕam-a
-\xn 我盖了他
+\xn 我帮他盖了(衣服)
 \xv pɯ́-wɣ-znɤltɕam-a
-\xn 他盖了我
+\xn 他帮我盖了(衣服)
 \xv tɯ-ŋga ɯ-βzɯr nɯ ɯ-zda ɯ-taʁ zɯ pa-znɤltɕɤm
 \xn 他顺便把铺盖的一角帮朋友盖在身上
 \se aznɤltɕɯltɕɤm
