@@ -3387,9 +3387,9 @@
 \ps n
 \ge ondée
 \gn 阵雨（以后不再下雨的预兆）
-\xv kɯndarmɯ ɲɯ-ɤsɯ-βzu tɕe, ki ɯ-qhu tɕe mɤ-lɤt ɲɯ-ŋu
+\xv kɯndzarmɯ ɲɯ-ɤsɯ-βzu tɕe, ki ɯ-qhu tɕe mɤ-lɤt ɲɯ-ŋu
 \xn 现在在下阵雨，以后不会再下
-\cf tɯmɯ
+\cf tɯ-mɯ
 \cf ndzar
 
 \lx kɯngɯsqi
