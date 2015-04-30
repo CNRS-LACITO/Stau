@@ -7219,10 +7219,11 @@
 \xn 我事情很多，忙得不可开交
 \dt 01/Nov/2013
 
-\lx Rzɯɴɢaʁ
+\lx rzɯɴɢaʁ
 \ps n
+\ng n.lieu
 \ge Rdzong.'gag
-\gn 松岗
+\gn 松岗乡
 \dt 19/Jan/2015
 
 \lx ʁatɯl
@@ -7535,20 +7536,15 @@
 \gn 佛，神仙 
 \et saŋs.rgʲas
 
-\lx Sarndzu
-\ps n
-\ge Gsar.rdzong
-\gn 沙尔宗
-\dt 19/Jan/2015
-
 \lx saχsɯ²
 \ps n
 \ge brosse pour laver la vaisselle 
 \gn 耍把 
 \dt 25/Nov/2014
 
-\lx Sɤmŋo
+\lx sɤmŋo
 \ps n
+\ng n.lieu
 \ge Somang
 \gn 梭磨河
 \dt 19/Jan/2015
@@ -8512,10 +8508,11 @@
 \ge frapper avec la cuve pour nourrir les animaux 
 \gn 用喂猪桶打人
 
-\lx Tatshi
+\lx tatshi
 \ps n
-\ge Da.tshang
-\gn 大藏
+\ng n.lieu
+\ge Datshang
+\gn 大藏乡
 \dt 19/Jan/2015
 
 \lx taχti
@@ -10502,10 +10499,11 @@
 \gn 用树枝和白马鸡的羽毛做成的装饰
 \dt 04/Aug/2012
 
-\lx Tshuβdɯn
+\lx tshuβdɯn
 \ps n
+\ng n.lieu
 \ge Tshobdun
-\gn 草登
+\gn 草登乡
 \dt 19/Jan/2015
 
 \lx tshupa
@@ -16384,10 +16382,11 @@
 \hbf 760 
 \et sbrul.lo
 
-\lx Zbɯ
+\lx zbɯ
 \ps n
+\ng n.lieu
 \ge Zbu
-\gn 日部
+\gn 日部乡
 \dt 19/Jan/2015
 
 \lx zbɯɣ
@@ -72476,6 +72475,11 @@ l
 \lx sɤrtɯmloʁ
 \cf artɯmloʁ
 
+\lx qaɕparaz
+\ps n
+\ge espèce d'herbe
+\gn 草的一种
+
 \lx katɕa
 \ps n
 \ng n.lieu
@@ -72517,6 +72521,13 @@ l
 \ng n.lieu
 \ge Gdongbrgyad
 \gn 龙尔甲乡
+
+\lx sarndzu
+\ps n
+\ng n.lieu
+\ge Gsar.rdzong
+\gn 沙尔宗乡
+\dt 19/Jan/2015
 
 \lx ɣɟɯthoʁ
 \ps n
@@ -72565,4 +72576,10 @@ l
 \ng n.lieu
 \ge l'un des hameaux de Kamnyu
 \gn 干木鸟的大队之一
+
+\lx mbɣɤtɕɯkala
+\ps n
+\ng n.lieu
+\ge montagne du village de Mangi
+\gn 蒙岩村的一座山之一
 
