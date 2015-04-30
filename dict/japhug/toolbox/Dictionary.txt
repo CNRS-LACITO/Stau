@@ -10449,7 +10449,7 @@
 \ge libérer des animaux vivant
 \gn 放生
 \xv tshɤthɤr lo-lɤt
-\xn 他放生了
+\xn 他放生了(某种生物)
 \et tsʰe.tʰar
 \dt 29/Dec/2014
 
