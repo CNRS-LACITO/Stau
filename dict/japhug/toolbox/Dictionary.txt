@@ -13860,7 +13860,7 @@
 \lx tɯ-xtɤpa
 \ps np
 \ge ventre (animal)
-\gn 身下（动物）
+\gn 动物的身下 (因为动物通过四肢站立，因此指的是与肚子相连的部分)
 \cf tɯ-xtu
 \dt 02/Jul/2012
 
