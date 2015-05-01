@@ -53251,14 +53251,14 @@ da.lie 打猎
 \xv ɕoŋβzu kɯ to-sprɤt
 \xn 木匠安装了
 \xv aʑo kɯmɯrkɯ pɯ-mto-t-a tɕe, ɯ-taʁ ra nɯ-jaʁ tɤ-sprat-a
-\xn 我看到小偷，上缴给领导了
+\xn 我看到小偷，移交给领导了
 \se ʑɣɤsprɤt
 \ps vi
 \pdl dir 
 \pdv tɤ-
 \ng refl
 \ge se livrer (à la justice)
-\gn 把自己交给上级、自首
+\gn 把自己交给上级，自首
 \xv aʑo tɤ-ʑɣɤsprat-a
 \xn 我自首了
 \dt 24/Aug/2012
