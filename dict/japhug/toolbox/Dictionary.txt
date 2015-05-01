@@ -53193,13 +53193,13 @@ da.lie 打猎
 \gn 浸透、烫透、冷透 
 \hbf 1444 <2> 1616
 \xv tɯmɯ kɤ-lɤt tɕe, kɤ́-wɣ-sphjaʁ-a
-\xn 下雨，我就被雨水淋湿了
+\xn 下雨了，我就被雨水淋湿了
 \xv tɯ-ci kɯ kɤ́-wɣ-sphjaʁ-a
 \xn 我被淋湿了
 \se sɯsphjaʁ
 \ps vt
 \xv tɯrju kɤ-sɯsphjaʁ mɯ-pɯ-cha-a
-\xn 我说了一句但他们没有理睬我
+\xn 我说了一句，但他们没有理睬我
 \dt 12/Feb/2014
 
 \lx _sphɯt
