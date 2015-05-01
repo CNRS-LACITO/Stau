@@ -54062,7 +54062,7 @@ da.lie 打猎
 \lx _sɯkhɤrma
 \ps vt
 \ge proférer des injures
-\gn 咒人
+\gn 诅咒人
 \xv pɯ́-wɣ-sɯkhɤrma-a
 \xn 他咒了我
 \cf khɤrma 
@@ -54082,9 +54082,9 @@ da.lie 打猎
 \gn 使交出来、使递过来 
 \hbf 1570
 \xv laχtɕha ɲɤ-sɯkho
-\xn 他使他把东西递过去了
+\xn 他让他把东西递过去了
 \xv ɕ-kɤ-sɯkho-t-a, ʑ-nɯ-sɯkho-t-a
-\xn 我使他递过来了（递过去了）
+\xn 我让他递过来了（递过去了）
 \cf kho¹
 \dt 29/Dec/2014
 
