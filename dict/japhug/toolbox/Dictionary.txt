@@ -53828,7 +53828,7 @@ da.lie 打猎
 \ge gâter (enfant) 
 \gn 惯养，过分心疼小孩子 
 \xv ɯ-pɤtso ɲɯ-sɯɣli
-\xn 他在惯养孩子
+\xn 他在惯着孩子
 \xv thɯ-sɯɣli-t-a
 \xn 我惯养了他
 \xv thɯ́-wɣ-sɯɣli-a
