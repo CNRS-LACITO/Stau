@@ -54138,9 +54138,9 @@ da.lie 打猎
 \gn 跪（只跪一只膝盖）
 \un 仆人和家庭妇女坐的姿势 
 \xv tɤ-sɯmdʑɯtɕoʁ-a
-\xn 我跪了
+\xn 我跪下了
 \xv to-sɯmdʑɯtɕoʁ
-\xn 她跪了
+\xn 她跪下了
 \dt 25/Aug/2011
 
 \lx _sɯmɲo
