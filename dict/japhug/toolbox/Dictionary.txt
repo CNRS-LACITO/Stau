@@ -54284,7 +54284,7 @@ da.lie 打猎
 \xv ɯʑo kɯ-ɕqraʁ tu-sɯpe-a pɯ-ŋu ri, mɯ́j-ɕqraʁ
 \xn 我以为他很聪明，其实他不聪明
 \xv jɯfɕɯr aʑo ʁnɯ-ɣjɤn kɤ-rŋgɯ-a tɕe, ci tú-wɣ-sɯpa tɕe tɯtshot kɯngɯt jamar pɯ-nɯʑɯβ-a 
-\xn 我昨天睡了两次,加起来一共睡大概九个小时。
+\xn 我昨天睡了两次,加起来一共睡了大概九个小时。
 \dt 04/Nov/2013
 
 \lx _sɯphɯt
