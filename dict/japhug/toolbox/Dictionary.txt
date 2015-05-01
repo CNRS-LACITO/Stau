@@ -54385,7 +54385,7 @@ da.lie 打猎
 \xv smi thɤlwa kɯ ka-sɯrʑaʁ
 \xn 他用草木灰把火盖住了
 \xv lɯlu kɯ ɯ-qe ka-sɯrʑaʁ
-\xn 猫把他的屎（用土）盖住了
+\xn 猫把它自己的屎（用土）盖住了
 \sy sɯrma
 \dt 30/Aug/2011
 
