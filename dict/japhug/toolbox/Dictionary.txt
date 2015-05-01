@@ -54480,7 +54480,7 @@ da.lie 打猎
 \gn 想、想念 
 \hbf 1726 <2> 1728 
 \xv @dianhua ɯ-kɯ-lɤt mataŋe tɕe tɕhindʐa kɯ-ŋu kɯ nɯ-sɯso-t-a
-\xn 你没有打电话，我想了什么回事？
+\xn 你没有打电话，我想了怎么回事
 \xv aʑo a-kɤ-sɯso nɯ ʑo ŋu 
 \xn 这就是我的意思
 \xv ɯ-kɤ-sɯso ɲɯ-dɤn
@@ -54488,7 +54488,7 @@ da.lie 打猎
 \xv laχtɕha kɤ-ntsɣe ɲɯ-sɯsɤm
 \xn 他想卖东西
 \xv "aʑo kɯ-fse kɯ-mpɕɤr me" ɲɯ-nɯsɯsɤm pjɤ-ŋu
-\xn 他想着，没有比漂亮的人
+\xn 他想着，没有比我漂亮的人
 \un 不定式{kɤsɯso}放在另一个动词后面时可以表示“当你估计……的时候就”、“等到……的时候”等意思
 \xv nɯ jamar rtaʁ kɤ-sɯso tɕe, a-tɤ-tɯ-z-nɯne ra
 \xn 你估计够的时候就要停
