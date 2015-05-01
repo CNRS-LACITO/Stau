@@ -54415,13 +54415,13 @@ da.lie 打猎
 \gn 记得、想起 、想念
 \hbf 1388 <2> 1407 <3> 1727
 \xv mɤ-tɯ-sɯʁjit ʑo maŋe 
-\xn 你没有想不出来的事情
+\xn 没有你想不出来的事情
 \xv ɯ-kha ra to-sɯʁjit
 \xn 他想念他的家属
 \xv ɯ-mu to-sɯʁjit
 \xn 他想念他母亲
 \xv tɤ́-wɣ-sɯʁjit-a
-\xn 我想念我了
+\xn 他想念我了
 \cf ʁjit
 \dt 09/Sep/2014
 
