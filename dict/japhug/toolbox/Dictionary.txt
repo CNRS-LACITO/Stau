@@ -53420,7 +53420,7 @@ da.lie 打猎
 \xv pɣa kɯ ɯ-ʁar nɯ na-sqhiar
 \xn 鸟展开了翅膀
 \xv tɯ-ŋga tɤ-tɯ-ɕkho-t tɕe nɯ-sqhiar ra ma mɤ-zbaʁ 
-\xn 你把晒衣服时候，一定要把它展开不然就不会干
+\xn 你晒衣服时候，一定要把它展开不然就不会干
 \dt 05/Sep/2011
 
 \lx _sqlɯm
