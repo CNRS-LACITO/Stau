@@ -52703,10 +52703,10 @@ da.lie 打猎
 \pdl dir 
 \pdv thɯ-
 \ge naître 
-\gn 生 
+\gn 出生 
 \et skʲe
 \xv ɯ-rɟit to-sci
-\xn 她的孩子生了
+\xn 她的孩子出生了
 \se sɯsci
 \ps vt
 \pdl dir 
