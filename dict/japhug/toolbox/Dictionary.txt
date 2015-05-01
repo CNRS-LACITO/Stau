@@ -53038,16 +53038,16 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge ronfler
-\gn 打鼾声
+\gn 打鼾
 \et sŋur
 \xv nɤ-tɯ-sŋur nɯ 
 \xn 你鼾声打得很大声
 \xv jɯfɕɯɕɤr nɤʑo pɯ-tɯ-sŋur
-\xn 你昨天晚上打了鼾声
+\xn 你昨天晚上打了鼾
 \xv to-tɯ-sŋur
-\xn 你原来不打鼾声，现在就打鼾声了 
+\xn 你原来不打鼾，现在就打鼾了 
 \xv aʑo kɤ-nɯʑɯβ-a tɕe, wuma ɲɯ-sŋur-a
-\xn 我睡的时候打鼾声
+\xn 我睡的时候打鼾
 \dt 04/Aug/2012
 
 \lx _so
