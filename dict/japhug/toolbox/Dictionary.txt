@@ -54173,7 +54173,7 @@ da.lie 打猎
 \xv nɯ-sɯmtɕɯr-a
 \xn 我令把转了
 \xv pa-sɯmtɕɯr
-\xn 他把它转了
+\xn 他把它转动了
 \xv tɯ-kɤrnoʁ kɤ-sɯmtɕɯr ra 
 \xn 要动脑筋
 \cf mtɕɯr
