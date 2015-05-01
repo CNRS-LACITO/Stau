@@ -53438,7 +53438,7 @@ da.lie 打猎
 \xv rnda pjɤ-sqlɯm
 \xn 楼层陷下去了
 \xv sɤtɕha (tɯkhɤl) pjɤ-sqlɯm 
-\xn 地方陷下去了
+\xn (有一个)地方陷下去了
 \cf arɴɢlɯm
 \dt 07/Sep/2013
 
