@@ -54341,7 +54341,7 @@ da.lie 打猎
 \xv smi ka-sɯrma
 \xn （用草木灰）把火盖住了
 \xv jɯɣmɯr kutɕu kɤ-sɯrma-t-a
-\xn 今晚晚上让他在这里睡了
+\xn 今天晚上让他在这里睡了
 \sy sɯrʑaʁ
 \dt 02/Jan/2015
 
