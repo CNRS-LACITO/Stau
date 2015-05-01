@@ -54734,7 +54734,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge avoir au complet 
-\gn 具备齐全、个也没有漏掉 
+\gn 具备齐全、一个也没有漏掉 
 \hbf 1455 <2> 1583 
 \et tsʰaŋs
 \xv laʁdɯn tɤ-sɯxtshoz-a tɕe, kɤ-rɤma khɯ 
