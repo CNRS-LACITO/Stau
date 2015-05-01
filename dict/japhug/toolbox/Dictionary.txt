@@ -53992,7 +53992,7 @@ da.lie 打猎
 \xv jɯɣi na-sɯɣʑaʁ
 \xn 他练了字
 \xv ɕɤmɯɣdɯ kɤ-lɤt ɲɯ-sɯɣʑaʁ
-\xn 他在练习射抢
+\xn 他在练习射枪
 \xv kɤ-ŋke na-sɯɣʑaʁ, tɯ-ŋke na-sɯɣʑaʁ
 \xn 他练习走路了
 \dt 10/Sep/2011
