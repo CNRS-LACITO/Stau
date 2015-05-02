@@ -50579,9 +50579,9 @@ da.lie 打猎
 \gn 连接（断了的东西） 
 \hbf 1496
 \xv tɤ-fsɤri ka-sɤlɤɣɯ
-\xn 他把麻绳连接了
+\xn 他把麻绳接上了
 \xv tɯ-mbri ka-sɤlɤɣɯ
-\xn 他把绳子连接了
+\xn 他把绳子接上了
 \sy sɤmthoʁmthɯt
 \cf alɤɣɯ
 \dt 18/May/2014
