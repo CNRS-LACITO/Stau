@@ -51650,7 +51650,7 @@ da.lie 打猎
 \ge devenir membre 
 \gn 加入 、合群
 \xv kɯ-ʑɣɤsɤri ci ɲɯ-ŋu
-\xn 他是合群的一个人
+\xn 他是一个合群的人
 \xv ndʑi-rca to-zɣɤsɤri
 \xn 他加入了他们俩的队伍
 \xv aʑo tɤrca tɤ-ʑɣɤsɤri-a
