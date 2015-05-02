@@ -49899,7 +49899,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge préparer, faire une sorte que qqch soit prêt à 
-\gn 准备，作成 
+\gn 准备，把...做成 
 \xv kɤ-ŋga to-sɤβzu
 \xn 他把衣服准备好了，可以穿了
 \xv kɤ-ndza to-sɤβzu
