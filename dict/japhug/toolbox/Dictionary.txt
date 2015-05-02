@@ -49857,9 +49857,9 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge s'occuper de (à propos des enfants)
-\gn 待（孩子）
+\gn 带（孩子）
 \xv aʑo a-ɣe ku-sɤβlam-a
-\xn 我在待我的孙子
+\xn 我在带我的孙子
 \dt 22/Feb/2014
 
 \lx _sɤβlɯβlɯɣ
