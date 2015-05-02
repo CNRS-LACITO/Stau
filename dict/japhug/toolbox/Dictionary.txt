@@ -51542,11 +51542,11 @@ da.lie 打猎
 \ge se moquer
 \gn 取笑
 \xv ɯʑo ɲɯ-sɤrɤpa
-\xn 他取笑
+\xn 他取笑(别人)
 \xv ɤj tɤ-sɤrɤpa-a
-\xn 我取笑了
+\xn 我取笑(别人)了
 \xv jiɕqha kɯ-sɤrɤpa ci ɲɯ-ŋu
-\xn 他是一个爱取笑的人
+\xn 他是一个爱取笑人的人
 \cf sɤre
 \dt 27/Oct/2011
 
