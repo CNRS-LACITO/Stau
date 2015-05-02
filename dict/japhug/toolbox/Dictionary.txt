@@ -50874,9 +50874,9 @@ da.lie 打猎
 \ge relier
 \gn 连接
 \xv tɤfsɤri lɤ-sɤmthoʁmthɯt-a
-\xn 我把麻绳连接了
+\xn 我把麻绳接起来了
 \xv tɯmbri lɤ-sɤmthoʁmthɯt-a
-\xn 我把绳子连接了
+\xn 我把绳子接起来了
 \sy sɤlɤɣɯ
 \cf amthoʁmthɯt
 \dt 22/Feb/2014
