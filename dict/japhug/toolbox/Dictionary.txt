@@ -50673,7 +50673,7 @@ da.lie 打猎
 \ge bercer
 \gn 摇（小孩子）
 \xv nɯ-sɤltshɯltshɯɣ-a tɕe tɕe ɲɯ-rga tɕe mɯ́j-ɣɤwu
-\xn 我把他摇了一下，我高兴就不哭了
+\xn 我把他摇了一下，他高兴就不哭了
 \dt 07/Dec/2013
 
 \lx _sɤlɯrlɯr
