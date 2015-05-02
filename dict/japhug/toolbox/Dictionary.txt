@@ -50367,11 +50367,11 @@ da.lie 打猎
 \gn 还东西 
 \hbf 1183 
 \xv laʁtɕha ɲɤ-nɯβde-t-a tɕe nɯ́-wɣ-sɤja-a
-\xn 我把东西弄丢了，他还给我了
+\xn 我把东西弄丢了，他送还给我了
 \xv ɲɤ-nɯβde tɕe nɯ-sɤja-t-a
-\xn 他把东西弄丢了，我还给他了
+\xn 他把东西弄丢了，我送还给他了
 \xv nɤ-laʁtɕha nɯ-ta-sɤja 
-\xn 我把你的东西已经还给你了
+\xn 我已经把你的东西还给你了
 \dt 23/Jun/2014
 
 \lx _sɤjɤr
