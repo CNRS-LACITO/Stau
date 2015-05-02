@@ -51238,7 +51238,7 @@ da.lie 打猎
 \xv kɤ-nɤma ɯ-tɯ-dɤn tɕe, kɤ-sɤʑa ɲɯ-sɤŋɤβ
 \xn 工作很多，不想开工
 \xv rasti laji nɯ ra to-ɬoʁ ri ɲɯ-sɤŋɤβ ma ɯʑo ri ɲɯ-xtɕi, qajɯ kɯ ri to-ndza 
-\xn 他种的大头菜虽然长出来了，但是令人不想要，因为又小加上虫又吃了
+\xn 他种的大头菜虽然长出来了，但是令人不想要，因为又小又加上被虫吃了
 \se nɤŋɤβ
 \ps vt
 \ng trop
