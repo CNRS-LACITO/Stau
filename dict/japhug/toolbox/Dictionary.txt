@@ -50156,7 +50156,7 @@ da.lie 打猎
 \xv tɤ-sɤfɕɤra-j
 \xn 我们讨论了
 \xv jɤ-ɣi-nɯ tɕe sɤfɕɤra-j
-\xn 你们来，我们谈论一下
+\xn 你们来，我们讨论一下
 \dt 24/Jun/2011
 
 \lx _sɤfɕi
