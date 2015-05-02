@@ -52200,7 +52200,7 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge continuer, aller directement sans s'arrêter, en profiter pour faire quelquechose d'autre 
-\gn 继续、直接过去（可以停的地方没有停），顺便做另外意见事 
+\gn 继续、直接过去（可以停的地方没有停），顺便做另外一件事 
 \hbf *tɤmu.15 
 \xv tha-sɤtɕitʂi, la-sɤtɕitʂi
 \xn 他顺便带了
