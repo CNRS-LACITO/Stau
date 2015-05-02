@@ -49963,7 +49963,7 @@ da.lie 打猎
 \xv tɤ-sɤchɯchɯβ ʑo tɕe, jɤ-ɕe 
 \xn 你快点吃就走
 \xv tɤ-sɤchɯchɯβ-a lɤ-ari-a
-\xn 他不顾一切地冲上去了
+\xn 我不顾一切地冲上去了
 \dt 24/Jun/2011
 
 \lx _sɤchɯrʁu
