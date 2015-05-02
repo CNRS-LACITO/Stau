@@ -51090,7 +51090,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge endroit où il est courant de tomber 
-\gn 容易令人摔倒
+\gn 令人容易摔倒的地方
 \xv tʂu ɲɯ-ɣɤrɤβ ɲɯ-sɤndʐaβ
 \xn 路很陡峭，容易摔倒
 \xv kutɕu sɤndʐaβ ŋgrɤl 
