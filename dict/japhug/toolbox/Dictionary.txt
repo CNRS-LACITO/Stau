@@ -52292,7 +52292,7 @@ da.lie 打猎
 \ge faire l'effronté derrière le dos
 \gn 悄悄地顶嘴
 \xv ma-tɯ-ɣɤthɤβthɤβ
-\xn 你不要悄悄的顶嘴
+\xn 你不要悄悄地顶嘴
 \sy sɤtɕhɯβtɕhɯβ
 \dt 31/Jul/2011
 
