@@ -50736,9 +50736,9 @@ da.lie 打猎
 \ge différencier 
 \gn 分辨 
 \xv stoʁ staʁpɯ na-sɤmbrɤqɤt
-\xn 他把胡豆和豌豆分辨了
+\xn 他分辨了胡豆和豌豆
 \xv laχtɕha na-sɤmbrɤqɤt
-\xn 他分辨了东西分开
+\xn 他区分了东西
 \xv mbrɤj cho tɯrgi na-sɤmbrɤqɤt
 \xn 他分辨了红桦树和杉树
 \xv kɯ-ŋu kɯ-maʁ ɲɯ-sɤmbrɤqɤt
