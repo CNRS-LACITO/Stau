@@ -51398,7 +51398,7 @@ da.lie 打猎
 \xv rtsɤmkɯɣ tha-sɤphɤr
 \xn 他把糌粑袋子抖了一下
 \xv tɤjko ɯ-tɯ-tɕur kɯ tɯ-ku ɲɯ-kɯ-sɤphɤr ɲɯ-ŋu
-\xn 酸菜发出酸，酸到昏了头
+\xn 酸菜发酸，酸到昏了头
 \cf phɤr
 \cf mbɤr²
 \dt 14/Nov/2011
