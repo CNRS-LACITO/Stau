@@ -49696,7 +49696,7 @@ da.lie 打猎
 \ng caus
 \ng refl
 \ge se faire tuer
-\gn 遭人杀
+\gn 遭人杀害
 \dt 15/Jan/2015
 
 \lx _saχaʁ
