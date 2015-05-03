@@ -48185,7 +48185,7 @@ da.lie 打猎
 \xv mphrɯmɯ ɕ-pɯ-sɯre
 \xn 你去请人算命吧
 \xv aʑɯɣ kɯnɤ a-mphrɯmɯ a-pɯ-tɯ-sɯre ɯ-tɯ́-cha
-\xn 你能不能教别人帮我算命
+\xn 你能不能叫别人帮我算命
 \dt 07/Nov/2014
 
 \lx _rɯβ
@@ -48218,7 +48218,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge aimer se maquiller et porter des habits luxueux 
-\gn 喜欢打扮，穿豪华的衣服爱美 
+\gn 喜欢打扮，穿豪华的衣服，爱美 
 \xv tɕheme ɲɯ-rɯɕaŋchi
 \xn 他打扮成女孩子
 \xv ɕɯŋgɯ mɯ-pɯ-rɯɕaŋchi, tham to-rɯɕaŋchi
