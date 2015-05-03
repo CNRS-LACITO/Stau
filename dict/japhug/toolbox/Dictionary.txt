@@ -47527,7 +47527,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge amasser 
-\gn 堆 起来（不整齐）
+\gn 堆起来（不整齐）
 \hbf 1294 <2> 1511
 \xv tɯjpu ta-rmbɯ
 \xn 他把粮食堆起来了
