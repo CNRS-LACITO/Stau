@@ -48127,7 +48127,7 @@ da.lie 打猎
 \xv tɯrme ra nɯ-ɕki z-jɤ-ru
 \xn 你看一下这些人
 \xv ɯ-jme ɯ-pɕoʁ jɤ-ru
-\xn 他颠倒睡（头朝着脚的方向）
+\xn 他颠倒着睡（头朝着脚的方向）
 \xv ci a-mɤ-ɕ-tɤ-ru tɕe, ci ntsɯ tu-dɤn pjɤ-ŋgrɤl
 \xn 她不去看一次，就要多一点（rkang.rgyal.9）
 \un 其它茶堡话方言用{mkɯm}表示这个意思
