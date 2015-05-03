@@ -49286,7 +49286,7 @@ da.lie 打猎
 \xv nɯ-ʁɟo-t-a
 \xn 我冲了
 \xv tɯthɯ na-ʁɟo
-\xn 他把锅子冲一下
+\xn 他把锅子冲了一下
 \dt 12/Apr/2011
 
 \lx _ʁlɯn
