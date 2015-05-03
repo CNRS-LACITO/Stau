@@ -48453,9 +48453,9 @@ da.lie 打猎
 \ge attentionné envers sa famille 
 \gn 关心家庭
 \xv tɯrme kɯ-rɯkɯŋu ci ɲɯ-ŋu
-\xn 他是个关心家庭的人
+\xn 他是个顾家的人
 \xv jiɕqha tɯrme ɲɯ-rɯkɯŋu tɕe, laχtɕha wuma ɲɯ-ɤsɯ-χtɯ
-\xn 那个人很关心家庭，买很多东西回家
+\xn 那个人很顾家，买很多东西回家
 \an rɯkɯmaʁ
 \cf ŋu
 \dt 17/Sep/2012
