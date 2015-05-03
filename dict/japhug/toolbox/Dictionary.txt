@@ -48502,7 +48502,7 @@ da.lie 打猎
 \ge envelopper avec un tissu rectangulaire
 \gn 用正方形的布包起来
 \xv cho-rɯmboʁkhɯr
-\xn 他把他包起来了
+\xn 他把它包起来了
 \cf mboʁkhɯr
 \dt 15/Jan/2015
 
