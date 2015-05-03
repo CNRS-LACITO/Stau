@@ -48545,7 +48545,7 @@ da.lie 打猎
 \xv khɯjŋga ɲɤ-rɯmɯntoʁ
 \xn 杜鹃花开了
 \xv pɤjka ɲɤ-rɯmɯntoʁ
-\xn 北瓜开花了
+\xn 白瓜开花了
 \cf mɯntoʁ
 \dt 21/May/2011
 
