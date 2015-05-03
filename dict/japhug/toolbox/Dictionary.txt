@@ -48905,7 +48905,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge empêcher
-\gn 障碍、妨碍
+\gn 妨碍
 \xv ɲɯ-rɯʁdɯxpa
 \xn 他在妨碍人
 \xv phɤnba kɤ-βzu mɤ-kɯ-cha ci pɯ-ŋu kɯnɤ, ma-tɤ-kɯ-rɯʁdɯxpa ra
