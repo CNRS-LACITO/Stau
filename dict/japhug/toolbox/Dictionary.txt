@@ -47824,9 +47824,9 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge abîmé (lait) 
-\gn 腥（牛奶） 
+\gn 变质（牛奶） 
 \xv tɤ-lu to-rpjɯ
-\xn 牛奶腥了
+\xn 牛奶坏了
 \dt 07/Sep/2013
 
 \lx _rpu
