@@ -13644,7 +13644,9 @@
 \ps n
 \ge commerce 
 \gn 生意 
-\hbf 1821
+\xv tɯtsɣe chɤ-ta
+\xn 他摆了摊子
+\cf ntsɣe
 
 \lx tɯtshi
 \wav8 tWtshi
@@ -40735,6 +40737,16 @@ da.lie 打猎
 \gn 拿到工钱
 \xv laχtɕha kɤ-tsɯm tɤ-nɯŋgra-a
 \xn 我把东西带来了就拿到了工钱
+\se znɯŋgra
+\wav8 toznWNgra
+\ps vt
+\pdl dir 
+\pdv tɤ-
+\ng caus
+\ge louer
+\gn 租（房子）
+\xv kha ci to-znɯŋgra
+\xn 他租了房子
 \cf tɯ-ŋgra
 \dt 21/Feb/2011
 
@@ -56866,6 +56878,7 @@ da.lie 打猎
 \wav vt-XtCi2
 \wav8 pjAkAnWsWXtCici2
 \wav8 pjAkAnWsWXtCici
+\wav8 pWnWXtCi
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -56886,6 +56899,12 @@ da.lie 打猎
 \xn 我刷了牙
 \xv aʑo jɤ-azɣɯt-a nɯ tɕu, ɯʑo kɯ ɯ-jaʁ pjɤ-kɤ<nɯ>sɯ-χtɕi-ci
 \xn 我到那里的时候，他正在洗手
+\xv nɤʑo nɤ-ku ci pɯ-nɯ-χtɕi
+\xn 你洗一下头吧
+\xv nɤ-jaʁ pɯ-nɯ-χtɕi
+\xn 你洗一下手吧
+\xv kha thɯ-χtɕi
+\xn 洗一下房子吧
 \se raχtɕi
 \wav vi-raXtCi
 \ps vi
@@ -72590,3 +72609,5 @@ l
 \ge montagne du village de Mangi
 \gn 蒙岩村的一座山之一
 
+\lx znɯŋgra
+\cf nɯŋgra
