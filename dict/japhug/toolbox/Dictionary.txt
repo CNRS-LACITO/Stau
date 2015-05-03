@@ -49302,7 +49302,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge trop bas (coup de fusil) 
-\gn 打枪描低 
+\gn 打枪瞄低 
 \et dma
 \xv ɕɤmɯɣdɯ ɯ-tɯ-ʁma nɯ 
 \xn 那杆枪打得很低
