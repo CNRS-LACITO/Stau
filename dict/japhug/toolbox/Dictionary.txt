@@ -46547,7 +46547,7 @@ da.lie 打猎
 \pdl dir 
 \pdv thɯ-
 \ge péter sans faire de bruit 
-\gn 悄悄的放屁 
+\gn 悄悄地放屁 
 \xv ɯ-qe tha-rɤrɕɯβ
 \xn 他放了屁
 \dt 09/Jun/2013
