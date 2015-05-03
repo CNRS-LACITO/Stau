@@ -49365,9 +49365,9 @@ da.lie 打猎
 \hbf 1235 
 \et gtor
 \xv tɯjpu pjɤ-ʁndɤr
-\xn 面粉洒得到处都是
+\xn 面粉撒得到处都是
 \xv laχtɕha pjɤ-ʁndɤr
-\xn 东西洒得到处都是
+\xn 东西撒得到处都是
 \xv fsapaʁ ra pjɤ-ʁndɤr-nɯ
 \xn 牲畜分散了
 \cf χtɤr
