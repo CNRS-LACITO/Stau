@@ -48652,7 +48652,7 @@ da.lie 打猎
 \ge causer des dégats 
 \gn 搞破坏、捣乱 
 \xv tɤ-rɟit kɯ-rɯŋɯŋɤn ci ɲɯ-ŋu
-\xn 他是一个高破坏的孩子
+\xn 他是一个(爱)搞破坏的孩子
 \xv tɕhɯthɤn chɤ-ɣi to-rɯŋɯŋɤn
 \xn 洪水来了，搞了破坏
 \dt 29/Sep/2013
