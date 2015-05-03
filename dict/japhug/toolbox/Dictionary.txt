@@ -49219,7 +49219,7 @@ da.lie 打猎
 \ge faire éclore
 \gn 使孵出来、使开花
 \xv kumpɣa ɯ-ŋgɯm nɯ-sɯɣʁaʁ-a
-\xn 我令鸡蛋孵出来（用人工的手段）
+\xn 我令鸡蛋孵化(用人工的手段）
 \dt 05/Sep/2011
 
 \lx _ʁdɯɣ¹
