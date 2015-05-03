@@ -47330,7 +47330,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge en sécurité (endroit) 
-\gn 安全、防危险（地方）、不容易攻击
+\gn 安全、防危险（地方）、不容易受到攻击
 \xv kɯki sɤtɕha ki, ɯ-rkɯ thamtɕɤt praʁ kɯ ku-fskɤr ɲɯ-ɕti tɕe, ɲɯ-rkɤl
 \xn 这个地方周围都是悬崖，很安全
 \xv kha pjɯ́-wɣ-sɤtsa tɕe kɯ-rkɤl kɤ-nɯmga ŋu
