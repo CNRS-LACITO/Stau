@@ -47936,7 +47936,7 @@ da.lie 打猎
 \ge diminer  (de l'eau, après s'être évaporée)
 \gn 蒸发后水变少
 \xv tɯ-ci tú-wɣ-sɤla qhe pjɯ-rʁu ɕti
-\xn 烧开水的时候会蒸发
+\xn 烧开水的时候水会蒸发
 \dt 26/Apr/2014
 
 \lx _rtaʁ
