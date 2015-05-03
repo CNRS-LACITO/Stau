@@ -48039,7 +48039,7 @@ da.lie 打猎
 \xv zɯm ɲɤ-rtshom tɕe ɲɤ-ri
 \xn 木桶有了裂口就在漏水
 \xv zɯm tɯ-ɕoʁ tɯ-ɕoʁ tɤ-kɤ-sprɤt ɲɯ-ŋu tɕe, a-tɤ-zbaʁ tɕe ɲɯ-rtshom ɲɯ-ŋu, tɯ-ci tɤ-me tɕe ɲɯ-rtshom ɲɯ-ŋu
-\xn 木桶是由一条一条的木板条组成的，只有变干他就会出现裂口
+\xn 木桶是由一条一条的木板条组成的，只要变干它就会出现裂口
 \dt 12/Apr/2011
 
 \lx _rtsi
