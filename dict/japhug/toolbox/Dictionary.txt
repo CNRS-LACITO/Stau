@@ -47410,7 +47410,7 @@ da.lie 打猎
 \xv kɤ-rku xtɕhɯt
 \xn 装得下
 \xv mɤʑɯ tú-wɣ-rku tɕhɯt
-\xn 还装得下得下
+\xn 还装得下
 \xv tɤɕi lʁa ɯ-ŋgɯ tɤ-rku-t-a 
 \xn 我把青稞装到口袋里
 \xv ɯ-jaʁ ɲɤ-nɯ-ɬoʁ tɕe, kɤ-rku-t-a 
