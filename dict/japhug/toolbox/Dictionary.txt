@@ -49133,9 +49133,9 @@ da.lie 打猎
 \pdl dir
 \pdv tɤ-
 \ge raconter ses malheurs
-\gn 述苦
+\gn 诉苦
 \xv ɯʑo a-phe ɲɯ-rɯzdɯzdɯɣ
-\xn 他向我述苦
+\xn 他向我诉苦
 \dt 01/Sep/2014
 
 \lx _rwɤt
