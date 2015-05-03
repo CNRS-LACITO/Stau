@@ -48025,7 +48025,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge enlever les organes sexuels des animaux femelles 
-\gn 取出母动物的胎盘或子宫 
+\gn 取出雌性动物的胎盘或子宫 
 \hbf 1746
 \xv paʁ na-rtsa
 \xn 他阉割了母猪
