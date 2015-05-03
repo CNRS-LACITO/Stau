@@ -47974,7 +47974,7 @@ da.lie 打猎
 \xv mthɯxtɕɤr na-rtɤβ
 \xn 他拴了腰带
 \xv xtsɤxtɕɤr na-nɯ-rtɤβ
-\xn 他拴了鞋带
+\xn 他系了鞋带
 \dt 02/Nov/2013
 
 \lx _rtoʁ
