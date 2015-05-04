@@ -55238,7 +55238,7 @@ da.lie 打猎
 \xn 我坐不住
 \xv tɤ-pɤtso kɤ-rɤʑi mɯ́j-tɕhaʁ
 \xn 小孩子坐不住
-\cf sɯtɕhaʁ
+\cf sɯxtɕhaʁ
 \cf zndɤtɕhaʁ
 \dt 02/Sep/2011
 
