@@ -44282,7 +44282,7 @@ da.lie 打猎
 \pdl dir 
 \pdv thɯ-
 \ge dur (travail) 
-\gn 辛苦、难作 
+\gn 辛苦、难做
 \hbf 1067 
 \xv ta-ma ɲɯ-ɴqa
 \xn 工作很辛苦
