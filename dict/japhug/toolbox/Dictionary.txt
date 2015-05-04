@@ -44409,7 +44409,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge être d'une certaine manière (s'emploie avec les adjectifs nus) 
-\gn 谓语（和无前缀的形容词） 
+\gn 位于（和无前缀的形容词） 
 \xv ko-nɯ-rŋgɯ tɕe, ɯ-sɤ-rŋgɯ-ŋga loŋloŋ ʑo ɲɯ-pa 
 \xn 他睡着了以后，床上是拱起来的
 \dt 09/Jun/2013
