@@ -45352,7 +45352,7 @@ da.lie 打猎
 \xv nɤ-ŋga chɤ-tɯ-qraʁ
 \xn 你把衣服撕破了
 \xv lɯlu kɯ pɯ́-wɣ-mɯrʁɯz-a tɕe a-jaʁ pjɤ-qraʁ
-\xn 猫把我抓了一下，破了我的手
+\xn 猫把我抓了一下，抓破了我的手
 \cf ɴɢraʁ
 \dt 29/Sep/2013
 
