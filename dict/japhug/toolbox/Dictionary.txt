@@ -44388,7 +44388,7 @@ da.lie 打猎
 \xv laχtɕha ɯ-pɯ tɤ-pe
 \xn 你把东西保管好！
 \xv tɤ-lu tɤ-rʑaʁ kɯ-rɲɟi ɯ-pɯ kɤ-pa mɯ́j-khɯ tu-rpjɯ ɲɯ-ɕti
-\xn 不能把牛奶长时间保存，不然就会腥
+\xn 牛奶不能长时间保存，不然就会腥(变质)
 \xv tɕhi tu-pe-a?
 \xn 我怎么办？
 \xv aʑo akɯ ɕe-a, nɤʑo tɕhi tɯ-pe
