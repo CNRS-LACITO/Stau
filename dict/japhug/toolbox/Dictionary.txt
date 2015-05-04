@@ -44569,7 +44569,7 @@ da.lie 打猎
 \xv tɤ-ri thɯ-phaʁ-a
 \xn 我撕了线
 \xv paχɕi ɯ-sɤ-phaʁ maŋe, mbrɯtɕɯ a-pɯ-tu tɕe pe ri
-\xn 没有东西切苹果，有刀子就好
+\xn 没有东西切苹果，有刀子就好了
 \cf mbaʁ
 \dt 04/Aug/2012
 
