@@ -45053,7 +45053,7 @@ da.lie 打猎
 \wav8 qarNWrNe
 \ps vs
 \ge jaune foncé
-\gn 很黄色 
+\gn 深黄色 
 \cf qarŋe
 \an aqarŋɯrŋe
 \dt 26/Aug/2012
