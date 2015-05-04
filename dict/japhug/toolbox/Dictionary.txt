@@ -45540,9 +45540,9 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge faire semblant d'être incapable (pour ne pas avoir à travailler)
-\gn 装自己不会做
+\gn 装作自己不会做
 \xv ma-nɯ-tɯ-raʁjɯ kɯ nɯ-rɤma
-\xn 你不要装自己不会，要劳动！
+\xn 你不要装作自己不会，要劳动！
 \sy nɯɕɯʁjɯ
 \dt 26/Aug/2012
 
