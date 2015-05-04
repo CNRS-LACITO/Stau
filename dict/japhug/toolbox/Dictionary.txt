@@ -45797,7 +45797,7 @@ da.lie 打猎
 \ge faire de la poterie
 \gn 做泥工
 \xv aʑo tu-rɤfcar-a ɲɯ-sɯsam-a ma jinde kɯ-rɤfcaʁ maŋe
-\xn 我想做泥工因为现在泥匠
+\xn 我想做泥工因为现在没有泥匠
 \cf tɯfcɤr
 \dt 30/Aug/2012
 
