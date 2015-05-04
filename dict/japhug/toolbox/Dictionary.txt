@@ -44930,7 +44930,7 @@ da.lie 打猎
 \xv jaŋjy lɤ-pe
 \xn 你把土豆烤一下
 \xv qɤjɣi lɤ-pe
-\xn 你馍馍烤一下
+\xn 你把馍馍烤一下
 \xv tɤ-mthɯm thɯ-pu-t-a
 \xn 我烤了肉
 \xv pɤjka lɤ-pu-t-a
