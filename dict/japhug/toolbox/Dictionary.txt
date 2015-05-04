@@ -45883,7 +45883,7 @@ da.lie 打猎
 \xv xɕiri kɯ kumpɣa ɲɤ-rɤɣdɯt 
 \xn 黄鼠狼喝光了鸡的血（还没有吃到肉）
 \xv tɯrme kɯ tu-kɤ-ntɕha nɯnɯ, ɯ-rqhu mɯ-tu-kɤ-phaʁ nɯ, ɯ-ndʐi mɯ-tu-kɤ-phaʁ nɯ tɕe, chɤ-rɤɣdɯt tu-kɯ-ti ɲɯ-ŋu. xɕiri kɯ kumpɣa ta-ndza tɕe, ɯ-se ku-tshi ma, ɯ-ɕa mɯ-tu-ndze ɲɯ-βde nɯnɯ, li ɲɤ-rɤɣdɯt tu-kɯ-ti khɯ. 
-\xn 宰动物的时候，不破皮子子地剥皮叫做{chɤrɤɣdɯt}。黄鼠狼喝鸡的血，不吃他的肉也叫做{ɲɤrɤɣdɯt}
+\xn 宰动物的时候，不破皮子地剥皮叫做{chɤrɤɣdɯt}。黄鼠狼喝鸡的血，不吃它的肉也叫做{ɲɤrɤɣdɯt}
 \dt 13/Jan/2013
 
 \lx _rɤɣlɤn
