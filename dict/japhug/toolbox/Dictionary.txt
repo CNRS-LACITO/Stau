@@ -45011,7 +45011,7 @@ da.lie 打猎
 \ge tabou
 \gn 禁忌的地方
 \xv ki sɤtɕha ɲɯ-qar
-\xn 这个地方是禁忌的
+\xn 这个地方是禁忌
 \xv si kɤ-phɯt mɤ-βdi, sɤtɕha kɤ-lɣa mɤ-βdi. tɯ-ŋgo ɲɯ-sɤβze ɲɯ-ŋgrɤl, tu-kɯ-ɕɯngo ɲɯ-ŋu.
 \xn （在那种地方）砍树是不好的，挖地是不好的。这样会令人得病
 \dt 25/Dec/2012
