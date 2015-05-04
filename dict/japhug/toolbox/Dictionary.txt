@@ -46036,7 +46036,7 @@ da.lie 打猎
 \hbf 1608 
 \et gros
 \xv tɤ-rɤkrɤz-tɕi
-\xn 我们俩商量了
+\xn 我们俩商量过了
 \xv khro tɤ-rɤkrɤz-nɯ
 \xn 他们商量了很久
 \cf tɯkrɤz
