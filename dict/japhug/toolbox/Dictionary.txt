@@ -44985,9 +44985,9 @@ da.lie 打猎
 \ge faire un bleu
 \gn 弄紫
 \xv tɤ́-wɣ-xtsɯɣ-a tɕe, to-sqandʐi
-\xn 他打中我了就弄紫了
+\xn 他打中我了，就弄紫了
 \xv nɤ-rŋa kɤ-tɯ-nɯ-rpu-t tɕe to-sqandʐi
-\xn 你撞到脸上就弄紫了
+\xn 你撞到脸，就弄紫了
 \dt 07/Apr/2011
 
 \lx _qanɯ
