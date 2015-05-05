@@ -43867,7 +43867,7 @@ da.lie 打猎
 \xv pɯ-ŋgio
 \xn 他滑了
 \xv pɯ-ŋgio-a
-\xn 我滑了
+\xn 我滑了(一跤)
 \xv ɕoŋtɕa pɯ-ŋgio
 \xn 木料滑了
 \xv rdɤstaʁ pjɤ-ŋgio
