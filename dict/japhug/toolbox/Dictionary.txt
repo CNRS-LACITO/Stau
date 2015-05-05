@@ -42735,7 +42735,7 @@ da.lie 打猎
 \xv pɯ́-wɣ-znɯtɕhal-a tɕe nɯ-kho-t-a
 \xn 我被罚就交了罚款
 \xv ɯʑo ɕ-to-mɯrkɯ tɕe, pɯ-znɯtɕhal-a
-\xn 我偷了东西我就惩罚了他
+\xn 他偷了东西我就惩罚了他
 \cf ɯ-tɕhɤl
 \dt 17/May/2014
 
