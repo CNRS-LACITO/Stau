@@ -42496,7 +42496,7 @@ da.lie 打猎
 \xv nɯ ma-nɯ-tɯ-nɯsɯkhɤm
 \xn 你不要抢这个东西
 \xv paʁmu kɯ ɯ-rɟit kɤ-ndza ɲɯ-nɯsɯkhɤm ɲɯ-ŋu
-\xn 母猪总是抢他仔仔的食物
+\xn 母猪总是抢它的崽子的食物
 \xv tɤ-pɤtso kɯ ɯ-zda ɯ-kɯmtɕhɯ na-nɯsɯkho
 \xn 小孩子抢了他的同学的玩具
 \xv ma-nɯ-kɯ-nɯsɯkho-a
