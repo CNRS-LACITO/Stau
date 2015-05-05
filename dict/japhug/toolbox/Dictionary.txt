@@ -43368,7 +43368,7 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge transporter un par un 
-\gn 一个一个的搬运 
+\gn 一个一个地搬运 
 \xv rdɤstaʁ lɤ-nɯzʁe-t-a 
 \xn 我把石头搬过去了
 \dt 26/Mar/2011
