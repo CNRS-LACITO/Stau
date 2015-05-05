@@ -43501,7 +43501,7 @@ da.lie 打猎
 \xv rdɤstaʁ kɯ si nɯ pɯ-sɯ-ɲcɤr
 \xn 你用石头把柴压着（防止柴被人拿） 
 \xv ki ɕoʁɕoʁ ki thɯci kɯ pɯ-sɯ-ɲcɤr ma qale kɯ nɯtsɯm
-\xn 你用什么担心把纸压住，不然会被风吹走
+\xn 你用什么东西把纸压住，不然会被风吹走
 \xv paʁ pɯ-ɲcar-a 
 \xn 我把猪压住了
 \xv tɯrme ɯ-stu mɤ-kɯ-fse nɯ pjɯ́-wɣ-ɲcɤr tɕe ɯ-stu kú-wɣ-z-rɤʑi ŋu
