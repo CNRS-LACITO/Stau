@@ -43696,7 +43696,7 @@ da.lie 打猎
 \xv ɲɯ-ɲɟɯɣ-ndʑi
 \xn 他们合得来
 \xv ki ɯ-ʁɤri mɯ-pɯ-amɯmi-ndʑi ri, tham to-ɲɟɯɣ-ndʑi
-\xn 他们以前关系部好，现在合得来了
+\xn 他们以前关系不好，现在合得来了
 \dt 09/Nov/2013
 
 \lx _ɲɟɯr
