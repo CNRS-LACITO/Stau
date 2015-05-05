@@ -43522,7 +43522,7 @@ da.lie 打猎
 \xv @piqiu pjɤ-ɲchoʁ
 \xn 皮球瘪下去了
 \xv kɤrŋi kú-wɣ-sqa tɕe, lú-wɣ-sqa ɕɯmɯma dɤn ri, kɤ-smi tɕe tɕe ɲɯ-rkɯn ŋu tɕe tɕe ɲɤ-ɲchoʁ tu-kɯ-ti ŋu
-\xn 蔬菜熟了以后就缩小
+\xn 蔬菜熟了以后就萎缩了
 \xv ɯ-lɯm ɲɯ-kɯ-xtɕi nɯ tɕe ɲɯ-kɯ-ɲchoʁ tu-kɯ-ti
 \xn 体积变小就做“瘪下去”
 \xv ɲɯ-mtsɯr-a tɕe a-xtu ɲɤ-ɲchoʁ
