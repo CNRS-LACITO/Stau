@@ -43040,7 +43040,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge causer la diarrhée
-\gn 令人啦肚子
+\gn 令人拉肚子
 \cf fɕɤl
 \sy nɯqhoχɕɤr
 \dt 15/May/2014
