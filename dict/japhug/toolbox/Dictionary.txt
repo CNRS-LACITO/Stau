@@ -41866,12 +41866,12 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge attraper le mal des hauteurs 
-\gn 发高山反应
+\gn 有高山反应
 \et rdza.dug
 \xv pjɤ-nɯrzandaɣ-a
-\xn 我发了高山反应
+\xn 我有了高山反应
 \xv ɤj mucin ʑo mɯ́j-nɯrzandaɣ-a
-\xn 我根本就不会发高山反应
+\xn 我根本就不会有高山反应
 \dt 14/Mar/2011
 
 \lx _nɯrʑɯɣ
