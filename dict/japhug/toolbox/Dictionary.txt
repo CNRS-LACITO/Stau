@@ -41866,7 +41866,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge attraper le mal des hauteurs 
-\gn 有高山反应
+\gn 发生高山反应
 \et rdza.dug
 \xv pjɤ-nɯrzandaɣ-a
 \xn 我有了高山反应
