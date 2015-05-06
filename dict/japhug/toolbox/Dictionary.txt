@@ -41468,7 +41468,7 @@ da.lie 打猎
 \ge répandue (langue)
 \gn 使用范围最广（语言）
 \xv stu kɯ-nɯrɟaŋ nɯ ɲɯ-tɯ-spe
-\xn 你学会了最使用的（那个语言）（反话，指的是茶堡话）
+\xn 你学会了最实用的（那个语言）（反话，指的是茶堡话）
 \dt 22/Oct/2010
 
 \lx _nɯrɟɤntɕa
