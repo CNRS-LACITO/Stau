@@ -42028,7 +42028,7 @@ da.lie 打猎
 \xv ma-pɯ-tɯ-nɯʁndomnɤt ntsɯ
 \xn 你不要不停地重复讲同一句话
 \xv a-mu cho-rgɤz tɕe, wuma ʑo nɯʁndomnɤt
-\xn 我母亲老了，不停地重讲说过的话
+\xn 我母亲老了，不停地重复讲说过的话
 \xv ɯʑo cha ku-tshi tɕe, tu-nɯʁndomnɤt ɲɯ-ŋu 
 \xn 他喝了酒就会重复讲说过的话
 \cf taʁndo
