@@ -41917,7 +41917,7 @@ da.lie 打猎
 \gn 敌视 
 \et dgra
 \xv jiɕqha kɯ tú-wɣ-nɯʁgra-a ɲɯŋu
-\xn 那个人对我有仇
+\xn 那个人跟我有仇
 \se anɯʁgrɯʁgra
 \ps vi
 \ge se considérer les uns les autres comme des ennemis
