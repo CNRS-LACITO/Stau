@@ -41348,7 +41348,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge faire une crise d'épilepsie, tomber inconscient
-\gn 癫痫发挥、昏迷
+\gn 癫痫发作、昏迷
 \pdl dir 
 \pdv _
 \ge toucher légèrement, frotter en passant 
@@ -41423,7 +41423,7 @@ da.lie 打猎
 \ge rendre plein de poussière
 \gn 使沾满灰尘
 \xv kɤntɕhaʁ ɯ-tɯ-ɣɤrdɯl ɲɯ-saχaʁ tɕe, tɤ-kɯ-ŋke tɕe, ku-kɯ-z-nɯrdɯl ɲɯ-ŋu
-\xn 街上很多灰尘走路的时候身上会沾到灰尘
+\xn 街上很多灰尘，走路的时候身上会沾到灰尘
 \cf ɣɤrdɯl
 \cf rdɯl
 \dt 21/Aug/2012
