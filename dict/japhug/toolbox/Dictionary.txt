@@ -42285,7 +42285,7 @@ da.lie 打猎
 \xv ɬasa kɤ-ɕe ɲɯ-nɯsmɯlɤm
 \xn 他很希望去拉萨
 \xv nɤ-kɤ-nɯsmɯlɤm nɯ a-pɯ-fse 
-\xn 祝你愿望成功
+\xn 祝你愿望实现
 \xv pjɯ-kɤ-cha nɯ ɲɯ-nɯsmɯlam-a
 \xn 我希望（这件事情）成功
 \cf smɯlɤm
