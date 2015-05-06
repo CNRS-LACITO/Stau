@@ -41338,7 +41338,7 @@ da.lie 打猎
 \xv sɯŋgɯ pɯ-nɯrchɯrchaβ-a
 \xn 我在森林里钻来钻去
 \xv tɯrme nɯra nɯ-rchɤβ pɯ-nɯrchɯrchaβ-a
-\xn 我在人群中窜来窜去了
+\xn 我在人群中窜来窜去
 \cf ɯ-rchɤβ
 \dt 12/May/2013
 
