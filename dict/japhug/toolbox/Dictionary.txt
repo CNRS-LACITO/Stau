@@ -41053,11 +41053,11 @@ da.lie 打猎
 \pdv nɯ-
 \ng caus
 \ge chatouiller
-\gn 令人发痒
+\gn 挠(别人)痒
 \xv nɯ́-wɣ-znɯpodɯdi-a
-\xn 他令我发痒了
+\xn 他挠我痒痒了
 \xv nɯ-znɯpodɯdi-t-a
-\xn 我令他发痒了
+\xn 我挠他痒痒了
 \dt 12/Jan/2014
 
 \lx _nɯpolɯli
