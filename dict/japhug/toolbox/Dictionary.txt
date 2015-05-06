@@ -42710,10 +42710,9 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge manger (cheval) 
-\gn 马吃饲料 
-\hbf *kɯsɤr.251
+\gn 吃饲料（马）
 \xv mbro ɲɯ-nɯtɕhaʁ
-\xn 马在吃
+\xn 马在吃饲料
 \cf ɯ-tɕhaʁ
 \dt 31/Mar/2014
 
@@ -54711,6 +54710,7 @@ da.lie 打猎
 \xn 老板把我的工资给减少了
 \xv sqi ɯ-ngɯ kɯtʂɤɣ chɯ́-wɣ-sɯxtɕhaʁ tɕe, ɯ-ro kɯβde ɲɯ-ri ŋu 
 \xn 十减六等于四
+\sy ɣɤtɕhaʁ
 \cf tɕhaʁ
 \dt 31/Aug/2011
 
@@ -55239,6 +55239,7 @@ da.lie 打猎
 \xv tɤ-pɤtso kɤ-rɤʑi mɯ́j-tɕhaʁ
 \xn 小孩子坐不住
 \cf sɯxtɕhaʁ
+\cf ɣɤtɕhaʁ
 \cf zndɤtɕhaʁ
 \dt 02/Sep/2011
 
@@ -72611,3 +72612,11 @@ l
 
 \lx znɯŋgra
 \cf nɯŋgra
+
+\lx _ɣɤtɕhaʁ
+\ps vt
+\ng caus
+\ge faire diminuer 
+\gn 减 
+\sy sɯxtɕhaʁ
+\cf tɕhaʁ
