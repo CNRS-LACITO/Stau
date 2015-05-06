@@ -42710,10 +42710,9 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge manger (cheval) 
-\gn 马吃饲料 
-\hbf *kɯsɤr.251
+\gn 吃饲料（马）
 \xv mbro ɲɯ-nɯtɕhaʁ
-\xn 马在吃
+\xn 马在吃饲料
 \cf ɯ-tɕhaʁ
 \dt 31/Mar/2014
 
