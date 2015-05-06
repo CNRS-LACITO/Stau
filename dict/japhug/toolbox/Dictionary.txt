@@ -41190,7 +41190,7 @@ da.lie 打猎
 \ge tomber en arrière, se pencher vers l'arrière 
 \gn 往后仰、往后摔下来（人）
 \xv pɯ-nɯqhaɴɢaʁ-a tɕe pɯ-ndʐaβ-a
-\xn 我往后仰了一下就摔倒了
+\xn 我往后一仰就摔倒了
 \xv rɟɤlpu tɯ-ɲɟɤt kɯ ɯ-qhu pjɤ-nɯqhaɴɢaʁ tɕe pjɤ-si
 \xn 国王后悔不已，往后仰摔下来了就死了
 \pdl dir 
