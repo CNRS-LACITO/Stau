@@ -41580,7 +41580,7 @@ da.lie 打猎
 \pdl dir 
 \pdv thɯ-
 \ge faire son intéressant 
-\gn 爱 在人多的场合中表现自己[耍人来疯] 
+\gn 爱在人多的场合中表现自己[耍人来疯] 
 \hbf *kɯju.1
 \xv jiɕqha nɯ wuma nɯrmɤʑu
 \xn 那个人很喜欢表现自己
@@ -41637,7 +41637,7 @@ da.lie 打猎
 \pdl dir 
 \pdv kɤ-
 \ge attraper une maladie de la peau 
-\gn 患上一种 皮肤病 
+\gn 患上一种皮肤病 
 \hbf maladie 
 \xv paʁ ko-nɯrŋu
 \xn 猪得了皮肤病
