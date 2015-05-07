@@ -40135,7 +40135,7 @@ da.lie 打猎
 \xv si kɤ-nɯmɢla-t-a
 \xn 我把树跨过去了
 \xv rdɤstaʁ kɤ-nɯmɢla-t-a
-\xn 我石头树跨过去了
+\xn 我从石头上跨过去了
 \cf tɯ-mɢla
 \dt 23/Jul/2013
 
@@ -40147,7 +40147,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge obtenir 
-\gn 得到 ‘捡
+\gn 得到，捡
 \hbf 1263 <2> 1398
 \xv tɤ-nɯmɟa-t-a
 \xn 我捡了
