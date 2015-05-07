@@ -39838,7 +39838,7 @@ da.lie 打猎
 \ge jouer avec
 \gn 把……当做玩具
 \xv a-tɕɯ kɯ qartshaz ɯ-χpi ɲɯ-nɯkɯmtɕhi ŋu
-\xn 我儿子用鹿形状的玩具玩
+\xn 我儿子在玩鹿形状的玩具
 \cf kɯmtɕhɯ
 \dt 11/May/2014
 
