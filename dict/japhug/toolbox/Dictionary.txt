@@ -40179,7 +40179,7 @@ da.lie 打猎
 \gn 绊倒
 \un {nɯmkɤqloʁ}比{aʁdɤt}稍微严重一些，前者表示全身摔倒在地，后缀表示也许可以用手扶起来
 \xv thɯ-nɯkɤqloʁ-a
-\xn 我绊倒了
+\xn 我被绊倒了
 \se znɯmkɤqloʁ
 \ps vt
 \ng caus
@@ -40188,9 +40188,9 @@ da.lie 打猎
 \ge faire un croc-en-jambe (faire tomber vers l'avant)
 \gn 绊拽
 \xv thɯ-kɯ-z-nɯmkɤqloʁ-a (=pɯkɯtʂaβa)
-\xn 你把我绊拽了
+\xn 你把我绊拽住了
 \xv ma-tɯ-ste ma tɯ-z-nɯmkɤqloʁ
-\xn 你别这样，不然你会把他绊拽
+\xn 你别这样，不然你会把他绊拽住
 \dt 05/Aug/2012
 
 \lx _nɯmnɤl
