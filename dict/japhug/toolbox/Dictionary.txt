@@ -40325,7 +40325,7 @@ da.lie 打猎
 \xv ɯʑo sɤskɯsku ʑo chɯ-nɯmtɕi ɲɯ-ŋu
 \xn 他每天早上早起
 \xv fso tɕe a-tu-sɤ-nɯmtɕɯmtɕi, ʑa ku-nɯ-rŋgɯ-a ra
-\xn 我明天为了早起，就要早点睡觉
+\xn 我为了明天早起，就要早点睡觉
 \xv pɣɤtɕɯ mɤ-kɯ-nɯtɕi qajɯ mɤ-aʁe
 \xn 晚起的鸟吃不到虫子
 \dt 20/Oct/2011
