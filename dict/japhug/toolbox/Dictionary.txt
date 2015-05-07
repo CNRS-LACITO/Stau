@@ -39888,7 +39888,7 @@ da.lie 打猎
 \xv tɯ-xtsɤ-ri ɲɤ-nɯɬoʁ 
 \xn 鞋带散了
 \xv a-mi ɲɤ-nɯɬoʁ
-\xn 我脚脱了臼
+\xn 我脚脱臼了
 \xv paʁ ɯ-naŋtɕɯ chɤ-nɯɬoʁ
 \xn 猪的内脏出来了
 \cf ɬoʁ
@@ -39905,7 +39905,7 @@ da.lie 打猎
 \xv a-ŋga ɲɤ-tɯ-βde tɕe tɤ-nɯmbe
 \xn 你把我的衣服弄丢了，你要给我赔
 \xv ɯ-laχtɕha ɲɤ-nɯβde-t-a tɕe tɤ-nɯmbe-t-a 
-\xn 我把他的东西弄丢了就给他赔了
+\xn 我把他的东西弄丢了，就给他赔了
 \sy rɤli
 \dt 12/Feb/2014
 
