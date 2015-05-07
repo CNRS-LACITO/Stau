@@ -39732,7 +39732,7 @@ da.lie 打猎
 \xv tɤ-mthɯm ɲɤ-ɣɤdi tɕe pjɯ́-wɣ-znɯkrɯβ-a
 \xn 肉坏了，令我生病了
 \xv kɤ-ndza kɯ pjɤ́-wɣ-znɯkrɯβ-a
-\xn 食物令我生病
+\xn 食物把我吃生病
 \dt 18/May/2014
 
 \lx _nɯkumbrɤl
