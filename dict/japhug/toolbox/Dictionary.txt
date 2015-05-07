@@ -39379,7 +39379,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge faire à manger 
-\gn 作饭 
+\gn 做饭 
 \xv jɯfɕɯr pɯ-nɯkhamu-a
 \xn 我昨天做了饭
 \xv jisŋi nɤʑo tɤ-nɯkhamu
