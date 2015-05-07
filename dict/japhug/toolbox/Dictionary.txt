@@ -40944,7 +40944,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge chasser des oiseaux
-\gn 大鸟
+\gn 打鸟
 \xv ɯʑo ɕ-pɯ-nɯpɣa
 \xn 他去打鸟了
 \cf pɣa
