@@ -39684,9 +39684,9 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge attraper une maladie de l'intestin
-\gn 啦肚子（孩子）
+\gn 拉肚子（孩子）
 \xv tɤ-pɤtso ɲɯ-nɯkrɤlma
-\xn 小孩子在啦肚子
+\xn 小孩子在拉肚子
 \dt 07/Sep/2013
 
 \lx _nɯkrɤz
