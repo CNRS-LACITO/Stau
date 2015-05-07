@@ -39248,7 +39248,7 @@ da.lie 打猎
 \ge dormir dans une direction inverse
 \gn 打脚蹬（朝相反的方向睡，交叉着脚）
 \xv ʑɤni to-nɯjmɤzdɤβ-ndʑi
-\xn 他们俩吵相反的方向睡了
+\xn 他们俩朝相反的方向睡了
 \cf zdɤβ
 \dt 18/Aug/2012
 
