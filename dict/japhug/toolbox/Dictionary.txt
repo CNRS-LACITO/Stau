@@ -37394,7 +37394,7 @@ da.lie 打猎
 \ge piquer
 \gn 刺人
 \xv mɤ-sɤndza ma ɯ-mdzu me
-\xn 没有刺所有不刺到人
+\xn 没有刺所以刺不到人
 \cf andzɯndza
 \cf sɯndza
 \dt 07/May/2014
