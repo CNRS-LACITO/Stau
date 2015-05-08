@@ -38121,7 +38121,7 @@ da.lie 打猎
 \ge faire se coincer 
 \gn 使夹住 
 \xv a-jaʁ kɤ-nɯ-sɯnthaβ-a 
-\xn 我自己夹到了我的手
+\xn 我自己夹到了自己的手
 \dt 11/Feb/2014
 
 \lx _nthor
@@ -38167,7 +38167,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge hennir 
-\gn 叫 （马叫）
+\gn 叫（马叫）
 \hbf 1430
 \xv mbro ɲɯ-ntshɤr
 \xn 马在嘶叫
