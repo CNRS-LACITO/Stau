@@ -37214,7 +37214,7 @@ da.lie 打猎
 \xv tʂu pjɤ-ndom
 \xn 路是横着的
 \xv ɕoŋtɕa pjɤ-ndom
-\xn 木料在地下躺着
+\xn 木料横在地上
 \xv pjɤ-ndʐaβ tɕe pjɤ-ndom
 \xn 他跌倒了，躺在地上了
 \cf xthom
