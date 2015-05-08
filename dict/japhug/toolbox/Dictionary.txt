@@ -38621,7 +38621,7 @@ da.lie 打猎
 \xv khɯɣɲɟɯ ku-nɯɕqhe-a ŋu
 \xn 我背向窗子
 \xv tɯkrɤz kɯ-pɯ-pe ʑo tɤ-nɯ-βzu-tɕi pɯ-ɕti ri, tɤmda tɕe nɤʑo kɯ tu-kɯ-nɯɕqhu-a ɲɯ-ŋu
-\xn 我们商量得好好，到了时候你就背叛我了
+\xn 我们商量得好好的，到了时候你就背叛我了
 \an nɯʁɤri
 \dt 03/Aug/2012
 
