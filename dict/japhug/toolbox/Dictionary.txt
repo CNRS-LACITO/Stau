@@ -37082,7 +37082,7 @@ da.lie 打猎
 \ge être mouillé par la rosée 
 \gn 沾上露水 
 \xv tɯmɯ pjɤ-lɤt tɕe ɤj nɯ-nɤʑri-a 
-\xn 下雨了，我沾上了水
+\xn 下雨了，我沾上了雨水
 \cf tɤʑri
 \dt 10/Jan/2011
 
