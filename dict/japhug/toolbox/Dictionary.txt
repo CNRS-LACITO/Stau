@@ -37479,9 +37479,9 @@ da.lie 打猎
 \wav vi-ndzi2
 \ps vs
 \ge enroué
-\gn 嗓子倒了
+\gn 嗓子倒了(哑了)
 \xv a-rqo ko-ndzi
-\xn 我嗓子倒
+\xn 我嗓子嘶哑
 \dt 06/Aug/2012
 
 \lx _ndziaʁ
@@ -37581,7 +37581,7 @@ da.lie 打猎
 \xv kɤ-ɕe tɤ-ndzu-a
 \xn 我准备出发了
 \xv ʑa a-tɤ-ndzu ɲɯra tɕe tɤ-ɕɯmbɣom
-\xn 你要早一点启程的话就他快点
+\xn 你要早一点启程的话，就他快点
 \dt 02/Aug/2012
 
 \lx _ndzur
