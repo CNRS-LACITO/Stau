@@ -38479,7 +38479,7 @@ da.lie 打猎
 \xv tʂu maŋe tɕe, tɯ-ci lɤ-nɯco-t-a tɕe lɤ-ari-a
 \xn 因为没有路，我顺着水流去了
 \xv a-tɕɯ kɯ znde ku-nɯcɤm ŋu (ɲɯ-ɤz-nɯco)
-\xn 我儿子扶着墙上慢慢走
+\xn 我儿子扶着墙慢慢走
 \se znɯɲco
 \ps vt
 \pdl dir 
