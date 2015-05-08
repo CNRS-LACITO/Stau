@@ -37716,9 +37716,9 @@ da.lie 打猎
 \xv qale ɲɯ-ndʐɯm
 \xn 风不停地吹
 \xv ɯ-tɯ-ɤre ɲɯ-ndʐɯm
-\xn 他笑得不停
+\xn 他笑个不停
 \xv ɯ-ɕmi ɲɯ-ndʐɯm
-\xn 他讲话滔滔不绝
+\xn 他滔滔不绝地讲
 \dt 01/May/2014
 
 \lx _ndʑaʁ
