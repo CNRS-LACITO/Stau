@@ -38608,7 +38608,7 @@ da.lie 打猎
 \xv tɤ-pɤtso ra kɯ ɕɤmɯɣdɯ ɯ-kɯ-lɤt ɲɯ-ɤz-nɯɕpɯz-nɯ
 \xn 孩子们装作在打枪
 \xv tɤ́-wɣ-nɯɕpɯz-a
-\xn 他模仿了我我模样
+\xn 他模仿了我的模样
 \dt 30/Mar/2015
 
 \lx _nɯɕqhu
