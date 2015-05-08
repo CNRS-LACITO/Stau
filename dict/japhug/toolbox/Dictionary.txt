@@ -37230,7 +37230,7 @@ da.lie 打猎
 \ge croquant, craquant (fruit, branche d'arbre) 
 \gn 脆（水果、树枝） 
 \xv si ɲɯ-ndoʁ
-\xn 木是脆的
+\xn 木头是脆的
 \xv anɯlni tɕe, tɕe mɤ-ndoʁ
 \xn 蔫了就不脆
 \dt 21/Aug/2012
