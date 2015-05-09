@@ -36431,7 +36431,7 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge tirer d'un seul coup 
-\gn 用力一拉 、一下子拿
+\gn 用力一拉 、一下子拉
 \hbf *qalakɯɕqraʁ.14
 \xv nɤ-kɤcu nɯ nɯ-nɤstɤr
 \xn 你用力拉了你那边的那个东西
