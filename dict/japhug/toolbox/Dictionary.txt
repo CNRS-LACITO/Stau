@@ -34459,7 +34459,7 @@ da.lie 打猎
 \xv ki smi ki kɤ-nɤmdzi
 \xn 请你注意这个火
 \xv ki tɤ-pɤtso kɤ-nɤmdzi a-mɤ-pɯ-ndʐaβ
-\xn 你看管这个孩子，不要让他摔跤
+\xn 你看着这个孩子，不要让他摔跤
 \cf amdzɯ
 \dt 28/Dec/2010
 
