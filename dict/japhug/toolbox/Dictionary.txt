@@ -36379,7 +36379,7 @@ da.lie 打猎
 \xv ɯ-phɯ ɲɯ-wxti tɕe, ma-tɤ-tɯ-nɤsne
 \xn 这个东西很贵，你不能要（我给不起）
 \xv tɤmthɯm mɯ-nɯ-kɯ-ɣɤdi ra nɤsna-j ma nɯ-kɯ-ɣɤdi ra mɤ-nɤsna-j 
-\xn 我想要没变味的肉，不想要变味的肉
+\xn 我想要没变味的肉，不想要变味了的肉
 \cf sna
 \dt 11/Jan/2011
 
