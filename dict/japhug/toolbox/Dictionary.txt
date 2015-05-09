@@ -35826,7 +35826,7 @@ da.lie 打猎
 \xv kɯki kɤ-ndza ki aʑo ku-nɤram-a ŋu
 \xn 我开始吃这顿餐
 \xv ki qɤjɣi ki ɤj kɤ-nɤro-t-a
-\xn 我把馍馍开始吃了
+\xn 我馍馍开始吃馍馍了
 \dt 15/Jun/2012
 
 \lx _nɤrpaʁ
