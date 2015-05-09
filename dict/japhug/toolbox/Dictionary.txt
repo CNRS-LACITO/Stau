@@ -35341,7 +35341,7 @@ da.lie 打猎
 \gn 保管、管理
 \hbf 1358
 \xv aʑo jiɕqha laχtɕha nɯ tɤ-nɤpɤru-t-a
-\xn 我把这根东西保管了
+\xn 我把这个东西保管(好)了
 \xv tɤ-rɤku lɤ́-wɣ-ji tɕe ɣɯ-nɤpɤru ra
 \xn 种庄稼的时候一定要有人管理
 \cf ru¹
