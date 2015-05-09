@@ -35472,7 +35472,7 @@ da.lie 打猎
 \hbf 1173 
 \xv kha tɤ-nɤqaʑa-t-a tɤ-βzu-t-a ɕti
 \xv ɤj kha tɤ-nɤqaʑa-t-a ɕti
-\xn 我从头开始修建家了
+\xn 我从头开始修建屋子了
 \xv kɤ-nɤma kɤ-nɤqaʑ-a ɬoʁ
 \xn 工作要从头开始
 \xv tɯ-ŋga kɤ-βzu tɤ-nɤqaʑa-t-a
