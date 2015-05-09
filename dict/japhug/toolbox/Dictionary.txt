@@ -34630,7 +34630,7 @@ da.lie 打猎
 \xv kɯki ta-ma ki rcanɯ tɤ-nɤmphruʑa-t-a ʑo
 \xn 我把任务一个接着一个的做了
 \xv tɤscoz kú-wɣ-nɤmphruʑa (kú-wɣ-rtoʁ)
-\xn 把书一个接着一个地看了
+\xn 把书一本接着一本地看了
 \xv @guazi tɯ-tɤ-fkɯm nɯ tɤ-nɤmphruʑa-t-a tɕe tɤ-ndza-t-a 
 \xn 我把那一袋的瓜子一个个地吃了
 \cf ʑa¹
