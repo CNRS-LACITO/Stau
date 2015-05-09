@@ -35744,7 +35744,7 @@ da.lie 打猎
 \xv nɤʑo nɯ sthɯci kɯ-ɤrqhi ju-tɯ-ɣi ɕti tɕe, aʑo ku-rɤʑe-a ma mɯ́j-ra tɕe, tu-nɤrkam-a
 \xn 你从那么远的地方来，我这里也没有事做，我会坚持的
 \xv kɤ-nɤrko me
-\xn 只有那么的能力，已经尽力了
+\xn 只有那么点能力，已经尽力了
 \xv tɤ-nɤrko-t-a tɕe tɤ-ndza-t-a pɯra (= tɤrkoz ʑo tɤndzata pɯra)
 \xn 我被迫吃了
 \se znɤrko
