@@ -34377,7 +34377,7 @@ da.lie 打猎
 \xv mbro ɲɯ-nɤmbɣaʁlaʁ
 \xn 马在打滚
 \xv laʁtɕha ɯ-thoʁ nɯ fse ɲɯ-nɤmbɣaʁlaʁ
-\xn 东西在地上翻来覆去
+\xn 东西在地上滚来滚去
 \xv ma-nɯ-tɯ-nɤmbɣaʁlaʁ
 \xn 你不要打滚
 \cf mbɣaʁ
