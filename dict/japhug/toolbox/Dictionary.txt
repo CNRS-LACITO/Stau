@@ -35449,7 +35449,7 @@ da.lie 打猎
 \ge griffer partout
 \gn 到处乱抓（鸟）
 \xv kumpɣa kɯ ɯ-ndza cho qajɯ ɲɯ-ɕar tɕe, sɤtɕha aʁɤndɯndɤt ʑo chɯ-nɤqadrɤt ŋu
-\xn 鸡在找食物和虫子的时候，会到处把地面乱抓
+\xn 鸡在找食物和虫子的时候，会到到处乱抓地面
 \dt 21/May/2014
 
 \lx _nɤqaʁ
