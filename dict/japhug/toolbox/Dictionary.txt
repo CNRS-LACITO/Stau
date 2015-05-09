@@ -35243,9 +35243,9 @@ da.lie 打猎
 \gn 觉得辛苦
 \hbf 1067 
 \xv jiɕqha tɤton ɲɯ-nɤɴqe
-\xn 他在上坡觉得很辛苦
+\xn 他在上坡。觉得很辛苦
 \xv tɤton na-nɤɴqa
-\xn 他在上坡觉得很辛苦了
+\xn 他在上坡。觉得很辛苦了
 \xv ɯ-phɯ ɲɯ-nɤɴqe
 \xn 他觉得贵
 \xv yingyu kɤ-βzjoz ɲɯ-nɤɴqe
