@@ -34360,7 +34360,7 @@ da.lie 打猎
 \xv ɯ-xtu nɤmbɤβ
 \xn 他肚子很胀
 \xv pjɤ-si tɕe to-nɤmbɤβ
-\xn 死了就胀了
+\xn 死了(身体)就浮肿了
 \xv nɯɣmbɤβ
 \cf tɯ-ɣmbɤβ
 \dt 17/Oct/2011
