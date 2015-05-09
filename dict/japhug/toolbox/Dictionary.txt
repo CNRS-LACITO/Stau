@@ -1470,7 +1470,7 @@
 \cf daltsa
 
 \lx dɤlie
-\ps expression
+\ps intj
 \ge bienvenue 
 \gn 欢迎光临 
 \hbf *koŋzoŋ.199
@@ -2392,7 +2392,7 @@
 \et kʰa.dro
 
 \lx khatʂulɤfsɤm
-\ps expression
+\ps intj
 \ge merci infiniment 
 \gn 万分感谢
 
@@ -5611,10 +5611,9 @@
 
 \lx papa
 \wav8 papa
-\ps expression
+\ps intj
 \ge c'est bien comme ça 
 \gn 恭喜你了
-\hbf *kɯɕar.355
 \xv ɲɯ-tɯ-mna tɕe papa
 \xn 你痊愈了，恭喜你了
 \dt 10/Dec/2014
@@ -5759,7 +5758,7 @@
 \xn 贝母生长的草山（最寒冷的地方）
 
 \lx pɤkhije
-\ps expression
+\ps intj
 \ge attend un peu 
 \gn 等一下
 
@@ -6663,7 +6662,7 @@
 \dt 15/May/2013
 
 \lx rcaχtoŋ
-\ps expression
+\ps intj
 \ge mange de la merde ! 
 \gn 一句脏话 
 \et skʲag.gtoŋ
@@ -9322,7 +9321,7 @@
 
 \lx tɤstu je
 \wav8 kWsAfstWn
-\ps expression
+\ps intj
 \ge au revoir
 \gn 再见
 \xv kɯ-sɤfstɯn tɤ-stu je
@@ -15434,26 +15433,26 @@
 \ps intj
 \ge exprime l'étonnement 
 \gn 表示自己感触很深，惊叹 
-\hbf *kɤndʑɯsqhɤj.49 
 \xv worɟɤmchɤm, jisŋi tɯmɯ ɯ-tɯ-dɤn 
 \xn 天啊，今天雨怎么这么多！
 \xv worɟɤmchɤm ɯ-tɯ-mbro nɯ!
 \xn 天啊，你这么高！
 \xv worɟɤmchɤm ɯ-tɯ-nɯɲɤmkhe nɯ!
 \xn 天啊，你这么瘦！
-\et o.rgyan.mkhyen
+\et ʔo.rgʲan.mkʰʲen
 \dt 04/Apr/2014
 
 \lx wortɕhi
-\ps n
+\ps intj
 \ge demande d'aide 
 \gn 祈求 
-\hbf *qɤjdoskɤt.59
+\et ɦor.tɕʰe
 
 \lx wortɕhiwojɤr
-\ps expression
+\ps intj
 \ge merci infiniment 
 \gn 万分感谢
+\et ɦor.tɕʰe
 
 \lx wudɯŋ
 \ps n
