@@ -34880,7 +34880,7 @@ da.lie 打猎
 \xv laχtɕha nɯ kɤ-nɤndɯndo ntsɯ ɲɯ-ra
 \xn 这个东西要随身带上
 \xv @zixingche ɲɯ-ɤz-nɤndɯndo
-\xn 他去哪里都拿自行车
+\xn 他去哪里都带自行车
 \cf ndo
 \dt 10/Dec/2014
 
