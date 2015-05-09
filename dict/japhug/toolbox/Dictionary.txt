@@ -36729,7 +36729,7 @@ da.lie 打猎
 \xv ɲɯ-kɯ-nɤwu-a mɤ-ra
 \xn 你不用为我哭
 \xv nɯ kɤ-nɤwu ci me nɤ
-\xn 那没有什么号哭的
+\xn 那没有什么好哭的
 \cf tɤ-wu
 \cf ɣɤwu
 \dt 06/May/2014
