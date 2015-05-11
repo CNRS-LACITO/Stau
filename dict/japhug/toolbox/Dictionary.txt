@@ -33426,7 +33426,7 @@ da.lie 打猎
 \ge s'attrouper autour de
 \gn 簇拥
 \xv tɯrme ci a-pɯ-ndʐaβ tɕe kɯmaʁ tɯrmera ku-nɤboʁboʁ-nɯ tɕe tu-qur-nɯ ŋgrɤl
-\xn 当有人摔跤的时候，其他人会一群一群地来帮他
+\xn 当有人摔跤的时候，其他人会拥上来帮他
 \sy nɤɣɯβɣɯβ
 \dt 11/May/2014
 
