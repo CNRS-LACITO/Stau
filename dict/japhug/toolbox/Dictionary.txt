@@ -33415,7 +33415,7 @@ da.lie 打猎
 \xv nɤʑo kɯ aʑo tu-kɯnɤβɟɯβɟi-a
 \xn 你把我追来追去
 \xv khɯna kɯ tshɤt ta-nɤβɟɯβɟi
-\xn 狗把山羊到处追了
+\xn 狗把山羊追得到处跑了
 \cf βɟi¹
 \dt 18/Dec/2010
 
