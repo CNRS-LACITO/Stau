@@ -33053,7 +33053,7 @@ da.lie 打猎
 \gn 抓 
 \hbf 1805
 \xv lɯlu kɯ pɯ́-wɣ-mɯrʁɯz-a tɕe a-jaʁ pjɤ-qraʁ
-\xn 猫把我抓了一下，破了我的手
+\xn 猫把我抓了一下，抓破了我的手
 \xv ma-pɯ-tɯ-mɯrʁɯz ma tɯ-ɕɯmŋɤm
 \xn 你别抓他，你令他很痛
 \se sɤmɯrʁɯz
