@@ -32379,14 +32379,14 @@ da.lie 打猎
 \pdv kɤ-
 \ng refl
 \ge s'envelopper dans
-\gn 把自己裹在
+\gn 把自己裹在…里
 \se ʑɣɤsɯmphɯr
 \pdl dir 
 \pdv tɤ-
 \ng refl
 \ng caus
 \ge s'envelopper dans
-\gn 把自己裹在
+\gn 把自己裹在…里
 \se amphɯmphɯr
 \ps vs
 \ge envelopper de plusieurs couches
