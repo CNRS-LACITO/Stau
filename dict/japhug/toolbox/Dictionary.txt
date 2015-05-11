@@ -32133,7 +32133,7 @@ da.lie 打猎
 \ge donner une part trop petite
 \gn 分得少
 \xv tɯkro pa-βzu tɕe, tsuku ɣɯ pa-ɣɤdɤn, tsuku ɣɯ pa-ɣɤmɲi
-\xn 他分东西的时候，有些人分了多，有些人分得少
+\xn 他分东西的时候，有些人分得多，有些人分得少
 \sy rkɯn
 \se sɤdɤmɲi
 \pdl dir
