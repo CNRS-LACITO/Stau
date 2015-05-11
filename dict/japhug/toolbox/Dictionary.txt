@@ -33185,7 +33185,7 @@ da.lie 打猎
 \ge curer (les dents , un trou etc)
 \gn 掏（牙齿、洞等） 
 \xv a-ɕɣa nɯ-naʁju-t-a
-\xn 我陶了牙齿
+\xn 我掏了牙齿
 \xv zndɤrchɤβ thɯ-naʁju-t-a
 \xn 我掏了缝隙
 \xv kɯspoʁ pjɤ-sti tɕe tɤ-naʁju-t-a
