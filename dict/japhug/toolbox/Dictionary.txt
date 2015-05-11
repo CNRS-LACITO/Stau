@@ -32614,7 +32614,7 @@ da.lie 打猎
 \xv ki tɯmbri ki mɯ́j-rtaʁ tɕe kɤ-mthɯt ɲɯ-ɬoʁ
 \xn 这条绳子不够，需要把它连接起来
 \xv tɤ-ri nɯ kɯ mɯ́j-ɕaβ tɕe kɤ-mthɯt-a
-\xn 绳子过不着，我就接了一段
+\xn 绳子不够长，我就接了一段
 \xv ɯ-ŋga ɯ-ndo pɯ-mthɯt-a
 \xn 我补了他的衣角
 \xv tɤ-pɤloʁ ɯ-ku thɯ-mthɯt-a
