@@ -33715,7 +33715,7 @@ da.lie 打猎
 \xv laχtɕha kɤ-nɯzʁe-t-a, pɯ-nɤɣmbat-a
 \xn 我搬东西，很轻松地搬完了
 \xv jisŋi @kaoshi tɤ-βzu-t-a, pɯ-nɤɣmbat-a
-\xn 今天的考试很轻松地做完了
+\xn 今天的考试很轻松就做完了
 \pdl dir 
 \pdv tɤ-
 \ge être presque fini
