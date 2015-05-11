@@ -32425,7 +32425,7 @@ da.lie 打猎
 \xv sɤtɕha ko-mpɯ
 \xn 地变软了
 \xv @yangyu nɯnɯ chɯ́-wɣ-pu ɕɯŋgɯ tɕe rko ri, thɯ-smi tɕe ɲɯ-mpɯ ŋu loβ
-\xn 洋芋煨熟之前很硬，熟了之后就软
+\xn 洋芋煨熟之前很硬，熟了之后就软了
 \se nɤmpɯ
 \ps vt
 \ng trop
