@@ -32492,7 +32492,7 @@ da.lie 打猎
 \gn 赞美、奉承
 \un 古语
 \xv jisŋi skɤrma kɯ-sna tu-ta-mtɕhostɤt-nɯ ŋu tɕe 
-\xn 今天在这个吉利的日子，我奉承你们（山神）
+\xn 在今天这个吉利的日子，我赞颂你们（山神）
 \dt 26/Aug/2012
 
 \lx _mtɕhɯβ
