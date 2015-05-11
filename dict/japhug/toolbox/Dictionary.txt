@@ -34000,7 +34000,7 @@ da.lie 打猎
 \xv nɤj ʑa jɤ-tɯ-ɤri mɯ-pjɤ-nɤjtshɯ
 \xn 我早去没有用
 \xv nɤʑo kha kɤ-nɤma tɯ-nɤjtshɯ
-\xn 家里的事情，你会做（我就不会做）
+\xn 家里的事情，你会做（就不用我做了）
 \dt 17/Mar/2014
 
 \lx _nɤjwaʁ
