@@ -33199,9 +33199,9 @@ da.lie 打猎
 \lx _naʁre
 \ps vt
 \ge respecter
-\gn 尊重和害怕
+\gn 敬重，敬畏
 \xv ɯ-sloχpɯn ɲɯ-naʁre
-\xn 他尊重他的老师
+\xn 他敬重他的老师
 \dt 18/May/2014
 
 \lx _naʁri
