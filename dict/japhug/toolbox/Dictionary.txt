@@ -32010,7 +32010,7 @@ da.lie 打猎
 \xv tshɤj ɯ-ŋgɯ tɕɣom ɣɤʑu tɕe pɯ́-wɣ-sɯmkɯt-a
 \xn 菜里面有花椒，把我呛到了
 \xv jiɕqha nɯ kɯ khɤβdɤr ɲɯ-ɤsɯ-βzu tɕe, ɯ-sci tɤ-βzu-t-a tɕe, pɯ-sɯmkɯ-t-a
-\xn 这个人在讲笑话，我也说了一句了，让他答不上来了
+\xn 这个人在讲笑话，我也说了一句，让他答不上来了
 \dt 28/Dec/2010
 
 \lx _mna
