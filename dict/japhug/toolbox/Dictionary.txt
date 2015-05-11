@@ -33501,7 +33501,7 @@ da.lie 打猎
 \ge être capable de supporter
 \gn 忍得了
 \xv ɯ-mi ka-ɣle ri, ɲɯ-znɤɕqe
-\xn 他崴了脚，但是还是忍得了了
+\xn 他崴了脚，但是还是忍住了
 \xv mɯ́j-znɤɕqe-a
 \xn 我忍不住（我受不了）
 \cf sɤɕqa
