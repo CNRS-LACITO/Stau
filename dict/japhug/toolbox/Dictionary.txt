@@ -33474,7 +33474,7 @@ da.lie 打猎
 \gn 晒几天，翻来覆去地晒 
 \hbf *sqar.84
 \xv stoʁ staʁpɯ ɲɤ-kɤci tɕe, jisŋi na-nɤɕkhɯɕkho
-\xn 胡豆和豌豆湿了，所以他今天把它晒干了
+\xn 胡豆和豌豆湿了，所以他今天把它们晒干了
 \xv tɯ-ŋga mɯ-tɤ-kɯ-zbaʁ ri, jisŋi na-nɤɕkhɯɕkho
 \xn 衣服没有干，所以他今天晒干了
 \dt 24/Oct/2011
