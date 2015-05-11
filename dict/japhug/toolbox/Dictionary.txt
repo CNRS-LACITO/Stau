@@ -32102,7 +32102,7 @@ da.lie 打猎
 \ps vs
 \ng rdpl
 \ge velouté
-\gn 又柔软有光滑
+\gn 又柔软又光滑
 \xv kɯ-mnɯmne ci ɲɯ-ŋu
 \xn 它又柔软又光滑
 \cf mnu
