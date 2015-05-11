@@ -33133,7 +33133,7 @@ da.lie 打猎
 \hbf *rkoŋɟɤl1.11
 \dt 26/Aug/2012
 \xv ɲɯ́-wɣ-naʁdaz-a
-\xn 他讨厌我、想排斥我
+\xn 他讨厌我、想排挤我
 \xv kɤnɤma mɤ-kɯ-cha nɯra ɲɯ-naʁdɤz
 \xn 他排斥不会做工的那些人
 \se sɤnaʁdɤz
