@@ -33266,7 +33266,7 @@ da.lie 打猎
 \xv tɯβli ɲɯ-naχsoz
 \xn 苗子很新鲜（很有活力）
 \xv jiɕqha nɯ kɯ-naχsoz ci ɲɯ-ŋu
-\xn 他是一个面貌很精神的人
+\xn 他是一个(面貌)很精神的人
 \se sɤnaχsoz
 \ps vs
 \ge vivifiant
