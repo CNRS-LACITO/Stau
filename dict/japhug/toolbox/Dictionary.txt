@@ -33826,10 +33826,10 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge aller et revenir 
-\gn 走又转回来 
+\gn 走了又转回来 
 
 \xv aki jiɕqha pɯ-ari-a li tɤ-jɣat-a tɕe, pɯ-nɤjɣɯjɣat-a ntsɯ
-\xn 我往下去了，又往上转来，我反复去了又回来了
+\xn 我往下去了，又往上转来，我反复去了几次又回来了
 \cf jɣɤt
 \dt 28/Dec/2010
 
