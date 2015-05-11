@@ -34095,7 +34095,7 @@ da.lie 打猎
 \xv kɤndza pɯ-nɤkhar-i
 \xn 我们围着食物坐了
 \xv paʁ kɤ-nɤkhar-i
-\xn 我们把猪围到了
+\xn 我们把猪围住了
 \dt 04/Oct/2014
 
 \lx _nɤkhɤzŋga
