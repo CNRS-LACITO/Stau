@@ -32506,13 +32506,13 @@ da.lie 打猎
 \gn 浸入、渗入 
 \hbf 1444 <2> 1616 
 \xv tɯ-ŋga ɯ-ŋgɯ tɯ-ci ɲɤ-ɕe tɕe ɲɤ-mtɕhɯβ
-\xn 水渗入到衣服里，浸泡了衣服
+\xn 水渗入到衣服里，浸湿了衣服
 \xv aŋga ɲɤ-kɤci-ci tɕe tɯ-ci kɯ ɲɤ-mtɕhɯβ
 \xn 我的衣服湿了，浸泡了水
 \xv si (ɕoŋtɕa) ɯ-ŋgɯ tɯ-ci ɲɤ-mtɕhɯβ
-\xn 水渗透到木里
+\xn 水渗透到木头里
 \xv stoʁ ko-mtɕhɯβ
-\xn 胡豆泡了
+\xn 胡豆(被水)泡了
 \pdl dir 
 \pdv kɤ-
 \ge ajouter
@@ -32585,7 +32585,7 @@ da.lie 打猎
 \pdl dir 
 \pdv thɯ-
 \ge trop haut (coup de fusil), fort (état d'esprit) 
-\gn 打枪描高、有自信（性情）、膘情好、高尚
+\gn 打枪瞄高、有自信（性情）、膘情好、高尚
 \et mtʰo
 \xv nɤ-sɯm ɯ-tɯ-mthu nɯ 
 \xn 你自以为是
