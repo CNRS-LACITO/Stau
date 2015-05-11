@@ -33353,7 +33353,7 @@ da.lie 打猎
 \ge regarder fixement
 \gn 盯
 \xv kɤ-naχto-t-a
-\xn 我盯了他
+\xn 我盯着他看了
 \dt 02/Jul/2014
 
 \lx _nɤβdi
