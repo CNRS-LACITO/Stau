@@ -33558,7 +33558,7 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge aller partout
-\gn 到处走’出远门
+\gn 到处走，出远门
 \xv a-mɤ-jɤ-nɤɕɯɕe
 \xn 不要让它到处走（一般说牲畜）
 \xv xɕɤj tu-ndze nɯ kɯ-khɯ, aʁɤndɯndɤt ju-nɤɕɯɕe nɯ mɤ-kɯ-khɯ
