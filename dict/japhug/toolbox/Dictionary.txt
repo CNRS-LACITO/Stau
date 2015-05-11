@@ -34255,7 +34255,7 @@ da.lie 打猎
 \ge faire la fête à qqun (chien)
 \gn 摆尾巴、热烈地扑上（狗）
 \xv khɯna kɯ tɤ́-wɣ-nɤliɤliɤt-a
-\xn 狗给我摆尾巴
+\xn 狗朝我摇尾巴
 \dt 05/May/2014
 
 \lx _nɤlu
