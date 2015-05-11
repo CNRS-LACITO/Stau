@@ -34267,7 +34267,7 @@ da.lie 打猎
 \ge traire
 \gn 挤奶
 \xv nɯŋa pɯ-tɯ-nɤlu-t
-\xn 你挤了奶牛的奶
+\xn 你挤了(奶牛的)奶
 \xv pɯ-nɤle (= tɤ-lu pɯ-tɕɤt)
 \xn 你挤奶吧
 \cf tɤ-lu
