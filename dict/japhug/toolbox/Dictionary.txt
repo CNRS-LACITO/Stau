@@ -34157,10 +34157,10 @@ da.lie 打猎
 \ge inviter 
 \gn 请客 
 \xv tɯlu ra kɯ aʑo nɯ́-wɣ-nɤkhu-a-nɯ
-\xn 德鲁那一家的人请了我
+\xn 德鲁那家人请了我
 \un {tɯlu}“德鲁”是干木鸟村的一个地名
 \xv aʑo tɯlu ra kɤ-nɤkhu-t-a-nɯ
-\xn 我请了他们德鲁家的人
+\xn 我请了德鲁那家人
 \xv aʑo nɯ-kha ɯ-kɯ-nɤkhu jɤ-ari-a
 \xn 我去请他们了
 \se sɤnɤkhu
@@ -34178,7 +34178,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge être enfumé 
-\gn 被熏 到（人）
+\gn 被熏到（人）
 \xv ɲɯ-nɤkhɯ-a
 \xn 我被熏到
 \se znɤkhɯ
