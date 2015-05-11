@@ -32213,7 +32213,7 @@ da.lie 打猎
 \ge avoir mal à
 \gn 感觉到痛
 \xv ɯ-xtu ɲɯ-nɤmŋɤm
-\xn 他肚子里感觉到痛
+\xn 他感到肚子痛
 \cf ɕɯmŋɤm
 \dt 12/Jul/2013
 
