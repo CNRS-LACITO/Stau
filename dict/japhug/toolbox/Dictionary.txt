@@ -31931,7 +31931,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge se réincarner 
-\gn 投生 、转世
+\gn 投胎 、转世
 \et ɴkʰruŋ
 \xv βlama to-mkhroŋ
 \xn 喇嘛转世了
