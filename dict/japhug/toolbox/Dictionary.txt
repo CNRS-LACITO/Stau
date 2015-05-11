@@ -32076,7 +32076,7 @@ da.lie 打猎
 \xv kɤ-ti tɤ-mnɤt
 \xn 你重新讲一遍
 \xv kɤ-ɕe ci jɤ-mnɤt ɲɯ-ntshi
-\xn 需要重新去一遍
+\xn 需要重新去一次
 \xv kɤ-nɯrɤɣo ci thɯ-mnɤt ɲɯ-ntshi
 \xn 要重新唱一遍
 \dt 26/Aug/2012
