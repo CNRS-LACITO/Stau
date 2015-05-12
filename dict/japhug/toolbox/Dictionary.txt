@@ -30377,7 +30377,7 @@ da.lie 打猎
 \xv tsha pjɤ-lɤt, ko-lɤt
 \xn 放了盐
 \xv tɯ-ci pjɤ-lɤt 
-\xn 撒了水
+\xn 洒了水
 \ge appliquer
 \gn 涂
 \xv tɤ-mthɯm ɯ-taʁ tsha to-lɤt (=to-mar)
@@ -30429,7 +30429,7 @@ da.lie 打猎
 \ge mettre bas
 \xv sɤrwa cho-lɤt, tha-lɤt
 \xn 下了冰雹
-\gn 生仔、开（花）
+\gn 生崽、开（花）
 \xv paχtsa chɤ-lɤt 
 \xn 下猪崽
 \xv mɯntoʁ ɲɤ-lɤt (=ɲɤ-rɯmɯntoʁ)
