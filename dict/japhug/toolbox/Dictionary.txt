@@ -30504,7 +30504,7 @@ da.lie 打猎
 \pdl dir 
 \pdv thɯ-
 \ge mal élevé , gâté
-\gn 娇生惯养 ，被宠坏
+\gn 娇生惯养，被宠坏
 \xv cho-li
 \xn 他变得很任性
 \xv jiɕqha ɯ-rɟit nɯ wuma ɲɯ-li
