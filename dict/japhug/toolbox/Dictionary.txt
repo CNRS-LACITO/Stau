@@ -31282,7 +31282,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge rendre bon marché
-\gn 减格
+\gn 降价
 \xv (ɯ-phɯ) tɤ-ɣɤmba-t-a
 \xn 我减价了
 \cf stu¹
