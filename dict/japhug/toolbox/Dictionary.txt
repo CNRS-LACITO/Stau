@@ -30746,7 +30746,7 @@ da.lie 打猎
 \ge vieillir, se dégrader 
 \gn 衰老 
 \xv tɯrnda pjɤ-ɬɤt
-\xn 房子毁坏了
+\xn 房子老化破损了
 \dt 04/Nov/2013
 
 \lx _ɬoʁ
