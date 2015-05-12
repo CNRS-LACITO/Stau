@@ -31555,7 +31555,7 @@ da.lie 打猎
 \xv zɯɣtɕhɤl ta-ʑmbri
 \xn 他打钹了
 \xv mkhɤrŋa ta-ʑmbri
-\xn 他打锣了
+\xn 他敲锣了
 \dt 16/May/2013
 
 \lx _mbri²
