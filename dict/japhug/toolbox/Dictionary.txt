@@ -30869,7 +30869,7 @@ da.lie 打猎
 \ps vi
 \ng refl
 \ge s'enduire
-\gn 涂自己
+\gn 给自己涂
 \dt 13/Jan/2015
 
 \lx _maʁ
@@ -30877,8 +30877,8 @@ da.lie 打猎
 \ge ne pas être
 \gn 不是
 \se nɯ maʁ nɤ
-\ge ou bien, sinon 
-\gn 不然、要吗……要吗
+\ge ou bien, sinon
+\gn 不然、要么……要么
 \se tɕhi maʁ nɤ
 \ge au moins
 \gn 至少
