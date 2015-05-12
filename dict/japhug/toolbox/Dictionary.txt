@@ -31356,7 +31356,7 @@ da.lie 打猎
 \ps vs
 \ng facil
 \xv ɲchɣaʁʑɤr kɯ-tu tʂu tɕe, qiche kɤ-lɤt ɲɯ-sɤɣʑɯr ma ɲchɣaʁʑɤr nɯ mɯ́jsaχsɤl tɕe ɲɯ-ɣɤmbɣaʁ (chɯ-mbɣaʁ ɲɯ-mbat)
-\xn 有冰雪路的时候，开车非常危险，因为冰雪路不明显，容易翻车
+\xn 路面结冰的时候，开车非常危险，因为结冰的道路不明显，容易翻车
 \cf nɤmbɣaʁlaʁ
 \cf pɣaʁ
 \cf apɣaʁsci
