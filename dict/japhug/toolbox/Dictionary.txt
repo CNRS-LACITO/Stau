@@ -30303,7 +30303,7 @@ da.lie 打猎
 \xv kɯrowɤro ʑo ma-tɯ-nɯskɤt
 \xn 你不要讲多余的话
 \xv tɯrju kɯ-rowɤro nɯ ra mɤ-ra
-\xn 不要又多余的话
+\xn 不要有多余的话
 \dt 04/Aug/2012
 
 \lx _la
