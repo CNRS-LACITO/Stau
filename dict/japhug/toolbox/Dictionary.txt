@@ -30064,7 +30064,7 @@ da.lie 打猎
 \xv pɯ-khra-t-a
 \xn 我划了一刀
 \xv ɯ-ftaʁ tɤ-βzu-t-a tɕe pɯ-khra-t-a
-\xn 我划了一刀做过记号
+\xn 我划了一刀做记号了
 \cf akhra
 \cf sɤkhra
 \dt 24/Jun/2011
