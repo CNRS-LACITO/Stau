@@ -30568,7 +30568,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge se déformer à cause de l'humidité 
-\gn 木版受潮而变形 
+\gn 木板受潮而变形 
 \xv tɤrɤɕkho ɲo-loʁ
 \xn 地板变形了
 \dt 24/Mar/2013
