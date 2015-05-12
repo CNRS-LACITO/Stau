@@ -30140,7 +30140,7 @@ da.lie 打猎
 \xv aʑo kɤ-zrɤma mɯ-tɤ-nɯkhɯ-a ɕti tɕe a-kɤ-nɯmɟa a-pɯ-nɯ-me ɬoʁ
 \xn 我自己不同意做事，没有报酬是应该
 \xv nɤʑo mɯ-tɤ-tɯ-nɯkhɯ ɕti tɕe, ma-tɤ-kɯ-mpɕa-a je
-\xn 是你自己没有同意，你要责怪我
+\xn 是你自己没有同意，你不要责怪我
 \xn 我没有听劝
 \cf ɣɤkhɯ²
 \dt 14/Jan/2015
