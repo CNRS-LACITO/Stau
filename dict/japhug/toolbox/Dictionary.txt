@@ -30669,7 +30669,7 @@ da.lie 打猎
 \gn 解脱、滑
 \hbf 1815 
 \xv kutɕu kɤ-βraʁ-a ri, kɤ-lɯɣ
-\xn 我这里拴了一下，但是滑了
+\xn 我在这里拴了一下，但是滑了
 \xv a@caidao pɯ-lɯɣ tɕe, a-jaʁ ta-xtsɯɣ 
 \xn 我的菜刀滑了一下，切到了我的手
 \xv khɯna nɯ-lɯɣ
