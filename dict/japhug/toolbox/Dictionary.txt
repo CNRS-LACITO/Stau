@@ -30042,7 +30042,7 @@ da.lie 打猎
 \xv a-tɕha nɯ-khɤm
 \xn 把（我需要的消息）告诉我
 \xv ɯʑo kɯ a-sci ɲɯ-khɤm ra
-\xn 他要换给我
+\xn 他要还给我
 \se ʑɣɤkho
 \ps vi
 \ng refl
