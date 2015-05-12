@@ -30328,7 +30328,7 @@ da.lie 打猎
 \hbf 1316 
 \et ɴbrog
 \xv a-mu kɯ ji-fsapaʁ ra na-lɤɣ
-\xn 我母亲把牲畜放牧了
+\xn 我母亲把牲畜带去放了
 \xv fsapaʁ ra ɕ-pɯ-laɣ-a
 \xn 我把牲畜带去放了
 \dt 23/Dec/2014
