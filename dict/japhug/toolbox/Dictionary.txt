@@ -28745,7 +28745,7 @@ da.lie 打猎
 \ps vi
 \ge se balancer
 \gn 摇晃
-\xv tʂu mɯ́j-pe tɕe, qiche ɯ-ŋgɯ ku-kɯ-ɤmdzɯ tɕe tu-ɣɤzjaŋlaŋ ɲɯ-ŋu
+\xv tʂu mɯ́j-pe tɕe, @qiche ɯ-ŋgɯ ku-kɯ-ɤmdzɯ tɕe tu-ɣɤzjaŋlaŋ ɲɯ-ŋu
 \xn 路不好，所以坐车的时候摇摇晃晃
 \se sɤzjaŋlaŋ
 \ps vt
@@ -31350,12 +31350,12 @@ da.lie 打猎
 \ng acaus
 \ge se retourner
 \gn 翻身
-\xv qiche cho-mbɣaʁ
+\xv @qiche cho-mbɣaʁ
 \xn 汽车翻车了
 \se ɣɤmbɣaʁ
 \ps vs
 \ng facil
-\xv ɲchɣaʁʑɤr kɯ-tu tʂu tɕe, qiche kɤ-lɤt ɲɯ-sɤɣʑɯr ma ɲchɣaʁʑɤr nɯ mɯ́jsaχsɤl tɕe ɲɯ-ɣɤmbɣaʁ (chɯ-mbɣaʁ ɲɯ-mbat)
+\xv ɲchɣaʁʑɤr kɯ-tu tʂu tɕe, @qiche kɤ-lɤt ɲɯ-sɤɣʑɯr ma ɲchɣaʁʑɤr nɯ mɯ́j-saχsɤl tɕe ɲɯ-ɣɤmbɣaʁ (chɯ-mbɣaʁ ɲɯ-mbat)
 \xn 路面结冰的时候，开车非常危险，因为结冰的道路不明显，容易翻车
 \cf nɤmbɣaʁlaʁ
 \cf pɣaʁ
@@ -53101,7 +53101,7 @@ da.lie 打猎
 \hbf 1392 
 \xv ɕoŋβzu ko-spa
 \xn 他会木工了
-\xv kɤrɤrɤt ko-spa
+\xv kɤ-rɤrɤt ko-spa
 \xn 他会写字了
 \xv ɯ-kɤ-spa ɲɯ-dɤn
 \xn 他会做的事情很多
@@ -53140,7 +53140,7 @@ da.lie 打猎
 \pdv pɯ-
 \xv pɯ-nɯspɯspa-t-a ɕti
 \xn 我本来就会了
-\xv qiche kɤlɤt pɯ-anɯspɯspa ɕti
+\xv @qiche kɤlɤt pa-nɯspɯspa ɕti
 \xn 他本来就会开车
 \dt 05/Jan/2014
 
