@@ -30339,15 +30339,15 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge avoir la responsabilité de, c'est la faute de... 
-\gn 要为某事付责任、这件事怪…… 
+\gn 要为某事负责任、这件事怪…… 
 \xv nɯ ma-tɤ-tɯ-ste nɯ-sɯso-t-a ri mɯ́j-tɯ-khɯ tɕe nɤʑo tɯ-lɤn
 \xn 我想了“你不要那样做”，你没有听，都怪你了
 \xv tɤ-rɟit mɤ-kɯ-pe nɯ phama lɤn
 \xn 孩子不成材怪父母
 \xv laʁtɕha ɲo-me tɕe, nɤʑo pɯ-tɯ-lɤn
-\xn 东西丢了，你有有责任 
+\xn 东西丢了，你有责任 
 \xv tɤ-pɤtso mɤ-kɯ-khɯ nɯ chɯ-kɤ-sɯɣli ɲɯ-lɤn 
-\xn 小孩子不听话，就是因为平时惯养了他
+\xn 小孩子不听话，就是因为平时惯了他
 \se nɯlɤn
 \ps vi
 \pdl dir 
