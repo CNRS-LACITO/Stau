@@ -31758,7 +31758,7 @@ da.lie 打猎
 \xv jiɕqha nɯ pjɤ-si, aʑo nɯ-mdzoz-a
 \xn 那个人死了，我没有去看
 \xv a-ɕqhe ɣɤʑu tɕe, cha ɲɯ-mdzoz-a ɲɯ-ntshi
-\xn 我咳嗽，不准喝酒
+\xn 我咳嗽，忌酒
 \dt 18/Apr/2013
 
 \lx _mdzuzga
