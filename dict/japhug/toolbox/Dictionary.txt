@@ -31453,7 +31453,7 @@ da.lie 打猎
 \ge faire accélérer
 \gn 加快
 \xv rdɤstaʁ kɤ-lɤt jú-wɣ-nɤxɕɤt tɕe kɤ-ɣɤmbjom khɯ
-\xn 用力扔石头可以令它飞快
+\xn 用力扔石头可以令它飞出去得更快
 \se ʑɣɤɣɤmbjom
 \ps vi
 \ng refl
