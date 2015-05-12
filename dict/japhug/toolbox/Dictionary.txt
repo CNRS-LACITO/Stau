@@ -31472,7 +31472,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge s'effacer (couleur) 
-\gn 退色 
+\gn 褪色
 \hbf 1731
 \xv tɯ-nga ɲo-mbjɯz
 \xn 衣服褪色了
