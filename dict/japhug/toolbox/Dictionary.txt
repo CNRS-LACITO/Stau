@@ -31095,7 +31095,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge porter à l’épaule 
-\gn 扛 在肩上
+\gn 扛在肩上
 \hbf 1473 
 \xv tɤ-mɤrpaʁ-a
 \xn 我扛了
