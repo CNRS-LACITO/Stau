@@ -30909,7 +30909,7 @@ da.lie 打猎
 \pdl dir 
 \pdv _
 \ge être avant 
-\gn 以前 、在前面
+\gn 以前、在前面
 \xv lɤ-mɤku-a
 \xn 我在前面
 \xv kɯ-nɯsaχsɯ ju-ɣi-j pɯ-ŋu tɕe aʑo ɲɯ-mɤku-a pɯŋu
