@@ -28780,9 +28780,9 @@ da.lie 打猎
 \ge sensation d'engourdissement 
 \gn 觉得麻木
 \xv nɤ-mi cho-ɣɤzoŋzoŋ
-\xn 你的脚麻木了
+\xn 你的脚麻了
 \xv nɤ-mi to-ndʑɯrpɯt tɕe, ɲɯ-ɣɤzoŋzoŋ loβtɕi
-\xn 你的脚麻木了，是吧
+\xn 你的脚麻了，是吧
 \se sɤzoŋzoŋ
 \ps vt
 \pdl dir 
