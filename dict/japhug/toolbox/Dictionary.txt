@@ -4162,7 +4162,7 @@
 \gn 翠雀花 
 \hbf plante 
 \xv ɬɤndʐitɤlɤtshaʁ nɯ si kɯ-xtɕi, rɯŋgu, tɯ-ji rkɯ, xɕɤj kɯ-dɤn ɯ-rchɤβ tu-ɬoʁ ŋu, ɯ-ru cho ɯ-jwaʁ pɣi tsa arɯlɯŋkɤr, ɯ-mɯntoʁ nɯ kɯ-ɤrŋi tɕe kɯ-ɤɲaʁndzɯm ʑo ŋu. ɯ-ru xtshɯm, xɕɤj sɤz kɯ-dɤn mɤ-mbro, ɯ-mɯntoʁ ɯ-tshɯɣa nɯ tɤlɤtshaʁ fse tɕe núndʐa nɯ ɬɤndʐitɤlɤtshaʁ rmi 
-\xn 翠雀花生长在小树丛、草坪、地边、茂盛的草丛中，茎和叶子是淡蓝色的，带有一点灰色。花是深蓝色的。茎很细，比一般的草长不出多少，花的形状像滤牛奶的漏斗，所以叫做{ɬandʐitɤlɤtshaʁ}（鬼的漏斗）
+\xn 翠雀花生长在小树丛、草坪、地边、茂盛的草丛中，茎和叶子是淡蓝色的，带有一点灰色。花是深蓝色的。茎很细，比一般的草长不出多少，花的形状像滤牛奶的漏斗，所以叫做{ɬɤndʐitɤlɤtshaʁ}（鬼的漏斗）
 \dt 08/Dec/2012
 
 \lx ɬɤndʐitɤtsoʁ
@@ -4453,6 +4453,7 @@
 \ge cheval 
 \gn 马 
 \hbf animal
+\cf nɯmbrɤpɯ
 
 \lx mbrolu
 \ps n
@@ -38922,7 +38923,7 @@ da.lie 打猎
 \xn 我怕老虎
 \xv qapri ɲɯ-nɯɣme-a
 \xn 我怕蛇
-\xv ɬandʐi ɲɯ-nɯɣme-a
+\xv ɬɤndʐi ɲɯ-nɯɣme-a
 \xn 我怕鬼
 \xv nɯ-nɯɣmu-t-a
 \xn 我怕了
@@ -49310,7 +49311,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge réfléchir à un plan 
 \gn 计划、计谋 、怀疑
-\hbf *ɬandʐi.4
 \xv nɯ ɯ-mɤ-kɯ-ŋu ci ɲɯ-ʁmɯɣ
 \xn 他怀疑是不是
 \xv kɯki a-pɯ-jɤɣ tɕe, tu-nɯna-a ku-ʁmɯɣ-a
@@ -51752,7 +51752,7 @@ da.lie 打猎
 \ps vt
 \pdl dir
 \pdv nɯ-
-\ge serrer les dens
+\ge serrer les dents
 \gn 咬牙
 \xv a-ɕɣa nɯ-sɤrŋɤɣndʑɯr-a
 \xn 我咬了牙
@@ -58385,7 +58385,7 @@ da.lie 打猎
 \ng refl
 \ge se déguiser, se transformer 
 \gn 装扮成，转变成 
-\xv ɬandʐi nɯ tɯrme ɲɯ-ʑɣɤsprɯl ŋgrɤl
+\xv ɬɤndʐi nɯ tɯrme ɲɯ-ʑɣɤsprɯl ŋgrɤl
 \xn 鬼会把自己变成人
 \et sprul
 \dt 24/Aug/2012
@@ -60601,7 +60601,6 @@ da.lie 打猎
 \ps n
 \ge ami 
 \gn 朋友 
-\hbf *ɬandʐi.0 
 \xv ɣɯfsu to-nɯpa-ndʑi 
 \xn 我们交了朋友
 \dt 23/Dec/2014
