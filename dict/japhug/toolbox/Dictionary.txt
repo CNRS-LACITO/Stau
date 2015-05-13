@@ -29850,7 +29850,7 @@ da.lie 打猎
 \ge demander à boire
 \gn 请人给自己喝
 \xv aʑo tʂha ci ɲɯ-sɤjtshi-a
-\xn 我请了喝给我喝茶
+\xn 我让人给我喝茶
 \xv tɕethi thɯ-ɕe tɕe, tʂha ci nɯ-sɤjtshi
 \xn 你往下游去，要个茶喝
 \se rɤjtshi
