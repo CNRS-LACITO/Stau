@@ -29574,7 +29574,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge planter 
-\gn 种 （菜、植物等）、播种
+\gn 种（菜、植物等）、播种
 \hbf 1801 
 \xv jiɕqha jaŋjy nɯ lɤ-ji-t-a
 \xn 我种了土豆
