@@ -7197,11 +7197,6 @@
 \et rus.sgam?
 \dt 04/May/2014
 
-\lx rɯrtsi
-\ps n
-\ge grande montagne
-\gn 大山
-\et ri.rtse
 
 \lx rɯspa
 \ps n
@@ -30749,25 +30744,29 @@ da.lie 打猎
 \xn 房子老化破损了
 \dt 04/Nov/2013
 
-\lx _ɬoʁ
+\lx _ɬoʁ¹
 \wav vi-LoR
 \ps vs
 \ge devoir
 \gn 必须
+
+\lx _ɬoʁ²
+\wav vi-LoR
 \ps vi
+\sn 1
 \ge sortir, partir
 \gn 出来、发生
-
 \hbf 1206 <2> 1299 <3> 1660 
 \de chu.lai 出来
 \xv tɤŋe tɤ-ɬoʁ
 \xn 太阳出来了
 \xv tshɤj lo-ji tɕe tɕe to-ɬoʁ
 \xn 种了菜就长出来了
+\sn 2
 \ge mettre bas (bovidé) 
-\ge 生崽子（牛类） 
+\gn 生崽子（牛类） 
 \xv nɯŋa ɲo-ɬoʁ (=chɤ-rɤpɯ)
-\xn 奶牛生了
+\xn 奶牛生了崽子
 \dt 07/Dec/2010
 
 \lx _ma
@@ -39888,7 +39887,7 @@ da.lie 打猎
 \xn 我脚脱臼了
 \xv paʁ ɯ-naŋtɕɯ chɤ-nɯɬoʁ
 \xn 猪的内脏出来了
-\cf ɬoʁ
+\cf ɬoʁ²
 \dt 12/Feb/2014
 
 \lx _nɯmbe
@@ -64342,7 +64341,7 @@ da.lie 打猎
 \wav n-qartshACku
 \ps n
 \ge oignon 
-\gn 葱(即我们通常说的“洋葱”) 
+\gn 葱（“鹿葱”）
 \hbf plante 
 \xv ^qartshaɕku nɯ ruŋgu kɯ-mbro ɣɯ tɕhitoʁ ku tsa tu-ɬoʁ ɲɯ-ŋu, ɯ-tshɯɣa nɯ ɕkɤtshoŋ cho ɲɯ-naχtɕɯɣ, ɯ-ru maŋe, ɯ-jwaʁ nɯ kɯ-ɤlɯlju tɕe qhoʁsjɯβ ɲɯ-ŋu, ɯ-tho ɣɤʑu, ɯ-qa li ɯ-rqhu kɤntɕhɯ-tɤlɤβ ɣɤʑu. ɯ-dɯχɯn wuma ɲɯ-mɯm. 
 \xn {qartshɤɕku}生长在高山的水草地里，形状和葱子(即通常说的“野葱”)一样，没有茎，叶子是空心的、圆柱形的。有花梗。根也有很多层皮。味道很香。
