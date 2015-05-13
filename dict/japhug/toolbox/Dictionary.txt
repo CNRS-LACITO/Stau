@@ -28758,7 +28758,7 @@ da.lie 打猎
 \se sɤzjaŋzjaŋ
 \ps vt
 \xv mbro ɲɯ-sɤzjaŋzjaŋ ʑo ɲɯ-ɤz-nɯmbrɤpɯ 
-\xn 他起着马显得很高
+\xn 他骑着马显得很高
 \se nɯzjaŋ
 \ps vt
 \dt 13/Nov/2013
