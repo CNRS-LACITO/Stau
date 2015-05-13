@@ -29391,7 +29391,7 @@ da.lie 打猎
 \xv tɤrɤm ɯ-pɤrthɤβ tɕe ndʑu ci pjɯ́-wɣ-rku tɕe ɲɯ́-wɣ-ɣɯthaʁ
 \xn 在两个木板中间插了一根木棒，使其不能合拢
 \xv @dianshiji ɲɯ-wxti tɕe, kha ɯ-ŋgɯ ɲɯ-ɣɯthaʁ ʑo ɲɯ-ɕti 
-\xn 因为电视机很大，把房间都撑住了
+\xn 因为电视机很大，把房间都占满了
 \xv mbɣosroʁ nɯ kɯ mbɣoru cho mbɣopɤl ɲɯ-ɣɯthaʁ ra
 \xn 木棒要把犁干和犁头两边顶住（使它们俩稳固）
 \dt 25/Aug/2012
