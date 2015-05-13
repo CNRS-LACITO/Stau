@@ -29591,7 +29591,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge couler 
-\gn 流出来、倒出来、撒（水） 
+\gn 流出来、倒出来、洒（水） 
 \hbf *koŋzoŋ.308
 \xv tɯ-rŋa sɤmar nɯ pjɤ-jit
 \xn 擦脸的（液体）倒了
