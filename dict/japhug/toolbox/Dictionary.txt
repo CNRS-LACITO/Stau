@@ -29882,7 +29882,7 @@ da.lie 打猎
 \xv ɯʑo toʁde nɯ-jtsraβ
 \xn 他拖延了一下时间
 \xv tanba ɕe-a pɯ-ŋu ri, tɤ-ngo-a tɕe mɯ́j-cha-a tɕe nɯ-jtsraβ-a pɯ-ra 
-\xn 我本来要去丹巴，但是由于生病，只拖延了出发时间。
+\xn 我本来要去丹巴，但是由于生病，只好拖延了出发时间。
 \dt 19/Feb/2014
 
 \lx _jɯm
