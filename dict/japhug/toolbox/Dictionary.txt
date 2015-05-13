@@ -28937,7 +28937,7 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge frapper (avec un marteau), marteler, tasser
-\gn 捶打 、夯结实
+\gn 捶打、夯结实
 \xv pɯ-ɣnda-t-a
 \xn 我捶打了
 \xv pɯ-tɯ-ɣnda-t
@@ -29250,7 +29250,7 @@ da.lie 打猎
 \ge décoré
 \gn 装饰
 \xv kha nɯ kɯ-wɣrum to-lɤt-nɯ tɕe to-ɣɯrɟɤn-nɯ
-\xn 他们把家涂成白色这样装饰了
+\xn 他们把家涂成白色，这样装饰了
 \xv si ɯ-taʁ qarma ɯ-muj ko-tshoʁ-nɯ tɕe ko-ɣɯrɟɤn-nɯ
 \xn 他们用马鸡的羽毛装饰了枝桠
 \dt 12/Jan/2013
