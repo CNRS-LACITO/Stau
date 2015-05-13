@@ -36233,7 +36233,7 @@ da.lie 打猎
 \gn 吃醋 
 \xv ɲɯ-sɤnɤsɤɣ
 \xn 他在吃醋
-\xv tu-kɯ-nɤsɤɣ a-pɯ-ŋu tɕe, tɕe ɯ-rʑaβ ɲɯ-nɤmthɯn ndʐa ɲɯŋu
+\xv tu-kɯ-nɤsɤɣ a-pɯ-ŋu tɕe, tɕe ɯ-rʑaβ ɲɯ́-wɣ-nɤmthɯn ndʐa ɲɯŋu
 \xn 被别人吃醋，是因为喜欢上他的妻子
 \dt 26/Jun/2011
 
@@ -39154,8 +39154,6 @@ da.lie 打猎
 \et jon.tan
 \xv nɤ-mɲitsi kɤ-rɤβzjoz ntsɯ pɯ-tɯ-nɯjɤntɤn
 \xn 这一辈子你的爱好是学习
-\xv kɯ-fɕi pɯ-tɯ-nɯjɤntɤn
-\xn 你的爱好是做银工
 \xv jɤntɤn
 \dt 16/Jan/2011
 
