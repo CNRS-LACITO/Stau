@@ -29350,7 +29350,7 @@ da.lie 打猎
 \ge amener 
 \gn 带来 
 \xv tɯji kɯ tɤ-rɤku tɤ-kɤ-ɣɯt nɯ pe
-\xn 那块地理长出的庄稼好
+\xn 那块地里长出的庄稼好
 \xv nɤki tɯji kɯ tɤ-rɤku kɯ-pɯ-pe ʑo to-ɣɯt
 \xn 这块地长出了很好的庄稼
 \un {ɣɯt}是从{ɣi}“来”派生出来的，是唯一一个施用后缀{-t}的例子
