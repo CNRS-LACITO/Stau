@@ -12418,9 +12418,8 @@
 \ps np
 \ge pan du vêtement 
 \gn 衣兜 
-\hbf *tɤrɯʁnɯs.5 
-\xv ɯ-phɯm nɯ tɕu tɤsa-rŋu ci tɯ-lʁɤtɕɯ ɲɤ-rku 
-\xn
+\xv ɯ-phɯm nɯ tɕu tasa-rŋu ci tɯ-lʁɤtɕɯ ɲɤ-rku 
+\xn 他把一袋炒麻籽装在衣兜里了
 
 \lx tɯ-phɯxpa
 \ps np
@@ -39154,7 +39153,7 @@ da.lie 打猎
 \et jon.tan
 \xv nɤ-mɲitsi kɤ-rɤβzjoz ntsɯ pɯ-tɯ-nɯjɤntɤn
 \xn 这一辈子你的爱好是学习
-\xv jɤntɤn
+\cf jɤntɤn
 \dt 16/Jan/2011
 
 \lx _nɯjɣa
