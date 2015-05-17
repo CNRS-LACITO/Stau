@@ -2082,7 +2082,7 @@
 \ge hier soir 
 \gn 昨晚 
 \cf jɯfɕɯr
-\cf ɯ-ɣmɯr
+\cf tɯ-ɣmɯr
 \hbf 747
 
 \lx jɯfɕɯndʐɯɕɯŋgɯpa
@@ -14200,10 +14200,10 @@
 \cf nɯgrɤl
 \dt 14/Sep/2013
 
-\lx ɯ-ɣmɯr
-\ps np
-\ge ce soir
-\gn 那一天晚上
+\lx tɯ-ɣmɯr
+\ps cl
+\ge un soir
+\gn 天晚上
 \xv nɯ ɯ-ɣmɯr
 \xn 那一天晚上
 \dt 20/May/2013
@@ -34786,8 +34786,12 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv nɯ-
+\sn 1
 \ge caresser 
 \gn 抚摸 
+\sn 2
+\ge tâtonner, chercher à tâtons
+\gn （暗中）摸索、探索
 \hbf 1525
 \xv nɯ-nɤmɯma-t-a, kɤ-nɤmɯma-t-a 
 \xn 我摸了
