@@ -8284,7 +8284,8 @@
 \ge sommet de l'arbre 
 \gn 树梢 
 \hbf plante2 
-\et ɕiŋ
+\cf si
+\cf tɯ-ku
 
 \lx sɯkɯm
 \ps n
@@ -8304,6 +8305,7 @@
 \gn 引燃、点火
 \xv sɯmɟa tɤ-βzu-t-a
 \xn 我点了火
+\cf mɟa
 \dt 13/Aug/2012
 
 \lx sɯmŋɤn
