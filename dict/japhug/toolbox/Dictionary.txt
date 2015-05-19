@@ -53704,7 +53704,7 @@ da.lie 打猎
 \ge riche, fructueux 
 \gn 茂盛、丰富 
 \xv jiɕqha nɯ ɯ-ɲɤm ɲɯ-sɯ
-\xn 那个很壮
+\xn 那个（动物）很壮
 \xv tɤ-pɤtso ɯ-rgu ɲɯ-sɯ 
 \xn 小孩子还可以（没想到他做得那么多）
 \xv ɣɯjpa taχpa ɲɯ-sɯ
