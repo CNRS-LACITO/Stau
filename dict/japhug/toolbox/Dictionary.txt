@@ -49936,7 +49936,7 @@ da.lie 打猎
 \pdl dir 
 \pdv tɤ-
 \ge se débrouiller, broder un peu une histoire 
-\gn 想办法、把故事的一些经头编一点 
+\gn 想办法、把故事的一些情节编一点 
 \xv tɤ-thu-t-a, ɯ-kɯ-spa maŋe tɕe, aʑo tɤ-nɯsɤβzɯβzu-t-a 
 \xn 我问了，没人知道，我就自己编了一些
 \cf sɤβzu
