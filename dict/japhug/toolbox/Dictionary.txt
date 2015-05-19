@@ -49700,7 +49700,7 @@ da.lie 打猎
 \pdl dir 
 \pdv caus
 \ge faire tuer
-\gn 使人杀
+\gn 使人杀(另一个人)
 \se ʑɣɤsɯsat
 \ps vi
 \pdl dir 
