@@ -42358,7 +42358,7 @@ da.lie 打猎
 \gn 贪 
 \hbf 1180 <2> 1724 
 \xv nɯ-nɯsŋom-a
-\xn 我贪了
+\xn 我贪(这个东西)了
 \xv aʑo jiɕqha tɯ-xtsa nɯ ɲɯ-nɯsŋom-a
 \xn 我很想得到那双鞋子
 \xv tɯ-ŋga nɯ ɲɯ-nɯsŋom-a
