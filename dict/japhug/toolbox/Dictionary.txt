@@ -46537,7 +46537,7 @@ da.lie 打猎
 \xv kha ɲɯ-ɤsɯ-βzu-nɯ tɕe, pɯ-rɤrcoʁ-a
 \xn 他们在修房子，所以我就和了泥
 \xv ʑala ɲɯ-ɤsɯ-lɤt tɕe, pɯ-rɤrcoʁ-a
-\xn 他在敷墙，所以我就和了泥
+\xn 他在糊墙，所以我就和了泥
 \cf tɤrcoʁ
 \cf ɣɤrcoʁ
 \dt 09/Jun/2013
