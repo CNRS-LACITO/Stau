@@ -72620,3 +72620,21 @@ l
 \gn 减 
 \sy sɯxtɕhaʁ
 \cf tɕhaʁ
+
+\lx sɤsɲim
+\ps n
+\ge aumônes (aux moines)
+\gn 布施
+\xv wortɕhi ʑo, a-sɤsɲim ci pɯ-lɤt
+\xn 请你给我布施
+\xv sɤsɲim nɯ-sɤmbi-a
+\xn 我讨布施了
+
+\lx _nɯsɤsɲim
+\ps vi
+\ge demander l'aumône (moines)
+\gn 讨布施
+\xv kɯ-nɯsɤsɲim jɤ-ari-a
+\xn 我去讨布施了
+\cf sɤsɲim
+
