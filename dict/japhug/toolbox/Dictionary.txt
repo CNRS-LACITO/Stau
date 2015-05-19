@@ -40201,20 +40201,20 @@ da.lie 打猎
 \pdl dir 
 \pdv pɯ-
 \ge être sali, être rendu impur
-\gn 被玷污
+\gn 被玷污，受晦气(迷信的说法)
 \se znɯmnɤl
 \ps vt
 \pdl dir 
 \pdv pɯ-
 \ng caus
 \ge salir, rendre impur
-\gn 玷污、受玷污气
+\gn 受玷污气，受晦气
 \xv tɯ-ŋga nɯnɯ ma-thɯ-tɯ-ŋge ma mɤ-χtso tɕe tú-wɣ-z-nɯmnɤl
-\xn 你别穿这件衣服，不干净，你会受到玷污的
+\xn 你别穿这件衣服，不干净，你会沾上晦气的
 \xv tɕhi tɤ-tɯ-ɤri tɕe, tɯrme ɯ-pa a-mɤ-tɯ-ɕe ma tú-wɣ-z-nɯmnɤl
-\xn 你上楼梯的时候，不要在别人下面不然你会受到玷污的
+\xn 你上楼梯的时候，不要在别人下面不然你会沾上晦气的
 \xv tɯ-ŋga kɯ pjɤ́-wɣ-z-nɯmnal-a
-\xn 这件令我受了污气
+\xn 这件令我受了晦气
 \dt 04/Aug/2012
 
 \lx _nɯmɲaqrɯ
