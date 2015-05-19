@@ -50950,7 +50950,7 @@ da.lie 打猎
 \ps vs
 \ge être un moment/endroit où a faim
 \gn 饿
-\un 人家饿的时间
+\un 人饿的时间
 \xv ɯ-tɯ-sɤmtsɯr saχaʁ
 \xn （人们都）很饿
 \dt 03/Sep/2014
