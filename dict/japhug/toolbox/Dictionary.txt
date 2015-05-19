@@ -37998,9 +37998,9 @@ da.lie 打猎
 \gn 宰 
 \hbf 1561 
 \xv tshɤt pjɤsi tɕe nɯ-ntɕhe
-\xn 山羊死了，宰了它
+\xn 山羊死了，切分了它
 \xv jitshɤt pjɤsi tɕe na-ntɕha
-\xn 我们的山羊死了，他就把它宰了
+\xn 我们的山羊死了，他就把它切分了
 \se rɤntɕha
 \ps vi
 \pdl dir 
