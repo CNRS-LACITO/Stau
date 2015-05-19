@@ -44072,7 +44072,7 @@ da.lie 打猎
 \gn 来临（活佛、神仙）
 \et ɴkʰor
 \xv kɯki ɕɤfɕo aʑo a-phe ku-ŋkhor ɲɯ+ŋu
-\xn 这几天他到我这里来临
+\xn 这几天他到我这里了
 \dt 11/Feb/2014
 
 \lx _ŋu
