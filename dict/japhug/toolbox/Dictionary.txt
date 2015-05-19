@@ -48934,7 +48934,7 @@ da.lie 打猎
 \hbf 1598 
 \et glo.bur
 \xv @wenchuan waɟɯ to-rɯʁlɤwur ɕti
-\xn 汶川大地震突然发生了
+\xn 汶川大地震发生得很突然
 \dt 22/Mar/2014
 
 \lx _rɯskɤrwa
