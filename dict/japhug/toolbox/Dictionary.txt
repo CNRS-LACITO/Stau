@@ -29778,7 +29778,7 @@ da.lie 打猎
 \ge rendre plus large
 \gn 使变粗
 \xv tɯ-pu thɯ-ɣɤmɯta tɕe, nɯ-ɣɤjpum-a
-\xn 我把肠子吹胀了
+\xn 我把(猪)肠子吹胀起来了
 \cf jpumqa
 \an xtshɯm
 \dt 14/Mar/2014
