@@ -34345,7 +34345,7 @@ da.lie 打猎
 \xv ki ɯ-phɯ ɲɯ-wxti tɕe, ma-pɯ-tɯ-ɣɤrɤt ma a-mɤ-pɯ-ɴɢrɯ ma ma-tɯ-nɤmɤle
 \xn 这个东西很贵重，你不要让它摔下来，不要让它破了，不要乱摸
 \xv ɯʑo kɯ tɤ-lu tu-nɤmɤle ŋgrɤl
-\xn 是他平时做牛奶的工作
+\xn 是他平时负责牛奶的工作
 \xv ɯʑo kɯ kha tu-nɤmɤle ŋgrɤl
 \xn 是她平时做家务
 \dt 11/Dec/2012
