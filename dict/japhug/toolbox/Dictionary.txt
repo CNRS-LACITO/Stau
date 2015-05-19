@@ -34867,7 +34867,7 @@ da.lie 打猎
 \ge faire vibrer
 \gn （使）振动
 \xv ta-znɤndɤr
-\xn 他震动了一下
+\xn 他(让那个东西)震动了一下
 \xv tɤ-znɤndar-a
 \xn 我震动了一下
 \xv kutɕu tɤŋkhɯt tɤ-lat-a tɕe, @luyinji tɤ-znɤndar-a
