@@ -37660,7 +37660,7 @@ da.lie 打猎
 \xv tʂu mɯ́j-sɤɣa tɕe pjɤ-ndʐaβ
 \xn 路不安全，他摔倒了
 \xv nɯŋa alo pjɤ-ndʐaβ
-\xn 奶牛在哪里摔倒了
+\xn 奶牛在那里摔倒了
 \cf tʂaβ
 \cf sɤndʐaβ
 \dt 03/Aug/2013
