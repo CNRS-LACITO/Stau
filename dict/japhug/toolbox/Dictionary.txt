@@ -28913,7 +28913,7 @@ da.lie 打猎
 \xv pa-ɣle
 \xn 他揉了
 \xv tɤjlu wuma ʑo pa-ɣle tɕe ɲɯ-mɯm
-\xn 他揉了面就好吃
+\xn 他揉了面，面就好吃了
 \dt 06/Jun/2011
 
 \lx _ɣlɯtɕɤt
