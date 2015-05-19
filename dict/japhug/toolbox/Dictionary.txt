@@ -42097,7 +42097,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge faire manger de l'herbe
-\gn 令动物吃草
+\gn 给动物喂草
 \xv ɲɯ-ta-znɯsɤlɤɣ
 \gn 我给你吃草（人对动物说）
 \dt 29/Mar/2011
