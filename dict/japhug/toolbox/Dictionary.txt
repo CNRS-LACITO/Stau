@@ -41272,7 +41272,7 @@ da.lie 打猎
 \ge utiliser toutes ses forces
 \gn 用尽全身的力气
 \xv ta-ma ɯ-tshɤt tsa ra ma kɤ-nɯqɯqoʁ mɤ-βdi
-\xn 劳要不要过分施力
+\xn 劳动不要太过卖力
 \dt 18/May/2014
 
 \lx _nɯrɤɣo
