@@ -54183,7 +54183,7 @@ da.lie 打猎
 \xv mkhɯrlu kɤ-sɯmtɕɯr
 \xn 把轮子转动
 \xv nɯ-sɯmtɕɯr-a
-\xn 我令把转了
+\xn 我令(某物)转动了
 \xv pa-sɯmtɕɯr
 \xn 他把它转动了
 \xv tɯ-kɤrnoʁ kɤ-sɯmtɕɯr ra 
