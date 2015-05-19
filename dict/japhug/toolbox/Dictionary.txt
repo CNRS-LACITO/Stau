@@ -37585,7 +37585,7 @@ da.lie 打猎
 \xv kɤ-ɕe tɤ-ndzu-a
 \xn 我准备出发了
 \xv ʑa a-tɤ-ndzu ɲɯra tɕe tɤ-ɕɯmbɣom
-\xn 你要早一点启程的话，就他快点
+\xn 你要早一点启程的话，就让他快点
 \dt 02/Aug/2012
 
 \lx _ndzur
