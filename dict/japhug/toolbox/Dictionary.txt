@@ -42891,7 +42891,7 @@ da.lie 打猎
 \pdl dir 
 \pdv nɯ-
 \ge supporter la chaleur 
-\gn 受热
+\gn 受热，中暑
 \xv tɤŋe ɲɯ-wxti nɯ-nɯtshɤdɯɣ-a
 \xn 太阳很大，我受热了
 \cf tshɤdɯɣ
