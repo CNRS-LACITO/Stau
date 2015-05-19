@@ -30859,7 +30859,7 @@ da.lie 打猎
 \pdv pɯ-
 \ge enduire
 \gn 涂、擦
-\un 擦脸，涂化妆品（酥油、猪膘、核桃） 
+\un 擦脸，涂（酥油） 
 \xv ɯʑo kɯ tɯ-ndʐi na-mar
 \xn 他给皮子上油了
 \xv nɤ-ɕnaβ aʁɤndɯndɤt ma-nɯ-tɯ-mar ma ɲɯ-sɤjloʁ
