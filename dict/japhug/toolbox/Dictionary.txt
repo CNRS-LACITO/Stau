@@ -41068,11 +41068,11 @@ da.lie 打猎
 \pdl dir 
 \pdv thɯ-
 \ge s'allonger sur le ventre 
-\gn 俯卧
+\gn 俯卧，趴
 \xv khɤxtu zɯ chɤ-nɯpolɯli
-\xn 他俯卧在房背上了
+\xn 他趴在房背上了
 \xv stɤmku chɤ-nɯpolɯli
-\xn 他俯卧在草地上了
+\xn 他趴在草地上了
 \dt 22/Feb/2014
 
 \lx _nɯpoʁ
