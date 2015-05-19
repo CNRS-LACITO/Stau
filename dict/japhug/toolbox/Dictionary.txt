@@ -33242,7 +33242,7 @@ da.lie 打猎
 \xv khɯtsa ɯ-tɯ-naʁzi ?
 \xn 你需不需要碗？
 \xv kɤ-ʁndɯ ɯ-tɯ-naʁzi ?
-\xn 你需不需要挨打？（教育小孩子）
+\xn 你想挨打是吧？（教育小孩子）
 \xv mɤ-ta-naʁzi
 \xn 我不需要你
 \xv nɤʑo nɤ-kɤ-nɤʁzi ɯ-ɣɤʑu nɤ, aʑo a-ɕki a-ɣɯ-jɤ-tɯ-re
