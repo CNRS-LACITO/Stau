@@ -31825,7 +31825,7 @@ da.lie 打猎
 \xv ɯʑo kɯ ɯ-zda na-mgrɯn tɕe, tʂha na-jtshi
 \xn 他待了客，给他茶喝
 \xv aʑo ci ɲɯ-ta-mgrɯn
-\xn 我给你办招待
+\xn 我请你吧
 \se sɤmgrɯn
 \ps vi
 \pdl dir 
