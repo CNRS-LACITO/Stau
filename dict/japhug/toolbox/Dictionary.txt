@@ -27721,9 +27721,9 @@
 \lx _ɣɤroʁroʁ
 \ps vi
 \ge couler sans arrêt
-\gn 不停滴流
+\gn 不停地流
 \xv tɤ-se ɲɯ-ɣɤroʁroʁ ʑo
-\xn 血流得不停
+\xn 血流个不停
 \dt 15/May/2014
 
 \lx _ɣɤrphɤrphɤβ
@@ -27736,7 +27736,7 @@
 \xv tsɯʁot ɲɯ-ɣɤrphɤrphɤβ
 \xn 野鸡在拍翅膀发出声音
 \xv ʁdɯskɤr ɲɯ-ɣɤrphɤrphɤβ
-\xn 旗子在飘动发出声音
+\xn 旗子在飘动，发出声音
 \dt 02/Jul/2014
 
 \lx _ɣɤrpi
