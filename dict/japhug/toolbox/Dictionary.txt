@@ -27767,7 +27767,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge bruit de choc d'un objet dur sur une surface dure 
-\gn 硬的东西敲到木版上时发出声音 
+\gn 硬的东西敲到木板上时发出声音 
 \xv ʑɴɢɯloʁ pɯ-nɯɕlɯɣ-a tɕe, ɲɯ-ɣɤrqhoʁrqhoʁ ʑo
 \xn 我失手，把核桃掉到地上发出声音
 \xv tʂha ɲɯ-ɤla ɲɯ-ɣɤrqhoʁrqhoʁ ʑo 
@@ -27788,7 +27788,7 @@
 \ge tirer au fusil sans arrêt 
 \gn 不停地打枪 
 \xv ɕɤmɯɣdɯ ɲɯ-ɤz-nɯrqhoʁ ʑo ɲɯ-ɤsɯ-lɤt
-\xn 他啪啪地射抢
+\xn 他啪啪地射枪
 \dt 19/Dec/2011
 
 \lx _ɣɤrqhɯβrqhɯβ
