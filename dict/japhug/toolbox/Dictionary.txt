@@ -27485,7 +27485,7 @@
 \ge bruit de froissement du papier 
 \gn 发出沙沙声 
 \xv ɯ-zgra ɲɯ-ɣɤrɕɯβrɕɯβ
-\xn 在发出沙沙声
+\xn 有沙沙的声音
 \se sɤrɕɯβrɕɯβ
 \ps vt
 \xv tɯmɯ ɲɯ-sɤrɕɯβrɕɯβ ʑo ɲɯ-ɤsɯ-lɤt
