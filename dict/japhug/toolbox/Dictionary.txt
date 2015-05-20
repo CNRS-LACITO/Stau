@@ -28309,7 +28309,7 @@ da.lie 打猎
 \ge chercher des choses n'importe comment
 \gn 乱找东西（小孩子）
 \xv ma-tɯ-ɣɤthɤβjɤβ
-\xn 你不乱找东西
+\xn 你不要乱找东西
 \dt 31/Jul/2011
 
 \lx _ɣɤthɤβthɤβ
