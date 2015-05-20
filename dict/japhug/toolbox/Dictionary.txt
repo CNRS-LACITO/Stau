@@ -28147,7 +28147,7 @@ da.lie 打猎
 \ge bruit de l'eau qui bout
 \gn 发出沸腾的声音
 \xv tɯ-ci tala tɕe ɲɯɣɤsthɯtshoŋ ʑo ɲɯ-mbuz
-\xn 水出沸腾的声音就溢出来了
+\xn 水发出沸腾的声音就溢出来了
 \cf ɣɤsoŋsoŋ
 \dt 04/Aug/2012
 
