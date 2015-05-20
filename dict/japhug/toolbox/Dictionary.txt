@@ -27962,9 +27962,9 @@ da.lie 打猎
 \ge agir en cachette 
 \gn 偷偷摸摸、鬼鬼祟祟 
 \xv jiɕqha nɯ kɯ-ɣɤʁjɤβlɤβ ci ɲɯ-ŋu
-\xn 那个是个鬼鬼祟祟的人
+\xn 那个(人)是个鬼鬼祟祟的人
 \xv ɯʑo ɲɯ-ɣɤʁjɤβlɤβ tɕe, ɯ-stu mɤ-nɤme 
-\xn 他这样鬼鬼祟祟的样子，不会作什么好事
+\xn 他这样鬼鬼祟祟的样子，不会做什么好事
 \cf ɣɤqhɤβjɤβ
 \dt 03/Oct/2011
 
