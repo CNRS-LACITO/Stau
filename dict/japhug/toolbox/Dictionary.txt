@@ -27846,7 +27846,7 @@ da.lie 打猎
 \ge faire se débattre
 \gn 使人东抓西抓 
 \xv aʑo tɕɣom tɤ-ndzat-a tɕe, pɯ́-wɣ-sɯmkɯt-a tɤ́-wɣ-sɤrʁɤβjaβ-a
-\xn 我吃了花椒，把我抢到了，让我东抓西抓
+\xn 我吃了花椒，把我呛到了，让我东抓西抓
 \dt 02/Jul/2014
 
 \lx _ɣɤrsɯβrsɯβ
