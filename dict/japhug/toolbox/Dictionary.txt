@@ -28435,9 +28435,9 @@ da.lie 打猎
 \ge grincer (bois) 
 \gn 发出尖锐的嘎吱声(木头) 
 \xv tɤ-sta ɲɯ-ɣɤtsɯtsrɯɣ
-\xn 床发出尖锐声
+\xn 床发出刺耳的声音
 \xv si ɲɯ-ɣɤtsɯtsrɯɣ
-\xn 木头发出尖锐声
+\xn 木头发出刺耳的声音
 \dt 05/Oct/2011
 
 \lx _ɣɤtʂɤjɤt
