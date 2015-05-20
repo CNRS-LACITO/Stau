@@ -28602,7 +28602,7 @@ da.lie 打猎
 \xv tɤ-pɤtso tɤ-ɣɤxpra-t-a
 \xn 我使唤了小孩子
 \xv tɤ-ɣɤxpra-t-a tɕe tɕe tɕɤndi laχtɕha ɯ-kɯ-ru nɯ-sɤɣri-t-a
-\xn 我使唤了他要去那边拿东西
+\xn 我使唤他去那边拿东西
 \se sɤɣɤxpra
 \ps vi
 \ng apass
