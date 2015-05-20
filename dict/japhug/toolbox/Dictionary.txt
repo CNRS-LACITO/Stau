@@ -72701,3 +72701,10 @@ l
 \gn （来回）背柴
 \cf si
 \cf nɯzʁe
+
+\lx dzoʁ
+\ps idph.1
+\ge tout d'un coup (s'agenouiller)
+\gn 一下子（跪下）
+\xv ɯ-χpɯm dzoʁ ʑo pjɤ-tshoʁ
+\xn 他一下子跪下了
