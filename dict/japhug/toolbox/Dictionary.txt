@@ -3444,7 +3444,7 @@
 
 \lx kɯɲidi
 \ps n
-\ge odeur d'homme vx. 
+\ge odeur d'homme
 \gn 人的气味（魔鬼的语言） 
 \hbf *tɯxtsa.33
 
@@ -3454,10 +3454,10 @@
 \gn 金星 
 \hbf astronomie
 
-\lx kɯra
+\lx _ra
 \ps vs
 \pdl dir 
-\pdv tɤ
+\pdv tɤ-
 \ge devoir 
 \gn 要 
 \hbf 1755
@@ -43372,6 +43372,7 @@ da.lie 打猎
 \gn 一个一个地搬运 
 \xv rdɤstaʁ lɤ-nɯzʁe-t-a 
 \xn 我把石头搬过去了
+\cf nɯsɯzʁe
 \dt 26/Mar/2011
 
 \lx _nɯʑɤzdaŋ
@@ -55928,6 +55929,7 @@ da.lie 打猎
 \xv jisŋi aʑo ju-ɣi-a jɤɣ ma ɲɤ́-wɣ-sɯtsu-a-nɯ
 \xn 我今天可以来，因为他们给我时间
 \cf atsɯtsu
+\cf sɤtsu
 \dt 11/Mar/2014
 
 \lx _tsɯm
@@ -72638,3 +72640,64 @@ l
 \xn 我去讨布施了
 \cf sɤsɲim
 
+\lx _sɤsɯz
+\ps vs
+\ge être connu
+\gn （人们）知道的
+\xv ɯ-rmi ɲɯ-sɤsɯz
+\xn 人们知道他的名字
+\cf sɯz
+
+\lx tʂaŋka
+\ps n
+\ge pièce (d'or, d'argent)
+\gn （金、银）币
+
+\lx ɯ-phɯphɯ
+\ps np
+\ge ce que l'on mendie
+\gn 乞讨的（东西、钱）
+\xv kɤ-nɤjɤm tɕe nɤ-phɯphɯ ju-ɣɯt-a
+\xn 你在这里等着，给你送东西来（对乞丐说的话）
+\cf nɤphɯphɯ
+
+\lx _nɤrgɤŋɯ
+\ps vi
+\ge pleurer de bonheur
+\gn 高兴得哭
+\xv aʑo jɤ-azɣɯt-a tɕe, a-mu ɲɯ-nɤrgɤŋɯ
+\xn 我到了的时候，我目前高兴得哭了出来
+\et rga.ŋu
+\nq revérifier
+
+\lx mɤra ma
+\ps cnj
+\ge non seulement
+\gn 不但
+\xv jisŋi tɤ-rɯndzɤtshi-a tɕe tɯmgo nɯ mɤra ma tɤjko kɯnɤ tɤ-ndza-t-a
+\xn 我今天不但吃了饭，还吃了酸菜
+
+\lx matɯmaʁri
+\ps pospt
+\ge comme ... le dit
+\gn 正如……所说的
+\xv ɯʑo matɯmaʁri, tɯ-ŋga ɲɯ-mpja
+\xn 正如他所说的，衣服很暖
+
+\lx _sɤtsu
+\ps vs
+\ge que l'on a le temps de faire
+\gn 来得及做的
+\xv fso tɕe ɕɯ-kɤ-nɤmɲo ɲɯ-sɤtso
+\xn 明天有时间去看（节目）
+\cf tsu
+
+\lx _nɯsɯzʁe
+\ps vi
+\ng incorp
+\pdl dir 
+\pdv _
+\ge porter du bois (sur le dos)
+\gn （来回）背柴
+\cf si
+\cf nɯzʁe
