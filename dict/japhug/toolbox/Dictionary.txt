@@ -28355,7 +28355,7 @@ da.lie 打猎
 \xv ɲɯ-mɤrtsaβ ɲɯ-ɣɤtsɣaʁtsɣaʁ
 \xn 太辣，很难受
 \xv ɯ-tɯ-sɤɕke kɯ ɲɯ-ɣɤtsɣaʁtsɣaʁ
-\xn 太汤，很难受
+\xn 太烫，很难受
 \dt 05/Oct/2011
 
 \lx _ɣɤtshoz
