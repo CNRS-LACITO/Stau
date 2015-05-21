@@ -26599,7 +26599,7 @@
 \wav8 rWkhrABjAB
 \ps vi
 \ge faire du bruit sans arrêt en cherchant des choses
-\gn 一边找东西一边不停滴发出声音
+\gn 一边找东西一边不停地发出声音
 \xv ɲɯ-ɣɤkhrɤβjɤβ ntsɯ
 \xn 他不停地做事
 \xv kɤ-rɤʑi mɯ́j-cha tɕe pjɯ-ɣɤkhrɤβjɤβ ntsɯ ŋu
@@ -26608,7 +26608,7 @@
 \se sɤkhrɤβjɤβ
 \ps vt
 \xv laχtɕha ra ma-tɯ-sɤkhrɤβjɤβ
-\xn 你不要不停滴弄那些东西，发出声音
+\xn 你不要不停地弄那些东西，发出声音
 \dt 18/May/2014
 
 \lx _ɣɤkhrɤβkhrɤβ
