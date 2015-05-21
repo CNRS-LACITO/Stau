@@ -25911,7 +25911,7 @@
 \ge qui va vite
 \gn 过得快（时间）、走得早
 \xv ki a-tɤ-fse tɕe, nɤ-tɤ-rʑaʁ ɯ-ɲɯ-ɣɤɕe
-\xn 这样的话，你时间过得快吗？
+\xn 这样的话，你的时间过得快吗？
 \se nɤɣɤɕe
 \ps vt
 \ge trouver que (le temps) va vite
@@ -25949,7 +25949,7 @@
 \ge être
 \gn 体质不好，乱碰乱跳
 \xv nɯŋa ɲɯ-ɣɤɕkɤɣlɤɣ
-\xn 奶牛很不听话地乱碰乱跳
+\xn 奶牛很不听话地乱蹦乱跳
 \xv jiɕqha rgɤtpu nɯ ɲɯ-ɣɤɕkɤɣlɤɣ
 \xn 那个老年人不强壮地乱动
 \cf ɕkɤɣnɤɕkɤɣ
