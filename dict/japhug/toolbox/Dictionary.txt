@@ -66089,6 +66089,10 @@ da.lie 打猎
 \lx ^rɯrtsi
 \wav n-rWrtsi
 \ps n
+\sn 1
+\ge montagne
+\gn 高山
+\sn 2
 \ge dieu de la montagne 
 \gn 山神 
 \et ri.rtse
