@@ -27181,7 +27181,7 @@
 \ge long et instable
 \gn 不稳固
 \xv romɲa ɲɯ-mpɯ tɕe, ɯ-taʁ tu-kɯ-ŋke tɕe ɲɯ-ɣɤɲɟɣɤrɲɟɣɤr
-\xn 小梁不稳固，走在上面一闪一闪
+\xn 小梁不稳固，走在上面一晃一晃的
 \dt 30/Oct/2013
 
 \lx _ɣɤɲɯzɲɯz
