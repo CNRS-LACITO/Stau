@@ -26481,11 +26481,11 @@
 \xv aʑo tɤ-ɣɤjɯ-t-a
 \xn 我加了
 \xv ɯʑo ɣɯ ɯ-rŋɯl ɣurʑa ɣɤʑu tɕe, kɯβdɤ-sqi tɤ-ɣɤjɯ-t-a tɕe, tɕe lonba ɣurʑa kɯβdɤ-sqi tɤ-tu 
-\xn 他本来有一百圆，我添了四十，他现在一共有了一百四十圆
+\xn 他本来有一百元，我添了四十，他现在一共有了一百四十元
 \xv qro kɯ tɤ-kɤ-fɕɤt mɤʑɯ pjɯ́-wɣ-ɣɤjɯ ɲɯ-khɯ
 \xn （编故事的时候）蚂蚁这个人物所讲的话，可以多加几句
 \xv a-@dian thɯ-ɣɤjɯ-t-a tɕe tɤ-amdzɯ-a, ku-ta-nɤjo
-\xn 我已经冲了电，坐下来了，我在等你
+\xn 我已经充了电，坐下来了，我在等你
 \dt 24/Jun/2011
 
 \lx _ɣɤjwaʁ
