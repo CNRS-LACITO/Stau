@@ -26886,12 +26886,12 @@
 \pdl dir 
 \pdv kɤ-
 \ge chauffer la nourriture 
-\gn 做热（饭）
+\gn 热（饭）
 \hbf 1587
 \xv tɯ-ndza tɤ-ɣɤmpje
-\xn 你把饭做热吧
+\xn 你把饭热了吧
 \xv smi ɯ-taʁ kú-wɣ-ɣɤmpja
-\xn 在火上做热
+\xn 在火上加热
 \dt 22/Nov/2010
 
 \lx _ɣɤmpɯ
