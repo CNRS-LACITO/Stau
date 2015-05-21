@@ -14975,7 +14975,7 @@
 \gn 靠近身体的部分、根部（肢体）
 \xv tɯ-jaʁ ɯ-spɯɣ
 \xn 肩膀
-\xv tɯ-jɤʁndzu ɯ-spɯɣ
+\xv tɯ-jaʁndzu ɯ-spɯɣ
 \xn 手指的根部
 \dt 08/May/2014
 
@@ -52428,7 +52428,7 @@ da.lie 打猎
 \hbf 1791 
 \xv fsapaʁ ra tɤ-sɤwɯwum-a
 \xn 我把牲畜聚集在一起了
-\xv tɤ-pɤtso ɯ-kɯmtɕhɯ ra pjɤʁndɤr tɕe, pɯ-sɤwɯwum-a 
+\xv tɤ-pɤtso ɯ-kɯmtɕhɯ ra pjɤ-ʁndɤr tɕe, pɯ-sɤwɯwum-a 
 \xn 因为孩子的玩具散了，我把这些收集在一起
 \dt 24/Aug/2012
 
