@@ -27199,9 +27199,9 @@
 \se sɤɲɯzɲɯz
 \ps vt
 \ge tomber sans arrêt, mais en faible quantité (pluie)
-\gn 雨下得不停但下得不多
+\gn 雨下个不停但下得不多
 \xv tɯ-mɯ ɲɯ-sɤɲɯzɲɯz ntsɯ
-\xn 下毛毛雨下得不停
+\xn 下毛毛雨下个不停
 \dt 12/Oct/2011
 
 \lx _ɣɤŋɤn
