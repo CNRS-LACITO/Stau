@@ -533,7 +533,7 @@
 \xn 我可能去，可能不去
 \xv jisŋi chɤlɤnnɤ tɯ-mɯ lɤt 
 \xn 今天也许会下雨
-\xv a-@dian chɤlɤ́nnɤ rtaʁ thaŋ nɯ-sɯso-t-a tɕe, nɯ ma @chong mɯ-kɤ-βzu-t-a
+\xv a-@dian chɤlɤnnɤ rtaʁ thaŋ nɯ-sɯso-t-a tɕe, nɯ ma @chong mɯ-kɤ-βzu-t-a
 \xn 我想可能电足够，所以没有冲
 \dt 22/Sep/2013
 
@@ -3864,7 +3864,7 @@
 \ps idph.2
 \ge en désordre (fils pendus)
 \gn 形容挂着的线、布条等凌乱的样子
-\xv ɯ-ŋga chɤ-ɴɢraʁ ldʐɤβldʐɤβ ʑo ri, ɲɤnɯsɯ-ŋga
+\xv ɯ-ŋga chɤ-ɴɢraʁ ldʐɤβldʐɤβ ʑo ri, ɲɯ-ɤ<nɯ>sɯ-ŋga
 \xn 他的衣服破破烂烂的，他还是穿着
 \dt 18/Aug/2012
 
@@ -19248,7 +19248,7 @@
 \xn 缝隙很紧
 \xv tamɢom nɯnɯ ɲɯ-ɤmdʑɯβ
 \xn 夹子夹得很紧
-\xv kɯki ɯ-srɯβ pjɤtu ri pjɤ-sɯɲcɤr tɕe pjɤ-kɤmdʑɯβ-ci
+\xv kɯki ɯ-srɯβ pjɤ-tu ri pjɤ-sɯɲcɤr tɕe pjɤ-kɤmdʑɯβ-ci
 \xn 这个东西原来有缝隙，把它按住了就变得很紧，缝隙都看不出来
 \dt 06/Dec/2010
 
@@ -37997,9 +37997,9 @@ da.lie 打猎
 \ge tuer, découper (animal)
 \gn 宰 
 \hbf 1561 
-\xv tshɤt pjɤsi tɕe nɯ-ntɕhe
+\xv tshɤt pjɤ-si tɕe nɯ-ntɕhe
 \xn 山羊死了，切分了它
-\xv jitshɤt pjɤsi tɕe na-ntɕha
+\xv ji-tshɤt pjɤ-si tɕe na-ntɕha
 \xn 我们的山羊死了，他就把它切分了
 \se rɤntɕha
 \ps vi
@@ -61634,7 +61634,7 @@ da.lie 打猎
 \ge récipient en cuivre ou en fer 
 \gn 红铜、生铁铸成的罐子，没有盖子 
 \hbf 545
-\ev kontsɤrloŋ nɯ tɤmthɯm sɤsqa pjɤŋu ɲɯŋu
+\ev kontsɤrloŋ nɯ tɤ-mthɯm sɤ-sqa pjɤ-ŋu ɲɯ-ŋu
 \en {kontsɤrloŋ}是用来煮肉的容器
 \dt 10/Sep/2011
 
@@ -64813,7 +64813,7 @@ da.lie 打猎
 \xn 你的鼻涕流出来了
 \xv ɲɯ-nɯtɕhomba tɕe, ɯ-ɕnɤmtsrɯɣ raŋɯŋi ɲɯ-ɤsɯ-stu
 \xn 他感冒了就吊着鼻涕
-\xv tɤjko pjɤtɕur tɕe, raŋɯŋi ɲɯ-pa
+\xv tɤjko pjɤ-tɕur tɕe, raŋɯŋi ɲɯ-pa
 \xn 酸菜很酸，吊着有黏性的液体
 \dt 05/Nov/2013
 
@@ -70682,7 +70682,7 @@ l
 \ps idph.2
 \ge pure, propre (eau) 
 \gn 形容(水)纯净、干净的样子
-\xv tɯ-ci tɕhɯŋtɕhɯŋ ɲɤmgri
+\xv tɯ-ci tɕhɯŋtɕhɯŋ ɲɯ-ɤmgri
 \xn 水澄清得一点渣滓也没有的样子
 \dt 20/Nov/2011
 
@@ -71417,7 +71417,7 @@ l
 \ge dent 
 \gn 牙齿 
 \hbf 137 
-\xv a-ɕɣa qajɯ kɯ ɲɤsɯ-ndza 
+\xv a-ɕɣa qajɯ kɯ ɲɯ-ɤsɯ-ndza 
 \xn 我长了虫牙了。
 \xv tɯ-ɕɣa qajɯ kɯ tu-ndze tɕe wuma ʑo mŋɤm
 \xn 有蛀牙，很痛
