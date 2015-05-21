@@ -26586,7 +26586,7 @@
 \pdl dir 
 \pdv tɤ-
 \xv tɤ-mbɣom-a ra tɤ-tɯt-a tɕe (tɤ-ɕɯmbɣom-a tɕe) tɤ-sɤkɤβjaβ-a ʑo
-\xn 我叫他快点，令他到处乱动
+\xn 我叫他快点，(令)他(急得)到处乱动
 \cf ɣɤqhɤβjɤβ
 \dt 17/Jan/2015
 
