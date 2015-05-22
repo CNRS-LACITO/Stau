@@ -24809,7 +24809,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge déchirer, démolir 
-\gn 拆 （房子）
+\gn 拆（房子）
 \hbf 1174 
 \xv pɯ-fɕɯɣ-a
 \xn 我拆了
@@ -24983,7 +24983,7 @@
 \pdl dir 
 \pdv pɯ-
 \ge ajouter une poudre dans un liquide 
-\gn 在液体里放粉状的物体然后搅拌；例如在汤里放盐 
+\gn 在液体里放粉状的物体然后搅拌(例如在汤里放盐)
 \xv pɯ-fkri-t-a
 \xn 我（在汤里）放了（盐、香料等）
 \xv pɯ-tɯ-fkri-t
@@ -25084,7 +25084,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge ressembler, se passer de cette manière 
-\gn 像、这样发生 
+\gn 像，这样发生 
 \hbf 1729 
 \xv ɯ-mu fse 
 \xn 他像他母亲
