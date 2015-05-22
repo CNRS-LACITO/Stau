@@ -25641,7 +25641,7 @@
 \xv ɯʑo nɯ-ɣar
 \xn 他变野了
 \xv lɯlu nɯ kha ri pjɯ-χsu-j pɯ-ɕti ri, jɤ-anɯri tɕe ɲo-ɣar
-\xn 我们以前家里养猫但是他走了，变野了
+\xn 我们以前家里养猫但是它走了，变野了
 \xv nɯ tɯrme nɯ kɯɕɯŋgɯ kɯ-pɯ-pe pjɤ-ɕti ri, nɯ ɯ-qhu tɕe ɲo-ɣar 
 \xn 那个人原来好好的，后来就变得不正常。
 \dt 04/Aug/2013
