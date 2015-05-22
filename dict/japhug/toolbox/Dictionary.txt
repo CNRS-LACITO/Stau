@@ -24644,7 +24644,7 @@
 \xv kɯmaʁ tɤ́-wɣ-nɤma tɕe, laχtɕha ku-fɕaʁ ra
 \xn 做了错事，就应该用东西赔偿
 \xv pɯ-kɯ-ɣɤtɕa tɕe, mɤ-kɤ-fɕaʁ mɤ-khɯ
-\xn 有了过错就不能不赔偿
+\xn 有了过错就不能不弥补
 \xv ɯ-sɤ-fɕaʁ me
 \xn 没有东西可以补偿
 \dt 07/Feb/2014
@@ -24787,7 +24787,7 @@
 \pdl dir 
 \pdv pɯ-
 \ge filtrer le thé, verser lentement 
-\gn 过滤茶叶、慢慢地倒下去 
+\gn 过滤茶叶，慢慢地倒下去 
 \xv ɯʑo kɯ ta-fɕur
 \xn 他过滤了
 \xv tʂha tɤ-fɕur-a
