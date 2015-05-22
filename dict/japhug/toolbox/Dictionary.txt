@@ -25826,9 +25826,9 @@
 \wav8 GAchrABchrAB
 \ps vi
 \ge avoir la voix enrouée 
-\gn 嗓子倒了 、发出嘶哑声
+\gn 嗓子哑了 、发出嘶哑声
 \xv ɲɯ-nɯtɕhomba tɕe, ɯ-rqo ɲɯ-ɣɤchrɤβchrɤβ 
-\xn 他感冒了，嗓子倒了
+\xn 他感冒了，嗓子哑了
 \xv praʁ ɲɯ-mbɯt ɲɯ-ɣɤchrɤβchrɤβ
 \xn 悬崖塌下来了，声音很响
 \se ɣɤchrɤβlɤβ
