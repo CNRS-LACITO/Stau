@@ -24226,7 +24226,7 @@
 \gn 罚款 
 \hbf 1635 <2> 1240 
 \xv tʂu tɕe, ɯ-stu tu-kɯ-ŋke ra ma @fakuan kɯ-fse ɕur
-\xn 路上不要违反交通规则，不然就会罚款
+\xn 路上不要违反交通规则，不然就会(被)罚款
 \xv ɯʑo kɯ @qiche ko-sɯrpu tɕe pjɤ-ɕur
 \xn 他撞了车，所以被罚款
 \xv pɕawtʂɯ ɲo-kho pjɤ-ra, pɕawtsɯ khro pjɤ-ɕur
