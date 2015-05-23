@@ -22933,7 +22933,7 @@
 \wav ideo-BlWG-c
 \ps idph.3
 \ge source de lumière irisée qui scintille
-\gn 形容彩光闪光的样子
+\gn 形容彩色的光闪光的样子
 \xv @jingdeng βlɯɣnɤβlɯɣ ɲɯ-ɤsɯ-stu
 \xn 警灯在闪光
 \dt 29/Sep/2011
