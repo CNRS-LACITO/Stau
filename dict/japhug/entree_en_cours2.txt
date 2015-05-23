@@ -44,3 +44,4 @@ _khe
 _ɣɤxpra
 _ɣɤrɤt
 _ɣɤchrɤβchrɤβ
+dir 
