@@ -23579,14 +23579,14 @@
 \pdl dir 
 \pdv jɤ-
 \ge rattraper 
-\gn 赶上 、追上
+\gn 赶上、追上
 \xv jɤ-ɕaβ-a, jɤ-tɯ-ɕaβ, ja-ɕaβ
 \xn 我追上了他，你追上了他，他追上了他
 \se sɤɕaβ
 \ps vi
 \ng apass
 \xv nɯnɯ laχtɕha nɯ kɤ-mɟa mɯ́j-sɤɕaβ mɤ ɲɯ-ɤrqhi, ɲɯ-mbro
-\xn 这个东西拿不到，因为太远了（太高了）
+\xn 这个东西拿不着，因为太远了（太高了）
 \xv mɯ́j-sɤɕaβ
 \xn 赶不上
 \dt 02/Jan/2013
