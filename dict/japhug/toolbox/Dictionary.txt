@@ -23283,7 +23283,7 @@
 \xv ki @jie a-tɤ-βze ra
 \xn 你来接电话！
 \xv tɕhi kɯ-fse chɯ-βze-a
-\xn 我要做怎么样的东西？（例如，铁匠）
+\xn 我要做什么样的东西？（例如，铁匠）
 \se nɯβzu
 \ps vt
 \ng autoben
