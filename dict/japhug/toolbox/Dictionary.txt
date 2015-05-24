@@ -21456,7 +21456,7 @@
 \ge fourchu 
 \gn 分叉、成双 
 \xv ki si nɯ tɯ-ldʑa ma pɯ-me ri ɲɤ-kɤrtaʁ-ci
-\xn 这颗树原来只有一根，现在分叉了
+\xn 这棵树原来只有一根，现在分叉了
 \dt 20/Apr/2013
 
 \lx _artsɯɣdu
