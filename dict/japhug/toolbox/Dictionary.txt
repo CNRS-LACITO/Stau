@@ -21753,7 +21753,7 @@
 \xv jiɕqha ɲɯ-ɤʁloʁlu tɕe, nɯ ɯ-stu nɯ to-kɤjtɯ-ci tɯ-ci
 \xn 那个东西是凹进去的，在那里就积了水
 \xv ki sɤtɕha ɲɯ-ɤʁloʁlu tɕe, tɯ-ci tu-orɣi mbat
-\xn 这个地方是凹进去的，水会在里面积下来不流走
+\xn 这个地方是凹进去的，水会在里面积起来流不走
 \sy aχchowɤlu
 \cf ɯ-ʁlu
 \dt 23/Dec/2014
