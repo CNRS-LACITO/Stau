@@ -22422,7 +22422,7 @@
 \xv kɤndʑɯʁi ni wuma ɲɯ-ɤxtɕɯxte-ndʑi
 \xn 两兄弟不是一个大小
 \xv kɯ-ɤxtɕɯxte ci ɣɤʑu-ndʑi
-\xn 有一个大一个小
+\xn 有一个大有一个小
 \cf xtɕi
 \cf mɯxte
 \dt 20/May/2014
