@@ -20150,7 +20150,7 @@
 \xv a-taqaβ ɲɯ-ɤnthɣar
 \xn 我的针弹起来
 \xv tɤ-rɣe ɲɯ-ɤnthɣar
-\xn 珠子在弹起来
+\xn 珠子弹起来
 \xv to-kɤnthɣar-ci
 \xn 弹起来了
 \dt 12/Jan/2011
