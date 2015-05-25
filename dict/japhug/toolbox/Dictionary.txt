@@ -20484,7 +20484,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge dur à faire 
-\gn 难作 
+\gn 难做
 \hbf 1067 
 \xv jiɕqha kɤ-nɤma ɲɯ-ɤpɤɴqa
 \xn 这个工作很难做
