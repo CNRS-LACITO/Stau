@@ -20223,7 +20223,7 @@
 \xv ɲɯ-ɤnɯpɕɯpɕoʁ-ndʑi
 \xn 他们俩朝同一个方向
 \xv ki tɯrju ʁnɯ-ŋka ki mɯ-ɲɯ-ɤnɯpɕɯpɕoʁ kɯ ɲɯ-ɤnɯɕqhɯɕqhu ɕti
-\xn 这两句话不相符合，是有矛盾的
+\xn 这两句话不相符合，是矛盾的
 \cf tɯ-pɕoʁ
 \dt 17/Aug/2012
 
