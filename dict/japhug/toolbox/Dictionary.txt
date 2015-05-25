@@ -19056,7 +19056,7 @@
 \ge bouger (dent)
 \gn 摇动（牙齿）
 \xv a-ɕɣa ɲɤ-kɤlɟɣi-ci tɕe ɲɯ-mŋɤm
-\xn 我的牙齿摇动了，很痛
+\xn 我的牙齿松动了，很痛
 \dt 10/May/2014
 
 \lx _alothi
