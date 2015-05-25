@@ -20831,7 +20831,7 @@
 \lx _arɤmbɯmbri
 \ps vi
 \ge pas rassemblé en un endroit, dispersé sur un chemin
-\gn 不密集（一些地方多，一些地方少），一路上洒下的
+\gn 不密集（一些地方多，一些地方少），一路上撒下的
 \cf rɤmbɯmbri
 \dt 02/Jan/2015
 
