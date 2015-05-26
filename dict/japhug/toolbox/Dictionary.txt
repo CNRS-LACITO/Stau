@@ -18581,7 +18581,7 @@
 \gn 弯（路、植物、人的四肢等） 
 \hbf 1004 <2> 1700
 \xv ki si ki ɲɯ-ɤjʁu
-\xn 这颗树是弯的
+\xn 这棵树是弯的
 \xv kɯki @dianxian ki ɲɯ-ɤjʁu
 \xn 这根电线是弯的
 \xv kɯki laʁjɯɣ ki kutɕu pɯ-ata tɕe to-kɤjʁu-ci
@@ -18770,7 +18770,7 @@
 \pdv tɤ-
 \ng denom
 \ge bariolé 
-\gn 花 的（颜色）
+\gn 花的（颜色）
 \hbf 1098 
 \et kʰra
 \xv jiɕqha tɯ-ŋga nɯ ɲɯ-ɤkhra
