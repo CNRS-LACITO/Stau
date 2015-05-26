@@ -98,7 +98,6 @@
 \ps adv
 \ge partout 
 \gn 到处 
-\hbf *qɤjdorju.36
 \dt 19/Apr/2013
 
 \lx athi
@@ -112,7 +111,6 @@
 \ps intj
 \ge exprime la douleur (brûlure) 
 \gn 表示很痛，很烫
-\hbf *tɯxtsa.102
 \dt 19/Apr/2013
 
 \lx atu
@@ -152,7 +150,6 @@
 \ps n
 \ge calme 
 \gn 平安 
-\hbf *ndzaʁlaŋ.71 
 \et bde.ba
 
 \lx βdɯnba
@@ -292,7 +289,6 @@
 \ps n
 \ge ministre 
 \gn 大臣 
-\hbf *srɤs.3 
 \et blon.po
 
 \lx boŋboŋ
@@ -352,7 +348,6 @@
 \ps n
 \ge récompense 
 \gn 奖赏
-\hbf *smɤnmi.120 
 \et bzaŋ.len
 \xv nɤ-βzaŋlɤn βze-a ra ma a-tɕɯ ɯ-sroʁ ko-tɯ-ri
 \xn 我要报你的恩，因为你救了我儿子的命
@@ -723,7 +718,6 @@
 \ps n
 \ge arbre fruitier 
 \gn 果树 
-\hbf *qachɣa.1 
 \et ɕiŋ.tog
 
 \lx ɕaqajɯ
@@ -824,7 +818,6 @@
 \ge musulman 
 \gn 回族 
 \et ɕar.pa
-\hbf *thaχtsa.82
 
 \lx ɕɤrzaŋ
 \ps n
@@ -1117,7 +1110,6 @@
 \gn 铁链子 
 \cf ɕom
 \cf tɯmbri
-\hbf *tɯxtsa.20
 
 \lx ɕomnaʁ
 \ps n
@@ -1184,7 +1176,6 @@
 \ps n
 \ge bois 
 \gn 木料 
-\hbf *qɤjdorju.89 
 \et ɕiŋ.tɕʰa
 
 \lx ɕoŋthi
@@ -1404,7 +1395,6 @@
 \ps pro
 \ge meilleurs les uns que les autres 
 \gn 一个比一个好 
-\hbf *qachɣa.73
 
 \lx ɕɯŋgɯ
 \wav8 CWNGW
@@ -1466,14 +1456,12 @@
 \ps n
 \ge lentement 
 \gn 慢慢 
-\hbf *ɲimawozɤr.129 
 \cf daltsa
 
 \lx dɤlie
 \ps intj
 \ge bienvenue 
 \gn 欢迎光临 
-\hbf *koŋzoŋ.199
 
 \lx doŋdoŋ
 \ps idph.2
@@ -1576,7 +1564,6 @@
 \ps n
 \ge ordre 
 \gn 命令 
-\hbf *ɲimawozɤr.109 
 \et bka
 
 \lx fsaŋ
@@ -1605,7 +1592,6 @@
 \ps n
 \ge fumigations 
 \gn 烧香拜佛冒出来的烟 
-\hbf *kɯsɤr.174 
 \et bsaŋ.mtɕʰod
 
 \lx fsapaʁ
@@ -1879,7 +1865,6 @@
 \ps n
 \ge hache que l'on peut tenir d'une seule main 
 \gn 单手斧头 
-\hbf *kɯsɤr.128
 
 \lx jaŋpho
 \ps n
@@ -1907,7 +1892,6 @@
 \ps n
 \ge chercher à gagner de l'argent par tout les moyens 
 \gn 拉关系，到处想办法赚钱 
-\hbf *zrɤntɕɯ.14 
 \et jar.mar
 \xv jaramara to-βzu-j 
 \xn 我们拉了关系想办法到处赚钱
@@ -1959,7 +1943,6 @@
 \ps n
 \ge savoir 
 \gn 技术、知识 
-\hbf *srɤs.2 
 \et jon.tan
 \xv nɤ-jɤntɤn, @qiche kɤ-lɤt tu
 \xn 你的技术是开汽车
@@ -1970,7 +1953,6 @@
 \ps n
 \ge chiquenaude avec l'index 
 \gn 弹食指 
-\hbf *koŋzoŋ.43
 
 \lx jɤznɤ
 \ps adv
@@ -2013,7 +1995,6 @@
 \ps cnj
 \ge non seulement... mais... 
 \gn 既……又…… 
-\hbf *srɤs.91 
 \et jin.pa.la
 \xv jisŋi ɲɯ-jɯm jinbalazɯ, qale ɣɤʑu 
 \xn 今天即使晴天又刮风
@@ -2113,7 +2094,6 @@
 \ps n
 \ge épouse de sprulsku 
 \gn 活佛的妻子 
-\hbf *kɯɕar.354 
 \et jum
 
 \lx jwajwa
@@ -2239,7 +2219,6 @@
 \ps n
 \ge repas 
 \gn 餐 
-\hbf *qaɕpa.236
 
 \lx kɤndʑɯɕaχpu
 \ps n
@@ -2432,7 +2411,6 @@
 \ps n
 \ge sujet de discussion 
 \gn 谈话内容 
-\hbf *smɤnmi.151
 
 \lx khɤɕa
 \ps n
@@ -2445,7 +2423,6 @@
 \ps n
 \ge khatag 
 \gn 哈达 
-\hbf *kɯsɤr.61
 \xv khɤdaʁ lɤ-lat-a
 \xn 我给了他哈达
 \xv sprɯskɯ kɯ a-khɤdaʁ tha-lɤt
@@ -2501,7 +2478,6 @@
 \ps n
 \ge lecture de sutra 
 \gn 念经 
-\hbf *srɤs.16 
 \et kʰa.ɴdon
 \dt 03/Aug/2014
 
@@ -2663,7 +2639,6 @@
 \ps idph.1
 \ge bruit de glissement 
 \gn 滑下来的声音 
-\hbf *koŋzoŋ.146 
 \xv khiɤt ʑo ɲɯ-ti tɕe pɯ-ndʐaβ-a 
 \xn 我嗞溜一声就摔倒了
 \dt 05/May/2014
@@ -2978,7 +2953,6 @@
 \ps adv
 \ge à l'instant, alors seulement 
 \gn 刚才，这才 
-\hbf *qɤjdorju.31 
 \xv ɬamu kɯ nɯ koʁmɯz pɯ-kɯ-fse nɯ ra pjɤ-fɕɤt 
 \xn 拉莫给他讲了刚才发生的事
 \xv aʑo nɯ koʁmɯz @xiaban pɯ-βzu-t-a tɕe, kha lɤ-nɯɣe-a
@@ -3264,7 +3238,6 @@
 \ps n
 \ge la plus longue corde d'une tente 
 \gn 帐篷的最长的拉线 
-\hbf *kɯsɤr.158
 
 \lx kɯjujmɤlu
 \ps n
@@ -3272,7 +3245,6 @@
 \gn 没有尾巴的动物（人） 
 \xv kɯju jmɤlu ɲɯ-sɲu ŋu tɕe, mɤ-ɕ-thɯ-tɯ-ʑɣɤ-βde ma ji-kɤ-ndza tu-tu ɕti 
 \xn （乌鸦说：）你不要去跳河，当那个没有尾巴的动物（人）发疯的时候（播种子）我们就有吃的了
-\hbf *kɯju.12
 \dt 14/May/2013
 
 \lx kɯki
@@ -3345,7 +3317,6 @@
 \ps n
 \ge Triratna 
 \gn 三宝 
-\hbf *smɤnmi.101 
 \et kun.mtɕʰog.gsum
 \dt 22/Oct/2013
 
@@ -3446,7 +3417,6 @@
 \ps n
 \ge odeur d'homme
 \gn 人的气味（魔鬼的语言） 
-\hbf *tɯxtsa.33
 
 \lx kɯqurʑŋgri
 \ps n
@@ -3668,7 +3638,6 @@
 \ps cnj
 \ge bien que, à part 
 \gn 虽然，除此以外 
-\hbf *lɯlu.38
 
 \lx laʁnɯχsɯm
 \ps num
@@ -3725,7 +3694,6 @@
 \ps cnj
 \ge à part ça 
 \gn 除此以外、只是 
-\hbf *srɤs.18 
 \xv nɯ kɤ-kho nɯ ɲɤ-nɯmɟa laʁsɯɣnɤma, nɯ ma mɯ-to-nɯβdaʁ 
 \xn 他只是把送的东西接过去了，其它理也没有理。
 
@@ -3733,7 +3701,6 @@
 \ps n
 \ge type d'offrande au dieux, un des élements utilisé pour faire les gtorma 
 \gn 供应鬼神的一种物品 
-\hbf *koŋzoŋ.196 
 \et lag.bzo
 
 \lx lawa
@@ -3806,7 +3773,6 @@
 \ps n
 \ge servante 
 \gn 女仆人 
-\hbf *smɤnmi.7
 
 \lx lɤmɤjmɤɣ
 \ps n
@@ -3821,7 +3787,6 @@
 \ps n
 \ge un motif bouddhique 
 \gn 佛教的图纹 
-\hbf *srɤs.47
 
 \lx lɤŋɤtʂɤɣ
 \ps num
@@ -4026,7 +3991,6 @@
 \ps idph.2
 \ge être suspendu (épis de céréales, touffe de fils etc...) 
 \gn 形容一簇絮状的东西，穗子吊着的样子 
-\hbf *koŋzoŋ.115
 \se sɤltɕhɤltɕhɤt
 \ps vt
 \ge secouer légèrement (un objet long et fin)
@@ -4113,7 +4077,6 @@
 \ps cnj
 \ge bien sûr 
 \gn 当然 
-\hbf *taruʁnɯs.101
 
 \lx lɯtoʁ
 \ps n
@@ -4141,7 +4104,6 @@
 \ps n
 \ge réincarnation d'un dieu 
 \gn 神的化身 
-\hbf *ndzaʁlaŋ.15 
 \et lha.rigs
 
 \lx ɬasaŋga
@@ -4204,7 +4166,6 @@
 \ps n
 \ge chaise en bambou 
 \gn 竹子编成的椅子 
-\hbf *smɤnmi.151
 
 \lx maka
 \wav8 maka_me
@@ -4309,7 +4270,6 @@
 \ps idph.2
 \ge très meuble (terre) 
 \gn 形容土地松软的样子
-\hbf *sqar.9 
 \xv tɯji mɤlmɤl ʑo cho-sthɯt-nɯ
 \xn 他们下种完了，田地很松软
 \xv tɯji pɯ-jɤɣ tɕe, tɯji ra mɤlmɤl ʑo ɲɯ-pa 
@@ -4320,7 +4280,6 @@
 \ps n
 \ge je ne sais pas (expression toute faite, emprunt au situ) 
 \gn 我不知道（四土话借词） 
-\hbf *qaɕpa.154
 
 \lx mɤrnɤsɤŋo
 \ps n
@@ -4348,7 +4307,6 @@
 \ps adv
 \ge encore 
 \gn 还有 
-\hbf *kuwu.11 
 \xv jisŋi mɤʑɯ nɤ-kɤ-thu ɯ́-tu
 \xn 你今天还有问题吗？
 \xv mɤʑɯ tu-ti-a ŋu nɤ?
@@ -4434,7 +4392,6 @@
 \ps n
 \ge vannerie en forme de cuve utilisée pour faire sécher les grains 
 \gn 放在房顶用来晒粮食，竹子编成的盆型的簸箕 
-\hbf *sqar.94
 
 \lx mbrɤstshi
 \ps n
@@ -4651,7 +4608,6 @@
 \ps n
 \ge humiliation 
 \gn 耻辱 
-\hbf *qachɣa.148
 
 \lx mɲimaŋ
 \ps n
@@ -4664,7 +4620,6 @@
 \ps n
 \ge progéniture 
 \gn 孩子 
-\hbf *kuwu.15 
 \et mi
 
 \lx mɲirɯri
@@ -4795,7 +4750,6 @@
 \ps n
 \ge bâton pour frapper les chiens 
 \gn 打狗棒 
-\hbf *kɯsɤr.129
 
 \lx mtɕhɤnmi
 \ps n
@@ -4846,7 +4800,6 @@
 \ps n
 \ge mantra 
 \gn 咒经 
-\hbf *kɯsɤr.145 
 \et mtʰu
 \xv mthɯ cho-lɤt
 \xn 他念了咒经
@@ -4909,7 +4862,6 @@
 \ps n
 \ge animal mythique vivant dans la mer (hippopotame) 
 \gn 海象（河马） 
-\hbf *smɤnmi.139 
 \et mtsʰo.glaŋ
 
 \lx mtshoʁzaŋ
@@ -4945,7 +4897,6 @@
 \ps adv
 \ge pas du tout 
 \gn 根本没有 
-\hbf *qachɣa.74
 
 \lx múcin
 \ps adv
@@ -4970,7 +4921,6 @@
 \ps n
 \ge toutes sortes vx. 
 \gn 各种各样 
-\hbf *smɤnmi.136 
 \et mi.ɴdra.mi.gtɕig
 \dt 14/Jul/2014
 
@@ -5149,7 +5099,6 @@
 \ps n
 \ge hôte 
 \gn 远方的客人 
-\hbf *tɤmu.24 
 \et mgron.po
 \xv ndʐɯnbu ɕe-a
 \xn 我要出差
@@ -5228,7 +5177,6 @@
 \ps adv
 \ge alors seulement 
 \gn 那才 
-\hbf *kɯsɤr.266
 \dt 20/May/2013
 
 \lx ntɕhomŋga
@@ -5255,7 +5203,6 @@
 \ps adv
 \ge pour cette raison
 \gn 因此
-\hbf *rkoŋrɟɤl2.25
 \dt 20/May/2013
 
 \lx nɯɣe
@@ -5294,7 +5241,6 @@
 \ps n
 \ge autant 
 \gn 那么多 
-\hbf *ɲimawozɤr.20 
 \et tʰams.tɕad
 
 \lx nɯtɕu
@@ -5462,7 +5408,6 @@
 \ps n
 \ge pente de terre (à 90 degrés) 
 \gn （垂直）的土坡[土崖]
-\hbf *ndzaʁlaŋ.5
 \dt 09/Jan/2012
 
 \lx ŋgoŋpu
@@ -5490,7 +5435,6 @@
 \ps n
 \ge chant mystique
 \gn 道情
-\hbf *kɯsɤr.39 
 \et mgur
 
 \lx ŋgɯr²
@@ -5705,7 +5649,6 @@
 \ps n
 \ge nourriture pour cochon 
 \gn 喂猪的 
-\hbf *tɤruʁnɯs.50
 
 \lx paχpatʂɯβ
 \ps n
@@ -5738,7 +5681,6 @@
 \ps adv
 \ge encore 
 \gn 还、先、暂时
-\hbf *qɤjdorju.113 
 \xv pɤjkhu a-ŋga tu-ŋge-a, pɤjkhu a-rte tu-nɤrte-a ra
 \xn 我还要穿衣服，还要戴帽子
 \xv @shiwuhao ri lɤ-ari tɕe, pɤjkhu mɯ-thɯ-nɯɣe
@@ -5805,7 +5747,6 @@
 \ps adv
 \ge à partir de ce moment là 
 \gn 从此以后 
-\hbf *qaɕpa.236
 
 \lx pɕirɯ
 \ps n
@@ -5873,7 +5814,6 @@
 \ps n
 \ge parents 
 \gn 父母 
-\hbf *ɲimawozɤr.109 
 \et pʰa.ma
 
 \lx phantsɯt
@@ -5958,7 +5898,6 @@
 \ps n
 \ge palais vx. 
 \gn 宫殿 
-\hbf *smɤnmi.123 
 \et pʰo.braŋ
 
 \lx phochi
@@ -6024,7 +5963,6 @@
 \ps n
 \ge oiseau vx. 
 \gn 鸟 
-\hbf *ndzaʁlaŋ.135
 
 \lx pjalu
 \ps n
@@ -6534,7 +6472,6 @@
 \ps n
 \ge regard furtif 
 \gn 瞟一眼 
-\hbf *srɤs.54 
 \xv pjɯ-rɤrɤt ɯ-khɯkha, qrɯt ntsɯ ku-ru ɲɯ-ŋu 
 \xn 他一边写一边朝这里瞟 
 \nqr
@@ -6729,7 +6666,6 @@
 \ps adv
 \ge soudain 
 \gn 当场，突然 
-\hbf *smɤnmi.182
 
 \lx rgɤmpɯ
 \ps n
@@ -6871,7 +6807,6 @@
 \ps n
 \ge Inde 
 \gn 印度 
-\hbf *smɤnmi.6 
 \et rgʲa dkar
 \xv rɟɤkɤr zɯ βlama ra kɯ srɯnmɯ ra tu-nɯkon-nɯ ɲɯ-ŋu 
 \xn 在印度，喇嘛们把全世界的妖精管制在那里。 
@@ -6928,7 +6863,6 @@
 \ps n
 \ge capacité à gagner de l'argent 
 \gn 赚钱的本事，财力 
-\hbf *zrɤntɕɯ.14 
 \et rgʲu.stobs
 
 \lx rkɤtu
@@ -7180,7 +7114,6 @@
 \ps n
 \ge toutes les plantes 
 \gn 所有的草木 
-\hbf *ndzaʁlaŋ.93 
 \et rtsi.ɕiŋ?
 
 \lx rɯmu
@@ -7202,7 +7135,6 @@
 \ps n
 \ge génie 
 \gn 天才 
-\hbf *smɤnmi.11 
 \et rigs.pa
 
 \lx rɯtɕi
@@ -7455,7 +7387,6 @@
 \ps n
 \ge deux sortes (expression toute faite, emprunt) 
 \gn 两种 
-\hbf *qaɕpa.155
 \dt 28/Apr/2012
 
 \lx ʁɲispa
@@ -7521,7 +7452,6 @@
 \ps n
 \ge apparence 
 \gn 相貌 
-\hbf *qaɕpa.141 
 \et gzugs
 
 \lx san
@@ -7675,7 +7605,6 @@
 \ps n
 \ge monde 
 \gn 世界 
-\hbf *kɤndʑɯxtɤɣ.1 
 \et skal.pa
 
 \lx skɤmtɕhaŋ
@@ -7843,7 +7772,6 @@
 \ps n
 \ge beurre sur lequel un moine a soufflé 
 \gn 和尚念经后，在上面吹过的酥油 
-\hbf *kɯsɤr.119 
 \et mar
 
 \lx sŋɯqiɯ
@@ -7998,7 +7926,6 @@
 \ps n
 \ge prince 
 \gn 王子 
-\hbf *srɤs.1 
 \et sras
 
 \lx sroχtɕɤn
@@ -8099,7 +8026,6 @@
 \ps postp
 \ge par rapport à 
 \gn 比 
-\hbf *qɤjdoskɤt.57
 \xv nɯ staʁnɤ
 \xn 还不如
 \dt 16/Oct/2014
@@ -8356,7 +8282,6 @@
 \ps n
 \ge figurine en glaise 
 \gn 泥巴捏成的偶像 
-\hbf *smɤnmi.122
 
 \lx sɯrna²
 \ps n
@@ -8443,7 +8368,6 @@
 \ps n
 \ge besace 
 \gn 褡裢 
-\hbf *ndzaʁlaŋ.163
 
 \lx ta-ma
 \ps np
@@ -8785,7 +8709,6 @@
 \ps n
 \ge il était une fois 
 \gn 故事的开头语 
-\hbf *qachɣa.0
 
 \lx tɤlɤɴqhi
 \ps n
@@ -9017,7 +8940,6 @@
 \ps n
 \ge avec 
 \gn 跟别人一起 
-\hbf *qɤjdorju.49 
 \xv ɯʑo kɯnɤ a-rca lu-nɯɣi ŋu
 \xn 他也跟我回去
 \un {tɤrca}跟{me}“没有”连用时表示“无法挽救”的意思
@@ -9178,7 +9100,6 @@
 \ps clf
 \ge un étage 
 \gn 一层楼 
-\hbf *kɯsɤr.149 
 \et rtseg
 \xv ki kha ki ɯ-tɤ-rtsɤɣ ɲɯ-mbro 
 \xn 这个房子（每一）层楼都很高
@@ -9292,7 +9213,6 @@
 \ps n
 \ge matériau, ce qui est utilisé pour faire qqch 
 \gn 材料，用来作的 
-\hbf *ɲimawozɤr.112
 
 \lx tɤspɯɕku
 \ps n
@@ -9458,7 +9378,6 @@
 \ps n
 \ge avis, information 
 \gn 通知 
-\hbf *srɤs.13
 \xv tɤχtɯχtɤt ɯ-kɯ-lɤt ɯʑo pɯ-ŋu
 \xn 通知大家的是他
 \xv a-tɤχtɯχtɤt na-lɤt
@@ -9538,7 +9457,6 @@
 \ps cnj
 \ge alors, sinon 
 \gn 那就，不然就（提出自己的条件才答应别人的请求） 
-\hbf *kɯsɤr.142
 
 \lx tɕaʁzgroʁ
 \ps n
@@ -9659,7 +9577,6 @@
 \ps cnj
 \ge sinon, un moment 
 \gn 不然、一会儿 
-\hbf *qaɕpa.251
 
 \lx tɕɣomte
 \ps n
@@ -9863,7 +9780,6 @@
 \ps n
 \ge religion 
 \gn 佛学 
-\hbf *srɤs.2 
 \et tɕʰos
 
 \lx tɕhʁɯβnɤtɕhʁɯβ
@@ -9985,7 +9901,6 @@
 \ps part
 \ge marque de topique 
 \gn 嘛 
-\hbf *kɯsɤr.246 
 \xv kɤ-ntɕhoz ɯ-spa tɕi, ɕ-tɤ-χti 
 \xn 要用的东西嘛，得去买 
 \dt 30/May/2013
@@ -10076,7 +9991,6 @@
 \ps adv
 \ge complètement, tout 
 \gn 全部 
-\hbf *kɤndʑɯxtɤɣ.32 
 \et tʰams.tɕad
 \dt 20/Jan/2015
 
@@ -10311,14 +10225,12 @@
 \ps n
 \ge compassion 
 \gn 同情，怜悯
-\hbf *koŋzoŋ.372 
 \et tʰugs.rje
 
 \lx thɯthɤci
 \ps pro
 \ge quel, lesquels 
 \gn 一些什么 
-\hbf *kɯsɤr.243 
 \xv phɯrkhɯɣ ɯ-ŋgɯ nɤ-ŋga thɯthɤci arku
 \xn 在你挎包装了一些什么衣服 
 \cf thɯci
@@ -10371,7 +10283,6 @@
 \ps adv
 \ge au moins 
 \gn 至少，起码 
-\hbf *qachɣa.70 
 \un 一般同{tɕhi maʁ nɤ}连用
 \xv tɤ-rɤru tɕe, tɕhi maʁ nɤ nɤ-rŋa tsaʁ pɯ-χtɕi ma
 \xn 你起床，起码把脸洗一下
@@ -10383,14 +10294,12 @@
 \ps adv
 \ge au moins 
 \gn 至少，起码 
-\hbf *kɯsɤr.58
 \dt 30/May/2013
 
 \lx tsɤndɤn
 \ps n
 \ge santal 
 \gn 檀木 
-\hbf *kɯsɤr.78 
 \et tsan.dan
 
 \lx tsha
@@ -10472,7 +10381,6 @@
 \ps pro
 \ge quoi que ce soit 
 \gn 无论什么，一切 
-\hbf *tɤmu.2
 
 \lx tshjencɯ
 \ps n
@@ -10520,7 +10428,6 @@
 \ps n
 \ge capacité à économiser 
 \gn 节约开支
-\hbf *qɤjdorju.9
 \xv kɤndzɤtshi tshɯmɕtʂat ɯ-kɯ-βzu nɯ kha tɤ-mu nɯ ŋu
 \xn 一家人的开支是家庭主妇计划的
 \dt 19/Mar/2014
@@ -10987,7 +10894,6 @@
 \ps n
 \ge barattage 
 \gn 搅酥油 
-\hbf *kɤndʑɯxtɤɣ.9
 \dt 29/May/2013
 
 \lx tɯ-ɣli
@@ -11045,7 +10951,6 @@
 \ps np
 \ge ami, allié
 \gn 朋友、友人
-\hbf *qaɕpa.194
 \an ʁgra
 \dt 13/Jan/2014
 
@@ -11294,7 +11199,6 @@
 \ps np
 \ge traits du visage 
 \gn 面容的五官 
-\hbf *koŋzoŋ.328
 \dt 29/May/2013
 
 \lx tɯ-kɤpɤla
@@ -11328,7 +11232,6 @@
 \ps clf
 \ge endroit 
 \gn 一个地方 
-\hbf *kɯsɤr.125 
 \xv iʑo zgo tɤ-ari tɕe, χsɯ-khɤl tɤ-nɯna-j 
 \xn 我们上山时，在三个不同的地方休息了一下
 
@@ -11452,7 +11355,6 @@
 \ps clf
 \ge section (d'un sac, d'un récipient) 
 \gn 一节（口袋、容器） 
-\hbf *kɯɕar.304
 \dt 15/Nov/2011
 
 \lx tɯ-lʁɤtɕɯ
@@ -11614,7 +11516,6 @@
 \ps np
 \ge sur les genoux 
 \gn 在大腿上面坐着的
-\hbf *tɤrɯʁnɯs.145
 
 \lx tɯ-mbɯ
 \ps np
@@ -11699,7 +11600,6 @@
 \ps n
 \ge nourriture 
 \gn 粮食 
-\hbf *tɤrɯʁnɯs.153
 
 \lx tɯmgozmɤrɤβ
 \ps n
@@ -11759,7 +11659,6 @@
 \ps np
 \ge avantage, ce que l'on reçoit 
 \gn 收入 
-\hbf *tɤmu.126
 \dt 30/May/2013
 
 \lx tɯ-mɟɤrme
@@ -11907,7 +11806,6 @@
 \ps n
 \ge crachat rituel 
 \gn 念经时，一边吹一边吐口水，治病的方式 
-\hbf *kɯsɤr.118 
 \et mtɕʰu
 
 \lx tɯmtɕi
@@ -11971,7 +11869,6 @@
 \ps n
 \ge repas du midi, goûter 
 \gn 带去山上吃的中午饭[路餐]、五点钟吃的那顿饭
-\hbf *smɤnmi.3
 \dt 05/May/2012
 
 \lx tɯmtɯ
@@ -12167,7 +12064,6 @@
 \ps n
 \ge éboulement 
 \gn 山崩 、滑坡
-\hbf *qaɕpa.39
 \xv tɯɲɤt pjɤ-ɣi
 \xn 出现了山崩
 \dt 03/Feb/2014
@@ -12535,7 +12431,6 @@
 \ps n
 \ge vomi 
 \gn 呕吐物
-\hbf *kɯsɤr.266 
 \xv tɯqioʁ tɤ-khat-a 
 \xn 我吐了很久（很多） 
 \nqr
@@ -12559,7 +12454,6 @@
 \ps n
 \ge veste 
 \gn 皮袄 
-\hbf *tɤrɯʁnɯs.5
 \dt 29/Dec/2011
 
 \lx tɯ-rdoʁ
@@ -12705,7 +12599,6 @@
 \ps np
 \ge âme, principe vital 
 \gn 灵魂，生命的根源 
-\hbf *ndzaʁlaŋ.44 
 \xv tɯ-mu kɯ ɯ-rla ɲɤ-me
 \xn 他吓坏了
 \dt 27/Sep/2014
@@ -13268,7 +13161,6 @@
 \ge soupe d'avoine, de blé et de haricots que l'on donne aux enfants et à ceux qui récupèrent les excréments de chevaux pour faire de l'engrais 
 \gn 粥
 \un 把莜麦,小麦和豌豆煮在一起，再加一些香料，给小孩子和出圈肥的人吃 
-\hbf *kɤndʑɯsqhɤj.23
 \xv tɯsqa kɤ-βzu-t-a
 \xn 我熬了粥
 \xv qɤj tɤɕi kú-wɣ-sqa tɕe, nɯnɯ tɯsqa tu-kɯ-ti ɲɯ-ŋu
@@ -13281,7 +13173,6 @@
 \ps n
 \ge tsampa 
 \gn 糌粑 
-\hbf *sqar.0
 \dt 26/May/2013
 
 \lx tɯ-sraŋ
@@ -13296,7 +13187,6 @@
 \ge racine (homme) 
 \gn 人的根源（祖宗，财富等） 
 \cf tɤ-zrɤm
-\hbf *koŋzoŋ.287
 
 \lx tɯ-sroʁ
 \ps np
@@ -13325,7 +13215,6 @@
 \ps np
 \ge position 
 \gn 位子、原位、床位（睡过的地方，坐过的地方，装过的地方） 
-\hbf *qalakɯɕqraʁ.18 
 \xv a-sta ku-βze-a
 \xn 我在铺床
 \xv khɯtsa a-tʂha pɯ-kɤ-rku ɯ-sta nɯ tɕu a-tɯjno tɤ-rke
@@ -13382,7 +13271,6 @@
 \ps n
 \ge pensée 
 \gn 想法 
-\hbf *tɤrɯʁnɯs.219 
 \et sems.pa
 \xv tɯ-sɯmpa kɯ-sɤɣdɯɣ
 \xn 心里很烦
@@ -13444,7 +13332,6 @@
 \ps clf
 \ge une muraille, une troupe de gens qui entourent un endroit 
 \gn 一堵围墙，包围一个地方的一群人，包围的一圈 
-\hbf *qachɣa.27
 
 \lx tɯ-tɤkhrɤz
 \ps clf
@@ -13509,7 +13396,6 @@
 \ps np
 \ge se préoccuper de choses qui ne le regarde pas 
 \gn 多管闲事 
-\hbf *kɯsɤr.84
 
 \lx tɯ-tɤsɯm
 \ps clf
@@ -13524,7 +13410,6 @@
 \ps clf
 \ge un coup de bêche 
 \gn 挖一锄头 
-\hbf *qachɣa.85
 
 \lx tɯ-tɤxɯr
 \ps clf
@@ -13581,7 +13466,6 @@
 \ps clf
 \ge bouquet, boisseau 
 \gn 一捆 
-\hbf *ndzaʁlaŋ.115
 
 \lx tɯ-tɕhaʁa
 \ps np
@@ -13942,7 +13826,6 @@
 \ps np
 \ge compagnon 
 \gn 伙伴 
-\hbf *qɤjdoskɤt.92
 
 \lx tɯ-χtispa
 \ps np
@@ -13955,7 +13838,6 @@
 \ps adv
 \ge comme les autres, avec les autres 
 \gn 和别人一样，和别人一起 
-\hbf *tɤmu.62
 \xv a-χtɯrca mɯ-ɲɯ-ɤri-a
 \xn 我不能跟同伴一起
 
@@ -14044,7 +13926,6 @@
 \ps np
 \ge gaspillage 
 \gn 浪费 
-\hbf *koŋzoŋ.255 
 \xv khɯna kɤ-χsu ʁo tɯ-χsu βdɯt 
 \xn 喂狗简直是白喂
 \dt 09/Jun/2013
@@ -14140,7 +14021,6 @@
 \ps np
 \ge limite 
 \gn 界限 
-\hbf *kɯsɤr.186 
 \xv ki ɯ-ɕɯɕaŋ ki kɤmɲɯ sɤtɕha ŋu 
 \xn 以这个为界就是干木鸟村的地盘
 
@@ -14186,7 +14066,6 @@
 \ps np
 \ge égal, autant 
 \gn 一样 
-\hbf *ndzaʁlaŋ.134 
 \xv tɤ-pɤtso cho-wxti tɕe, ɯ-mu ɯ-fsu ʑo cho-ɬoʁ 
 \xn 孩子长大了，长得跟他母亲一样高
 \dt 30/May/2013
@@ -14195,7 +14074,6 @@
 \ps np
 \ge raison 
 \gn 理由、规律 
-\hbf *qɤjdorju.34 
 \et gral
 \xv ɯ-grɤl kɯ-me 
 \xn 没有理由
@@ -14237,7 +14115,6 @@
 \ps np
 \ge uniquement, directement, cru 
 \gn 光是，一直、生的 
-\hbf *srɤs.2
 
 \lx ɯ-jndoʁ
 \ps np
@@ -14273,7 +14150,6 @@
 \ps np
 \ge au fur et à mesure que (+verbe) 
 \gn 随着（加动词） 
-\hbf *βʑar.26 
 \xv tɯmɯ kɤ-lɤt ɯ-jɯja tɕe, ɯ-thoʁ tu-ɣɤrcoʁ ɲɯ-ŋu 
 \xn 雨水越大，地面的稀泥越多
 \xv tɤ-pɤtso thɯ-wxti ɯ-jɯja nɤ, ɯ-ndzɯmbra kɤ-sɤsɯɣ ra 
@@ -14299,7 +14175,6 @@
 \ps np
 \ge tête à queue 
 \gn 头尾颠倒 
-\hbf *qalakɯɕqraʁ.55 
 \xv a-kɤlɤjme pɯ-ru tɕe, tɤ-rɤru-a 
 \xn 我跌倒了再爬起来
 
@@ -14346,7 +14221,6 @@
 \sn 2
 \ge au moment où 
 \gn 的时候 
-\hbf *kɤndʑɯxtɤɣ.90 
 \xv ɲɯ-nɤqambɯmbjom ɯ-khɯkha ʑo ju-βji 
 \xn 小鸟飞的时候，隼来追它 
 \nqr
@@ -14478,7 +14352,6 @@
 \pdv pɯ
 \ge terrible 
 \gn 厉害 
-\hbf *kɤndʑɯsqhɤj.72 
 \xv a-mu kɯ "a-ku ɯ-tɯ-mŋɤm kɯ ɯ-ndzɯɣ ʑo ɲɯ-maʁ" 
 \xn 妈妈说“我头疼得很厉害”
 \xv jisŋi kɤntɕhaʁ tɯrme ɯ-tɯ-dɤn kɯ ɯ-ndzɯɣ ɲɯ-maʁ 
@@ -14491,7 +14364,6 @@
 \ps n
 \ge suivre sans relâche 
 \gn 紧紧地跟着 
-\hbf *qachɣa.106
 
 \lx ɯntɕe
 \ps cnj
@@ -14654,7 +14526,6 @@
 \ge génération, au moment de 
 \gn 年代，正当那个时候 
 \et riŋ
-\hbf *thaχtsa.72
 
 \lx ɯ-rcharchɤβ
 \ps np
@@ -14702,7 +14573,6 @@
 \ps n
 \ge ingrat, mauvais 
 \gn 脾气很坏，做亏心事 
-\hbf *zrɤntɕɯ.52 
 \xv nɤ-rka ɯ-tɯ-ŋɤn 
 \xn 你很坏
 \dt 20/May/2013
@@ -14768,7 +14638,6 @@
 \ps n
 \ge enceinte (jument) 
 \gn 怀孕（马） 
-\hbf *tɤruʁnɯs.121 
 \xv rgonma ɯ-rti kɯ-mbro 
 \xn 快要生的母马
 \xv mbro ɯ-rti kɯ-tu
@@ -14810,14 +14679,12 @@
 \ps np
 \ge nationalité, race 
 \gn 族 
-\hbf *smɤnmi.9 
 \et rigs
 
 \lx ɯ-rɯru
 \ps np
 \ge juste à ce moment 
 \gn 刚刚在那一段时间 
-\hbf *thaχtsa.89
 
 \lx ɯ-rɯz
 \ps np
@@ -14827,7 +14694,6 @@
 \sn 2
 \ge clairvoyance
 \gn 预见
-\hbf *ɲimawozɤr.101 
 \et rigs
 \xv nɤki rɤjndoʁ ɯ-rɯz ɲɯ-ŋu 
 \xn 这是大头菜的一种 
@@ -14916,7 +14782,6 @@
 \ps np
 \ge prétexte 
 \gn 借口 
-\hbf *lɯlu.67
 
 \lx ɯ-scawa
 \ps np
@@ -14931,7 +14796,6 @@
 \ps np
 \ge à la place de 
 \gn 替 
-\hbf *qachɣa.5 
 \et skʲi
 \xv nɤ-sci aʑo ju-ɕe-a 
 \xn 我替你去
@@ -14983,7 +14847,6 @@
 \ps np
 \ge endroit où les fils se croisent (pendant le tissage) 
 \gn 线上下交叉的地方（织布的时候） 
-\hbf *thaχtsa.36
 \dt 20/May/2013
 
 \lx ɯ-srɯβ
@@ -15030,7 +14893,6 @@
 \ps np
 \ge endroit en face 
 \gn 对面的地方 
-\hbf *qalakɯɕqraʁ.31
 
 \lx ɯ-stu²
 \wav8 nAstutAfse
@@ -15178,7 +15040,6 @@
 \ps np
 \ge à la place de, tout juste 
 \gn 代替、刚好 、属于
-\hbf *tɤrɯʁnɯs.165 
 \xv ki wɯɟa ki ndʑu ɯ-tshɤt ŋu
 \xn 调羹是可以代替筷子的
 \xv a-tshɤt ɣɯ-tu-βze ɲɯ-ŋu 
@@ -15380,14 +15241,12 @@
 \ps adv
 \ge à part 
 \gn 另外 
-\hbf *ɲimawozɤr.129
 \dt 24/Sep/2012
 
 \lx ɯʑɯʑur
 \ps n
 \ge au moment de; en même temps que 
 \gn ……的时候，一边……一边 
-\hbf *srɤs.54
 
 \lx waji
 \ps n
@@ -15555,7 +15414,6 @@
 \ps n
 \ge bâton très fin 
 \gn 又细又短的小木棒 
-\hbf *koŋzoŋ.155
 
 \lx xɕelwi
 \ps n
@@ -15761,7 +15619,6 @@
 \ps n
 \ge toute sorte de 
 \gn 各种各样 
-\hbf *kɤndʑɯxtɤɣ.77
 
 \lx xtʂoŋxtʂoŋ
 \ps idph.2
@@ -15837,7 +15694,6 @@
 \ps adv
 \ge un peu 
 \gn 稍微，一点点 
-\hbf *srɤs.45
 
 \lx χawo
 \ps intj
@@ -15857,7 +15713,6 @@
 \ps idph.3
 \ge marcher d'un pas assuré 
 \gn 形容走路步伐稳健的样子 
-\hbf *kɤndʑɯsqhɤj.64
 
 \lx χɤlχɤl
 \wav ideo-XAl-b
@@ -16044,7 +15899,6 @@
 \ps n
 \ge yojana
 \gn 由旬，长度单位（非常远） 
-\hbf *smɤnmi.21 
 \et dpag.tsʰad
 \dt 21/May/2014
 
@@ -16103,7 +15957,6 @@
 \ps n
 \ge moine qui garde la chapelle 
 \gn 守佛堂的和尚 
-\hbf *kɯɕar.378 
 \et gsol.ka.ba
 
 \lx χsɤltɕhɯ
@@ -16138,7 +15991,6 @@
 \ps n
 \ge or noir 
 \gn 黑色的金
-\hbf *srɤs.34 
 \et gser.nag
 \dt 25/Nov/2014
 
@@ -16326,7 +16178,6 @@
 \ps n
 \ge Hor 
 \gn 霍尔 
-\hbf *kɯɕar.334 
 \et hor
 
 \lx χwɤrχwɤr
@@ -16378,7 +16229,6 @@
 \ps n
 \ge nourriture pour les morts 
 \gn 供应死人的食物 
-\hbf *koŋzoŋ.249 
 \et zan po.?
 
 \lx zbrilu
@@ -16399,7 +16249,6 @@
 \ps idph.1
 \ge bruit d'une falaise qui s'écroule 
 \gn 形容房间里突然密闭昏闷的感觉，或岩石突然倒塌的声音 
-\hbf *kɯsɤr.137 
 \xv kɯm zbɯɣ ʑo ta-stu 
 \xn 他关了门，房间里一下子就闷了起来
 
@@ -16413,7 +16262,6 @@
 \ps n
 \ge flèche 
 \gn 箭 
-\hbf *kɯsɤr.137
 
 \lx zdoŋbu
 \ps n
@@ -16436,7 +16284,6 @@
 \ps n
 \ge acceptable à la rigueur 
 \gn 勉强，不理想 
-\hbf *kɯsɤr.6 
 \et sdug.tʰug
 \xv a-kɤ-nɤma zdɯxthɯɣ ʑo nɯ-sthɯ́t-a 
 \xn 我把工作完成得差强人意
@@ -16524,7 +16371,6 @@
 \ps n
 \ge nom d'une fête vx. 
 \gn 看花节 
-\hbf *smɤnmi.2
 
 \lx zgoŋzgoŋ
 \ps idph.2
@@ -16657,7 +16503,6 @@
 \ps n
 \ge eau (honorifique) 
 \gn 水（敬语） 
-\hbf *tɤruʁnɯs.10 
 \et slob.tɕʰu
 \dt 20/May/2014
 
@@ -16833,7 +16678,6 @@
 \ps adv
 \ge presque 
 \gn 差一点 
-\hbf *srɤs.109 
 \xv rdɤstaʁ ta-lɤt, zɯmi ʑo jɯ-tɤ́-wɣ-tsɯɣ-a 
 \xn 差一点打到了我
 \xv zɯmi ɲɯ-naχtɕɯɣ
@@ -16929,7 +16773,6 @@
 \ps n
 \ge chacun 
 \gn 各自 
-\hbf *tɤrɯʁnɯs.111 
 \xv ʑaka tu-nɯsaχsɯ-tɕi ɕti
 \xv ʑaka kɤ-nɯ-βzu mɯ-rtaʁ-tɕi 
 \xn
@@ -16938,7 +16781,6 @@
 \ps n
 \ge par soi-même, chacun dans son coin 
 \gn 各自各地 
-\hbf *thaχtsa.36 
 \xv mɯntoʁ ʑakastaka ɯ-mdoʁ xcat ʑo ɕti
 \xn 花有各种各样的颜色 
 \xv iʑora ʑakastaka ji-ma nɯ-nɤma-j ra 
@@ -16977,7 +16819,6 @@
 \ps n
 \ge jour 
 \gn 天 
-\hbf *srɤs.7 
 \et ʑag
 \xv ʑaʁ χsɤ-rʑaʁ 
 \xn 三天 
@@ -16996,7 +16837,6 @@
 \ps n
 \ge bientôt 
 \gn 快要 
-\hbf *qɤjdoskɤt.50
 \xv dian ʑatsa arɕo ɲɯ-ŋu
 \xn 快没有电了
 \dt 02/Jul/2012
@@ -17009,7 +16849,6 @@
 \sn 2
 \ge pendant longtemps
 \gn 很久
-\hbf *kɤndʑɯxtɤɣ.10
 \xv ʑaʑa ʑo jɤ-azɣɯt-a
 \xn 我早就到了
 \xv ʑaʑa ʑo mɯ-jɤ-azɣɯt
@@ -17036,7 +16875,6 @@
 \ps adv
 \ge tout juste 
 \gn 刚好 
-\hbf *tɯxtsa.0 
 \xv jisŋi tɕe, tɯ-sla ʑgaʁ ʑo tu-tsu ŋu
 \xn 到今天就刚好满一个月了 
 \xv kɯtʂɤɣ ɯ-taʁ kɯβde pjɯ́-wɣ-ta tɕe, sqi ʑgaʁ ŋu 
@@ -17054,7 +16892,6 @@
 \ps n
 \ge certainement 
 \gn 一定 
-\hbf *qɤjdorju.34
 \dt 04/Jan/2015
 
 \lx ʑɣɤrʑɣɤr
@@ -17082,7 +16919,6 @@
 \ps n
 \ge la terre entière, beaucoup, un long moment, domaine 
 \gn 很多、很长时间、全世界、管辖区 
-\hbf *ɲimawozɤr.92 
 \et ʑiŋ.kʰams
 
 \lx ʑiwarɯmtɕhɤt
@@ -17232,7 +17068,6 @@
 \ps idph.2
 \ge beaucoup de chose dressées, beaucoup de gens debout 
 \gn 形容很多人、东西、动物等密密麻麻地站着的样子
-\hbf *kɯsɤr.280 
 \xv tɤ-rtsho ʑɯβʑɯβ ʑo ɲɯ-pa
 \xn 麦桩密密麻麻地立在那里
 \xv tɯrme ʑɯβʑɯβ ʑo ɲɯ-ndzur-nɯ 
@@ -17269,7 +17104,6 @@
 \ps adv
 \ge progressivement 
 \gn 渐渐 
-\hbf *kɤndʑɯxtɤɣ.91 
 \xv ʑɯrɯʑɤri tɕe chɯ-chɯ-mɤɕi-ndʑi nɤ chɯ-chɯ-mɤɕi-ndʑi
 \xn 他们俩逐渐变得越来越富裕
 \nqr
@@ -17735,7 +17569,6 @@
 \pdv tɤ-
 \ge se refroidir (objet), s'être bien reposé
 \gn 冷却（东西）、休息好了
-\hbf *sqar.117
 \xv tʂha nɯ-afɕu koʁmɯz kú-wɣ-tshi ra
 \xn 茶要凉一点喝
 \xv ki ɲɯ-sɤɕke tɕe, a-nɯ-ɤfɕu ɲɯ-ntshi
@@ -18000,7 +17833,6 @@
 \pdv tɤ-
 \ge se préparer 
 \gn 准备 
-\hbf *ɲimawozɤr.89 
 \pdl construction 
 \pdv S/A.participle
 \xv ku-oɣɯɣu-a 
@@ -18136,7 +17968,6 @@
 \pdv tɤ-
 \ge cohérent, suivi
 \gn 连贯（话） 
-\hbf *kɯsɤr.214 
 \xv li to-kɤ-ɣɯmphɯmphru-ci
 \xn 又变得连贯（连续不断）了
 \xv nɯɕɯŋgɯ ɯ-rju pɯ-aɣɯmphɯmphru ri, tham tɕe mɯ-ɲɤ-cha 
@@ -18599,7 +18430,6 @@
 \ge être le bienfaiteur 
 \gn 有恩 
 \et drin
-\hbf *tɯxtsa.111 
 \xv jɯfɕɯndʐi wuma pjɤ-kɤɣɯtʂɯn-ci
 \xn 他前几天（对别人）有恩
 \xv a-taʁ tɯ-aɣɯtʂɯn 
@@ -19039,7 +18869,6 @@
 \pdv nɯ-
 \ge être connecté 
 \gn 连在一起 
-\hbf *koŋzoŋ.328
 \xv jiɕqha laχtɕha nɯ ɲɯ-ɤlɤɣɯ-ndʑi
 \xn 这两个东西是连在一起的
 \xv tɤ-ri nɯ ɲɤ-kɤlɤɣɯ-ndʑi-ci tɕe nɯ-rla-t-a
@@ -19357,7 +19186,6 @@
 \pdv nɯ-
 \ge moëlleux (tissus) 
 \gn 松软[泡]（绒布） 
-\hbf *thaχtsa.6
 \xv smɤɣ ɲɤ-saʁ tɕe ɲɯ-ɤmŋaʁ
 \xn 羊毛梳了以后就很软
 \xv ɲɤ-kɤmŋaʁ-ci
@@ -19642,7 +19470,6 @@
 \pdv tɤ-
 \ge se parler 
 \gn 彼此说 
-\hbf *ɲimawozɤr.70
 \xv tɕhi kɯfse nɯ kɤ-ɤmɯti ra ma nɯ mɤɕtʂa mɤ-kɤ-ɤmɯtso
 \xn 有什么事情要互相说，才能互相理解
 \xv iʑora tɕhi kɯfse nɯra tɤ-amɯti-j
@@ -19998,7 +19825,6 @@
 \pdv tɤ-
 \ge se manger les uns les autres, se faire du mal les uns aux autres 
 \gn 互相吃，互相伤害 
-\hbf *smɤnmi.25
 \xv jiɕqha nɯ to-kɤnɯmqɤj-ndʑi tɕe tu-ondzɯndza-ndʑi ɲɯ-ŋu
 \xn 他们俩吵架了，互相伤害对方
 \cf ndza
@@ -20593,7 +20419,6 @@
 \pdv nɯ-
 \ge plat 
 \gn 平整 
-\hbf *sqar.9
 \xv khɤxtu ɲɯ-ɤpjɤntɤm
 \xn 房背是平的
 \se sɤpjɤntɤm
@@ -20620,7 +20445,6 @@
 \pdv tɤ-
 \ge prospère 
 \gn 美满 
-\hbf *qachɣa.185 
 \xv nɯnɯ tɯrme nɯ nɯ ɕɯŋgɯ tɕe wuma ʑo pɯ-ŋgɯ ri, tham tɕe chɤ-mɤɕi tɕe cho-kɤpupu-ci
 \xn 那个人以前很穷，现在变得很富有了
 \dt 24/Aug/2012
@@ -21071,7 +20895,6 @@
 \pdv thɯ-
 \ge finir 
 \gn 完、用光了
-\hbf *ɲimawozɤr.92
 \xv tʂha thɯ-arɕo
 \xn 没有茶了
 \xv kɤndza chɯ-ɤrɕo
@@ -21136,7 +20959,6 @@
 \pdv tɤ-
 \ge parler 
 \gn 说话 
-\hbf *kɯsɤr.165
 \xv ɲɯ-tɯ-ɤrju tɕe pɯ-kɯ-sɯmtsham-a
 \xn 你说话，让我听见了
 \xv nɯ ɲɯ-ɤrju
@@ -21661,7 +21483,6 @@
 \pdv pɯ-
 \ge avoir à boire, avoir à manger 
 \gn 喝到，吃到 
-\hbf *ɲimawozɤr.58 
 \xv tɤ-ndza-t-a tɕe pɯ-aʁe-a 
 \xn 我吃到了
 \xv paχɕi to-χtɯ ri mɯ-pɯ-aʁe-a
@@ -21739,7 +21560,6 @@
 \pdv nɯ-
 \ge nu, vide (lieu) 
 \gn 光秃秃 
-\hbf *kɤndʑɯxtɤɣ.32
 \cf aʁɟa
 \dt 12/Apr/2011
 
@@ -22037,7 +21857,6 @@
 \pdv nɯ-
 \ge être sali 
 \gn 沾上（脏东西、水） 
-\hbf *thaχtsa.87 
 \xv ɯ-taʁ ɲɤ-kɤtɕaʁ-ci
 \xn 沾在上面了
 \xv a-ŋga ɯ-taʁ tɤndʑɯɣ ɲɤ-kɤtɕaʁ-ci
@@ -22129,7 +21948,6 @@
 \pdv _
 \ge se produire en même temps 
 \gn 几件事同时进行、状况没有改变
-\hbf *kɯsɤr.200 
 \xv nɤ-kɯ-mŋɤm kɯ-mna ɯ-ɲɯ-ɤtɕitʂi
 \xn 你的病继续好转吗？
 \xv ɲɯ-ɤtɕitʂi ɕti
@@ -22293,7 +22111,6 @@
 \pdv pɯ-
 \ge avoir le temps 
 \gn 来得及 
-\hbf *qachɣa.174 
 \xv nɤ-kɯ-mŋɤm a-tɤ-mna tɕe, kɤ-nɤma atsɯtsu ɕti wo 
 \xn 你的病康复了，工作还来得及做。
 \cf tsu
@@ -22612,7 +22429,6 @@
 \pdv tɤ-
 \ge courber le dos 
 \gn 弯下腰、鞠躬
-\hbf *koŋzoŋ.74 
 \xv jiɕqha tɯrme nɯ ɲɯ-ɤzgrɯ
 \xn 那个人弯着腰
 \xv to-kɤzgrɯ-ci
@@ -24106,7 +23922,6 @@
 \ge tourner vers 
 \gn 朝向、对着
 \gn 接住（水）
-\hbf *qalakɯɕqraʁ.52
 \xv ɯʑo kɯ ko-ɕthɯz, ka-ɕthɯz
 \xn 对着他，朝向他
 \xv nɤ-ɕki ku-ɕthɯza
@@ -24540,7 +24355,6 @@
 \pdv kɤ-
 \ge faire dormir, fermenter le vin 
 \gn 使人睡、使人躺下、发酵（酒） 
-\hbf *ɲimawozɤr.51 
 \xv kɤ-ɕɯrŋgɯ-t-a , kɤ-tɯ-ɕɯrŋgɯ-t, kaɕɯrŋgɯ
 \xn 我让他睡了，你让他睡了，他让他睡了
 \xv tɤ-pɤtso nɯʑɯβ ɲɯ-ŋu tɕe kɤ-ɕɯrŋgɯ-t-a
@@ -24637,7 +24451,6 @@
 \pdv tɤ-
 \ge se repentir, rembourser
 \gn 忏悔、赔偿
-\hbf *kɤndʑɯsqhɤj.77 
 \et bɕags
 \xv tɤ-fɕaʁ-a
 \xn 我忏悔了
@@ -24950,7 +24763,6 @@
 \pdv pɯ-
 \ge établir 
 \gn 创造、创建、设计 
-\hbf *ndzaʁlaŋ.71 
 \et bkod
 \xv pɯ-fkot-a
 \xn 我创建了
@@ -25174,7 +24986,6 @@
 \pdv nɯ-
 \ge gagner (de l'argent) 
 \gn 挣（钱） 
-\hbf *sqar.71 
 \et bsogs
 \xv (tɯ-rɟɯ) nɯ-fso-ʁa
 \xn 我挣了（钱）
@@ -25273,7 +25084,6 @@
 \pdv kɤ-
 \ge servir 
 \gn 伺候、照顾
-\hbf *qɤjdorju.47 
 \et bstun
 \xv kɤ-fstɯn-a
 \xn 我照顾了他
@@ -25298,7 +25108,6 @@
 \ge rendre la monnaie 
 \gn 退还多余的部分，退零钱 
 
-\hbf *qachɣa.186 
 \et gsug.pa
 \xv aʑo nɯ-fsɯɣ-a
 \xn 我还了
@@ -25530,7 +25339,6 @@
 \pdv tɤ-
 \ge empiler des pierres pour faire une marque 
 \gn 把石头立起来做标记
-\hbf *kɯsɤr.125 
 \et btsug
 \xv iʑo kɤ-ftsɯɣ-i
 \xn 我们建立了
@@ -25786,7 +25594,6 @@
 \pdv thɯ-
 \ge bavard, racontant n'importe quoi 
 \gn 多嘴、乱说
-\hbf *qaɕpa.189
 \xv pɯ-ɣɤcaʁcaʁ-a
 \xn 我以前多嘴
 \xv pɯ-tɯ-ɣɤcaʁcaʁ
@@ -25804,7 +25611,6 @@
 \pdv tɤ-
 \ge piailler (oiseau), prendre la parole sans arrêt (enfant) 
 \gn 叫（鸟），不停地插嘴（小孩子） 
-\hbf *qachɣa.168
 
 \xv ma-tɯ-ɣɤcɤtcɤt
 \xn 你不要不停地插嘴
@@ -26114,7 +25920,6 @@
 \pdv nɯ-
 \ge augmenter 
 \gn 增多 、增加
-\hbf *qɤjdorju.10 
 \xv tɤ-ɣɤdan-a
 \xn 我加了
 \xv tɤ-tɯ-ɣɤdɤn
@@ -26650,7 +26455,6 @@
 \pdv tɤ-
 \ge forcer quelqu'un à faire quelque chose qu'il n'a pas envie de faire
 \gn 让别人做 (他不愿意做的事情)
-\hbf *kɯsɤr.61
 \xv tɤ-ɣɤkhɯ-t-a
 \xn 我让他同意了
 \xv kɯm tɤ-ɣɤβdi-t-a tɕe, kɤ-cɯ tɤ-ɣɤkhɯ-t-a
@@ -26780,7 +26584,6 @@
 \pdv tɤ-
 \ge avoir beaucoup d'épines 
 \gn 有刺
-\hbf *qaɕpa.221
 \xv zɲɟa ɲɯ-ɣɤmdzu
 \xn 黄刺泡儿有刺
 \cf tɤ-mdzu
@@ -26849,7 +26652,6 @@
 \pdv tɤ-
 \ge guérir une maladie 
 \gn 治病 
-\hbf *kɯsɤr.16
 \xv tɤ-ɣɤmna-t-a
 \xn 我治了病
 \xv tɤ-tɯ-ɣɤmna-t
@@ -27167,7 +26969,6 @@
 \pdv tɤ-
 \ge très liquide (boue)
 \gn 泥巴很稀
-\hbf *smɤnmi.145
 \xv ɲɯɣɤrcoʁ tɕe ɲɯ-ɣɤɲɟɤrɲɟɤr ʑo
 \xn 泥巴很稀
 \xv ɯ-tɯ-tshu ɲɯ-ɣɤɲɟɤrɲɟɤr
@@ -27340,7 +27141,6 @@
 \pdv tɤ-
 \ge briller par intermitence, bouillir (eau) 
 \gn 闪光、水沸腾翻滚的样子 
-\hbf *tɯxtsa.34 
 \xv tʂha ɲɯ-ɤla ɲɯ-ɣɤpɯplɯɣ
 \xn 茶在沸腾
 \xv tɯ-ci tu-ola tu-ɣɤpɯplɯɣ ɲɯ-ŋu
@@ -28081,7 +27881,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge réparer 
 \gn 修理 
-\hbf *kɯɕar.325 
 \xv qaʁ ɯ-jɯ mɯ́j-sna tɕe nɯ-βzu-t-a tɕe tɤ-ɣɤsna-t-a
 \xn 锄头的把子不好，我把它修好了
 \xv tʂha kɤ-ta-t-a tɕe kɤ-ɣɤsna-t-a
@@ -28887,7 +28686,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge battre le lait 
 \gn 搅牛奶、打酥油
-\hbf *kɤndʑɯxtɤɣ.9
 \xv pɯ-ɣɟaβ-a
 \xn 我搅了（牛奶）
 \xv ɯʑo kɯ tɤ-lu na-ɣɟaβ
@@ -29093,7 +28891,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge mettre dans sa poche, conserver dans le grenier 
 \gn 装在口袋里、储存在仓库里 
-\hbf *sqar.107
 \xv tɯjpu nɯ tɤ-ɣɯfkɯm-a
 \xn 我把粮食装在口袋里了
 \xv qha laχtɕha nɯ tɤ-ɣɯfkɯm-a
@@ -29589,7 +29386,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge couler 
 \gn 流出来、倒出来、洒（水） 
-\hbf *koŋzoŋ.308
 \xv tɯ-rŋa sɤmar nɯ pjɤ-jit
 \xn 擦脸的（液体）倒了
 \xv jiɕqha phoŋ ɯ-ŋgɯ cha nɯ pjɤ-jit
@@ -31144,7 +30940,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge se marier (fille) 
 \gn 嫁人 
-\hbf *tɤrɯʁnɯs.147
 \xv ɯ-me nɯ-mɤrʑaβ
 \xn 他女儿结了婚
 \dt 24/Aug/2012
@@ -31693,7 +31488,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge entier, complet (un objet) 
 \gn 完整（指一个物体，不能表示零散的东西聚齐） 
-\hbf *sqar.25
 \xv tɯ-ndʐi ɲɯ-mdoʁmdi
 \xn 皮子是完整的
 \cf mdi
@@ -31918,7 +31712,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge être bon à 
 \gn 擅长 
-\hbf *qɤjdorju.9 
 \et mkʰas
 \xv ɕoŋβzu ɲɯ-mkhɤz
 \xn 木匠很厉害
@@ -31981,7 +31774,6 @@ da.lie 打猎
 \ge avoir la tête tournée dans une certaine direction dans son lit
 \gn 头朝着（哪个方向）睡
 \un 这个动词干木鸟话很少用，主要是大藏话，干木鸟话一般说{alo lɤ-ru-a}、{athi thɯ-ru-a}表达这种意思
-\hbf *rkoŋrɟɤl2.14 
 \xv soz tɤ-tɕɯ nɯ rɤru tɤkha tɕe , tɕheme nɯ ɣɯ ɯ-jme pɕoʁ nɯ tɕu ntsɯ chɯ-mkɯm pjɤ-ŋu 
 \xn 早上，那个男孩子起来的时候，发现自己的头总是朝着他妻子的脚（独角鬼13）
 \cf tɤ-mkɯm
@@ -32226,7 +32018,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge content et rassuré 
 \gn 满意、放心 
-\hbf *qachɣa.99
 \xv laχtɕha nɯ-kɯ-mbi-a nɯ pɯ-mŋɯn
 \xn 你给了我的东西，我很满意（我很需要这个东西）
 \xv kɯ-mŋɯn maŋe
@@ -32263,7 +32054,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge reprocher, ne pas pouvoir pardonner 
 \gn 责怪
-\hbf *kɤndʑɯsqhɤj.80 
 \et ɴpʰʲa
 \xv nɤʑɯɣ nɯ mɯ-tɤ-nɤma-t-a tɕe ma-tɤ-kɯ-mpɕa-a a ma
 \xn 你的那个我没有做，不要责怪我
@@ -32890,7 +32680,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge avoir soif et faim 
 \gn 又饿又渴 
-\hbf *srɤs.55
 \xv ɯʑo ʁo mtsɯrɕpaʁ ntsɯ ɕti kɯ
 \xn 他一直又饿又渴的样子
 \dt 24/Aug/2012
@@ -33131,7 +32920,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge détester 
 \gn 讨厌、排挤、排斥
-\hbf *rkoŋɟɤl1.11
 \dt 26/Aug/2012
 \xv ɲɯ́-wɣ-naʁdaz-a
 \xn 他讨厌我、想排挤我
@@ -33226,7 +33014,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge avoir besoin de 
 \gn 需要用 
-\hbf *koŋzoŋ.157 
 \xv ɲɯ-naʁzi
 \xn 他需要
 \xv tɯrme kɯ-dɤn tsa naʁzi-a
@@ -33340,7 +33127,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge devenir ami 
 \gn 结为伴侣 
-\hbf *rkoŋrɟɤl2.1
 \xv kɯ-mɤku ɯ-rʑaβ nɯ ɲɤ-βde tɕe kɯ-maqhu kɯmaʁ ci ko-naχti
 \xn 他跟原来的妻子离了婚，跟另外一个结为伴侣了
 \cf tɯ-χti
@@ -33473,7 +33259,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge faire sécher pendant plusieurs jours en retournant régulièrement 
 \gn 晒几天，翻来覆去地晒 
-\hbf *sqar.84
 \xv stoʁ staʁpɯ ɲɤ-kɤci tɕe, jisŋi na-nɤɕkhɯɕkho
 \xn 胡豆和豌豆湿了，所以他今天把它们晒干了
 \xv tɯ-ŋga mɯ-tɤ-kɯ-zbaʁ ri, jisŋi na-nɤɕkhɯɕkho
@@ -33991,7 +33776,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge être utile 
 \gn 用得着 
-\hbf *kɤndʑɯxtɤɣ.71 
 \xv ki ɯ-ʁɤri aʑo nɯ-ɕar-a, aʑɯɣ pɯ-tu tɕe, pɯ-nɤjtshɯ
 \xn 我以前找了这个东西，后来有了就不用再找
 \xv ki @lunyinji nɤʑɯɣ ɣɤʑu tɕe, jisŋi ɕɯ-kɤ-χtɯ mɯ́j-ra, ɲɯ-nɤjtshɯ
@@ -34142,7 +33926,6 @@ da.lie 打猎
 \ps vi
 \ge maltraiter les autres 
 \gn 欺负人 
-\hbf *βʑar.12
 \xv jiɕqha tɯrme kɯ-sɤnɤkhe ci ɲɯ-ŋu
 \xn 那个人总是欺负别人的
 \dt 17/Jan/2013
@@ -34391,7 +34174,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge brillant 
 \gn 发光 
-\hbf *tɯxtsa.37 
 \xv tɤŋe ɲɯ-nɤmbju
 \xn 太阳在发光
 \xv tɤtʂu nɤmbju
@@ -34580,7 +34362,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge trouver beau 
 \gn 觉得漂亮 
-\hbf *thaχtsa.85 
 \xv nɤʑo ɲɯ-ta-nɤmpɕɤr
 \xn 我觉得你很漂亮
 \xv jiɕqha tɕheme nɯ ɲɯ-nɤmpɕar-a
@@ -34626,7 +34407,6 @@ da.lie 打猎
 \pdv _
 \ge faire l'un après l'autre 
 \gn 一个挨着一个地做 
-\hbf *tɤmu.49 
 \un 根据语境，{nɤmphruʑa}可以附加不同的趋向前缀，如例句里面{kú-wɣ-nɤmphruʑa}有{kɤ-}前缀，和动词{rtoʁ}“看”一样
 \xv kɯki ta-ma ki rcanɯ tɤ-nɤmphruʑa-t-a ʑo
 \xn 我把任务一个接着一个的做了
@@ -34896,7 +34676,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge se disputer 
 \gn 争论 、争吵
-\hbf *lɯlu.53 
 \xv jiɕqha nɯ cho tɤ-anɯmqɤj-tɕi tɕe tɤ-nɤndɯt-tɕi
 \xn 我跟这个人吵架了，争吵了
 \xv laχtɕha tɤ-nɤndɯt-tɕi
@@ -34955,7 +34734,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge avoir froid, être frileux
 \gn 觉得冷，怕冷
-\hbf *koŋzoŋ.24
 \xv qartsɯ tɕe kɯ-nɤndʐɤrqɯ ŋgrɤl
 \xn 冬天的时候人觉得冷
 \se znɤndʐɤrqɯ
@@ -35212,7 +34990,6 @@ da.lie 打猎
 \pdv _
 \ge passer 
 \gn 走来走去 
-\hbf *qɤjdorju.84
 \xv aki @bazi ɯ-ŋgɯ ɲɯ-nɤŋkɯŋke
 \xn 他在下面的坝子里走来走去
 \xv tshɯrɟɯn ɕ-tu-nɤŋkɯŋke-a ŋu ri, ɕɤxɕo kɯkɯra mɤʑɯ tʂu, kɤntɕhaʁ ra ku-oz-ɣɤβdi-nɯ tɕe, sɤŋke khro maŋe wo
@@ -35735,7 +35512,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge tenir, supporter 
 \gn 坚持 
-\hbf *ɲimawozɤr.47 
 \xv tɤ-nɤrko-t-a
 \xn 我坚持了
 \xv ɤj ɲɯ-ngo-a ri tɤ-nɤrko-t-a
@@ -36364,7 +36140,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge admirer 
 \gn 羡慕 
-\hbf *qɤjdorju.11 
 \xv a-zda ra nɯ ɲɯ-ɤro-nɯ tɕe ɲɯ-nɤsme-a-nɯ
 \xn 他们拥有那个东西，我很羡慕他们
 \xv jilco ra kɯ wuma ʑo pjɤ́-wɣ-nɤsma-ndʑi 
@@ -36437,7 +36212,6 @@ da.lie 打猎
 \pdv _
 \ge tirer d'un seul coup 
 \gn 用力一拉 、一下子拉
-\hbf *qalakɯɕqraʁ.14
 \xv nɤ-kɤcu nɯ nɯ-nɤstɤr
 \xn 你用力拉了你那边的那个东西
 \xv akɤcu laχtɕha nɯ-nɤstar-a
@@ -36882,7 +36656,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge remercier, avoir de la reconnaissance pour
 \gn 感激 
-\hbf *qɤjdorju.95 
 \et drin
 \xv nɯ-nɤxtʂɯn-a
 \xn 我很感激了
@@ -36987,7 +36760,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge inviter quelqu'un à aller avec soi (si l'on est déjà parti) 
 \gn 陪伴、请别人跟自己一同去
-\hbf *rkoŋrɟɤl1.3 
 \xv aʑo tɤ-nɤzda-t-a
 \xn 我陪了他
 \xv ɯʑo kɯ tɤ́-wɣ-nɤzda
@@ -37473,7 +37245,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge manger et boire 
 \gn 吃喝 
-\hbf *koŋzoŋ.91
 \xv ɯʑo kɯ tɯ-mgo ra to-ndzɤtshi
 \xn 他把饭吃了
 \dt 24/Aug/2012
@@ -37579,7 +37350,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge être prêt 
 \gn 准备好了，正要出发 
-\hbf *qachɣa.32
 \xv kɤ-ɕe pɤjkhu mɤ-ndzu-a
 \xn 我还没有准备出发
 \xv kɤ-ɕe tɤ-ndzu-a
@@ -37810,7 +37580,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge être détruit 
 \gn 灭亡 
-\hbf *kɤndʑɯxtɤɣ.1 
 \et ɴdʑig
 \xv skalpa ɲɤ-ndʑɯɣ 
 \xn 世界灭亡了、时代变了
@@ -38016,7 +37785,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge éclairer 
 \gn 映照 
-\hbf *kɯsɤr.146 
 \et ɴtɕʰar
 \xv @dianying ko-ntɕhɤr
 \xn 电影上映了
@@ -38135,7 +37903,6 @@ da.lie 打猎
 \pdv _
 \ge rôder
 \gn 流浪 
-\hbf *smɤnmi.6 
 \et ɴtʰor
 \xv mbro ɯ-zda maŋe tɕe ɲɤ-nthor
 \xn 马离了群就流浪
@@ -38196,7 +37963,6 @@ da.lie 打猎
 \ps vs
 \ge mieux valloir que, devoir 
 \gn 只好 
-\hbf *qɤjdorju.68 
 \dt 12/May/2013
 
 \lx _ntshoʁ
@@ -38444,7 +38210,6 @@ da.lie 打猎
 \ge boire sans se servir de ses mains 
 \gn 直接用嘴巴喝地下的水（不用手） 
 \un 一般指动物
-\hbf *koŋzoŋ.258
 \xv tɯ-ci ɯ-ŋgɯ pɯ-nɯci
 \xn 它喝了河流的水
 \xv cɯβloʁ pɯ-nɯci
@@ -38538,7 +38303,6 @@ da.lie 打猎
 \ps vi
 \ge tenir de, ressembler (à ses parents)
 \gn 遗传、像（父母）
-\hbf *taʁrdo.17
 \xv ɯ-wa ɲɯ-nɯɕɤrɤz
 \xn 他很像父亲
 \xv ɯ-phoŋbu ɯ-wa ɲɯ-nɯɕɤrɤz
@@ -38555,7 +38319,6 @@ da.lie 打猎
 \pdv anɯri
 \ge rentrer chez soi 
 \gn 回家 
-\hbf *qɤjdorju.27
 \xv nɤʑo tɯ-nɯɕe ɕi, nɤ-mu ɯ-ɕki ?
 \xn 你回不回家，你母亲那边？
 \cf ɕe
@@ -38604,7 +38367,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge se déguiser, imiter 
 \gn 打扮、模仿 
-\hbf *qaɕpa.6 
 \xv staʁthɤr kɯ ɯ-pi ta-nɯɕpɯz
 \xn 斯达塔尔学了他的哥哥
 \xv tɤ-pɤtso ra kɯ ʁmaʁmi ɲɯ-ɤz-nɯɕpɯz-nɯ
@@ -38725,7 +38487,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge s'inquiéter, ne pas vouloir faire (un travail) 
 \gn 怕麻烦、担心
-\hbf *srɤs.95
 \xv nɯ kɤ-nɤma aʑo ɲɯ-nɯfɕi-a ɕti
 \xn 我不想做这个这个工作，很怕麻烦
 \xv kɯki ɯ-tɯ-dɤn ɲɯ-tɕhom tɕe ɤj ɲɯ-nɯfɕi-a
@@ -38776,7 +38537,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge couler goutte à goutte 
 \gn 滴水
-\hbf *qaɕpa.210 
 \xv @kongtiao ɯ-ŋgɯ tɯ-ci ɲɯ-nɯftsaʁ
 \xn 空调在滴水
 \xv khɤxtu ɲɯ-nɯftsaʁ
@@ -39114,7 +38874,6 @@ da.lie 打猎
 \pdv _
 \ge ramener 
 \gn 拿回来 
-\hbf *ɲimawozɤr.150
 \xv sɯɴɢoʁ tɤ-nɯɣɯt-a
 \xn 我把干柴拿回来了
 \xv @yangyu tɤ-nɯɣɯt-a
@@ -39155,7 +38914,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge avoir comme passion 
 \gn 有这个爱好
-\hbf *srɤs.2 
 \et jon.tan
 \xv nɤ-mɲitsi kɤ-rɤβzjoz ntsɯ pɯ-tɯ-nɯjɤntɤn
 \xn 这一辈子你的爱好是学习
@@ -39438,7 +39196,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge convaincre, calmer, raisonner qqun 
 \gn 劝说 
-\hbf *qɤjdorju.41
 \xv ɲɯ-tɯ-anɯmqɤj-ndʑi tɕe nɯ-ta-nɯkhɤda
 \xn 你们俩吵架了，我劝了你一下了
 \dt 28/Dec/2014
@@ -39468,7 +39225,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge s'accroupir
 \gn 蹲 
-\hbf *qalakɯɕqraʁ.8
 \sy nɯkhaŋχɯ
 \xv ɲɯ-tɯ-nɯkhɤlɤmdzɯmdzɯ
 \xn 你是蹲着的
@@ -39558,7 +39314,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge accrocher et déchirer 
 \gn 钩住 、钩破
-\hbf *qaɕpa.227
 \xv kɤ-tɯ-ɤri nɤ ɲɯ-kɯ-nɯkhrɯɣ-a, nɯ-tɯ-ɣe nɤ ɲɯ-kɯ-nɯkhrɯɣ-a
 \xn 你过去就把我的衣服钩破，过来也把我的衣服钩破
 \xv si kɯ a-ŋga na-nɯkhrɯɣ
@@ -39661,7 +39416,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge préparer
 \gn 准备、想办法 
-\hbf *tɤmu.26
 \xv tɤ-nɯkowa-t-a
 \xn 我准备了
 \xv ku-oz-nɯkowa-a
@@ -40073,7 +39827,6 @@ da.lie 打猎
 \pdv _
 \ge manger en marchant 
 \gn 一边走一边吃 
-\hbf *koŋzoŋ.240
 \xv kɯ-chi ɲɯ-tɤz-nɯmdɯm
 \xn 你一边走一边吃糖
 \xv @paopaotang ɲɯ-tɯ-ɤznɯmdɯm
@@ -40165,7 +39918,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge porter sur le cou comme un collier 
 \gn 把某物体当项链戴在脖子上 
-\hbf *kɤndʑɯsqhɤj.14
 \xv laχtɕha thɯ-nɯmkɤɣɯr-a
 \xn 我把东西戴在脖子上了
 \xv ɯʑo kɯ laχtɕha tha-nɯmkɤɣɯr
@@ -40261,7 +40013,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge être impressionant 
 \gn 醒目耀眼 
-\hbf *qachɣa.120 
 \et mŋa
 \xv ɯ-ŋga ɲɯ-nɯmŋa
 \xn 他的衣服醒目耀眼
@@ -40582,7 +40333,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge ramasser les détritus
 \gn 捡废物 
-\hbf *koŋzoŋ.196
 \xv ɯ-thoʁ ra tɤ-nɯnthoʁnthɯɣ-a
 \xn 我捡了地上的垃圾
 \xv χanɯni ɕ-tu-nɯnthoʁnthɯɣ-a nɤ
@@ -40814,7 +40564,6 @@ da.lie 打猎
 \ge aller pour faire quelque chose 
 \gn 到处走做某件事情
 \un 不能把{nɯŋke}“走路去做”跟{ŋke}的为己式{nɯŋke}相混淆，前者是及物动词，后缀是不及物动词
-\hbf *srɤs.48 
 \xv @yangyu kɤ-χtɯ ɕ-pɯ-nɯŋke-t-a
 \xn 我为了去买土豆走了一趟
 \xv tɯ-ŋga kɤ-χtɯ ɕ-pɯ-nɯŋke-t-a
@@ -41297,7 +41046,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge subir un outrage 
 \gn 受气 
-\hbf *kɯsɤr.186
 \xv na-nɯrɤŋom
 \xn 他受了气
 \xv tɤ-nɤmqe-t-a tɕe ɲɯ-nɯrɤŋom
@@ -41481,7 +41229,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge se parer (de bijoux)
 \gn 打扮（一身带满装饰）
-\hbf *koŋzoŋ.246 
 \et rgʲan.tɕʰa
 \xv tɤ-nɯrɟɤntɕa-t-a
 \xn 我打扮了
@@ -41561,7 +41308,6 @@ da.lie 打猎
 \ng incorp
 \ge muer (mammifère) 
 \gn 脱毛 
-\hbf *taʁrdo.17
 \xv ji-fsapaʁ chɤ-pe, thɯ-nɯrmɤmbe
 \xn 我们家的牲畜身体很壮就换了毛 
 \xv nɯŋa thɯ-nɯrmɤmbe
@@ -41583,7 +41329,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge faire son intéressant 
 \gn 爱在人多的场合中表现自己[耍人来疯] 
-\hbf *kɯju.1
 \xv jiɕqha nɯ wuma nɯrmɤʑu
 \xn 那个人很喜欢表现自己
 \xv ma-tɤ-tɯ-nɯrmɤʑu
@@ -42124,7 +41869,6 @@ da.lie 打猎
 \ps vs
 \ge beau 
 \gn 美丽、漂亮
-\hbf *koŋzoŋ.62 
 \et skʲe.gzugs
 \xv jiɕqha nɯ mɯ́j-nɯscɯʁzɯɣ
 \xn 那个人不漂亮
@@ -42225,7 +41969,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge guérir 
 \gn 治病 
-\hbf *qalakɯɕqraʁ.5
 \xv nɯnɯ ɣɯ ɯ-jaʁ pjɤ-ɴɢraʁ tɕe to-nɯsmɤn
 \xn 他的手破了，（医生）就把它治好了
 \xv smɤnba kɯ to-nɯsmɤn
@@ -42317,7 +42060,6 @@ da.lie 打猎
 \ng incorp
 \ge cause du mal 
 \gn 伤害，陷害 
-\hbf *kɯsɤr.214
 \xv tɤ-nɯsnɯɲaʁ-a
 \xn 我陷害了他
 \xv jiɕqha nɯ kɯ tú-wɣ-nɯsnɯsɲaʁ-a ɲɯ-ŋu
@@ -42953,7 +42695,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge bloquer le chemin 
 \gn 挡路 
-\hbf *qachɣa.158
 \xv ma-tɤ-kɯ-nɯtʂɤqɤsti-a
 \xn 你不要挡我的路
 \cf sti¹
@@ -43130,7 +42871,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge avoir un tel tempérament, une telle habitude, une telle propention
 \gn 有这样的性格，有这样的习惯
-\hbf *kɯɕar.362 
 \xv ɯʑo ɲɯ-nɯxtɕhɤz
 \xn 他有那个习惯
 \xv nɤʑo kɯnɤ tɯ-nɯxtɕhɤz
@@ -43238,7 +42978,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge manger la nourriture pour les morts 
 \gn 吃死人的食物 
-\hbf *koŋzoŋ.249 
 \xv thɯ-nɯzɤsne 
 \xn 你去死吧！
 \cf zɤsna
@@ -43294,7 +43033,6 @@ da.lie 打猎
 \pdv _
 \ge se promener dans la montagne et admirer le paysage
 \gn 在山上观光
-\hbf *kɯsɤr.192
 \xv jiɕqha nɯ kɯ-nɯzgomdʑo jɤ-ari
 \xn 他去山上观光了
 \sy nɤmɲole
@@ -43929,7 +43667,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge être normalement ainsi 
 \gn 平时是这样 
-\hbf *qɤjdorju.33
 
 \lx _ŋgri
 \wav vi-Ngri
@@ -43999,7 +43736,6 @@ da.lie 打猎
 \ge s'énerver 
 \gn 生气 
 \un 必须和{tɤ-mbrɯ}“气”连用
-\hbf *tɤruʁnɯs.150 
 \xv a-taʁ ɯ-mbrɯ ɲɯ-ŋgɯ 
 \xn 他生我的气
 \se ɕɯŋgɯ
@@ -44611,7 +44347,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge avoir un bon effet 
 \gn 有效果 
-\hbf *rkoŋrɟɤl1.17 
 \et pʰan
 
 \lx _phɤr
@@ -45482,7 +45217,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge aider 
 \gn 帮助 
-\hbf *qachɣa.195
 \xv tɤ-qurɣa-t-a
 \xn 我帮了他
 \cf qur
@@ -45503,7 +45237,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge long (temps) 
 \gn 长（时间，路程） 
-\hbf *qachɣa.175 
 \et riŋ
 \xv ki ɲɯ-fse nɯ ɲɯ-raŋ 
 \xn 这样、那样
@@ -45598,7 +45331,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge bien traiter, accueillir chaleureusement 
 \gn 款待 
-\hbf *ndzaʁlaŋ.112 
 \xv jɯfɕɯr kɯ-mɯm to-sɤftɕaka tɤ́-wɣ-raχtɕaz-a
 \xn 他昨天做了好吃的，款待了我
 \xv ndʐuwa ta-raχtɕɤz
@@ -45875,7 +45607,6 @@ da.lie 打猎
 \ge écorcher
 \gn 剥皮（保持完整的皮子）
 \un 可以用干草填塞动物驱壳，保存动物原来的形状 
-\hbf *kɤndʑɯxtɤɣ.15 
 \xv thɯ-rɤɣdɯt-a, tha-rɤɣdɯt
 \xn 我剥了皮、他剥了皮
 \xv qala tha-rɤɣdɯt
@@ -45896,7 +45627,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge prendre pour prétexte 
 \gn 拿为借口 
-\hbf *lɯlu.66 
 \et len
 \xv nɯ aʑo tu-kɯ-rɤɣlan-a ɲɯ-ŋu
 \xn 你在怪我
@@ -45933,7 +45663,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge traiter une douleur en appliquant un objet chaud
 \gn 用热的东西治关节炎
-\hbf *qalakɯɕqraʁ.11
 \xv χtɕoŋ kɯ-tu nɯnɯ, kɯɕpaz ɯ-tʂɤm tɯ-χpɯm ɲɯ́-wɣ-mar tɕe, chɯ́-wɣ-ɣɤmpja tɕe kɤ-rɤɣrɯ kɤ-ti ɲɯ-ŋu
 \xn 关节炎患者在膝盖上涂旱獭油发热，这是治疗关节炎的方法
 \se zrɤɣrɯ
@@ -46121,7 +45850,6 @@ da.lie 打猎
 \ng denom
 \ge faire un nid 
 \gn 打窝 
-\hbf *βʑar.8
 \xv qɤjdo ɲɯ-rɤloʁ
 \xn 乌鸦在做巢
 \xv paʁ ɲɯ-rɤloʁ
@@ -46356,7 +46084,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge faire une retraite 
 \gn 闭关修行 
-\hbf *kɯɕar.326 
 \et bsɲen.mtsʰams
 \xv βlama ɲɯ-rɤntshom
 \xn 喇嘛在修行
@@ -46428,7 +46155,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge (faire de façon) incomplète 
 \gn （做得）不完整 
-\hbf *tɯxtsa.2 
 \xv jiɕqha pɯ-mdoʁmdi ri, pɯ-rɤɴqra-t-a
 \xn 刚才是完整的，我弄了个缺口（例如馍馍咬了一口）
 \xv a-qɤjɣi pɯ-rɤɴqra-t-a
@@ -46494,7 +46220,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge mettre bas (animaux)
 \gn 生崽子（动物） 
-\hbf *kuwu.8
 \xv nɯŋa thɯ-rɤpɯ
 \xn 奶牛生了崽子
 \xv paʁ thɯ-rɤpɯ
@@ -46510,7 +46235,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge ramasser
 \gn 收藏
-\hbf *sqar.101
 \xv laχtɕha tɤ-rɤqur-a
 \xn 我把东西收起来了
 \xv laχtɕha kɤ-ntɕhoz mɤ-kɯ-ra nɯ ra tɤ-rɤqur-a
@@ -47045,7 +46769,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge planter une tente, réparer une tente 
 \gn 搭帐篷、缝帐篷 
-\hbf *ndzaʁlaŋ.118
 \xv staʁpɯ cho-rɤzgɤr
 \xn 豌豆到处蔓延（在其他地方“搭帐篷”）
 \cf zgɤr
@@ -48341,7 +48064,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge critiquer 
 \gn 责怪 
-\hbf *kɤndʑɯxtɤɣ.71
 \xv nɯ-rɯɣne-t-a
 \xn 我骂了他
 \xv nɯ́-wɣ-rɯɣne-a
@@ -48491,7 +48213,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge réciter les mantras 
 \gn 念玛尼 
-\hbf *kɤndʑɯsqhɤj.30
 \xv rgɤrgɯn ra ɲɯ-rɯmani-nɯ
 \xn 老年人们在念玛尼
 \dt 20/May/2011
@@ -48752,7 +48473,6 @@ da.lie 打猎
 \pdv tɤ- 
 \ge se vanter 
 \gn 炫耀 
-\hbf *koŋzoŋ.341 
 \xv jiɕqha nɯ ɲɯ-rɯqhaχɕu
 \xn 那个人在夸耀自己
 \xv laχtɕha to-nɯχtɯ tɕe ɲɯ-rɯqhaχɕu
@@ -49015,7 +48735,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge éparpiller, gaspiller 
 \gn 乱撒，浪费 
-\hbf *qaɕpa.210 
 \xv qɤj cho-rɯtɕhɯχtɤr
 \xn 他撒了小麦 
 \xv ma-pɯ-tɯ-rɯtɕhɯχtɤr
@@ -49180,7 +48899,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge se passer un certain nombre de jour 
 \gn 过几天 
-\hbf *kɯsɤr.78 
 \xv χsɯm to-rʑaʁ 
 \xn 过了三天
 \cf tɤ-rʑaʁ
@@ -49232,7 +48950,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge grave 
 \gn 有害 
-\hbf *qalakɯɕqraʁ.36 
 \xv nɯnɯ kɤ-ʁdɯɣ me
 \xn 没有关系
 \xv tɕhomba mɯ́j-ʁdɯɣ
@@ -49718,7 +49435,6 @@ da.lie 打猎
 \pdv nɯ
 \ge extrême 
 \gn 极度的 
-\hbf *tɤrɯʁnɯs.129
 
 \lx _saχɕɤra
 \wav vt-saXCAra
@@ -49794,7 +49510,6 @@ da.lie 打猎
 \pdv tɤ
 \ge clair, évident 
 \gn 明显 
-\hbf *sqar.41
 \xv to-saχsɤl
 \xn 变得很明显
 \dt 22/Oct/2011
@@ -49835,7 +49550,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge puiser 
 \gn 舀水 
-\hbf *tɤrɯʁnɯs.39 
 \xv tɯ-ci ta-saχthɯm
 \xn 他舀了水
 \xv khɯtsa ta-saχthɯm
@@ -50193,7 +49907,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge servir 
 \gn 伺候 
-\hbf *qaɕpa.128
 \xv nɤʑo kɤ-sɤfstɯn tɕhi tu-tɯ-fse ŋu
 \xn 你是怎么伺候人家的呢？
 \dt 24/Aug/2012
@@ -50259,7 +49972,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge frapper en faisant du bruit
 \gn 敲得很响、震动 
-\hbf *ɲimawozɤr.110
 \cf ɣɤglɤglɤɣ
 \cf glɤɣglɤɣ
 \dt 01/Nov/2013
@@ -50534,7 +50246,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge colorer de toutes sortes de couleurs 
 \gn 配好各种颜色 
-\hbf *thaχtsa.39
 \xv pɯ-sɤkhra-t-a
 \xn 我画了很多颜色
 \cf akhra
@@ -51397,7 +51108,6 @@ da.lie 打猎
 \pdv _
 \ge secouer, agiter pour faire tout tomber d'un récipient 
 \gn 拍打，抖动、颤抖、倒完（最后一点也不存在） 
-\hbf *kɤndʑɯxtɤɣ.37
 \xv nɤ-ŋga nɯ-sɤphɤr
 \xn 你抖一下衣服
 \xv nɯ-sɤphɤr ma thɯci to-ndzoʁ, to-pɣi
@@ -51452,7 +51162,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge rassembler et mettre en ordre, préparer, faire se développer 
 \gn 收集、准备好、使其慢慢发展（种植物、养动物） 
-\hbf *sqar.0 
 \xv laχtɕha tɤ-sɤpɯpa-t-a
 \xn 我把东西准备好了
 \xv tɤ-sɤpɯpa-j
@@ -51605,7 +51314,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge amusant, terrible 
 \gn 可笑，厉害 
-\hbf *qalakɯɕqraʁ.16 
 \se nɤsɤre
 \ps vt
 \ge trouver amusant
@@ -51736,7 +51444,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge nommer 
 \gn 起名 
-\hbf *zrɤntɕɯ.8 
 \xv kɯnɯβzaŋ to-sɤrmi-nɯ
 \xn （他们叫她）她叫做根桑
 \xv lɤβzaŋ to-sɤrmi-nɯ
@@ -52081,7 +51788,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge lire / écrire de manière très fluide 
 \gn 念/写得很流利、吊羊毛吊得很顺手 
-\hbf *srɤs.62 
 \xv thɯ-rɤrɤt ɲɯ-sɤʂɤʂɤt ʑo
 \xn 他写了，写得很流利
 \xv kɤ-pɣo ta-sɤʂɤʂɤt ʑo 
@@ -52214,7 +51920,6 @@ da.lie 打猎
 \pdv _
 \ge continuer, aller directement sans s'arrêter, en profiter pour faire quelquechose d'autre 
 \gn 继续、直接过去（可以停的地方没有停），顺便做另外一件事 
-\hbf *tɤmu.15 
 \xv tha-sɤtɕitʂi, la-sɤtɕitʂi
 \xn 他顺便带了
 \xv tɯ-pri kɤ-ti tɤ-sɤtɕɯtʂi-t-a
@@ -52403,7 +52108,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge enrouler autour du fuseau 
 \gn 缠在纺锤上 
-\hbf *thaχtsa.8
 \xv tɤ-ri ka-sɤwija
 \xn 他把线缠在纺锤上了
 \dt 01/Aug/2011
@@ -52469,7 +52173,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge agiter 
 \gn 挥动
-\hbf *kɯsɤr.59
 \xv laʁjɯɣ nɯ ɯ-ku ɯ-taʁ kɤ-sɤxɯxɯɣ-a
 \xn 我把棍子在他头上挥动了
 \pdl dir 
@@ -52535,7 +52238,6 @@ da.lie 打猎
 \pdv _
 \ge ramener 
 \gn 带到（目的地）
-\hbf *qaɕpa.298
 \xv ta-sɤzɣɯt-nɯ
 \xn 他们带到了
 \se ʑɣɤsɤzɣɯt
@@ -52678,7 +52380,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge se retirer (eau) 
 \gn 下降（水） 
-\hbf *ɲimawozɤr.129
 \xv tɯ-ci pjɤ-schɤt
 \xn 水下降了
 \se sɯschɤt
@@ -52889,7 +52590,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge fouir (cochon) 
 \gn 用鼻子拱（猪） 
-\hbf *ndzaʁlaŋ.7
 \xv phaʁrgot kɯ ɲɤ-sloʁ
 \xn 野猪拱了土
 \xv laχtɕha tɤ-sloʁ-a
@@ -53396,7 +53096,6 @@ da.lie 打猎
 \pdv _
 \ge demander à quelqu'un de faire un travail 
 \gn 请人做事 、求助
-\hbf *qɤjdorju.82
 \xv nɯ-sqar-a
 \xn 我请了他
 \xv nɯ́-wɣ-sqar-a
@@ -53579,7 +53278,6 @@ da.lie 打猎
 \pdv _
 \ge finir 
 \gn 完 
-\hbf *qɤjdorju.27 
 \xv kɤ-nɤma ta-sthɯt
 \xn 他把工作做完了
 \xv kɤ-βzjoz pa-sthɯt
@@ -53779,7 +53477,6 @@ da.lie 打猎
 \ge faire des fumigations rituelles
 \gn 求烟子
 \un 用柏树的叶子熏 
-\hbf *kɯsɤr.61
 \xv tɤfsaŋ ɯ-kɯ-sɯfsaŋ me, tɯ-ci ɯ-kɯ-χtɕi me
 \xn 柏树叶没有人为它求烟，水没有人洗
 \se ʑɣɤsɯfsaŋ
@@ -53859,7 +53556,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge laisser 
 \gn 留下一部分
-\hbf *kɤndʑɯxtɤɣ.67 
 \xv lonba ma-pɯ-tɯ-ci tɕe, tsuku nɯ-sɯɣlɯz
 \xn 你不要全部打掉，留一些（茶）
 \cf lɯz
@@ -54350,7 +54046,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge laisser habiter, enterrer 
 \gn 留宿、掩埋 
-\hbf *qɤjdorju.63
 \xv smi ka-sɯrma
 \xn （用草木灰）把火盖住了
 \xv jɯɣmɯr kutɕu kɤ-sɯrma-t-a
@@ -54621,7 +54316,6 @@ da.lie 打猎
 \ge être capable
 \gn 有能力
 \un 一般用于反向形式
-\hbf *sqar.51 
 \xv ɲɯ-rʑi tɕe, mɤ-tɯ́-wɣ-sɯxcha 
 \xn 很重，你不行
 \xv kɤ-fkur mɯ́j-sɯxcha
@@ -54917,7 +54611,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge capable 
 \gn 能干 
-\hbf *tɯxtsa.23 
 \et sra
 \xv kɤ-ŋke kɯ-ʂa ci ɲɯ-ŋu
 \xn 他是一个很能走路的人
@@ -55426,7 +55119,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge se sauver vx. 
 \gn 保命 
-\hbf *smɤnmi.53 
 \et tʰar
 \xv to-thar
 \xn 他得救了
@@ -55492,7 +55184,6 @@ da.lie 打猎
 \pdv _
 \ge monter une tente, faire un pont, réparer un chemin 
 \gn 牵（线）、搭（桥、帐篷）、修（路） 
-\hbf *thaχtsa.34 
 \xv ndzom kɤ-thɯ-t-a
 \xn 我搭了桥
 \xv zgɤr pɯ-thɯ-t-a
@@ -55514,7 +55205,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge grave 
 \gn 严重 
-\hbf *ɲimawozɤr.19 
 \xv wuma sthɯci mɯ́j-thɯ ɲɯ-ti, ɯ́-ŋu
 \xn 他说没有那么严重，是吗？
 \xv a-rna ɲɯ-thɯ ɲɯ-ŋu tɕe, koŋla mɯ́j-mtsham-a
@@ -55907,7 +55597,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge se passer un certain temps, avoir le temps 
 \gn 过一段时间 
-\hbf *qɤjdorju.92 
 \xv mɯ́j-tsu-a
 \xn 我来不及
 \xv pɤjkhu tɤ-rʑaʁ ɣɤʑu, ɲɯ-tsu
@@ -56177,7 +55866,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge devenir mauvais à manger (tsampa) 
 \gn 面或者糌粑变味了 
-\hbf *sqar.127
 \xv tɯsqar ɲɤ-tɯl
 \xn 糌粑变味了
 \xv tɤjlu ɲɤ-tɯl
@@ -56292,7 +55980,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge nombreux 
 \gn 有很多 
-\hbf *kɯsɤr.246 
 \xv tɯrme xcat
 \xn 人很多
 \xv a-ŋga xcat ʑo ɕti 
@@ -56599,7 +56286,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge rassurant 
 \gn 安全
-\hbf *kɯsɤr.84 
 \et gɕin
 \xv ta-ma pjɤ-χɕin
 \xn 工作完了
@@ -57186,7 +56872,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge faire avec toute son énergie 
 \gn 一心一意地做一件事情 
-\hbf *srɤs.4 
 \et sgrub
 \xv tɕhɤz kɤ-zgrɯβ
 \xn 修佛法
@@ -57837,7 +57522,6 @@ da.lie 打猎
 \pdv nɯ-
 \ge donner de mauvais conseils 
 \gn 进行反面教育 
-\hbf *qaɕpa.147
 \un 相应的不及物动词*{nɯqatɯkɯr}不存在
 \xv na-znɯqatɯkɯr
 \xn 他对他进行了反面教育
@@ -57933,7 +57617,6 @@ da.lie 打猎
 \pdv kɤ-
 \ge se poser (oiseau) 
 \gn 停落（鸟） 
-\hbf *qɤjdorju.22 
 \xv pɣa ko-zo
 \xn 鸟停落了
 \xv ɣʑo ko-zo
@@ -58096,7 +57779,6 @@ da.lie 打猎
 \pdv _
 \ge commencer 
 \gn 开始 
-\hbf *qɤjdorju.98 
 \xv ɯ-mphru pjɯ-ʑe-a tɕe pjɯ-ndɯn-a ŋu ŋɤ 
 \xn 我紧接着(从头)开始读
 \xv tɯ-nɯrɤɣo chɤ-ʑa
@@ -58406,7 +58088,6 @@ da.lie 打猎
 \ge faire en sorte de devenir ainsi 
 \gn 使自己变成那样
 \un 同状貌词连用
-\hbf *koŋzoŋ.303 
 \xv tɕhɣaʁtɕhɣaʁ ʑo tɤ-ʑɣɤstu
 \xv phoʁphoʁ to-ʑɣɤstu
 \xn 他使自己变得很干净
@@ -58717,7 +58398,6 @@ da.lie 打猎
 \pdv thɯ-
 \ge de bonne qualité, grand et fort (garçon) 
 \gn 质量好，优质，英俊 
-\hbf *sqar.25
 \xv ɕoŋtɕa ɲɯ-ʑru
 \xn 木料质量很好
 \dt 04/Mar/2014
@@ -58728,7 +58408,6 @@ da.lie 打猎
 \pdv tɤ-
 \ge en quantité suffisante
 \gn 足够
-\hbf *kɯsɤr.14
 \xv kɤ-znɯkro mɯ́j-ʑur
 \xn 不够分给人家
 \xv kɤ-rɤmbi mɯ́j-ʑur
@@ -58758,7 +58437,6 @@ da.lie 打猎
 \pdv pɯ-
 \ge être déterioré, pourrir
 \gn 腐烂
-\hbf *srɤs.27
 \xv nɯŋa pjɤ-ndʐaβ tɕe, pjɤ-ʑɯɣ
 \xn 奶牛摔倒了，死了又腐烂了
 \dt 12/Mar/2014
@@ -58769,7 +58447,6 @@ da.lie 打猎
 \gn 请晚安（古） 
 \xv sɤrma a-tɤ-ʑɯɣ-nɯ
 \xn 他们要向他请安
-\hbf *srɤs.11 
 \et bʑugs
 \dt 12/Mar/2014
 
@@ -58810,7 +58487,6 @@ da.lie 打猎
 \ng acaus
 \ge regretter, ne pas être satisfait, être déçu 
 \gn 介意、灰心、失望
-\hbf *srɤs.116 
 \un {tɯ-ʁo} 可以{phi}和{mbi}连用，不能单独使用
 \xv a-ʁo mɤ-mbi
 \xn 我不介意 
@@ -58907,7 +58583,6 @@ da.lie 打猎
 \ps intj
 \ge exprime la surprise 
 \gn 表示惊奇 
-\hbf *kɯsɤr.265
 \dt 19/Apr/2013
 
 \lx ^aχtɕɤz
@@ -59304,7 +58979,6 @@ da.lie 打猎
 \ps idph.2
 \ge noir et chauve
 \gn 形容脑袋光溜溜又黑的模样
-\hbf *koŋzoŋ.348
 \xv jiɕqha tɤ-rɟit nɯ clɯclɯ ɲɯ-ɲaʁ
 \xn 小孩子，脸是黑的，又是光头
 \se clɯnɤclɯ
@@ -59318,7 +58992,6 @@ da.lie 打猎
 \ps idph.2
 \ge petit et mignon 
 \gn 形容又小又可爱的样子
-\hbf *kɯsɤr.87
 \xv wɯɟa cotcot ɲɯ-pa
 \xn 调羹很小
 \xv tɤmɤru cotcot ʑo ɲɯ-pa
@@ -59389,7 +59062,6 @@ da.lie 打猎
 \ps n
 \ge plaque de pierre 
 \gn 石板 
-\hbf *ɲimawozɤr.52
 \dt 29/Dec/2011
 
 \lx ^cɯβloʁ
@@ -60081,7 +59753,6 @@ da.lie 打猎
 \sn 2
 \ge calme et agréable
 \gn 很安静、很舒服
-\hbf *kɯsɤr.86
 \xv tɤjpa ɕɯmɕɯm ci ko-lɤt
 \xn 下了薄薄的雪
 \xv tɯmɯ ɕɯmɕɯm nɤ ɕɯmɕɯm ɲɯ-ɤsɯ-lɤt
@@ -60216,7 +59887,6 @@ da.lie 打猎
 \ps idph.2
 \ge ne pas être en possession de ses moyens
 \gn 神志不清
-\hbf *taʁrdo.12 
 \xv ɲɯ-ngo tɕe, dwaŋdwaŋ ʑo ɲɯ-rɤʑi
 \xn 他生病了，神志不清
 \xv cha kú-wɣ-tshi tɕe tɯ-ku dwaŋdwaŋ ʑo pa 
@@ -60248,7 +59918,6 @@ da.lie 打猎
 \xn 他的头发又长又脏，乱蓬蓬的
 \ge ne pas être en possession de ses facultés
 \gn 喝醉了，病了，神志不清
-\hbf *qaɕpa.210 
 \xv ɲɯ-ŋgo-a tɕe, dzaŋdzaŋ ɲɯ-pa 
 \xn 我喝醉了，神志不清
 \xv lo-βzi-a tɕe, dzaŋdzaŋ ʑo ɲɯ-pa 
@@ -60312,7 +59981,6 @@ da.lie 打猎
 \ps idph.2
 \ge debout tout droit 
 \gn 站得很直、身子又细又高 、看起来很单薄又孤零零的样子
-\hbf *tɤmu.35
 \xv si dʑɤrdʑɤr ta-sɯɣndzur-a
 \xn 我把树立起来了
 \se dʑɤrnɤdʑɤr
@@ -60721,7 +60389,6 @@ da.lie 打猎
 \sn 2
 \ge complètement plat 
 \gn 又平坦又宽阔（田地、草地） 
-\hbf *qachɣa.87
 \xv jisŋi kɯ-ɣɤɕqali ri maŋe tɕe, jaŋjaŋ ʑo ɲɯ-pa
 \xn 今天没有人大声说话，很安静
 \xv tɯji jaŋjaŋ ʑo ɲɯ-pa, ɲɯj-om
@@ -60802,7 +60469,6 @@ da.lie 打猎
 \ps adv
 \ge cette fois-ci 
 \gn 这一次 
-\hbf *tɯxtsa.107
 \dt 30/Dec/2011
 
 \lx ^jɤzɯlu
@@ -60837,7 +60503,6 @@ da.lie 打猎
 \ps n
 \ge hotte 
 \gn 背篼 
-\hbf *qalakɯɕqraʁ.39
 \dt 29/Dec/2011
 
 \lx ^jmɤɣni
@@ -60957,7 +60622,6 @@ da.lie 打猎
 \sn 2
 \ge nombreux (objets longs)
 \gn 很多（条状的物体）
-\hbf *sqar.5 
 \xv laʑu ɟɯɣɟɯɣ ʑo ɲɯ-ɴqoʁ
 \xn 很多条腊肉挂在那里
 \xv nɤ-ŋga ɯ-ŋga tɤ-ɣɤβdi ɟɯɣɟɯɣ ʑo ma-tɯ-ʑɣɤ-stu 
@@ -61051,7 +60715,6 @@ da.lie 打猎
 \ps n
 \ge amis 
 \gn 朋友们 
-\hbf *lɯlu.6
 \xv nɤʑo cho aʑo kɤndʑɯβzaŋsa
 \xn 我们是朋友
 \cf βzaŋsa
@@ -61197,7 +60860,6 @@ da.lie 打猎
 \ps n
 \ge moyen 
 \gn 办法 
-\hbf *qɤjdorju.44
 \cf pa
 \sy kowa
 \dt 10/Sep/2011
@@ -61282,7 +60944,6 @@ da.lie 打猎
 \ps n
 \ge parents et enfants
 \gn 父母和孩子 
-\hbf *qɤjdorju.1 
 \xv tɕheme kɤtsa
 \xn 母女
 \xv tɤ-tɕɯ kɤtsa
@@ -61486,7 +61147,6 @@ da.lie 打猎
 \ps n
 \ge fer blanc 
 \gn 生铁 
-\hbf *smɤnmi.6 
 \et kʰro
 \dt 30/Dec/2011
 
@@ -61694,7 +61354,6 @@ da.lie 打猎
 \gn 背篼 
 \xv ɯ-kɯxtɕɯxtɕo ʑo
 \xn 一背篼一背篼的
-\hbf *qalakɯɕqraʁ.43
 \dt 26/May/2013
 
 \lx ^kɯɕmar
@@ -61819,7 +61478,6 @@ da.lie 打猎
 \ps n
 \ge coup de patte avant 
 \gn 用前腿打 
-\hbf *kɤndʑɯsqhɤj.27 
 \xv ɯʑo jla ci tu tɕe laʁrdɤβ kɤ-lɤt rga 
 \xn 我们有一头犏牛，特别喜欢用前腿踢人
 \dt 01/Jan/2012
@@ -62105,7 +61763,6 @@ da.lie 打猎
 \ps idph.7
 \ge qui vient sans qu'on s'en rende compte
 \gn 不知不觉地，产生了睡意（很舒服的感觉）
-\hbf *koŋzoŋ.101
 \xv a-ʑɯβ lthɯmɯmi ʑo pɯ-ɣe
 \xn 我不知不觉地睡着了
 \dt 29/Oct/2011
@@ -62169,7 +61826,6 @@ da.lie 打猎
 \ps adv
 \ge avoir envie de faire quelque chose (mais ne pas pouvoir ou ne pas avoir le droit de le faire) 
 \gn 很想，但是不能 
-\hbf *kɤndʑɯsqhɤj.51 
 \xv nɤʑo taʁndo maka mɯ́j-tɯ-tso tɕe, ɬaχpo ʑo mɯ-tu-ta-ʁndɯ 
 \xn 你不听话，我很想打你（但是不能）
 \dt 10/Sep/2014
@@ -62221,7 +61877,6 @@ da.lie 打猎
 \xn 你怎么没有照我说地去做呢？
 \xv maχtɕɯ ma-jɤ-tɯ-ɕe tɤ-tɯt-a ri mɯ́j-tɯ-khɯ tɕe 
 \xn 我本来叫你不要去，但是(你)没有听（果然出了问题）
-\hbf *koŋzoŋ.94
 \dt 09/Apr/2014
 
 \lx ^mɤɕtʂa
@@ -62472,7 +62127,6 @@ da.lie 打猎
 \ps n
 \ge arc et flèches 
 \gn 弓箭 
-\hbf *qachɣa.13 
 \et mda.gʑu
 \dt 01/Jan/2012
 
@@ -62512,7 +62166,6 @@ da.lie 打猎
 \ps n
 \ge collier 
 \gn 项链 
-\hbf *koŋzoŋ.214
 \dt 01/Jan/2012
 
 \lx ^mkhɤrmaŋ
@@ -62686,7 +62339,6 @@ da.lie 打猎
 \ps n
 \ge arme 
 \gn 武器 
-\hbf *kɤndʑɯsqhɤj.79 
 \et mtsʰon.tɕʰa
 \dt 20/Mar/2014
 
@@ -63121,7 +62773,6 @@ da.lie 打猎
 \ps idph.2
 \ge objets granulaires entassés
 \gn 形容粉状的东西堆得很高、很软的样子
-\hbf *kɯsɤr.193 
 \xv qɤjβɣi ɲɯɣɲɯɣ ʑo ɲɯ-ɤrmbɯ 
 \xn 糠秕堆得很高
 \xv ɲɯɣɲɯɣ ʑo ɲɯ-ɤta
@@ -63200,7 +62851,6 @@ da.lie 打猎
 \ps idph.2
 \ge large et profonde (étendue d'eau) 
 \gn 形容水面很宽，水很深的样子 
-\hbf *ndzaʁlaŋ.135 
 \xv tɯ-ci ŋgɯrŋgɯr ʑo ɲɯ-pa
 \xn 水很深
 \xv cha tɯ-khɯtsa ʑo ŋgɯrŋgɯr kɤ-tshi-t-a 
@@ -63240,7 +62890,6 @@ da.lie 打猎
 \ps n
 \ge bœuf bâtard 
 \gn 杂种牛 
-\hbf *tɤrɯʁnɯs.151
 \dt 09/Jan/2012
 
 \lx ^ɴɢartɯm{ɣɯt}
@@ -63282,7 +62931,6 @@ da.lie 打猎
 \ps idph.3
 \ge nonchalant 
 \gn 不慌不忙地（做事）
-\hbf *qachɣa.79
 \xv ɴɢiɤβnɤɴɢiɤβ kɤ-ari
 \xn 他不慌不忙地去了
 \xv ɴɢiɤβnɤɴɢiɤβ ɲɯ-rɤma
@@ -63324,7 +62972,6 @@ da.lie 打猎
 \ps n
 \ge grès 
 \gn 砂岩 
-\hbf *tɯxtsa.115 
 \xv ɴɢolophɯcɯ, kɤ́-wɣ-rtoʁ tɕe, tɤ-phɯ fse ri rdɤstaʁ jamar rko 
 \xn 砂岩看起来像土块，但是像石头那么硬
 \dt 09/Jan/2012
@@ -63483,7 +63130,6 @@ da.lie 打猎
 \ps n
 \ge gaspillage 
 \gn 浪费 
-\hbf *tɤmu.2 
 \xv pɤrmɤloŋ mɯ-nɯ-ari
 \xn 没有浪费
 \xv pɤrmɤloŋ ma-nɯ-tɯ-sɯxɕe 
@@ -63609,7 +63255,6 @@ da.lie 打猎
 \ps n
 \ge support sur lequel on met le bout inférieur du fuseau 
 \gn 用来放纺锤的下一端的托子（一般是碗的底部，或者小石板） 
-\hbf *koŋzoŋ.19
 \dt 15/Apr/2012
 
 \lx ^phɤtɕhɯχtɤr
@@ -63617,7 +63262,6 @@ da.lie 打猎
 \ps n
 \ge éparpiller partout 
 \gn 撒得一地都是 
-\hbf *koŋzoŋ.304
 \xv phɤtɕhɯχtɤr ʑo pɯ-ta-t-a (pɯ-lat-a)
 \xn 我撒得一地都是了
 \dt 05/Nov/2013
@@ -64197,7 +63841,6 @@ da.lie 打猎
 \ps n
 \ge silex arrondi 
 \gn 圆形的燧石 
-\hbf *koŋzoŋ.263
 \dt 17/Apr/2012
 
 \lx ^qapɣɤmtɯmtɯ
@@ -64276,7 +63919,6 @@ da.lie 打猎
 \ps n
 \ge râteau 
 \gn 耙子 
-\hbf *qalakɯɕqraʁ.40
 \dt 18/Apr/2012
 
 \lx ^qarɣɤpɤt
@@ -64400,7 +64042,6 @@ da.lie 打猎
 \ps n
 \ge hiver très froid 
 \gn 寒冬腊月 
-\hbf *kɯsɤr.161
 \dt 18/Apr/2012
 
 \lx ^qarwoʁ
@@ -64644,7 +64285,6 @@ da.lie 打猎
 \ps n
 \ge naga 
 \gn 龙、水神 
-\hbf *smɤnmi.31 
 \et klu
 \xv nɤʑo qhlɯ to-tɯ-sɤzmbrɯ-t
 \xn 你惹了水神
@@ -64655,7 +64295,6 @@ da.lie 打猎
 \ps n
 \ge lingot 
 \gn 一块银子 
-\hbf *qɤjdorju.70
 \dt 20/Apr/2012
 
 \lx ^qhoʁsjɯβ
@@ -64795,7 +64434,6 @@ da.lie 打猎
 \ps idph.2
 \ge qui a les yeux grand ouverts
 \gn 形容眼睛睁得很大的样子
-\hbf *qachɣa.6
 \xv qala kɯ ɯ-mɲaʁ qɯqli ʑo to-stu
 \xn 兔子把眼睛睁得很大
 \xv jiɕqha nɯ kɯ ɯ-mɲaʁ qɯqli ʑo to-stu
@@ -64870,7 +64508,6 @@ da.lie 打猎
 \ps n
 \ge fil en coton 
 \gn 棉线 
-\hbf *kɯsɤr.270
 \dt 20/Apr/2012
 
 \lx ^rɤɣo
@@ -64991,7 +64628,6 @@ da.lie 打猎
 \ps idph.4
 \ge bruit de deux objets durs qui s'entrechoquent 
 \gn 形容硬的东西相撞时发出的声音 
-\hbf *kɯɕar.376
 \se sɤrchɯɣrchɯɣ
 \se sɤrchɯɣlɯɣ
 \ps vt
@@ -65195,7 +64831,6 @@ da.lie 打猎
 \ps n
 \ge haute montagne vx. 
 \gn 高山 
-\hbf *koŋzoŋ.384 
 \et ri.rab
 \dt 21/Apr/2012
 
@@ -65307,7 +64942,6 @@ da.lie 打猎
 \ps n
 \ge ministre 
 \gn 宰相、大臣 
-\hbf *kɯɕar.320 
 \et rgʲa.blon
 \dt 21/Apr/2012
 
@@ -65337,7 +64971,6 @@ da.lie 打猎
 \ps n
 \ge palais 
 \gn 宫殿 
-\hbf *qaɕpa.14 
 \et rgʲal.sa
 \xv tɕɯχtsi rɟɤlsa 
 \xn 卓克基官寨
@@ -65486,7 +65119,6 @@ da.lie 打猎
 \ps n
 \ge toilette 
 \gn 厕所 
-\hbf *kɯsɤr.251
 \dt 23/Apr/2012
 
 \lx ^rkɯwɯ
@@ -65578,7 +65210,6 @@ da.lie 打猎
 \ps adv
 \ge toute sorte 
 \gn 各种各样 
-\hbf *koŋzoŋ.188
 \dt 23/Apr/2012
 
 \lx ^rnɤβʑi
@@ -65666,7 +65297,6 @@ da.lie 打猎
 \ps n
 \ge grains d'orge grillés 
 \gn 青稞爆花 
-\hbf *sqar.116
 \dt 28/Apr/2012
 
 \lx $rŋɤrŋɤt
@@ -65908,7 +65538,6 @@ da.lie 打猎
 \ps n
 \ge corde en poil 
 \gn 牛毛搓成的绳子 
-\hbf *kɯsɤr.159
 \dt 29/Apr/2012
 
 \lx ^rtɤltɕaʁ
@@ -65978,7 +65607,6 @@ da.lie 打猎
 \ps n
 \ge vengeance 
 \gn 报仇 
-\hbf *qalakɯɕqraʁ.32 
 \et rtsod
 \xv maka rtsot tu-βze-a ɲɯ-ntshi 
 \xn 我要报仇
@@ -66172,7 +65800,6 @@ da.lie 打猎
 \ps n
 \ge limite de temps 
 \gn 期限 
-\hbf *ndzaʁlaŋ.64
 \dt 29/Apr/2012
 
 \lx ^ʁaznɤ
@@ -66325,7 +65952,6 @@ da.lie 打猎
 \ps n
 \ge turquoise vx. 
 \gn 碧玉、绿松石 
-\hbf *kɯsɤr.158 
 \et gju
 \dt 23/Apr/2012
 
@@ -66346,7 +65972,6 @@ da.lie 打猎
 \ps adv
 \ge directement, tout le long 
 \gn 一直 
-\hbf *ɲimawozɤr.71
 \dt 21/Apr/2012
 
 \lx ^ʁɟoʁɟe
@@ -66354,7 +65979,6 @@ da.lie 打猎
 \ps n
 \ge vin ou lait dilué dans l'eau 
 \gn 掺了水的酒或者牛奶 
-\hbf *koŋzoŋ.87
 \dt 21/Apr/2012
 
 \lx $ʁlɤwur
@@ -66363,7 +65987,6 @@ da.lie 打猎
 \ps adv
 \ge soudain 
 \gn 突然 
-\hbf *qɤjdorju.21 
 \et glo.bur
 \xv ʁlɤwur to-rɤŋgat
 \xn 他突然出发了
@@ -66833,7 +66456,6 @@ da.lie 打猎
 \ps n
 \ge endroit vide 
 \gn 荒野 
-\hbf *koŋzoŋ.173 
 \et sa.stoŋ
 \dt 02/May/2012
 
@@ -66900,7 +66522,6 @@ da.lie 打猎
 \ps n
 \ge protection 
 \gn 保佑 
-\hbf *kɯsɤr.239 
 \et skʲabs.ɴdʑug
 \dt 29/Apr/2012
 
@@ -66950,7 +66571,6 @@ da.lie 打猎
 \ps idph.2
 \ge tout petit 
 \gn 矮小，挨着地面 
-\hbf *qaɕpa.22
 \se scraʁnɤscraʁ
 \ps idph.3
 \xv qaɕpa nɯ scraʁnɤscraʁ lu-ɕe pjɤ-ŋu
@@ -67013,7 +66633,6 @@ da.lie 打猎
 \ps n
 \ge réponse 
 \gn 回句、回音 
-\hbf *koŋzoŋ.25 
 \et skad.len
 \dt 29/Apr/2012
 
@@ -67126,7 +66745,6 @@ da.lie 打猎
 \ps idph.2
 \ge blanc et rond 
 \gn 形容又白又圆（美观）的样子
-\hbf *koŋzoŋ.231 
 \xv sla slaŋslaŋ to-nɯɬoʁ
 \xn 月亮出来了，皎洁圆润
 \xv ʑara nɯtɕu ʁʑɯnɯ ɲɤ-βzu tɕe slaŋslaŋ ʑo ɲɯ-pa, wuma ʑo ɲɯ-ɣɤχsrɯ 
@@ -67286,7 +66904,6 @@ da.lie 打猎
 \ps idph.2
 \ge vert vif 
 \gn 形容绿油油的色泽 
-\hbf *kɯsɤr.163
 \xv tɯji nɯ smɯɣsmɯɣ ɲɯ-pa
 \xn 田是绿油油的
 \dt 27/Oct/2013
@@ -67423,7 +67040,6 @@ da.lie 打猎
 \ps adv
 \ge en plein jour 
 \gn 大白天 
-\hbf *qaɕpa.188
 \dt 13/Jan/2014
 
 \lx ^sŋarɤβ
@@ -67619,7 +67235,6 @@ da.lie 打猎
 \ps n
 \ge magie 
 \gn 法术 
-\hbf *kɯɕar.341 
 \et sprul.pa
 \dt 02/May/2012
 
@@ -67703,7 +67318,6 @@ da.lie 打猎
 \ps idph.2
 \ge petit et trapu
 \gn 形容又矮又圆的样子 
-\hbf *qachɣa.168
 \se ɣɤstɤjlɤj
 \ps vi
 \ge qui rembondit, qui saute
@@ -67721,7 +67335,6 @@ da.lie 打猎
 \ps n
 \ge plaine 
 \gn 草坪 
-\hbf *qɤjdorju.87
 \dt 05/May/2012
 
 \lx ^stɤtoŋ
@@ -68039,7 +67652,6 @@ l
 \ps n
 \ge petites pousses d'arbre autour des champs cultivés 
 \gn 田周围长的树芽 
-\hbf *sqar.2
 \dt 05/May/2012
 
 \lx ^sɯnthɯ
@@ -68097,7 +67709,6 @@ l
 \ps n
 \ge bois de chauffage découpé 
 \gn 劈开了的木柴[柴划子] 
-\hbf *qachɣa.180
 \an ɕɯrdɯm
 \dt 14/Aug/2012
 
@@ -68106,7 +67717,6 @@ l
 \ps n
 \ge une pile de bois 
 \gn 柴垛子[柴码子] 
-\hbf *qachɣa.180
 \dt 05/May/2012
 
 \lx ^sɯphɯ
@@ -68320,7 +67930,6 @@ l
 \ps n
 \ge châs de l'aiguille 
 \gn 针眼 
-\hbf *kɯsɤr.272
 \dt 05/May/2012
 
 \lx ^tartɕin
@@ -68364,7 +67973,6 @@ l
 \ps n
 \ge suie, défaut 
 \gn 碳黑[锅烟墨]、缺点 
-\hbf *qaɕpa.266 
 \xv nɤʑo nɤ-ʁɟaz nɯ aʑo mɤ-nɯ-kɯ-mar-a 
 \xn 别让我替你背黑锅 
 \nqr
@@ -68376,7 +67984,6 @@ l
 \ge pleurer en s'agitant de toutes ses forces (enfant), s'élancer en sautant (cheval) 
 \gn 哭得大吵大闹（小孩子）, 跳过去（马） 
 \un 只能和{lɤt, (nɯ-)}连用
-\hbf *tɯxtsa.99 
 \xv tɤ-pɤtso tɤ-wu ɯ-tɯ-χɕu kɯ taʁmbra ʑo ɲɯ-lɤt ɲɯ-ɕti 
 \xn 小孩哭,乱叫乱吼
 \dt 19/Feb/2014
@@ -68599,7 +68206,6 @@ l
 \ps n
 \ge soif 
 \gn 口渴的感觉 
-\hbf *ɲimawozɤr.46
 \cf ɕpaʁ
 \dt 10/May/2012
 
@@ -69364,7 +68970,6 @@ l
 \ps n
 \ge lard
 \gn 膘 
-\hbf *rkoŋrɟɤl1.6
 \dt 12/May/2012
 
 \lx ^tɤŋgɯ
@@ -69429,7 +69034,6 @@ l
 \ps n
 \ge mauvais caractère 
 \gn 做事遇到挫折回家就发脾气 
-\hbf *kɯɕar.362 
 \xv nɤ-pɤndɯr a-mɤ-jɤ-tɯ-ɣɯt je 
 \xn 别回来发脾气
 \dt 12/May/2012
@@ -69643,7 +69247,6 @@ l
 \ps n
 \ge voisin 
 \gn 邻居 
-\hbf *zrɤntɕɯ.42
 \xv a-rɣa
 \xn 我的邻居
 \sy jilco
@@ -69687,7 +69290,6 @@ l
 \gn 用石板铺成的山路 
 \xv cupa-rkhɤrkhɤt
 \xn 石板山路
-\hbf *kɯsɤr.192
 \dt 13/May/2012
 
 \lx ^tɤrkhɤz
@@ -69729,7 +69331,6 @@ l
 \ps n
 \ge cadeau 
 \gn 礼物 （临走之前给的）
-\hbf *kɤndʑɯxtɤɣ.78
 \xv aʑo tɤ-rɤŋga-t-a, tɕe a-me kɯ a-rkuz rŋɯl ta-rku (ta-βzu)
 \xn 我临走之前，我女儿给了我一点钱
 \dt 28/Aug/2012
@@ -69830,7 +69431,6 @@ l
 \ps n
 \ge sutra 
 \gn 经 
-\hbf *rkoŋrɟɤl1.16
 \dt 13/May/2012
 
 \lx ^tɤ-rpɯ
@@ -70051,7 +69651,6 @@ l
 \ps n
 \ge fil très fin, cheveu
 \gn 细线、头发
-\hbf *ɲimawozɤr.62
 \xv @cai ɯ-ŋgɯ tɤskrɤβ ɣɤʑu
 \xn 菜里面有头发
 \dt 13/May/2012
@@ -70396,7 +69995,6 @@ l
 \ge brûlure au fer rouge pour soigner les migraines 
 \gn 烙（治头风的方式） 
 \un 同{ta (kɤ-)}连用
-\hbf *taʁrdo.14 
 \et ltɕags.tsʰigs
 \xv tɕaʁtshɯɣ ko-ta
 \xn 他给他烙了印子。
@@ -70707,7 +70305,6 @@ l
 \ps n
 \ge galet 
 \gn 卵石 
-\hbf *qaɕpa.166 
 \et tɕʰu.rdo
 \dt 08/Dec/2014
 
@@ -70722,7 +70319,6 @@ l
 \ps n
 \ge tsampa 
 \gn 糌粑的一种吃法 
-\hbf *sqar.117 
 \et tɕʰu.rtsam.pa
 \dt 06/May/2012
 
@@ -71088,7 +70684,6 @@ l
 \ps idph.2
 \ge en bon état 
 \gn 形容塌实、齐全的状态
-\hbf *sqar.8 
 \xv laχtɕha nɯtɕu nɯ-ta-t-a tɕe, tshɯntshɯn ɲɯ-ɤ<nɯ>ta
 \xn 我把东西放在那里，没人会碰
 \xv nɤ-ŋga tɤ-tɯ-ɕɯɴqoʁ ɯ-sta tshɯntshɯn ɲɯ-ɤ<nɯ>ta
@@ -71224,7 +70819,6 @@ l
 \ps n
 \ge beurre que l'on emporte pour le voyage 
 \gn 路上吃的酥油 
-\hbf *kɯɕar.372
 \cf tʂu
 \cf ta-mar
 \dt 15/May/2012
@@ -71270,7 +70864,6 @@ l
 \ps n
 \ge croisée de chemin 
 \gn 岔路 
-\hbf *qalakɯɕqraʁ.38
 \cf tʂu
 \cf ɴɢɤt
 \dt 16/May/2012
@@ -71319,7 +70912,6 @@ l
 \ps n
 \ge bienfait 
 \gn 报恩 
-\hbf *qachɣa.186 
 \et drin.len
 \dt 16/May/2012
 
@@ -71670,7 +71262,6 @@ l
 \sn 2
 \ge une ruche (abeilles)
 \gn 一窝（蜜蜂）
-\hbf *βʑar.1 
 \xv tɯ-tɯphu ɕti, ɯ-rmi mɤ-naχtɕɯɣ
 \xn 是同一种，但是名字不一样
 \xv pɣa ɯ-tɯphu dɤn 
@@ -71736,7 +71327,6 @@ l
 \ps n
 \ge ouverture du sac, partie du toit sous laquelle il n'y a pas de balcon, côté du champs près de la montagne 
 \gn 背篼、口袋的扣子，房顶靠墙的一边（没有走檐），土坎（靠山的那一边）
-\hbf *qalakɯɕqraʁ.52
 \dt 29/Apr/2014
 
 \lx ^ɯ-ndaŋ
@@ -71888,7 +71478,6 @@ l
 \ps n
 \ge somnolence 
 \gn 瞌睡 
-\hbf *qɤjdorju.20 
 \xv a-ʑɯβ mɯ́j-ɣi
 \xn 我睡不着
 \xv a-ʑɯβ mɯ́j-sɯɣe-nɯ
@@ -72070,7 +71659,6 @@ l
 \ps vs
 \ge merci beaucoup 
 \gn 万分感谢 
-\hbf *ndzaʁlaŋ.155 
 \xv pɯ-tɯ-χɕu pɯ-tɯ-rnaʁ 
 \xn 感谢你了
 \xv pɯ-χɕu pɯ-rnaʁ 
@@ -72115,7 +71703,6 @@ l
 \ps idph.2
 \ge sage et très actif (enfant, petit animal) 
 \gn 形容小孩子或者小动物看起来很乖很灵活的样子，小巧玲珑。 
-\hbf *koŋzoŋ.303
 \xv jiɕqha tɤ-pɤtso χtshɤχtshɤt ci ɲɯ-ŋu
 \xn 那个小孩子很灵活
 \xv tshɯtho χtshɤχtshɤt ʑo ɲɯ-pa
@@ -72142,7 +71729,6 @@ l
 \ps n
 \ge nourriture pour les morts 
 \gn 祭祀死人用的食物 
-\hbf *koŋzoŋ.249 
 \et zas.sna
 \xv tɯrme pɯ-si tɕe zɤsna chɯ́-wɣ-βde ŋu
 \xn 人去世了就要给他供奉一些食物
@@ -72288,7 +71874,6 @@ l
 \pdv tɤ-
 \ge se balancer, se dandiner, se pas tenir en place sur sa chaise 
 \gn 不停地摇动，坐不住
-\hbf *tɤmu.23 
 \xv tɕɤndi ɲɯ-nɤŋkɯŋke tɕe ɲɯ-ɣɤzjɤɣlɤɣ
 \xn 他从那边蹒跚地走
 \xv ma-tɯ-ɣɤzjɤɣlɤɣ ntsɯ, phoʁphoʁ kɤ-ɤmdzɯ 
@@ -72360,7 +71945,6 @@ l
 \ps idph.2
 \ge stable, immobile
 \gn 稳定的状态，一动也不动 
-\hbf *tɤmu.95 
 \xv zɯɣzɯɣ ʑo ɲɯ-ɤsɯ-ndo
 \xn 他拿着不放，动也不动
 \xv zɯɣzɯɣ ʑo ɲɯ-rɤʑi 
