@@ -3244,7 +3244,7 @@
 \ge animal sans queue (homme)
 \gn 没有尾巴的动物（人） 
 \un 古语
-\xv kɯju jmɤlu ɲɯ-sɲu ŋu tɕe, mɤ-ɕ-thɯ-tɯ-ʑɣɤ-βde ma ji-kɤ-ndza tu-tu ɕti 
+\xv kɯju jmɤlu ɲɯ-sɲu ŋu tɕe, ma-ɕ-thɯ-tɯ-ʑɣɤ-βde ma ji-kɤ-ndza tu-tu ɕti 
 \xn （乌鸦说：）你不要去跳河，当那个没有尾巴的动物（人）发疯的时候（播种子）我们就有吃的了
 \dt 14/May/2013
 
@@ -6263,7 +6263,7 @@
 \ge taupe 
 \gn 鼹鼠[田鼠] 
 \hbf animal 
-\xv qaɲi nɯ ɯ-mdoʁ cho ɯ-rme nɯ ra βʑɯ kɯ-fse ŋu, ɯʑo ɯ-tshɯɣa nɯ ɯ-mɤlɤjaʁ ra ɲɯ-xtɯt, ɯ-ndzrɯ wuma ɲɯ-mtɕoʁ, ɯ-phoŋbu ɲɯ-tshu, ɯ-jme kɯ-xtɯ-xtɯt kɯ-xtshɯm ci ɣɤʑu, ɯ-ku nɯ βʑɯ kɯ-fse mɯ-ɲɯ-ɤmtɕoʁ, ɯ-rna nɯ ɯ-rme ɯ-ŋgɯ ku-kɯ-raʁ kɯ-fse ci ma maŋe, ɯ-mɲaʁ kɯ-xtɕɯ-xtɕi ɲɯ-ŋu, ɯ-ɕna paʁ ɯ-ɕna tsa ɲɯ-fse tɕe ɲɯ-rko ma sɤtɕha ɯ-pa ɯ-ɕna kɯ ju-sɯ-sloʁ ɲɯ-ra. ɯ-mɤlɤjaʁ kɯ ju-z-rɤβraʁ ɲɯ-ra tɕe ɯ-jroʁ ju-tɕɤt tɕe ɯʑo ju-ɕe pjɯ-tɕhɯt ɲɯ-ra. tɕe ɯ-jroʁ ja-tɕɤt tɕe, ɯʑo tshɯrɟɯn tu-ŋke kɯ-ra nɯ ra ɲɯ-jom. tɕe stonka tɕe sɯjno qa, tɤ-tsoʁ qa, tɤ-rɤku ɯ-mat nɯ ra ɲɯ-sɤjti tɕe ɯ-jroʁ ɯ-ŋgɯ nɯ ju-sɯ-mtshɤt, tɕe qartsɯ ɯ-ndza spa ɲɯ-ŋu. qartsɯ tɕe mɯ-tha-ɕkɯt nɯ, ftɕar tɕe tu-ɬoʁ tɕe ɲɯ-saχsɤl. kɯ-sɤmtshɤr nɯ tɤ-rɤku ɯ-mat pa-nɯ-phɯt tɕe, ɯ-ru maka mɤ-kɤ-ɴɢlɯt, mɤ-kɤ-jʁu tu-βze ɲɯ-cha. kɯɕnom nɯ kɤ-ʑmbɯ-ʑmbraʁ ju-tsɯm ɲɯ-ŋu, stoʁ staʁpɯ nɯ ɯ-qiɯ nɯ ɯ-rdoʁ ju-tsɯm ɲɯ-ŋu, ɯ-qiɯ nɯ kɤ-rqhɯ-rqhu ju-tsɯm ɲɯ-ŋu. 
+\xv qaɲi nɯ ɯ-mdoʁ cho ɯ-rme nɯ ra βʑɯ kɯ-fse ŋu, ɯʑo ɯ-tshɯɣa nɯ ɯ-mɤlɤjaʁ ra ɲɯ-xtɯt, ɯ-ndzrɯ wuma ɲɯ-mtɕoʁ, ɯ-phoŋbu ɲɯ-tshu, ɯ-jme kɯ-xtɯ-xtɯt kɯ-xtshɯm ci ɣɤʑu, ɯ-ku nɯ βʑɯ kɯ-fse mɯ-ɲɯ-ɤmtɕoʁ, ɯ-rna nɯ ɯ-rme ɯ-ŋgɯ ku-kɯ-raʁ kɯ-fse ci ma maŋe, ɯ-mɲaʁ kɯ-xtɕɯ-xtɕi ɲɯ-ŋu, ɯ-ɕna paʁ ɯ-ɕna tsa ɲɯ-fse tɕe ɲɯ-rko ma sɤtɕha ɯ-pa ɯ-ɕna kɯ ju-sɯ-sloʁ ɲɯ-ra. ɯ-mɤlɤjaʁ kɯ ju-z-rɤβraʁ ɲɯ-ra tɕe ɯ-jroʁ ju-tɕɤt tɕe ɯʑo ju-ɕe pjɯ-tɕhɯt ɲɯ-ra. tɕe ɯ-jroʁ ja-tɕɤt tɕe, ɯʑo tshɯrɟɯn tu-ŋke kɯ-ra nɯ ra ɲɯ-jom. tɕe stonka tɕe sɯjno qa, tɤ-tsoʁ qa, tɤ-rɤku ɯ-mat nɯ ra ɲɯ-sɤjti tɕe ɯ-jroʁ ɯ-ŋgɯ nɯ ju-sɯ-mtshɤt, tɕe qartsɯ ɯ-ndza spa ɲɯ-ŋu. qartsɯ tɕe mɯ-tha-ɕkɯt nɯ, ftɕar tɕe tu-ɬoʁ tɕe ɲɯ-saχsɤl. kɯ-sɤmtshɤr nɯ tɤ-rɤku ɯ-mat pa-nɯ-phɯt tɕe, ɯ-ru maka mɤ-kɯ-ɴɢlɯt, mɤ-kɯ-ɤjʁu tu-βze ɲɯ-cha. kɯɕnom nɯ kɤ-ʑmbɯ-ʑmbraʁ ju-tsɯm ɲɯ-ŋu, stoʁ staʁpɯ nɯ ɯ-qiɯ nɯ ɯ-rdoʁ ju-tsɯm ɲɯ-ŋu, ɯ-qiɯ nɯ kɤ-rqhɯ-rqhu ju-tsɯm ɲɯ-ŋu. 
 \xn 鼹鼠毛色和老鼠一样，它的形状是：四肢短、爪子很锐利，身子很肥，有一条又细又短的尾巴，头不像老鼠的那么尖，耳朵陷在毛里，眼睛很小。鼻子有点像猪的鼻子但比较硬，因为它在地下用鼻子拱土。它用四肢挖土，要挖出一条容得下它身子的通道。通道挖了以后，它经常经过的地方宽一些。到了秋天，它就把草根、人参果的根和粮食储存起来，塞满它的通道，作冬天的食物。冬天没有吃完的，到春天会长出来就可以发现。奇怪的是它摘了庄稼的果实，能作到秆不折断也不弯，穗子连同芒一起带去。胡豆和豌豆有一半只拿颗粒，另一半则连壳一起拿去。 
 \nqr
 
@@ -12159,7 +12159,7 @@
 \ge crachat 
 \gn 痰 
 \hbf 155 
-\xv ɯ-thoʁ nɤ-ɴɢar mɤ-thɯ-βde ma ɲɯ-sɤʑɯloʁ 
+\xv ɯ-thoʁ nɤ-ɴɢar ma-thɯ-βde ma ɲɯ-sɤʑɯloʁ 
 \xn 你不要在地上吐痰，很恶心。
 
 \lx tɯ-pɤchaʁ
@@ -15424,7 +15424,7 @@
 \ge tique 
 \gn 蜱[草虱] 
 \hbf animal 
-\xv xɕelwi nɯ qajɯ ci ŋu. ɯ-mdoʁ kɯ-ɣɯrni ŋu. ɯ-mɤlɤjaʁ kɯβdɤ-ldʑa tu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi ɲɯ-ɤmtɕoʁ, sɯŋgɯ kɯ-mbɤr cho stɤmku ra ɣɤʑu tɕe nɯŋa cho jla mbala nɯ ra nɯ-taʁ kɤ-ndzoʁ rga, tɕe nɯ-se ku-tshi tɕe tɤ-fka tɕe ɯʑo kɯ-wxtɯ-wxti ʑo ɲɯ-βze ŋu, fsapaʁ ɯ-se ku-tshi ɕɯŋgɯ staʁ nɤ sqi jamar ɲɯ-wxti ɲɯ-ŋu. tɕe xɕelwi nɯ tɤ-fka tɕe pjɤ-tɤr ɲɯ-ɕti ma ɯ-jɤɣɤt sɤ-lɤt maŋe, tɕe tu-ndze nɤ tu-ndze ma nɯ ma kɤ-lɤt mɯ́j-khɯ. tɕe wuma ʑo dɤn, fsapaʁ tɯ-rdoʁ ɯ-taʁ kɤ-rtsi mɤ-kɯ-sɤcha ʑo ku-ndzoʁ ɲɯ-ɕti, tɕe fsapaʁ ɯ-taʁ wuma ʑo ʁnɤt, tɕe tham tɕe ɯ-smɤn ɣɤʑu tɕe, tú-wɣ-lɤt tɕe ɲɯ-ɣɤme ɲɯ-ŋu ri ɯ-qhu tɕe li ku-ndzoʁ ɲɯ-ɕti. tɯrme ɯ-taʁ kɯnɤ ku-ndzoʁ ŋgrɤl tɕe ɣɯ-phɯt tɤ-kha tɕe ɯ-rmi tu-βzu mɤ-βdi ma tɕe ɯ-phoŋbu nɯ kɤ-phɯt khɯ ma ɯ-ku nɯ ku-raʁ ŋu tɕe kɤ-phɯt mɤ-khɯ. mɤ-kɤ-nɤrmi ɲɯ́-wɣ-phɯt tɕe kɤ-kɯ-ku kɤ-phɯt khɯ tu-kɯ-ti ɲɯ-ŋu. 
+\xv xɕelwi nɯ qajɯ ci ŋu. ɯ-mdoʁ kɯ-ɣɯrni ŋu. ɯ-mɤlɤjaʁ kɯβdɤ-ldʑa tu, ɯ-ku kɯ-xtɕɯ-xtɕi ŋu, ɯ-mtɕhi ɲɯ-ɤmtɕoʁ, sɯŋgɯ kɯ-mbɤr cho stɤmku ra ɣɤʑu tɕe nɯŋa cho jla mbala nɯ ra nɯ-taʁ kɤ-ndzoʁ rga, tɕe nɯ-se ku-tshi tɕe tɤ-fka tɕe ɯʑo kɯ-wxtɯ-wxti ʑo ɲɯ-βze ŋu, fsapaʁ ɯ-se ku-tshi ɕɯŋgɯ staʁ nɤ sqi jamar ɲɯ-wxti ɲɯ-ŋu. tɕe xɕelwi nɯ tɤ-fka tɕe pjɤ-tɤr ɲɯ-ɕti ma ɯ-jɤɣɤt sɤ-lɤt maŋe, tɕe tu-ndze nɤ tu-ndze ma nɯ ma kɤ-lɤt mɯ́j-khɯ. tɕe wuma ʑo dɤn, fsapaʁ tɯ-rdoʁ ɯ-taʁ kɤ-rtsi mɤ-kɯ-sɤcha ʑo ku-ndzoʁ ɲɯ-ɕti, tɕe fsapaʁ ɯ-taʁ wuma ʑo ʁnɤt, tɕe tham tɕe ɯ-smɤn ɣɤʑu tɕe, tú-wɣ-lɤt tɕe ɲɯ-ɣɤme ɲɯ-ŋu ri ɯ-qhu tɕe li ku-ndzoʁ ɲɯ-ɕti. tɯrme ɯ-taʁ kɯnɤ ku-ndzoʁ ŋgrɤl tɕe ɣɯ-phɯt tɤ-kha tɕe ɯ-rmi tu-βzu mɤ-βdi ma tɕe ɯ-phoŋbu nɯ kɤ-phɯt khɯ ma ɯ-ku nɯ ku-raʁ ŋu tɕe kɤ-phɯt mɤ-khɯ. mɤ-kɤ-nɤrmi ɲɯ́-wɣ-phɯt tɕe kɤ́-kɯku kɤ-phɯt khɯ tu-kɯ-ti ɲɯ-ŋu. 
 \xn 蜱是一种虫，是红色的。有四只脚，头部很小，嘴很尖。生活在灌木丛和草地上，喜欢爬在奶牛、犏牛和黄牛身上吸血。吸饱以后，它的身体就变得很大，是它吸血前的十倍以上，蜱吸饱了就会掉下来。因为身上没有肛门，只能吃了又吃，不能解便。蜱非常多，一头牛身上的蜱不计其数，对牲畜非常有害。现在有一种农药可以消灭它，但过了一段时间它会重新出现。蜱也会爬在人身上。据说拔掉的时候不能叫它的名字，不然只能拔掉它的身子，它的头部会卡在里面。不叫它的名字的话就可以连头一起拔掉。 
 \nqr
 
@@ -15673,8 +15673,6 @@
 \ps adv
 \ge un peu 
 \gn 稍微 
-\xv χanɯni ci mɤ-jɤ-tɯ-ɣi 
-\xn 你稍微迟了一点就好
 
 \lx χaŋχaŋ
 \wav id-XaNXaN
@@ -51772,7 +51770,7 @@ da.lie 打猎
 \pdv nɯ-
 \ge toucher avec ...
 \gn 用……轻轻地擦过、碰到
-\xv nɤ-ŋga nɯ znde ɯ-taʁ mɤ-nɯ-tɯ-sɤsɯɣsɯɣ ma sɤɴqhi
+\xv nɤ-ŋga nɯ znde ɯ-taʁ ma-nɯ-tɯ-sɤsɯɣsɯɣ ma sɤɴqhi
 \xn 你不要把衣服碰到墙上，很脏
 \dt 19/May/2014
 
@@ -67981,7 +67979,7 @@ l
 \ps n
 \ge suie, défaut 
 \gn 碳黑[锅烟墨]、缺点 
-\xv nɤʑo nɤ-ʁɟaz nɯ aʑo mɤ-nɯ-kɯ-mar-a 
+\xv nɤʑo nɤ-ʁɟaz nɯ aʑo ma-nɯ-kɯ-mar-a 
 \xn 别让我替你背黑锅 
 \nqr
 \dt 05/May/2012
