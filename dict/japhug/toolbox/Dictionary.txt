@@ -3241,8 +3241,9 @@
 
 \lx kɯjujmɤlu
 \ps n
-\ge animal sans queue (homme) vx. 
+\ge animal sans queue (homme)
 \gn 没有尾巴的动物（人） 
+\un 古语
 \xv kɯju jmɤlu ɲɯ-sɲu ŋu tɕe, mɤ-ɕ-thɯ-tɯ-ʑɣɤ-βde ma ji-kɤ-ndza tu-tu ɕti 
 \xn （乌鸦说：）你不要去跳河，当那个没有尾巴的动物（人）发疯的时候（播种子）我们就有吃的了
 \dt 14/May/2013
@@ -4919,8 +4920,9 @@
 
 \lx mɯndʐamɯχtɕɯɣ
 \ps n
-\ge toutes sortes vx. 
+\ge toutes sortes
 \gn 各种各样 
+\un 古语
 \et mi.ɴdra.mi.gtɕig
 \dt 14/Jul/2014
 
@@ -5896,8 +5898,9 @@
 
 \lx phoβraŋ
 \ps n
-\ge palais vx. 
+\ge palais
 \gn 宫殿 
+\un 古语
 \et pʰo.braŋ
 
 \lx phochi
@@ -5961,8 +5964,9 @@
 
 \lx pja
 \ps n
-\ge oiseau vx. 
+\ge oiseau
 \gn 鸟 
+\un 古语
 
 \lx pjalu
 \ps n
@@ -16369,8 +16373,9 @@
 
 \lx zgomdʑo
 \ps n
-\ge nom d'une fête vx. 
+\ge nom d'une fête
 \gn 看花节 
+\un 古语
 
 \lx zgoŋzgoŋ
 \ps idph.2
@@ -46938,7 +46943,7 @@ da.lie 打猎
 \ps vs
 \pdl dir 
 \pdv thɯ-
-\ge vieux 
+\ge être vieux, vieillir
 \gn 年老 
 \hbf 1059 
 \et rgas
@@ -46950,7 +46955,7 @@ da.lie 打猎
 \xn 房子老了
 \se ɣɤrgɤz
 \ps vs
-\ge qui devient vieux facilement
+\ge qui vieillit facilement
 \gn 容易衰老
 \xv tɤtho nɯ mɤ-ɣɤrgɤz ma anɯrŋi nɤ anɯrŋi ɕti, pjɯ-nɯɕɯrɲɟo mɤ-ŋgrɤl, ɯ-mdoʁ ɲɯ-nɤsci mɤ-ŋgrɤl
 \xn 松树不容易衰老，一直都是绿的，不变色
@@ -46999,7 +47004,7 @@ da.lie 打猎
 \lx _rɟɤz
 \wav8 kWrJAz
 \ps vs
-\ge développé
+\ge être développé
 \gn 发达
 \xv nɤki nɯ ɯ-ɕa wuma ʑo kɯ-rɟɤz ci ɲɯ-ŋu
 \xn 那个人肌肉很发达
@@ -55117,8 +55122,9 @@ da.lie 打猎
 \ps vi
 \pdl dir 
 \pdv tɤ-
-\ge se sauver vx. 
+\ge se sauver
 \gn 保命 
+\un 古语
 \et tʰar
 \xv to-thar
 \xn 他得救了
@@ -64829,8 +64835,9 @@ da.lie 打猎
 \lx ^rirɤβ
 \wav n-rirAB
 \ps n
-\ge haute montagne vx. 
+\ge haute montagne 
 \gn 高山 
+\un 古语
 \et ri.rab
 \dt 21/Apr/2012
 
@@ -65950,8 +65957,9 @@ da.lie 打猎
 \lx ^ʁju²
 \wav n-Rju
 \ps n
-\ge turquoise vx. 
+\ge turquoise 
 \gn 碧玉、绿松石 
+\un 古语
 \et gju
 \dt 23/Apr/2012
 
