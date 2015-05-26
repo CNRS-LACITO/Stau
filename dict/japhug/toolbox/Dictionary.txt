@@ -18409,7 +18409,7 @@
 \xn 这些鞋子买了同一个码的
 \se aɣɯtɕhɯtɕha
 \xv nɯ-laχtɕha kɯ-ɤɣɯtɕhɯtɕha ʁɟa ɲɯ-ŋu 
-\xn 他们的东西全是成双的。
+\xn 他们的东西全是成双的
 \cf tɯ-tɕha¹
 \dt 28/Nov/2010
 
@@ -18419,7 +18419,7 @@
 \pdv thɯ-
 \ng denom
 \ge qui produit beaucoup de graisse
-\gn 产生的油脂多
+\gn 产的油脂多
 \xv ki paʁ ki ɲɯ-ɤɣɯtʂɤm
 \xn 这只猪的油很多
 \dt 07/Aug/2012
