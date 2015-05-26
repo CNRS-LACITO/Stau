@@ -18272,7 +18272,7 @@
 \gn 枝桠多 
 \hbf plante 2
 \xv kɯki si ɲɯ-ɤɣɯrtɯrtaʁ
-\xn 这颗树有很多枝桠
+\xn 这棵树有很多枝桠
 \xv kɯki @huatong ɯ-jɯ ki ɲɯ-ɤɣɯrtɯrtaʁ
 \xn 这个话筒的干有叉枝（三脚架）
 \xv to-kɤɣɯrtɯrtaʁ-ci
