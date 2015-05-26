@@ -17895,9 +17895,9 @@
 \gn 叶子茂盛 
 \hbf plante 2
 \xv jiɕqha si nɯ ɲɯ-ɤɣɯjwaʁ
-\xn 这颗树长出很多叶子
+\xn 这棵树长出很多叶子
 \xv jiɕqha ɟu nɯ ɲɯ-ɤɣɯjwaʁ
-\xn 这个竹子长出很多叶子
+\xn 这棵竹子长出很多叶子
 \xv @wosun to-kɤɣɯjwaʁ-ci
 \xn 莴笋跟以前不一样，现在长出很多叶子
 \dt 19/Apr/2013
