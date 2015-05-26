@@ -18312,9 +18312,9 @@
 \xv ɯʑo ɯ-skɤt kɯ-sna nɯ, ɯ-wa ɲɤ-kɤɣɯrɯz-ci
 \xn 他的声音很好听，是继承了他父亲
 \xv aʑo a-wa fse-a ma ɲɤ-kɤɣɯrɯz-a-ci
-\xn 我像我父亲因为他的遗传
+\xn 我像我父亲因为遗传他
 \xv nɤʑo ɲɤ-kɤɣɯrɯz-a-ci tɕe a-tɕhaʁa ɣɤʑu
-\xn 我有你的遗传，为我有双眼皮
+\xn 我遗传你，我有双眼皮
 \dt 01/Sep/2014
 
 \lx _aɣɯrʑɯrʑɯɣ
