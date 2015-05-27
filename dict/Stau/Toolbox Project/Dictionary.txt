@@ -2256,7 +2256,7 @@
 \xv kəta de ke mbjoˠ gə ŋərə.
 \xe The dog runs very fast.
 \xn 这只狗跑得很快。
-\rgy mbɣom
+\et mgʲogs
 \dt 18/Nov/2013
 
 \lx mbjʚ rta
