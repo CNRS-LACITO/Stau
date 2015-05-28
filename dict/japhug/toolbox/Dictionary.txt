@@ -25762,6 +25762,7 @@
 \xv jiɕqha rgɤtpu nɯ ɲɯ-ɣɤɕkɤɣlɤɣ
 \xn 那个老年人(不强壮)摇摇晃晃
 \cf ɕkɤɣnɤɕkɤɣ
+\nq revoir
 \dt 02/Nov/2011
 
 \lx _ɣɤɕkɤɣlɤɣ
