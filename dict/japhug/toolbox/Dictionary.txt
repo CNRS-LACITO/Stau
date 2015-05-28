@@ -24314,7 +24314,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge se laisser pendre
-\gn 自己挂自己
+\gn 让自己身体悬吊着
 \xv tɤ-pɤtso to-ʑɣɤɕɯɴqoʁ tɕe, ɲɯ-ɤnɯɣro, ɲɯ-ɣɤɕtʂaŋlaŋ ʑo
 \xn 小孩子把自己挂上去了，在那里吊着玩
 \dt 25/Mar/2013
