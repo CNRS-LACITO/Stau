@@ -17186,7 +17186,7 @@
 \xv aβzɯrdu, ɲɯ-ɤβʑɯrdu
 \xn 是四方形的
 \xv kɯki rdɤstaʁ ki kɯ-ɤβʑɯrdu ci ɲɯ-ŋu
-\xn 这块石头是圆形的
+\xn 这块石头是方形的
 \dt 12/Feb/2014
 
 \lx _acɤrlu
@@ -17326,7 +17326,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge souffrir d'une maladie des yeux 
-\gn 患有白眼病 
+\gn 患有白内障[白眼病] 
 \hbf maladie 
 \xv ɯ-mɲaʁ ɲo-kɤɕɤl-ci
 \xr ཨུ་མྱག་ཉ་ཀ་ཤེལ་ཀྱི།
@@ -18274,7 +18274,7 @@
 \xv kɯki si ɲɯ-ɤɣɯrtɯrtaʁ
 \xn 这棵树有很多枝桠
 \xv kɯki @huatong ɯ-jɯ ki ɲɯ-ɤɣɯrtɯrtaʁ
-\xn 这个话筒的干有叉枝（三脚架）
+\xn 这个话筒的支架有架脚(三脚架）
 \xv to-kɤɣɯrtɯrtaʁ-ci
 \xn 枝桠比以前多
 \cf tɤ-rtaʁ
@@ -18950,7 +18950,7 @@
 \ge négligé (habits) 
 \gn 衣冠不整 
 \xv ɯ-ro ɯ-ŋga ɲɯ-ɤlxɤj
-\xn 他的上衣（胸的衣服）是敞开着的，没有扣好
+\xn 他的上衣是敞开着的，没有扣好
 \xv jiɕqha ɯ-ŋga nɯ ɲɤ-kɤlxɤj-ci
 \xn 他的衣服乱了（他没有发觉）
 \dt 07/Dec/2010
@@ -19564,7 +19564,7 @@
 \ge être serré les uns contre les autres
 \gn 挤挤挨挨，非常拥挤
 \xv ji-tɯ-dɤn kɯ mɯ-ɲɯ-ɤmɯxtɕhɯxtɕhɯt-i ʑo
-\xn 我们多到非常拥挤
+\xn 我们(人)多到非常拥挤
 \xv tʂu ɯ-taʁ @qiche ɯ-tɯ-dɤn kɯ mɯ-ɲɯ-ɤmɯxtɕhɯxtɕhɯt-nɯ ʑo
 \xn 路上汽车多到挤也挤不动
 \dt 16/May/2014
@@ -20145,7 +20145,7 @@
 \ge être sur une même ligne 
 \gn 呈一条直线 
 \xv khɯtsa cho ɕoʁɕoʁ ɲɯ-ɤnɯstɯstu-ndʑi 
-\xn 碗和纸互相对端（在同一条直线上）
+\xn 碗和纸在同一水平线上
 \sy anɯpɕɯpɕoʁ 
 \cf astu
 \dt 31/Aug/2012
@@ -20564,7 +20564,7 @@
 \ge croiser
 \gn 使交叉
 \xv ɯ-mɤlɤjaʁ pjɤ-sɤqɤtʂha
-\xn 他把四肢交叉在一起
+\xn 它把四肢交叉在一起
 \xv tɯmbri ra ɲɤ-sɤqɤtʂha-nɯ
 \xn 他们把绳子交叉了起来
 \xv laʁjɯɣ ɲɤ-sɤqɤtʂha
@@ -21468,7 +21468,7 @@
 \gn 跌倒 
 \hbf 1277
 \xv a-mi pɯ-aʁdɤt
-\xn 我的脚跌倒了
+\xn 我的脚(被)绊了一下
 \xv ɲɯ-ɤci tɕe pɯ-aʁdat-a
 \xn 地很湿，我就跌倒了
 \xv ɲɯ-ɣɤrɤβ tɕe pɯ-aʁdat-a
@@ -22240,7 +22240,7 @@
 \ge de taille différente
 \gn 大小不一
 \xv kɤndʑɯʁi ni wuma ɲɯ-ɤxtɕɯxte-ndʑi
-\xn 两兄弟不是一个大小
+\xn 两兄弟一个大一个小
 \xv kɯ-ɤxtɕɯxte ci ɣɤʑu-ndʑi
 \xn 有一个大有一个小
 \cf xtɕi
@@ -22304,7 +22304,7 @@
 \xv stukɤr ɲɯ-ɤχɕɯβ
 \xn 梁是双根的
 \xv tɯmbri ɲɯ-ɤχɕɯβ
-\xn 绳子是双根的
+\xn 绳子是两股的
 \xv tɕelo ɲɯ-ɤχɕɯβ-ndʑi tɕe ɲɯ-ndzur-ndʑi 
 \xn 他们俩一起在那里站着
 \cf saχɕɯβ
@@ -22509,7 +22509,7 @@
 \xv thɯ-aʑɯrja-j
 \xn 我们排队了
 \xv znde ɯ-taʁ zɯ tɯrme ra ɲɯ-ɤkɤʑɯrja-nɯ-ci
-\xn 人们对着墙排起了队
+\xn 人们背靠着墙排起了队
 \se sɤʑɯrja
 \ps vt
 \pdl dir 
@@ -23302,7 +23302,7 @@
 \ge retourner vers l'intérieur (les bords d'un tissu découpé avec une paire de ciseaux)
 \gn 把（用剪刀剪过的）布料的边缘往里面折进去
 \xv tɯ-ŋga ɯ-tɕhɤz nɯ nɯ-ʁndzar-a tɕe, ɯ-rtsho nɯ kɤ-cim-a
-\xn 我把衣服的调边布剪出来，然后把边缘折进去缝起来
+\xn 我把衣服的吊边布剪出来，然后把边缘折进去缝起来
 \se nɯɣɯcim
 \ps vs
 \ge facile à retourner vers l'intérieur (d'un tissu)
@@ -23927,8 +23927,13 @@
 \gn 接住（水）
 \xv ɯʑo kɯ ko-ɕthɯz, ka-ɕthɯz
 \xn 对着他，朝向他
+<<<<<<< HEAD
 \xv nɤ-ɕki ku-ɕthɯz-a
 \xn 我把他朝向你
+=======
+\xv nɤ-ɕki ku-ɕthɯza
+\xn 我把它朝向你
+>>>>>>> origin/master
 \xv nɤki kɤ-ɕthɯz tɕe a-pɯ-mtam-a
 \xn 给我看一下这个东西
 \xv ɯʑo kɯ tɯ-pɤr nɯ ka-ɕthɯz tɕe pɯ-mto-t-a
@@ -24314,7 +24319,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge se laisser pendre
-\gn 自己挂自己
+\gn 让自己身体悬吊着
 \xv tɤ-pɤtso to-ʑɣɤɕɯɴqoʁ tɕe, ɲɯ-ɤnɯɣro, ɲɯ-ɣɤɕtʂaŋlaŋ ʑo
 \xn 小孩子把自己挂上去了，在那里吊着玩
 \dt 25/Mar/2013
@@ -25344,11 +25349,11 @@
 \gn 把石头立起来做标记
 \et btsug
 \xv iʑo kɤ-ftsɯɣ-i
-\xn 我们建立了
+\xn 我们建立了(某种组织)
 \xv ʑara kɯ ka-ftsɯɣ-nɯ
-\xn 他们建立了
+\xn 他们建立了(某种组织)
 \xv tɯtɯrca kɤ-ftsɯɣ-i
-\xn 我们一起建立了
+\xn 我们一起建立了(某种组织)
 \xv nonghui kɤ-ftsɯɣ-i
 \xn 我们建立了农会
 \xv renmin gongshe kɤ-ftsɯɣ-i
@@ -25448,7 +25453,7 @@
 \ge devenir sauvage, anormal, marginal, aller vivre tout seul dans un endroit sauvage 
 \gn 变野，变得不正常，到野地去生活
 \xv ɯʑo ɲo-ɣar
-\xn 他变野了
+\xn 它(例如猫)变野了
 \xv ɯʑo nɯ-ɣar
 \xn 他变野了
 \xv lɯlu nɯ kha ri pjɯ-χsu-j pɯ-ɕti ri, jɤ-anɯri tɕe ɲo-ɣar
@@ -25756,11 +25761,11 @@
 \wav vi-GACkAGlAG
 \ps vs
 \ge être
-\gn 体质不好，乱碰乱跳
+\gn (体质不好)乱碰乱跳
 \xv nɯŋa ɲɯ-ɣɤɕkɤɣlɤɣ
 \xn 奶牛很不听话地乱蹦乱跳
 \xv jiɕqha rgɤtpu nɯ ɲɯ-ɣɤɕkɤɣlɤɣ
-\xn 那个老年人不强壮地乱动
+\xn 那个老年人(不强壮)摇摇晃晃
 \cf ɕkɤɣnɤɕkɤɣ
 \dt 02/Nov/2011
 
@@ -26479,7 +26484,7 @@
 \xv pɯ-ɣɤla-t-a
 \xn 我把它泡软了
 \xv pɯ-ɣɤle
-\xn 你把它浸泡吧！
+\xn 你把它泡一下吧！
 \xv tɯ-ci ɯ-ŋgɯ zɯ tɯ-ndʐi pɯ-ɣɤla-t-a
 \xn 我把皮子浸泡在水里了
 \se ʑɣɤɣɤla
@@ -26545,7 +26550,7 @@
 \ge abaisser , rendre moins haut
 \gn 弄低 、弄矮
 \xv ɯʑo kɯ ɯ-phoŋbu pa-ɣɤmbɤr
-\xn 他把身高弄低了一点
+\xn 他稍微低下了身子
 \xv kha nɯ pjɯ́-ɣw-ɣɤmbɤr tsa jɤɣ
 \xn 要把房子弄得矮一点
 \xv ɕomskrɯt tɯ-ŋga ɯ-sɤ-ɕkho tɤ-kɤ-βzu nɯ ɲɯ-mbro tɕe, pɯ-ɣɤ-mbara 
@@ -26920,7 +26925,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge parler sans arrêt
-\gn 软体从洞里不由自主地出来、不停地唠叨 
+\gn 软体从洞里(例如嘴巴，鼻子)不由自主地出来、不停地唠叨 
 \xv ma-tɯ-ɣɤɲɤβɲɤβ
 \xn 你不要啰嗦
 \xv nɤ-mtɕhi kɤ-ndɤm, ma-tɯ-ɣɤɲɤβɲɤβ
@@ -27603,7 +27608,7 @@
 \ge bruit d'objets dur et sec qui s'entrechoquent
 \gn 又干又硬的东西相撞发出声音 
 \xv ɲɯ-ɣɤrqhɯrqhɯβ ɲɯ-ɤmɯrpu-nɯ
-\xn 他们相撞，发出很多声音
+\xn 它们相撞，发出很多声音
 \xv khɯtsa ra ɲɤ-ɣɤrqhɯβrqhɯβ ʑo ɲɯ-ɤmɯrpu-nɯ
 \xn 碗相撞很吵
 \cf sɤrqhɯrqhɯβ
@@ -27747,7 +27752,7 @@ da.lie 打猎
 \ge ne pas exiger que qqun repaie sa dette
 \gn 免去（别人欠的钱）
 \xv nɯ-ɣɤrʑo-t-a
-\xn 我没有要了他还钱
+\xn 我没有要他还钱
 \xv nɤʑo kɯ aʑo pɯ-kɯ-ɣɤrʑo-a
 \xn 你没有要了我还钱
 \xv jiɕqha nɯ kɯ a-sci pɕawtsɯ sqɯ-mpɕar ɲɯ-khɤm pɯ-ra ri, kɯmŋu-mpɕar ma mɯ-nɯ-mɟat-a pɯ-ɣɤrʑo-t-a
@@ -27890,7 +27895,7 @@ da.lie 打猎
 \xv tʂha kɤ-ta-t-a tɕe kɤ-ɣɤsna-t-a
 \xn 我熬了茶熬得很浓
 \xv a-khɯtsa ɲɤ-spoʁ tɕe, na-sti tɕe ta-ɣɤsna 
-\xn 我的碗戳了个洞，他塞住了就可以用了
+\xn 我的碗破了个洞，他塞住了就可以用了
 \dt 30/Sep/2011
 
 \lx _ɣɤsŋaβ
