@@ -3212,7 +3212,7 @@
 \hbf animal 
 \xv kɯɕpaz nɯ rɯŋgu tsa ku-rɤʑi ŋu, ɯ-ɣɲɟɯ ɯ-ŋgɯ ku-rɤʑi ɲɯ-ŋu, kɯ-wxti kɯ ɣnɤsqi tɯ-rpa jamar tu, ʁzɯɣ kɯ-ɤɣɯrnɯɕɯr tu, ɯ-scɯʁzɯɣ βɣɯz cho naχtɕɯɣ tsa, qartsɯ kɤ-tsu tɕe, ɯ-ɣɲɟɯ ɯ-ŋgɯ lu-cɯ ɲɯ-ŋgrɤl, wuma ʑo tshu ɲɯ-ŋgrɤl, ftɕar tɕe chɯ-nɯɬoʁ, cɯ tɤkha tɕe pɕaʁ tu-βze tɕe "ɣɯjpa qartsɯ ɕawu rambɯm a-taʁ a-mɤ-ɣɯ-kɤ-rŋgɯ smɯlɤm" tu-ti ɲɯ-ŋgrɤl, ma ɯʑo qartsɯ tɕe wuma ɲɯ-tshu, ɕawu rambɯm wuma ʑo kɯ-wxti tɕe kɯ-mpja ɲɯ-ŋu, tɕe kɯɕpaz ɯ-taʁ ɯ-stu nɯ tɕu kɤ-rŋgɯ tɕe, ɯ-tɯ-mpja kɯ kɯɕpaz nɯ pjɯ́-wɣ-ftʂi ɲɯ-ŋgrɤl, tɕe núndʐa kɯɕpaz khɤfɕɤt tu-βze ɲɯ-ŋgrɤl. kɯ-ɣɤrʁaʁ ra kɯ ɯ-ɣɲɟɯ ɯ-kɯm zɯ tɤ-rcoʁ rɯlɯ thɤstɯɣ kɯ-tu tu-rtsi tɕe, ɯ-ŋgɯ kɯɕpaz thɤstɯɣ tu nɯ pjɯ-saχsɤl ɲɯ-ŋgrɤl. mbroʁpa kɯ fsapaʁ ɯ-βraʁ ŋu tu-ti-nɯ ɲɯ-ŋgrɤl, tɕe tú-wɣ-nɤrʁaʁ qha-nɯ, ɯ-sɤ-dɤn nɯ mbroʁpa sɤtɕha ŋu. 
 \xn 旱獭生活在高山的洞穴里。大的有二十来斤，是红色的，外貌有点像獾。冬天长肥了的时候，就会在洞穴冬眠。据说要冬眠时，它拱着手祈祷：“今年冬天不希望有独角公鹿来睡在我的上面”，因为它在冬天很肥，独角公鹿很大，热量高，会让旱獭融化掉，所以旱獭要祈祷。猎人们数着旱獭洞口贴着的泥球就知道洞穴里住着多少只旱獭。放牧人说它是牲畜的象征，所以讨厌猎捕。旱獭繁殖比较多的地方在牧区。 
-\nqr
+\nq revoir tú-wɣ-rtsi, tú-wɣ-nɤrʁaʁ qha-nɯ.
 \dt 29/May/2013
 
 \lx kɯɕɯŋgɯ
@@ -5587,7 +5587,7 @@
 \gn 草麻黄 
 \hbf plante 
 \xv paʁɕɤɣ nɯ kɤntɕhɯ-tɯphu tu, si ci tu, sɯjno ci tu. si nɯ wuma sthɯci mɤ-mbro, ɕɤɣ ɯ-ŋgɯ tɯ-tɯphu ŋu. ɯ-jwaʁ nɯ kɯ-ɤrqhi ju-kɯ-ru tɕe, kɤ-ndɯ-ndo kɯ-fse ŋu, kɯ-ɤrmbat tɕe, tɕe kɤ-ndɯ-ndo maʁ, ɯ-ru ɕɤɣ cho naχtɕɯɣ, ɯ-rtaʁ wuma ʑo xtɯt, lu-rɲɟi mɤ-cha, ɯ-jwaʁ nɯ qartsɯmɤftɕar ʑo ɯ-tɯ-ɤrŋi kɯ nɤmar ʑo, pjɯ́-wɣ-sɤkhɯ tɕe, ɯ-di ɕɤɣ ɣɯ sthɯci mɤ-mɯm. paʁɕɤɣ li sɯjno ci tu tɕe, tɯ-ji ɯ-ŋgɯ tɤ-rɤku ɯ-rca tu-ɬoʁ ŋu, ɯ-zrɤm xtɕi, kɤ-phɯt mbat, ɯ-ru me, ɯ-jwaʁ nɯ taqaβ kɯ-fse tɕe, kɯ-rɲɟi ŋu, ɯ-rtsɤɣ tu. ɯ-rtsɤɣ ɯ-taʁ ɯ-mɯntoʁ ɲɯ-βze cha, ɯ-di ɯʑoz ci tu. 
-\xn {paʁɕɤɣ}有几种，有一种是树，另一种是草。树的那种长得不太高，是柏树的一种。叶子从远方看好象是连在一起的，近看却不是连在一起的。树干和柏树的一样，枝桠很短，长不长，叶子一年四季的都是油绿色的。熏的时候，味道不如柏树香。另一种{paʁɕɤɣ} 是草，和庄稼长在一起，根小，容易拔掉，没有茎，叶子像针一样，很长，有节。节上开花。有异样的味道。
+\xn {paʁɕɤɣ}有几种，有一种是树，另一种是草。树的那种长得不太高，是柏树的一种。叶子从远方看好像是连在一起的，近看却不是连在一起的。树干和柏树的一样，枝桠很短，长不长，叶子一年四季的都是油绿色的。熏的时候，味道不如柏树香。另一种{paʁɕɤɣ} 是草，和庄稼长在一起，根小，容易拔掉，没有茎，叶子像针一样，很长，有节。节上开花。有异样的味道。
 
 \lx paʁɕi
 \ps n
@@ -14672,9 +14672,9 @@
 \ps np
 \ge tige
 \gn 杆子
-\pdl comitatif 
+\pdl comit 
 \pdv kɤ́rɯru
-\pdl comitatif 
+\pdl comit 
 \pdv kɤɣɯrɯru³
 \cf aɣɯrɯru²
 \dt 20/May/2014
@@ -15397,7 +15397,7 @@
 \gn 一种草 
 \hbf plante 
 \xv xɕɤj ʁnɯ-tɯphu tu tɕe, si ci tu, sɯjno ci tu. sɯjno nɯ ɯ-jwaʁ nɯ kɯ-rɲɟi kɯ-tɕɤr lu-kɤ-mtɕoʁ ŋu. ɯ-ru nɯ ɯ-rtsɤɣ lu-oʑɯrja ŋu, ɯ-rtsɤɣ nɯtɕu ɯ-jwaʁ ntsɯ ku-ndzoʁ ŋu. ɯ-jwaʁ ɯ-qa nɯtɕu, ɯ-ru nɯ ku-mphɤr kɯ-fse ŋu, tɕe ɯ-ru lɤ-zri tɕe ɯ-lɤcɯ tɕe, li ɯ-rtsɤɣ ɲɯ-βze tɕe, li ɯ-jwaʁ lu-ɬoʁ ŋu. xɕɤj nɯ tɯ-phɯ ɯ-ŋgɯ, lɤŋɤtʂɤ-ldʑa ɲɯ-βze cha, ɯ-kɤ-χcɤl nɯ tɕu ɯ-mat kɯ-ɕnom kɯ-fse lu-βze ŋu. sɯjno xɕɤj nɯ kɤntɕhɯ-tɯphɯ tu, pɣɤtɕɯ-xɕɤj kɤ-ti tu, pɤŋɤ-xɕɤj kɤ-ti tu, cɤmi xɕɤj kɤ-ti tu, xsɤrɯ kɤ-ti tu, pɣɤjmɯt kɤ-ti tu, tɯ-ci xɕɤj kɤ-ti tu, tɕeri nɯ-tshɯɣa ra kɯ-naχtɕɯɣ tsa ɕti, nɯ ɯ-ŋgɯ zɯ cɤmi xɕɤj stu ʑo wxti, cɤmi tsa tu-ɬoʁ ŋu, tɯ-ci xɕɤj kɯ-mbɯ-mbɤr ma me, tɕhitoʁ ku tu-ɬoʁ ŋu, ɯ-ro nɯ ra zgo ku tsa tu-ɬoʁ ŋu. nɯŋa cho jla kɤ-mbi wuma ʑo pe. 
-\xn {xɕɤj}有两种，一种是树，另一种是草。草的那种叶子细长，上面尖。茎由许多节组成，每一节上有长有叶子。叶子的根部好象是裹着茎长出来的，叶子裹着的茎长高了又长出节来，又长叶子。每一秆的可以分五、六根，在顶上抽穗结果。这种草有很多种，有{pɣɤtɕɯ-xɕɤj}、{pɤŋɤ-xɕɤj}、{cɤmi xɕɤj}、{xsɤrɯ}、{pɣɤjmɯt}、{tɯ-ci xɕɤj}六种，但它们的形状都差不多相同。其中{cɤmi xɕɤj}最大，生长在河坝，{tɯ-ci xɕɤj}很矮，长在水草地上，其它的都生长在高山上。是喂奶牛和犏牛的好饲料。
+\xn {xɕɤj}有两种，一种是树，另一种是草。草的那种叶子细长，上面尖。茎由许多节组成，每一节上有长有叶子。叶子的根部好像是裹着茎长出来的，叶子裹着的茎长高了又长出节来，又长叶子。每一秆的可以分五、六根，在顶上抽穗结果。这种草有很多种，有{pɣɤtɕɯ-xɕɤj}、{pɤŋɤ-xɕɤj}、{cɤmi xɕɤj}、{xsɤrɯ}、{pɣɤjmɯt}、{tɯ-ci xɕɤj}六种，但它们的形状都差不多相同。其中{cɤmi xɕɤj}最大，生长在河坝，{tɯ-ci xɕɤj}很矮，长在水草地上，其它的都生长在高山上。是喂奶牛和犏牛的好饲料。
 
 \lx xɕɤj²
 \ps n
@@ -15832,7 +15832,7 @@
 \ge lunettes 
 \gn 眼镜 
 \et ɕel.mig
-\pdl comitatif 
+\pdl comit 
 \pdv kɤ́χɕɤlmɯlmɯɣ
 \xv χɕɤlmɯɣ tɤ-nɯ-ta-t-a (tɤ-nɯ-tshoʁ-a)
 \xn 我戴上了眼镜
@@ -65207,7 +65207,7 @@ da.lie 打猎
 \gn [灰灰菜] 
 \hbf plante 
 \xv rmbatɕɯβ nɯ sɯjno ci ŋu, tɯ-ɟom jamar tu-mbro cha, ɲɯ-ɤɣɯrtɯ-rtaʁ cha, ɯ-rɣi wuma ʑo dɤn, ɯ-jwaʁ ɯ-qhu chu nɯ kɯ-pɣi tu, kɯ-ɤɣɯrnɯɕɯr tu, tɯ-ɣndʑɤr tɤ-kɤ-mar kɯ-fse tu, pha ɯ-phoŋbu nɯ kɯ-pɣi ŋu, kɤ-ndza sna, paʁ wuma ʑo rga 
-\xn 灰灰菜是一种植物，可以长一米多高，可以长出很多枝桠，结的种子很多，叶子的背面有的是灰色的，也有的是淡红色的，好象上面涂了一层面粉，全身是灰色的，人可以吃，猪特别喜欢。
+\xn 灰灰菜是一种植物，可以长一米多高，可以长出很多枝桠，结的种子很多，叶子的背面有的是灰色的，也有的是淡红色的，好像上面涂了一层面粉，全身是灰色的，人可以吃，猪特别喜欢。
 \dt 23/Apr/2012
 
 \lx ^rmɯrmi
@@ -68476,7 +68476,7 @@ l
 \ge feuille 
 \gn 叶子 
 \hbf plante2 
-\pdl comitative
+\pdl comit
 \pdv kɤ́jwɯjwaʁ
 \xv kɤ́jwɯjwaʁ ʑo nɯ-phɯt-a
 \xn 我连着叶子一起砍掉了
@@ -68631,7 +68631,7 @@ l
 \hbf 95 
 \xv tɤ-lu pɯ-tɕɤt
 \xn 你挤奶
-\pdl comitatif 
+\pdl comit 
 \pdv kɤ́lɯlu
 \cf nɤlu
 \dt 18/Mar/2014
@@ -69470,7 +69470,7 @@ l
 \ge coiffe, chapeau 
 \gn 头帕、帽子 
 \hbf 473 <2> 475
-\pdl comitative
+\pdl comit
 \pdv kɤ́rtɯrte
 \xv a-rte
 \xn 我的帽子
@@ -71192,7 +71192,7 @@ l
 \gn 耳朵 
 \hbf 81 
 \et rna
-\pdl comitative
+\pdl comit
 \pdv kɤ́rnɯrna
 \dt 21/Dec/2013
 
