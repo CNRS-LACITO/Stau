@@ -20564,7 +20564,7 @@
 \ge croiser
 \gn 使交叉
 \xv ɯ-mɤlɤjaʁ pjɤ-sɤqɤtʂha
-\xn 他把四肢交叉在一起
+\xn 它把四肢交叉在一起
 \xv tɯmbri ra ɲɤ-sɤqɤtʂha-nɯ
 \xn 他们把绳子交叉了起来
 \xv laʁjɯɣ ɲɤ-sɤqɤtʂha
