@@ -27889,7 +27889,7 @@ da.lie 打猎
 \xv tʂha kɤ-ta-t-a tɕe kɤ-ɣɤsna-t-a
 \xn 我熬了茶熬得很浓
 \xv a-khɯtsa ɲɤ-spoʁ tɕe, na-sti tɕe ta-ɣɤsna 
-\xn 我的碗戳了个洞，他塞住了就可以用了
+\xn 我的碗破了个洞，他塞住了就可以用了
 \dt 30/Sep/2011
 
 \lx _ɣɤsŋaβ
