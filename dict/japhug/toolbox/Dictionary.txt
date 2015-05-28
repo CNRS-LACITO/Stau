@@ -25756,11 +25756,11 @@
 \wav vi-GACkAGlAG
 \ps vs
 \ge être
-\gn 体质不好，乱碰乱跳
+\gn (体质不好)乱碰乱跳
 \xv nɯŋa ɲɯ-ɣɤɕkɤɣlɤɣ
 \xn 奶牛很不听话地乱蹦乱跳
 \xv jiɕqha rgɤtpu nɯ ɲɯ-ɣɤɕkɤɣlɤɣ
-\xn 那个老年人不强壮地乱动
+\xn 那个老年人(不强壮)摇摇晃晃
 \cf ɕkɤɣnɤɕkɤɣ
 \dt 02/Nov/2011
 
