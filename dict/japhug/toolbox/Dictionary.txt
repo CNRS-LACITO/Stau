@@ -25344,11 +25344,11 @@
 \gn 把石头立起来做标记
 \et btsug
 \xv iʑo kɤ-ftsɯɣ-i
-\xn 我们建立了
+\xn 我们建立了(某种组织)
 \xv ʑara kɯ ka-ftsɯɣ-nɯ
-\xn 他们建立了
+\xn 他们建立了(某种组织)
 \xv tɯtɯrca kɤ-ftsɯɣ-i
-\xn 我们一起建立了
+\xn 我们一起建立了(某种组织)
 \xv nonghui kɤ-ftsɯɣ-i
 \xn 我们建立了农会
 \xv renmin gongshe kɤ-ftsɯɣ-i
