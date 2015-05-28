@@ -18274,7 +18274,7 @@
 \xv kɯki si ɲɯ-ɤɣɯrtɯrtaʁ
 \xn 这棵树有很多枝桠
 \xv kɯki @huatong ɯ-jɯ ki ɲɯ-ɤɣɯrtɯrtaʁ
-\xn 这个话筒的干有叉枝（三脚架）
+\xn 这个话筒的支架有架脚(三脚架）
 \xv to-kɤɣɯrtɯrtaʁ-ci
 \xn 枝桠比以前多
 \cf tɤ-rtaʁ
