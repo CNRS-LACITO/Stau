@@ -23302,7 +23302,7 @@
 \ge retourner vers l'intérieur (les bords d'un tissu découpé avec une paire de ciseaux)
 \gn 把（用剪刀剪过的）布料的边缘往里面折进去
 \xv tɯ-ŋga ɯ-tɕhɤz nɯ nɯ-ʁndzar-a tɕe, ɯ-rtsho nɯ kɤ-cim-a
-\xn 我把衣服的调边布剪出来，然后把边缘折进去缝起来
+\xn 我把衣服的吊边布剪出来，然后把边缘折进去缝起来
 \se nɯɣɯcim
 \ps vs
 \ge facile à retourner vers l'intérieur (d'un tissu)
