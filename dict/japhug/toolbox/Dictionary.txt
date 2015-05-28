@@ -22509,7 +22509,7 @@
 \xv thɯ-aʑɯrja-j
 \xn 我们排队了
 \xv znde ɯ-taʁ zɯ tɯrme ra ɲɯ-ɤkɤʑɯrja-nɯ-ci
-\xn 人们对着墙排起了队
+\xn 人们背靠着墙排起了队
 \se sɤʑɯrja
 \ps vt
 \pdl dir 
