@@ -16115,7 +16115,7 @@
 \lx χtorma
 \ps n
 \ge offrande au dieux 
-\gn 供应鬼神的物品 
+\gn 供奉鬼神的物品 
 \et gtor.ma
 
 \lx χtsiɯ
