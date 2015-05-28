@@ -16230,7 +16230,7 @@
 \lx zɤmpo
 \ps n
 \ge nourriture pour les morts 
-\gn 供应死人的食物 
+\gn 供奉死人的食物 
 \et zan po.?
 
 \lx zbrilu
