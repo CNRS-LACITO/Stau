@@ -20145,7 +20145,7 @@
 \ge être sur une même ligne 
 \gn 呈一条直线 
 \xv khɯtsa cho ɕoʁɕoʁ ɲɯ-ɤnɯstɯstu-ndʑi 
-\xn 碗和纸互相对端（在同一条直线上）
+\xn 碗和纸在同一水平线上
 \sy anɯpɕɯpɕoʁ 
 \cf astu
 \dt 31/Aug/2012
