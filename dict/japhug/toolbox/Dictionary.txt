@@ -23921,13 +23921,13 @@
 \wav vt-CthWz
 \ps vt
 \pdl dir 
-\pdv kɤ- ()
+\pdv _
 \ge tourner vers 
 \gn 朝向、对着
 \gn 接住（水）
 \xv ɯʑo kɯ ko-ɕthɯz, ka-ɕthɯz
 \xn 对着他，朝向他
-\xv nɤ-ɕki ku-ɕthɯza
+\xv nɤ-ɕki ku-ɕthɯz-a
 \xn 我把他朝向你
 \xv nɤki kɤ-ɕthɯz tɕe a-pɯ-mtam-a
 \xn 给我看一下这个东西
@@ -26930,6 +26930,7 @@
 \se sɤɲɤβɲɤβ
 \xv ɯʑo pɯ-rɯndzɤtshi ri toʁde tɕe kɤ-ndza ra ɲɯ-sɤɲɤβɲɤβ ʑo pa-tɕɤt 
 \xn 他在吃东西，突然把嘴里的东西不由自主地吐出来了
+\nq revoir sens
 \dt 11/Nov/2014
 
 \lx _ɣɤɲcɣɤlɤt
