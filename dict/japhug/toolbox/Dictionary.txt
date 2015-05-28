@@ -27746,7 +27746,7 @@ da.lie 打猎
 \ge ne pas exiger que qqun repaie sa dette
 \gn 免去（别人欠的钱）
 \xv nɯ-ɣɤrʑo-t-a
-\xn 我没有要了他还钱
+\xn 我没有要他还钱
 \xv nɤʑo kɯ aʑo pɯ-kɯ-ɣɤrʑo-a
 \xn 你没有要了我还钱
 \xv jiɕqha nɯ kɯ a-sci pɕawtsɯ sqɯ-mpɕar ɲɯ-khɤm pɯ-ra ri, kɯmŋu-mpɕar ma mɯ-nɯ-mɟat-a pɯ-ɣɤrʑo-t-a
