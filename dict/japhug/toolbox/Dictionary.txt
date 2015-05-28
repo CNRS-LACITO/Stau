@@ -18950,7 +18950,7 @@
 \ge négligé (habits) 
 \gn 衣冠不整 
 \xv ɯ-ro ɯ-ŋga ɲɯ-ɤlxɤj
-\xn 他的上衣（胸的衣服）是敞开着的，没有扣好
+\xn 他的上衣是敞开着的，没有扣好
 \xv jiɕqha ɯ-ŋga nɯ ɲɤ-kɤlxɤj-ci
 \xn 他的衣服乱了（他没有发觉）
 \dt 07/Dec/2010
