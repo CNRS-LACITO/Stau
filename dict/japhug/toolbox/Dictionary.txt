@@ -26920,7 +26920,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge parler sans arrêt
-\gn 软体从洞里不由自主地出来、不停地唠叨 
+\gn 软体从洞里(例如嘴巴，鼻子)不由自主地出来、不停地唠叨 
 \xv ma-tɯ-ɣɤɲɤβɲɤβ
 \xn 你不要啰嗦
 \xv nɤ-mtɕhi kɤ-ndɤm, ma-tɯ-ɣɤɲɤβɲɤβ
