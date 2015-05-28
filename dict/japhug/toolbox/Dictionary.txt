@@ -17186,7 +17186,7 @@
 \xv aβzɯrdu, ɲɯ-ɤβʑɯrdu
 \xn 是四方形的
 \xv kɯki rdɤstaʁ ki kɯ-ɤβʑɯrdu ci ɲɯ-ŋu
-\xn 这块石头是圆形的
+\xn 这块石头是方形的
 \dt 12/Feb/2014
 
 \lx _acɤrlu
