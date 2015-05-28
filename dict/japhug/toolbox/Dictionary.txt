@@ -21468,7 +21468,7 @@
 \gn 跌倒 
 \hbf 1277
 \xv a-mi pɯ-aʁdɤt
-\xn 我的脚跌倒了
+\xn 我的脚(被)绊了一下
 \xv ɲɯ-ɤci tɕe pɯ-aʁdat-a
 \xn 地很湿，我就跌倒了
 \xv ɲɯ-ɣɤrɤβ tɕe pɯ-aʁdat-a
