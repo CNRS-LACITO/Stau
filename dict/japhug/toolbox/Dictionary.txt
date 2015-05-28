@@ -22240,7 +22240,7 @@
 \ge de taille différente
 \gn 大小不一
 \xv kɤndʑɯʁi ni wuma ɲɯ-ɤxtɕɯxte-ndʑi
-\xn 两兄弟不是一个大小
+\xn 两兄弟一个大一个小
 \xv kɯ-ɤxtɕɯxte ci ɣɤʑu-ndʑi
 \xn 有一个大有一个小
 \cf xtɕi
