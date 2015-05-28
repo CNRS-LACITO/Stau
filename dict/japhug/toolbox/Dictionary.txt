@@ -23927,13 +23927,8 @@
 \gn 接住（水）
 \xv ɯʑo kɯ ko-ɕthɯz, ka-ɕthɯz
 \xn 对着他，朝向他
-<<<<<<< HEAD
 \xv nɤ-ɕki ku-ɕthɯz-a
-\xn 我把他朝向你
-=======
-\xv nɤ-ɕki ku-ɕthɯza
 \xn 我把它朝向你
->>>>>>> origin/master
 \xv nɤki kɤ-ɕthɯz tɕe a-pɯ-mtam-a
 \xn 给我看一下这个东西
 \xv ɯʑo kɯ tɯ-pɤr nɯ ka-ɕthɯz tɕe pɯ-mto-t-a
