@@ -17326,7 +17326,7 @@
 \pdl dir 
 \pdv nɯ-
 \ge souffrir d'une maladie des yeux 
-\gn 患有白眼病 
+\gn 患有白内障[白眼病] 
 \hbf maladie 
 \xv ɯ-mɲaʁ ɲo-kɤɕɤl-ci
 \xr ཨུ་མྱག་ཉ་ཀ་ཤེལ་ཀྱི།
