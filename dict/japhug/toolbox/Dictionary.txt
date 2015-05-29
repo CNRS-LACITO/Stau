@@ -12696,9 +12696,9 @@
 \lx tɯrnda
 \ps n
 \ge partie en bois des maisons tibétains 
-\gn 藏式房屋的用木料作成的部分 
+\gn 藏式房屋的用木料做成的部分 
 \xv kɯrɯ kha ɯ-taʁ ɕoŋtɕa kɤ-ntɕhoz kɯ-kɯ-ra nɯ jɤɣɤt cho khɤxtu nɯ ra tɯrnda rmi 
-\xn 藏式房屋上所有用木料作成的部分，如走缘、房背等都叫{tɯrnda}
+\xn 藏式房屋上所有用木料做成的部分，如走缘、房背等都叫{tɯrnda}
 
 \lx tɯrndaku
 \ps n
