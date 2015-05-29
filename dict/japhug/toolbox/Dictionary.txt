@@ -12300,7 +12300,7 @@
 \gn 一棵 
 \hbf 848 
 \xv si tɯ-phɯ 
-\xn 一颗树
+\xn 一棵树
 \dt 15/Sep/2012
 
 \lx tɯ-phɯɣ
