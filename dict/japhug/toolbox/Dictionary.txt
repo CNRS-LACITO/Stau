@@ -15229,7 +15229,7 @@
 \xv tɤjpa ko-lɤt tɕe ɯ-ʑat ci ɣɤʑu, tɕe tɯ-ŋga pjɯ-jaʁ ɲɯ-ra
 \xn 下了雪肯定会冷一点，要多穿一点衣服
 \xv ftɕar jɤ-kɯ-zɣɯt nɯ ɯ-ʑat ci ɣɤʑu nɤ ma ɲɯ-sɤɕke
-\xn 天气热一点，那是因为春天到了的原因
+\xn 天气热一点，那是因为春天到了的缘故
 \cf aɣɯʑɯʑat
 \dt 29/Apr/2014
 
