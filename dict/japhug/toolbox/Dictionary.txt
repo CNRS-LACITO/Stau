@@ -14688,7 +14688,7 @@
 \lx ɯ-rɯru
 \ps np
 \ge juste à ce moment 
-\gn 刚刚在那一段时间 
+\gn 刚好在那一段时间 
 
 \lx ɯ-rɯz
 \ps np
@@ -15043,7 +15043,7 @@
 \wav8 WtshAt
 \ps np
 \ge à la place de, tout juste 
-\gn 代替、刚好 、属于
+\gn 代替、刚好、属于
 \xv ki wɯɟa ki ndʑu ɯ-tshɤt ŋu
 \xn 调羹是可以代替筷子的
 \xv a-tshɤt ɣɯ-tu-βze ɲɯ-ŋu 
