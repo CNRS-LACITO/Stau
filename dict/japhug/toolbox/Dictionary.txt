@@ -15058,7 +15058,7 @@
 \xv a-xtsa ɯ-tshot ɲɯ-βze
 \xn 我的鞋子刚刚合适
 \xv aʑo ɯ-rkoz ɯ-tshot kɤ-ndo-t-a me ri, ɯʑo nɯ ma mɯ-chɯ-ɤnɯrɕo ɕti
-\xn 我不是故意带来刚刚合适（巧克力粉的数量），自然就用了那么多
+\xn 我不是故意带的刚刚好（巧克力粉的数量），自然就用了那么多
 \sy ɯ-tsa
 \dt 28/Aug/2012
 
