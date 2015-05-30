@@ -9021,7 +9021,7 @@
 \xv ɯ-tɕɯ tɤrkopa ʑo jo-sɯxɕe ɕti ma ɯʑo kɯ pjɤ-nɤla pjɤ-maʁ
 \xn 他是强迫儿子去的，他儿子不是自愿的
 \xv ɯ-tɕɯ tɤrkopa ʑo chɤ-sɯɕkɯt
-\xn 他强迫儿子吧饭吃完了
+\xn 他强迫儿子把饭吃完了
 \sy mɤkɯftshi
 \dt 15/May/2014
 
