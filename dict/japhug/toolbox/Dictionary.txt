@@ -50665,9 +50665,9 @@ da.lie 打猎
 \lx _sɤmtsɯr
 \wav vi-sAmtsWr
 \ps vs
-\ge être un moment/endroit où a faim
-\gn 饿
-\un 人饿的时间
+\ng deexp
+\ge (moment/endroit) où on a faim
+\gn （人们都）饿（的时间、地方）
 \xv ɯ-tɯ-sɤmtsɯr saχaʁ
 \xn （人们都）很饿
 \dt 03/Sep/2014
