@@ -8302,7 +8302,7 @@
 \xv ɲɯ-ɤrtɯm sɯrsɯr ʑo
 \xn 圆溜溜的
 \xv lɯlu cho khɯna kɤ-nɯ-rŋgɯ-nɯ tɕe ku-ortɯm-nɯ sɯrsɯr ʑo ŋu
-\xn 猫和狗睡觉的时候卷成一团
+\xn 猫和狗睡觉的时候蜷成一团
 \se sɯrinɤsɯri
 \ps idph.8
 \ge qui tourne vite
