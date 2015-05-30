@@ -9230,9 +9230,9 @@
 \lx tɤsta
 \ps n
 \ge endroit où on va enterrer un mort 
-\gn 葬地 
+\gn 坟地 
 \xv tɤ-sta pjɯ́-wɣ-lɣa tɕe, tɯ-ɕpɤβ nɯ pjɯ́-wɣ-rku ŋu 
-\xn 挖了葬地，就把尸体装下去了
+\xn 挖了坟地，就把尸体装下去了
 \dt 30/May/2013
 
 \lx tɤsto
