@@ -9716,7 +9716,7 @@
 \lx tɕhi²
 \ps n
 \ge escalier taillé dans un tronc 
-\gn 刻成楼梯的树干 
+\gn 用树干刻成的楼梯 
 \hbf 520
 \dt 25/Dec/2012
 
