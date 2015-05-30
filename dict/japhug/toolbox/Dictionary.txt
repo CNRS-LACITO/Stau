@@ -6880,7 +6880,7 @@
 \ge bruit de frappement léger
 \gn 形容轻轻的敲击声
 \xv tɕheme nɯ ɯ-xtsa ɯ-qa kɯ-ɤmtɕoʁ kɯ-mbro to-ŋga tɕe tu-ŋke tɕe rkhɤnɤrkhɤt ɲɯ-ti
-\xn 那位女孩子穿着高跟鞋，走路的时候就非常敲敲声
+\xn 那位女孩子穿着高跟鞋，走路的时候就有咚咚咚的声音
 \dt 02/Apr/2014
 
 \lx rkhɯβrkhɯβ
@@ -67944,7 +67944,7 @@ l
 \wav n-tartCin
 \ps n
 \ge grand drapeau flottant au vent
-\gn 随风飘扬的大旗，在风中飘扬的大旗子
+\gn 大风旗，在风中飘扬的大旗子
 \et dar.tɕʰen
 \dt 17/Mar/2014
 
