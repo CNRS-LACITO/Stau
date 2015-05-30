@@ -7194,7 +7194,7 @@
 \gn 横梁和房背之间的平板 
 \hbf maison 
 \xv ʁdɯrtoʁ nɯ komɤl ɯ-taʁ stukɤr ɯ-pa tɤ-rɤm kɯ-jaʁ ku-kɯ-ɕe nɯ ŋu 
-\xn {ʁdɯrtoʁ} 是在横梁之上，大梁之下横过去的厚木版 
+\xn {ʁdɯrtoʁ} 是在横梁之上，大梁之下横过去的厚木板
 \dt 18/May/2014
 
 \lx ʁdɯskɤr
@@ -7878,7 +7878,7 @@
 
 \lx sqangɯt
 \ps num
-\ge dix-huit 
+\ge dix-huit
 \gn 18
 \hbf 815 
 \dt 05/May/2014
@@ -7900,7 +7900,7 @@
 \lx sqarcat
 \ps num
 \ge dix-neuf 
-\gn 19 
+\gn 19
 \hbf 815 
 \dt 05/May/2014
 
