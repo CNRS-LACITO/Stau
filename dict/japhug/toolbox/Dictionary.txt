@@ -5401,7 +5401,7 @@
 \lx ŋgɤjpɤn
 \ps n
 \ge planche de bois 
-\gn 木版 
+\gn 木板
 \xv ŋgɤjpɤn nɯ rɟoŋsoʁ kɯ thɯ-kɤ-sɯ-phaʁ ŋu. tɤrɤm nɯ tɯ-rpa kɯ ɯ-rɯmu thɯ-kɤ-z-nɯɴqhu tɕe thɯ-kɤ-phaʁ ŋu. 
 \xn {ŋgɤjpɤn}是用锯子锯成的板子，{tɤrɤm}是用斧头顺着纹路劈成的。
 
