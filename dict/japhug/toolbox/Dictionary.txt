@@ -7878,8 +7878,8 @@
 
 \lx sqangɯt
 \ps num
-\ge dix-huit
-\gn 18
+\ge dix-neuf
+\gn 19
 \hbf 815 
 \dt 05/May/2014
 
@@ -7899,8 +7899,8 @@
 
 \lx sqarcat
 \ps num
-\ge dix-neuf 
-\gn 19
+\ge dix-huit
+\gn 18
 \hbf 815 
 \dt 05/May/2014
 
