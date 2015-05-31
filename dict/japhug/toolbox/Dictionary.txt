@@ -3701,7 +3701,7 @@
 \lx laʁzu
 \ps n
 \ge type d'offrande au dieux, un des élements utilisé pour faire les gtorma 
-\gn 供应鬼神的一种物品 
+\gn 供奉鬼神的一种物品 
 \et lag.bzo
 
 \lx lawa
