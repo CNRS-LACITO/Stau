@@ -330,7 +330,7 @@
 \gn 形容草木等集中、茂盛的样子
 \xv tɯrme kɯ-nɤmɲo jo-dɤn tɕe bɯɣbɯɣ ʑo ɲɯ-pa
 \xv bɯɣbɯɣ ʑo jo-ɣi-nɯ tɕe ɲɯ-nɤmɲo-nɯ
-\xn 从四面八方赶来观看
+\xn 人从四面八方赶来观看
 \se bɯɣnɤbɯɣ
 \ps idph.3
 \dt 12/Feb/2014
