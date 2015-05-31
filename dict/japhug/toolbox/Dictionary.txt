@@ -177,7 +177,7 @@
 \lx βɣɤŋgɯ
 \ps n
 \ge partie supérieure du moulin 
-\gn 磨房的上部
+\gn 磨坊的上部
 \cf βɣa
 \cf ɯ-ŋgɯ
 \hbf moulin
@@ -186,7 +186,7 @@
 \lx βɣɤpa
 \ps n
 \ge partie inférieure du moulin (dans l'eau) 
-\gn 磨房的下部（河水流动的地方） 
+\gn 磨坊的下部（河水流动的地方） 
 \cf βɣa
 \cf ɯ-pa
 \hbf moulin
@@ -207,7 +207,7 @@
 \lx βɣɤrnɤjwaʁ
 \ps n
 \ge pales du moulin 
-\gn 磨房下面的木板 
+\gn 磨坊下面的木板 
 \hbf moulin 
 \xv βɣɤrnɤjwaʁ nɯ tɕhɯŋkhɤr ɯ-taʁ tɤ-rɤm kɤ-kɤ-tshoʁ nɯ ŋu, tɯ-ci βɣɤrnɤjwaʁ ɯ-taʁ chɯ-lɤt tɕe tɕhɯŋkhɤr ku-sɯ-mtɕɯr tɕe tɕhɯŋkhɤr ɯ-taʁ βɣɤsni ndzoʁ tɕe βɣɤtu ku-sɯ-mtɕɯr ŋu 
 \xn {βɣɤrnɤjwaʁ}是装在磨房下的水车上的木板，水冲在木板上时，木板使水车转动，上面装有磨心，使上磨盘转动起来。
@@ -227,7 +227,7 @@
 \lx βɣɤsɤprɤt
 \ps n
 \ge écluses du moulin 
-\gn 开关磨房水道用的闸门 
+\gn 开关磨坊水道用的闸门 
 \hbf moulin 
 \xv βɣɤsɤprɤt nɯ kɤ-ɣndʑɯr pɯ-jɤɣ tɕe tɯ-ci ɯ-sɤ-prɤt tɤ-rɤm ci tu tɕe nɯnɯ ŋu 
 \xn {βɣɤsɤprɤt}是一块木板，磨好面以后，用来把水闸住。
