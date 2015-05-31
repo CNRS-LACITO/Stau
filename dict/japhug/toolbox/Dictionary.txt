@@ -6093,7 +6093,7 @@
 \lx prɤdɤja{ta}
 \ps n
 \ge griffer partout, mettre en désordre (oiseau)
-\gn 到处乱抓、乱洒东西（鸟）
+\gn 到处乱抓、乱撒东西（鸟）
 \xv kumpɣa kɯ ɯ-thoʁ ra chɯ-rɤβraʁ tɕe, prɤdɤja ʑo pjɯ-te ŋu
 \xn 鸡把地面抓得到处都是抓过的痕迹
 \dt 22/Jul/2014
