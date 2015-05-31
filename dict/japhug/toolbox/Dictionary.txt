@@ -2701,7 +2701,7 @@
 
 \lx khramba
 \ps n
-\ge mensong
+\ge mensonge
 \gn 谎言
 \et kʰram.ba
 \cf nɯkhramba
