@@ -1997,7 +1997,7 @@
 \gn 既……又…… 
 \et jin.pa.la
 \xv jisŋi ɲɯ-jɯm jinbalazɯ, qale ɣɤʑu 
-\xn 今天即使晴天又刮风
+\xn 今天既是晴天又刮风
 \dt 10/Dec/2014
 
 \lx jinde
