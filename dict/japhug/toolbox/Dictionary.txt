@@ -4676,7 +4676,7 @@
 \wav8 moRmoR
 \ps idph.2
 \ge très fine (poudre)
-\gn 形容粉末极细，或者土壤软而看过来肥沃的样子
+\gn 形容粉末极细，或者土壤软而看起来肥沃的样子
 \xv sɯβɣi ɲɯ-ndɯβ moʁmoʁ ʑo
 \xn 木屑是细的
 \xv βɣa kɯ tɯ-ɣndʑɤr kɯ-ndɯβ ʑo moʁmoʁ chɤ-tɕɤt (chɤ-ɣɤndɯβ ʑo moʁmoʁ)
