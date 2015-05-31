@@ -6489,7 +6489,7 @@
 \lx raka
 \ps n
 \ge
-\gn 牲畜角长的形态
+\gn 牲畜角长的型态
 
 \lx ralarala
 \ps adv
