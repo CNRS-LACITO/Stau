@@ -1020,7 +1020,7 @@
 \lx ɕmɯɣ
 \ps n
 \ge léger et soudain (d'un rire) 
-\gn 突然轻轻的笑 
+\gn 突然轻轻地笑 
 \xv ɯʑo kɯ pa-mtshɤm tɕe, ɕmɯɣ ɲɤ-nɤre 
 \xn 听他这样一说，突然笑了一下
 \dt 13/Dec/2014
