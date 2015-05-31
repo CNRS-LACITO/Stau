@@ -529,7 +529,7 @@
 \xv jisŋi chɤlɤnnɤ tɯ-mɯ lɤt 
 \xn 今天也许会下雨
 \xv a-@dian chɤlɤnnɤ rtaʁ thaŋ nɯ-sɯso-t-a tɕe, nɯ ma @chong mɯ-kɤ-βzu-t-a
-\xn 我想可能电足够，所以没有冲
+\xn 我想可能电足够，所以没有充
 \dt 22/Sep/2013
 
 \lx chɤmda
