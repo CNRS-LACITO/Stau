@@ -2848,7 +2848,7 @@
 \ps n
 \ge sanglier solitaire
 \gn 野猪
-\dv phaʁrgot ɯʑosti ku-kɯ-nɯ-rɤʑi nɯ khɯrndɯɣ tu-kɯ-ti ɲɯŋu
+\dv phaʁrgot ɯʑosti ku-kɯ-nɯ-rɤʑi nɯ khɯrndɯɣ tu-kɯ-ti ɲɯ-ŋu
 \dt 21/Aug/2012
 
 \lx khɯrtshɤz
@@ -14164,7 +14164,7 @@
 \ps np
 \ge goût 
 \gn 香味
-\xv ki cha ki ɯ-ɟɤm kɯ-mɯm ci ɲɯŋu 
+\xv ki cha ki ɯ-ɟɤm kɯ-mɯm ci ɲɯ-ŋu 
 \xn 这种茶味道很香
 \sy ɯ-dɯχɯn
 \dt 12/Jul/2013
@@ -14353,7 +14353,7 @@
 \lx ɯ-ndzɯɣ{maʁ}
 \ps vs
 \pdl dir 
-\pdv pɯ
+\pdv pɯ-
 \ge terrible 
 \gn 厉害 
 \xv a-mu kɯ "a-ku ɯ-tɯ-mŋɤm kɯ ɯ-ndzɯɣ ʑo ɲɯ-maʁ" 
@@ -16464,7 +16464,7 @@
 \ps idph.2
 \ge complètement rempli
 \gn 形容满
-\xv lʁa ɯ-ŋgɯ laχtɕha khro to-rku-nɯ zɟaŋzɟaŋ ʑo ɲɯpa
+\xv lʁa ɯ-ŋgɯ laχtɕha khro to-rku-nɯ zɟaŋzɟaŋ ʑo ɲɯ-pa
 \xn 他们在口袋里装了很多东西，显得鼓鼓囊囊的
 \sy zɟraŋzɟraŋ
 \dt 28/Aug/2012
@@ -17816,7 +17816,7 @@
 \xn 这个糌粑气味很香
 \xv to-kɤɣɯdɯχɯn-ci
 \xn 气味比以前香
-\xv @pingguo nɯ kɯ-ɤɣɯdɯχɯn ci ɲɯŋu
+\xv @pingguo nɯ kɯ-ɤɣɯdɯχɯn ci ɲɯ-ŋu
 \xn 那个苹果有香味
 \cf ɯ-dɯχɯn
 \dt 18/Apr/2013
@@ -20398,7 +20398,7 @@
 \pdv thɯ-
 \ge grisâtre 
 \gn 灰扑扑
-\xv jiɕqha nɯ kɯ-ɤpɣɯlu ci ɲɯŋu
+\xv jiɕqha nɯ kɯ-ɤpɣɯlu ci ɲɯ-ŋu
 \xn 刚才那个是灰扑扑的
 \sy apɤpɣi
 \cf pɣi
@@ -20409,7 +20409,7 @@
 \ps vi
 \ge ayant des mouvement alertes 
 \gn 动作灵活（小伙子） 
-\xv kɯ-ɤphala ci ɲɯŋu
+\xv kɯ-ɤphala ci ɲɯ-ŋu
 \xn 他动作很灵活
 \sy aɕpala
 \dt 03/Apr/2011
@@ -21003,7 +21003,7 @@
 \gn 宽窄不一
 \xv to-kɤrɟumtɕɤr-ci
 \xn 宽窄不一了
-\xv tɯ-ŋga ɯ-spa ɲɯ-ɤrɟumtɕɤr tɕe, ɣɯ-nɯβʑɯt ɲɯra
+\xv tɯ-ŋga ɯ-spa ɲɯ-ɤrɟumtɕɤr tɕe, ɣɯ-nɯβʑɯt ɲɯ-ra
 \xn 衣服的材料宽窄不一，要剪一下
 \cf tɕɤr
 \pdl dir 
@@ -21104,7 +21104,7 @@
 \xv cho-kɤrɲɟele-ci
 \xn 他伸出来了
 \xn 那条蛇是伸着的
-\xv kɯ-ɤrɲɟele ci ɲɯ-ŋu kɯ-zri tsa ɲɯ-ŋu ɯ-skɤt ɲɯŋu
+\xv kɯ-ɤrɲɟele ci ɲɯ-ŋu kɯ-zri tsa ɲɯ-ŋu ɯ-skɤt ɲɯ-ŋu
 \xn “伸着”表示“长一点”的意思
 \se sɤrɲɟele
 \ge étendre
@@ -21885,7 +21885,7 @@
 \pdl dir 
 \pdv tɤ-
 \ng caus
-\xv tɯtshi kú-wɣ-sɤla tɕe mɯ́jpe ma tɯthɯ cho scoʁ khɯtsa ɲɯ-sɤtɕaʁlaʁ ʑo ɲɯŋu
+\xv tɯtshi kú-wɣ-sɤla tɕe mɯ́j-pe ma tɯthɯ cho scoʁ khɯtsa ɲɯ-sɤtɕaʁlaʁ ʑo ɲɯ-ŋu
 \xn 煲粥不好，因为锅子、瓢和碗上都会沾得到处都是
 \dt 31/Aug/2012
 
@@ -22648,7 +22648,7 @@
 \pdl dir 
 \pdv tɤ- 
 \pdl dir 
-\pdv pɯ -
+\pdv pɯ-
 \ge préparer, planifier 
 \gn 计划、设计、准备需要的材料 
 \et bgod
@@ -22963,7 +22963,7 @@
 \lx _βzgɤr
 \ps vt
 \pdl dir 
-\pdv pɯ -
+\pdv pɯ-
 \ge retarder le temps 
 \gn 耽误时间 
 \xv pjɯ-ta-βzgɤr mɯ́j-pe
@@ -26974,7 +26974,7 @@
 \pdv tɤ-
 \ge très liquide (boue)
 \gn 泥巴很稀
-\xv ɲɯɣɤrcoʁ tɕe ɲɯ-ɣɤɲɟɤrɲɟɤr ʑo
+\xv ɲɯ-ɣɤrcoʁ tɕe ɲɯ-ɣɤɲɟɤrɲɟɤr ʑo
 \xn 泥巴很稀
 \xv ɯ-tɯ-tshu ɲɯ-ɣɤɲɟɤrɲɟɤr
 \xn 胖得动也动不了
@@ -30381,7 +30381,7 @@ da.lie 打猎
 \un 这个动词和名词{tɯ-ʑi}构成词组，不能单独使用
 \xv ɯʑo ɯ-ʑi ɲɯ-loʁ
 \xn 他觉得恶心
-\xv aʑi ɲɯl-oʁ
+\xv a-ʑi ɲɯ-loʁ
 \xn 我觉得恶心
 \se sɯɣloʁ
 \se sɤsɯɣloʁ
@@ -30714,7 +30714,7 @@ da.lie 打猎
 \gn 以前、在前面
 \xv lɤ-mɤku-a
 \xn 我在前面
-\xv kɯ-nɯsaχsɯ ju-ɣi-j pɯ-ŋu tɕe aʑo ɲɯ-mɤku-a pɯŋu
+\xv kɯ-nɯsaχsɯ ju-ɣi-j pɯ-ŋu tɕe aʑo ɲɯ-mɤku-a pɯ-ŋu
 \xn 我们来吃中午餐的时候，我走在前面
 \se zmɤku
 \ps vt
@@ -30751,7 +30751,7 @@ da.lie 打猎
 \gn 凸 
 \hbf 970 
 \et ɴbur
-\xv znde ɲɯ-mɤmbɯr tɕe, mbɯt ɲɯŋu
+\xv znde ɲɯ-mɤmbɯr tɕe, mbɯt ɲɯ-ŋu
 \xn 墙有个凸出的地方，快要塌下来了
 \xv pjɤ-mɤmbɯr
 \xn 地上凸出来了
@@ -30789,9 +30789,9 @@ da.lie 打猎
 \ng refl
 \ge occuper la place la plus importante
 \gn 自己占主要地位
-\xv jiɕqha nɯ-phe tɯrju kɤ-βzu ɲɯra ri, aʑo tɤ-ʑɣɤmɤmu-a
+\xv jiɕqha nɯ-phe tɯ-rju kɤ-βzu ɲɯra ri, aʑo tɤ-ʑɣɤmɤmu-a
 \xn 要跟他们说，主要出面的是我（主要的话是我说的）
-\xv jiɕqha nɯphe tɯrju kɤ-βzu ɲɯra ri, aʑo mɤ-ʑɣɤmɤmu-a
+\xv jiɕqha nɯ-phe tɯ-rju kɤ-βzu ɲɯ-ra ri, aʑo mɤ-ʑɣɤmɤmu-a
 \xn 要跟他们说，但是我不会主要出面（婉转的意思：那句话不好说）
 \dt 26/Aug/2012
 
@@ -34193,7 +34193,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge attraper la variole
 \gn 得麻子
-\xv tɯmɲɯtsi tɯɣjɤn a-tɤ-kɯ-nɤmbrɯm qhe, tɕe ɯ-qhu mɯ́j-kɯ-nɤmbrɯm tɕe tu-kɯ-lo ɲɯŋu.
+\xv tɯ-mɲɯtsi tɯ-ɣjɤn a-tɤ-kɯ-nɤmbrɯm qhe, tɕe ɯ-qhu mɯ́j-kɯ-nɤmbrɯm tɕe tu-kɯ-lo ɲɯ-ŋu.
 \xn 一辈子得麻子就终身不再得这种病，有免疫能力
 \dt 22/Aug/2012
 
@@ -35531,7 +35531,7 @@ da.lie 打猎
 \xn 你从那么远的地方来，我这里也没有事做，我会坚持的
 \xv kɤ-nɤrko me
 \xn 只有那么点能力，已经尽力了
-\xv tɤ-nɤrko-t-a tɕe tɤ-ndza-t-a pɯra (= tɤrkoz ʑo tɤndzata pɯra)
+\xv tɤ-nɤrko-t-a tɕe tɤ-ndza-t-a pɯ-ra (= tɤrkoz ʑo tɤ-ndza-t-a pɯ-ra)
 \xn 我被迫吃了
 \se znɤrko
 \ps vt
@@ -36019,7 +36019,7 @@ da.lie 打猎
 \gn 吃醋 
 \xv ɲɯ-sɤnɤsɤɣ
 \xn 他在吃醋
-\xv tu-kɯ-nɤsɤɣ a-pɯ-ŋu tɕe, tɕe ɯ-rʑaβ ɲɯ́-wɣ-nɤmthɯn ndʐa ɲɯŋu
+\xv tu-kɯ-nɤsɤɣ a-pɯ-ŋu tɕe, tɕe ɯ-rʑaβ ɲɯ́-wɣ-nɤmthɯn ndʐa ɲɯ-ŋu
 \xn 别人吃自己的醋，是因为自己喜欢上别人的妻子
 \dt 26/Jun/2011
 
@@ -36342,7 +36342,7 @@ da.lie 打猎
 \ps vs
 \ge être obéissant
 \gn 听指挥
-\xv ki tɯrme ki mɤ-kɯ-nɤtsɤtkhɯ ci ɲɯŋu
+\xv ki tɯrme ki mɤ-kɯ-nɤtsɤtkhɯ ci ɲɯ-ŋu
 \xn 这个人不听话
 \xv a-mdʑu ki mɯ́j-nɤtsɤtkhɯ
 \xn 我这个音发不出来
@@ -36551,7 +36551,7 @@ da.lie 打猎
 \pdv pɯ-
 \ge faire un gros effort
 \gn 用力、使劲
-\xv ki rdɤstaʁ ɲɯrʑi ri, tɤ-nɤxɕat-a tɕe tɤ-mɟa-t-a
+\xv ki rdɤstaʁ ɲɯ-rʑi ri, tɤ-nɤxɕat-a tɕe tɤ-mɟa-t-a
 \xn 这块石头很重，我很用力捡起来了
 \xv pɯ-nɤxɕɤt tɕe pɯ-ɣɤrɤt
 \xn 你用力扔吧
@@ -37359,7 +37359,7 @@ da.lie 打猎
 \xn 我还没有准备出发
 \xv kɤ-ɕe tɤ-ndzu-a
 \xn 我准备出发了
-\xv ʑa a-tɤ-ndzu ɲɯra tɕe tɤ-ɕɯmbɣom
+\xv ʑa a-tɤ-ndzu ɲɯ-ra tɕe tɤ-ɕɯmbɣom
 \xn 你要早一点启程的话，就让他快点
 \dt 02/Aug/2012
 
@@ -38262,7 +38262,7 @@ da.lie 打猎
 \pdv pɯ-
 \ge suivre les instructions de 
 \gn 依照……的说法
-\xv ɯʑo kɯ kɤ-ɕe ɲɯsɯsɤm qhe, tɕe nɯ-znɯɲco-t-a
+\xv ɯʑo kɯ kɤ-ɕe ɲɯ-sɯsɤm qhe, tɕe nɯ-znɯɲco-t-a
 \xn 他想去那里，我就依他了
 \dv ɯʑo ɯ-kɤti nɯ tu-kɤ-stu nɯ ɲɯ-kɤ-znɯɲco rmi
 \cf nɯɴqhu
@@ -38406,7 +38406,7 @@ da.lie 打猎
 \gn 受教训
 \xv aʑo pɯ-nɯɕtar-a
 \xn 我受过那个教训
-\xv a-pɯ-tɯ-nɯɕtar ɲɯra wo!
+\xv a-pɯ-tɯ-nɯɕtar ɲɯ-ra wo!
 \xn 你应该吸取教训！
 \xv mɯ-ɲɤ-stu-nɯ ma pjɤ-nɯɕtar-nɯ
 \xn 他们吸取了教训，再也不相信他了
@@ -39266,7 +39266,7 @@ da.lie 打猎
 \ng denom
 \ge habiter chez quelqu'un 
 \gn 借住 
-\xv jɯfɕɯr ji-kɯ-nɯkho ʁnɯz pɯtu, χsɯm pɯtu
+\xv jɯfɕɯr ji-kɯ-nɯkho ʁnɯz pɯ-tu, χsɯm pɯ-tu
 \xn 昨天我们家有两三个客人
 \xv tɤ-nɯkho-a
 \xn 我在他家借住了
@@ -41636,7 +41636,7 @@ da.lie 打猎
 \un 表示刀很锋利
 \xv paʁndza pa-nɯrʑɯɣ ʑo pa-rɤkrɯ 
 \xn 他把猪草切得很快（刀很锋利）
-\xv pɯnɯrʑɯɣa pɯ-ʁndzar-a
+\xv pɯ-nɯrʑɯɣ-a pɯ-ʁndzar-a
 \xn 我锯得很快（锯子很锋利）
 \xv ftɕɤfkɤt pa-nɯrʑɯɣ ʑo 
 \xn 他很果断的指挥了别人
@@ -41668,7 +41668,7 @@ da.lie 打猎
 \ge considérer comme un ennemi 
 \gn 敌视 
 \et dgra
-\xv jiɕqha kɯ tú-wɣ-nɯʁgra-a ɲɯŋu
+\xv jiɕqha kɯ tú-wɣ-nɯʁgra-a ɲɯ-ŋu
 \xn 那个人跟我有仇
 \se anɯʁgrɯʁgra
 \ps vi
@@ -43498,7 +43498,7 @@ da.lie 打猎
 \xn 我欠了钱
 \xv nɤ-rŋɯl kɤ-ŋa-t-a, ɯ-qhu tɕe ɲɯ-kham-a
 \xn 我欠了你钱，以后会还
-\xv ɣnɤsqi ɲɯra, sqɯ-mpɕar nɯ-kho-t-a, nɯma mɯ́j-rtaʁ tɕe sqɯ-mpɕar kɤ-ŋa-t-a
+\xv ɣnɤsqi ɲɯ-ra, sqɯ-mpɕar nɯ-kho-t-a, nɯma mɯ́j-rtaʁ tɕe sqɯ-mpɕar kɤ-ŋa-t-a
 \xn 原来需要二十块钱，我给了十块然后钱不够，我就赊了十块钱
 \xv kɯ-rɤχtɯ jɤ-ari-a ri, a-rŋɯl mɯ́j-rtaʁ tɕe kɤ-ŋa-t-a, tɕe a-nŋa nɯ-ɬoʁ
 \xn 我去买东西钱不够就赊了账
@@ -43813,7 +43813,7 @@ da.lie 打猎
 \ge arriver
 \gn 来临（活佛、神仙）
 \et ɴkʰor
-\xv kɯki ɕɤfɕo aʑo a-phe ku-ŋkhor ɲɯ+ŋu
+\xv kɯki ɕɤfɕo aʑo a-phe ku-ŋkhor ɲɯ-ŋu
 \xn 这几天他到我这里了
 \dt 11/Feb/2014
 
@@ -44513,7 +44513,7 @@ da.lie 打猎
 \xn 我摘了花 
 \xv sɯjno nɯ-phɯt-a, lɤ-phɯt-a
 \xn 我拔了草
-\xv ɣnɤsqi ɯ-ŋgɯ χsɯm pjɯ́-wɣ-phɯt tɕe, sqaɕnɯz ma ɲɯme ŋu 
+\xv ɣnɤsqi ɯ-ŋgɯ χsɯm pjɯ́-wɣ-phɯt tɕe, sqaɕnɯz ma ɲɯ-me ŋu 
 \xn 二十减三等于十七
 \xv znde pɯ-phɯt-a
 \xn 我拆了墙
@@ -45723,7 +45723,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge pousser des feuilles
 \gn 长出叶子
-\xv χɕitka jɤ-ɣe tɕe, sɯku ɲɯ-rɤjwaʁ ɲɯŋu
+\xv χɕitka jɤ-ɣe tɕe, sɯku ɲɯ-rɤjwaʁ ɲɯ-ŋu
 \xn 到了春天，树长出叶子
 \cf tɤ-jwaʁ
 \cf ɣɤjwaʁ
@@ -47483,7 +47483,7 @@ da.lie 打猎
 \pdv nɯ-
 \ge en trop
 \gn 多余的
-\xv ki tɯ-ŋga ki ɲɯ-ro, kɤ-ɕɣɤz ɲɯra
+\xv ki tɯ-ŋga ki ɲɯ-ro, kɤ-ɕɣɤz ɲɯ-ra
 \dn 这件衣服是多余的，要还给人家（多拿了属于别人的衣服）
 \xv ki ɯ-phɯ ki kɤ-kho ɲɤ-ro tɕe ɲɯ-ta-fsɯɣ
 \xn 你多给了钱，我找一下零钱给你
@@ -53080,15 +53080,15 @@ da.lie 打猎
 \gn 遮住（一面） 、挡住
 \xv tɤ́-wɣ-sqaʁjɯβ-a
 \xn 把我挡住了
-\xv si kɯ tu-sqaʁjɯβ ɲɯŋu
+\xv si kɯ tu-sqaʁjɯβ ɲɯ-ŋu
 \xn 被树遮住
-\xv zgo kɯ tu-sqaʁjɯβ ɲɯŋu
+\xv zgo kɯ tu-sqaʁjɯβ ɲɯ-ŋu
 \xn 被山遮住
 \xv tɤ-kɯ-sqaʁjɯβ-a
 \xn 你把我挡住了
 \xv tɤ-ta-sqaβjɯɣ 
 \xn 我把你挡住了
-\xv tɤŋe zdɯm kɯ to-sqaβjɯβ ɲɯŋu, tɕe mɯ-ɲɤ-sɤmto
+\xv tɤŋe zdɯm kɯ to-sqaβjɯβ ɲɯ-ŋu, tɕe mɯ-ɲɤ-sɤmto
 \xn 云遮住了太阳，所以就看不见
 \dt 03/Aug/2012
 
@@ -57064,7 +57064,7 @@ da.lie 打猎
 \ng trop
 \ge impressionant 
 \gn 逞能，在别人面前体现自己的能力 
-\xv jiɕqha kɯ-znɤchacha ci ɲɯŋu
+\xv jiɕqha kɯ-znɤchacha ci ɲɯ-ŋu
 \xn 他很逞能
 \cf znɤtʂhɯtʂhɯt
 \dt 24/Aug/2012
@@ -60397,7 +60397,7 @@ da.lie 打猎
 \gn 又平坦又宽阔（田地、草地） 
 \xv jisŋi kɯ-ɣɤɕqali ri maŋe tɕe, jaŋjaŋ ʑo ɲɯ-pa
 \xn 今天没有人大声说话，很安静
-\xv tɯji jaŋjaŋ ʑo ɲɯ-pa, ɲɯj-om
+\xv tɯji jaŋjaŋ ʑo ɲɯ-pa, ɲɯ-jom
 \xn 田地很宽阔
 \dt 30/Oct/2011
 
@@ -62767,7 +62767,7 @@ da.lie 打猎
 \ps idph.6
 \ge énorme
 \gn 形容高大（搬都搬不动）
-\xv rŋgɯ mɤlɤɲɟɤr ci ɲɯŋu tɕe kɤ-ɣɤrɤt mɯ́j-sɤcha
+\xv rŋgɯ mɤlɤɲɟɤr ci ɲɯ-ŋu tɕe kɤ-ɣɤrɤt mɯ́j-sɤcha
 \xn 石包很高大，搬也搬不动
 \cf ɣɤɲɟɤrɲɟɤr
 \dt 24/Oct/2013
@@ -64351,7 +64351,7 @@ da.lie 打猎
 \ps idph.2
 \ge air de chien battu (expression du visage) 
 \gn 形容受委屈、垂头丧气的样子
-\xv qlɯqlɯ ʑo ku-ru ɲɯŋ-u
+\xv qlɯqlɯ ʑo ku-ru ɲɯ-ŋu
 \xn 他用一副受委屈的样子看着他
 \cf ɕquɕqu
 \cf ɕqhɯɕqhi
@@ -64673,7 +64673,7 @@ da.lie 打猎
 \ps idph.2
 \ge rugueux 
 \gn 形容粗糙（像砂纸一样）、快要脱皮的样子
-\xv tɯrgi ɯ-rqhu rɕɯβrɕɯβ ʑo ɲɯpa
+\xv tɯrgi ɯ-rqhu rɕɯβrɕɯβ ʑo ɲɯ-pa
 \xn 杉树的树皮很粗糙，快要脱皮的样子
 \cf sɤrɕɯβrɕɯβ
 \dt 10/May/2013
@@ -70351,7 +70351,7 @@ l
 \ps adv
 \ge en mettre autant que possible
 \gn 能装多少就装多少
-\xv nɤ-khɯtsa tɕhɯtɕhɯtɕhɯt nɯ pɯnɯrke tɕe, ɯ-ro nɯ nɯ-βde
+\xv nɤ-khɯtsa tɕhɯtɕhɯtɕhɯt nɯ pɯ-nɯrke tɕe, ɯ-ro nɯ nɯ-βde
 \xn 你碗里能装多少就装多少，把剩余的放在那里
 \dt 21/Aug/2012
 
@@ -71943,7 +71943,7 @@ l
 \ps idph.2
 \ge ébouriffé, en désordre 
 \gn 形容人蓬头垢面，头发乱蓬蓬的样子，或形容动物的尾巴粗而毛发多 
-\xv nɤ-ku pɯ-sɤɕɤt ma zoŋzoŋ ʑo ɲɯpa 
+\xv nɤ-ku pɯ-sɤɕɤt ma zoŋzoŋ ʑo ɲɯ-pa 
 \xn 你梳一下头，你的头发乱蓬蓬的
 \cf zaŋzaŋ
 \dt 24/Nov/2011
