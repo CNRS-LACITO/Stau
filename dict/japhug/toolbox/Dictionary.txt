@@ -67944,7 +67944,7 @@ l
 \wav n-tartCin
 \ps n
 \ge grand drapeau flottant au vent
-\gn 大风旗，在风中飘扬的大旗子
+\gn 大风旗
 \et dar.tɕʰen
 \dt 17/Mar/2014
 
