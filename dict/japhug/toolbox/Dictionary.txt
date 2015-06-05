@@ -1664,6 +1664,7 @@
 \xv ftɕar kɤ-ndzoʁ
 \xv ftɕar ɯ-qa ka-ta
 \xn 春天开始了
+\cf ftɕɤru
 \dt 12/Dec/2013
 
 \lx ftɕhoʁftɕhoʁ
@@ -8251,6 +8252,10 @@
 \ps n
 \ge outil pour casser les mottes de terre 
 \gn 土巴捶
+\xv sɯmphɯ ɯ-ru
+\xn 土巴捶的把子
+\xv sɯmphɯ ɯ-pɤl
+\xn 土巴捶的刀
 \dt 14/Aug/2012
 
 \lx sɯŋgɯɟu
@@ -10563,6 +10568,7 @@
 \xv nɤ-tʂu!
 \xn 请进！（主人对客人的客套话）
 \cf tʂɯtʂu
+\cf ftɕɤru
 \cf nɯtʂu¹
 \cf nɯtʂu²
 \dt 12/Aug/2012
@@ -72304,3 +72310,11 @@ l
 \gn 一下子（跪下）
 \xv ɯ-χpɯm dzoʁ ʑo pjɤ-tshoʁ
 \xn 他一下子跪下了
+
+\lx ftɕɤru
+\ps n
+\ge chemin au milieu des champs (pour éviter d'abîmer les récoltes)
+\gn 夏天为了避免踩坏庄稼而特意在田地李开辟的一条小道
+\cf ftɕar
+\cf tʂu
+
