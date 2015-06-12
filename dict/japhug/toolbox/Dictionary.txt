@@ -51678,7 +51678,6 @@ da.lie 打猎
 \lx _sɤsɯɣ
 \wav vt-sAsWG
 \wav vt-sAsWG2
-\wav vt-sAsWG3
 \ps vt
 \ng caus
 \pdl dir 
@@ -51693,7 +51692,7 @@ da.lie 打猎
 \xv nɤ-jaʁ kɤ-sɤsɯɣ
 \xn 你把拳头握紧
 \xv tɤ-mtɯ kɤ-sɤsɯɣ
-\xn 把扣子扣紧
+\xn 把结打紧
 \xv a-mthɤɣ kɤ-sɤsɯɣ-a
 \xn 我把腰带束紧了
 \xv a-fkur tɤ-sɤsɯɣ-a 
