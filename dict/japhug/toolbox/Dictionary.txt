@@ -1299,12 +1299,6 @@
 \xn 晚霞是红色的
 \dt 20/May/2014
 
-\lx ɕqɤt
-\ps idph.1
-\ge bruit d'une pierre jetée contre une surface dure
-\gn 石头扔在硬的平面上发出的声音
-\dv rdɤstaʁ tú-wɣ-lɤt tɕe kɯm ɯ-taʁ a-tɤ-xtsɯɣ tɕe nɯ ɣɯ ɯ-zgra ɕqɤt ʑo ɲɯ-ti tu-kɯ-ti ŋu
-\dt 15/May/2014
 
 \lx ɕqhaloʁ
 \ps n
@@ -23780,8 +23774,15 @@
 \pdv pɯ-
 \pdl dir 
 \pdv _
-\ge tomber, sombrer 
-\gn 掉进去、沉下去 
+\sn 1
+\ge disparaître
+\gn 消失
+\sn 2
+\ge tomber dans
+\gn 掉进去
+\sn 3
+\ge sombrer 
+\gn 沉下去 
 \hbf 1722 
 \xv jɤ-ari tɕe jɤ-ɕqhlɤt
 \xn 他去了就掉进去了
@@ -59595,8 +59596,9 @@ da.lie 打猎
 \wav8 CqAt2
 \ps idph.1
 \sn 1
-\ge bruit de pierre
-\gn 石头碰撞声
+\ge bruit d'une pierre jetée contre une surface dure
+\gn 石头扔在硬的平面上发出的声音
+\dv rdɤstaʁ tú-wɣ-lɤt tɕe kɯm ɯ-taʁ a-tɤ-xtsɯɣ tɕe nɯ ɣɯ ɯ-zgra ɕqɤt ʑo ɲɯ-ti tu-kɯ-ti ŋu
 \sn 2
 \ge douleur soudaine
 \gn 形容突然痛起来的感觉
