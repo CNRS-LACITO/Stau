@@ -23767,7 +23767,6 @@
 
 \lx _ɕqhlɤt
 \wav vi-CqhlAt
-\wav vt-sWCqhlAt
 \wav8 CqhlAt
 \ps vi
 \pdl dir 
@@ -23796,8 +23795,6 @@
 \ps vt
 \ge faire disparaître
 \gn 使消失
-\xv ɯʑo kɯ ɯ-ʁi ta-ndo tɕe sɯŋgɯ zɯ ka-sɯɕqhlɤt
-\xn 他把弟弟带走了，消失在森林里
 \se ʑɣɤsɯɕqhlɤt
 \ps vi
 \pdl dir 
