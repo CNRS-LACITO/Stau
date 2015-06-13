@@ -2257,7 +2257,7 @@
 \ps n
 \ge racine de navet cuite
 \gn 烤熟的芜菁根
-\xv rɤjndoʁ lú-wɣ-pu tɕe nɯnɯ kɤpupu tu-kɯ-ti ɲɯ-ŋu
+\xv rejndoʁ lú-wɣ-pu tɕe nɯnɯ kɤpupu tu-kɯ-ti ɲɯ-ŋu
 \dt 05/Apr/2011
 
 \lx kɤrŋu
@@ -14387,16 +14387,20 @@
 \gn 办法、措施
 
 \lx ɯ-pɤl
-\ps n
+\ps np
 \ge partie de la louche qui sert à contenir le liquide 
 \gn 勺子容水的部分
 
 \lx ɯ-pɕi
+\wav8 qale_GAZu
 \ps n
 \ge dehors 
 \gn 外面 
 \hbf 714 
 \et pʰʲi
+\xv ɯ-pɕi qale ɣɤʑu wo
+\xn 外面有风
+
 \dt 30/May/2013
 
 \lx ɯ-phe
@@ -14673,7 +14677,7 @@
 \ge clairvoyance
 \gn 预见
 \et rigs
-\xv nɤki rɤjndoʁ ɯ-rɯz ɲɯ-ŋu 
+\xv nɤki rejndoʁ ɯ-rɯz ɲɯ-ŋu 
 \xn 这是大头菜的一种 
 \xv jisŋi kɤ-rɤma a-rɯz ŋu 
 \xn 今天轮到我上班 
@@ -29008,7 +29012,7 @@ da.lie 打猎
 \hbf 1213 
 \xv tɤrɣe thɯ-ɣɯri 
 \xn 你穿珠子吧！
-\xv rɤjndoʁ (kɯfse) cho-ɣɯri
+\xv rejndoʁ (kɯfse) cho-ɣɯri
 \xn 他穿了芜菁根（用杨柳条子穿，穿了以后晒干）
 \xv taqaβrna nɯ-ɣɯri-t-a 
 \xn 我穿了针
@@ -58365,7 +58369,7 @@ da.lie 打猎
 \xn 我掰了胡豆
 \xv ʑɴɢɯloʁ pɯ-ʑɴɢu-t-a
 \xn 我掰了核桃
-\xv rɤjndoʁ pɯ-ʑɴɢu-t-a
+\xv rejndoʁ pɯ-ʑɴɢu-t-a
 \xn 我剥了圆根
 \se nɯɣɯʑɴɢu
 \ps vs
@@ -60241,8 +60245,8 @@ da.lie 打猎
 \lx ^ɣot
 \wav n-WGot
 \ps n
-\ge lumière 
-\gn 光 
+\ge lumière et chaleur (du soleil)
+\gn 光和热量（太阳的） 
 \hbf 3 
 \et ɦod
 \xv tɤŋe ɯ-ɣot
@@ -64447,8 +64451,8 @@ da.lie 打猎
 \ge navet (Brassica sp.) 
 \gn 芜菁[圆根] 
 \hbf plante 
-\xv rasti nɯ zgoku tsa tu-ɬoʁ cha. ɯ-mdoʁ nɯ kɯ-pɣi tsa ŋu. ɯ-qa nɯ kɯ-ɤrtɯm tɕe, kɯ-wxti ʑo ɲɯ-βze cha. stu kɯ-wxti nɯ sqamŋu spaprɤɣ ɯ-tɯ-rpa jamar ɲɯ-βze cha. ɯ-taʁ tɕe ɯ-sku nɯ kɯ-dɯ-dɤn tu-ɬoʁ cha, ɯ-pɕi nɯ pjɯ́-wɣ-nɯ-phɯt tɕe, ɯ-ŋgɯ mɤʑɯ ɲɯ-βze ɕti, tɕe nɯ pjɯ-kɯ-phɯt nɤ, ɲɯ-kɤ-nɤrqaʁ rmi. nɯ ɯ-ku nɯ rasti rmi, ɯ-qa nɯ rɤjndoʁ rmi. rasti nɯ kú-wɣ-sqa tɕe, kɤ-smi tɕe, pjɯ́-wɣ-sɯɣ-tɕur tɕe, tɤ-jko rmi, tɕe tɯ-mgo zmɤrɤβ wuma ʑo pe. tɯrme kɤ-ndza kɯmɯxte ʑo rga-nɯ. ɯ-jndoʁ nɯ paʁndza wuma ʑɤ pe. kú-wɣ-sqa tɕe, kɤ-smi tɕe, tɯrme kɯnɤ tú-wɣ-ndza ŋgrɤl. ɯ-jndoʁ kɤ-kɤ-sqa nɯ rɤsqa rmi. 
-\xn 圆根生长在比较高的山地里，有点灰色，它的根是圆形的，长得很大。最大可以长到15、16斤。上面长很多苗，外层的苗拔下后，里面的苗会继续长。这种拔苗的方法叫{kɤ-nɤrqaʁ}。苗叫{rasti}，根叫{rɤjndoʁ}。圆根苗煮熟了以后弄酸了，叫酸菜，是很好的菜。大多数人喜欢吃。圆根是喂猪的好饲料。煮熟后，人也可以吃。煮熟的圆根叫{rɤsqa}。
+\xv rasti nɯ zgoku tsa tu-ɬoʁ cha. ɯ-mdoʁ nɯ kɯ-pɣi tsa ŋu. ɯ-qa nɯ kɯ-ɤrtɯm tɕe, kɯ-wxti ʑo ɲɯ-βze cha. stu kɯ-wxti nɯ sqamŋu spaprɤɣ ɯ-tɯ-rpa jamar ɲɯ-βze cha. ɯ-taʁ tɕe ɯ-sku nɯ kɯ-dɯ-dɤn tu-ɬoʁ cha, ɯ-pɕi nɯ pjɯ́-wɣ-nɯ-phɯt tɕe, ɯ-ŋgɯ mɤʑɯ ɲɯ-βze ɕti, tɕe nɯ pjɯ-kɯ-phɯt nɤ, ɲɯ-kɤ-nɤrqaʁ rmi. nɯ ɯ-ku nɯ rasti rmi, ɯ-qa nɯ rejndoʁ rmi. rasti nɯ kú-wɣ-sqa tɕe, kɤ-smi tɕe, pjɯ́-wɣ-sɯɣ-tɕur tɕe, tɤ-jko rmi, tɕe tɯ-mgo zmɤrɤβ wuma ʑo pe. tɯrme kɤ-ndza kɯmɯxte ʑo rga-nɯ. ɯ-jndoʁ nɯ paʁndza wuma ʑɤ pe. kú-wɣ-sqa tɕe, kɤ-smi tɕe, tɯrme kɯnɤ tú-wɣ-ndza ŋgrɤl. ɯ-jndoʁ kɤ-kɤ-sqa nɯ rɤsqa rmi. 
+\xn 圆根生长在比较高的山地里，有点灰色，它的根是圆形的，长得很大。最大可以长到15、16斤。上面长很多苗，外层的苗拔下后，里面的苗会继续长。这种拔苗的方法叫{kɤ-nɤrqaʁ}。苗叫{rasti}，根叫{rejndoʁ}。圆根苗煮熟了以后弄酸了，叫酸菜，是很好的菜。大多数人喜欢吃。圆根是喂猪的好饲料。煮熟后，人也可以吃。煮熟的圆根叫{rɤsqa}。
 \sy tɤjkɤspa
 \dt 11/May/2014
 
@@ -64501,7 +64505,7 @@ da.lie 打猎
 \et ras + lwa.ba
 \dt 28/Apr/2012
 
-\lx ^rɤjndoʁ
+\lx ^rejndoʁ
 \wav n-rAjndoR
 \ps n
 \ge racine de navet 
@@ -72257,4 +72261,71 @@ l
 \gn 阡陌（夏天为了避免踩坏庄稼而特意在田地里开辟的一条小道）
 \cf ftɕar
 \cf tʂu
+
+\lx qhluqhlu
+\wav8 qhlWqhlu
+\wav8 def-qhlWqhlu
+\ps idph.2 
+\ge un peu laiteux
+\gn 形容带有一点乳白色的（液体）
+\xv tɤ-lu ci qhluqhlu tɤ-lat-a 
+\xn 我倒了一点点牛奶（茶水里只有一点乳白色）
+\dv nɯnɯ tɕe khro mɤ-kɯ-rɯ kɯ-fse nɯ, nɤki, kɯ-ɤmgri ɯ-ŋgɯz kɯnɤ tɤ-lu kɯ-tu kɯ-fse ɯ-mdoʁ ɯ-kɯ-ndo nɯnɯ qhluqhlu kɯ-pa tu-kɯ-ti ŋu
+
+\lx _rɯ 
+\wav8 rW
+\wav8 rW2
+\wav8 def-rW
+\ps vs
+\ge en 
+\gn 浓（液体里的牛奶或者油）
+\xv tɤ-lu kɯ-rɯ to-lɤt 
+\xn 他倒了很多牛奶（茶里的牛奶很浓）
+\xv tɤ-lu mɯ́j-rɯ tɕe qhluqhlu ʑo ɲɯ-pa
+\xn 牛奶不浓，（茶里）只有一点点白色
+\dv tɯ-ɕi ɯ-ŋgɯ nɯ tɕe tɯ-kri a-pɯ-dɤn tɕe ɲɯ-rɯ tu-kɯ-ti ŋu
+
+\lx tɯmɯʁrɯm
+\ps n
+\ge lumière du soleil
+\gn 太阳光
+
+\lx nɯqhapa
+\wav8 YWnWqhapaa
+\ps vi
+\ge surveiller la maison (de quelqu'un d'autre)
+\gn 看家（别人的）
+\xv aʑo ɲɯ-nɯqhapa-a
+\xn 我在看家
+
+\lx khɤrmi
+\ps n
+\ge nom de la maison
+\gn 房名
+\cf kha
+\cf tɤ-rmi
+
+\lx ɟar
+\ps vt 
+\pdl dir 
+\pdv nɯ-
+\ge séparer le navet et les feuilles du navet
+\gn 把圆根的根和叶子切开
+\se rɤɟar
+\wav8 kurAJara
+\ps vi 
+\ng apass
+\xv ku-rɤɟar-a
+\xn 我在切圆根
+
+\lx rɤɟar
+\cf ɟar
+
+\lx ɕawu
+\wav8 def-CaRwu
+\ps n
+\ge navet séché 
+\gn 干了的芜菁根 
+\dv rejndoʁ nɯ-kɯ-rom, nɯ-kɯ-khrɯ, nɯ-kɯ-rko ʑo nɯnɯ tɕe ɕawu tu-kɯ-ti ŋu
+
 
