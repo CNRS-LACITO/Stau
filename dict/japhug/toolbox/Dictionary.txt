@@ -17994,9 +17994,9 @@
 \gn 黏（胶，树脂） 
 \hbf 1036
 \xv tɯrgi ɲɯ-ɤɣɯndʑɯɣ
-\xn 杉树是黏黏的
+\xn 杉树有很黏的树脂
 \xv tɤtho ɲɯ-ɤɣɯndʑɯɣ
-\xn 松树是黏黏的
+\xn 松树有很黏的树脂
 \cf tɤ-ndʑɯɣ
 \dt 07/Oct/2011
 
@@ -68866,8 +68866,8 @@ l
 \wav n-tAndZWG
 \wav n-tAndZWG2
 \ps n
-\ge résine de pin 
-\gn 松香 、树脂
+\ge résine
+\gn 松香、树脂
 \hbf plante2
 \xv tɯrgi ɯ-ndʑɯɣ
 \xn 杉树树脂
