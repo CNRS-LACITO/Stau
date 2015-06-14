@@ -1257,7 +1257,7 @@
 \ps idph.2
 \ge large et mou,
 \gn 形容宽而柔软、向下垂的样子
-\xv ʁloŋbutɕhi ɯ-rna nɯ ɲɯ-wxti ɕphɤrɕphɤr ʑo
+\xv loŋbutɕhi ɯ-rna nɯ ɲɯ-wxti ɕphɤrɕphɤr ʑo
 \xn 大象的耳朵又宽又大，软软地耷拉着
 \xv qhɤjmbaʁ ɯ-jwaʁ nɯ ɕphɤrɕphɤr ʑo pa
 \xn 酸模的叶子又宽又大
@@ -7396,7 +7396,7 @@
 \ps idph.2
 \ge énorme
 \gn 肥壮、高大
-\xv ʁloŋbutɕhi ʁɲɟliʁɲɟli ʑo ɲɯ-pa
+\xv loŋbutɕhi ʁɲɟliʁɲɟli ʑo ɲɯ-pa
 \xn 大象又肥壮又高大
 \xv ɯʑo chɤ-tshu tɕe ʁɲɟliʁɲɟli ʑo chɤ-pa
 \xn 他变胖了，身体变得很肥壮
@@ -7493,7 +7493,7 @@
 \ps adv
 \ge depuis tout petit 
 \gn 从小 
-\xv sɤ-xtɕɯ-xtɕi kɯrɯ skɤt spe 
+\xv sɤxtɕɯxtɕi kɯrɯ skɤt spe 
 \xn 他从小都会讲藏语
 \dt 12/Mar/2014
 
@@ -7547,7 +7547,7 @@
 \gn 红铜铸成的勺子 
 \hbf 551
 
-\lx scɯn
+\lx scun
 \ps n
 \ge faute
 \gn 过错
@@ -7589,7 +7589,7 @@
 \ps n
 \ge monde 
 \gn 世界 
-\et skal.pa
+\et bskal.pa
 
 \lx skɤmtɕhaŋ
 \ps n
@@ -7645,6 +7645,7 @@
 \ps n
 \ge médicament
 \gn 药材
+\et sman.rigs
 \dt 05/May/2014
 
 \lx smɤʁjoʁ
@@ -7783,17 +7784,11 @@
 \gn 蒙古人 
 \et sog.po
 
-\lx sos
-\ps n
-\ge matin 
-\gn 早晨 
-\hbf 749 
-\et saŋ.ɲin
-
 \lx soz
 \ps adv
 \ge le matin
 \gn 早上
+\hbf 749 
 \dt 17/Jan/2015
 
 \lx spjaŋkɯ
@@ -8922,9 +8917,11 @@
 
 \lx tɤ-rca
 \wav8 arcacinaGAme
-\ps n
-\ge avec 
-\gn 跟别人一起 
+\ps np
+\ge avec, en suivant
+\gn 跟……一起 
+\xv a-rca jɤ-ɣi
+\xn 跟我来！
 \xv ɯʑo kɯnɤ a-rca lu-nɯɣi ŋu
 \xn 他也跟我回去
 \un {tɤrca}跟{me}“没有”连用时表示“无法挽救”的意思
@@ -9045,7 +9042,7 @@
 \dt 15/Jun/2012
 
 \lx tɤ-rqhioʁ
-\ps n
+\ps np
 \ge invagination, entaille
 \gn 槽
 \cf tɤ-rɴɢioʁ
@@ -9053,7 +9050,7 @@
 
 \lx tɤ-rqhu
 \wav8 tArqhu
-\ps n
+\ps np
 \ge peau, écorce 
 \gn 壳 
 \dt 07/Aug/2012
@@ -9074,7 +9071,7 @@
 
 \lx tɤ-rtɕhi
 \wav n-tArtChi
-\ps n
+\ps np
 \ge complément alimentaire
 \gn 补品
 \xv a-rtɕhi kɤ-βzu ɲɯ-ra ma a-qhoχpa mɯ́j-sna
@@ -9091,7 +9088,7 @@
 \dt 10/Feb/2011
 
 \lx tɤ-rtsho
-\ps n
+\ps np
 \ge surface de la partie coupée 
 \gn 锯过、砍过、剪过的口子、麦桩
 \hbf plante 2
@@ -9162,8 +9159,8 @@
 \cf tasa
 \dt 05/May/2014
 
-\lx tɤ-scɤr
-\ps np
+\lx tɤscɤr
+\ps n
 \ge frayeur
 \gn 恐惧
 \xv tɤ-scɤr kɯ nɯ-kɤpa ʑo ɲɤ-me
@@ -9194,10 +9191,21 @@
 \gn 夹头发的装饰品 
 \hbf objet traditionel
 
-\lx tɤspa
-\ps n
-\ge matériau, ce qui est utilisé pour faire qqch 
-\gn 材料，用来做某件东西的 
+\lx tɤ-spa
+\ps np
+\sn 1
+\ge matériau
+\gn 材料
+\sn 2
+\ge devoir
+\gn 义务
+\sn 3
+\ge utilité 
+\gn 用途 
+\xv khɯna nɯ kha kɯ-rɯru ɯ-spa ŋu 
+\xn 守家是狗的义务 
+\xv nɯ tɕhi ɯ-spa ɲɯ-ŋu ? 
+\xn 那个有什么用呢？
 
 \lx tɤspɯɕku
 \ps n
@@ -14808,16 +14816,6 @@
 \gn 药费
 \cf smɤn
 \dt 19/Mar/2014
-
-\lx ɯ-spa
-\ps np
-\ge matériau, devoir, utilité 
-\gn 资料、义务、用途 
-\xv khɯna nɯ kha kɯ-rɯru ɯ-spa ŋu 
-\xn 守家是狗的义务 
-\xv nɯ tɕhi spa ɲɯ-ŋu ? 
-\xn 那个有什么用呢？
-\dt 20/May/2013
 
 \lx ɯ-spjɯŋ
 \ps np
@@ -37933,6 +37931,7 @@ da.lie 打猎
 \xn 你自己出卖自己
 \cf tɯtsɣe
 \cf rɤtsɣe
+\cf raχtɯtsɣe
 \dt 29/Dec/2014
 
 \lx _ntshɤr
@@ -43489,7 +43488,7 @@ da.lie 打猎
 \ps vt
 \pdl dir 
 \pdv kɤ-
-\ge devoir de l'argent , faire crédit
+\ge devoir de l'argent, faire un crédit
 \gn 赊帐 
 \hbf 1569 
 \xv kɤ-ŋa-t-a
@@ -43500,6 +43499,8 @@ da.lie 打猎
 \xn 原来需要二十块钱，我给了十块然后钱不够，我就赊了十块钱
 \xv kɯ-rɤχtɯ jɤ-ari-a ri, a-rŋɯl mɯ́j-rtaʁ tɕe kɤ-ŋa-t-a, tɕe a-nŋa nɯ-ɬoʁ
 \xn 我去买东西钱不够就赊了账
+\cf rɤnŋa
+\cf tɯ-nŋa
 \dt 04/Aug/2012
 
 \lx _ŋɤn
@@ -46065,6 +46066,7 @@ da.lie 打猎
 \xv aʑo nɤ-ɕki rɤnŋa-a
 \xn 我欠你的钱
 \cf ŋa
+\cf tɯ-nŋa
 \dt 04/Aug/2012
 
 \lx _rɤntɕha
@@ -56708,6 +56710,7 @@ da.lie 打猎
 \pdv tɤ-
 \ge acheter des choses
 \gn 买东西 
+\cf raχtɯtsɣe
 \dt 27/Aug/2013
 
 \lx _χuχu
@@ -72345,4 +72348,11 @@ l
 \gn 干了的芜菁根 
 \dv rejndoʁ nɯ-kɯ-rom, nɯ-kɯ-khrɯ, nɯ-kɯ-rko ʑo nɯnɯ tɕe ɕawu tu-kɯ-ti ŋu
 
-
+\lx _raχtɯtsɣe
+\ps vi 
+\pdl dir 
+\pdv thɯ-
+\ge faire du commerce
+\gn 做生意 
+\cf χtɯ
+\cf ntsɣe
