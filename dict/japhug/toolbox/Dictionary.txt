@@ -11619,6 +11619,8 @@
 \ge jambe 
 \gn 脚 
 \hbf 103
+\xv tɯ-mi ɯ-pɤl
+\xn 脚掌
 \cf tɯ-mɤndzu
 
 \dt 01/Feb/2013
@@ -14388,6 +14390,14 @@
 
 \lx ɯ-pɤl
 \ps np
+\sn 1
+\ge paume
+\gn （手、脚）掌
+\xv tɯ-jaʁ ɯ-pɤl
+\xn 手掌
+\xv tɯ-mi ɯ-pɤl
+\xn  脚掌
+\sn 2
 \ge partie de la louche qui sert à contenir le liquide 
 \gn 勺子容水的部分
 
@@ -23105,7 +23115,6 @@
 
 \lx _βʑoʁ
 \wav vt-BZoR
-\wav vt-sWBZoR
 \ps vt
 \pdl dir 
 \pdv thɯ-
@@ -23122,6 +23131,7 @@
 \xv sɲɯɣjɯ thɯ-βʑoʁ-a 
 \xn 我削了笔
 \se sɯβʑoʁ
+\wav vt-sWBZoR
 \ge tailler avec
 \gn 用……削
 \xv mbrɯtɕɯ ɯʑo kɯ ɯʑo ɯ-jɯ mɤ-sɯβʑoʁ
@@ -24451,7 +24461,6 @@
 
 \lx _fɕɤl
 \wav vi-fCAl
-\wav vt-sWfCAl
 \ps vi
 \pdl dir 
 \pdv nɯ
@@ -24464,6 +24473,7 @@
 \xv a-xtu nɯ-fɕɤl, a-xtu pɯ-fɕɤl
 \xn 我拉了肚子
 \se sɯfɕɤl
+\wav vt-sWfCAl
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -25285,7 +25295,6 @@
 
 \lx _ftshi
 \wav vi-ftshi
-\wav vt-sWftshi
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -25300,6 +25309,7 @@
 \xv smɤnba ɯ-thɯrʑi kɯ, ɯ-kɯ-mŋɤm to-ftshi 
 \xn 多亏医生， 他的病减轻了
 \se sɯftshi
+\wav vt-sWftshi
 \ps vt
 \ge forcer
 \gn 逼迫
@@ -25481,10 +25491,10 @@
 \xv iʑora ɕɤfɕo ku-oβdoʁβdi-j
 \xn 我们最近（这几年）身体没有异常现象
 \se ɣɤβdoʁdi
+\wav vt-GABdoRBdi
 \ps vt
 \pdl dir 
 \pdv tɤ-
-\wav vt-GABdoRBdi
 \ge mettre en ordre
 \gn 整理
 \xv ta-ɣɤβdoʁβdi
@@ -30439,7 +30449,6 @@ da.lie 打猎
 \lx _lɯɣ
 \wav vi-lWG
 \wav vi-lWG2
-\wav vt-sWGlWG
 \ps vi
 \pdl dir 
 \pdv _
@@ -30453,6 +30462,7 @@ da.lie 打猎
 \xv khɯna nɯ-lɯɣ
 \xn 狗脱链了
 \se sɯɣlɯɣ
+\wav vt-sWGlWG
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -31766,7 +31776,6 @@ da.lie 打猎
 \dt 09/Dec/2010
 
 \lx _mkɯt
-\wav vt-sWmkWt
 \ps vi
 \pdl dir 
 \pdv tɤ-
@@ -31775,6 +31784,7 @@ da.lie 打猎
 \xv to-mkɯt-a
 \xn 我呛到了
 \se sɯmkɯt
+\wav vt-sWmkWt
 \ps vt
 \ng caus
 \pdl dir 
@@ -43318,7 +43328,6 @@ da.lie 打猎
 \wav vi-YJo
 \wav vi-YJo2
 \wav vi-YJo3
-\wav vt-sWGYJo
 \ps vi
 \pdl dir 
 \pdv pɯ-
@@ -43344,13 +43353,14 @@ da.lie 打猎
 \xv ɲɟɯ-ɲɟo ʑo pɯ-ɲɟo 
 \xn 他遭到很多灾难
 \se sɯɣɲɟo
+\wav vt-sWGYJo
 \ps vt
 \ng caus
 \pdl dir 
 \pdv pɯ-
 \ge abîmer
 \gn 弄坏
-\xv tuolaji pjɤ-sɯɣɲɟo
+\xv @tuolaji pjɤ-sɯɣɲɟo
 \xn 他把拖拉机弄坏了
 \xv pɯ-sɯɣɲɟo-t-a
 \xn 我弄坏了
@@ -47488,8 +47498,6 @@ da.lie 打猎
 \dt 26/Apr/2014
 
 \lx _rom
-\wav vt-sWGrom
-\wav vt-sWGrom2
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -47499,6 +47507,8 @@ da.lie 打猎
 \xn 木料干了
 \hbf 1028
 \se sɯɣrom
+\wav vt-sWGrom
+\wav vt-sWGrom2
 \ps vt
 \pdl dir 
 \pdv nɯ-
@@ -52765,7 +52775,6 @@ da.lie 打猎
 
 \lx _so
 \wav vi-so
-\wav vt-sWxso
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -52779,6 +52788,7 @@ da.lie 打猎
 \xv kha kɯ-so ɕti
 \xn 房间是空的
 \se sɯxso
+\wav vt-sWxso
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -52793,8 +52803,7 @@ da.lie 打猎
 
 \lx _spa
 \wav vt-spa
-\wav vt-sWspa
-\wav vt-nWspWspa
+\wav8 tuti_Wspe
 \wav8 spa
 \ps vt
 \pdl dir 
@@ -52812,6 +52821,8 @@ da.lie 打猎
 \xn 过了很久，我还是不会
 \xv ɯʑo kɯ spe tɕeri, ɯʑo ɯ-ʁa khro maŋe wo
 \xn 她会做，但是她没有空
+\xv "a-wa" tu-ti ɯ́-spe, "a-mu tu-ti" ra ɯ́-spe?
+\xn （你儿子现在）会不会说“爸爸、妈妈”？
 \un “会”的否定形式带有“做对不起人的事情”的意思
 \xv mɯ-tɤ-spa-t-a ri me, pɯ-rɯɣnan-a ri me
 \xn 我没有做对不起（你）的事情，也没有跟你作对
@@ -52822,6 +52833,7 @@ da.lie 打猎
 \xv nɤʑo tɤ-rʑaʁ thɤstɯɣ jamar kɤ-βzjoz kɤ-tɯ-spa-t?
 \xn 你学了多久才学会了？
 \se sɯspa
+\wav vt-sWspa
 \ps vt
 \ng caus
 \pdl dir 
@@ -52838,6 +52850,7 @@ da.lie 打猎
 \xv mɤʑɯ ɯ-rmi mɤ-kɯ-sɤspa xcat ɕti
 \xn 还有很多不知道名字的
 \se nɯspɯspa
+\wav vt-nWspWspa
 \ps vt
 \pdl dir 
 \pdv pɯ-
@@ -54219,7 +54232,6 @@ da.lie 打猎
 
 \lx _sɯspoʁ
 \wav vt-sWspoR
-\wav vt-sWsWspoR
 \ps vt
 \pdl dir 
 \pdv _
@@ -54235,6 +54247,7 @@ da.lie 打猎
 \xv rdɤstaʁ jɤ-lat-a tɕe, ɯ-ku kɤ-sɯspoʁ-a 
 \xn 我扔了一块石头，把他的头打伤了
 \se sɯsɯspoʁ
+\wav vt-sWsWspoR
 \ps vt
 \pdl dir 
 \pdv _
@@ -55509,9 +55522,7 @@ da.lie 打猎
 \dt 04/Feb/2014
 
 \lx _tso
-\wav vt-sWGtso
 \wav8 akAtso
-\wav8 zGAsWGtso
 \wav8 sAtso
 \wav8 mAtsonW
 \ps vi-t
@@ -55529,6 +55540,7 @@ da.lie 打猎
 \xv nɤj tɤ-tɯ-tɯt nɯ ɤj mɯ́j-tso-a
 \xn 我不明白你刚说的话
 \se sɯxtso
+\wav vt-sWGtso
 \ps vt
 \pdl dir 
 \pdv kɤ-
@@ -55537,6 +55549,7 @@ da.lie 打猎
 \xv tɯ-rju kɤ-sɯxtso-t-a
 \xn 我令他明白了这句话的意思
 \se ʑɣɤsɯxtso
+\wav8 zGAsWGtso
 \ps vi
 \ng refl
 \ng caus
@@ -56556,7 +56569,6 @@ da.lie 打猎
 \dt 09/May/2013
 
 \lx _χtɕɤz
-\wav vt-sWXtCAz
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -56564,6 +56576,7 @@ da.lie 打猎
 \gn 被别人宠爱 
 \et gtɕes
 \se sɯχtɕɤz
+\wav vt-sWXtCAz
 \ps vt
 \ge gâter
 \gn 宠坏
@@ -56729,11 +56742,6 @@ da.lie 打猎
 \lx _zbaʁ
 \wav vi-zbaR
 \wav vi-zbaR2
-\wav vt-sWzbaR
-\wav vt-sWzbaR2
-\wav8 GAzbaR
-\wav8 YWGAzbaR
-\wav8 sWzbaR
 \ps vs
 \pdl dir 
 \pdv tɤ-
@@ -56745,6 +56753,9 @@ da.lie 打猎
 \xv tɤ-ɕkho-t-a tɕe, to-zbaʁ
 \xn 我晾了就干了
 \se sɯzbaʁ
+\wav vt-sWzbaR
+\wav vt-sWzbaR2
+\wav8 sWzbaR
 \ps vt
 \ng caus
 \pdl dir 
@@ -56754,6 +56765,8 @@ da.lie 打猎
 \xv qale kɯ a-ŋga to-sɯzbaʁ
 \xn 风把衣服（吹干）了
 \se ɣɤzbaʁ¹
+\wav8 GAzbaR
+\wav8 YWGAzbaR
 \ps vt
 \ng caus
 \pdl dir 
@@ -61715,7 +61728,7 @@ da.lie 打猎
 \xn 杨树叶子在吊着
 \se ltɕhɯɣnɤlɯɣ
 \ps idph.4
-\xv tɤ-pɤtso kɯ ɯ-jaʁ tatar ltɕhɯɣnɤlɯɣ ɲɯ-ɤsɯ-stu
+\xv tɤ-pɤtso kɯ ɯ-jaʁ tɤtar ltɕhɯɣnɤlɯɣ ɲɯ-ɤsɯ-stu
 \xn 小孩子在摇动棍子
 \se sɤltɕhɯɣlɯɣ
 \ps vt
