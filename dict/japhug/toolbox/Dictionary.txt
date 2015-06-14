@@ -32824,6 +32824,8 @@ da.lie 打猎
 \ge voler 
 \gn 偷 
 \hbf 1686 
+\xv kɯ-mɯrkɯ
+\xn 小偷
 \xv ɯʑo kɯ ta-mɯrkɯ ŋu
 \xn 是他偷的
 \dt 24/Aug/2012
@@ -35150,6 +35152,8 @@ da.lie 打猎
 \ge mendier 
 \gn 乞讨[讨口]
 \hbf 1664
+\xv kɯ-nɤphɯphɯ
+\xn 乞丐
 \xv ɯʑo thɯ-nɤphɯphɯ
 \xn 他乞讨了
 \dv ɯ-pɕawtsɯ thɯ-kɯ-ɤrɕo, ɯ-mgo thɯ-kɯ-ɤrɕo nɯ kɤ-nɤphɯphɯ ɲɯ-ŋu
@@ -52976,7 +52980,7 @@ da.lie 打猎
 \xn 他安装了机器
 \xv ɕoŋβzu kɯ to-sprɤt
 \xn 木匠安装了
-\xv aʑo kɯmɯrkɯ pɯ-mto-t-a tɕe, ɯ-taʁ ra nɯ-jaʁ tɤ-sprat-a
+\xv aʑo kɯ-mɯrkɯ pɯ-mto-t-a tɕe, ɯ-taʁ ra nɯ-jaʁ tɤ-sprat-a
 \xn 我看到小偷，移交给领导了
 \se ʑɣɤsprɤt
 \ps vi
