@@ -56710,6 +56710,12 @@ da.lie 打猎
 \pdv tɤ-
 \ge acheter des choses
 \gn 买东西 
+\se sɯχtɯ
+\ps vt 
+\pdl dir 
+\pdv tɤ-
+\ge vendre à 
+\gn 使……买、卖给
 \cf raχtɯtsɣe
 \dt 27/Aug/2013
 
@@ -72356,3 +72362,6 @@ l
 \gn 做生意 
 \cf χtɯ
 \cf ntsɣe
+
+\lx _sɯχtɯ
+\cf χtɯ
