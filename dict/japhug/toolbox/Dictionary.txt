@@ -4629,7 +4629,7 @@
 \gn 不是和尚的男人
 \dt 13/Aug/2012
 
-\lx mŋɤm {ɯ-rɕa}
+\lx _{mŋɤm}ɯ-rɕa
 \ps n
 \ge chérir
 \gn 疼爱
@@ -6075,7 +6075,7 @@
 \et brag.srin
 \dt 16/Apr/2012
 
-\lx prɤdɤja{ta}
+\lx _{ta}prɤdɤja
 \ps n
 \ge griffer partout, mettre en désordre (oiseau)
 \gn 到处乱抓、乱撒东西（鸟）
@@ -8696,7 +8696,7 @@
 \ge casserole pour le lait 
 \gn 奶锅
 
-\lx tɤlɟɣo{lɤt}
+\lx _{lɤt}tɤlɟɣo
 \ps n
 \pdl dir 
 \pdv kɤ-
@@ -8891,11 +8891,11 @@
 \cf ɯ-qa
 \dt 14/May/2012
 
-\lx tɤqɤt{lɤt}
+\lx _{lɤt}tɤqɤt
 \ps vt
 \pdl dir 
 \pdv lɤ-
-\ge séparer une chambre 
+\ge séparer une chambre en deux 
 \gn 把大房间隔成两个小房间 
 \dt 09/Jun/2013
 
@@ -14330,7 +14330,7 @@
 \xn 这个人虽然举止不好，但是心底很善良
 \dt 10/Sep/2014
 
-\lx ɯ-ndzɯɣ{maʁ}
+\lx _{maʁ}ɯ-ndzɯɣ
 \ps vs
 \pdl dir 
 \pdv pɯ-
@@ -14569,7 +14569,7 @@
 \cf ɯ-rkɯ
 \dt 26/Aug/2014
 
-\lx ɯ-rka{ŋɤn}
+\lx _{ŋɤn}ɯ-rka
 \ps n
 \ge ingrat, mauvais 
 \gn 脾气很坏，做亏心事 
@@ -21500,6 +21500,12 @@
 \xn 我耽误你了
 \xv tɯmɯ ɲɯ-lɤt tɕe ji-ma pɯ́-wɣ-saʁjɤr-i
 \xn 下雨就耽误了我们的工作
+\se ʑɣɤsaʁjɤr 
+\ps vi
+\ng refl
+\ng caus
+\ge prendre du retard
+\gn 耽误时间
 \dt 21/Apr/2013
 
 \lx _aʁɟa
@@ -27610,7 +27616,6 @@
 \ge chasser 
 \gn 打猎 
 \hbf 1230 
-da.lie 打猎
 \xv kɯ-ɣɤrʁaʁ jɤ-ɕe
 \xn 你去打猎吧
 \xv ji-lɯlu ɲɯ-ɣɤrʁaʁ
@@ -46276,7 +46281,7 @@ da.lie 打猎
 \cf ɣɤrcoʁ
 \dt 09/Jun/2013
 
-\lx _rɤrɕɯβ {tɯ-qe}
+\lx _{rɤrɕɯβ}tɯ-qe
 \wav vt-rArCWB
 \ps vt
 \pdl dir 
@@ -55010,7 +55015,7 @@ da.lie 打猎
 \xn 我咳得太多
 \dt 01/May/2012
 
-\lx _tɕhot {thaʁ}
+\lx _{tɕhot}thaʁ
 \wav8 thaRpWtChota
 \wav8 thaRnWtChottCi
 \ps vt
@@ -71260,7 +71265,7 @@ l
 \cf tɯ-wɤt
 \dt 09/Jun/2013
 
-\lx ^tɯ-ʑi{loʁ}
+\lx _{loʁ}tɯ-ʑi
 \wav vi-loR-tWZi
 \ps n
 \ge avoir la nausée 
@@ -71269,7 +71274,6 @@ l
 \xv ɯʑo ɯ-ʑi ɲɯ-loʁ
 \xn 他觉得恶心
 \cf nɤʑɯloʁ
-\cf {loʁ}tɯ-ʑi
 \dt 22/Jul/2014
 
 \lx ^ɯjo
@@ -71639,7 +71643,7 @@ l
 \xn 不要傻乎乎的那样
 \dt 13/Dec/2011
 
-\lx {χɕu}{rnaʁ}
+\lx _{χɕu}{rnaʁ}
 \ps vs
 \ge merci beaucoup 
 \gn 万分感谢 
@@ -72365,3 +72369,6 @@ l
 
 \lx _sɯχtɯ
 \cf χtɯ
+
+\lx _ʑɣɤsaʁjɤr
+\cf saʁjɤr
