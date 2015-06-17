@@ -17797,8 +17797,8 @@
 \lx _aɣɯɣli
 \ps vs
 \ng denom
-\ge qui produit beacoup de purin
-\gn 粪多的
+\ge qui produit beaucoup de purin
+\gn 粪很多的
 \cf tɯ-ɣli
 \dt 26/Apr/2014
 
@@ -17879,9 +17879,9 @@
 \ps vi
 \ng denom
 \ge qui a beaucoup de lait
-\gn 奶水多（母牛）
+\gn 产奶多的（母牛）
 \xv ki nɯŋa ki ɲɯ-ɤɣɯlu
-\xn 这个母牛有很多奶水
+\xn 这个母牛产很多奶
 \cf tɤ-lu
 \dt 07/Aug/2012
 
@@ -17930,8 +17930,12 @@
 \lx _aɣɯmɲaʁ
 \ps vs
 \ng denom
+\sn 1
 \ge qui a beaucoup de trous, qui a des yeux
-\gn 有很多小洞，有眼睛
+\gn 有很多小洞
+\sn 2
+\ge qui a des yeux
+\gn 有眼睛
 \xv nɤki tshaʁ wuma ʑo ɲɯ-ɤɣɯmɲaʁ
 \xn 那个筛子有很多眼儿
 \cf tɯ-mɲaʁ
