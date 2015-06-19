@@ -9192,20 +9192,24 @@
 \hbf objet traditionel
 
 \lx tɤ-spa
+\wav8 kAmbi_Wspa
 \ps np
 \sn 1
 \ge matériau
 \gn 材料
 \sn 2
-\ge devoir
-\gn 义务
+\ge utilité, but
+\gn 用途、目标
 \sn 3
-\ge utilité 
-\gn 用途 
+\ge pour
+\gn 用来……
+\un 用于目标从句时，从句的主动词带不定式\ipa{kɤ--}前缀
 \xv khɯna nɯ kha kɯ-rɯru ɯ-spa ŋu 
 \xn 守家是狗的义务 
 \xv nɯ tɕhi ɯ-spa ɲɯ-ŋu ? 
 \xn 那个有什么用呢？
+\xv tɤ-pɤtso kɤ-mbi ɯ-spa kɯ-chi to-χtɯ.
+\xn 他买糖果给小孩子吃了
 
 \lx tɤspɯɕku
 \ps n
@@ -11068,7 +11072,7 @@
 \gn 心中有数、熟练
 \xv a-jaʁsta nɯ-aβzu
 \xn 我心中有数要怎么做
-\xv tɤscoz kɤ-nɤma nɯ aʑo a-jaʁsta ɕti
+\xv tɤ-scoz kɤ-nɤma nɯ aʑo a-jaʁsta ɕti
 \xn 我对写字（整理文件）心中有数
 \cf tɯ-jaʁ
 \dt 30/Oct/2014
@@ -18002,17 +18006,26 @@
 
 \lx _aɣɯndʑɯɣ
 \wav vi-aGWndZWG
+\wav8 def-YAGWndZWG
+\wav8 YAGWndZWG
 \ps vs
 \ng denom
 \pdl dir 
 \pdv nɯ-
-\ge collant, visqueux (colle, résine) 
-\gn 黏（胶，树脂） 
+\sn 1
+\ge qui a beaucoup de résine
+\gn 树脂多
+\sn 2
+\ge collant 
+\gn 有粘性
 \hbf 1036
 \xv tɯrgi ɲɯ-ɤɣɯndʑɯɣ
-\xn 杉树有很黏的树脂
+\xn 杉树有很多树脂
 \xv tɤtho ɲɯ-ɤɣɯndʑɯɣ
-\xn 松树有很黏的树脂
+\xn 松树有很多树脂
+\xv ɯ-ɕtʂi pjɤ-ɬoʁ tɕe, ɯ-ɕtʂi ra ɲɯ-ɤɣɯndʑɯɣ ʑo
+\xn 他流汗，一身黏糊糊的
+\dv ɯ-tɤ-ndʑɯɣ ɲɯ-dɤn kɤ-ti ŋu
 \cf tɤ-ndʑɯɣ
 \dt 07/Oct/2011
 
@@ -18596,7 +18609,7 @@
 \hbf 1400 
 \xv tɯ-ci nɯ tɤ-ajtɯ
 \xn 水积起来了
-\xv tɤscoz nɯ tɤ-rʑaʁ kɯ-rɲɟi tu-kɯ-stu pjɯ́-wɣ-βzjoz tɕe, ku-ojtɯ kɯra ɕti 
+\xv tɤ-scoz nɯ tɤ-rʑaʁ kɯ-rɲɟi tu-kɯ-stu pjɯ́-wɣ-βzjoz tɕe, ku-ojtɯ kɯra ɕti 
 \xn 文化知识是要长期积累起来的
 \xv laχtɕha khro to-k-ɤjtɯ-ci
 \xn 积累了很多东西
@@ -20589,7 +20602,7 @@
 \pdv infinitive
 \ge collaborer 
 \gn 协作共事、互相帮忙 
-\xv tɤscoz kɤ-rɤt pɯ-aqurle-tɕi
+\xv tɤ-scoz kɤ-rɤt pɯ-aqurle-tɕi
 \xn 我们一起写了信
 \cf qur
 \dt 10/Dec/2014
@@ -20714,12 +20727,15 @@
 \dt 20/Apr/2013
 
 \lx _arɤɲɯɣ
+\wav8 arAYWG
 \ps vi
 \pdl dir 
 \pdv tɤ-
 \ge en grande quantité
 \gn 很多
-\xv tɤscoz a-kɤ-rɤt ɯ-spa arɤɲɯɣ ʑo
+\xv ɯʑo ɯ-ŋga arɤɲɯɣ ʑo ɕti
+\xn 他有很多衣服
+\xv tɤ-scoz a-kɤ-rɤt ɯ-spa arɤɲɯɣ ʑo
 \xn 我要写的字很多
 \dt 24/Aug/2012
 
@@ -23014,7 +23030,7 @@
 \gn 学 
 \hbf 1742 
 \et sbʲaŋs
-\xv tɤscoz kɤ-βzjoz ɴqa 
+\xv tɤ-scoz kɤ-βzjoz ɴqa 
 \xn 文字很难学
 \xv aʑo nɤ-ɕki a-kɤ-βzjoz dɤn 
 \xn 我跟你学了很多
@@ -23045,7 +23061,7 @@
 \xn 他们换了门（工人修房子）
 \xv kɤ-βzɟɯr mɯ́j-ra, ɲɯ-pe
 \xn 不用修改，很好
-\xv tɤscoz ɲɤ-βzɟɯr
+\xv tɤ-scoz ɲɤ-βzɟɯr
 \xn 他把信改了改
 \xv kɤ-nɯɣi ɲɤ-βzɟɯr
 \xn 他更改了回来的计划
@@ -24073,7 +24089,7 @@
 \et btags
 \xv kɤ-ɕɯftaʁ-a, kɤ-tɯ-ɕɯftaʁ, ka-ɕɯftaʁ
 \xn 我记住了，你记住了，他记住了
-\xv tɤscoz nɯ koŋla ʑo kú-wɣ-rtoʁ tɕe, ɲɯ́-wɣ-sɯɣʑaʁ mɤɕtʂa kɤ-ɕɯftaʁ mɤ-sɤcha
+\xv tɤ-scoz nɯ koŋla ʑo kú-wɣ-rtoʁ tɕe, ɲɯ́-wɣ-sɯɣʑaʁ mɤɕtʂa kɤ-ɕɯftaʁ mɤ-sɤcha
 \xn 书全部都看了一遍，但是要反复学习才能记住
 \xv tɯrju kɤ-ɕɯftaʁ ɴqa
 \xn 句子很难记住
@@ -24156,7 +24172,7 @@
 \pdv tɤ-
 \ge faire plus vite 
 \gn 加快速度
-\xv kɯki tɤscoz ɲɯ-mbɣom, tɤ-ɕɯmbɣom ʑo pɯ-rɤt
+\xv kɯki tɤ-scoz ɲɯ-mbɣom, tɤ-ɕɯmbɣom ʑo pɯ-rɤt
 \xn 这封信很急，你要写得快些
 \xv ki laχtɕha ki kɤ-ndo ra ŋu ŋu nɤ, tɤ-ɕɯmbɣom ʑo jɤ-ɣɯt ma aʑo ɕe-a ŋu
 \xn 这个东西要带的话，你快一点带来，不然我要走了
@@ -26620,6 +26636,14 @@
 \xn 我本来以为会把这个工作做好，但是弄错了，弄得很乱了
 \xv tɯ-ŋga tɤ-ŋga-t-a tɕe, thɯ-ɴɢraʁ tɕe sna nɯ-ɣɤme-t-a
 \xn 我穿衣服的时候就破了，把它弄烂了
+\se ʑɣɤɣɤme
+\ps vi
+\ng caus
+\ng refl
+\pdl dir 
+\pdv nɯ-
+\ge disparaître
+\gn 消失（躲起来，不然别人发现自己）
 \cf me
 \dt 12/Jul/2013
 
@@ -29152,7 +29176,7 @@
 \un {ɣɯt}是从{ɣi}“来”派生出来的，是唯一一个施用后缀{-t}的例子
 \xv @chezi ɯ-ŋgɯ kɤ-mdzɯt mɤ-cha ma @yunche ɯ-tɯ-βzu saχaʁ ʑo qhe, tɕe kɤ-ɣɯt mɤ-sna wo.
 \xn 她不能坐车，因为晕车晕得很厉害，所以不能把她带来
-\xv tɤscoz ɯ-kɯ-ɣɯt ci pɯ-tu
+\xv tɤ-scoz ɯ-kɯ-ɣɯt ci pɯ-tu
 \xn 有人送信了
 \xv ku-ɣɯt-a ɕi? ɲɯ-pe, a-kɤ-tɯ-ɣɯt
 \xn 我要不要带来？好的，带来吧
@@ -31274,7 +31298,7 @@
 \hbf 1731
 \xv tɯ-nga ɲo-mbjɯz
 \xn 衣服褪色了
-\xv tɤscoz ɲo-mbjɯz
+\xv tɤ-scoz ɲo-mbjɯz
 \xn 字褪色了
 \se sɯmbjɯz
 \ps vt
@@ -31697,7 +31721,7 @@
 \xn 你拿一下
 \xv nɤkɤcu tʂhaχɯ kɤ-mɟe
 \xn 你把那边的茶壶拿过来
-\xv tɤscoz ci nɯ-mɟa-t-a (=a-jaʁ nɯ-ɣe)
+\xv tɤ-scoz ci nɯ-mɟa-t-a (=a-jaʁ nɯ-ɣe)
 \xn 我收到了一封信
 \xv tɤfkaβ tɤ-mɟa-t-a (=tɤ-pɣaʁ-a)
 \xn 我揭开了盖子
@@ -34414,7 +34438,7 @@
 \un 根据语境，{nɤmphruʑa}可以附加不同的趋向前缀，如例句里面{kú-wɣ-nɤmphruʑa}有{kɤ-}前缀，和动词{rtoʁ}“看”一样
 \xv kɯki ta-ma ki rcanɯ tɤ-nɤmphruʑa-t-a ʑo
 \xn 我把任务一个接着一个的做了
-\xv tɤscoz kú-wɣ-nɤmphruʑa (kú-wɣ-rtoʁ)
+\xv tɤ-scoz kú-wɣ-nɤmphruʑa (kú-wɣ-rtoʁ)
 \xn 把书一本接着一本地看了
 \xv @guazi tɯ-tɤ-fkɯm nɯ tɤ-nɤmphruʑa-t-a tɕe tɤ-ndza-t-a 
 \xn 我把那一袋的瓜子一个个地吃了
@@ -36417,7 +36441,7 @@
 \gn 把东西拿过来拿过去 
 \xv aʑo tɤ-nɤtsɯmɣɯt-a
 \xn 我拿过去拿过来了
-\xv tɤscoz kɯ-nɤtsɯmɣɯt
+\xv tɤ-scoz kɯ-nɤtsɯmɣɯt
 \xn 邮递员
 \xv kɤ-nɤtsɯmɣɯt mɤ-cha-a
 \xn （我又不是邮递员），我不能把东西拿过去拿过来
@@ -42375,7 +42399,7 @@
 \xn 发现自己的缺点是一件好事
 \xv ɲɯ-nɯsɯrtoʁ-a
 \xn 我看得出
-\xv nɤki tɤscoz nɯ kɤ-rɤt ɲɤ-tɯ-nɯkɯmaʁ ri, mɯ́j-tɯ-nɯsɯrtoʁ
+\xv nɤki tɤ-scoz nɯ kɤ-rɤt ɲɤ-tɯ-nɯkɯmaʁ ri, mɯ́j-tɯ-nɯsɯrtoʁ
 \xn 你写错了字，但是你没有看出来
 \xv nɤki tʂu kɯmaʁ jo-tɯ-nɯɕe ri mɯ́j-tɯ-nɯsɯrtoʁ
 \xn 你走错了路，但是你没有看出来
@@ -44275,7 +44299,7 @@
 \ps vt
 \pdl dir 
 \pdv lɤ-
-\ge enfiler, tourner un fil entre les doigts (dans le sens des aiguilles d'une montre) 
+\ge faire de la ficelle en roulant dans les mains (dans le sens des aiguilles d'une montre) 
 \gn 捻线（顺时针） 
 \xv smɤɣ lɤ-pɣo-t-a
 \xn 我捻了羊毛
@@ -46474,11 +46498,11 @@
 \ge écrire
 \gn 写出来 
 \un 主要用于“自己造成”这个说法，带有为己前缀{nɯ-}
-\xv ɲɯ-rɤscoz (tɤscoz ɲɯ-ɤsɯ-rɤt)
+\xv ɲɯ-rɤscoz (tɤ-scoz ɲɯ-ɤsɯ-rɤt)
 \xn 他在写信
 \xv jaχpa rɯmu tɤ-tɯ-nɯrɤscoz ɕti 
 \xn 这是你签的字（这是你自己一手造成的）
-\cf tɤscoz
+\cf tɤ-scoz
 \dt 09/Jun/2013
 
 \lx _rɤskɤr
@@ -48222,10 +48246,12 @@
 \ps vt
 \pdl dir 
 \pdv lɤ-
-\ge rouler entre les mains (sens inverse des aiguilles d'une montre) 
+\ge faire de la ficelle en roulant dans les mains (sens inverse des aiguilles d'une montre) 
 \gn 搓线（逆时针方向） 
 \xv tɤ-ri lɤ-rɯm-a 
 \xn 我搓了线
+\sy pɣo
+\sy rɤjɯɣ
 \dt 27/Oct/2013
 
 \lx _rɯmani
@@ -53310,7 +53336,7 @@
 \xn 他把工作做完了
 \xv kɤ-βzjoz pa-sthɯt
 \xn 他学完了
-\xv tɤscoz kɤ-rɤt pjɤ-sthɯt
+\xv tɤ-scoz kɤ-rɤt pjɤ-sthɯt
 \xn 他把信写完了
 \xv kɤ-ndza chɤ-sthɯt
 \xn 他吃完了
@@ -56441,7 +56467,7 @@
 \gn 明显、清晰
 \xv fso tɕe a-kɤ-tɯ-lɤt tɕe a-tɤ-χsɤl je
 \xn 你明天打电话就会知道
-\xv kɯki tɤscoz ki pjɯ́-wɣ-ndɯn ɲɯ-jɤɣ ma ɲɯ-χsɤl
+\xv kɯki tɤ-scoz ki pjɯ́-wɣ-ndɯn ɲɯ-jɤɣ ma ɲɯ-χsɤl
 \xn 可以把这封信读出来，因为写得很清楚
 \cf saχsɤl
 \dt 22/Oct/2011
@@ -56934,6 +56960,7 @@
 \xn 他搓了绳子
 \xv nɯ-zgrɯl-a
 \xn 我搓了
+\cf rɤjɯɣ
 \dt 02/Jan/2015
 
 \lx _zgɯt
@@ -68041,6 +68068,8 @@ l
 \gn 阴凉的地方, 影子、倒影 
 \xv tɯ-ci ɯ-ŋgɯ a-ʁrɯm pjɤ-ntɕhɤz
 \xn 水中有我的倒影
+\cf tɯmɯʁrɯm
+\cf saʁrɯm
 \dt 05/May/2012
 
 \lx ^tasa
@@ -69620,16 +69649,16 @@ l
 \xn 我没有情夫
 \dt 15/May/2012
 
-\lx ^tɤscoz
+\lx ^tɤ-scoz
 \wav n-tAscoz
 \wav n-tAscoz2
-\ps n
+\ps np
 \ge lettre 
 \gn 字、信 
 \hbf 643 
-\xv xiangbolin kɯ tɤscoz ɲɯ-ɤsɯ-rɤt
-\xn 向柏霖在写信
-\xv a-jaʁ tɤscoz jɤ-ɣe 
+\xv @xiangbolin kɯ tɤ-scoz ɲɯ-ɤsɯ-rɤt
+\xn 向柏霖在写字
+\xv a-jaʁ tɤ-scoz jɤ-ɣe 
 \xn 我收到了一封信
 \cf rɤscoz
 \dt 13/May/2012
@@ -72321,8 +72350,10 @@ l
 
 \lx tɯmɯʁrɯm
 \ps n
-\ge lumière du soleil
-\gn 太阳光
+\ge ombre
+\gn 阴影部份（因为某种物体被遮住太阳光而投射的影子）
+\cf ta-ʁrɯm
+\cf tɯ-mɯ
 
 \lx nɯqhapa
 \wav8 YWnWqhapaa
@@ -72376,3 +72407,27 @@ l
 
 \lx _ʑɣɤsaʁjɤr
 \cf saʁjɤr
+
+\lx _ʑɣɤɣɤme
+\cf ɣɤme
+
+\lx _rɤjɯɣ
+\wav8 def-rAjWG
+\ps vt
+\pdl dir 
+\pdv lɤ-
+\ge faire de la ficelle en roualnt dans les mains
+\gn 搓线（用手）
+\lx 
+\sy pɣo
+\sy rɯm
+\dv (kɤ-zgrɯl cho kɤ-rɤjɯɣ) naχtɕɯɣ ri kɤ-zgrɯl nɯnɯ ɣɯ kɯ-jpum nɯra tɕe kɤ-zgrɯl tu-kɯ-ti ŋu, kɯ-xtshɯm nɯra kɤ-rɤjɯɣ tu-kɯ-ti.
+
+\lx _sɤrtɕhoʁ
+\wav8 def-kAsArtChoR
+\ps vt
+\pdl dir 
+\pdv _
+\ge rassembler dans un coin
+\gn 把分散的物体集中在一个角落里
+\dv yiban tɕe ɯ-βzɯr tsa jú-wɣ-sɤzɣɯt ra tɕe, kɤ-sɤrtɕhoʁ tu-kɯ-ti ŋu
