@@ -9690,7 +9690,8 @@
 \dt 07/May/2014
 
 \lx tɕhi¹
-\wav8 tChi
+\wav8 tChi_kWra
+\wav8 tChi_skAt
 \ps pro
 \ge quoi 
 \gn 什么 
@@ -9698,12 +9699,14 @@
 \et tɕʰi
 \xv kutɕu tɕhi ɯ-kɯ-pa jɤ-tɯ-ɣe?
 \xn 你来这里做什么？
-\xv tɕhi nɯ ma mɯ́j-ra
-\xn 不需要什么其他的
 \un 同{maʁ nɤ}连用时有“至少”的意思
+\xv tɕhi kɯ-ra ʑo kɤ-nɤma cha
+\xn 她什么都能做
+\xv tɕhi ɯ-skɤt ŋu, ɯ-ɲɯ́-tɯ-tso?
+\xn 你知道什么意思吗？
 \xv tɕhi maʁ nɤ
 \xn 至少
-\cf tshi⁴
+\cf tshi¹
 \dt 17/Jan/2015
 
 \lx tɕhi²
@@ -11320,6 +11323,7 @@
 \dt 29/May/2013
 
 \lx tɯ-laz²
+\wav8 nAlaz
 \ps n
 \ge karma 
 \gn 运气 
@@ -11329,6 +11333,8 @@
 \xn 我的命很苦
 \xv a-laz tu
 \xn 我运气好
+\xv nɤʑo nɤ-laz ɲɯ-sna
+\xn 你命好
 \dt 26/Jul/2014
 
 \lx tɯ-lɤn
@@ -31205,6 +31211,7 @@
 \xv kɤ-mbɣom mɤ-ra / tɯ-mbɣom mɤ-ra
 \xn 不用着急
 \cf ɕɯmbɣom
+\cf ɣɤmbɣomru
 \dt 25/Apr/2014
 
 \lx _mbi
@@ -34530,6 +34537,7 @@
 \ge trouver étrange 
 \gn 觉得奇怪 、感到惊讶
 \et mtsʰar
+\sy naχaʁ
 \xv jiɕqha nɯ tɤ-aʑɯʑu-ndʑi ri, ``mɤ-cha" nɯ-sɯso-t-a ri, pɯ-cha rcanɯ nɯ-nɤmtshar-a
 \xn 在角力的时候，我以为他不行，但他居然赢了，我感到很惊讶
 \xv ``mɤ-tɯ-cha" nɯ-sɯso-t-a ri, pɯ-tɯ-cha rcanɯ, nɯ-ta-nɤmtshɤr 
@@ -37511,8 +37519,12 @@
 \ps vs
 \pdl dir 
 \pdv tɤ-
-\ge tourner vite 
-\gn 转动的很快 
+\sn 1
+\ge rapide 
+\gn 快 
+\sn 2
+\ge courant (parole)
+\gn 流利（语言）
 \xv @piqiu ɲɯ-ndʐɯm
 \xn 皮球转动得很快
 \xv mkhɯrlu ɲɯ-ndʐɯm 
@@ -37523,6 +37535,8 @@
 \xn 他笑个不停
 \xv ɯ-ɕmi ɲɯ-ndʐɯm
 \xn 他滔滔不绝地讲
+\xv kɤ-ti a-kɤ-ndʐɯm ɲɯ-sɯsam-a
+\xn 我希望能讲得流利一点
 \dt 01/May/2014
 
 \lx _ndʑaʁ
@@ -49485,8 +49499,9 @@
 \ps vs
 \pdl dir 
 \pdv nɯ
-\ge extrême 
+\ge être extrême 
 \gn 极度的 
+\cf naχaʁ
 
 \lx _saχɕɤra
 \wav vt-saXCAra
@@ -57126,10 +57141,10 @@
 \pdv tɤ-
 \ng refl
 \ng trop
-\ge impressionant 
-\gn 逞能，在别人面前体现自己的能力 
+\ge fanfaronner 
+\gn 逞能
 \xv jiɕqha kɯ-znɤchacha ci ɲɯ-ŋu
-\xn 他很逞能
+\xn 他是个逞能的人
 \cf znɤtʂhɯtʂhɯt
 \dt 24/Aug/2012
 
@@ -57151,6 +57166,8 @@
 \xv nɤʑo ɲɯ-tɯ-znɤɕqraʁɕqraʁ
 \xn 你自以为很聪明
 \cf ɕqraʁ
+\sy znɤchacha
+\sy rɯχparɤβ
 \dt 15/Sep/2011
 
 \lx _znɤftɕɤftɕɤl
@@ -72430,3 +72447,28 @@ l
 \ge rassembler dans un coin
 \gn 把分散的物体集中在一个角落里
 \dv yiban tɕe ɯ-βzɯr tsa jú-wɣ-sɤzɣɯt ra tɕe, kɤ-sɤrtɕhoʁ tu-kɯ-ti ŋu
+
+\lx _ɣɤmbɣomru
+\wav8 kWGAmbGomru
+\ps vs
+\ge aux mouvements vifs
+\gn 动作快
+
+\lx _naχaʁ
+\wav8 YWnaXaRa
+\ps vt
+\ge être surpris par 
+\gn 对……感到惊奇
+\xv aʑo ɲɯ-naχaʁ-a ɕti
+\xn 我对这件事感到惊奇
+\sy nɤmtshɤr
+\cf saχaʁ
+
+\lx _rɯχparɤβ
+\ps vt
+\pdl dir 
+\pdv tɤ-
+\ge se vanter
+\gn 卖弄，夸耀自己
+\sy znɤchacha
+
