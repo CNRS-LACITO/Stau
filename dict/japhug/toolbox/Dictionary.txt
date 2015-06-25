@@ -30699,6 +30699,11 @@
 \ng refl
 \ge s'enduire
 \gn 给自己涂
+\se _amar
+\ps vi
+\ng pass
+\ge être enduit
+\gn 被涂在……
 \dt 13/Jan/2015
 
 \lx _maʁ
@@ -72472,3 +72477,5 @@ l
 \gn 卖弄，夸耀自己
 \sy znɤchacha
 
+\lx _amar
+\cf mar
