@@ -31731,7 +31731,7 @@
 \hbf 1209 <2> 1438 
 \xv nɯmɟe
 \xn 你拿一下
-\xv nɤkɤcu tʂhaχɯ kɤ-mɟe
+\xv nɤkɤcu tɕhaχɯ kɤ-mɟe
 \xn 你把那边的茶壶拿过来
 \xv tɤ-scoz ci nɯ-mɟa-t-a (=a-jaʁ nɯ-ɣe)
 \xn 我收到了一封信
@@ -72479,3 +72479,10 @@ l
 
 \lx _amar
 \cf mar
+
+\lx tɕhaχɯ
+\ps n
+\ge théière
+\gn 茶壶
+\et fn:茶壶
+
