@@ -35909,7 +35909,7 @@
 \xn 这一次，我在马尔康待了很久
 \xv japa pɯ-nɤrʑaʁ-a, ɣijpa ʑatsa ju-ɕe-a ra 
 \xn 我去年待了很长时间，今年要早点回去
-\xv fsapaʁ thɯsci mɤ-kɯ-nɤrʑaʁ tɕe, tu-ŋke ɕti
+\xv fsapaʁ thɯ-sci mɤ-kɯ-nɤrʑaʁ tɕe, tu-ŋke ɕti
 \xn 牲畜出生不久就会走路
 \cf tɤ-rʑaʁ
 \dt 29/Mar/2011
@@ -39386,6 +39386,13 @@
 \et kʰrims
 \xv ɲɯ-nɯkhrɯm-nɯ
 \xn 他们在坐牢
+\se znɯkhrɯm
+\ps vt
+\ng caus
+\pdl dir 
+\pdv kɤ-
+\ge mettre en prison
+\gn 关进监狱、惩罚
 \dt 21/Aug/2014
 
 \lx _nɯkhɯ
@@ -72486,3 +72493,5 @@ l
 \gn 茶壶
 \et fn:茶壶
 
+\lx _znɯkhrɯm
+\cf nɯkhrɯm 
