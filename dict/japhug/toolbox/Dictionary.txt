@@ -3423,14 +3423,6 @@
 \gn 金星 
 \hbf astronomie
 
-\lx _ra
-\ps vs
-\pdl dir 
-\pdv tɤ-
-\ge devoir 
-\gn 要 
-\hbf 1755
-
 \lx kɯrcat
 \ps num
 \ge huit 
@@ -12658,6 +12650,7 @@
 \xn 已经很晚，你来不及了
 \xv soz tɕi tu ŋgrɤl tɯrmɯ tɕi tu ŋgrɤl
 \xn 早上也有，下午也有
+\cf nɯrmɯ
 \dt 24/Jun/2011
 
 \lx tɯrmɯkha
@@ -34941,6 +34934,8 @@
 \lx _nɤɲchɯɲchɤm
 \wav vi-nAYchWYchAm
 \ps vi
+\pdl dir
+\pdv thɯ-
 \ge rôder
 \gn 无聊地到处流浪、到处走动
 \xv kɯ-nɤɲchɯɲchɤm jɤ-ari-a
@@ -45317,8 +45312,7 @@
 \ps vs
 \ge devoir
 \gn 应该
-\xv ɲɯ-nɤʁaʁ ma kɯ-ra maŋe
-\xn 他只顾着玩，其它什么也不管
+\cf mɤra ma
 \dt 13/May/2014
 
 \lx _raŋ
@@ -72539,4 +72533,11 @@ l
 \xn mkharmaŋ to-laŋ-nɯ
 \xv 老百姓起义了
 
-
+\lx _nɯrmɯ 
+\ps vi
+\pdl dir
+\pdv nɯ-
+\ge se coucher tard
+\gn 晚睡 
+\cf tɯrmɯ 
+\cf nɯrmɯsoz
