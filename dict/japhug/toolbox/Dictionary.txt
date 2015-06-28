@@ -45310,8 +45310,16 @@
 
 \lx _ra
 \ps vs
+\sn 1
 \ge devoir
 \gn 应该
+\sn 2
+\ge avoir besoin de 
+\gn 需要
+\xv nɤʑɯɣ tɕhi ra?
+\xn 你需要什么？
+\xv aʑɯɣ kɯ-ra me
+\xn 我什么也不需要
 \cf mɤra ma
 \dt 13/May/2014
 
@@ -54993,14 +55001,14 @@
 \xn 我脱了衣服
 \xv ɯ-kri nɯ-tɕat-a
 \xn 我把猪油熬出来了
-\xv kɤ-ɤlɯlɤt mɤ-kɯ-ra ɲɤ-tɯ-tɕɤt
-\xn 你们令他们不要打架
 \xv tɯ-ɣli thɯ-tɕɤt-i
 \xn 我们出圈肥了
 \xv ɯʑo taʁndo mɯ-pjɤ-tso tɕe ɯ-ɣi ra kɯ pjɤ́-wɣ-tɕɤt
 \xn 他不听指挥，家人就把他赶出家了
 \xv tʂapa ɯ-ŋgɯ fsapaʁ ra chɯ́-wɣ-tɕɤt ɲɯ-ra
 \xn 要把圈里的牲畜赶出来
+\xv kɤ-ɤlɯlɤt mɤ-kɯ-ra ɲɤ-tɯ-tɕɤt
+\xn 你们令他们不要打架
 \pdl dir 
 \pdv thɯ-
 \ge élever
