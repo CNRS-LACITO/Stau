@@ -14476,16 +14476,23 @@
 \wav8 Wqa_Zo_pjWnWlhoR
 \ps np
 \sn 1
-\ge racine, fond 
-\gn 根、底部
+\ge racine
+\gn 根
 \sn 2
 \ge patte
-\gn 野兽的脚
+\gn （动物）的脚
+\sn 3
+\ge fond 
+\gn 底部
+\xv tɤ-fkɯm ɣɯ ɯ-qa
+\xn 袋子的底部
+\xv mtshu ɯ-qa zɯ
+\xn 在湖底
 \xv ɯ-qa ʑo tu-nɯɬoʁ naʁzi-a
 \xn 我想寻根问底
 \xv ɯ-kɤ-thu nɯ ɯ-qa ʑo tu-nɯɬoʁ naʁzi
 \xn 他想寻根问底
-\hbf animal2
+\cf ɯ-qataʁrɯ
 
 \lx ɯ-qhɤchu
 \wav8 qhAchu
@@ -42387,8 +42394,8 @@
 \pdl dir 
 \pdv thɯ-
 \sn 1
-\ge être inquiet, malheureux
-\gn 不高兴、伤心
+\ge être inquiet
+\gn 担心
 \sn 2
 \ge être malheureux, être triste
 \gn 不高兴、伤心
@@ -42402,6 +42409,7 @@
 \xn 你儿子生病了，但是不要担心
 \xv tɕhindʐa ku-tɯ-nɯsɯmɯzdɯɣ?
 \xn 你为什么不高兴？
+\cf sɯmɯzdɯɣ
 \dt 25/Jan/2015
 
 \lx _nɯsɯŋgɯ
