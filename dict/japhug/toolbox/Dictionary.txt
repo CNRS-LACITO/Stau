@@ -4283,10 +4283,16 @@
 \xn 我听错了他讲的话
 \dt 08/May/2014
 
-\lx mɤspemɤrke kɯ-me
-\ps n
-\ge innocent
+\lx {spa}{rka}
+\ps vt
+\ge être innocent
 \gn 无辜
+\ng serie
+\un {spa}和{rka}只用于否定形式，带{mɤ-}前缀，同时必须与否定存在动词{me}“没有”连用
+\xv mɤ-spe mɤ-rke kɯ-me
+\xn 无辜的人
+\xv mkharmaŋ mɤ-spa-nɯ mɤ-rka-nɯ kɯ-me
+\xn 无辜的老百姓
 \dt 14/May/2014
 
 \lx mɤtsamɤmu
@@ -13111,6 +13117,8 @@
 \hbf 144 
 \xv ɯ-sni ɲɯ-xtɕi 
 \xn 他很胆小
+\xv ɯ-sni ɲɤ-zdɯɣ
+\xn 他很伤心
 \dt 14/Oct/2014
 
 \lx tɯ-sŋi
@@ -37372,7 +37380,7 @@
 \xn 我把衣服洗了，然后把水拧出来了
 \xv tɯ-ŋga kɤ-χtɕi nɯ-jɤɣ tɕe tú-wɣ-ndzri ra, tɕe ɯ-ci a-pɯ-nɯ-ɬoʁ ra
 \xn 洗完了衣服就要拧，这样水就会出来
-\xv aɕa ma-tɤ-tɯ-ndzri ma ɲɯ-mŋɤm
+\xv a-ɕa ma-tɤ-tɯ-ndzri ma ɲɯ-mŋɤm
 \xn 你不要拧我的肉，很痛！
 \xv rɟɯma kɤ-ndzri tɕe a-tɤ-ɤsɯɣ
 \xn 你拧一下螺丝就会紧
@@ -40898,8 +40906,16 @@
 \xn 他把妻子亲了一下了
 \xv tɤ-pɤtso ka-nɯpoʁ
 \xn 他把孩子亲了一下
-\xv waiguoren ra kɤ-nɯpoʁ rga-nɯ
+\xv @waiguoren ra kɤ-nɯpoʁ rga-nɯ
 \xn 外国人喜欢亲嘴
+\xv kɤ́-wɣ-nɯpoʁ-a
+\xn 他亲了我一下
+\se znɯpoʁ
+\ps vt
+\pdl dir 
+\pdv kɤ-
+\ge laisser embrasser
+\gn 让……亲吻
 \dt 12/Jan/2014
 
 \lx _nɯproʁmba
@@ -42370,8 +42386,12 @@
 \ng denom
 \pdl dir 
 \pdv thɯ-
-\ge inquiet, malheureux
-\gn 担心、不高兴、伤心
+\sn 1
+\ge être inquiet, malheureux
+\gn 不高兴、伤心
+\sn 2
+\ge être malheureux, être triste
+\gn 不高兴、伤心
 \hbf 1120 
 \et sems.sdug
 \xv thɯ-nɯsɯmɯzdɯɣ mɤ-ra
@@ -42380,7 +42400,7 @@
 \xn 你不要伤心
 \xv nɤ-rɟit ɲɯ-ngo, ma-tɯ-nɯsɯmɯzdɯɣ 
 \xn 你儿子生病了，但是不要担心
-\xv tɕhindʐa ku-tɯ-sɯmɯzdɯɣ?
+\xv tɕhindʐa ku-tɯ-nɯsɯmɯzdɯɣ?
 \xn 你为什么不高兴？
 \dt 25/Jan/2015
 
@@ -53422,8 +53442,10 @@
 \ge assidu 
 \gn 努力 
 \hbf 1115 
+\ng serie
 \xv kɤ-rɤma to-stu
 \xn 他工作很努力
+\un 同{mbat}连用时构成连动式谓语
 \xv stu-a mbat-a
 \xn 我会努力的
 \xv tɤ-stu tɤ-mbat je
@@ -72495,3 +72517,18 @@ l
 
 \lx _znɯkhrɯm
 \cf nɯkhrɯm 
+
+\lx _znɯpoʁ
+\cf nɯpoʁ 
+
+\lx _laŋ
+\ps vi
+\pdl dir
+\pdv tɤ-
+\ge se soulever
+\gn 起义
+\et laŋ
+\xn mkharmaŋ to-laŋ-nɯ
+\xv 老百姓起义了
+
+
