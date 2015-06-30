@@ -28741,7 +28741,8 @@
 \pdv pɯ-
 \pdl dir 
 \pdv tɤ-
-\ge frotter 
+\sn 1
+\ge pétrir, frotter
 \gn 揉 
 \hbf 1225 
 \xv pɯ-ɣle-t-a
@@ -28752,6 +28753,10 @@
 \xn 他揉了
 \xv tɤjlu wuma ʑo pa-ɣle tɕe ɲɯ-mɯm
 \xn 他揉了面，面就好吃了
+\se nɤɣlɯɣle
+\ps vt
+\ge frotter dans tous les sens
+\gn 揉来揉去
 \dt 06/Jun/2011
 
 \lx _ɣlɯtɕɤt
@@ -36865,7 +36870,7 @@
 \dt 25/Feb/2014
 
 \lx _nɤʑɤmŋɤn
-\a nɯʑɤmŋɤm
+\a nɯʑɤmŋɤn
 \wav vt-nWZAmNAn
 \wav8 YWnAZAmNAn
 \ps vt
@@ -52766,11 +52771,11 @@
 \xn 茶很浓
 \dt 19/May/2014
 
-\lx _snɯɲaʁ
+\lx ^snɯɲaʁ
 \wav8 snWYaR
 \ps n
 \ge fait de causer du tort
-\gn 狠心
+\gn 害人（的阴谋）
 \xv snɯɲaʁ ma-tɤ-tɯ-βze
 \xn 你不要害人
 \cf tɯ-sni
@@ -72549,3 +72554,6 @@ l
 \gn 晚睡 
 \cf tɯrmɯ 
 \cf nɯrmɯsoz
+
+\lx _nɤɣlɯɣle
+\cf ɣle
