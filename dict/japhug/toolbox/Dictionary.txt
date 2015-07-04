@@ -7954,12 +7954,14 @@
 \ps n
 \sn 1
 \ge diadème en argent 
-\gn 头上的银制装饰品 、戒指
+\gn 头上的银制装饰品
 \sn 2
 \ge anneau 
 \gn 戒指 
 \xv srɯnloʁ lɤ-nɯrʁe-t-a
 \xn 我戴了戒指
+\xv srɯnloʁ-pɯ
+\xn 小戒指
 \dt 12/Mar/2014
 
 \lx srɯnmɯ
@@ -62222,6 +62224,8 @@ nɯ pjɯ-tɯ-βde nɯ tɯrme pjɯ-kɯ-si pjɤ-ŋgrɤl
 \hbf 549 
 \xv mbrɯtɕɯ ɯ-ɕɣa 
 \xn 刀刃
+\xv mbrɯtɕɯ ɯ-pɯ
+\xn 小刀
 \dt 01/Jan/2012
 
 \lx ^mbɯmχtɤr
@@ -62240,6 +62244,7 @@ nɯ pjɯ-tɯ-βde nɯ tɯrme pjɯ-kɯ-si pjɤ-ŋgrɤl
 \gn 刨 
 \hbf 611 
 \et ɴbur.len
+\cf nɯmbɯrlɤn
 \dt 11/Jan/2015
 
 \lx ^mciphɯt
