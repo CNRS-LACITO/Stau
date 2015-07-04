@@ -148,9 +148,15 @@
 
 \lx βdiwa
 \ps n
+\sn 1
 \ge calme 
 \gn 平安 
+\sn 2
+\ge bonne action 
+\gn 善事 
 \et bde.ba
+\xv βdiwa ɲɤ-fkot 
+\xn 他做了善事
 
 \lx βdɯnba
 \ps n
@@ -24794,13 +24800,14 @@
 \et bkod
 \xv pɯ-fkot-a
 \xn 我创建了
-
 \xv ɯʑo kɯ ta-fkot
 \xn 他创建了
 \xv nɤʑo tɤ-tɯ-fkot
 \xn 你创建了
 \xv ɕoŋβzu kɯ kha kɤ-βzu pjɤ-fkot
 \xn 木匠设计了房子
+\xv βdiwa ɲɤ-fkot 
+\xn 他做了善事
 \dt 12/Jun/2012
 
 \lx _fkra
@@ -58517,13 +58524,17 @@
 \hbf 1015 
 \xv ɯ-fkur ɲɯ-ʑo
 \xn 他的负担很轻
+\an rʑi
 \se ʑɣɤɣɤʑo
 \ps vi
+\pdl dir 
+\pdv tɤ-
 \ng refl
 \ng caus
 \ge se rendre léger
 \gn 令自己变轻
-\an rʑi
+\xv tɤ-muj jamar ʑo to-ʑɣɤɣɤʑo 
+\xn 他令自己变得像羽毛一样轻 
 \dt 18/Mar/2015
 
 \lx _ʑru
@@ -60832,12 +60843,19 @@
 \hbf animal
 \dt 29/Nov/2010
 
-\lx ^kɤkɯnɯχtɕɤn
-\ps n
-\ge sorte de maladie mentale 
-\gn 精神病的一种 
-\hbf maladie
-\dt 24/Oct/2011
+\lx _nɯχtɕɤn
+\ps vs
+\pdl dir
+\pdv kɤ-
+\ge terrible 
+\gn 恐怖、凶猛
+\un 仅用于传统故事中，形容施了魔法的物体（水、巨石、森林等）
+\xv ndzaʁlaŋ tɯrme jo-ɣi tɕe, tɯ-ci kɤ-kɯ-nɯχtɕɤn ɯ-ŋgɯ ɕ-pjɯ́-wɣ-βde ɲɯ-ra
+\xn （妖界）来了凡人，我们要把他扔进恐怖的水里！
+\xv tɯ-ci kɤ-kɯ-nɯχtɕɤn nɯnɯ tɕe tɕe tu-ola ʑo kɯ-fse pjɤ-ɕti tɕe,
+nɯ pjɯ-tɯ-βde nɯ tɯrme pjɯ-kɯ-si pjɤ-ŋgrɤl
+\xn “恐怖的水”在沸腾一样，（妖）把人一扔进去就必死无疑
+
 
 \lx ^kɤndʑɯβzaŋsa
 \wav n-kAndZWBzaNsa
@@ -70875,6 +70893,7 @@ l
 \ps n
 \ge bord du chemin du côté de la montagne, du côté le plus haut 
 \gn 靠山的路边
+\an tʂɤndo
 \cf tʂu
 \dt 15/May/2012
 
