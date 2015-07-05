@@ -12217,7 +12217,7 @@
 \ge année 
 \gn 一岁（年龄） 
 \hbf 914
-\xv nɤʑo thɤstɯ-pɤrme thɯ-tɯ-ɤzɣɯt?
+\xv nɤʑo thɤstɯ-pɤrme thɯ-tɯ-azɣɯt?
 \xn 你多大了？
 \xv aʑo fsusqafsum-pɤrme thɯ-azɣɯt-a
 \xn 我三十三岁
@@ -19396,7 +19396,7 @@
 \pdv tɤ-
 \ge être rempli
 \gn 被堆满、被装满
-\xv ɯ-tɯ-dɤn kɯ tɤ-kɤmɯrmbɯ-ci zjaŋzjaŋ
+\xv ɯ-tɯ-dɤn kɯ tɤ-k-ɤmɯrmbɯ-ci zjaŋzjaŋ
 \xn 装满了
 \se zmɯrmbɯ
 \ps vt
@@ -68538,7 +68538,7 @@ l
 \ge glace 
 \gn 冰 
 \hbf 17 <2> 1440 
-\xv tɤjpɣom lɤ-kɤβzu-ci
+\xv tɤjpɣom lɤ-k-ɤβzu-ci
 \xn 结了冰
 \cf jpɣom
 \dt 15/May/2012
@@ -69444,7 +69444,7 @@ l
 
 \lx ^tɤ-rkuz
 \wav n-tArkuz
-\ps n
+\ps np
 \ge cadeau 
 \gn 礼物 （临走之前给的）
 \xv aʑo tɤ-rɤŋga-t-a, tɕe a-me kɯ a-rkuz rŋɯl ta-rku (ta-βzu)
@@ -72582,3 +72582,16 @@ l
 
 \lx _nɤɣlɯɣle
 \cf ɣle
+
+\lx ɯ-thɤβ
+\ps np
+\ge au milieu 
+\gn 中间 
+\cf ɯ-pɤrthɤβ 
+
+\lx ɯ-pɤrthɤβ
+\ps np
+\ge au milieu 
+\gn 中间 
+\et bar
+\cf ɯ-thɤβ 
