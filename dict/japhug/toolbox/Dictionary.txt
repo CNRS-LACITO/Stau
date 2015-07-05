@@ -21520,29 +21520,45 @@
 
 \lx _aʁjɤr
 \wav vi-aRjAr
-\wav vt-saRjAr
 \ps vi
 \pdl dir 
 \pdv nɯ-
-\ge retarder 
-\gn 耽误 
+\ge être en retard 
+\gn 耽误时间、迟到 
 \hbf 1255
 \xv toʁde nɯ-aʁjar-a
 \xn 我耽误了一下
 \xv tɯrju ɲɯ-ti tɕe, nɯ-aʁjar-a
 \xn 他说话，我就耽误了时间
 \se saʁjɤr
+\wav vt-saRjAr
+\wav vt-saRjAr2
+\wav8 saRjara
 \ps vt
 \pdl dir 
 \pdv pɯ-
-\ge retarder
-\gn 耽误别人
+\sn 1 
+\ge retarder, déranger
+\gn 耽误、打扰
+\sn 2
+\ge déranger
+\gn 打扰
+\hbf 1255 
 \xv ma-pɯ-kɯ-saʁjar-a
 \xn 你不要耽误我的时间
-\xv pɯ-ta-saʁjɤr
-\xn 我耽误你了
-\xv tɯmɯ ɲɯ-lɤt tɕe ji-ma pɯ́-wɣ-saʁjɤr-i
+\xv pɯ-kɯ-saʁjar-a
+\xn 你耽误了我的时间
+\xv ɲɯ-ta-saʁjɤr
+\xn 我在耽误你的时间
+\xv ɯ-zgra kɤ-ʑmbri mɤ-pe ma tɯrme saʁjar-a
+\xn 我不能发出声音，不然会打扰别人
+\xv tɯmɯ ɲɯ-lɤt tɕe, ji-ma pɯ́-wɣ-saʁjɤr-i
 \xn 下雨就耽误了我们的工作
+\xv @kaihui ɲɯ-ra tɕe, kɤ-ɣi mɯ-pɯ-ŋgrɯ, pɯ-ta-saʁjɤr
+\xn 因为需要开会没能来到，耽误了你的时间
+\se sɤsaʁjɤr
+\ps vi
+\ng apass
 \se ʑɣɤsaʁjɤr 
 \ps vi
 \ng refl
@@ -49418,29 +49434,6 @@
 \dt 21/Oct/2011
 
 \lx _saʁjɤr
-\wav vt-saRjAr2
-\wav8 saRjara
-\ps vt
-\pdl dir 
-\pdv pɯ-
-\ge retarder, déranger
-\gn 耽误、打扰
-\hbf 1255 
-\xv ma-pɯ-kɯ-saʁjar-a
-\xn 你不要耽误我的时间
-\xv pɯ-kɯ-saʁjar-a
-\xn 你耽误了我的时间
-\xv ɲɯ-ta-saʁjɤr
-\xn 我在耽误你的时间
-\xv ɯ-zgra kɤ-ʑmbri mɤ-pe ma tɯrme saʁjar-a
-\xn 我不能发出声音，不然会打扰别人
-\xv tɯmɯ ɲɯ-lɤt tɕe, ji-ma pɯ́-wɣ-saʁjɤr-i
-\xn 下雨，耽误了我们的时间
-\xv kaihui ɲɯ-ra tɕe, kɤ-ɣi mɯ-pɯ-ŋgrɯ, pɯ-ta-saʁjɤr
-\xn 因为需要开会没能来到，耽误了你的时间
-\se sɤsaʁjɤr
-\ps vi
-\ng apass
 \cf aʁjɤr
 \dt 28/Sep/2013
 
