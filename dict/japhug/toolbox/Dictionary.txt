@@ -45562,7 +45562,7 @@
 \pdl dir 
 \pdv tɤ-
 \ge rugir 
-\gn 猫、豹子吼叫 
+\gn （猫、豹子）吼叫 
 \hbf 1435
 \xv lɯlu ɲɯ-rɤβʁa
 \xn 猫在吼叫
@@ -68938,6 +68938,7 @@ l
 \ge plumes 
 \gn 羽毛 
 \hbf oiseau2
+\cf pɣɤmuj
 \dt 12/May/2012
 
 \lx ^tɤmɯmɯm
@@ -72588,3 +72589,12 @@ l
 \gn 中间 
 \et bar
 \cf ɯ-thɤβ 
+
+\lx pɣɤmuj
+\ps n
+\ge plumes d'oiseau
+\gn 羽毛
+\cf tɤ-muj
+\cf pɣa
+
+
