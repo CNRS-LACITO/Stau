@@ -55382,6 +55382,8 @@
 \xn 这件事情全靠你了
 \xv ki kɤ-nɤma ki ɯʑo ɯ-taʁ ɲɯ-ti-a ntshi
 \xn 这件事情只好靠他了
+\xv nɤ-kɤ-nɯ-ti ci ɣɤʑu
+\xn 你还好意思说
 \un 参看{ʑɣɤta}或{ʑɣɤχtɤt}“靠在”
 \se sɯti
 \pdl past stem
