@@ -3739,7 +3739,7 @@
 
 \lx laχthɤβ
 \ps n
-\ge médecin traditionelqui répare les fractures
+\ge médecin traditionnel qui répare les fractures
 \gn 专门治疗骨折、脱臼的手的土医生
 \dt 26/Apr/2014
 
@@ -68892,14 +68892,16 @@ l
 \cf nɤmtshɤr
 \dt 29/Nov/2011
 
-\lx ^tɤmtshɤzkɤkɯndo
+\lx tɤmtshɤz{ndo}
 \wav n-tAntshAzkAkWndo
-\ps n
-\ge hyperostose
-\gn 骨折增生病 
+\ps vt
+\pdl dir
+\pdv kɤ-
+\ge avoir une hyperostose
+\gn 骨质增生 
 \hbf maladie 
-\xv ɕɤrɯ pɯ-mɲɤt tɕe ɯ-rɯru-z kɤ-ɣɤmna mɯ-pɯ-kɯ-khɯ tɕe, nɯ ɯ-stu nɯ ɯ-zbɤβ ku-ndzoʁ ɲɯ-ŋgrɤl tɕe, ɯ-nɯnɯ tɤ-rʑaʁ tɤ-rɲɟi tɕe, kɤ-nɤma nɤɴqa kɯ-fse, tɯmɯ tɤ-ɲɟɯr kɯ-fse tɕe wuma ʑo ɲɯ-mŋɤm. nɯnɯ tɤntshɤz kɤ-kɯ-ndo rmi. 
-\xn 骨折当时没能治好，在骨折的地方会长出胞来，时间一长，劳累了，天气变化了都会很痛。这种病叫骨折增生病。
+\xv ɕɤrɯ pɯ-mɲɤt tɕe ɯ-rɯru-z kɤ-ɣɤmna mɯ-pɯ-kɯ-khɯ tɕe, nɯ ɯ-stu nɯ ɯ-zbɤβ ku-ndzoʁ ɲɯ-ŋgrɤl tɕe, ɯ-nɯnɯ tɤ-rʑaʁ tɤ-rɲɟi tɕe, kɤ-nɤma nɤɴqa kɯ-fse, tɯmɯ tɤ-ɲɟɯr kɯ-fse tɕe wuma ʑo ɲɯ-mŋɤm. nɯnɯ tɤmtshɤz kɤ-kɯ-ndo rmi. 
+\xn 骨折当时没能治好，在骨折的地方会长出胞来，时间一长，劳累了，天气变化了都会很痛。这种病叫骨质增生病。
 \dt 12/May/2012
 
 \lx ^tɤ-mtsɯ
