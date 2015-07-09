@@ -11211,11 +11211,13 @@
 \hbf corps 
 \et kapāla
 
-\lx tɯkɤrnoʁkɯmtɕɯr
-\ps n
-\ge vertige 
+\lx tɯ-kɤrnoʁ{mtɕɯr}
+\ps vi
+\ge avoir un vertige 
 \gn 头晕 
 \hbf maladie
+\xv a-kɤrnoʁ ɲɯ-mtɕɯr ntsɯ pɯ-ŋu.
+\xn 我当时总是头晕
 \dt 29/May/2013
 
 \lx tɯ-kha
@@ -35327,7 +35329,7 @@
 \xn 你在排挤我
 \dt 24/Aug/2012
 
-\lx _nɤqaʑa
+\lx _nɤqɤʑa
 \wav vt-nAqaZa
 \ps vt
 \ng incorp
@@ -35336,14 +35338,14 @@
 \ge refaire du début
 \gn 从头开始 
 \hbf 1173 
-\xv kha tɤ-nɤqaʑa-t-a tɤ-βzu-t-a ɕti
-\xv ɤj kha tɤ-nɤqaʑa-t-a ɕti
+\xv kha tɤ-nɤqɤʑa-t-a tɤ-βzu-t-a ɕti
+\xv ɤj kha tɤ-nɤqɤʑa-t-a ɕti
 \xn 我从头开始修建屋子了
 \xv kɤ-nɤma kɤ-nɤqaʑ-a ɬoʁ
 \xn 工作要从头开始
-\xv tɯ-ŋga kɤ-βzu tɤ-nɤqaʑa-t-a
+\xv tɯ-ŋga kɤ-βzu tɤ-nɤqɤʑa-t-a
 \xn 我从头开始做衣服了
-\xv tɤ-pɤtso kɤ-sɯxɕɤt pɯ-nɤqaʑa-t-a pɯ-ra
+\xv tɤ-pɤtso kɤ-sɯxɕɤt pɯ-nɤqɤʑa-t-a pɯ-ra
 \xn 我从头开始教小孩子了
 \cf ɯ-qa
 \cf ʑa¹
@@ -43074,15 +43076,15 @@
 \ps vi
 \pdl dir 
 \pdv pɯ-
-\ge maladie des ovins 
-\gn 羊病 
+\ge avoir la tête qui tourne (ovins， tremblante du mouton?)
+\gn 头晕倒下（羊） 
 \hbf maladie 
 \xv qaʑo pjɤ-nɯzarzɯr
-\xn 绵羊得了羊病
+\xn 绵羊头晕倒下了
 \xv tshɤt kɤ-nɯzarzɯr nɯxtɕhɤz
-\xn 山羊经常得羊病
+\xn 山羊经常头晕倒下
 \xv qaʑo cho tshɤt ɯ-kɤrnoʁ ɲɯ-mtɕɯr tɕe pjɯ-ndʐaβ tɕe nɯ pjɯ-nɯzarzɯr ŋu tɕe ɯ-rna ɯ-taʁ pjɯ́-wɣ-qraʁ tɕe tɤ-se a-pɯ-ɬoʁ tɕe tu-mna ŋgrɤl 
-\xn 绵羊和山羊头晕突然倒下叫|fv{kɤ-nɯzarzɯr}，在羊的耳朵上割一刀，让血流出来就会好。
+\xn 绵羊和山羊头晕突然倒下，在羊的耳朵上割一刀，让血流出来就会好。
 \dt 26/Aug/2014
 
 \lx _nɯzɤsna
