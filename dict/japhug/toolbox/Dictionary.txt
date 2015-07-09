@@ -9209,7 +9209,7 @@
 \sn 3
 \ge pour
 \gn 用来……
-\un 用于目标从句时，从句的主动词带不定式 |fv{kɤ--}前缀
+\un 用于目标从句时，从句的主动词带不定式|fv{kɤ--}前缀
 \xv khɯna nɯ kha kɯ-rɯru ɯ-spa ŋu 
 \xn 守家是狗的义务 
 \xv nɯ tɕhi ɯ-spa ɲɯ-ŋu ? 
