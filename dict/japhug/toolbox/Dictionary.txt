@@ -12112,6 +12112,8 @@
 \gn 衣服 
 \hbf 467
 \cf stɤnga
+\cf kɯrɯŋga
+\cf kupaŋga
 \dt 11/Aug/2014
 
 \lx tɯŋgar
@@ -21300,6 +21302,8 @@
 \gn 分叉、成双 
 \xv ki si nɯ tɯ-ldʑa ma pɯ-me ri ɲɤ-k-ɤrtaʁ-ci
 \xn 这棵树原来只有一根，现在分叉了
+\cf tɤ-rtaʁ
+\cf jmɤrtaʁ
 \dt 20/Apr/2013
 
 \lx _artsɯɣdu
@@ -69568,6 +69572,7 @@ l
 \ge branche 
 \gn 树杈 
 \hbf plante2
+\cf artaʁ
 \dt 13/May/2012
 
 \lx ^tɤrtɕi
@@ -72612,4 +72617,18 @@ l
 \n
 \ge espèce d'insecte
 \gn 虫子的一种
+\cf tɤ-jme
+\cf artaʁ
+
+\lx kɯrɯŋga
+\ps n
+\ge habits tibétains
+\gn 藏装
+\cf tɯ-ŋga
+
+\lx kupaŋga
+\ps n
+\ge habits chinois / occidentaux
+\gn 汉装
+\cf tɯ-ŋga
 
