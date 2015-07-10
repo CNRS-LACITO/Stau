@@ -20193,7 +20193,7 @@
 \xn 他工作做得很快（很勤快）
 \xv nɯ ta-ma kɤ-nɤma tu-kɯ-ɤnɯsɯslaʁ ʑo jɤɣ wo
 \xn 这个工作可以做得快一些（长辈对晚辈说的话）
-\xv kɯ-rɤma jɤ-tɯ-ɤri tɕe, a-tɤ-tɯ-ɤnɯsɯslaʁ ʑo je!
+\xv kɯ-rɤma jɤ-tɯ-ari tɕe, a-tɤ-tɯ-ɤnɯsɯslaʁ ʑo je!
 \xn 你去工作的时候要勤快一些！
 \xv ɯʑo ta-ma pe tɕe, tu-onɯsɯslaʁ ʑo ɕti
 \xn 他工作得很好，很勤快
@@ -33863,7 +33863,7 @@
 \xn 你原来有录音机，今天不用去买，可以用
 \xv jisŋi tʂha kɤ-tshi aʑo a-@chabei pɯ-tu tɕe ɲɯ-nɤjtshɯ
 \xn 今天喝茶，我有茶杯可以用
-\xv nɤj ʑa jɤ-tɯ-ɤri mɯ-pjɤ-nɤjtshɯ
+\xv nɤj ʑa jɤ-tɯ-ari mɯ-pjɤ-nɤjtshɯ
 \xn 我早去没有用
 \xv nɤʑo kha kɤ-nɤma tɯ-nɤjtshɯ
 \xn 家里的事情，你会做（就不用我做了）
@@ -39411,7 +39411,7 @@
 \pdv nɯ-
 \ge accrocher et déchirer 
 \gn 钩住 、钩破
-\xv kɤ-tɯ-ɤri nɤ ɲɯ-kɯ-nɯkhrɯɣ-a, nɯ-tɯ-ɣe nɤ ɲɯ-kɯ-nɯkhrɯɣ-a
+\xv kɤ-tɯ-ari nɤ ɲɯ-kɯ-nɯkhrɯɣ-a, nɯ-tɯ-ɣe nɤ ɲɯ-kɯ-nɯkhrɯɣ-a
 \xn 你过去就把我的衣服钩破，过来也把我的衣服钩破
 \xv si kɯ a-ŋga na-nɯkhrɯɣ
 \xn 我的衣服被树钩破了
@@ -40067,7 +40067,7 @@
 \gn 受玷污气，受晦气
 \xv tɯ-ŋga nɯnɯ ma-thɯ-tɯ-ŋge ma mɤ-χtso tɕe tú-wɣ-z-nɯmnɤl
 \xn 你别穿这件衣服，不干净，你会沾上晦气的
-\xv tɕhi tɤ-tɯ-ɤri tɕe, tɯrme ɯ-pa a-mɤ-tɯ-ɕe ma tú-wɣ-z-nɯmnɤl
+\xv tɕhi tɤ-tɯ-ari tɕe, tɯrme ɯ-pa a-mɤ-tɯ-ɕe ma tú-wɣ-z-nɯmnɤl
 \xn 你上楼梯的时候，不要在别人下面不然你会沾上晦气的
 \xv tɯ-ŋga kɯ pjɤ́-wɣ-z-nɯmnal-a
 \xn 这件令我受了晦气
@@ -66977,7 +66977,7 @@ nɯ pjɯ-tɯ-βde nɯ tɯrme pjɯ-kɯ-si pjɤ-ŋgrɤl
 \ps n
 \ge hôpital 
 \gn 医院 
-\xv smɤnkhaŋ jɤ-tɯ-ɤri ? 
+\xv smɤnkhaŋ jɤ-tɯ-ari ? 
 \xn 你去了医院吗？
 \dt 29/Apr/2012
 
@@ -68500,6 +68500,9 @@ l
 \hbf animal2
 \xv ɯ-jme
 \xn 它的尾巴
+\cf jmɤrtaʁ
+\cf jmɤlu
+\cf ɯ-kɤlɤjme
 \dt 10/May/2012
 
 \lx ^tɤ-jŋoʁ
