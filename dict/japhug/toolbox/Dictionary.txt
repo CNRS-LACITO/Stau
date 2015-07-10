@@ -48922,7 +48922,7 @@
 \gn 快要抽穗（青稞）
 \xv tɤɕi to-rɯtɯwɯ
 \xn 青稞快要抽穗
-\dv tɤɕi to-wxti tɕe ʑatsa ɯ-kɯɕnom lɤt tɤkha tɕe, nɯnɯ tɯwɯ tsa fse tɕe, nɯ to-rɯtɯwɯ tu-kɯ-ti ŋu
+\dv tɤɕi tɤ-wxti tɕe ʑatsa ɯ-kɯɕnom lɤt tɤkha tɕe, nɯnɯ tɯwɯ tsa fse tɕe, nɯ to-rɯtɯwɯ tu-kɯ-ti ŋu
 \dt 06/Aug/2012
 
 \lx _rɯxtɯwxti
@@ -72587,6 +72587,8 @@ l
 \ps np
 \ge au milieu 
 \gn 中间 
+\xv aʑo ndʑi-thɤβ tu-βze-a
+\xn 我来调解你们之间的纠纷
 \cf ɯ-pɤrthɤβ 
 
 \lx ɯ-pɤrthɤβ
@@ -72603,4 +72605,8 @@ l
 \cf tɤ-muj
 \cf pɣa
 
+\lx jmɤrtaʁ
+\n
+\ge espèce d'insecte
+\gn 虫子的一种
 
