@@ -4715,12 +4715,6 @@
 \gn 玛尼珠子
 \dt 05/May/2014
 
-\lx mphrɯɣtɕhɯla
-\ps n
-\ge manteau en poil de yak
-\gn 氆氇做的和衫
-\dt 18/Aug/2012
-
 \lx mphrɯmdɯt
 \ps n
 \ge groupe de neuf nœuds (sur un khatag ou avec un fil normal) 
@@ -8351,11 +8345,13 @@
 \ps n
 \ge habit que l'on rabat au niveau de l'épaule 
 \gn 大襟
+\et fn:大襟
 
 \lx talɤn
 \ps n
 \ge besace 
 \gn 褡裢 
+\et fn:褡裢
 
 \lx ta-ma
 \ps np
@@ -8403,6 +8399,7 @@
 \xn 你先来给我做工，然后我就来给你还工
 \xv ɯʑo kɯ a-taʁɤndu ɣɯ-ta-lɤt tɕe, aʑo ɯ-ʁɤndɤsi ɕe-a ra
 \xn 他先来给我做工，我要给他还工
+\cf andu
 \cf taʁɤndu
 \dt 16/Aug/2012
 
@@ -9095,8 +9092,12 @@
 
 \lx tɤ-rtsho
 \ps np
+\sn 1
 \ge surface de la partie coupée 
-\gn 锯过、砍过、剪过的口子、麦桩
+\gn 锯过、砍过、剪过的口子
+\sn 2 
+\ge éteule (de blé)
+\gn （麦）桩、（麦）茬
 \hbf plante 2
 \dt 24/Apr/2013
 
@@ -66821,8 +66822,7 @@ nɯ pjɯ-tɯ-βde nɯ tɯrme pjɯ-kɯ-si pjɤ-ŋgrɤl
 \ps n
 \ge fil très fin 
 \gn 丝 
-\xv ɕomskrɯt 
-\xn 铁丝
+\cf ɕomskrɯt
 \dt 29/Apr/2012
 
 \lx ^skɯrma
@@ -68071,6 +68071,7 @@ l
 \xv ɯʑo kɯ a-taʁɤndu ɣɯ-ta-lɤt tɕe, aʑo ɯ-ʁɤndɤsi ɕe-a ra
 \xn 他先来给我做工，我要给他还工
 \cf ta-ʁɤndɤsi
+\cf andu
 \dt 16/Aug/2012
 
 \lx ^ta-ʁi
@@ -72635,10 +72636,19 @@ l
 \ge habits tibétains
 \gn 藏装
 \cf tɯ-ŋga
+\cf kɯrɯ
 
 \lx kupaŋga
 \ps n
 \ge habits chinois / occidentaux
 \gn 汉装
 \cf tɯ-ŋga
+\cf kupa
+
+\lx ɕomskrɯt 
+\ps n
+\ge fil de fer
+\gn 铁丝
+\cf skrɯt 
+\cf ɕom
 
