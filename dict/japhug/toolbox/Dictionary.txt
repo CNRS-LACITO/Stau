@@ -22962,8 +22962,8 @@
 \ps vt
 \pdl dir 
 \pdv nɯ-
-\ge ajouter de l'huile
-\gn 加油
+\ge ajouter de l'huile ou du beurre
+\gn 加油，加酥油
 \xv tʂha ci nɯ-βzdar-a
 \xn 我在茶里加了酥油
 \xv tʂha pɯ-kɤ-βzdɤr
@@ -24886,7 +24886,7 @@
 \xv aʑo pɯ-fkro-t-a
 \xn 我布置了
 \xv aʑo nɯ-βzdɤr pjɯ-fkram-a
-\xn 我把（放在糌粑里的）酥油分给大家
+\xn 我把酥油分给大家
 \dt 26/Aug/2012
 
 \lx _fkrɯz
@@ -54898,8 +54898,8 @@
 \lx _tɤ-βzdɤr
 \wav n-tABzdAr
 \ps n
-\ge beurre que l'on met dans la tsampa
-\gn 加在糌粑上的酥油
+\ge beurre (que l'on met dans le thé ou la tsampa)
+\gn 加（在糌粑里、在茶里）的酥油
 \xv a-mu kɯ a-βzdɤr pa-lɤt
 \xn 母亲给我加了酥油
 \et sdor
