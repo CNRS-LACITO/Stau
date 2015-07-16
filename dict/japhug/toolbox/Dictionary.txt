@@ -47294,8 +47294,12 @@
 \pdv tɤ-
 \pdl dir 
 \pdv _
+\sn 1
 \ge mettre dans 
 \gn 装进 
+\sn 2
+\ge verser 
+\gn 倒进 
 \hbf 1810 <2> 1195 
 \xv laχtɕha khɯɣɲɟɯ ɯ-ŋgɯ nɯ-rku-t-a
 \xn 我把东西装进窗子里了
