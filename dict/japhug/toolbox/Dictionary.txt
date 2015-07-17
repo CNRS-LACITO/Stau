@@ -72717,8 +72717,8 @@ l
 \pdl dir
 \pdv kɤ-
 \ng incorp
-\ge en vouloir à, garder rancune 
-\gn 怀恨在心
+\ge en vouloir à, garder rancune envers
+\gn 对……怀恨在心
 \xv kɤ-nɤsnɯndo-t-a
 \xn 我对你怀恨在心
 \xv kɤ-kɯ-nɤsnɯndo-a
@@ -72740,3 +72740,7 @@ l
 \ge séparer (des gens qui se battent)
 \gn 劝开
 \cf ta
+
+\lx sɤtɯta
+\cf atɯta
+
