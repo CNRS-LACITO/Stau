@@ -55368,8 +55368,15 @@
 \ps vt
 \pdl dir 
 \pdv _
-\ge monter une tente, faire un pont, réparer un chemin 
-\gn 牵（线）、搭（桥、帐篷）、修（路） 
+\sn 1 
+\ge monter une tente, faire un pont 
+\gn 搭（桥、帐篷）
+\sn 2
+\ge construire une route
+\gn 修（路） 
+\sn 3
+\ge séparer les fils
+\gn 牵（线）
 \xv ndzom kɤ-thɯ-t-a
 \xn 我搭了桥
 \xv zgɤr pɯ-thɯ-t-a
@@ -55397,6 +55404,13 @@
 \xn 我耳背，听不清楚
 \xv ɯ-ku kɯ-mɲɤm ɲɯ-thɯ
 \xn 他头疼得很厉害 
+\se ɣɤthɯ 
+\ps vt
+\pdl dir 
+\pdv nɯ-
+\ng caus
+\ge aggraver 
+\gn 令……变得更严重
 \cf nɤxthɯ
 \dt 04/Dec/2012
 
@@ -72743,4 +72757,7 @@ l
 
 \lx sɤtɯta
 \cf atɯta
+
+\lx ɣɤthɯ
+\cf thɯ²
 
