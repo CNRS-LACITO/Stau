@@ -584,6 +584,8 @@
 \un |fv{ci ntsɯ}“一个也不漏”
 \xv khɯtsa tɯ-rdoʁ tɕe ci ntsɯ pjɤ-ta, maka mɯ-ɲɤ-sɤtɕɯtɕit 
 \xn 每一碗都放了一块，一个也没有漏掉
+\xv ci ɯ-mphru ci ʑo 
+\xn 一个接着一个
 \dt 19/Apr/2013
 
 \lx cici
