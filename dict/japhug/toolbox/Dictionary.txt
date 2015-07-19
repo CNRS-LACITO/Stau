@@ -30520,6 +30520,12 @@
 \xn 把这个东西打包了，遮住了
 \xv tɯ-ŋga tɤ-nga-t-a tɕe tɤ́-wɣ-sɯluj-a
 \xn 我穿了衣服，把我遮住了
+\se aluj 
+\ps vi 
+\pdl dir 
+\pdv tɤ-
+\ge être recouvert 
+\gn 被遮住，被裹起来
 \dt 04/Dec/2010
 
 \lx _lɯβ
@@ -72761,3 +72767,5 @@ l
 \lx ɣɤthɯ
 \cf thɯ²
 
+\lx _aluj 
+\cf luj
